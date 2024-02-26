@@ -1,0 +1,502 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: once-a-porn-a-time\n"
+"X-Crowdin-Project-ID: 651436\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /main/game/tl/crowdin/screens.po\n"
+"X-Crowdin-File-ID: 12962\n"
+"Project-Id-Version: once-a-porn-a-time\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Italian\n"
+"Language: it_IT\n"
+"PO-Revision-Date: 2024-02-26 09:13\n"
+
+# TODO: Translation updated at 2024-02-22 14:14 #|#|# # §translate crowdin strings: #|#|# # game/screens.rpy:256
+msgid "Back"
+msgstr ""
+
+# game/screens.rpy:257
+msgid "History"
+msgstr ""
+
+# game/screens.rpy:258
+msgid "Skip"
+msgstr ""
+
+# game/screens.rpy:259
+msgid "Auto"
+msgstr ""
+
+# game/screens.rpy:260
+msgid "Save"
+msgstr ""
+
+# game/screens.rpy:261
+msgid "Q.Save"
+msgstr ""
+
+# game/screens.rpy:262
+msgid "Q.Load"
+msgstr ""
+
+# game/screens.rpy:263
+msgid "Prefs"
+msgstr ""
+
+# game/screens.rpy:304
+msgid "Version [config.version!t]\n"
+msgstr ""
+
+# game/screens.rpy:311
+msgid "Conçu avec {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n"
+"[renpy.license!t]"
+msgstr ""
+
+# game/screens.rpy:315
+msgid "ICI CE TROUVE L'INVENTAIRE"
+msgstr ""
+
+# game/screens.rpy:316
+msgid "Retour"
+msgstr ""
+
+# game/screens.rpy:363
+msgid "ChangeLog"
+msgstr ""
+
+# game/screens.rpy:375
+msgid "Start"
+msgstr ""
+
+# game/screens.rpy:386
+msgid "Load"
+msgstr ""
+
+# game/screens.rpy:388
+msgid "Preferences"
+msgstr ""
+
+# game/screens.rpy:392
+msgid "End Replay"
+msgstr ""
+
+# game/screens.rpy:396
+msgid "Main Menu"
+msgstr ""
+
+# game/screens.rpy:398
+msgid "About"
+msgstr ""
+
+# game/screens.rpy:403
+msgid "Help"
+msgstr ""
+
+# game/screens.rpy:406
+msgid "Quit"
+msgstr ""
+
+# game/screens.rpy:408
+msgid "PATREON"
+msgstr ""
+
+# game/screens.rpy:412
+msgid "{color=#5b6568}{size=-10}^Check for Updates!^{/size}{/color}"
+msgstr ""
+
+# game/screens.rpy:580
+msgid "Return"
+msgstr ""
+
+# game/screens.rpy:670
+msgid "Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n"
+"[renpy.license!t]"
+msgstr ""
+
+# game/screens.rpy:675
+msgid "Thanks to all beta testers <3 "
+msgstr ""
+
+# game/screens.rpy:677
+msgid "Special Thanks to Kevin MacLeod for some of the musics : https://incompetech.filmmusic.io/ "
+msgstr ""
+
+# game/screens.rpy:679
+msgid "A big kiss to Pachi for the help with the english translation! "
+msgstr ""
+
+# game/screens.rpy:722
+msgid "Page {}"
+msgstr ""
+
+# game/screens.rpy:722
+msgid "Automatic saves"
+msgstr ""
+
+# game/screens.rpy:722
+msgid "Quick saves"
+msgstr ""
+
+# game/screens.rpy:764
+msgid "{#file_time}%A, %B %d %Y, %H:%M"
+msgstr ""
+
+# game/screens.rpy:764
+msgid "empty slot"
+msgstr ""
+
+# game/screens.rpy:781
+msgid "<"
+msgstr ""
+
+# game/screens.rpy:784
+msgid "{#auto_page}A"
+msgstr ""
+
+# game/screens.rpy:787
+msgid "{#quick_page}Q"
+msgstr ""
+
+# game/screens.rpy:793
+msgid ">"
+msgstr ""
+
+# game/screens.rpy:850
+msgid "Display"
+msgstr ""
+
+# game/screens.rpy:851
+msgid "Window"
+msgstr ""
+
+# game/screens.rpy:852
+msgid "Fullscreen"
+msgstr ""
+
+# game/screens.rpy:860
+msgid "Rollback Side"
+msgstr ""
+
+# game/screens.rpy:861
+msgid "Disable"
+msgstr ""
+
+# game/screens.rpy:862
+msgid "Left"
+msgstr ""
+
+# game/screens.rpy:863
+msgid "Right"
+msgstr ""
+
+# game/screens.rpy:868
+msgid "Unseen Text"
+msgstr ""
+
+# game/screens.rpy:869
+msgid "After Choices"
+msgstr ""
+
+# game/screens.rpy:870
+msgid "Transitions"
+msgstr ""
+
+# game/screens.rpy:894
+msgid "Text Speed"
+msgstr ""
+
+# game/screens.rpy:898
+msgid "Auto-Forward Time"
+msgstr ""
+
+# game/screens.rpy:905
+msgid "Music Volume"
+msgstr ""
+
+# game/screens.rpy:912
+msgid "Sound Volume"
+msgstr ""
+
+# game/screens.rpy:918
+msgid "Test"
+msgstr ""
+
+# game/screens.rpy:922
+msgid "Voice Volume"
+msgstr ""
+
+# game/screens.rpy:933
+msgid "Mute All"
+msgstr ""
+
+# game/screens.rpy:1052
+msgid "The dialogue history is empty."
+msgstr ""
+
+# game/screens.rpy:1122
+msgid "Keyboard"
+msgstr ""
+
+# game/screens.rpy:1123
+msgid "Mouse"
+msgstr ""
+
+# game/screens.rpy:1126
+msgid "Gamepad"
+msgstr ""
+
+# game/screens.rpy:1139
+msgid "Enter"
+msgstr ""
+
+# game/screens.rpy:1140
+msgid "Advances dialogue and activates the interface."
+msgstr ""
+
+# game/screens.rpy:1143
+msgid "Space"
+msgstr ""
+
+# game/screens.rpy:1144
+msgid "Advances dialogue without selecting choices."
+msgstr ""
+
+# game/screens.rpy:1147
+msgid "Arrow Keys"
+msgstr ""
+
+# game/screens.rpy:1148
+msgid "Navigate the interface."
+msgstr ""
+
+# game/screens.rpy:1151
+msgid "Escape"
+msgstr ""
+
+# game/screens.rpy:1152
+msgid "Accesses the game menu."
+msgstr ""
+
+# game/screens.rpy:1155
+msgid "Ctrl"
+msgstr ""
+
+# game/screens.rpy:1156
+msgid "Skips dialogue while held down."
+msgstr ""
+
+# game/screens.rpy:1159
+msgid "Tab"
+msgstr ""
+
+# game/screens.rpy:1160
+msgid "Toggles dialogue skipping."
+msgstr ""
+
+# game/screens.rpy:1163
+msgid "Page Up"
+msgstr ""
+
+# game/screens.rpy:1164
+msgid "Rolls back to earlier dialogue."
+msgstr ""
+
+# game/screens.rpy:1167
+msgid "Page Down"
+msgstr ""
+
+# game/screens.rpy:1168
+msgid "Rolls forward to later dialogue."
+msgstr ""
+
+# game/screens.rpy:1172
+msgid "Hides the user interface."
+msgstr ""
+
+# game/screens.rpy:1176
+msgid "Takes a screenshot."
+msgstr ""
+
+# game/screens.rpy:1180
+msgid "Toggles assistive {a=https://www.renpy.org/l/voicing}self-voicing{/a}."
+msgstr ""
+
+# game/screens.rpy:1186
+msgid "Left Click"
+msgstr ""
+
+# game/screens.rpy:1190
+msgid "Middle Click"
+msgstr ""
+
+# game/screens.rpy:1194
+msgid "Right Click"
+msgstr ""
+
+# game/screens.rpy:1198
+msgid "Mouse Wheel Up\n"
+"Click Rollback Side"
+msgstr ""
+
+# game/screens.rpy:1202
+msgid "Mouse Wheel Down"
+msgstr ""
+
+# game/screens.rpy:1209
+msgid "Right Trigger\n"
+"A/Bottom Button"
+msgstr ""
+
+# game/screens.rpy:1213
+msgid "Left Trigger\n"
+"Left Shoulder"
+msgstr ""
+
+# game/screens.rpy:1217
+msgid "Right Shoulder"
+msgstr ""
+
+# game/screens.rpy:1222
+msgid "D-Pad, Sticks"
+msgstr ""
+
+# game/screens.rpy:1226
+msgid "Start, Guide"
+msgstr ""
+
+# game/screens.rpy:1230
+msgid "Y/Top Button"
+msgstr ""
+
+# game/screens.rpy:1233
+msgid "Calibrate"
+msgstr ""
+
+# game/screens.rpy:1298
+msgid "Yes"
+msgstr ""
+
+# game/screens.rpy:1299
+msgid "No"
+msgstr ""
+
+# game/screens.rpy:1345
+msgid "Skipping"
+msgstr ""
+
+# game/screens.rpy:1568
+msgid "Menu"
+msgstr ""
+
+# game/screens.rpy:1662
+msgid "Developer Menu"
+msgstr ""
+
+# game/screens.rpy:1667
+msgid "Interactive Director (D)"
+msgstr ""
+
+# game/screens.rpy:1669
+msgid "Reload Game (Shift+R)"
+msgstr ""
+
+# game/screens.rpy:1671
+msgid "Console (Shift+O)"
+msgstr ""
+
+# game/screens.rpy:1673
+msgid "Variable Viewer"
+msgstr ""
+
+# game/screens.rpy:1675
+msgid "Image Location Picker"
+msgstr ""
+
+# game/screens.rpy:1677
+msgid "Filename List"
+msgstr ""
+
+# game/screens.rpy:1681
+msgid "Show Image Load Log (F4)"
+msgstr ""
+
+# game/screens.rpy:1684
+msgid "Hide Image Load Log (F4)"
+msgstr ""
+
+# game/screens.rpy:1687
+msgid "Image Attributes"
+msgstr ""
+
+# game/screens.rpy:1714
+msgid "[name] [attributes] (hidden)"
+msgstr ""
+
+# game/screens.rpy:1718
+msgid "[name] [attributes]"
+msgstr ""
+
+# game/screens.rpy:1767
+msgid "Nothing to inspect."
+msgstr ""
+
+# game/screens.rpy:1778
+msgid "Hide deleted"
+msgstr ""
+
+# game/screens.rpy:1778
+msgid "Show deleted"
+msgstr ""
+
+# game/screens.rpy:1902
+msgid "Return to the developer menu"
+msgstr ""
+
+# game/screens.rpy:2067
+msgid "Rectangle: %r"
+msgstr ""
+
+# game/screens.rpy:2072
+msgid "Mouse position: %r"
+msgstr ""
+
+# game/screens.rpy:2077
+msgid "Right-click or escape to quit."
+msgstr ""
+
+# game/screens.rpy:2109
+msgid "Rectangle copied to clipboard."
+msgstr ""
+
+# game/screens.rpy:2112
+msgid "Position copied to clipboard."
+msgstr ""
+
+# game/screens.rpy:2130
+msgid "Type to filter: "
+msgstr ""
+
+# game/screens.rpy:2255
+msgid "Textures: [tex_count] ([tex_size_mb:.1f] MB)"
+msgstr ""
+
+# game/screens.rpy:2259
+msgid "Image cache: [cache_pct:.1f]% ([cache_size_mb:.1f] MB)"
+msgstr ""
+
+# game/screens.rpy:2269
+msgid "✔ "
+msgstr ""
+
+# game/screens.rpy:2272
+msgid "✘ "
+msgstr ""
+
+# game/screens.rpy:2277
+msgid "\n"
+"{color=#cfc}✔ predicted image (good){/color}\n"
+"{color=#fcc}✘ unpredicted image (bad){/color}\n"
+"{color=#fff}Drag to move.{/color}"
+msgstr ""
+
