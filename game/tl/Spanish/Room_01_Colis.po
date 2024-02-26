@@ -1,0 +1,63 @@
+msgid ""
+msgstr ""
+" You receive: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: once-a-porn-a-time\n"
+"X-Crowdin-Project-ID: 651436\n"
+"X-Crowdin-Language: es-ES\n"
+"X-Crowdin-File: /main/game/tl/crowdin/Room_01_Colis.po\n"
+"X-Crowdin-File-ID: 12928\n"
+"Project-Id-Version: once-a-porn-a-time\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Spanish\n"
+"Language: es_ES\n"
+"PO-Revision-Date: 2024-02-26 09:12\n"
+
+# TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Room_01_Colis.rpy:2 #-#-# translate crowdin Room01_ColisArrived_033b8e73:
+msgid " You receive: "
+msgstr ""
+
+# game/Room_01_Colis.rpy:7 #-#-# translate crowdin Room01_ColisArrived_4b2aeaa1:
+msgid "([COLIS_OBJECT_01]) Apple Basket !"
+msgstr ""
+
+# game/Room_01_Colis.rpy:15 #-#-# translate crowdin Room01_ColisArrived_255304ca:
+msgid "([COLIS_OBJECT_02]) Drone Energy Boost 3AP !"
+msgstr ""
+
+# game/Room_01_Colis.rpy:16 #-#-# translate crowdin Room01_ColisArrived_0b9127ea:
+msgid " Use the Drone device to use your boost !"
+msgstr ""
+
+# game/Room_01_Colis.rpy:24 #-#-# translate crowdin Room01_ColisArrived_7edf4b2e:
+msgid "([COLIS_OBJECT_03]) Clothes Scrap !"
+msgstr ""
+
+# game/Room_01_Colis.rpy:32 #-#-# translate crowdin Room01_ColisArrived_d0965dde:
+msgid "([COLIS_OBJECT_04]) Apple Candy !"
+msgstr ""
+
+# game/Room_01_Colis.rpy:40 #-#-# translate crowdin Room01_ColisArrived_4bdff54e:
+msgid "([COLIS_OBJECT_05]) Apple Cider !"
+msgstr ""
+
+# game/Room_01_Colis.rpy:48 #-#-# translate crowdin Room01_ColisArrived_8a7a6261:
+msgid "([COLIS_OBJECT_06]) Big Old-Fashioned Cookbook !"
+msgstr ""
+
+# game/Room_01_Colis.rpy:56 #-#-# translate crowdin Room01_ColisArrived_4acc7f39:
+msgid "([COLIS_OBJECT_07]) Cupid apple basket !"
+msgstr ""
+
+# game/Room_01_Colis.rpy:64 #-#-# translate crowdin Room01_ColisArrived_636c2261:
+msgid "([COLIS_OBJECT_08]) Drone Energy Boost 5AP !"
+msgstr ""
+
+# game/Room_01_Colis.rpy:65 #-#-# translate crowdin Room01_ColisArrived_0b9127ea_1:
+msgid " Use the Drone device to use your boost !"
+msgstr ""
+
+# game/Room_01_Colis.rpy:73 #-#-# translate crowdin Room01_ColisArrived_2dd7a7ae:
+msgid "([COLIS_OBJECT_09]) Emergency Energy Cell !"
+msgstr ""
+
