@@ -1,0 +1,1154 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: once-a-porn-a-time\n"
+"X-Crowdin-Project-ID: 651436\n"
+"X-Crowdin-Language: zh-CN\n"
+"X-Crowdin-File: /main/game/tl/crowdin/Cell01_BA.po\n"
+"X-Crowdin-File-ID: 12900\n"
+"Project-Id-Version: once-a-porn-a-time\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Chinese Simplified\n"
+"Language: zh_CN\n"
+"PO-Revision-Date: 2024-02-26 13:30\n"
+
+# TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_BA.rpy:50 #-#-# translate crowdin CHARA_BA_Menu01_98aea068:
+msgid "[_ba_]  ... "
+msgstr ""
+
+# game/Cell01_BA.rpy:53 #-#-# translate crowdin CHARA_BA_Menu01_658d3e7b:
+msgid "[_ba_]  Oh, not you again..."
+msgstr ""
+
+# game/Cell01_BA.rpy:61 #-#-# translate crowdin CHARA_BA_Menu01_68a0dc42:
+msgid "[_ba_] Greetings [name]. "
+msgstr ""
+
+# game/Cell01_BA.rpy:68 #-#-# translate crowdin CHARA_BA_MenuChoice_ee462d5f:
+msgid "AVAILABLE AT THE UPCOMING UPDATE"
+msgstr ""
+
+# game/Cell01_BA.rpy:96 #-#-# translate crowdin CHARA_BA_MenuChoice_FAVORS2_ee462d5f:
+msgid "AVAILABLE AT THE UPCOMING UPDATE"
+msgstr ""
+
+# game/Cell01_BA.rpy:105 #-#-# translate crowdin CHARA_BA_MenuChoice_FAVORS2_6d7b7b4a:
+msgid "[_u_] See you later."
+msgstr ""
+
+# game/Cell01_BA.rpy:107 #-#-# translate crowdin CHARA_BA_MenuChoice_FAVORS2_3dfd4a8f:
+msgid "[_sz_] Yeah, see ya."
+msgstr ""
+
+# game/Cell01_BA.rpy:127 #-#-# translate crowdin Quest_BA_Favor_Boobs_01_44976c9b:
+msgid "[_ba_] That I show you... what?"
+msgstr ""
+
+# game/Cell01_BA.rpy:129 #-#-# translate crowdin Quest_BA_Favor_Boobs_01_0232476c:
+msgid "[_ba_] Why would I do that? "
+msgstr ""
+
+# game/Cell01_BA.rpy:130 #-#-# translate crowdin Quest_BA_Favor_Boobs_01_9a9841bf:
+msgid "[_u_] To make you sexually debauched. To be able to make your wish to the Djin. "
+msgstr ""
+
+# game/Cell01_BA.rpy:132 #-#-# translate crowdin Quest_BA_Favor_Boobs_01_f7106acc:
+msgid "[_ba_] And really... you think the best way to achieve this is for me to..."
+msgstr ""
+
+# game/Cell01_BA.rpy:134 #-#-# translate crowdin Quest_BA_Favor_Boobs_01_809c1fc3:
+msgid "[_ba_] ...show my breasts?"
+msgstr ""
+
+# game/Cell01_BA.rpy:136 #-#-# translate crowdin Quest_BA_Favor_Boobs_01_6ee176e9:
+msgid "[_ba_] You're not making any sense. "
+msgstr ""
+
+# game/Cell01_BA.rpy:138 #-#-# translate crowdin Quest_BA_Favor_Boobs_01_fc00459a:
+msgid "[_ba_] I don't know what kind of imbecile would believe such nonsense. "
+msgstr ""
+
+# game/Cell01_BA.rpy:139 #-#-# translate crowdin Quest_BA_Favor_Boobs_01_cc71eb9a:
+msgid "[_u_] Mh."
+msgstr ""
+
+# game/Cell01_BA.rpy:140 #-#-# translate crowdin Quest_BA_Favor_Boobs_01_fea7915a:
+msgid "[_u_] Got a problem with nudity?"
+msgstr ""
+
+# game/Cell01_BA.rpy:142 #-#-# translate crowdin Quest_BA_Favor_Boobs_01_0036ca5c:
+msgid "[_ba_] Absolutely not. "
+msgstr ""
+
+# game/Cell01_BA.rpy:143 #-#-# translate crowdin Quest_BA_Favor_Boobs_01_15376318:
+msgid "[_u_] Because when I see you reluctant to show your own breasts... "
+msgstr ""
+
+# game/Cell01_BA.rpy:145 #-#-# translate crowdin Quest_BA_Favor_Boobs_01_3204983f:
+msgid "[_u_] You'd think the queen of thieves was also the queen of modesty. "
+msgstr ""
+
+# game/Cell01_BA.rpy:147 #-#-# translate crowdin Quest_BA_Favor_Boobs_01_7611efb4:
+msgid "[_ba_] ..."
+msgstr ""
+
+# game/Cell01_BA.rpy:149 #-#-# translate crowdin Quest_BA_Favor_Boobs_01_d9f0a406:
+msgid "[_ba_] You're lucky I need you to be a sultana."
+msgstr ""
+
+# game/Cell01_BA.rpy:151 #-#-# translate crowdin Quest_BA_Favor_Boobs_01_ca549b72:
+msgid "[_ba_] Otherwise you'd already have had your tongue cut out and... "
+msgstr ""
+
+# game/Cell01_BA.rpy:152 #-#-# translate crowdin Quest_BA_Favor_Boobs_01_08840377:
+msgid "[_u_] ...and thrown into the desert. Yes, I know. "
+msgstr ""
+
+# game/Cell01_BA.rpy:154 #-#-# translate crowdin Quest_BA_Favor_Boobs_01_2e2af925:
+msgid "[_ba_] Mhf..."
+msgstr ""
+
+# game/Cell01_BA.rpy:155 #-#-# translate crowdin Quest_BA_Favor_Boobs_01_6bd09af9:
+msgid "[_u_] So... why don't you show me your breasts? "
+msgstr ""
+
+# game/Cell01_BA.rpy:157 #-#-# translate crowdin Quest_BA_Favor_Boobs_01_e671fb7b:
+msgid "[_ba_] You don't deserve to see my fabulous breasts. "
+msgstr ""
+
+# game/Cell01_BA.rpy:159 #-#-# translate crowdin Quest_BA_Favor_Boobs_01_6b946cf7:
+msgid "[_ba_] I am, after all, a future sultana."
+msgstr ""
+
+# game/Cell01_BA.rpy:161 #-#-# translate crowdin Quest_BA_Favor_Boobs_01_b34f3d5e:
+msgid "[_ba_] The breasts of a sultana are one of the most sacred things in this kingdom. "
+msgstr ""
+
+# game/Cell01_BA.rpy:163 #-#-# translate crowdin Quest_BA_Favor_Boobs_01_961c5d93:
+msgid "[_ba_] Let someone like you see them... Mh... it would be punishable by death. "
+msgstr ""
+
+# game/Cell01_BA.rpy:164 #-#-# translate crowdin Quest_BA_Favor_Boobs_01_626e5ff9:
+msgid "[_u_] Except that you'll never be a sultana if I don't see some breasts... "
+msgstr ""
+
+# game/Cell01_BA.rpy:166 #-#-# translate crowdin Quest_BA_Favor_Boobs_01_b1c0176c:
+msgid "[_ba_] I definitely don't like the way you talk."
+msgstr ""
+
+# game/Cell01_BA.rpy:168 #-#-# translate crowdin Quest_BA_Favor_Boobs_01_5d640317:
+msgid "[_ba_] What have I done to the gods to deserve this?"
+msgstr ""
+
+# game/Cell01_BA.rpy:170 #-#-# translate crowdin Quest_BA_Favor_Boobs_01_5f4525c1:
+msgid "[_ba_] Mhr..."
+msgstr ""
+
+# game/Cell01_BA.rpy:173 #-#-# translate crowdin Quest_BA_Favor_Boobs_01_5735afcb:
+msgid "[_ba_] Come back later, you little pervert."
+msgstr ""
+
+# game/Cell01_BA.rpy:175 #-#-# translate crowdin Quest_BA_Favor_Boobs_01_e7743dcf:
+msgid "[_u_] Great."
+msgstr ""
+
+# game/Cell01_BA.rpy:176 #-#-# translate crowdin Quest_BA_Favor_Boobs_01_06a4f055:
+msgid "[_u_] Tinker... I'm really asking you as a favor... Is it possible to have a simple corruption one day? "
+msgstr ""
+
+# game/Cell01_BA.rpy:184 #-#-# translate crowdin Quest_BA_Favor_Boobs_01_9db7b342:
+msgid "[_tb_] Hey, man, if that was the case, I wouldn't need you."
+msgstr ""
+
+# game/Cell01_BA.rpy:186 #-#-# translate crowdin Quest_BA_Favor_Boobs_01_967f49fe:
+msgid "[_u_] Really? I thought you hired me for my incredible charm. "
+msgstr ""
+
+# game/Cell01_BA.rpy:188 #-#-# translate crowdin Quest_BA_Favor_Boobs_01_7d4d6de6:
+msgid "[_tb_] A few more chats with her and I'm sure you'll be fucking her!"
+msgstr ""
+
+# game/Cell01_BA.rpy:189 #-#-# translate crowdin Quest_BA_Favor_Boobs_01_aeba7780:
+msgid "[_u_] Want to bet on something? "
+msgstr ""
+
+# game/Cell01_BA.rpy:191 #-#-# translate crowdin Quest_BA_Favor_Boobs_01_24b6d96a:
+msgid "[_tb_] Absolutely not."
+msgstr ""
+
+# game/Cell01_BA.rpy:212 #-#-# translate crowdin Quest_BA_App01_01_033285f3:
+msgid "[_u_] Hello? Mrs Ali? "
+msgstr ""
+
+# game/Cell01_BA.rpy:214 #-#-# translate crowdin Quest_BA_App01_01_7b1c1392:
+msgid "[_u_] ..."
+msgstr ""
+
+# game/Cell01_BA.rpy:215 #-#-# translate crowdin Quest_BA_App01_01_20ecf295:
+msgid "[_u_] Mrs Baba?"
+msgstr ""
+
+# game/Cell01_BA.rpy:223 #-#-# translate crowdin Quest_BA_App01_01_8fdb5164:
+msgid "[_ba_] I warn you, I don't appreciate nicknames. "
+msgstr ""
+
+# game/Cell01_BA.rpy:225 #-#-# translate crowdin Quest_BA_App01_01_15d56340:
+msgid "[_ba_] Call me Ali-Baba or keep your mouth shut. "
+msgstr ""
+
+# game/Cell01_BA.rpy:227 #-#-# translate crowdin Quest_BA_App01_01_d772eeb4:
+msgid "[_ba_] ...Or you can call me ''Queen of Thieves''. "
+msgstr ""
+
+# game/Cell01_BA.rpy:229 #-#-# translate crowdin Quest_BA_App01_01_94233455:
+msgid "[_ba_] It's a title I particularly appreciate. "
+msgstr ""
+
+# game/Cell01_BA.rpy:230 #-#-# translate crowdin Quest_BA_App01_01_1257cdc6:
+msgid "[_u_] Yeah... I'm not a fan of Titles... let's go for Ali-Baba. "
+msgstr ""
+
+# game/Cell01_BA.rpy:232 #-#-# translate crowdin Quest_BA_App01_01_7496e3b5:
+msgid "[_ba_] Are you going to talk about titles and names for much longer, or shall we get down to business? "
+msgstr ""
+
+# game/Cell01_BA.rpy:233 #-#-# translate crowdin Quest_BA_App01_01_c896d450:
+msgid "[_u_] All right... if you want to talk about serious things... let's talk about serious things."
+msgstr ""
+
+# game/Cell01_BA.rpy:235 #-#-# translate crowdin Quest_BA_App01_01_714f5f70:
+msgid "[_u_] I've figured out how to make you a Sultana. "
+msgstr ""
+
+# game/Cell01_BA.rpy:237 #-#-# translate crowdin Quest_BA_App01_01_c7a0113c:
+msgid "[_ba_] Oh, really?"
+msgstr ""
+
+# game/Cell01_BA.rpy:239 #-#-# translate crowdin Quest_BA_App01_01_704ad8f6:
+msgid "[_ba_] And what is this miracle plan? "
+msgstr ""
+
+# game/Cell01_BA.rpy:241 #-#-# translate crowdin Quest_BA_App01_01_d4bb73a1:
+msgid "[_ba_] Have you convinced Sherazade to abdicate? "
+msgstr ""
+
+# game/Cell01_BA.rpy:243 #-#-# translate crowdin Quest_BA_App01_01_f8dcf2d3:
+msgid "[_ba_] Or are you some kind of magician?"
+msgstr ""
+
+# game/Cell01_BA.rpy:244 #-#-# translate crowdin Quest_BA_App01_01_7385b207:
+msgid "[_u_] Indeed, it's something of a magic solution."
+msgstr ""
+
+# game/Cell01_BA.rpy:246 #-#-# translate crowdin Quest_BA_App01_01_5f46ef61:
+msgid "[_ba_] Do you think I'm stupid? "
+msgstr ""
+
+# game/Cell01_BA.rpy:248 #-#-# translate crowdin Quest_BA_App01_01_099192e2:
+msgid "[_ba_] Why did I trust this Aladdin... "
+msgstr ""
+
+# game/Cell01_BA.rpy:250 #-#-# translate crowdin Quest_BA_App01_01_de4c53da:
+msgid "[_ba_] Admit it, you're not Shérazade's Vizier, but her buffoon. "
+msgstr ""
+
+# game/Cell01_BA.rpy:251 #-#-# translate crowdin Quest_BA_App01_01_2bcc88db:
+msgid "[_u_] I'm Grand Vizier, not Vizier. "
+msgstr ""
+
+# game/Cell01_BA.rpy:253 #-#-# translate crowdin Quest_BA_App01_01_1e0eaa41:
+msgid "[_ba_] I thought you didn't like titles. "
+msgstr ""
+
+# game/Cell01_BA.rpy:254 #-#-# translate crowdin Quest_BA_App01_01_b3fb2eaf:
+msgid "[_u_] Here, take this. "
+msgstr ""
+
+# game/Cell01_BA.rpy:263 #-#-# translate crowdin Quest_BA_App01_01_8c2bc9da:
+msgid "[_ba_] ?"
+msgstr ""
+
+# game/Cell01_BA.rpy:265 #-#-# translate crowdin Quest_BA_App01_01_8028ec4c:
+msgid "[_ba_] What is it? "
+msgstr ""
+
+# game/Cell01_BA.rpy:266 #-#-# translate crowdin Quest_BA_App01_01_a3c5334c:
+msgid "[_u_] A lamp."
+msgstr ""
+
+# game/Cell01_BA.rpy:268 #-#-# translate crowdin Quest_BA_App01_01_f87cfb63:
+msgid "[_ba_] Yes, I guessed that... "
+msgstr ""
+
+# game/Cell01_BA.rpy:270 #-#-# translate crowdin Quest_BA_App01_01_83442750:
+msgid "[_ba_] My goodness, I'm surrounded by idiots."
+msgstr ""
+
+# game/Cell01_BA.rpy:271 #-#-# translate crowdin Quest_BA_App01_01_e8f5d7e7:
+msgid "[_u_] A magic lamp, to be exact. "
+msgstr ""
+
+# game/Cell01_BA.rpy:273 #-#-# translate crowdin Quest_BA_App01_01_7611efb4:
+msgid "[_ba_] ..."
+msgstr ""
+
+# game/Cell01_BA.rpy:275 #-#-# translate crowdin Quest_BA_App01_01_921abd65:
+msgid "[_ba_] I can't decide whether to give you a taste of my sword, or leave you in the middle of the desert. "
+msgstr ""
+
+# game/Cell01_BA.rpy:276 #-#-# translate crowdin Quest_BA_App01_01_b81c407a:
+msgid "[_u_] What if it's true? What will you do? "
+msgstr ""
+
+# game/Cell01_BA.rpy:278 #-#-# translate crowdin Quest_BA_App01_01_1f61ba70:
+msgid "[_ba_] You'll have escaped the desert - that's a good start, isn't it? "
+msgstr ""
+
+# game/Cell01_BA.rpy:280 #-#-# translate crowdin Quest_BA_App01_01_52774167:
+msgid "[_ba_] So you think this thing is magic? "
+msgstr ""
+
+# game/Cell01_BA.rpy:282 #-#-# translate crowdin Quest_BA_App01_01_3ed97df5:
+msgid "[_ba_] And you expect me to believe that like... a djin is stuck in there? "
+msgstr ""
+
+# game/Cell01_BA.rpy:283 #-#-# translate crowdin Quest_BA_App01_01_07c612b3:
+msgid "[_u_] Well..."
+msgstr ""
+
+# game/Cell01_BA.rpy:294 #-#-# translate crowdin Quest_BA_App01_01_795609eb:
+msgid "[_ba_] So you weren't kidding... "
+msgstr ""
+
+# game/Cell01_BA.rpy:296 #-#-# translate crowdin Quest_BA_App01_01_5ffe1480:
+msgid "[_ba_] That's..."
+msgstr ""
+
+# game/Cell01_BA.rpy:297 #-#-# translate crowdin Quest_BA_App01_01_7611efb4_1:
+msgid "[_ba_] ..."
+msgstr ""
+
+# game/Cell01_BA.rpy:300 #-#-# translate crowdin Quest_BA_App01_01_c0ed89e7:
+msgid "[_ba_] That's pretty cool."
+msgstr ""
+
+# game/Cell01_BA.rpy:302 #-#-# translate crowdin Quest_BA_App01_01_c85d86d3:
+msgid "[_ba_] Maybe you're not so useless after all!"
+msgstr ""
+
+# game/Cell01_BA.rpy:305 #-#-# translate crowdin Quest_BA_App01_01_85fcd0e5:
+msgid "[_ba_] So... I have three wishes, right? "
+msgstr ""
+
+# game/Cell01_BA.rpy:307 #-#-# translate crowdin Quest_BA_App01_01_bd4a0ea6:
+msgid "[_dj_] Uh... I..."
+msgstr ""
+
+# game/Cell01_BA.rpy:309 #-#-# translate crowdin Quest_BA_App01_01_5ace2fe3:
+msgid "[_ba_] First of all, I wish I had all the gold in the kingdom."
+msgstr ""
+
+# game/Cell01_BA.rpy:311 #-#-# translate crowdin Quest_BA_App01_01_e703a6fb:
+msgid "[_ba_] And secondly I wish to be the Sultana of this kingdom and replace Sherazade!"
+msgstr ""
+
+# game/Cell01_BA.rpy:313 #-#-# translate crowdin Quest_BA_App01_01_847536df:
+msgid "[_dj_] Oh dear, that's an ambitious woman!"
+msgstr ""
+
+# game/Cell01_BA.rpy:316 #-#-# translate crowdin Quest_BA_App01_01_fdbd526d:
+msgid "[_dj_] You're aware that if I follow your wishes to the letter... you'll be in for a big surprise? "
+msgstr ""
+
+# game/Cell01_BA.rpy:318 #-#-# translate crowdin Quest_BA_App01_01_9a5d901f:
+msgid "[_ba_] What do you mean?"
+msgstr ""
+
+# game/Cell01_BA.rpy:320 #-#-# translate crowdin Quest_BA_App01_01_083354ce:
+msgid "[_dj_] If I follow your wishes precisely... "
+msgstr ""
+
+# game/Cell01_BA.rpy:322 #-#-# translate crowdin Quest_BA_App01_01_4364339b:
+msgid "[_dj_] For your first wish, you could find yourself buried under a pile of gold."
+msgstr ""
+
+# game/Cell01_BA.rpy:325 #-#-# translate crowdin Quest_BA_App01_01_0fb4584a:
+msgid "[_dj_] ( It's a classic I'm particularly fond of ~ )"
+msgstr ""
+
+# game/Cell01_BA.rpy:328 #-#-# translate crowdin Quest_BA_App01_01_29665228:
+msgid "[_dj_] And for the second one... I could very well change your body with Sherazade. "
+msgstr ""
+
+# game/Cell01_BA.rpy:330 #-#-# translate crowdin Quest_BA_App01_01_9f8044a3:
+msgid "[_ba_] What? NO!"
+msgstr ""
+
+# game/Cell01_BA.rpy:331 #-#-# translate crowdin Quest_BA_App01_01_60ce351d:
+msgid "[_u_] Oh yes! I love body swapping. "
+msgstr ""
+
+# game/Cell01_BA.rpy:333 #-#-# translate crowdin Quest_BA_App01_01_13f6f189:
+msgid "[_ba_] No, wait! I want to change my wishes!!!"
+msgstr ""
+
+# game/Cell01_BA.rpy:335 #-#-# translate crowdin Quest_BA_App01_01_d474590f:
+msgid "[_dj_] Is that another wish?"
+msgstr ""
+
+# game/Cell01_BA.rpy:337 #-#-# translate crowdin Quest_BA_App01_01_b0295ad8:
+msgid "[_dj_] Because if that's the case, you've got none left. "
+msgstr ""
+
+# game/Cell01_BA.rpy:340 #-#-# translate crowdin Quest_BA_App01_01_ea1b20bc:
+msgid "[_ba_] Oh my God... I can't believe it..."
+msgstr ""
+
+# game/Cell01_BA.rpy:341 #-#-# translate crowdin Quest_BA_App01_01_d8225a01:
+msgid "[_u_] Well, that was quick. "
+msgstr ""
+
+# game/Cell01_BA.rpy:343 #-#-# translate crowdin Quest_BA_App01_01_62c16060:
+msgid "[_ba_] By the great sea of sand... I cannot believe it... "
+msgstr ""
+
+# game/Cell01_BA.rpy:345 #-#-# translate crowdin Quest_BA_App01_01_2d2ab977:
+msgid "[_dj_] If you like, I can grant you one last wish. But... "
+msgstr ""
+
+# game/Cell01_BA.rpy:347 #-#-# translate crowdin Quest_BA_App01_01_2ab0687c:
+msgid "[_ba_] Let me know. I'm up to anything."
+msgstr ""
+
+# game/Cell01_BA.rpy:349 #-#-# translate crowdin Quest_BA_App01_01_5a47299b:
+msgid "[_dj_] But I can only grant this extra-ordinary wish to an exceptionally... debauched person. "
+msgstr ""
+
+# game/Cell01_BA.rpy:351 #-#-# translate crowdin Quest_BA_App01_01_c5f985df:
+msgid "[_ba_] I'm the queen of thieves, I'm not really a pure soul, you know..."
+msgstr ""
+
+# game/Cell01_BA.rpy:353 #-#-# translate crowdin Quest_BA_App01_01_cae0adf1:
+msgid "[_dj_] I mean... sexually debauched. "
+msgstr ""
+
+# game/Cell01_BA.rpy:356 #-#-# translate crowdin Quest_BA_App01_01_11c85d96:
+msgid "[_ba_] What?!"
+msgstr ""
+
+# game/Cell01_BA.rpy:358 #-#-# translate crowdin Quest_BA_App01_01_6d07bb58:
+msgid "[_ba_] I... mh... "
+msgstr ""
+
+# game/Cell01_BA.rpy:360 #-#-# translate crowdin Quest_BA_App01_01_6765fc92:
+msgid "[_ba_] What should I do? "
+msgstr ""
+
+# game/Cell01_BA.rpy:362 #-#-# translate crowdin Quest_BA_App01_01_a66d3af8:
+msgid "[_dj_] To fulfill this last wish, you'll have to..."
+msgstr ""
+
+# game/Cell01_BA.rpy:364 #-#-# translate crowdin Quest_BA_App01_01_1610f5d8:
+msgid "[_dj_] ...do whatever this man tells you. "
+msgstr ""
+
+# game/Cell01_BA.rpy:366 #-#-# translate crowdin Quest_BA_App01_01_ee6c6612:
+msgid "[_ba_] WHAT? What kind of crappy condition is that? "
+msgstr ""
+
+# game/Cell01_BA.rpy:368 #-#-# translate crowdin Quest_BA_App01_01_13b73d7f:
+msgid "[_dj_] Do you question my word, mere mortal? "
+msgstr ""
+
+# game/Cell01_BA.rpy:370 #-#-# translate crowdin Quest_BA_App01_01_7611efb4_2:
+msgid "[_ba_] ..."
+msgstr ""
+
+# game/Cell01_BA.rpy:372 #-#-# translate crowdin Quest_BA_App01_01_d52c27be:
+msgid "[_dj_] As long as your soul is pure, you won't have your wish!"
+msgstr ""
+
+# game/Cell01_BA.rpy:374 #-#-# translate crowdin Quest_BA_App01_01_75b99d16:
+msgid "[_dj_] {cps=100}{color=#ff2929} {font=BLKCHCRY.ttf} {size=35}-I Have Spoken!-{/size} {/font=BLKCHCRY.ttf} {/color}{/cps}"
+msgstr ""
+
+# game/Cell01_BA.rpy:383 #-#-# translate crowdin Quest_BA_App01_01_839f53aa:
+msgid "[_ba_] ?!"
+msgstr ""
+
+# game/Cell01_BA.rpy:385 #-#-# translate crowdin Quest_BA_App01_01_efde920a:
+msgid "[_ba_] Is this some kind of joke?!"
+msgstr ""
+
+# game/Cell01_BA.rpy:386 #-#-# translate crowdin Quest_BA_App01_01_3b497a54:
+msgid "[_u_] I don't think so."
+msgstr ""
+
+# game/Cell01_BA.rpy:388 #-#-# translate crowdin Quest_BA_App01_01_b7f05726:
+msgid "[_ba_] No way... I'm not going to... follow your instructions blindly until I get my wish?!"
+msgstr ""
+
+# game/Cell01_BA.rpy:389 #-#-# translate crowdin Quest_BA_App01_01_5a52348b:
+msgid "[_u_] So the Queen of Thieves is afraid of some small, depraved sex act?"
+msgstr ""
+
+# game/Cell01_BA.rpy:391 #-#-# translate crowdin Quest_BA_App01_01_2d7039c9:
+msgid "[_ba_] That's not what I said."
+msgstr ""
+
+# game/Cell01_BA.rpy:392 #-#-# translate crowdin Quest_BA_App01_01_4e1ec6e2:
+msgid "[_u_] Great! Then it'll be a piece of cake for you!"
+msgstr ""
+
+# game/Cell01_BA.rpy:394 #-#-# translate crowdin Quest_BA_App01_01_7611efb4_3:
+msgid "[_ba_] ..."
+msgstr ""
+
+# game/Cell01_BA.rpy:395 #-#-# translate crowdin Quest_BA_App01_01_88fbf8c4:
+msgid "[_u_] Don't worry, sweetheart, it's not my first time. "
+msgstr ""
+
+# game/Cell01_BA.rpy:397 #-#-# translate crowdin Quest_BA_App01_01_3d3d4435:
+msgid "[_ba_] Gosh... I hope this thing works... "
+msgstr ""
+
+# game/Cell01_BA.rpy:399 #-#-# translate crowdin Quest_BA_App01_01_21342620:
+msgid "[_ba_] Because if it doesn't work... I promise I'll leave you in the middle of the desert. "
+msgstr ""
+
+# game/Cell01_BA.rpy:401 #-#-# translate crowdin Quest_BA_App01_01_d6e187ba:
+msgid "[_ba_] And this time I'm not kidding. "
+msgstr ""
+
+# game/Cell01_BA.rpy:402 #-#-# translate crowdin Quest_BA_App01_01_79336e4b:
+msgid "[_u_] Ah... because you were joking the first time? "
+msgstr ""
+
+# game/Cell01_BA.rpy:404 #-#-# translate crowdin Quest_BA_App01_01_94a97619:
+msgid "[_ba_] I never joke. "
+msgstr ""
+
+# game/Cell01_BA.rpy:405 #-#-# translate crowdin Quest_BA_App01_01_c38ef83e:
+msgid "[_u_] It makes no sense."
+msgstr ""
+
+# game/Cell01_BA.rpy:407 #-#-# translate crowdin Quest_BA_App01_01_5a83b267:
+msgid "[_ba_] I'll see you tomorrow [name]..."
+msgstr ""
+
+# game/Cell01_BA.rpy:415 #-#-# translate crowdin Quest_BA_Ask01_5ae1c955:
+msgid "[_ba_] The question would be... why wouldn't I want to? "
+msgstr ""
+
+# game/Cell01_BA.rpy:417 #-#-# translate crowdin Quest_BA_Ask01_a24a7e6b:
+msgid "[_ba_] Sherazade's tyranny must come to an end sooner or later."
+msgstr ""
+
+# game/Cell01_BA.rpy:419 #-#-# translate crowdin Quest_BA_Ask01_fc81f237:
+msgid "[_ba_] And the sooner the better. Especially if it's me who ends up with my ass on her throne. "
+msgstr ""
+
+# game/Cell01_BA.rpy:421 #-#-# translate crowdin Quest_BA_Ask01_f75772de:
+msgid "[_ba_] Besides... I'd make a better Sultana than her. That's for sure. "
+msgstr ""
+
+# game/Cell01_BA.rpy:423 #-#-# translate crowdin Quest_BA_Ask01_1b4de826:
+msgid "[_ba_] With her in charge, this city is nothing but a hideout for bandits and thieves. "
+msgstr ""
+
+# game/Cell01_BA.rpy:424 #-#-# translate crowdin Quest_BA_Ask01_d337807a:
+msgid "[_u_] Mh..."
+msgstr ""
+
+# game/Cell01_BA.rpy:426 #-#-# translate crowdin Quest_BA_Ask01_e58e00fe:
+msgid "[_ba_] What?"
+msgstr ""
+
+# game/Cell01_BA.rpy:427 #-#-# translate crowdin Quest_BA_Ask01_69cf47ff:
+msgid "[_u_] What's your title again? "
+msgstr ""
+
+# game/Cell01_BA.rpy:429 #-#-# translate crowdin Quest_BA_Ask01_93b155cc:
+msgid "[_ba_] It's not the same for me. I have ambitions. "
+msgstr ""
+
+# game/Cell01_BA.rpy:431 #-#-# translate crowdin Quest_BA_Ask01_27ab7356:
+msgid "[_ba_] I'm a lion leading sheep... but it's still better than lions led by a donkey. "
+msgstr ""
+
+# game/Cell01_BA.rpy:432 #-#-# translate crowdin Quest_BA_Ask01_7864d509:
+msgid "[_u_] And in this methaphor... you're the lion, right? "
+msgstr ""
+
+# game/Cell01_BA.rpy:434 #-#-# translate crowdin Quest_BA_Ask01_a8603bc6:
+msgid "[_ba_] Stop asking me such stupid questions."
+msgstr ""
+
+# game/Cell01_BA.rpy:436 #-#-# translate crowdin Quest_BA_Ask01_c34b9092:
+msgid "[_ba_] Her throne will be mine. Period. "
+msgstr ""
+
+# game/Cell01_BA.rpy:446 #-#-# translate crowdin Ml_Ali_01_08_f446d2cf:
+msgid "[_u_] Anybody home? "
+msgstr ""
+
+# game/Cell01_BA.rpy:448 #-#-# translate crowdin Ml_Ali_01_08_7b1c1392:
+msgid "[_u_] ..."
+msgstr ""
+
+# game/Cell01_BA.rpy:449 #-#-# translate crowdin Ml_Ali_01_08_365d932b:
+msgid "[_u_] How the fuck am I supposed to corrupt someone who isn't even there? "
+msgstr ""
+
+# game/Cell01_BA.rpy:460 #-#-# translate crowdin Ml_Ali_01_08_f26c632e:
+msgid "[_dj_] Hi there!"
+msgstr ""
+
+# game/Cell01_BA.rpy:461 #-#-# translate crowdin Ml_Ali_01_08_a10ba100:
+msgid "[_u_] Hey. What's up? "
+msgstr ""
+
+# game/Cell01_BA.rpy:463 #-#-# translate crowdin Ml_Ali_01_08_b12e8e87:
+msgid "[_dj_] You're not going to believe this... I've got something to show you. "
+msgstr ""
+
+# game/Cell01_BA.rpy:464 #-#-# translate crowdin Ml_Ali_01_08_7c09b389:
+msgid "[_u_] Oh... is that a new body? "
+msgstr ""
+
+# game/Cell01_BA.rpy:465 #-#-# translate crowdin Ml_Ali_01_08_aa1889f0:
+msgid "[_dj_] Mh ... maybe. "
+msgstr ""
+
+# game/Cell01_BA.rpy:466 #-#-# translate crowdin Ml_Ali_01_08_5f071e6a:
+msgid "[_dj_] How about I teleport you to me?"
+msgstr ""
+
+# game/Cell01_BA.rpy:468 #-#-# translate crowdin Ml_Ali_01_08_e45ea035:
+msgid "[_u_] Whenever you want, girl!"
+msgstr ""
+
+# game/Cell01_BA.rpy:482 #-#-# translate crowdin Ml_Ali_01_08_c84d982c:
+msgid "[_dj_] Hi there."
+msgstr ""
+
+# game/Cell01_BA.rpy:483 #-#-# translate crowdin Ml_Ali_01_08_0529a669:
+msgid "[_u_] Wow..."
+msgstr ""
+
+# game/Cell01_BA.rpy:485 #-#-# translate crowdin Ml_Ali_01_08_c9031027:
+msgid "[_dj_] Yeah, I know. It's weird, isn't it? "
+msgstr ""
+
+# game/Cell01_BA.rpy:487 #-#-# translate crowdin Ml_Ali_01_08_c916c2aa:
+msgid "[_u_] I didn't think it would happen so quickly!"
+msgstr ""
+
+# game/Cell01_BA.rpy:489 #-#-# translate crowdin Ml_Ali_01_08_63527488:
+msgid "[_dj_] Me neither, I must confess!"
+msgstr ""
+
+# game/Cell01_BA.rpy:491 #-#-# translate crowdin Ml_Ali_01_08_a176c52f:
+msgid "[_dj_] But look at that! I have a body! A REAL BODY!"
+msgstr ""
+
+# game/Cell01_BA.rpy:493 #-#-# translate crowdin Ml_Ali_01_08_37eadedd:
+msgid "[_dj_] I'll finally be able to walk... and go anywhere I want on the whole planet!"
+msgstr ""
+
+# game/Cell01_BA.rpy:495 #-#-# translate crowdin Ml_Ali_01_08_9fd94e65:
+msgid "[_dj_] I'm going to explore every nook and cranny of the Oriental Kingdom!"
+msgstr ""
+
+# game/Cell01_BA.rpy:497 #-#-# translate crowdin Ml_Ali_01_08_5990b6ef:
+msgid "[_dj_] And when the zone will finally be corrupted... Mhh... "
+msgstr ""
+
+# game/Cell01_BA.rpy:499 #-#-# translate crowdin Ml_Ali_01_08_07d07735:
+msgid "[_dj_] It's going to be absolutely amazing."
+msgstr ""
+
+# game/Cell01_BA.rpy:507 #-#-# translate crowdin Ml_Ali_01_08_menu1_06102860:
+msgid "[_dj_] I've jerked off at least 10 times since I got it. "
+msgstr ""
+
+# game/Cell01_BA.rpy:509 #-#-# translate crowdin Ml_Ali_01_08_menu1_fa99427e:
+msgid "[_dj_] It's pretty incredible. "
+msgstr ""
+
+# game/Cell01_BA.rpy:511 #-#-# translate crowdin Ml_Ali_01_08_menu1_13ba62cd:
+msgid "[_dj_] But I still have trouble walking, I must admit!"
+msgstr ""
+
+# game/Cell01_BA.rpy:513 #-#-# translate crowdin Ml_Ali_01_08_menu1_34c376b0:
+msgid "[_dj_] It's a lot harder than it looks!"
+msgstr ""
+
+# game/Cell01_BA.rpy:515 #-#-# translate crowdin Ml_Ali_01_08_menu1_3990aada:
+msgid "[_dj_] And it's strange to have to watch where you're walking... "
+msgstr ""
+
+# game/Cell01_BA.rpy:517 #-#-# translate crowdin Ml_Ali_01_08_menu1_3e6e57e6:
+msgid "[_dj_] Strangely enough, I hadn't thought of that!"
+msgstr ""
+
+# game/Cell01_BA.rpy:522 #-#-# translate crowdin Ml_Ali_01_08_menu1_4da31331:
+msgid "[_dj_] Thank you! That's so sweet!"
+msgstr ""
+
+# game/Cell01_BA.rpy:524 #-#-# translate crowdin Ml_Ali_01_08_menu1_3fde660b:
+msgid "[_dj_] If I wasn't so afraid to walk, I'd come and give you a kiss!"
+msgstr ""
+
+# game/Cell01_BA.rpy:526 #-#-# translate crowdin Ml_Ali_01_08_menu1_a4200192:
+msgid "[_dj_] It's incredible, I was afraid my little golden tits would disappear... But no! I've got everything!"
+msgstr ""
+
+# game/Cell01_BA.rpy:528 #-#-# translate crowdin Ml_Ali_01_08_menu1_000f7bc3:
+msgid "[_dj_] I've even got new tattoos on my legs!"
+msgstr ""
+
+# game/Cell01_BA.rpy:530 #-#-# translate crowdin Ml_Ali_01_08_menu1_94392c9f:
+msgid "[_dj_] And then... I've got a blue pussy!"
+msgstr ""
+
+# game/Cell01_BA.rpy:532 #-#-# translate crowdin Ml_Ali_01_08_menu1_e46ce520:
+msgid "[_dj_] Have you ever seen blue pussy? I don't think so. "
+msgstr ""
+
+# game/Cell01_BA.rpy:533 #-#-# translate crowdin Ml_Ali_01_08_menu1_7b1c1392:
+msgid "[_u_] ..."
+msgstr ""
+
+# game/Cell01_BA.rpy:534 #-#-# translate crowdin Ml_Ali_01_08_menu1_ad0810f4:
+msgid "[_u_] Well... actually... Yes, I've seen Emee's. "
+msgstr ""
+
+# game/Cell01_BA.rpy:536 #-#-# translate crowdin Ml_Ali_01_08_menu1_d32cd4c2:
+msgid "[_dj_] Oh... yes..."
+msgstr ""
+
+# game/Cell01_BA.rpy:538 #-#-# translate crowdin Ml_Ali_01_08_menu1_d836ad0e:
+msgid "[_dj_] But anyway, I think it's pretty cool!"
+msgstr ""
+
+# game/Cell01_BA.rpy:544 #-#-# translate crowdin Ml_Ali_01_08_menu1_919d00df:
+msgid "[_dj_] Mh... "
+msgstr ""
+
+# game/Cell01_BA.rpy:546 #-#-# translate crowdin Ml_Ali_01_08_menu1_b8bbb1f6:
+msgid "[_dj_] Well... let's just say I've already explored my possibilities in terms of... "
+msgstr ""
+
+# game/Cell01_BA.rpy:548 #-#-# translate crowdin Ml_Ali_01_08_menu1_29a7eb83:
+msgid "[_dj_] ...''personal pleasure.'' "
+msgstr ""
+
+# game/Cell01_BA.rpy:550 #-#-# translate crowdin Ml_Ali_01_08_menu1_8ea7a729:
+msgid "[_dj_] So I was thinking... if you're up for it of course... "
+msgstr ""
+
+# game/Cell01_BA.rpy:551 #-#-# translate crowdin Ml_Ali_01_08_menu1_733695e2:
+msgid "[_u_] You want me to fuck you?"
+msgstr ""
+
+# game/Cell01_BA.rpy:553 #-#-# translate crowdin Ml_Ali_01_08_menu1_cb60c8da:
+msgid "[_dj_] That's the idea. "
+msgstr ""
+
+# game/Cell01_BA.rpy:554 #-#-# translate crowdin Ml_Ali_01_08_menu1_b0ff36fe:
+msgid "[_u_] Gosh..."
+msgstr ""
+
+# game/Cell01_BA.rpy:555 #-#-# translate crowdin Ml_Ali_01_08_menu1_5546e67c:
+msgid "[_u_] I think this is the first time a virgin has offered to fuck someone so quickly. "
+msgstr ""
+
+# game/Cell01_BA.rpy:557 #-#-# translate crowdin Ml_Ali_01_08_menu1_9c492b1c:
+msgid "[_dj_] Don't say that, you'll get me wet. "
+msgstr ""
+
+# game/Cell01_BA.rpy:559 #-#-# translate crowdin Ml_Ali_01_08_menu1_58e97ac6:
+msgid "[_dj_] So... are you in? "
+msgstr ""
+
+# game/Cell01_BA.rpy:566 #-#-# translate crowdin Ml_Ali_01_08_menu1_9fc7e4f0:
+msgid "[_dj_] Oh my god yes!!!"
+msgstr ""
+
+# game/Cell01_BA.rpy:568 #-#-# translate crowdin Ml_Ali_01_08_menu1_34785a39:
+msgid "[_dj_] Do we do it here?"
+msgstr ""
+
+# game/Cell01_BA.rpy:569 #-#-# translate crowdin Ml_Ali_01_08_menu1_e6ac5ec2:
+msgid "[_u_] Mh... isn't there somewhere better? "
+msgstr ""
+
+# game/Cell01_BA.rpy:571 #-#-# translate crowdin Ml_Ali_01_08_menu1_cd699045:
+msgid "[_dj_] In your bedroom? "
+msgstr ""
+
+# game/Cell01_BA.rpy:572 #-#-# translate crowdin Ml_Ali_01_08_menu1_cd47d549:
+msgid "[_u_] I have the worst room in the whole HQ... My bed ain't even big enough for me, girl. "
+msgstr ""
+
+# game/Cell01_BA.rpy:574 #-#-# translate crowdin Ml_Ali_01_08_menu1_22e7a3b0:
+msgid "[_dj_] Oh, I know. I've got the perfect place in mind... "
+msgstr ""
+
+# game/Cell01_BA.rpy:591 #-#-# translate crowdin Ml_Ali_01_08_menu1_bb19c423:
+msgid "[_dj_] I understand... Maybe that was a little too quick. "
+msgstr ""
+
+# game/Cell01_BA.rpy:593 #-#-# translate crowdin Ml_Ali_01_08_menu1_e760f4c2:
+msgid "[_dj_] See you later [name]!"
+msgstr ""
+
+# game/Cell01_BA.rpy:606 #-#-# translate crowdin GalleryImageQuest_Djin01_f26c632e:
+msgid "[_dj_] Hi there!"
+msgstr ""
+
+# game/Cell01_BA.rpy:607 #-#-# translate crowdin GalleryImageQuest_Djin01_02dd136e:
+msgid "[_u_] Wow... A fuck above the city rooftops... "
+msgstr ""
+
+# game/Cell01_BA.rpy:609 #-#-# translate crowdin GalleryImageQuest_Djin01_fa7488bd:
+msgid "[_dj_] Yeah, I know... not bad, right? "
+msgstr ""
+
+# game/Cell01_BA.rpy:610 #-#-# translate crowdin GalleryImageQuest_Djin01_e159d12e:
+msgid "[_u_] I'll make your screams of pleasure echo throughout the city."
+msgstr ""
+
+# game/Cell01_BA.rpy:612 #-#-# translate crowdin GalleryImageQuest_Djin01_3c4eae98:
+msgid "[_dj_] Hehe !"
+msgstr ""
+
+# game/Cell01_BA.rpy:615 #-#-# translate crowdin GalleryImageQuest_Djin01_26362b12:
+msgid "[_dj_] What are we waiting for then ?"
+msgstr ""
+
+# game/Cell01_BA.rpy:617 #-#-# translate crowdin GalleryImageQuest_Djin01_e55cc2e9:
+msgid "[_dj_] Boy, I can see you weren't lying... you're hard as a rock."
+msgstr ""
+
+# game/Cell01_BA.rpy:620 #-#-# translate crowdin GalleryImageQuest_Djin01_f0080833:
+msgid "[_dj_] Fuck, I can't wait!!"
+msgstr ""
+
+# game/Cell01_BA.rpy:626 #-#-# translate crowdin GalleryImageQuest_Djin01_8fea9f07:
+msgid "[_dj_] Your dick is not a joke..."
+msgstr ""
+
+# game/Cell01_BA.rpy:628 #-#-# translate crowdin GalleryImageQuest_Djin01_29169f3c:
+msgid "[_dj_] I was a virgin for so long, all of my body is burning..."
+msgstr ""
+
+# game/Cell01_BA.rpy:630 #-#-# translate crowdin GalleryImageQuest_Djin01_2a7c48ba:
+msgid "[_u_] Your virgin pussy feels good as fuck too."
+msgstr ""
+
+# game/Cell01_BA.rpy:632 #-#-# translate crowdin GalleryImageQuest_Djin01_94e905ff:
+msgid "[_dj_] Hmmm..."
+msgstr ""
+
+# game/Cell01_BA.rpy:634 #-#-# translate crowdin GalleryImageQuest_Djin01_ec39aa33:
+msgid "[_dj_] Do you think going deeper is an option ?"
+msgstr ""
+
+# game/Cell01_BA.rpy:636 #-#-# translate crowdin GalleryImageQuest_Djin01_450b1e86:
+msgid "[_u_] I can, if you feel ready."
+msgstr ""
+
+# game/Cell01_BA.rpy:638 #-#-# translate crowdin GalleryImageQuest_Djin01_8d751557:
+msgid "[_dj_] Yay !"
+msgstr ""
+
+# game/Cell01_BA.rpy:640 #-#-# translate crowdin GalleryImageQuest_Djin01_dd023583:
+msgid "[_dj_] I'm okay, you can fuck me harder !"
+msgstr ""
+
+# game/Cell01_BA.rpy:642 #-#-# translate crowdin GalleryImageQuest_Djin01_344a6033:
+msgid "[_u_] As you want."
+msgstr ""
+
+# game/Cell01_BA.rpy:644 #-#-# translate crowdin GalleryImageQuest_Djin01_09194efe:
+msgid "[_dj_] OooOOh !"
+msgstr ""
+
+# game/Cell01_BA.rpy:646 #-#-# translate crowdin GalleryImageQuest_Djin01_d03d39c1:
+msgid "[_dj_] Thats..."
+msgstr ""
+
+# game/Cell01_BA.rpy:648 #-#-# translate crowdin GalleryImageQuest_Djin01_fd7f9b7b:
+msgid "[_dj_] Interesting"
+msgstr ""
+
+# game/Cell01_BA.rpy:650 #-#-# translate crowdin GalleryImageQuest_Djin01_e40f7a91:
+msgid "[_dj_] Mmmfh... I..."
+msgstr ""
+
+# game/Cell01_BA.rpy:652 #-#-# translate crowdin GalleryImageQuest_Djin01_3560f8bc:
+msgid "[_dj_] Damn... this feeling is incredible!"
+msgstr ""
+
+# game/Cell01_BA.rpy:654 #-#-# translate crowdin GalleryImageQuest_Djin01_fb2ef9a4:
+msgid "[_dj_] Hmmmmhhh!..."
+msgstr ""
+
+# game/Cell01_BA.rpy:656 #-#-# translate crowdin GalleryImageQuest_Djin01_7056211d:
+msgid "[_dj_] Thank you !"
+msgstr ""
+
+# game/Cell01_BA.rpy:658 #-#-# translate crowdin GalleryImageQuest_Djin01_852a37f3:
+msgid "[_dj_] To be honest, I'm starting to regret not having sex sooner in my existence."
+msgstr ""
+
+# game/Cell01_BA.rpy:660 #-#-# translate crowdin GalleryImageQuest_Djin01_40d4843d:
+msgid "[_dj_] But that's fine ! I can do this with you, so it's perfect !"
+msgstr ""
+
+# game/Cell01_BA.rpy:662 #-#-# translate crowdin GalleryImageQuest_Djin01_dd548db0:
+msgid "[_dj_] Don't start to get above oneself. I can see your mischievous little grin."
+msgstr ""
+
+# game/Cell01_BA.rpy:664 #-#-# translate crowdin GalleryImageQuest_Djin01_7b1c1392:
+msgid "[_u_] ..."
+msgstr ""
+
+# game/Cell01_BA.rpy:666 #-#-# translate crowdin GalleryImageQuest_Djin01_804ce4bb:
+msgid "[_dj_] Hehe ! I'm kidding !"
+msgstr ""
+
+# game/Cell01_BA.rpy:668 #-#-# translate crowdin GalleryImageQuest_Djin01_9ff4b23e:
+msgid "[_dj_] You have all the right to receive praise."
+msgstr ""
+
+# game/Cell01_BA.rpy:670 #-#-# translate crowdin GalleryImageQuest_Djin01_066a0507:
+msgid "[_dj_] You're mad talented with your dick."
+msgstr ""
+
+# game/Cell01_BA.rpy:672 #-#-# translate crowdin GalleryImageQuest_Djin01_b438454e:
+msgid "[_dj_] Hmmnn..."
+msgstr ""
+
+# game/Cell01_BA.rpy:674 #-#-# translate crowdin GalleryImageQuest_Djin01_b8330c26:
+msgid "[_dj_] What about pushing things 'further'...?"
+msgstr ""
+
+# game/Cell01_BA.rpy:676 #-#-# translate crowdin GalleryImageQuest_Djin01_0aa9c61f:
+msgid "[_dj_] I want to feel those little butterflies all the way to my tum tum."
+msgstr ""
+
+# game/Cell01_BA.rpy:678 #-#-# translate crowdin GalleryImageQuest_Djin01_6e86bbb4:
+msgid "[_u_] Roger."
+msgstr ""
+
+# game/Cell01_BA.rpy:680 #-#-# translate crowdin GalleryImageQuest_Djin01_48517ab1:
+msgid "[_dj_] Aaaanh!"
+msgstr ""
+
+# game/Cell01_BA.rpy:682 #-#-# translate crowdin GalleryImageQuest_Djin01_3ea7b207:
+msgid "[_dj_] Fuck..."
+msgstr ""
+
+# game/Cell01_BA.rpy:684 #-#-# translate crowdin GalleryImageQuest_Djin01_b187c036:
+msgid "[_dj_] Oh, you got me melting in there !"
+msgstr ""
+
+# game/Cell01_BA.rpy:686 #-#-# translate crowdin GalleryImageQuest_Djin01_e3b4e397:
+msgid "[_dj_] I'm happy to be able to realise one of my personnal wish..."
+msgstr ""
+
+# game/Cell01_BA.rpy:688 #-#-# translate crowdin GalleryImageQuest_Djin01_22d4eee0:
+msgid "[_dj_] Getting railed by a big boy like you !"
+msgstr ""
+
+# game/Cell01_BA.rpy:690 #-#-# translate crowdin GalleryImageQuest_Djin01_a2200403:
+msgid "[_u_] I'm kind of your sex genie then ?"
+msgstr ""
+
+# game/Cell01_BA.rpy:692 #-#-# translate crowdin GalleryImageQuest_Djin01_fc66e49e:
+msgid "[_dj_] Oooh you much more than that..."
+msgstr ""
+
+# game/Cell01_BA.rpy:694 #-#-# translate crowdin GalleryImageQuest_Djin01_15ac1daa:
+msgid "[_dj_] You're the chosen one to take MY genie purity... "
+msgstr ""
+
+# game/Cell01_BA.rpy:696 #-#-# translate crowdin GalleryImageQuest_Djin01_cea818cb:
+msgid "[_dj_] What an honor, right ?"
+msgstr ""
+
+# game/Cell01_BA.rpy:698 #-#-# translate crowdin GalleryImageQuest_Djin01_bfad1311:
+msgid "[_u_] Yes. Truly an honor."
+msgstr ""
+
+# game/Cell01_BA.rpy:700 #-#-# translate crowdin GalleryImageQuest_Djin01_53b5020f:
+msgid "[_dj_] Awww How cute !"
+msgstr ""
+
+# game/Cell01_BA.rpy:702 #-#-# translate crowdin GalleryImageQuest_Djin01_1e9246a4:
+msgid "[_dj_] I love playing little games like that with you."
+msgstr ""
+
+# game/Cell01_BA.rpy:704 #-#-# translate crowdin GalleryImageQuest_Djin01_af0775e0:
+msgid "[_u_] We're two."
+msgstr ""
+
+# game/Cell01_BA.rpy:706 #-#-# translate crowdin GalleryImageQuest_Djin01_075f175a:
+msgid "[_dj_] Ooooh..."
+msgstr ""
+
+# game/Cell01_BA.rpy:708 #-#-# translate crowdin GalleryImageQuest_Djin01_b48d22bd:
+msgid "[_dj_] I can see that."
+msgstr ""
+
+# game/Cell01_BA.rpy:710 #-#-# translate crowdin GalleryImageQuest_Djin01_3a34df02:
+msgid "[_dj_] I can feel your little you getting bigger inside me..."
+msgstr ""
+
+# game/Cell01_BA.rpy:712 #-#-# translate crowdin GalleryImageQuest_Djin01_82ef03e8:
+msgid "[_dj_] You want to cum, right ?"
+msgstr ""
+
+# game/Cell01_BA.rpy:714 #-#-# translate crowdin GalleryImageQuest_Djin01_75fc3b95:
+msgid "[_dj_] Don't look at me like that. I'm old enough to know when a boy wants something..."
+msgstr ""
+
+# game/Cell01_BA.rpy:716 #-#-# translate crowdin GalleryImageQuest_Djin01_2a4c4e1b:
+msgid "[_dj_] Even as a virgin."
+msgstr ""
+
+# game/Cell01_BA.rpy:718 #-#-# translate crowdin GalleryImageQuest_Djin01_0529a669:
+msgid "[_u_] Wow..."
+msgstr ""
+
+# game/Cell01_BA.rpy:720 #-#-# translate crowdin GalleryImageQuest_Djin01_7059c23e:
+msgid "[_dj_] Ahah ! It was a joke !"
+msgstr ""
+
+# game/Cell01_BA.rpy:722 #-#-# translate crowdin GalleryImageQuest_Djin01_58549cab:
+msgid "[_dj_] Since I'm feeling hotter and hotter, I've assumed that you were too."
+msgstr ""
+
+# game/Cell01_BA.rpy:724 #-#-# translate crowdin GalleryImageQuest_Djin01_2f78fe56:
+msgid "[_u_] You're strong."
+msgstr ""
+
+# game/Cell01_BA.rpy:726 #-#-# translate crowdin GalleryImageQuest_Djin01_efe1beec:
+msgid "[_dj_] Thanks, I know."
+msgstr ""
+
+# game/Cell01_BA.rpy:728 #-#-# translate crowdin GalleryImageQuest_Djin01_a2893c20:
+msgid "[_dj_] Annhw ! Hey !"
+msgstr ""
+
+# game/Cell01_BA.rpy:730 #-#-# translate crowdin GalleryImageQuest_Djin01_0e0c73ff:
+msgid "[_dj_] Are you that impatient ?"
+msgstr ""
+
+# game/Cell01_BA.rpy:732 #-#-# translate crowdin GalleryImageQuest_Djin01_69d5c215:
+msgid "[_u_] Fuck, it's so good inside you..."
+msgstr ""
+
+# game/Cell01_BA.rpy:734 #-#-# translate crowdin GalleryImageQuest_Djin01_e4c42711:
+msgid "[_u_] I can't control myself anymore."
+msgstr ""
+
+# game/Cell01_BA.rpy:736 #-#-# translate crowdin GalleryImageQuest_Djin01_1e4f206c:
+msgid "[_dj_] Aww do as you want, I'm feeling really good too with your cock ramming me !"
+msgstr ""
+
+# game/Cell01_BA.rpy:738 #-#-# translate crowdin GalleryImageQuest_Djin01_29985f3a:
+msgid "[_dj_] Yeeees !"
+msgstr ""
+
+# game/Cell01_BA.rpy:740 #-#-# translate crowdin GalleryImageQuest_Djin01_b85c3520:
+msgid "[_dj_] Cum for me !"
+msgstr ""
+
+# game/Cell01_BA.rpy:761 #-#-# translate crowdin GalleryImageQuest_Djin01_5d087186:
+msgid "[_dj_] My insides are burning..."
+msgstr ""
+
+# game/Cell01_BA.rpy:781 #-#-# translate crowdin GalleryImageQuest_Djin01_f9ddc1d1:
+msgid "[_dj_] Wow... That's hot."
+msgstr ""
+
+# game/Cell01_BA.rpy:784 #-#-# translate crowdin GalleryImageQuest_Djin01_3d5623eb:
+msgid "[_dj_] So cool..."
+msgstr ""
+
+# game/Cell01_BA.rpy:813 #-#-# translate crowdin GalleryImageQuest_Djin01_END_e86629e5:
+msgid "[_tb_] Hello, dear [name]! "
+msgstr ""
+
+# game/Cell01_BA.rpy:815 #-#-# translate crowdin GalleryImageQuest_Djin01_END_d29bb85e:
+msgid "[_tb_] You have finished the current update of the Mains Quests! "
+msgstr ""
+
+# game/Cell01_BA.rpy:818 #-#-# translate crowdin GalleryImageQuest_Djin01_END_642da2c9:
+msgid "[_tb_] Rest assured, The next part is already in production!"
+msgstr ""
+
+# game/Cell01_BA.rpy:821 #-#-# translate crowdin GalleryImageQuest_Djin01_END_d596bfee:
+msgid "[_tb_] Or even already released! The only way to find out is to check it out on {a=https://www.patreon.com/Salty01_NSFW}{color=#fc9c63}Patreon{/color}{/a}!"
+msgstr ""
+
+# game/Cell01_BA.rpy:824 #-#-# translate crowdin GalleryImageQuest_Djin01_END_e74c174b:
+msgid "[_tb_] Thank you again for helping financially this game, it is thanks to you and your support that this game can exist!"
+msgstr ""
+
+# game/Cell01_BA.rpy:828 #-#-# translate crowdin GalleryImageQuest_Djin01_END_8cba7e19:
+msgid "[_tb_] See you soon for more adventures!"
+msgstr ""
+
+# §translate crowdin strings: #|#|# # game/Cell01_BA.rpy:64
+msgid "{color=#f2923c}Why did you kidnap Jasmine?{/color} {image=heart07.png}"
+msgstr ""
+
+# game/Cell01_BA.rpy:64
+msgid "{color=#3ad8ff}Why do you want the throne?{/color}"
+msgstr ""
+
+# game/Cell01_BA.rpy:64
+msgid "$Corruption"
+msgstr ""
+
+# game/Cell01_BA.rpy:90
+msgid "{color=#3ad8ff}Show me your boobs{/color} {image=heart01.png}"
+msgstr ""
+
+# game/Cell01_BA.rpy:90
+msgid "{color=#3ad8ff}Show me your boobs{/color} {image=heart02.png}{image=heart01.png}"
+msgstr ""
+
+# game/Cell01_BA.rpy:504
+msgid "How does it feel to have a body? "
+msgstr ""
+
+# game/Cell01_BA.rpy:504
+msgid "You're so beautiful!"
+msgstr ""
+
+# game/Cell01_BA.rpy:504
+msgid "{color=#3ad8ff}So, have you planned anything?{/color}"
+msgstr ""
+
+# game/Cell01_BA.rpy:563
+msgid "I'd love to"
+msgstr ""
+
+# game/Cell01_BA.rpy:563
+msgid "No, thanks"
+msgstr ""
+
+# game/Cell01_BA.rpy:742
+msgid "Cum inside"
+msgstr ""
+
+# game/Cell01_BA.rpy:742
+msgid "Cum on her ass"
+msgstr ""
+
