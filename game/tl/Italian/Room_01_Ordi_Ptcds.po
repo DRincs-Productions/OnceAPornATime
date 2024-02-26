@@ -1,0 +1,150 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: once-a-porn-a-time\n"
+"X-Crowdin-Project-ID: 651436\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /main/game/tl/crowdin/Room_01_Ordi_Ptcds.po\n"
+"X-Crowdin-File-ID: 12932\n"
+"Project-Id-Version: once-a-porn-a-time\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Italian\n"
+"Language: it_IT\n"
+"PO-Revision-Date: 2024-02-26 09:12\n"
+
+# TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Room_01_Ordi_Ptcds.rpy:33 #-#-# translate crowdin room01_ordi01_Ptcds_9ea2f78c:
+msgid " "
+msgstr ""
+
+# game/Room_01_Ordi_Ptcds.rpy:35 #-#-# translate crowdin room01_ordi01_Ptcds_9ea2f78c_1:
+msgid " "
+msgstr ""
+
+# game/Room_01_Ordi_Ptcds.rpy:37 #-#-# translate crowdin room01_ordi01_Ptcds_91504e37:
+msgid " Thanks for being a Patreon! This game can only have future updates thanks to you! You're a great person! *wink wink* "
+msgstr ""
+
+# game/Room_01_Ordi_Ptcds.rpy:38 #-#-# translate crowdin room01_ordi01_Ptcds_90d1801a:
+msgid " Keep playing, and the quest will start on its own! "
+msgstr ""
+
+# game/Room_01_Ordi_Ptcds.rpy:50 #-#-# translate crowdin room01_ordi01_Ptcds_9ea2f78c_2:
+msgid " "
+msgstr ""
+
+# game/Room_01_Ordi_Ptcds.rpy:52 #-#-# translate crowdin room01_ordi01_Ptcds_9ea2f78c_3:
+msgid " "
+msgstr ""
+
+# game/Room_01_Ordi_Ptcds.rpy:54 #-#-# translate crowdin room01_ordi01_Ptcds_91504e37_1:
+msgid " Thanks for being a Patreon! This game can only have future updates thanks to you! You're a great person! *wink wink* "
+msgstr ""
+
+# game/Room_01_Ordi_Ptcds.rpy:55 #-#-# translate crowdin room01_ordi01_Ptcds_90d1801a_1:
+msgid " Keep playing, and the quest will start on its own! "
+msgstr ""
+
+# game/Room_01_Ordi_Ptcds.rpy:68 #-#-# translate crowdin room01_ordi01_Ptcds_9ea2f78c_4:
+msgid " "
+msgstr ""
+
+# game/Room_01_Ordi_Ptcds.rpy:70 #-#-# translate crowdin room01_ordi01_Ptcds_9ea2f78c_5:
+msgid " "
+msgstr ""
+
+# game/Room_01_Ordi_Ptcds.rpy:72 #-#-# translate crowdin room01_ordi01_Ptcds_91504e37_2:
+msgid " Thanks for being a Patreon! This game can only have future updates thanks to you! You're a great person! *wink wink* "
+msgstr ""
+
+# game/Room_01_Ordi_Ptcds.rpy:73 #-#-# translate crowdin room01_ordi01_Ptcds_90d1801a_2:
+msgid " Keep playing, and the quest will start on its own! "
+msgstr ""
+
+# game/Room_01_Ordi_Ptcds.rpy:86 #-#-# translate crowdin room01_ordi01_Ptcds_9ea2f78c_6:
+msgid " "
+msgstr ""
+
+# game/Room_01_Ordi_Ptcds.rpy:88 #-#-# translate crowdin room01_ordi01_Ptcds_9ea2f78c_7:
+msgid " "
+msgstr ""
+
+# game/Room_01_Ordi_Ptcds.rpy:90 #-#-# translate crowdin room01_ordi01_Ptcds_91504e37_3:
+msgid " Thanks for being a Patreon! This game can only have future updates thanks to you! You're a great person! *wink wink* "
+msgstr ""
+
+# game/Room_01_Ordi_Ptcds.rpy:91 #-#-# translate crowdin room01_ordi01_Ptcds_90d1801a_3:
+msgid " Keep playing, and the quest will start on its own! "
+msgstr ""
+
+# game/Room_01_Ordi_Ptcds.rpy:104 #-#-# translate crowdin room01_ordi01_Ptcds_9ea2f78c_8:
+msgid " "
+msgstr ""
+
+# game/Room_01_Ordi_Ptcds.rpy:106 #-#-# translate crowdin room01_ordi01_Ptcds_9ea2f78c_9:
+msgid " "
+msgstr ""
+
+# game/Room_01_Ordi_Ptcds.rpy:108 #-#-# translate crowdin room01_ordi01_Ptcds_91504e37_4:
+msgid " Thanks for being a Patreon! This game can only have future updates thanks to you! You're a great person! *wink wink* "
+msgstr ""
+
+# game/Room_01_Ordi_Ptcds.rpy:109 #-#-# translate crowdin room01_ordi01_Ptcds_90d1801a_4:
+msgid " Keep playing, and the quest will start on its own! "
+msgstr ""
+
+# game/Room_01_Ordi_Ptcds.rpy:121 #-#-# translate crowdin room01_ordi01_Ptcds_9ea2f78c_10:
+msgid " "
+msgstr ""
+
+# game/Room_01_Ordi_Ptcds.rpy:123 #-#-# translate crowdin room01_ordi01_Ptcds_9ea2f78c_11:
+msgid " "
+msgstr ""
+
+# game/Room_01_Ordi_Ptcds.rpy:125 #-#-# translate crowdin room01_ordi01_Ptcds_91504e37_5:
+msgid " Thanks for being a Patreon! This game can only have future updates thanks to you! You're a great person! *wink wink* "
+msgstr ""
+
+# game/Room_01_Ordi_Ptcds.rpy:126 #-#-# translate crowdin room01_ordi01_Ptcds_90d1801a_5:
+msgid " Keep playing, and the quest will start on its own! "
+msgstr ""
+
+# game/Room_01_Ordi_Ptcds.rpy:141 #-#-# translate crowdin room01_ordi01_Ptcds_9ea2f78c_12:
+msgid " "
+msgstr ""
+
+# game/Room_01_Ordi_Ptcds.rpy:143 #-#-# translate crowdin room01_ordi01_Ptcds_9ea2f78c_13:
+msgid " "
+msgstr ""
+
+# game/Room_01_Ordi_Ptcds.rpy:145 #-#-# translate crowdin room01_ordi01_Ptcds_91504e37_6:
+msgid " Thanks for being a Patreon! This game can only have future updates thanks to you! You're a great person! *wink wink* "
+msgstr ""
+
+# game/Room_01_Ordi_Ptcds.rpy:146 #-#-# translate crowdin room01_ordi01_Ptcds_90d1801a_6:
+msgid " Keep playing, and the quest will start on its own! "
+msgstr ""
+
+# game/Room_01_Ordi_Ptcds.rpy:157 #-#-# translate crowdin room01_ordi01_Ptcds_564e1c01:
+msgid " You have already unlocked all the elements of this Patreon password ! "
+msgstr ""
+
+# game/Room_01_Ordi_Ptcds.rpy:192 #-#-# translate crowdin room01_ordi01_Ptcds_91504e37_7:
+msgid " Thanks for being a Patreon! This game can only have future updates thanks to you! You're a great person! *wink wink* "
+msgstr ""
+
+# game/Room_01_Ordi_Ptcds.rpy:226 #-#-# translate crowdin room01_ordi01_Ptcds_CP_e4668233:
+msgid "You have already unlocked all the elements of this password ! "
+msgstr ""
+
+# game/Room_01_Ordi_Ptcds.rpy:258 #-#-# translate crowdin room01_ordi01_Ptcds_CP_e4668233_1:
+msgid "You have already unlocked all the elements of this password ! "
+msgstr ""
+
+# game/Room_01_Ordi_Ptcds.rpy:288 #-#-# translate crowdin room01_ordi01_Ptcds_CP_e4668233_2:
+msgid "You have already unlocked all the elements of this password ! "
+msgstr ""
+
+# game/Room_01_Ordi_Ptcds.rpy:301 #-#-# translate crowdin room01_ordi01_Ptcds_CP_d47cac06:
+msgid " Wrong Code."
+msgstr ""
+
