@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2024-03-01 18:11\n"
+"PO-Revision-Date: 2024-03-01 19:13\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_AM.rpy:86 #-#-# translate crowdin CHARA_AM_Menu01_c781f953:
 msgid "[_am_] Hey!"
@@ -250,23 +250,23 @@ msgstr "Hast du es schon mal mit... Tinker getan?"
 
 # game/Cell01_AM.rpy:407 #-#-# translate crowdin Quest2_AM_Talk03_0924003d:
 msgid "[_u_] What? Me? Get laid with Tinker??"
-msgstr ""
+msgstr "Was? Ich? Mit Tinker gefickt?"
 
 # game/Cell01_AM.rpy:408 #-#-# translate crowdin Quest2_AM_Talk03_45fd8112:
 msgid "[_u_] Nope, never, not yet."
-msgstr ""
+msgstr "Na, niemals, noch nicht."
 
 # game/Cell01_AM.rpy:410 #-#-# translate crowdin Quest2_AM_Talk03_9fa78ae8:
 msgid "[_u_] And then... I don't know if it would fit... like... physically."
-msgstr ""
+msgstr "Und dann... ich weiß nicht, ob es reinpassen würde... ich meine... physisch."
 
 # game/Cell01_AM.rpy:412 #-#-# translate crowdin Quest2_AM_Talk03_4b5b8110:
 msgid "[_am_] It would be interesting to see if that could... do it..."
-msgstr ""
+msgstr "Es wäre interessant zu sehen, ob das... klappen würde..."
 
 # game/Cell01_AM.rpy:414 #-#-# translate crowdin Quest2_AM_Talk03_35fd3f4a:
 msgid "[_am_] So exciting..."
-msgstr ""
+msgstr "So aufregend..."
 
 # game/Cell01_AM.rpy:415 #-#-# translate crowdin Quest2_AM_Talk03_7b1c1392_1:
 msgid "[_u_] ..."
@@ -274,59 +274,59 @@ msgstr "..."
 
 # game/Cell01_AM.rpy:417 #-#-# translate crowdin Quest2_AM_Talk03_30549523:
 msgid "[_u_] I think we're both going to be good buddies."
-msgstr ""
+msgstr "Ich glaube, wir beide werden gute Freunde sein."
 
 # game/Cell01_AM.rpy:419 #-#-# translate crowdin Quest2_AM_Talk03_4aef165f:
 msgid "[_am_] So cool!"
-msgstr ""
+msgstr "Toll!"
 
 # game/Cell01_AM.rpy:426 #-#-# translate crowdin Quest2_AM_Talk04_a54d56c3:
 msgid "[_am_] What a curious man you are. "
-msgstr ""
+msgstr "Was für ein neugieriger Mann du bist. "
 
 # game/Cell01_AM.rpy:431 #-#-# translate crowdin Quest2_AM_Talk04_5431f053:
 msgid "[_am_] That's hot. "
-msgstr ""
+msgstr "Das ist heiß."
 
 # game/Cell01_AM.rpy:433 #-#-# translate crowdin Quest2_AM_Talk04_7573b0d3:
 msgid "[_am_] Like... It's amazing to be in something so hot... "
-msgstr ""
+msgstr "Wie... es ist wunderbar, so heiß zu sein..."
 
 # game/Cell01_AM.rpy:435 #-#-# translate crowdin Quest2_AM_Talk04_a4e42ee0:
 msgid "[_am_] And it's soft..."
-msgstr ""
+msgstr "Und es ist weich..."
 
 # game/Cell01_AM.rpy:437 #-#-# translate crowdin Quest2_AM_Talk04_e2052bbf:
 msgid "[_am_] And it bounces back when I jump. It's amazing. "
-msgstr ""
+msgstr "Und es hüpft zurück, wenn ich springe. Es ist unglaublich."
 
 # game/Cell01_AM.rpy:439 #-#-# translate crowdin Quest2_AM_Talk04_4323bdf1:
 msgid "[_am_] And then it has so many... interactivity. "
-msgstr ""
+msgstr "Und es gibt noch so viele verschiedene... Aktivitäten mit..."
 
 # game/Cell01_AM.rpy:441 #-#-# translate crowdin Quest2_AM_Talk04_0239da9b:
 msgid "[_am_] So many things to do with this... thing!"
-msgstr ""
+msgstr "So viele Dinge zu tun mit diesem... Zeug!"
 
 # game/Cell01_AM.rpy:443 #-#-# translate crowdin Quest2_AM_Talk04_3d188bf4:
 msgid "[_am_] I still have to get used to it. "
-msgstr ""
+msgstr "Ich muss mich noch daran gewöhnen."
 
 # game/Cell01_AM.rpy:444 #-#-# translate crowdin Quest2_AM_Talk04_6e899504:
 msgid "[_u_] I think you will get used to it very quickly. "
-msgstr ""
+msgstr "Ich glaube, du wirst daran rasch gewöhnen."
 
 # game/Cell01_AM.rpy:446 #-#-# translate crowdin Quest2_AM_Talk04_a427fe26:
 msgid "[_u_] And then I can help you if you want. "
-msgstr ""
+msgstr "Und noch, ich kann dir helfen, wenn du möchtest."
 
 # game/Cell01_AM.rpy:448 #-#-# translate crowdin Quest2_AM_Talk04_62c5d4ff:
 msgid "[_am_] Help me? Help me how?"
-msgstr ""
+msgstr "Mir helfen? Wie helfen?"
 
 # game/Cell01_AM.rpy:450 #-#-# translate crowdin Quest2_AM_Talk04_15c1be97:
 msgid "[_am_] Ohhh you mean... "
-msgstr ""
+msgstr "Ahhh du meinst..."
 
 # game/Cell01_AM.rpy:452 #-#-# translate crowdin Quest2_AM_Talk04_1a6fd5d2:
 msgid "[_am_] Like, with sex. "
