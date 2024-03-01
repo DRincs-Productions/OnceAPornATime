@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2024-02-26 09:11\n"
+"PO-Revision-Date: 2024-03-01 16:47\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_BA.rpy:50 #-#-# translate crowdin CHARA_BA_Menu01_98aea068:
 msgid "[_ba_]  ... "
@@ -182,7 +182,7 @@ msgstr ""
 
 # game/Cell01_BA.rpy:214 #-#-# translate crowdin Quest_BA_App01_01_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "..."
 
 # game/Cell01_BA.rpy:215 #-#-# translate crowdin Quest_BA_App01_01_20ecf295:
 msgid "[_u_] Mrs Baba?"
@@ -594,7 +594,7 @@ msgstr ""
 
 # game/Cell01_BA.rpy:448 #-#-# translate crowdin Ml_Ali_01_08_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "..."
 
 # game/Cell01_BA.rpy:449 #-#-# translate crowdin Ml_Ali_01_08_365d932b:
 msgid "[_u_] How the fuck am I supposed to corrupt someone who isn't even there? "
@@ -718,7 +718,7 @@ msgstr ""
 
 # game/Cell01_BA.rpy:533 #-#-# translate crowdin Ml_Ali_01_08_menu1_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "..."
 
 # game/Cell01_BA.rpy:534 #-#-# translate crowdin Ml_Ali_01_08_menu1_ad0810f4:
 msgid "[_u_] Well... actually... Yes, I've seen Emee's. "
@@ -914,7 +914,7 @@ msgstr ""
 
 # game/Cell01_BA.rpy:664 #-#-# translate crowdin GalleryImageQuest_Djin01_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "..."
 
 # game/Cell01_BA.rpy:666 #-#-# translate crowdin GalleryImageQuest_Djin01_804ce4bb:
 msgid "[_dj_] Hehe ! I'm kidding !"
