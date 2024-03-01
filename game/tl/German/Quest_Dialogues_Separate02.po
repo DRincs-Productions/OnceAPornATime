@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2024-02-26 09:11\n"
+"PO-Revision-Date: 2024-03-01 16:47\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Quest_Dialogues_Separate02.rpy:69 #-#-# translate crowdin Quest2_Room01Panel01screen_E_8240cba6:
 msgid "[_u_] Got it!"
@@ -26,7 +26,7 @@ msgstr ""
 
 # game/Quest_Dialogues_Separate02.rpy:97 #-#-# translate crowdin Intro_Rooms_Amandine01_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "..."
 
 # game/Quest_Dialogues_Separate02.rpy:98 #-#-# translate crowdin Intro_Rooms_Amandine01_58eefc98:
 msgid "[_u_] Almost."
@@ -38,7 +38,7 @@ msgstr ""
 
 # game/Quest_Dialogues_Separate02.rpy:101 #-#-# translate crowdin Intro_Rooms_Amandine01_7b1c1392_1:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "..."
 
 # game/Quest_Dialogues_Separate02.rpy:103 #-#-# translate crowdin Intro_Rooms_Amandine01_5017c907:
 msgid "[_u_] Tinker?"
@@ -46,7 +46,7 @@ msgstr ""
 
 # game/Quest_Dialogues_Separate02.rpy:104 #-#-# translate crowdin Intro_Rooms_Amandine01_7b1c1392_2:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "..."
 
 # game/Quest_Dialogues_Separate02.rpy:105 #-#-# translate crowdin Intro_Rooms_Amandine01_b0ff36fe:
 msgid "[_u_] Gosh..."
@@ -254,11 +254,11 @@ msgstr ""
 
 # game/Quest_Dialogues_Separate02.rpy:209 #-#-# translate crowdin Intro_Rooms_Amandine01_7b1c1392_3:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "..."
 
 # game/Quest_Dialogues_Separate02.rpy:217 #-#-# translate crowdin Intro_Rooms_BED01_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "..."
 
 # game/Quest_Dialogues_Separate02.rpy:218 #-#-# translate crowdin Intro_Rooms_BED01_c287037e:
 msgid "[_u_] I'm gonna lose my mind."
@@ -274,7 +274,7 @@ msgstr ""
 
 # game/Quest_Dialogues_Separate02.rpy:221 #-#-# translate crowdin Intro_Rooms_BED01_7b1c1392_1:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "..."
 
 # game/Quest_Dialogues_Separate02.rpy:222 #-#-# translate crowdin Intro_Rooms_BED01_95cc4e4b:
 msgid "[_u_] Okay... calm down... "
@@ -294,7 +294,7 @@ msgstr ""
 
 # game/Quest_Dialogues_Separate02.rpy:234 #-#-# translate crowdin Intro_Rooms_BED01_7b1c1392_2:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "..."
 
 # game/Quest_Dialogues_Separate02.rpy:236 #-#-# translate crowdin Intro_Rooms_BED01_f782451e:
 msgid "[_tb_] One month is quite a long time ahah."
@@ -306,7 +306,7 @@ msgstr ""
 
 # game/Quest_Dialogues_Separate02.rpy:239 #-#-# translate crowdin Intro_Rooms_BED01_7b1c1392_3:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "..."
 
 # game/Quest_Dialogues_Separate02.rpy:241 #-#-# translate crowdin Intro_Rooms_BED01_19cd3208:
 msgid "[_tb_] Anyway, I'm not angry, don't worry."
@@ -326,7 +326,7 @@ msgstr ""
 
 # game/Quest_Dialogues_Separate02.rpy:248 #-#-# translate crowdin Intro_Rooms_BED01_7b1c1392_4:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "..."
 
 # game/Quest_Dialogues_Separate02.rpy:250 #-#-# translate crowdin Intro_Rooms_BED01_87c4231c:
 msgid "[_tb_] I never understood how you managed to sleep on such a crappy bed for so long."
@@ -350,7 +350,7 @@ msgstr ""
 
 # game/Quest_Dialogues_Separate02.rpy:257 #-#-# translate crowdin Intro_Rooms_BED01_7b1c1392_5:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "..."
 
 # game/Quest_Dialogues_Separate02.rpy:258 #-#-# translate crowdin Intro_Rooms_BED01_9a7b175b:
 msgid "[_u_] Yes, but I'm not immortal. "
@@ -406,7 +406,7 @@ msgstr ""
 
 # game/Quest_Dialogues_Separate02.rpy:299 #-#-# translate crowdin Intro_Rooms_BED01_menu01_P2_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "..."
 
 # game/Quest_Dialogues_Separate02.rpy:308 #-#-# translate crowdin Intro_Rooms_BED01_menu01_P3_bfea9d67:
 msgid "[_u_] The witch who had kidnapped Em-IA."
@@ -814,7 +814,7 @@ msgstr ""
 
 # game/Quest_Dialogues_Separate02.rpy:597 #-#-# translate crowdin QuestChap2_Amandine01_03_menu1_P2_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "..."
 
 # game/Quest_Dialogues_Separate02.rpy:598 #-#-# translate crowdin QuestChap2_Amandine01_03_menu1_P2_f0f831ee:
 msgid "[_u_] That's disappointing."
@@ -1014,7 +1014,7 @@ msgstr ""
 
 # game/Quest_Dialogues_Separate02.rpy:728 #-#-# translate crowdin QuestChap2_Amandine01_03_menu1_P3_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "..."
 
 # game/Quest_Dialogues_Separate02.rpy:729 #-#-# translate crowdin QuestChap2_Amandine01_03_menu1_P3_3dcfb33b:
 msgid "[_u_] I didn't think your place was that big."
@@ -1038,7 +1038,7 @@ msgstr ""
 
 # game/Quest_Dialogues_Separate02.rpy:736 #-#-# translate crowdin QuestChap2_Amandine01_03_menu1_P3_7b1c1392_1:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "..."
 
 # game/Quest_Dialogues_Separate02.rpy:737 #-#-# translate crowdin QuestChap2_Amandine01_03_menu1_P3_692fffc8:
 msgid "[_u_] But... how does this lamp work? "
@@ -1094,7 +1094,7 @@ msgstr ""
 
 # game/Quest_Dialogues_Separate02.rpy:778 #-#-# translate crowdin GalleryImageQuest_Shera02_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "..."
 
 # game/Quest_Dialogues_Separate02.rpy:779 #-#-# translate crowdin GalleryImageQuest_Shera02_7a89740f:
 msgid "[_u_] I know how to get your kingdom back."
@@ -1338,7 +1338,7 @@ msgstr ""
 
 # game/Quest_Dialogues_Separate02.rpy:936 #-#-# translate crowdin GalleryImageQuest_Shera02_7b1c1392_1:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "..."
 
 # game/Quest_Dialogues_Separate02.rpy:937 #-#-# translate crowdin GalleryImageQuest_Shera02_28fc7c99:
 msgid "[_u_] Definitely."
@@ -1390,7 +1390,7 @@ msgstr ""
 
 # game/Quest_Dialogues_Separate02.rpy:963 #-#-# translate crowdin GalleryImageQuest_Shera02_7b1c1392_2:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "..."
 
 # game/Quest_Dialogues_Separate02.rpy:964 #-#-# translate crowdin GalleryImageQuest_Shera02_723e0c2f:
 msgid "[_u_] You should have seen the look of the place where I rotted for a month..."
@@ -1570,7 +1570,7 @@ msgstr ""
 
 # game/Quest_Dialogues_Separate02.rpy:1086 #-#-# translate crowdin QuestChap2_Amelia01_01_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "..."
 
 # game/Quest_Dialogues_Separate02.rpy:1087 #-#-# translate crowdin QuestChap2_Amelia01_01_789aefa2:
 msgid "[_u_] Oh boy, I just figured it out!"
@@ -1630,7 +1630,7 @@ msgstr ""
 
 # game/Quest_Dialogues_Separate02.rpy:1117 #-#-# translate crowdin QuestChap2_Amelia01_01_7b1c1392_1:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "..."
 
 # game/Quest_Dialogues_Separate02.rpy:1119 #-#-# translate crowdin QuestChap2_Amelia01_01_2caf3fc4:
 msgid "[_am_] Pleaaaaaase!!"
@@ -1742,7 +1742,7 @@ msgstr ""
 
 # game/Quest_Dialogues_Separate02.rpy:1258 #-#-# translate crowdin QuestChap2_Amelia05_menu01_P1_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "..."
 
 # game/Quest_Dialogues_Separate02.rpy:1259 #-#-# translate crowdin QuestChap2_Amelia05_menu01_P1_7d72c30f:
 msgid "[_u_] Worst robbery in the world."
@@ -1790,7 +1790,7 @@ msgstr ""
 
 # game/Quest_Dialogues_Separate02.rpy:1314 #-#-# translate crowdin QuestChap2_Amelia07_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "..."
 
 # game/Quest_Dialogues_Separate02.rpy:1315 #-#-# translate crowdin QuestChap2_Amelia07_f5c6b384:
 msgid "[_u_] ... fuck."
@@ -1906,7 +1906,7 @@ msgstr ""
 
 # game/Quest_Dialogues_Separate02.rpy:1396 #-#-# translate crowdin QuestChap2_Amelia010_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "..."
 
 # game/Quest_Dialogues_Separate02.rpy:1398 #-#-# translate crowdin QuestChap2_Amelia010_0a593598:
 msgid "[_u_] I haven't started. "
@@ -2730,7 +2730,7 @@ msgstr ""
 
 # game/Quest_Dialogues_Separate02.rpy:2105 #-#-# translate crowdin QuestChap2_Jasmine01_13_pause_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "..."
 
 # game/Quest_Dialogues_Separate02.rpy:2106 #-#-# translate crowdin QuestChap2_Jasmine01_13_pause_b0ff36fe:
 msgid "[_u_] Gosh..."
@@ -2766,7 +2766,7 @@ msgstr ""
 
 # game/Quest_Dialogues_Separate02.rpy:2130 #-#-# translate crowdin QuestChap2_Jasmine01_13_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "..."
 
 # game/Quest_Dialogues_Separate02.rpy:2131 #-#-# translate crowdin QuestChap2_Jasmine01_13_b0a9a914:
 msgid "[_u_] Can we really do that on our doors? "
@@ -2794,7 +2794,7 @@ msgstr ""
 
 # game/Quest_Dialogues_Separate02.rpy:2162 #-#-# translate crowdin GalleryImageQuest_QIU01_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "..."
 
 # game/Quest_Dialogues_Separate02.rpy:2164 #-#-# translate crowdin GalleryImageQuest_QIU01_e6a451d1:
 msgid "[_u_] Um..."
@@ -2802,7 +2802,7 @@ msgstr ""
 
 # game/Quest_Dialogues_Separate02.rpy:2166 #-#-# translate crowdin GalleryImageQuest_QIU01_7b1c1392_1:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "..."
 
 # game/Quest_Dialogues_Separate02.rpy:2167 #-#-# translate crowdin GalleryImageQuest_QIU01_43eb0c9f:
 msgid "[_u_] What are you doing here?"
@@ -2814,7 +2814,7 @@ msgstr ""
 
 # game/Quest_Dialogues_Separate02.rpy:2170 #-#-# translate crowdin GalleryImageQuest_QIU01_7b1c1392_2:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "..."
 
 # game/Quest_Dialogues_Separate02.rpy:2171 #-#-# translate crowdin GalleryImageQuest_QIU01_b5d76110:
 msgid "[_u_] You... why are you still on this planet? "
@@ -2834,7 +2834,7 @@ msgstr ""
 
 # game/Quest_Dialogues_Separate02.rpy:2176 #-#-# translate crowdin GalleryImageQuest_QIU01_7b1c1392_3:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "..."
 
 # game/Quest_Dialogues_Separate02.rpy:2178 #-#-# translate crowdin GalleryImageQuest_QIU01_d2f5a6c0:
 msgid "[_u_] But..."
@@ -2870,7 +2870,7 @@ msgstr ""
 
 # game/Quest_Dialogues_Separate02.rpy:2188 #-#-# translate crowdin GalleryImageQuest_QIU01_7b1c1392_4:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "..."
 
 # game/Quest_Dialogues_Separate02.rpy:2189 #-#-# translate crowdin GalleryImageQuest_QIU01_f01a273b:
 msgid "[_u_] And you're waiting for her to...? "
@@ -2898,7 +2898,7 @@ msgstr ""
 
 # game/Quest_Dialogues_Separate02.rpy:2197 #-#-# translate crowdin GalleryImageQuest_QIU01_7b1c1392_5:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "..."
 
 # game/Quest_Dialogues_Separate02.rpy:2198 #-#-# translate crowdin GalleryImageQuest_QIU01_ef2f1671:
 msgid "[_u_] What?"
@@ -2990,7 +2990,7 @@ msgstr ""
 
 # game/Quest_Dialogues_Separate02.rpy:2254 #-#-# translate crowdin GalleryImageQuest_QIU01_7b1c1392_6:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "..."
 
 # game/Quest_Dialogues_Separate02.rpy:2259 #-#-# translate crowdin Sceneqiu01_menu1_1762930a:
 msgid "[_qiu_] I'm tired of pretending... "
@@ -3537,7 +3537,7 @@ msgstr ""
 
 # game/Quest_Dialogues_Separate02.rpy:2676 #-#-# translate crowdin QuestChap2_LyStart_E_02_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "..."
 
 # game/Quest_Dialogues_Separate02.rpy:2677 #-#-# translate crowdin QuestChap2_LyStart_E_02_1ded88ba:
 msgid "[_u_] Yeah, let's do that."
@@ -3913,7 +3913,7 @@ msgstr ""
 
 # game/Quest_Dialogues_Separate02.rpy:2993 #-#-# translate crowdin QuestChap2_LyStart_E_04_menu2_P3_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "..."
 
 # game/Quest_Dialogues_Separate02.rpy:2994 #-#-# translate crowdin QuestChap2_LyStart_E_04_menu2_P3_d3e8c1c5:
 msgid "[_u_] Did she understand what the goal was?"
@@ -4057,7 +4057,7 @@ msgstr ""
 
 # game/Quest_Dialogues_Separate02.rpy:3103 #-#-# translate crowdin QuestChap2_LyStart_E_06_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "..."
 
 # game/Quest_Dialogues_Separate02.rpy:3104 #-#-# translate crowdin QuestChap2_LyStart_E_06_2af2a02d:
 msgid "[_u_] I'm not going to go out at 3am, am I? "
@@ -4225,7 +4225,7 @@ msgstr ""
 
 # game/Quest_Dialogues_Separate02.rpy:3194 #-#-# translate crowdin QuestChap2_LyStart_E_06_7b1c1392_1:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "..."
 
 # game/Quest_Dialogues_Separate02.rpy:3195 #-#-# translate crowdin QuestChap2_LyStart_E_06_e61f360b:
 msgid "[_u_] Nah, really? Are you serious? "
@@ -4277,7 +4277,7 @@ msgstr ""
 
 # game/Quest_Dialogues_Separate02.rpy:3228 #-#-# translate crowdin QuestChap2_LyStart_E_06_P1_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "..."
 
 # game/Quest_Dialogues_Separate02.rpy:3229 #-#-# translate crowdin QuestChap2_LyStart_E_06_P1_667e2984:
 msgid "[_u_] Oh great."
@@ -4309,7 +4309,7 @@ msgstr ""
 
 # game/Quest_Dialogues_Separate02.rpy:3248 #-#-# translate crowdin QuestChap2_LyStart_E_06_P1_7b1c1392_1:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "..."
 
 # game/Quest_Dialogues_Separate02.rpy:3249 #-#-# translate crowdin QuestChap2_LyStart_E_06_P1_b56ae579:
 msgid "[_u_] A perfectly mature behavior. "
@@ -4485,7 +4485,7 @@ msgstr ""
 
 # game/Quest_Dialogues_Separate02.rpy:3350 #-#-# translate crowdin LY_Talk_Adventure01_1_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "..."
 
 # game/Quest_Dialogues_Separate02.rpy:3352 #-#-# translate crowdin LY_Talk_Adventure01_1_aca94635:
 msgid "[_ly_] Nah, come on, let's get the others involved. I'd like to socialize a bit more with my colleagues. "
@@ -4561,7 +4561,7 @@ msgstr ""
 
 # game/Quest_Dialogues_Separate02.rpy:3404 #-#-# translate crowdin QUEST_office_01_customs_TINKERAPP01_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "..."
 
 # game/Quest_Dialogues_Separate02.rpy:3405 #-#-# translate crowdin QUEST_office_01_customs_TINKERAPP01_daac25b5:
 msgid "[_u_] Yeah my stuff... plants... mugs... that kind of thing. "
@@ -4577,7 +4577,7 @@ msgstr ""
 
 # game/Quest_Dialogues_Separate02.rpy:3410 #-#-# translate crowdin QUEST_office_01_customs_TINKERAPP01_7b1c1392_1:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "..."
 
 # game/Quest_Dialogues_Separate02.rpy:3412 #-#-# translate crowdin QUEST_office_01_customs_TINKERAPP01_47861cb7:
 msgid "[_tb_] All right, I'll see where we put your stuff."
@@ -4645,7 +4645,7 @@ msgstr ""
 
 # game/Quest_Dialogues_Separate02.rpy:3459 #-#-# translate crowdin CustomsAPP_01_Oriental_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "..."
 
 # game/Quest_Dialogues_Separate02.rpy:3461 #-#-# translate crowdin CustomsAPP_01_Oriental_07608bd4:
 msgid "[_tb_] Stop sulking, it's better than nothing!"
@@ -5085,7 +5085,7 @@ msgstr ""
 
 # game/Quest_Dialogues_Separate02.rpy:3783 #-#-# translate crowdin Lycoris_scene02_menu1_P1_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "..."
 
 # game/Quest_Dialogues_Separate02.rpy:3784 #-#-# translate crowdin Lycoris_scene02_menu1_P1_d337807a:
 msgid "[_u_] Mh..."
@@ -5541,7 +5541,7 @@ msgstr ""
 
 # game/Quest_Dialogues_Separate02.rpy:4244 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_05_menu1_P1_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "..."
 
 # game/Quest_Dialogues_Separate02.rpy:4245 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_05_menu1_P1_3bf41b24:
 msgid "[_u_] And you could have sex. "
@@ -5565,7 +5565,7 @@ msgstr ""
 
 # game/Quest_Dialogues_Separate02.rpy:4262 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_05_menu1_P2_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "..."
 
 # game/Quest_Dialogues_Separate02.rpy:4263 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_05_menu1_P2_b7cfdd8f:
 msgid "[_u_] Yeah, but it could be cool... "
@@ -5673,7 +5673,7 @@ msgstr ""
 
 # game/Quest_Dialogues_Separate02.rpy:4327 #-#-# translate crowdin QuestChap2_AMStart_DoubleQuest_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "..."
 
 # game/Quest_Dialogues_Separate02.rpy:4328 #-#-# translate crowdin QuestChap2_AMStart_DoubleQuest_b4be43c5:
 msgid "[_u_] Oh, you mean right now? "
@@ -5885,7 +5885,7 @@ msgstr ""
 
 # game/Quest_Dialogues_Separate02.rpy:4487 #-#-# translate crowdin QuestChap2_AMStart_DoubleQuest_menu1_P2_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "..."
 
 # game/Quest_Dialogues_Separate02.rpy:4488 #-#-# translate crowdin QuestChap2_AMStart_DoubleQuest_menu1_P2_ea66d856:
 msgid "[_u_] Wow... It's hard to say no to a busty redhead... "
@@ -5917,7 +5917,7 @@ msgstr ""
 
 # game/Quest_Dialogues_Separate02.rpy:4504 #-#-# translate crowdin QuestChap2_AMStart_DoubleQuest_menu1_P2_7b1c1392_1:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "..."
 
 # game/Quest_Dialogues_Separate02.rpy:4506 #-#-# translate crowdin QuestChap2_AMStart_DoubleQuest_menu1_P2_7c3bedc6:
 msgid "[_u_] Yeah, okay, let's say you're right. "
@@ -6001,7 +6001,7 @@ msgstr ""
 
 # game/Quest_Dialogues_Separate02.rpy:4599 #-#-# translate crowdin TBReactionLicorne_03_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "..."
 
 # game/Quest_Dialogues_Separate02.rpy:4600 #-#-# translate crowdin TBReactionLicorne_03_1ffa9899:
 msgid "[_u_] What are you doing here? "
@@ -6013,7 +6013,7 @@ msgstr ""
 
 # game/Quest_Dialogues_Separate02.rpy:4603 #-#-# translate crowdin TBReactionLicorne_03_7b1c1392_1:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "..."
 
 # game/Quest_Dialogues_Separate02.rpy:4605 #-#-# translate crowdin TBReactionLicorne_03_a71b8eed:
 msgid "[_tb_] No, I'm just kidding. I came to ask you a favor. "
@@ -6097,7 +6097,7 @@ msgstr ""
 
 # game/Quest_Dialogues_Separate02.rpy:4662 #-#-# translate crowdin TBReactionLicorne_03_menu01_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "..."
 
 # game/Quest_Dialogues_Separate02.rpy:4664 #-#-# translate crowdin TBReactionLicorne_03_menu01_2bf7b62b:
 msgid "[_tb_] Well... are you doing it or what? "
@@ -6141,7 +6141,7 @@ msgstr ""
 
 # game/Quest_Dialogues_Separate02.rpy:4713 #-#-# translate crowdin GalleryImageQuest_Tinker03_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "..."
 
 # game/Quest_Dialogues_Separate02.rpy:4715 #-#-# translate crowdin GalleryImageQuest_Tinker03_731ba311:
 msgid "[_tb_] Ok! As you wish!"
@@ -6165,7 +6165,7 @@ msgstr ""
 
 # game/Quest_Dialogues_Separate02.rpy:4723 #-#-# translate crowdin GalleryImageQuest_Tinker03_7b1c1392_1:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "..."
 
 # game/Quest_Dialogues_Separate02.rpy:4724 #-#-# translate crowdin GalleryImageQuest_Tinker03_5ff99417:
 msgid "[_u_] Let's focus on the horn for now."
@@ -6457,7 +6457,7 @@ msgstr ""
 
 # game/Quest_Dialogues_Separate02.rpy:4900 #-#-# translate crowdin GalleryImageQuest_Tinker03_7b1c1392_2:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "..."
 
 # game/Quest_Dialogues_Separate02.rpy:4902 #-#-# translate crowdin GalleryImageQuest_Tinker03_988891b4:
 msgid "[_tb_] Well... Don't. I'm a tough girly."
@@ -6709,7 +6709,7 @@ msgstr ""
 
 # game/Quest_Dialogues_Separate02.rpy:5085 #-#-# translate crowdin Ml_Ali_01_04_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "..."
 
 # game/Quest_Dialogues_Separate02.rpy:5086 #-#-# translate crowdin Ml_Ali_01_04_e928d8f9:
 msgid "[_u_] Let's see this message... "
@@ -7089,7 +7089,7 @@ msgstr ""
 
 # game/Quest_Dialogues_Separate02.rpy:5243 #-#-# translate crowdin Ml_Ali_01_05_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "..."
 
 # game/Quest_Dialogues_Separate02.rpy:5244 #-#-# translate crowdin Ml_Ali_01_05_20334228:
 msgid "[_u_] Uh... you mean... in proportion to your body? "
@@ -7165,7 +7165,7 @@ msgstr ""
 
 # game/Quest_Dialogues_Separate02.rpy:5295 #-#-# translate crowdin Ml_Ali_01_05_menu1_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "..."
 
 # game/Quest_Dialogues_Separate02.rpy:5296 #-#-# translate crowdin Ml_Ali_01_05_menu1_770cb1fb:
 msgid "[_u_] I hadn't really thought about it. "
@@ -7173,7 +7173,7 @@ msgstr ""
 
 # game/Quest_Dialogues_Separate02.rpy:5298 #-#-# translate crowdin Ml_Ali_01_05_menu1_7b1c1392_1:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "..."
 
 # game/Quest_Dialogues_Separate02.rpy:5300 #-#-# translate crowdin Ml_Ali_01_05_menu1_01bdf305:
 msgid "[_am_] But yes, you're right, "
@@ -7185,7 +7185,7 @@ msgstr ""
 
 # game/Quest_Dialogues_Separate02.rpy:5303 #-#-# translate crowdin Ml_Ali_01_05_menu1_7b1c1392_2:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "..."
 
 # game/Quest_Dialogues_Separate02.rpy:5305 #-#-# translate crowdin Ml_Ali_01_05_menu1_4e5790b4:
 msgid "[_am_] You can ask Tinker if you want. After all, she was here at the time. "
@@ -7505,7 +7505,7 @@ msgstr ""
 
 # game/Quest_Dialogues_Separate02.rpy:5523 #-#-# translate crowdin Emee_Ali_01_02_menu1_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "..."
 
 # game/Quest_Dialogues_Separate02.rpy:5524 #-#-# translate crowdin Emee_Ali_01_02_menu1_c1a8d3af:
 msgid "[_u_] Well, I guess I'll just have to go and see Ali-Baba. "
@@ -7637,7 +7637,7 @@ msgstr ""
 
 # game/Quest_Dialogues_Separate02.rpy:5591 #-#-# translate crowdin Ml_Ali_01_06_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "..."
 
 # game/Quest_Dialogues_Separate02.rpy:5593 #-#-# translate crowdin Ml_Ali_01_06_a56d96ad:
 msgid "[_tb_] I can't think of any reason why I'd want a human body. "
