@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-03-03 03:18\n"
+"PO-Revision-Date: 2024-03-03 04:23\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Intro01.rpy:64 #-#-# translate crowdin Intro01_93eeba4f:
 msgid "[_tb_] Greetings!"
@@ -182,67 +182,67 @@ msgstr "[_tb_] 然后我说，'嘿！帮我重建这颗星球吧！'"
 
 # game/Intro01.rpy:200 #-#-# translate crowdin Intro01_825d922b:
 msgid "[_tb_] ''You just have to corrupt some andoids and we'll reopen the park!''"
-msgstr ""
+msgstr "[_tb_] ''你只要去让一些机器人恶堕，然后我们就能重新开放公园了！''"
 
 # game/Intro01.rpy:204 #-#-# translate crowdin Intro01_2a2f1f66:
 msgid "[_tb_] So there you go, he fucked a lot of androids."
-msgstr ""
+msgstr "[_tb_] 所以就这样，他干了很多的机器人。"
 
 # game/Intro01.rpy:208 #-#-# translate crowdin Intro01_ce8e7b2f:
 msgid "[_tb_] And then we hired new employees."
-msgstr ""
+msgstr "[_tb_] 然后我们雇佣了新的员工。"
 
 # game/Intro01.rpy:212 #-#-# translate crowdin Intro01_cde41a6c:
 msgid "[_tb_] And this guy got a little too comfortable, "
-msgstr ""
+msgstr "[_tb_] 然后那家伙就有点安逸得过头了， "
 
 # game/Intro01.rpy:216 #-#-# translate crowdin Intro01_8482d6e0:
 msgid "[_tb_] Because I'm pretty sure he banged his colleagues. "
-msgstr ""
+msgstr "[_tb_] 因为我很确定他上了他的同事。 "
 
 # game/Intro01.rpy:218 #-#-# translate crowdin Intro01_59469fe4:
 msgid "[_u_] Really? "
-msgstr ""
+msgstr "[_u_] 真的吗？ "
 
 # game/Intro01.rpy:220 #-#-# translate crowdin Intro01_7808bc18:
 msgid "[_tb_] Actually I don't know, they don't invite me to their parties. "
-msgstr ""
+msgstr "[_tb_] 其实我并不知道，他们没邀请我参加他们的派对。 "
 
 # game/Intro01.rpy:222 #-#-# translate crowdin Intro01_b164a661:
 msgid "[_u_] Stop making things up, you don't know. "
-msgstr ""
+msgstr "[_u_] 别捏造事实了，你又不是真的知道。 "
 
 # game/Intro01.rpy:224 #-#-# translate crowdin Intro01_4ce5e25d:
 msgid "[_tb_] I'm not an idiot."
-msgstr ""
+msgstr "[_tb_] 我不是白痴。"
 
 # game/Intro01.rpy:227 #-#-# translate crowdin Intro01_f771ba21:
 msgid "[_tb_] I... "
-msgstr ""
+msgstr "[_tb_] 我... "
 
 # game/Intro01.rpy:230 #-#-# translate crowdin Intro01_afa41641:
 msgid "[_tb_] Could you invite me to your next party?"
-msgstr ""
+msgstr "[_tb_] 你能邀请我参加你的下个派对吗？"
 
 # game/Intro01.rpy:231 #-#-# translate crowdin Intro01_7b1c1392_1:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Intro01.rpy:232 #-#-# translate crowdin Intro01_7cd082cc:
 msgid "[_u_] I'll think about it. "
-msgstr ""
+msgstr "[_u_] 我会考虑的。 "
 
 # game/Intro01.rpy:235 #-#-# translate crowdin Intro01_9cba9302:
 msgid "[_tb_] Mh."
-msgstr ""
+msgstr "[_tb_] 嗯。"
 
 # game/Intro01.rpy:242 #-#-# translate crowdin Intro01_ab7ab62c:
 msgid "[_tb_] Anyway, One month ago..."
-msgstr ""
+msgstr "[_tb_] 言归正传，一个月前..."
 
 # game/Intro01.rpy:247 #-#-# translate crowdin Intro01_88e14bbe:
 msgid "[_tb_] I sent the guy on a mission."
-msgstr ""
+msgstr "[_tb_] 我派他去执行任务。"
 
 # game/Intro01.rpy:250 #-#-# translate crowdin Intro01_57bf35dc:
 msgid "[_tb_] A mission that would allow us to access a gigantic city, lost in the middle of the desert. "
