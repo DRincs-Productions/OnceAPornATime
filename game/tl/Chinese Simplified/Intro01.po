@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-03-03 04:23\n"
+"PO-Revision-Date: 2024-03-03 05:44\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Intro01.rpy:64 #-#-# translate crowdin Intro01_93eeba4f:
 msgid "[_tb_] Greetings!"
@@ -246,51 +246,51 @@ msgstr "[_tb_] 我派他去执行任务。"
 
 # game/Intro01.rpy:250 #-#-# translate crowdin Intro01_57bf35dc:
 msgid "[_tb_] A mission that would allow us to access a gigantic city, lost in the middle of the desert. "
-msgstr ""
+msgstr "[_tb_] 这个任务能让我们进入一座迷失在沙漠中部的巨大城市。 "
 
 # game/Intro01.rpy:253 #-#-# translate crowdin Intro01_88c80c9f:
 msgid "[_tb_] And let's say that snow..."
-msgstr ""
+msgstr "[_tb_] 我们再说说那个白雪..."
 
 # game/Intro01.rpy:257 #-#-# translate crowdin Intro01_8c3cc117:
 msgid "[_tb_] ...is almost a legend in these lands."
-msgstr ""
+msgstr "[_tb_] ...几乎是这片土地上的传说。"
 
 # game/Intro01.rpy:447 #-#-# translate crowdin Prison01_key_a0d3f6b0:
 msgid "[_u_] Come on, you stupid lock... open up."
-msgstr ""
+msgstr "[_u_] 快啊，你这破锁... 快开啊。"
 
 # game/Intro01.rpy:448 #-#-# translate crowdin Prison01_key_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Intro01.rpy:449 #-#-# translate crowdin Prison01_key_b39f0f28:
 msgid "[_u_] Open sesame?"
-msgstr ""
+msgstr "[_u_] 芝麻开门？"
 
 # game/Intro01.rpy:450 #-#-# translate crowdin Prison01_key_7b1c1392_1:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Intro01.rpy:451 #-#-# translate crowdin Prison01_key_22bf7668:
 msgid "[_u_] Please?"
-msgstr ""
+msgstr "[_u_] 拜托了？"
 
 # game/Intro01.rpy:452 #-#-# translate crowdin Prison01_key_7b1c1392_2:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Intro01.rpy:453 #-#-# translate crowdin Prison01_key_efab4004:
 msgid "[_u_] Yeah... strangely, the 1000th time, it still doesn't work. "
-msgstr ""
+msgstr "[_u_] 嗯... 怪了，这是一千零一夜里的开门咒语，怎么还不管用呢？ "
 
 # game/Intro01.rpy:457 #-#-# translate crowdin Prison01_key_93c13780:
 msgid "[_u_] Open sesame!"
-msgstr ""
+msgstr "[_u_] 芝麻开门！"
 
 # game/Intro01.rpy:464 #-#-# translate crowdin Prison01_key_6b4cbdc9:
 msgid "[_ly_] Hello."
-msgstr ""
+msgstr "[_ly_] 你好。"
 
 # game/Intro01.rpy:466 #-#-# translate crowdin Prison01_key_4bada43c:
 msgid "[_ly_] Je suis pas trop bonne?"
