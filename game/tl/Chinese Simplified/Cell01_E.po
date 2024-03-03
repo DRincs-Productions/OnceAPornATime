@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-02-26 13:30\n"
+"PO-Revision-Date: 2024-03-03 12:59\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_E.rpy:71 #-#-# translate crowdin Cell01_E_QuestActivations_9ef65d05:
 msgid "[_u_] Whose ship is this? "
@@ -178,7 +178,7 @@ msgstr ""
 
 # game/Cell01_E.rpy:435 #-#-# translate crowdin CHARA_E_Shop_MenuChoice_SELL_a8c52ae1:
 msgid "[_e_] No. Not today."
-msgstr ""
+msgstr "[_e_] 不，今天不行。"
 
 # game/Cell01_E.rpy:438 #-#-# translate crowdin CHARA_E_Shop_MenuChoice_SELL_8ef1d7e6:
 msgid "[_e_] Yes, of course! It would be a pleasure!"
