@@ -10,11 +10,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-02-26 13:30\n"
+"PO-Revision-Date: 2024-03-03 02:12\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Intro01.rpy:64 #-#-# translate crowdin Intro01_93eeba4f:
 msgid "[_tb_] Greetings!"
-msgstr ""
+msgstr "[_tb_] 玩家们好！"
 
 # game/Intro01.rpy:66 #-#-# translate crowdin Intro01_8f6c61d9:
 msgid "[_tb_] And welcome to Chapter 2 of ''Once a Porn a Time''."
