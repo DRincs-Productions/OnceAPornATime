@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-02-26 13:30\n"
+"PO-Revision-Date: 2024-03-03 12:59\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_ArtDIVISION.rpy:151 #-#-# translate crowdin Cell01_ArtDIVISION_Menu01_ed0ef4ce:
 msgid "[_a_] Bonjour [name]!"
@@ -58,7 +58,7 @@ msgstr ""
 
 # game/Cell01_ArtDIVISION.rpy:284 #-#-# translate crowdin CHARA_A_ChangeClothesPanel_a8c52ae1:
 msgid "[_e_] No. Not today."
-msgstr ""
+msgstr "[_e_] 不，今天不行。"
 
 # game/Cell01_ArtDIVISION.rpy:287 #-#-# translate crowdin CHARA_A_ChangeClothesPanel_a6be5e3c:
 msgid "[_a_] Of course!"
