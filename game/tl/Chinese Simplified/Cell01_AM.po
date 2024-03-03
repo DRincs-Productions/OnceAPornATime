@@ -10,35 +10,35 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-02-26 13:30\n"
+"PO-Revision-Date: 2024-03-03 12:59\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_AM.rpy:86 #-#-# translate crowdin CHARA_AM_Menu01_c781f953:
 msgid "[_am_] Hey!"
-msgstr ""
+msgstr "[_am_] 嘿！"
 
 # game/Cell01_AM.rpy:123 #-#-# translate crowdin QuestChap2_Amelia01_01_menu01_P1_eb532779:
 msgid "[_am_] Have you decided to help me? Really?"
-msgstr ""
+msgstr "[_am_] 你决定好要帮我了？真的？"
 
 # game/Cell01_AM.rpy:125 #-#-# translate crowdin QuestChap2_Amelia01_01_menu01_P1_47a7442e:
 msgid "[_am_] Thank you thank you thank you!"
-msgstr ""
+msgstr "[_am_] 谢谢你，谢谢你，谢谢你！"
 
 # game/Cell01_AM.rpy:129 #-#-# translate crowdin QuestChap2_Amelia01_01_menu01_P1_016a3ede:
 msgid "[_am_] We start the first interview tomorrow!"
-msgstr ""
+msgstr "[_am_] 我们明天就开始第一次面试吧！"
 
 # game/Cell01_AM.rpy:134 #-#-# translate crowdin QuestChap2_Amelia01_01_menu01_P1_82285134:
 msgid "[_am_] Yes, but come back tomorrow, we won't do it at night!"
-msgstr ""
+msgstr "[_am_] 好的，但还是明天再过来吧，我们今晚还是算了吧！"
 
 # game/Cell01_AM.rpy:142 #-#-# translate crowdin QuestChap2_Amelia01_01_menu01_P1_82285134_1:
 msgid "[_am_] Yes, but come back tomorrow, we won't do it at night!"
-msgstr ""
+msgstr "[_am_] 好的，但还是明天再过来吧，我们今晚还是算了吧！"
 
 # game/Cell01_AM.rpy:163 #-#-# translate crowdin QuestChap2_Amelia01_01_menu01_P1_a8c52ae1:
 msgid "[_e_] No. Not today."
-msgstr ""
+msgstr "[_e_] 不，今天不行。"
 
 # game/Cell01_AM.rpy:166 #-#-# translate crowdin QuestChap2_Amelia01_01_menu01_P1_8ef1d7e6:
 msgid "[_e_] Yes, of course! It would be a pleasure!"
