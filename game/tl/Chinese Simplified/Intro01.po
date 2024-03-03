@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-03-03 10:41\n"
+"PO-Revision-Date: 2024-03-03 15:32\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Intro01.rpy:64 #-#-# translate crowdin Intro01_93eeba4f:
 msgid "[_tb_] Greetings!"
@@ -434,7 +434,7 @@ msgstr ""
 
 # game/Intro01.rpy:646 #-#-# translate crowdin Prison01_grid_72648bf0:
 msgid "[_u_] Hey Lyco? Are you here? "
-msgstr ""
+msgstr "[_u_] 嘿，莉可？你在这吗？ "
 
 # game/Intro01.rpy:647 #-#-# translate crowdin Prison01_grid_7b1c1392:
 msgid "[_u_] ..."
@@ -442,7 +442,7 @@ msgstr ""
 
 # game/Intro01.rpy:648 #-#-# translate crowdin Prison01_grid_7def6bde:
 msgid "[_u_] Lycoris?"
-msgstr ""
+msgstr "[_u_] 莉可丽丝？"
 
 # game/Intro01.rpy:649 #-#-# translate crowdin Prison01_grid_5c2e417e:
 msgid "[_u_] Gosh when is she coming? I'm starving..."
@@ -458,7 +458,7 @@ msgstr ""
 
 # game/Intro01.rpy:661 #-#-# translate crowdin Prison01_grid_7def6bde_1:
 msgid "[_u_] Lycoris?"
-msgstr ""
+msgstr "[_u_] 莉可丽丝？"
 
 # game/Intro01.rpy:662 #-#-# translate crowdin Prison01_grid_7b1c1392_2:
 msgid "[_u_] ..."
@@ -1942,7 +1942,7 @@ msgstr ""
 
 # game/Intro01.rpy:2021 #-#-# translate crowdin Intro_PrisonEnd_menu01_7def6bde:
 msgid "[_u_] Lycoris?"
-msgstr ""
+msgstr "[_u_] 莉可丽丝？"
 
 # game/Intro01.rpy:2022 #-#-# translate crowdin Intro_PrisonEnd_menu01_7b1c1392_4:
 msgid "[_u_] ..."
