@@ -10,48 +10,49 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-02-26 13:31\n"
+"PO-Revision-Date: 2024-03-03 05:44\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # §translate crowdin strings: #|#|# # game/screens.rpy:256
 msgid "Back"
-msgstr ""
+msgstr "返回"
 
 # game/screens.rpy:257
 msgid "History"
-msgstr ""
+msgstr "历史"
 
 # game/screens.rpy:258
 msgid "Skip"
-msgstr ""
+msgstr "跳过"
 
 # game/screens.rpy:259
 msgid "Auto"
-msgstr ""
+msgstr "自动"
 
 # game/screens.rpy:260
 msgid "Save"
-msgstr ""
+msgstr "保存"
 
 # game/screens.rpy:261
 msgid "Q.Save"
-msgstr ""
+msgstr "快速保存"
 
 # game/screens.rpy:262
 msgid "Q.Load"
-msgstr ""
+msgstr "快速读取"
 
 # game/screens.rpy:263
 msgid "Prefs"
-msgstr ""
+msgstr "偏好"
 
 # game/screens.rpy:304
 msgid "Version [config.version!t]\n"
-msgstr ""
+msgstr "版本 [config.version!t]\n"
 
 # game/screens.rpy:311
 msgid "Conçu avec {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n"
 "[renpy.license!t]"
-msgstr ""
+msgstr "由 {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only]制作。\n\n"
+"[renpy.license!t]"
 
 # game/screens.rpy:315
 msgid "ICI CE TROUVE L'INVENTAIRE"
@@ -59,35 +60,35 @@ msgstr ""
 
 # game/screens.rpy:316
 msgid "Retour"
-msgstr ""
+msgstr "返回"
 
 # game/screens.rpy:363
 msgid "ChangeLog"
-msgstr ""
+msgstr "更新日志"
 
 # game/screens.rpy:375
 msgid "Start"
-msgstr ""
+msgstr "开始"
 
 # game/screens.rpy:386
 msgid "Load"
-msgstr ""
+msgstr "读取"
 
 # game/screens.rpy:388
 msgid "Preferences"
-msgstr ""
+msgstr "偏好"
 
 # game/screens.rpy:392
 msgid "End Replay"
-msgstr ""
+msgstr "结束回放"
 
 # game/screens.rpy:396
 msgid "Main Menu"
-msgstr ""
+msgstr "主菜单"
 
 # game/screens.rpy:398
 msgid "About"
-msgstr ""
+msgstr "关于"
 
 # game/screens.rpy:403
 msgid "Help"
