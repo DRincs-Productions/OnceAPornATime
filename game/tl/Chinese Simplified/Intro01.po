@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-03-04 12:08\n"
+"PO-Revision-Date: 2024-03-04 15:53\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Intro01.rpy:64 #-#-# translate crowdin Intro01_93eeba4f:
 msgid "[_tb_] Greetings!"
@@ -630,43 +630,43 @@ msgstr "[_ly_] 我真的厌倦了这个地方。"
 
 # game/Intro01.rpy:892 #-#-# translate crowdin Prison01_LycoApp01_menu1_p1_d6b49197:
 msgid "[_ly_] And how will I do that?"
-msgstr ""
+msgstr "[_ly_] 但我又能怎么办呢？"
 
 # game/Intro01.rpy:894 #-#-# translate crowdin Prison01_LycoApp01_menu1_p1_cc44caac:
 msgid "[_ly_] There are guards everywhere, day and night."
-msgstr ""
+msgstr "[_ly_] 这里到处都是卫兵，日夜都有人值班。"
 
 # game/Intro01.rpy:896 #-#-# translate crowdin Prison01_LycoApp01_menu1_p1_322ee8fa:
 msgid "[_ly_] And then apparently, you have some great friends coming to pick you up!"
-msgstr ""
+msgstr "[_ly_] 然而，很显然，你有一些好朋友，他们会来接你走。"
 
 # game/Intro01.rpy:898 #-#-# translate crowdin Prison01_LycoApp01_menu1_p1_35780df9:
 msgid "[_ly_] I'll just have to come with you! right? "
-msgstr ""
+msgstr "[_ly_] 那我只能跟你走了！对吧？ "
 
 # game/Intro01.rpy:899 #-#-# translate crowdin Prison01_LycoApp01_menu1_p1_5dc784bd:
 msgid "[_u_] Yeah, sure... "
-msgstr ""
+msgstr "[_u_] 是这样没错... "
 
 # game/Intro01.rpy:901 #-#-# translate crowdin Prison01_LycoApp01_menu1_p1_ffb411e6:
 msgid "[_ly_] You better do it, little man."
-msgstr ""
+msgstr "[_ly_] 你最好别忘了带我，小家伙。"
 
 # game/Intro01.rpy:913 #-#-# translate crowdin Prison01_LycoApp01_menu1_p2_103d63e4:
 msgid "[_ly_] You sound like her Majesty... "
-msgstr ""
+msgstr "[_ly_] 你的语气听起来像是女皇陛下... "
 
 # game/Intro01.rpy:915 #-#-# translate crowdin Prison01_LycoApp01_menu1_p2_8aba6cff:
 msgid "[_ly_] You know I could be caught? "
-msgstr ""
+msgstr "[_ly_] 你知道我有可能会被抓住吗？ "
 
 # game/Intro01.rpy:917 #-#-# translate crowdin Prison01_LycoApp01_menu1_p2_be440b0b:
 msgid "[_ly_] And even if I did... what would we do after that?"
-msgstr ""
+msgstr "[_ly_] 而且，就算我真出去了... 我们之后又能做什么呢？"
 
 # game/Intro01.rpy:919 #-#-# translate crowdin Prison01_LycoApp01_menu1_p2_10deed6f:
 msgid "[_ly_] The palace is entirely guarded."
-msgstr ""
+msgstr "[_ly_] 这地方被看守得密不透风。"
 
 # game/Intro01.rpy:921 #-#-# translate crowdin Prison01_LycoApp01_menu1_p2_df758f13:
 msgid "[_ly_] And the city too, and outside of it, there is only desert for miles."
