@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-03-04 15:53\n"
+"PO-Revision-Date: 2024-03-04 17:13\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Intro01.rpy:64 #-#-# translate crowdin Intro01_93eeba4f:
 msgid "[_tb_] Greetings!"
@@ -670,7 +670,7 @@ msgstr "[_ly_] 这地方被看守得密不透风。"
 
 # game/Intro01.rpy:921 #-#-# translate crowdin Prison01_LycoApp01_menu1_p2_df758f13:
 msgid "[_ly_] And the city too, and outside of it, there is only desert for miles."
-msgstr ""
+msgstr "[_ly_] 还有这座城市也戒备森严，还有城市外面，有好几英里都是沙漠。"
 
 # game/Intro01.rpy:923 #-#-# translate crowdin Prison01_LycoApp01_menu1_p2_fec77b7f:
 msgid "[_ly_] Unless you have a plan in mind. My answer is no."
