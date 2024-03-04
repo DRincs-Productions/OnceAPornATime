@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-03-04 09:52\n"
+"PO-Revision-Date: 2024-03-04 12:08\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Intro01.rpy:64 #-#-# translate crowdin Intro01_93eeba4f:
 msgid "[_tb_] Greetings!"
@@ -326,107 +326,107 @@ msgstr "[_u_]  我完全不知道那里面是什么东西。 "
 
 # game/Intro01.rpy:487 #-#-# translate crowdin Prison01_bed_593d8cba:
 msgid "[_u_]  To be honest, this bed is better than the one at headquarters."
-msgstr ""
+msgstr "[_u_]  说实话，这张床要比在总部的那张床好多了。"
 
 # game/Intro01.rpy:488 #-#-# translate crowdin Prison01_bed_2a83b8f1:
 msgid "[_u_]  If I can escape from here I'll take it with me. "
-msgstr ""
+msgstr "[_u_] 如果我能从这里逃出去，那我也会顺便把这种床带走。 "
 
 # game/Intro01.rpy:496 #-#-# translate crowdin Prison01_wind_c34f40ef:
 msgid "[_u_]  You again? "
-msgstr ""
+msgstr "[_u_]  你又来了？ "
 
 # game/Intro01.rpy:501 #-#-# translate crowdin Prison01_wind_269d61b3:
 msgid "[_u_] You want to tell me something? "
-msgstr ""
+msgstr "[_u_] 你是想告诉我什么事吗？ "
 
 # game/Intro01.rpy:502 #-#-# translate crowdin Prison01_wind_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Intro01.rpy:503 #-#-# translate crowdin Prison01_wind_22b6afda:
 msgid "[_u_] If this thing really starts talking to me... "
-msgstr ""
+msgstr "[_u_] 如果这个东西真的能和我说话的话... "
 
 # game/Intro01.rpy:504 #-#-# translate crowdin Prison01_wind_77aa5356:
 msgid "[_u_] I'm really going to freak out."
-msgstr ""
+msgstr "[_u_] 那我一定会大吃一惊的。"
 
 # game/Intro01.rpy:506 #-#-# translate crowdin Prison01_wind_7b1c1392_1:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Intro01.rpy:531 #-#-# translate crowdin Prison01_wind_5d543128:
 msgid "[_u_] What the hell was that?????"
-msgstr ""
+msgstr "[_u_] 这到底是什么东西？？？？？"
 
 # game/Intro01.rpy:539 #-#-# translate crowdin Prison01_wind_252790dd:
 msgid "[_u_] Am I going crazy... "
-msgstr ""
+msgstr "[_u_] 我是要疯了吗... "
 
 # game/Intro01.rpy:540 #-#-# translate crowdin Prison01_wind_f11fa01c:
 msgid "[_u_] Someone must be spying on me."
-msgstr ""
+msgstr "[_u_] 肯定有人在暗中监视我。"
 
 # game/Intro01.rpy:542 #-#-# translate crowdin Prison01_wind_cae1bbae:
 msgid "[_u_] Or, indeed, I'm really going crazy."
-msgstr ""
+msgstr "[_u_] 或者，其实是我疯掉了。"
 
 # game/Intro01.rpy:553 #-#-# translate crowdin Prison01_wind_17218a1c:
 msgid "[_u_] Another day in paradise!"
-msgstr ""
+msgstr "[_u_] 在天堂里的又一天！"
 
 # game/Intro01.rpy:567 #-#-# translate crowdin Prison01_wind_91df15c4:
 msgid "[_u_] Hello again little birdie."
-msgstr ""
+msgstr "[_u_] 又见面了，小鸟。"
 
 # game/Intro01.rpy:568 #-#-# translate crowdin Prison01_wind_a70f36bc:
 msgid "[_u_] What's new since yesterday? "
-msgstr ""
+msgstr "[_u_] 从昨天起有什么新鲜事吗？ "
 
 # game/Intro01.rpy:579 #-#-# translate crowdin Prison01_wind_7b1c1392_2:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Intro01.rpy:587 #-#-# translate crowdin Prison01_wind_553a72e8:
 msgid "[_u_] I really feel like this bird is spying on me... "
-msgstr ""
+msgstr "[_u_] 我是真觉得这只鸟在监视我。 "
 
 # game/Intro01.rpy:588 #-#-# translate crowdin Prison01_wind_7b1c1392_3:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Intro01.rpy:589 #-#-# translate crowdin Prison01_wind_8781e767:
 msgid "[_u_] ... I think I'm going crazy. "
-msgstr ""
+msgstr "[_u_] ... 我想我是要疯掉了。 "
 
 # game/Intro01.rpy:593 #-#-# translate crowdin Prison01_wind_25b6c56d:
 msgid "[_ly_] Hey! Anything new outside?"
-msgstr ""
+msgstr "[_ly_] 嘿！外面有什么新鲜事吗？"
 
 # game/Intro01.rpy:594 #-#-# translate crowdin Prison01_wind_7b1c1392_4:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Intro01.rpy:595 #-#-# translate crowdin Prison01_wind_14a2aa5c:
 msgid "[_u_] Yep, everyone is naked and dancing in the streets!"
-msgstr ""
+msgstr "[_u_] 有的，每个人都赤身裸体地在大街上跳舞。"
 
 # game/Intro01.rpy:619 #-#-# translate crowdin Prison01_wind_e2fd2fdf:
 msgid "[_u_] Gosh, this city is absolutely gigantic..."
-msgstr ""
+msgstr "[_u_] 天哪，这座城市真是一望无际的大啊..."
 
 # game/Intro01.rpy:620 #-#-# translate crowdin Prison01_wind_d880be65:
 msgid "[_u_] There must be thousands of androids here."
-msgstr ""
+msgstr "[_u_] 这里肯定有成千上万的机器人。"
 
 # game/Intro01.rpy:621 #-#-# translate crowdin Prison01_wind_7b1c1392_5:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Intro01.rpy:622 #-#-# translate crowdin Prison01_wind_b0570d60:
 msgid "[_u_] I really should have tried to disguise myself before coming there."
-msgstr ""
+msgstr "[_u_] 我是真该在来这之前，伪装下自己的身份。"
 
 # game/Intro01.rpy:634 #-#-# translate crowdin Prison01_grid_f16c536d:
 msgid "[_u_] Lyco?"
@@ -438,7 +438,7 @@ msgstr "[_u_] 嘿，莉可？你在这吗？ "
 
 # game/Intro01.rpy:647 #-#-# translate crowdin Prison01_grid_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Intro01.rpy:648 #-#-# translate crowdin Prison01_grid_7def6bde:
 msgid "[_u_] Lycoris?"
@@ -466,167 +466,167 @@ msgstr "[_u_] ..."
 
 # game/Intro01.rpy:686 #-#-# translate crowdin SceneSherazade01_e4160979:
 msgid "[_u_] It looks like there's someone in the back of the room... "
-msgstr ""
+msgstr "[_u_] 看来好像有人在房间的后面... "
 
 # game/Intro01.rpy:687 #-#-# translate crowdin SceneSherazade01_570462c4:
 msgid "[_u_] It seems to be the woman in blue from the other time..."
-msgstr ""
+msgstr "[_u_] 看起来是上次那个蓝发女人..."
 
 # game/Intro01.rpy:699 #-#-# translate crowdin GalleryImageQuest_Shera01_19f66b72:
 msgid "[_u_] I just can't see her face... "
-msgstr ""
+msgstr "[_u_] 不过我看不到她的脸... "
 
 # game/Intro01.rpy:700 #-#-# translate crowdin GalleryImageQuest_Shera01_589f47fb:
 msgid "[_u_] Is this... a bath? "
-msgstr ""
+msgstr "[_u_] 这是... 一个浴缸？ "
 
 # game/Intro01.rpy:702 #-#-# translate crowdin GalleryImageQuest_Shera01_9143d027:
 msgid "[_u_] Damn I'd kill to get a nice hot bath..."
-msgstr ""
+msgstr "[_u_] 该死，我可太想洗个舒服的热水鸳鸯浴了..."
 
 # game/Intro01.rpy:755 #-#-# translate crowdin GalleryImageQuest_Shera01_199ec790:
 msgid "[_u_] This woman knows how to undress... "
-msgstr ""
+msgstr "[_u_] 这个女人知道要怎么诱人的脱去衣服... "
 
 # game/Intro01.rpy:756 #-#-# translate crowdin GalleryImageQuest_Shera01_97fcb7aa:
 msgid "[_u_] That's for sure."
-msgstr ""
+msgstr "[_u_] 这是毋庸置疑的。"
 
 # game/Intro01.rpy:772 #-#-# translate crowdin GalleryImageQuest_Shera01_2f713fae:
 msgid "[_u_] Great..."
-msgstr ""
+msgstr "[_u_] 很好..."
 
 # game/Intro01.rpy:773 #-#-# translate crowdin GalleryImageQuest_Shera01_d4fc0bf7:
 msgid "[_u_] Let's see if I can finally finish digging this crack."
-msgstr ""
+msgstr "[_u_] 看我能不能把这个裂缝给挖开。"
 
 # game/Intro01.rpy:784 #-#-# translate crowdin GalleryImageQuest_Shera01_1df67a29:
 msgid "[_u_] No one here at the moment. "
-msgstr ""
+msgstr "[_u_] 目前没有人在这里。 "
 
 # game/Intro01.rpy:790 #-#-# translate crowdin GalleryImageQuest_Shera01_129c684a:
 msgid "[_u_] When is my spoon coming?"
-msgstr ""
+msgstr "[_u_] 只是我的勺子几时能来呢？"
 
 # game/Intro01.rpy:791 #-#-# translate crowdin GalleryImageQuest_Shera01_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Intro01.rpy:792 #-#-# translate crowdin GalleryImageQuest_Shera01_c6f53f8f:
 msgid "[_u_] Plus I'm super hungry. "
-msgstr ""
+msgstr "[_u_] 呼，我饿得能吃下一头象。 "
 
 # game/Intro01.rpy:796 #-#-# translate crowdin GalleryImageQuest_Shera01_e263ab1a:
 msgid "[_u_]  Just a hit or two with a spoon and I could finally see the other side. "
-msgstr ""
+msgstr "[_u_]  只要用勺子敲打一两下，我就能看到另一面的世界了。 "
 
 # game/Intro01.rpy:797 #-#-# translate crowdin GalleryImageQuest_Shera01_7b1c1392_1:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Intro01.rpy:798 #-#-# translate crowdin GalleryImageQuest_Shera01_753e09df:
 msgid "[_u_] ...If it's a broom closet on the other side of this wall, I'm gonna lose my mind. "
-msgstr ""
+msgstr "[_u_] ...但如果这面墙的另一面是杂物室，那我会气得失去理智。 "
 
 # game/Intro01.rpy:804 #-#-# translate crowdin Prison01_bol1_bfcb8329:
 msgid "[_u_]  This chick is nice but..."
-msgstr ""
+msgstr "[_u_]  那妹子挺不错的，但是..."
 
 # game/Intro01.rpy:805 #-#-# translate crowdin Prison01_bol1_45cb8e42:
 msgid "[_u_]  I hope this is the last time I eat this crap. "
-msgstr ""
+msgstr "[_u_]  希望我是最后一次吃这个垃圾饭菜。 "
 
 # game/Intro01.rpy:806 #-#-# translate crowdin Prison01_bol1_f9874bcb:
 msgid "[_u_]  Now, let's use this spoon to finish digging out that wall."
-msgstr ""
+msgstr "[_u_]  现在，让我用勺子把那面墙挖穿吧。"
 
 # game/Intro01.rpy:814 #-#-# translate crowdin Prison01_bol1_b9176071:
 msgid "[_u_] Damn this android chick cooks so bad... "
-msgstr ""
+msgstr "[_u_] 操了，这些个机器妹的厨艺太烂了... "
 
 # game/Intro01.rpy:815 #-#-# translate crowdin Prison01_bol1_ad8b121a:
 msgid "[_u_] I hope Melissandre does not program these androids in the same way. "
-msgstr ""
+msgstr "[_u_] 希望梅莉山大不会按同一个方法来给这些机器人编程。 "
 
 # game/Intro01.rpy:837 #-#-# translate crowdin Prison01_LycoApp01_304b6ecf:
 msgid "[_u_] You should really come and see!"
-msgstr ""
+msgstr "[_u_] 你真该过来看看。"
 
 # game/Intro01.rpy:839 #-#-# translate crowdin Prison01_LycoApp01_82ee9a66:
 msgid "[_ly_] You know I don't have the key to your cell, right? "
-msgstr ""
+msgstr "[_ly_] 你知道我没有你牢房的钥匙，对吧？ "
 
 # game/Intro01.rpy:840 #-#-# translate crowdin Prison01_LycoApp01_7eca2ae1:
 msgid "[_u_] Yeah I know... let me dream a little. "
-msgstr ""
+msgstr "[_u_] 是的，我知道... 就让我做个白日梦吧。 "
 
 # game/Intro01.rpy:842 #-#-# translate crowdin Prison01_LycoApp01_1a4e23c8:
 msgid "[_ly_] But! I have something better!"
-msgstr ""
+msgstr "[_ly_] 不过！我有比那更好的东西！"
 
 # game/Intro01.rpy:844 #-#-# translate crowdin Prison01_LycoApp01_6e3514d6:
 msgid "[_ly_] Look at this wonderful meal I made for you!"
-msgstr ""
+msgstr "[_ly_] 来看看我为你做的这顿香喷喷的大餐！"
 
 # game/Intro01.rpy:845 #-#-# translate crowdin Prison01_LycoApp01_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Intro01.rpy:846 #-#-# translate crowdin Prison01_LycoApp01_4da1833a:
 msgid "[_u_] Is it the same thing as the previous 30 times? "
-msgstr ""
+msgstr "[_u_] 是和前三十次同样的大餐吗？ "
 
 # game/Intro01.rpy:848 #-#-# translate crowdin Prison01_LycoApp01_57317f53:
 msgid "[_ly_] No, I put shallots in this time! "
-msgstr ""
+msgstr "[_ly_] 不，我这次放的是青葱！ "
 
 # game/Intro01.rpy:849 #-#-# translate crowdin Prison01_LycoApp01_3dbe236f:
 msgid "[_u_] And, does it taste better?"
-msgstr ""
+msgstr "[_u_] 那么，这样吃起来会更美味吗？"
 
 # game/Intro01.rpy:851 #-#-# translate crowdin Prison01_LycoApp01_2734cdff:
 msgid "[_ly_] Not so much."
-msgstr ""
+msgstr "[_ly_] 没有美味多少。"
 
 # game/Intro01.rpy:852 #-#-# translate crowdin Prison01_LycoApp01_3eeb17d3:
 msgid "[_ly_] ..."
-msgstr ""
+msgstr "[_ly_] ..."
 
 # game/Intro01.rpy:853 #-#-# translate crowdin Prison01_LycoApp01_da8ebc8f:
 msgid "[_u_] Thanks Lyco, that's very kind of you."
-msgstr ""
+msgstr "[_u_] 谢谢，莉可，你人真是太好了。"
 
 # game/Intro01.rpy:860 #-#-# translate crowdin Prison01_LycoApp01_16b1a01e:
 msgid "[_ly_] So, you've been here for a month, right?"
-msgstr ""
+msgstr "[_ly_] 那么，你在这里也呆了有一个月，对吧？"
 
 # game/Intro01.rpy:861 #-#-# translate crowdin Prison01_LycoApp01_0a2a9b8c:
 msgid "[_u_] Yep! Do you still have no idea when I can come out? "
-msgstr ""
+msgstr "[_u_] 是的！你还不知道我什么时候能出去吗？ "
 
 # game/Intro01.rpy:863 #-#-# translate crowdin Prison01_LycoApp01_be2878a2:
 msgid "[_ly_] None. The Sultana does not mention it."
-msgstr ""
+msgstr "[_ly_] 不知道。苏丹娜都没提过这事。"
 
 # game/Intro01.rpy:865 #-#-# translate crowdin Prison01_LycoApp01_ebff96a9:
 msgid "[_ly_] And she's kind of scaring me these days."
-msgstr ""
+msgstr "[_ly_] 而且这几天她有点吓着我了。"
 
 # game/Intro01.rpy:867 #-#-# translate crowdin Prison01_LycoApp01_ebc0219b:
 msgid "[_u_] Arg... I hope my friends are about to send a rescue mission to help me... "
-msgstr ""
+msgstr "[_u_] 啊... 希望我的朋友可以安排一个营救任务来救我... "
 
 # game/Intro01.rpy:869 #-#-# translate crowdin Prison01_LycoApp01_c71fd986:
 msgid "[_ly_] I hope for you too. "
-msgstr ""
+msgstr "[_ly_] 我也希望如此。 "
 
 # game/Intro01.rpy:871 #-#-# translate crowdin Prison01_LycoApp01_3b9924f4:
 msgid "[_ly_] If they manage to free you, take me with you!"
-msgstr ""
+msgstr "[_ly_] 如果他们能够解救你，那就把我也带走吧！"
 
 # game/Intro01.rpy:873 #-#-# translate crowdin Prison01_LycoApp01_bd43a4b1:
 msgid "[_ly_] I'm really sick of this place."
-msgstr ""
+msgstr "[_ly_] 我真的厌倦了这个地方。"
 
 # game/Intro01.rpy:892 #-#-# translate crowdin Prison01_LycoApp01_menu1_p1_d6b49197:
 msgid "[_ly_] And how will I do that?"
