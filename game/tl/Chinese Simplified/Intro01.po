@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-03-03 16:32\n"
+"PO-Revision-Date: 2024-03-04 09:52\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Intro01.rpy:64 #-#-# translate crowdin Intro01_93eeba4f:
 msgid "[_tb_] Greetings!"
@@ -318,11 +318,11 @@ msgstr ""
 
 # game/Intro01.rpy:483 #-#-# translate crowdin Prison01_water_a0294a70:
 msgid "[_u_]  Some kind of machine, with things in it. "
-msgstr ""
+msgstr "[_u_]  某种机器，里面有个东西。 "
 
 # game/Intro01.rpy:484 #-#-# translate crowdin Prison01_water_243efa4b:
 msgid "[_u_]  I have no fucking idea what it is. "
-msgstr ""
+msgstr "[_u_]  我完全不知道那里面是什么东西。 "
 
 # game/Intro01.rpy:487 #-#-# translate crowdin Prison01_bed_593d8cba:
 msgid "[_u_]  To be honest, this bed is better than the one at headquarters."
