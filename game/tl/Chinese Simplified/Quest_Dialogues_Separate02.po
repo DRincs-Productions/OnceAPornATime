@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-03-03 15:32\n"
+"PO-Revision-Date: 2024-03-05 14:48\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Quest_Dialogues_Separate02.rpy:69 #-#-# translate crowdin Quest2_Room01Panel01screen_E_8240cba6:
 msgid "[_u_] Got it!"
@@ -2842,7 +2842,7 @@ msgstr ""
 
 # game/Quest_Dialogues_Separate02.rpy:2179 #-#-# translate crowdin GalleryImageQuest_QIU01_48c99239:
 msgid "[_u_] Why?"
-msgstr ""
+msgstr "[_u_] 此话怎讲？"
 
 # game/Quest_Dialogues_Separate02.rpy:2180 #-#-# translate crowdin GalleryImageQuest_QIU01_2ebf06d7:
 msgid "[_qiu_] ..."
