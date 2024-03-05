@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-03-05 09:52\n"
+"PO-Revision-Date: 2024-03-05 13:28\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Intro01.rpy:64 #-#-# translate crowdin Intro01_93eeba4f:
 msgid "[_tb_] Greetings!"
@@ -1142,23 +1142,23 @@ msgstr "[_ly_] 回头见了，[name]！"
 
 # game/Intro01.rpy:1341 #-#-# translate crowdin LycoPrison_menu01_01_9b638a73:
 msgid "[_u_] She really doesn't look like what I'm used to with Snow White..."
-msgstr ""
+msgstr "[_u_] 她真的不像之前我处过的那个白雪公主..."
 
 # game/Intro01.rpy:1342 #-#-# translate crowdin LycoPrison_menu01_01_1d23bbe5:
 msgid "[_u_] Maybe the androids of this region are... less prudish than in the north? "
-msgstr ""
+msgstr "[_u_] 也许这个地区的机器人... 不像北区那边的那么保守？ "
 
 # game/Intro01.rpy:1343 #-#-# translate crowdin LycoPrison_menu01_01_91aa0471:
 msgid "[_u_] I'll ask Tinker when I get back."
-msgstr ""
+msgstr "[_u_] 等回去后我要问下小叮当。"
 
 # game/Intro01.rpy:1344 #-#-# translate crowdin LycoPrison_menu01_01_7b1c1392_3:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Intro01.rpy:1345 #-#-# translate crowdin LycoPrison_menu01_01_d5770a1e:
 msgid "[_u_] If I can get back."
-msgstr ""
+msgstr "[_u_] 前提是我能回去。"
 
 # game/Intro01.rpy:1356 #-#-# translate crowdin LycoPrison_menu01_01_76cd645d:
 msgid "[_ly_] Oh boy... it seems like an eternity."
