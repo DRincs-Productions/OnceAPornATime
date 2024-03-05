@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-03-05 13:28\n"
+"PO-Revision-Date: 2024-03-05 14:48\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Intro01.rpy:64 #-#-# translate crowdin Intro01_93eeba4f:
 msgid "[_tb_] Greetings!"
@@ -1162,55 +1162,55 @@ msgstr "[_u_] 前提是我能回去。"
 
 # game/Intro01.rpy:1356 #-#-# translate crowdin LycoPrison_menu01_01_76cd645d:
 msgid "[_ly_] Oh boy... it seems like an eternity."
-msgstr ""
+msgstr "[_ly_] 哦，天啊... 看来真是要关个天荒地老。"
 
 # game/Intro01.rpy:1358 #-#-# translate crowdin LycoPrison_menu01_01_ed9b841e:
 msgid "[_ly_] I can't even count the days anymore ahah "
-msgstr ""
+msgstr "[_ly_] 我甚至都数不清关了多久了啊 "
 
 # game/Intro01.rpy:1360 #-#-# translate crowdin LycoPrison_menu01_01_ce93b12e:
 msgid "[_u_] Oh yeah... I see. "
-msgstr ""
+msgstr "[_u_] 哦，没错... 我知道了。 "
 
 # game/Intro01.rpy:1362 #-#-# translate crowdin LycoPrison_menu01_01_7b89ba59:
 msgid "[_ly_] But don't worry, you won't be in this cell that long. "
-msgstr ""
+msgstr "[_ly_] 但别担心，你不会在这个牢笼里待太久的。 "
 
 # game/Intro01.rpy:1363 #-#-# translate crowdin LycoPrison_menu01_01_48c99239:
 msgid "[_u_] Why?"
-msgstr ""
+msgstr "[_u_] 此话怎讲？"
 
 # game/Intro01.rpy:1365 #-#-# translate crowdin LycoPrison_menu01_01_5541923e:
 msgid "[_ly_] Well, you have friends who will come to save you, don't you?"
-msgstr ""
+msgstr "[_ly_] 这个嘛，你有朋友会来救你，不是吗？"
 
 # game/Intro01.rpy:1367 #-#-# translate crowdin LycoPrison_menu01_01_7b1c1392_4:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Intro01.rpy:1368 #-#-# translate crowdin LycoPrison_menu01_01_892c559d:
 msgid "[_u_] I hope so."
-msgstr ""
+msgstr "[_u_] 希望如此吧。"
 
 # game/Intro01.rpy:1374 #-#-# translate crowdin LycoPrison_menu01_01_a24d378d:
 msgid "[_ly_] Why? Don't you like it? "
-msgstr ""
+msgstr "[_ly_] 怎么？你还不乐意了？ "
 
 # game/Intro01.rpy:1375 #-#-# translate crowdin LycoPrison_menu01_01_1efb6395:
 msgid "[_u_] No I..."
-msgstr ""
+msgstr "[_u_] 不是，我..."
 
 # game/Intro01.rpy:1377 #-#-# translate crowdin LycoPrison_menu01_01_1e5daf4b:
 msgid "[_u_] I just..."
-msgstr ""
+msgstr "[_u_] 我只是..."
 
 # game/Intro01.rpy:1379 #-#-# translate crowdin LycoPrison_menu01_01_bfb3c6f2:
 msgid "[_ly_] Don't worry, I'm teasing you."
-msgstr ""
+msgstr "[_ly_] 没关系的，我在逗你玩呢。"
 
 # game/Intro01.rpy:1381 #-#-# translate crowdin LycoPrison_menu01_01_9f226930:
 msgid "[_ly_] You really take everything seriously ahah"
-msgstr ""
+msgstr "[_ly_] 你这人还是真一丝不苟啊，哈哈"
 
 # game/Intro01.rpy:1383 #-#-# translate crowdin LycoPrison_menu01_01_4566598d:
 msgid "[_ly_] I come from a very distant place. Beyond the desert."
