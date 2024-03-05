@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-02-26 13:30\n"
+"PO-Revision-Date: 2024-03-05 14:48\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Quest_Rooms_Separate02.rpy:125 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_peruche_1ffa9899:
 msgid "[_u_] What are you doing here? "
@@ -206,7 +206,7 @@ msgstr ""
 
 # game/Quest_Rooms_Separate02.rpy:247 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_peruche_menu1_P2_48c99239:
 msgid "[_u_] Why?"
-msgstr ""
+msgstr "[_u_] 此话怎讲？"
 
 # game/Quest_Rooms_Separate02.rpy:265 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_peruche_menu1_P2_8997536c:
 msgid "[_ml_] Hello there."
