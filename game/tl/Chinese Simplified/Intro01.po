@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-03-04 17:13\n"
+"PO-Revision-Date: 2024-03-05 00:35\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Intro01.rpy:64 #-#-# translate crowdin Intro01_93eeba4f:
 msgid "[_tb_] Greetings!"
@@ -674,55 +674,55 @@ msgstr "[_ly_] 还有这座城市也戒备森严，还有城市外面，有好�
 
 # game/Intro01.rpy:923 #-#-# translate crowdin Prison01_LycoApp01_menu1_p2_fec77b7f:
 msgid "[_ly_] Unless you have a plan in mind. My answer is no."
-msgstr ""
+msgstr "[_ly_] 除非你有想好一个计划，不然我的回答是不。"
 
 # game/Intro01.rpy:924 #-#-# translate crowdin Prison01_LycoApp01_menu1_p2_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Intro01.rpy:926 #-#-# translate crowdin Prison01_LycoApp01_menu1_p2_abeff63f:
 msgid "[_ly_] Do you have a plan? "
-msgstr ""
+msgstr "[_ly_] 你有想好计划吗？ "
 
 # game/Intro01.rpy:927 #-#-# translate crowdin Prison01_LycoApp01_menu1_p2_108e1ba2:
 msgid "[_u_] ...no."
-msgstr ""
+msgstr "[_u_] ...没有。"
 
 # game/Intro01.rpy:929 #-#-# translate crowdin Prison01_LycoApp01_menu1_p2_4813b5b5:
 msgid "[_ly_] That's what I thought. "
-msgstr ""
+msgstr "[_ly_] 我想也是。 "
 
 # game/Intro01.rpy:942 #-#-# translate crowdin Prison01_LycoApp01_menu1_p3_18206607:
 msgid "[_ly_] Which wall?"
-msgstr ""
+msgstr "[_ly_] 那面墙？"
 
 # game/Intro01.rpy:944 #-#-# translate crowdin Prison01_LycoApp01_menu1_p3_559dddf1:
 msgid "[_ly_] The one where you try to make a hole in it? "
-msgstr ""
+msgstr "[_ly_] 是你想在上面挖个洞的那面墙？ "
 
 # game/Intro01.rpy:945 #-#-# translate crowdin Prison01_LycoApp01_menu1_p3_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Intro01.rpy:947 #-#-# translate crowdin Prison01_LycoApp01_menu1_p3_f47ba419:
 msgid "[_ly_] Don't worry, I won't tell."
-msgstr ""
+msgstr "[_ly_] 别担心，我不会说出去的。"
 
 # game/Intro01.rpy:949 #-#-# translate crowdin Prison01_LycoApp01_menu1_p3_7b1c1392_1:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Intro01.rpy:950 #-#-# translate crowdin Prison01_LycoApp01_menu1_p3_ee01f9b9:
 msgid "[_u_] Thanks."
-msgstr ""
+msgstr "[_u_] 谢谢。"
 
 # game/Intro01.rpy:951 #-#-# translate crowdin Prison01_LycoApp01_menu1_p3_1a98841a:
 msgid "[_u_] So... what's behind it? "
-msgstr ""
+msgstr "[_u_] 那么... 墙后面是什么？ "
 
 # game/Intro01.rpy:953 #-#-# translate crowdin Prison01_LycoApp01_menu1_p3_52d367f4:
 msgid "[_ly_] I don't know if I'm supposed to tell you that... "
-msgstr ""
+msgstr "[_ly_] 我不知道我该不该告诉你... "
 
 # game/Intro01.rpy:955 #-#-# translate crowdin Prison01_LycoApp01_menu1_p3_2a8ca0b5:
 msgid "[_ly_] Let's say it's someone important."
