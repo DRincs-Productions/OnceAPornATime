@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2024-03-01 19:13\n"
+"PO-Revision-Date: 2024-03-05 22:11\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_AM.rpy:86 #-#-# translate crowdin CHARA_AM_Menu01_c781f953:
 msgid "[_am_] Hey!"
@@ -214,11 +214,11 @@ msgstr "ich..."
 
 # game/Cell01_AM.rpy:387 #-#-# translate crowdin Quest2_AM_Talk03_bd575477:
 msgid "[_am_] Uh..."
-msgstr "Mhm..."
+msgstr "Ähm... "
 
 # game/Cell01_AM.rpy:389 #-#-# translate crowdin Quest2_AM_Talk03_da5def74:
 msgid "[_am_] I never said that... "
-msgstr "Ich habe es nie gesagt..."
+msgstr "Das habe ich nie gesagt... "
 
 # game/Cell01_AM.rpy:391 #-#-# translate crowdin Quest2_AM_Talk03_96f67aae:
 msgid "[_am_] I wouldn't want to say I... "
@@ -230,31 +230,31 @@ msgstr "..."
 
 # game/Cell01_AM.rpy:397 #-#-# translate crowdin Quest2_AM_Talk03_89213ea5:
 msgid "[_am_] You are probably right. "
-msgstr "Du hast angeblich Recht. "
+msgstr "Du hast vermutlich recht. "
 
 # game/Cell01_AM.rpy:399 #-#-# translate crowdin Quest2_AM_Talk03_b1eb8930:
 msgid "[_am_] I'm not going to end up an eternal virgin on this planet. "
-msgstr "Ich werde nicht eine völlige Jungfrau auf diesem Planeten werden."
+msgstr "Ich werde nicht als ewige Jungfrau auf diesem Planeten enden. "
 
 # game/Cell01_AM.rpy:401 #-#-# translate crowdin Quest2_AM_Talk03_9b4ad1c7:
 msgid "[_am_] That would be a shame. "
-msgstr "Das wäre eine Schade."
+msgstr "Das wäre eine Schade. "
 
 # game/Cell01_AM.rpy:403 #-#-# translate crowdin Quest2_AM_Talk03_8da5b89c:
 msgid "[_am_] And hum..."
-msgstr "Und uhm..."
+msgstr "Und ähm..."
 
 # game/Cell01_AM.rpy:406 #-#-# translate crowdin Quest2_AM_Talk03_cf116443:
 msgid "[_am_] Have you ever done it... with Tinker?"
-msgstr "Hast du es schon mal mit... Tinker getan?"
+msgstr "Hast du es schon mal mit... Tinker getrieben?"
 
 # game/Cell01_AM.rpy:407 #-#-# translate crowdin Quest2_AM_Talk03_0924003d:
 msgid "[_u_] What? Me? Get laid with Tinker??"
-msgstr "Was? Ich? Mit Tinker gefickt?"
+msgstr "Was? Ich? Mit Tinker gefickt??"
 
 # game/Cell01_AM.rpy:408 #-#-# translate crowdin Quest2_AM_Talk03_45fd8112:
 msgid "[_u_] Nope, never, not yet."
-msgstr "Na, niemals, noch nicht."
+msgstr "Nein, niemals, noch nicht."
 
 # game/Cell01_AM.rpy:410 #-#-# translate crowdin Quest2_AM_Talk03_9fa78ae8:
 msgid "[_u_] And then... I don't know if it would fit... like... physically."
@@ -286,7 +286,7 @@ msgstr "Was für ein neugieriger Mann du bist. "
 
 # game/Cell01_AM.rpy:431 #-#-# translate crowdin Quest2_AM_Talk04_5431f053:
 msgid "[_am_] That's hot. "
-msgstr "Das ist heiß."
+msgstr "Das ist heiß. "
 
 # game/Cell01_AM.rpy:433 #-#-# translate crowdin Quest2_AM_Talk04_7573b0d3:
 msgid "[_am_] Like... It's amazing to be in something so hot... "
