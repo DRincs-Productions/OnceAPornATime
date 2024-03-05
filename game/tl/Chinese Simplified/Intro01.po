@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-03-05 05:20\n"
+"PO-Revision-Date: 2024-03-05 06:54\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Intro01.rpy:64 #-#-# translate crowdin Intro01_93eeba4f:
 msgid "[_tb_] Greetings!"
@@ -942,27 +942,27 @@ msgstr "[_ly_] 本来我该守口如瓶的，但... "
 
 # game/Intro01.rpy:1222 #-#-# translate crowdin LycoPrison_menu01_8a3221f8:
 msgid "[_ly_] We're trying to get her majesty back in control of her kingdom. "
-msgstr ""
+msgstr "[_ly_] 我们在试着让女皇陛下重新掌控她的王国。 "
 
 # game/Intro01.rpy:1223 #-#-# translate crowdin LycoPrison_menu01_50271608:
 msgid "[_u_] ''Her majesty''? The chick I saw from behind? "
-msgstr ""
+msgstr "[_u_] ''女皇陛下''？是后面那个妹子吗？ "
 
 # game/Intro01.rpy:1225 #-#-# translate crowdin LycoPrison_menu01_3491292f:
 msgid "[_ly_] Yeah, and anyway, we need to find a key."
-msgstr ""
+msgstr "[_ly_] 是的，总之，我们要找到一把钥匙。"
 
 # game/Intro01.rpy:1226 #-#-# translate crowdin LycoPrison_menu01_ad50b5f9:
 msgid "[_u_] And do you have any idea where it is? "
-msgstr ""
+msgstr "[_u_] 你知道那把钥匙放在哪里吗？ "
 
 # game/Intro01.rpy:1228 #-#-# translate crowdin LycoPrison_menu01_2cf932ca:
 msgid "[_ly_] None for now."
-msgstr ""
+msgstr "[_ly_] 现在不知道。"
 
 # game/Intro01.rpy:1229 #-#-# translate crowdin LycoPrison_menu01_448f582a:
 msgid "[_u_] Pff..."
-msgstr ""
+msgstr "[_u_] 唉..."
 
 # game/Intro01.rpy:1231 #-#-# translate crowdin LycoPrison_menu01_e1d67500:
 msgid "[_ly_] But then again, if your friends come and get you first, we'll all escape!"
