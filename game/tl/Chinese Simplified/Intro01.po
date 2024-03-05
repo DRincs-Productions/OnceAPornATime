@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-03-05 08:40\n"
+"PO-Revision-Date: 2024-03-05 09:52\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Intro01.rpy:64 #-#-# translate crowdin Intro01_93eeba4f:
 msgid "[_tb_] Greetings!"
@@ -1118,27 +1118,27 @@ msgstr "[_ly_] 找到离开这个牢笼的办法，"
 
 # game/Intro01.rpy:1323 #-#-# translate crowdin LycoPrison_menu01_01_31813e6b:
 msgid "[_ly_] Have a real date with me,"
-msgstr ""
+msgstr "[_ly_] 和我来一场情真意切的约会，"
 
 # game/Intro01.rpy:1325 #-#-# translate crowdin LycoPrison_menu01_01_94d55285:
 msgid "[_ly_] And then we'll see how it goes. Okay? "
-msgstr ""
+msgstr "[_ly_] 然后我们再来看看结果如何，好吗？ "
 
 # game/Intro01.rpy:1326 #-#-# translate crowdin LycoPrison_menu01_01_7b1c1392_2:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Intro01.rpy:1327 #-#-# translate crowdin LycoPrison_menu01_01_b2d62b57:
 msgid "[_u_] ... It sounds like a good idea actually. "
-msgstr ""
+msgstr "[_u_] ... 听起来这主意还不错。 "
 
 # game/Intro01.rpy:1329 #-#-# translate crowdin LycoPrison_menu01_01_4cd736e7:
 msgid "[_ly_] Great! I can't wait to get you out of there!"
-msgstr ""
+msgstr "[_ly_] 很好！我等不及要带你出去约会了！"
 
 # game/Intro01.rpy:1331 #-#-# translate crowdin LycoPrison_menu01_01_bee5bde0:
 msgid "[_ly_] See you later [name]!"
-msgstr ""
+msgstr "[_ly_] 回头见了，[name]！"
 
 # game/Intro01.rpy:1341 #-#-# translate crowdin LycoPrison_menu01_01_9b638a73:
 msgid "[_u_] She really doesn't look like what I'm used to with Snow White..."
