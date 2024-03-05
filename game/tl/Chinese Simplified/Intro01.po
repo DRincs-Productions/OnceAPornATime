@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-03-05 00:35\n"
+"PO-Revision-Date: 2024-03-05 01:32\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Intro01.rpy:64 #-#-# translate crowdin Intro01_93eeba4f:
 msgid "[_tb_] Greetings!"
@@ -726,75 +726,75 @@ msgstr "[_ly_] 我不知道我该不该告诉你... "
 
 # game/Intro01.rpy:955 #-#-# translate crowdin Prison01_LycoApp01_menu1_p3_2a8ca0b5:
 msgid "[_ly_] Let's say it's someone important."
-msgstr ""
+msgstr "[_ly_] 假设说那是个重要人物的房间。"
 
 # game/Intro01.rpy:956 #-#-# translate crowdin Prison01_LycoApp01_menu1_p3_4fa17385:
 msgid "[_u_] Like... the sultana?"
-msgstr ""
+msgstr "[_u_] 比如... 苏丹娜？"
 
 # game/Intro01.rpy:958 #-#-# translate crowdin Prison01_LycoApp01_menu1_p3_96f748bc:
 msgid "[_ly_] Nope... well, you'll see."
-msgstr ""
+msgstr "[_ly_] 不是... 嗯，你早晚会看到的。"
 
 # game/Intro01.rpy:967 #-#-# translate crowdin Prison01_LycoApp01_menu1exit_aab2e0be:
 msgid "[_ly_]  I have some cleaning to do..."
-msgstr ""
+msgstr "[_ly_]  我还要去打扫卫生..."
 
 # game/Intro01.rpy:969 #-#-# translate crowdin Prison01_LycoApp01_menu1exit_a9ea5faa:
 msgid "[_ly_] If you need me, tell me and I will come back. "
-msgstr ""
+msgstr "[_ly_] 如果你还要找我，只管叫我，我就会回来的。 "
 
 # game/Intro01.rpy:971 #-#-# translate crowdin Prison01_LycoApp01_menu1exit_6def04e8:
 msgid "[_ly_] Enjoy your meal!"
-msgstr ""
+msgstr "[_ly_] 用餐愉快！"
 
 # game/Intro01.rpy:1001 #-#-# translate crowdin LycoPrison_menu01_911d1bec:
 msgid "[_u_] Lyco?... "
-msgstr ""
+msgstr "[_u_] 莉可？... "
 
 # game/Intro01.rpy:1002 #-#-# translate crowdin LycoPrison_menu01_530026f0:
 msgid "[_u_] I just saw a... "
-msgstr ""
+msgstr "[_u_] 我刚看到一个... "
 
 # game/Intro01.rpy:1006 #-#-# translate crowdin LycoPrison_menu01_0ef89b5d:
 msgid "[_vn_s_] Tell me everything... "
-msgstr ""
+msgstr "[_vn_s_] 告诉我... "
 
 # game/Intro01.rpy:1011 #-#-# translate crowdin LycoPrison_menu01_37918730:
 msgid "[_vn_s_] what did you see?... "
-msgstr ""
+msgstr "[_vn_s_] 你都看到了什么？... "
 
 # game/Intro01.rpy:1026 #-#-# translate crowdin LycoPrison_menu01_6fc3f801:
 msgid "[_vn_s_] My poor..."
-msgstr ""
+msgstr "[_vn_s_] 我可怜..."
 
 # game/Intro01.rpy:1032 #-#-# translate crowdin LycoPrison_menu01_f422eeb3:
 msgid "[_vn_s_] poor..."
-msgstr ""
+msgstr "[_vn_s_] 可怜..."
 
 # game/Intro01.rpy:1038 #-#-# translate crowdin LycoPrison_menu01_c269a09a:
 msgid "[_vn_s_] ...unfortunate soul."
-msgstr ""
+msgstr "[_vn_s_] ...又不幸的灵魂。"
 
 # game/Intro01.rpy:1042 #-#-# translate crowdin LycoPrison_menu01_fdbce207:
 msgid "[_u_] Oh..."
-msgstr ""
+msgstr "[_u_] 哦..."
 
 # game/Intro01.rpy:1043 #-#-# translate crowdin LycoPrison_menu01_ec93a199:
 msgid "[_u_] Aren't you the chick who sucked me off in a cave?"
-msgstr ""
+msgstr "[_u_] 你不是那个把我吸到洞穴里的妹子吗？"
 
 # game/Intro01.rpy:1046 #-#-# translate crowdin LycoPrison_menu01_40473abe:
 msgid "[_vn_s_] ..."
-msgstr ""
+msgstr "[_vn_s_] ..."
 
 # game/Intro01.rpy:1048 #-#-# translate crowdin LycoPrison_menu01_1c6b90e6:
 msgid "[_vn_s_] You stinky worm..."
-msgstr ""
+msgstr "[_vn_s_] 你这臭虫..."
 
 # game/Intro01.rpy:1050 #-#-# translate crowdin LycoPrison_menu01_c35ec58f:
 msgid "[_vn_s_] I am the sultana of this land now."
-msgstr ""
+msgstr "[_vn_s_] 我现在可是这片土地的苏丹娜。"
 
 # game/Intro01.rpy:1052 #-#-# translate crowdin LycoPrison_menu01_5f328547:
 msgid "[_vns_] And you will be my captive for eternity for having dared to defy me, you insolent human."
@@ -838,31 +838,31 @@ msgstr ""
 
 # game/Intro01.rpy:1104 #-#-# translate crowdin LycoPrison_menu01_911d1bec_1:
 msgid "[_u_] Lyco?... "
-msgstr ""
+msgstr "[_u_] 莉可？... "
 
 # game/Intro01.rpy:1105 #-#-# translate crowdin LycoPrison_menu01_530026f0_1:
 msgid "[_u_] I just saw a... "
-msgstr ""
+msgstr "[_u_] 我刚看到一个... "
 
 # game/Intro01.rpy:1109 #-#-# translate crowdin LycoPrison_menu01_0ef89b5d_1:
 msgid "[_vn_s_] Tell me everything... "
-msgstr ""
+msgstr "[_vn_s_] 告诉我... "
 
 # game/Intro01.rpy:1114 #-#-# translate crowdin LycoPrison_menu01_37918730_1:
 msgid "[_vn_s_] what did you see?... "
-msgstr ""
+msgstr "[_vn_s_] 你都看到了什么？... "
 
 # game/Intro01.rpy:1129 #-#-# translate crowdin LycoPrison_menu01_6fc3f801_1:
 msgid "[_vn_s_] My poor..."
-msgstr ""
+msgstr "[_vn_s_] 我可怜..."
 
 # game/Intro01.rpy:1135 #-#-# translate crowdin LycoPrison_menu01_f422eeb3_1:
 msgid "[_vn_s_] poor..."
-msgstr ""
+msgstr "[_vn_s_] 可怜..."
 
 # game/Intro01.rpy:1141 #-#-# translate crowdin LycoPrison_menu01_c269a09a_1:
 msgid "[_vn_s_] ...unfortunate soul."
-msgstr ""
+msgstr "[_vn_s_] ...又不幸的灵魂。"
 
 # game/Intro01.rpy:1145 #-#-# translate crowdin LycoPrison_menu01_fdbce207_1:
 msgid "[_u_] Oh..."
@@ -870,19 +870,19 @@ msgstr ""
 
 # game/Intro01.rpy:1146 #-#-# translate crowdin LycoPrison_menu01_ec93a199_1:
 msgid "[_u_] Aren't you the chick who sucked me off in a cave?"
-msgstr ""
+msgstr "[_u_] 你不是那个把我吸到洞穴里的妹子吗？"
 
 # game/Intro01.rpy:1149 #-#-# translate crowdin LycoPrison_menu01_40473abe_1:
 msgid "[_vn_s_] ..."
-msgstr ""
+msgstr "[_vn_s_] ..."
 
 # game/Intro01.rpy:1151 #-#-# translate crowdin LycoPrison_menu01_1c6b90e6_1:
 msgid "[_vn_s_] You stinky worm..."
-msgstr ""
+msgstr "[_vn_s_] 你这臭虫..."
 
 # game/Intro01.rpy:1153 #-#-# translate crowdin LycoPrison_menu01_c35ec58f_1:
 msgid "[_vn_s_] I am the sultana of this land now."
-msgstr ""
+msgstr "[_vn_s_] 我现在可是这片土地的苏丹娜。"
 
 # game/Intro01.rpy:1155 #-#-# translate crowdin LycoPrison_menu01_5f328547_1:
 msgid "[_vns_] And you will be my captive for eternity for having dared to defy me, you insolent human."
