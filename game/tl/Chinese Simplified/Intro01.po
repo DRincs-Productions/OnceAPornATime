@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-03-05 14:48\n"
+"PO-Revision-Date: 2024-03-05 15:49\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Intro01.rpy:64 #-#-# translate crowdin Intro01_93eeba4f:
 msgid "[_tb_] Greetings!"
@@ -1214,39 +1214,39 @@ msgstr "[_ly_] 你这人还是真一丝不苟啊，哈哈"
 
 # game/Intro01.rpy:1383 #-#-# translate crowdin LycoPrison_menu01_01_4566598d:
 msgid "[_ly_] I come from a very distant place. Beyond the desert."
-msgstr ""
+msgstr "[_ly_] 我来自一个非常遥远的地方。远在沙漠之外。"
 
 # game/Intro01.rpy:1384 #-#-# translate crowdin LycoPrison_menu01_01_52b1cd36:
 msgid "[_u_] Mh. I've never heard of this place before."
-msgstr ""
+msgstr "[_u_] 嗯。我从没听说过这个地方。"
 
 # game/Intro01.rpy:1386 #-#-# translate crowdin LycoPrison_menu01_01_524ce47d:
 msgid "[_u_] I should talk to Tinker about this when I get home."
-msgstr ""
+msgstr "[_u_] 等回去了，我应该去和小叮当谈谈这事。"
 
 # game/Intro01.rpy:1392 #-#-# translate crowdin LycoPrison_menu01_01_40f98f4b:
 msgid "[_ly_] Well... I obey the orders of the sultana."
-msgstr ""
+msgstr "[_ly_] 那么... 我要服从苏丹娜的命令。"
 
 # game/Intro01.rpy:1394 #-#-# translate crowdin LycoPrison_menu01_01_235505fa:
 msgid "[_ly_] I take care of the food, wash the floors... "
-msgstr ""
+msgstr "[_ly_] 我要负责食物，清洗地板... "
 
 # game/Intro01.rpy:1396 #-#-# translate crowdin LycoPrison_menu01_01_c0f19754:
 msgid "[_ly_] Whatever I'm asked to do. "
-msgstr ""
+msgstr "[_ly_] 她要求什么，我就做什么。 "
 
 # game/Intro01.rpy:1398 #-#-# translate crowdin LycoPrison_menu01_01_8ea19ff2:
 msgid "[_u_] So you are also a prisoner of this place? "
-msgstr ""
+msgstr "[_u_] 那你也算是这地方的囚犯？ "
 
 # game/Intro01.rpy:1400 #-#-# translate crowdin LycoPrison_menu01_01_c283cc83:
 msgid "[_ly_] Yes, I am not allowed to leave the palace."
-msgstr ""
+msgstr "[_ly_] 是的，她不允许我离开王宫。"
 
 # game/Intro01.rpy:1402 #-#-# translate crowdin LycoPrison_menu01_01_9b2fb2a8:
 msgid "[_ly_] So I'm kind of like you."
-msgstr ""
+msgstr "[_ly_] 所以我有点像你。"
 
 # game/Intro01.rpy:1404 #-#-# translate crowdin LycoPrison_menu01_01_92776f8d:
 msgid "[_u_] Except that you can move around in the palace."
