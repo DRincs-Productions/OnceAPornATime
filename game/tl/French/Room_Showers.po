@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-26 09:12\n"
+"PO-Revision-Date: 2024-03-06 13:31\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Room_Showers.rpy:121 #-#-# translate crowdin ML_ShowerCams01_02_ec3b9bb7:
 msgid "[_u_] Meli?"
@@ -182,7 +182,7 @@ msgstr ""
 
 # game/Room_Showers.rpy:239 #-#-# translate crowdin A_GoShower_menu1_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "..."
 
 # game/Room_Showers.rpy:240 #-#-# translate crowdin A_GoShower_menu1_fedf98e5:
 msgid "[_u_] Damn girls... I'm so jealous of your towels."
@@ -602,7 +602,7 @@ msgstr ""
 
 # game/Room_Showers.rpy:557 #-#-# translate crowdin A_GoShower2_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "..."
 
 # game/Room_Showers.rpy:558 #-#-# translate crowdin A_GoShower2_d59f33ff:
 msgid "[_u_] Well, uh... you're welcome. "
