@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-03-06 13:31\n"
+"PO-Revision-Date: 2024-03-06 23:40\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_AM.rpy:86 #-#-# translate crowdin CHARA_AM_Menu01_c781f953:
 msgid "[_am_] Hey!"
@@ -158,7 +158,7 @@ msgstr ""
 
 # game/Cell01_AM.rpy:349 #-#-# translate crowdin Quest2_AM_Talk02_6eb91eb0:
 msgid "[_am_] Oh yes!!! It would be my pleasure!"
-msgstr ""
+msgstr "[_am_] Oh oui!!! Ce serait un plaisir !"
 
 # game/Cell01_AM.rpy:351 #-#-# translate crowdin Quest2_AM_Talk02_14b7845c:
 msgid "[_am_] Apparently, she closed all these locks with the number 555."
