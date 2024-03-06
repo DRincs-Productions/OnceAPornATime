@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-03-06 07:12\n"
+"PO-Revision-Date: 2024-03-06 09:06\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_JM.rpy:131 #-#-# translate crowdin CHARA_JM_Menu01_0eca5cd6:
 msgid "[_jm_] Hello to you... my [Quest_JM_NameMC]."
@@ -206,7 +206,7 @@ msgstr ""
 
 # game/Cell01_JM.rpy:452 #-#-# translate crowdin Quest_JM_Favor_BraUndStart_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_JM.rpy:454 #-#-# translate crowdin Quest_JM_Favor_BraUndStart_9c926bf0:
 msgid "[_u_] I love the way you think. "
@@ -290,7 +290,7 @@ msgstr ""
 
 # game/Cell01_JM.rpy:490 #-#-# translate crowdin Quest_JM_Favor_BraUndStart_7b1c1392_1:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_JM.rpy:491 #-#-# translate crowdin Quest_JM_Favor_BraUndStart_bb2bfb6e:
 msgid "[_u_] As you wish, princess. "
@@ -398,7 +398,7 @@ msgstr ""
 
 # game/Cell01_JM.rpy:558 #-#-# translate crowdin Quest_JM_Favor_BraUndStart2_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_JM.rpy:559 #-#-# translate crowdin Quest_JM_Favor_BraUndStart2_03f8b56c:
 msgid "[_u_] You want me to undress?"
@@ -418,7 +418,7 @@ msgstr ""
 
 # game/Cell01_JM.rpy:567 #-#-# translate crowdin Quest_JM_Favor_BraUndStart2_7b1c1392_1:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_JM.rpy:568 #-#-# translate crowdin Quest_JM_Favor_BraUndStart2_e8930c7f:
 msgid "[_u_] Too bad for you, I don't mind being naked. "
@@ -438,7 +438,7 @@ msgstr ""
 
 # game/Cell01_JM.rpy:575 #-#-# translate crowdin Quest_JM_Favor_BraUndStart2_7b1c1392_2:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_JM.rpy:577 #-#-# translate crowdin Quest_JM_Favor_BraUndStart2_6f8aec79:
 msgid "[_jm_] You are making fun of me."
@@ -566,7 +566,7 @@ msgstr ""
 
 # game/Cell01_JM.rpy:666 #-#-# translate crowdin Quest_JM_Favor_Bra02_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_JM.rpy:667 #-#-# translate crowdin Quest_JM_Favor_Bra02_d7a56cae:
 msgid "[_u_] You know it's far from over? "
@@ -854,7 +854,7 @@ msgstr ""
 
 # game/Cell01_JM.rpy:841 #-#-# translate crowdin Quest_JM_Favor_HideNude_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_JM.rpy:843 #-#-# translate crowdin Quest_JM_Favor_HideNude_b277ec90:
 msgid "[_jm_] ?"
@@ -1110,7 +1110,7 @@ msgstr ""
 
 # game/Cell01_JM.rpy:1002 #-#-# translate crowdin Quest_JM_Favor_HideNude2_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_JM.rpy:1003 #-#-# translate crowdin Quest_JM_Favor_HideNude2_0529a669:
 msgid "[_u_] Wow..."
@@ -1226,7 +1226,7 @@ msgstr ""
 
 # game/Cell01_JM.rpy:1084 #-#-# translate crowdin Quest_JM_Favor_HideNude2_7b1c1392_1:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_JM.rpy:1085 #-#-# translate crowdin Quest_JM_Favor_HideNude2_0529a669_1:
 msgid "[_u_] Wow..."
@@ -1310,7 +1310,7 @@ msgstr ""
 
 # game/Cell01_JM.rpy:1149 #-#-# translate crowdin Quest_JM_Favor_HideNude3_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_JM.rpy:1150 #-#-# translate crowdin Quest_JM_Favor_HideNude3_9371edcd:
 msgid "[_u_] Naked?"
@@ -1370,7 +1370,7 @@ msgstr ""
 
 # game/Cell01_JM.rpy:1194 #-#-# translate crowdin Quest_JM_Favor_HideNude3_7b1c1392_1:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_JM.rpy:1195 #-#-# translate crowdin Quest_JM_Favor_HideNude3_9371edcd_1:
 msgid "[_u_] Naked?"
@@ -1550,7 +1550,7 @@ msgstr ""
 
 # game/Cell01_JM.rpy:1306 #-#-# translate crowdin Quest_JM_Favor_BoobsPussyStart_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_JM.rpy:1308 #-#-# translate crowdin Quest_JM_Favor_BoobsPussyStart_241120d4:
 msgid "[_u_] And so I would like to see your boobs. "
@@ -1874,7 +1874,7 @@ msgstr ""
 
 # game/Cell01_JM.rpy:1488 #-#-# translate crowdin Quest_JM_Favor_PussyMenu1_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_JM.rpy:1489 #-#-# translate crowdin Quest_JM_Favor_PussyMenu1_12b51d0e:
 msgid "[_u_] Not bad. "
@@ -2418,7 +2418,7 @@ msgstr ""
 
 # game/Cell01_JM.rpy:1775 #-#-# translate crowdin Quest_JM_Favor_AskBlow_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_JM.rpy:1776 #-#-# translate crowdin Quest_JM_Favor_AskBlow_a2275656:
 msgid "[_u_] What if it wasn't a joke?"
@@ -2550,7 +2550,7 @@ msgstr ""
 
 # game/Cell01_JM.rpy:1858 #-#-# translate crowdin Quest_JM_Favor_Ask2_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_JM.rpy:1860 #-#-# translate crowdin Quest_JM_Favor_Ask2_27ab80e2:
 msgid "[_u_] I'd like to... "
@@ -3030,7 +3030,7 @@ msgstr ""
 
 # game/Cell01_JM.rpy:2269 #-#-# translate crowdin Quest_JM_Favor_Unicorn1_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_JM.rpy:2270 #-#-# translate crowdin Quest_JM_Favor_Unicorn1_3675ac42:
 msgid "[_u_] Amandine?"
@@ -3406,7 +3406,7 @@ msgstr ""
 
 # game/Cell01_JM.rpy:2505 #-#-# translate crowdin Quest_JM_Favor_Unicorn1_menu1_P3_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_JM.rpy:2506 #-#-# translate crowdin Quest_JM_Favor_Unicorn1_menu1_P3_8020b112_3:
 msgid "[_jm_] ..."
@@ -3494,7 +3494,7 @@ msgstr ""
 
 # game/Cell01_JM.rpy:2548 #-#-# translate crowdin Quest_JM_Favor_Unicorn2_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_JM.rpy:2549 #-#-# translate crowdin Quest_JM_Favor_Unicorn2_2c0b9bd8:
 msgid "[_u_] Uh..."
@@ -3974,7 +3974,7 @@ msgstr ""
 
 # game/Cell01_JM.rpy:2886 #-#-# translate crowdin Quest_JM_Favor_Slap1_screen01_end_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_JM.rpy:2887 #-#-# translate crowdin Quest_JM_Favor_Slap1_screen01_end_3edde9fe:
 msgid "[_u_] Yes."
@@ -4006,7 +4006,7 @@ msgstr ""
 
 # game/Cell01_JM.rpy:2908 #-#-# translate crowdin Quest_JM_Favor_Slap1_screen01_end_7b1c1392_1:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_JM.rpy:2909 #-#-# translate crowdin Quest_JM_Favor_Slap1_screen01_end_7055e7ac:
 msgid "[_u_] Would you like another one?"
@@ -4798,7 +4798,7 @@ msgstr ""
 
 # game/Cell01_JM.rpy:3745 #-#-# translate crowdin Quest_JM_Favor_Feather1_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_JM.rpy:3746 #-#-# translate crowdin Quest_JM_Favor_Feather1_4d099ad3:
 msgid "[_u_] It's complicated. "
@@ -4830,7 +4830,7 @@ msgstr ""
 
 # game/Cell01_JM.rpy:3760 #-#-# translate crowdin Quest_JM_Favor_Feather1_7b1c1392_1:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_JM.rpy:3762 #-#-# translate crowdin Quest_JM_Favor_Feather1_d6cde512:
 msgid "[_a_] Do you want to fuck her or not? "
@@ -5110,7 +5110,7 @@ msgstr ""
 
 # game/Cell01_JM.rpy:3947 #-#-# translate crowdin QuestChap2_Jasmine01_03_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_JM.rpy:3948 #-#-# translate crowdin QuestChap2_Jasmine01_03_cbce2e63:
 msgid "[_u_] Well, that's a first. "
@@ -5474,7 +5474,7 @@ msgstr ""
 
 # game/Cell01_JM.rpy:4294 #-#-# translate crowdin QuestChap2_Jasmine01_05_Menu0_P2_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_JM.rpy:4295 #-#-# translate crowdin QuestChap2_Jasmine01_05_Menu0_P2_f61d39d3:
 msgid "[_u_] A little too well."
@@ -5618,7 +5618,7 @@ msgstr ""
 
 # game/Cell01_JM.rpy:4393 #-#-# translate crowdin QuestChap2_Jasmine01_06_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_JM.rpy:4397 #-#-# translate crowdin QuestChap2_Jasmine01_06_d75254db:
 msgid "[_jm_] Hey!!! Hello Prince [name]!"
@@ -5798,7 +5798,7 @@ msgstr ""
 
 # game/Cell01_JM.rpy:4536 #-#-# translate crowdin QuestChap2_Jasmine01_08_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_JM.rpy:4537 #-#-# translate crowdin QuestChap2_Jasmine01_08_6e3d920f:
 msgid "[_u_] Yeah..."
@@ -5854,7 +5854,7 @@ msgstr ""
 
 # game/Cell01_JM.rpy:4587 #-#-# translate crowdin QuestChap2_Jasmine01_08_7b1c1392_1:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_JM.rpy:4588 #-#-# translate crowdin QuestChap2_Jasmine01_08_13a5782d:
 msgid "[_u_] Okay, but I choose what you wear. "
@@ -5870,7 +5870,7 @@ msgstr ""
 
 # game/Cell01_JM.rpy:4593 #-#-# translate crowdin QuestChap2_Jasmine01_08_7b1c1392_2:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_JM.rpy:4594 #-#-# translate crowdin QuestChap2_Jasmine01_08_8ca9c652:
 msgid "[_u_] Okay, but I want something in return."
@@ -5938,7 +5938,7 @@ msgstr ""
 
 # game/Cell01_JM.rpy:4623 #-#-# translate crowdin QuestChap2_Jasmine01_08_7b1c1392_3:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_JM.rpy:4624 #-#-# translate crowdin QuestChap2_Jasmine01_08_a837bdd0:
 msgid "[_u_] Eheh... "
@@ -6022,7 +6022,7 @@ msgstr ""
 
 # game/Cell01_JM.rpy:4660 #-#-# translate crowdin QuestChap2_Jasmine01_08_7b1c1392_4:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_JM.rpy:4662 #-#-# translate crowdin QuestChap2_Jasmine01_08_715c4257:
 msgid "[_jm_] It's so simple. "
@@ -6038,7 +6038,7 @@ msgstr ""
 
 # game/Cell01_JM.rpy:4666 #-#-# translate crowdin QuestChap2_Jasmine01_08_7b1c1392_5:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_JM.rpy:4670 #-#-# translate crowdin QuestChap2_Jasmine01_08_5bea1a5c:
 msgid "[_a_] A customer who doesn't know what he wants... these are the worst. "
@@ -6154,7 +6154,7 @@ msgstr ""
 
 # game/Cell01_JM.rpy:4738 #-#-# translate crowdin QuestChap2_Jasmine01_09_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_JM.rpy:4739 #-#-# translate crowdin QuestChap2_Jasmine01_09_a644bc66:
 msgid "[_u_] I see no difference with the one before."
@@ -6194,7 +6194,7 @@ msgstr ""
 
 # game/Cell01_JM.rpy:4752 #-#-# translate crowdin QuestChap2_Jasmine01_09_7b1c1392_1:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_JM.rpy:4753 #-#-# translate crowdin QuestChap2_Jasmine01_09_8d2bfa6e:
 msgid "[_u_] Some traditions deserve to be respected. "
@@ -6246,7 +6246,7 @@ msgstr ""
 
 # game/Cell01_JM.rpy:4777 #-#-# translate crowdin QuestChap2_Jasmine01_09_7b1c1392_2:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_JM.rpy:4778 #-#-# translate crowdin QuestChap2_Jasmine01_09_1c2cf3f4:
 msgid "[_u_] No."
@@ -6314,7 +6314,7 @@ msgstr ""
 
 # game/Cell01_JM.rpy:4805 #-#-# translate crowdin QuestChap2_Jasmine01_09_7b1c1392_3:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_JM.rpy:4806 #-#-# translate crowdin QuestChap2_Jasmine01_09_f80b44b9:
 msgid "[_u_] Okay, good. But I want to see you dance with this dress and nothing else! is that understood? "
@@ -6422,7 +6422,7 @@ msgstr ""
 
 # game/Cell01_JM.rpy:4890 #-#-# translate crowdin QuestChap2_Jasmine01_10_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_JM.rpy:4892 #-#-# translate crowdin QuestChap2_Jasmine01_10_96d37794:
 msgid "[_jm_] No, you're kidding?"
@@ -6674,7 +6674,7 @@ msgstr ""
 
 # game/Cell01_JM.rpy:5064 #-#-# translate crowdin QuestChap2_Jasmine01_10_MENU1_P2_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_JM.rpy:5065 #-#-# translate crowdin QuestChap2_Jasmine01_10_MENU1_P2_dbbfab96:
 msgid "[_u_] Okay, just ask your question to the lamp."
@@ -6866,7 +6866,7 @@ msgstr ""
 
 # game/Cell01_JM.rpy:5178 #-#-# translate crowdin QuestChap2_Jasmine01_10_MENU1_P2_7b1c1392_1:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_JM.rpy:5179 #-#-# translate crowdin QuestChap2_Jasmine01_10_MENU1_P2_6515f49f:
 msgid "[_u_] Nice."
@@ -7094,7 +7094,7 @@ msgstr ""
 
 # game/Cell01_JM.rpy:5325 #-#-# translate crowdin QuestChap2_Jasmine01_11_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_JM.rpy:5327 #-#-# translate crowdin QuestChap2_Jasmine01_11_03aade46:
 msgid "[_jm_] Gosh..."
@@ -7138,7 +7138,7 @@ msgstr ""
 
 # game/Cell01_JM.rpy:5345 #-#-# translate crowdin QuestChap2_Jasmine01_11_7b1c1392_1:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_JM.rpy:5350 #-#-# translate crowdin QuestChap2_Jasmine01_11_0cf5c2df:
 msgid "[_jm_] Master? "
@@ -7158,7 +7158,7 @@ msgstr ""
 
 # game/Cell01_JM.rpy:5356 #-#-# translate crowdin QuestChap2_Jasmine01_11_7b1c1392_2:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_JM.rpy:5360 #-#-# translate crowdin QuestChap2_Jasmine01_11_36f8a5cb:
 msgid "[_jm_] King? Just that!"
@@ -7182,7 +7182,7 @@ msgstr ""
 
 # game/Cell01_JM.rpy:5368 #-#-# translate crowdin QuestChap2_Jasmine01_11_7b1c1392_3:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_JM.rpy:5371 #-#-# translate crowdin QuestChap2_Jasmine01_11_ab29541f:
 msgid "[_jm_] Ok! Very good! As you wish!"
@@ -7290,7 +7290,7 @@ msgstr ""
 
 # game/Cell01_JM.rpy:5445 #-#-# translate crowdin GalleryImageQuest_Jasmine01_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_JM.rpy:5446 #-#-# translate crowdin GalleryImageQuest_Jasmine01_511a4ff6:
 msgid "[_u_] I hope it's not a trap... "
@@ -7482,7 +7482,7 @@ msgstr ""
 
 # game/Cell01_JM.rpy:5947 #-#-# translate crowdin QuestChap2_Jasmine01_16_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_JM.rpy:5949 #-#-# translate crowdin QuestChap2_Jasmine01_16_1cb1e4d1:
 msgid "[_jm_] Well... yes, I am judging you a little."
@@ -7566,7 +7566,7 @@ msgstr ""
 
 # game/Cell01_JM.rpy:5988 #-#-# translate crowdin QuestChap2_Jasmine01_16_7b1c1392_1:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_JM.rpy:5990 #-#-# translate crowdin QuestChap2_Jasmine01_16_cf2a77ae:
 msgid "[_jm_] And don't even try to imagine it in your head! I forbid it!"
@@ -7586,7 +7586,7 @@ msgstr ""
 
 # game/Cell01_JM.rpy:5995 #-#-# translate crowdin QuestChap2_Jasmine01_16_7b1c1392_2:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_JM.rpy:5996 #-#-# translate crowdin QuestChap2_Jasmine01_16_cd9be4c6:
 msgid "[_u_] We can find a compromise... Would you like some new clothes? "
@@ -7706,7 +7706,7 @@ msgstr ""
 
 # game/Cell01_JM.rpy:6072 #-#-# translate crowdin QuestChap2_Jasmine01_16_menu01_P1_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_JM.rpy:6073 #-#-# translate crowdin QuestChap2_Jasmine01_16_menu01_P1_c5446f18:
 msgid "[_u_] Really?"
@@ -7782,7 +7782,7 @@ msgstr ""
 
 # game/Cell01_JM.rpy:6125 #-#-# translate crowdin QuestChap2_Jasmine01_18_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_JM.rpy:6127 #-#-# translate crowdin QuestChap2_Jasmine01_18_a5fb775e:
 msgid "[_jm_] So, are you going to give it to me or not?"
