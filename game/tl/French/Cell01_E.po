@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-26 09:11\n"
+"PO-Revision-Date: 2024-03-06 07:12\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_E.rpy:71 #-#-# translate crowdin Cell01_E_QuestActivations_9ef65d05:
 msgid "[_u_] Whose ship is this? "
@@ -178,11 +178,11 @@ msgstr ""
 
 # game/Cell01_E.rpy:435 #-#-# translate crowdin CHARA_E_Shop_MenuChoice_SELL_a8c52ae1:
 msgid "[_e_] No. Not today."
-msgstr ""
+msgstr "Non. Pas aujourd'hui."
 
 # game/Cell01_E.rpy:438 #-#-# translate crowdin CHARA_E_Shop_MenuChoice_SELL_8ef1d7e6:
 msgid "[_e_] Yes, of course! It would be a pleasure!"
-msgstr ""
+msgstr "Oui, bien sûr! Ça serait un plaisir!"
 
 # game/Cell01_E.rpy:515 #-#-# translate crowdin Emee_Change_HAIRS_eeffea44:
 msgid "[_u_] Goodbye, ma'am!"
