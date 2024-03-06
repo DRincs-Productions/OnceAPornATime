@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-03-06 07:12\n"
+"PO-Revision-Date: 2024-03-06 09:06\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_AM.rpy:86 #-#-# translate crowdin CHARA_AM_Menu01_c781f953:
 msgid "[_am_] Hey!"
@@ -50,27 +50,27 @@ msgstr "À tantôt!"
 
 # game/Cell01_AM.rpy:225 #-#-# translate crowdin Amelia_Change_HAIRS_cb0294af:
 msgid "[_am_]  Yeah, Yeah ..."
-msgstr ""
+msgstr "[ _am_ ] Ouais, Ouais ..."
 
 # game/Cell01_AM.rpy:228 #-#-# translate crowdin Amelia_Change_HAIRS_37ae3252:
 msgid "[_am_] See you later [name]! "
-msgstr ""
+msgstr "A tantôt [name]! "
 
 # game/Cell01_AM.rpy:298 #-#-# translate crowdin Quest2_AM_Talk01_a40954e9:
 msgid "[_am_] I am now officially Mrs. Bell's secretary. "
-msgstr ""
+msgstr "Je suis maintenant, officiellement, la secrétaire de Mme Bell. "
 
 # game/Cell01_AM.rpy:300 #-#-# translate crowdin Quest2_AM_Talk01_2c0be163:
 msgid "[_u_] You mean Tinker? "
-msgstr ""
+msgstr "Tu veux dire Tinker? "
 
 # game/Cell01_AM.rpy:302 #-#-# translate crowdin Quest2_AM_Talk01_001426f0:
 msgid "[_am_] Yes."
-msgstr ""
+msgstr "Oui."
 
 # game/Cell01_AM.rpy:304 #-#-# translate crowdin Quest2_AM_Talk01_5c67fb6e:
 msgid "[_am_] It's so nice to be so close to a woman like her... "
-msgstr ""
+msgstr "C'est tellement agréable d'être si proche d'une femme comme elle... "
 
 # game/Cell01_AM.rpy:306 #-#-# translate crowdin Quest2_AM_Talk01_46b5de3c:
 msgid "[_am_] So talented... So charismatic... "
