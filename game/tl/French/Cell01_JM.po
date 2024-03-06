@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-26 09:11\n"
+"PO-Revision-Date: 2024-03-06 07:12\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_JM.rpy:131 #-#-# translate crowdin CHARA_JM_Menu01_0eca5cd6:
 msgid "[_jm_] Hello to you... my [Quest_JM_NameMC]."
@@ -3374,7 +3374,7 @@ msgstr ""
 
 # game/Cell01_JM.rpy:2487 #-#-# translate crowdin Quest_JM_Favor_Unicorn1_menu1_P3_259e399c:
 msgid "[_u_] See you later!"
-msgstr ""
+msgstr "À tantôt!"
 
 # game/Cell01_JM.rpy:2493 #-#-# translate crowdin Quest_JM_Favor_Unicorn1_menu1_P3_6739e8ca:
 msgid "[_jm_] I can't believe it..."
@@ -3442,7 +3442,7 @@ msgstr ""
 
 # game/Cell01_JM.rpy:2518 #-#-# translate crowdin Quest_JM_Favor_Unicorn1_menu1_P3_259e399c_1:
 msgid "[_u_] See you later!"
-msgstr ""
+msgstr "À tantôt!"
 
 # game/Cell01_JM.rpy:2526 #-#-# translate crowdin Quest_JM_Favor_Unicorn2_2bb06560:
 msgid "[_jm_] Of course!"
