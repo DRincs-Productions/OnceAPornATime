@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-03-06 02:56\n"
+"PO-Revision-Date: 2024-03-06 03:59\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Intro01.rpy:64 #-#-# translate crowdin Intro01_93eeba4f:
 msgid "[_tb_] Greetings!"
@@ -1298,55 +1298,55 @@ msgstr "[_u_] ？？"
 
 # game/Intro01.rpy:1442 #-#-# translate crowdin SheIntro01_6435a119:
 msgid "[_u_] I've never heard this voice... Is it coming from the other room? "
-msgstr ""
+msgstr "[_u_] 我从没听过这个声音... 是从另一个房间传过来的吗？ "
 
 # game/Intro01.rpy:1446 #-#-# translate crowdin SheIntro01_971ecca9:
 msgid "[_ly_] Your Highness?"
-msgstr ""
+msgstr "[_ly_] 殿下？"
 
 # game/Intro01.rpy:1454 #-#-# translate crowdin SheIntro01_266df66f:
 msgid "[_sz_s_] Did you have time to..."
-msgstr ""
+msgstr "[_sz_s_] 你有时间..."
 
 # game/Intro01.rpy:1456 #-#-# translate crowdin SheIntro01_c0ce3348:
 msgid "[_sz_s_] ...take care of our special problem? "
-msgstr ""
+msgstr "[_sz_s_] ...处理下我们的特殊问题吗？ "
 
 # game/Intro01.rpy:1458 #-#-# translate crowdin SheIntro01_37ee92f3:
 msgid "[_ly_] Yes I... uh... sneak in her room..."
-msgstr ""
+msgstr "[_ly_] 有的，我... 呃... 有潜入她的房间..."
 
 # game/Intro01.rpy:1459 #-#-# translate crowdin SheIntro01_13465d81:
 msgid "[_ly_] And I open the casket and... "
-msgstr ""
+msgstr "[_ly_] 然后我打开棺材... "
 
 # game/Intro01.rpy:1461 #-#-# translate crowdin SheIntro01_8784c99d:
 msgid "[_ly_] And the keys were no longer there."
-msgstr ""
+msgstr "[_ly_] 发现钥匙已经不在那里面了。"
 
 # game/Intro01.rpy:1463 #-#-# translate crowdin SheIntro01_0a7613b9:
 msgid "[_sz_s_] ... "
-msgstr ""
+msgstr "[_sz_s_] ... "
 
 # game/Intro01.rpy:1464 #-#-# translate crowdin SheIntro01_b36b16d7:
 msgid "[_sz_s_] It was our only chance to get out of here...."
-msgstr ""
+msgstr "[_sz_s_] 那是我们离开这里的唯一机会...."
 
 # game/Intro01.rpy:1466 #-#-# translate crowdin SheIntro01_f71cb457:
 msgid "[_sz_s_] We need to come up with another idea soon."
-msgstr ""
+msgstr "[_sz_s_] 我们得马上想出另一个办法。"
 
 # game/Intro01.rpy:1468 #-#-# translate crowdin SheIntro01_fd5e9649:
 msgid "[_ly_] I'll see if I can find these."
-msgstr ""
+msgstr "[_ly_] 我会好好想想办法的。"
 
 # game/Intro01.rpy:1470 #-#-# translate crowdin SheIntro01_8b881e20:
 msgid "[_sz_s_] Thank you. I count on you Lyco."
-msgstr ""
+msgstr "[_sz_s_] 谢谢你，我全指望你了，莉可。"
 
 # game/Intro01.rpy:1477 #-#-# translate crowdin SheIntro01_8cb06f46:
 msgid "[_ly_] ?"
-msgstr ""
+msgstr "[_ly_] ？"
 
 # game/Intro01.rpy:1544 #-#-# translate crowdin Intro_Headquarter_e0bd643e:
 msgid "[_tb_] So, What's up?"
