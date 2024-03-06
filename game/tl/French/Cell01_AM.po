@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-26 09:10\n"
+"PO-Revision-Date: 2024-03-06 07:12\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_AM.rpy:86 #-#-# translate crowdin CHARA_AM_Menu01_c781f953:
 msgid "[_am_] Hey!"
@@ -18,35 +18,35 @@ msgstr ""
 
 # game/Cell01_AM.rpy:123 #-#-# translate crowdin QuestChap2_Amelia01_01_menu01_P1_eb532779:
 msgid "[_am_] Have you decided to help me? Really?"
-msgstr ""
+msgstr "Tu t'es décidé de m'aider? Vraiment?"
 
 # game/Cell01_AM.rpy:125 #-#-# translate crowdin QuestChap2_Amelia01_01_menu01_P1_47a7442e:
 msgid "[_am_] Thank you thank you thank you!"
-msgstr ""
+msgstr "Merci, merci, merci!"
 
 # game/Cell01_AM.rpy:129 #-#-# translate crowdin QuestChap2_Amelia01_01_menu01_P1_016a3ede:
 msgid "[_am_] We start the first interview tomorrow!"
-msgstr ""
+msgstr "Nous commençons le premier interview demain!"
 
 # game/Cell01_AM.rpy:134 #-#-# translate crowdin QuestChap2_Amelia01_01_menu01_P1_82285134:
 msgid "[_am_] Yes, but come back tomorrow, we won't do it at night!"
-msgstr ""
+msgstr "Oui, mais reviens demain, nous n'allons pas le faire la nuit!"
 
 # game/Cell01_AM.rpy:142 #-#-# translate crowdin QuestChap2_Amelia01_01_menu01_P1_82285134_1:
 msgid "[_am_] Yes, but come back tomorrow, we won't do it at night!"
-msgstr ""
+msgstr "Oui, mais reviens demain, nous n'allons pas le faire la nuit!"
 
 # game/Cell01_AM.rpy:163 #-#-# translate crowdin QuestChap2_Amelia01_01_menu01_P1_a8c52ae1:
 msgid "[_e_] No. Not today."
-msgstr ""
+msgstr "Non. Pas aujourd'hui."
 
 # game/Cell01_AM.rpy:166 #-#-# translate crowdin QuestChap2_Amelia01_01_menu01_P1_8ef1d7e6:
 msgid "[_e_] Yes, of course! It would be a pleasure!"
-msgstr ""
+msgstr "Oui, bien sûr! Ça serait un plaisir!"
 
 # game/Cell01_AM.rpy:222 #-#-# translate crowdin Amelia_Change_HAIRS_259e399c:
 msgid "[_u_] See you later!"
-msgstr ""
+msgstr "À tantôt!"
 
 # game/Cell01_AM.rpy:225 #-#-# translate crowdin Amelia_Change_HAIRS_cb0294af:
 msgid "[_am_]  Yeah, Yeah ..."
