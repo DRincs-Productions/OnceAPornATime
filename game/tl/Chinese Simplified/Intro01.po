@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-03-05 15:49\n"
+"PO-Revision-Date: 2024-03-06 02:56\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Intro01.rpy:64 #-#-# translate crowdin Intro01_93eeba4f:
 msgid "[_tb_] Greetings!"
@@ -1250,51 +1250,51 @@ msgstr "[_ly_] 所以我有点像你。"
 
 # game/Intro01.rpy:1404 #-#-# translate crowdin LycoPrison_menu01_01_92776f8d:
 msgid "[_u_] Except that you can move around in the palace."
-msgstr ""
+msgstr "[_u_] 除了你可以在王宫里自由走动这点。"
 
 # game/Intro01.rpy:1406 #-#-# translate crowdin LycoPrison_menu01_01_3c690006:
 msgid "[_ly_] And you don't have to do household chores. Everyone has their own problem. "
-msgstr ""
+msgstr "[_ly_] 还有的区别就是，你不用做家务。各都有各的难处。 "
 
 # game/Intro01.rpy:1411 #-#-# translate crowdin LycoPrison_menu01_01_d54332ca:
 msgid "[_ly_] I will be there if you need me!"
-msgstr ""
+msgstr "[_ly_] 如果你要找我，我随叫随到！"
 
 # game/Intro01.rpy:1427 #-#-# translate crowdin SheIntro01_84f079db:
 msgid "[_u_] I can' t believe it... there's a freaking palace right next to me..."
-msgstr ""
+msgstr "[_u_] 我简直不敢相信... 我的隔壁就是一栋王宫..."
 
 # game/Intro01.rpy:1428 #-#-# translate crowdin SheIntro01_331cb290:
 msgid "[_u_] Who lives in there?"
-msgstr ""
+msgstr "[_u_] 谁会住在王宫里呢？"
 
 # game/Intro01.rpy:1429 #-#-# translate crowdin SheIntro01_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Intro01.rpy:1430 #-#-# translate crowdin SheIntro01_697f6746:
 msgid "[_u_] Tinker could have given me more details before sending me here. "
-msgstr ""
+msgstr "[_u_] 在派我来执行任务之前，小叮当本可以告诉我更多的任务细节的。 "
 
 # game/Intro01.rpy:1435 #-#-# translate crowdin SheIntro01_dd1d2a97:
 msgid "[_u_] I wonder who could live in such a beautiful place..."
-msgstr ""
+msgstr "[_u_] 我想知道是谁能住在这么漂亮的地方里呢..."
 
 # game/Intro01.rpy:1436 #-#-# translate crowdin SheIntro01_c119ac1a:
 msgid "[_u_] I just hope it's not an old guy who's into nudism. "
-msgstr ""
+msgstr "[_u_] 只希望不会是一个对裸体主义情有独钟的老头住在那里。 "
 
 # game/Intro01.rpy:1439 #-#-# translate crowdin SheIntro01_50ae022e:
 msgid "[_sz_s_] Lycoris! "
-msgstr ""
+msgstr "[_sz_s_] 莉可莉丝！ "
 
 # game/Intro01.rpy:1440 #-#-# translate crowdin SheIntro01_d691c2c3:
 msgid "[_sz_s_] Could you please come over here?"
-msgstr ""
+msgstr "[_sz_s_] 能麻烦你过来一下吗？"
 
 # game/Intro01.rpy:1441 #-#-# translate crowdin SheIntro01_40b03a61:
 msgid "[_u_] ??"
-msgstr ""
+msgstr "[_u_] ？？"
 
 # game/Intro01.rpy:1442 #-#-# translate crowdin SheIntro01_6435a119:
 msgid "[_u_] I've never heard this voice... Is it coming from the other room? "
