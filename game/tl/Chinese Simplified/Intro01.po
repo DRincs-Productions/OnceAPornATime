@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-03-06 22:29\n"
+"PO-Revision-Date: 2024-03-06 23:40\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Intro01.rpy:64 #-#-# translate crowdin Intro01_93eeba4f:
 msgid "[_tb_] Greetings!"
@@ -1602,75 +1602,75 @@ msgstr "[_u_] 又在这里待了一天。"
 
 # game/Intro01.rpy:1780 #-#-# translate crowdin GalleryImageQuest_Melissandre01_011e3745:
 msgid "[_u_] Now that I think about it... I wonder if I can corrupt the androids from here... "
-msgstr ""
+msgstr "[_u_] 我忽然灵光乍现... 我想知道我能不能让这里的机器人恶堕... "
 
 # game/Intro01.rpy:1781 #-#-# translate crowdin GalleryImageQuest_Melissandre01_48fa9815:
 msgid "[_u_] And then... this Lycoris is really pretty... "
-msgstr ""
+msgstr "[_u_] 还有... 那个莉可莉丝真是漂亮... "
 
 # game/Intro01.rpy:1782 #-#-# translate crowdin GalleryImageQuest_Melissandre01_d337807a:
 msgid "[_u_] Mh..."
-msgstr ""
+msgstr "[_u_] 嗯..."
 
 # game/Intro01.rpy:1783 #-#-# translate crowdin GalleryImageQuest_Melissandre01_b6db975f:
 msgid "[_u_] Well, it's not like I have anything else to do. "
-msgstr ""
+msgstr "[_u_] 反正我又没有其他事要做。 "
 
 # game/Intro01.rpy:1803 #-#-# translate crowdin Intro_PrisonEnd_0e23d667:
 msgid "[_ly_] You saw... what?"
-msgstr ""
+msgstr "[_ly_] 你看到了... 什么？"
 
 # game/Intro01.rpy:1817 #-#-# translate crowdin Intro_PrisonEnd_6201611f:
 msgid "[_u_] I know where the keys you are looking for are."
-msgstr ""
+msgstr "[_u_] 我知道你要找的钥匙在哪了。"
 
 # game/Intro01.rpy:1819 #-#-# translate crowdin Intro_PrisonEnd_08918465:
 msgid "[_ly_] Where are they?"
-msgstr ""
+msgstr "[_ly_] 钥匙在哪？"
 
 # game/Intro01.rpy:1820 #-#-# translate crowdin Intro_PrisonEnd_b56d3e76:
 msgid "[_u_] If I tell you, do you open that door with it?"
-msgstr ""
+msgstr "[_u_] 要是我告诉你了，你会帮我打开这扇门吗？"
 
 # game/Intro01.rpy:1822 #-#-# translate crowdin Intro_PrisonEnd_270cef8e:
 msgid "[_ly_] That's... that's something I might consider."
-msgstr ""
+msgstr "[_ly_] 这... 也不是不可以考虑一下。"
 
 # game/Intro01.rpy:1823 #-#-# translate crowdin Intro_PrisonEnd_9d7f1912:
 msgid "[_u_] Do you promise?"
-msgstr ""
+msgstr "[_u_] 你能保证吗？"
 
 # game/Intro01.rpy:1824 #-#-# translate crowdin Intro_PrisonEnd_6a4f7144:
 msgid "[_u_] Pinky promise?"
-msgstr ""
+msgstr "[_u_] 拉勾保证？"
 
 # game/Intro01.rpy:1826 #-#-# translate crowdin Intro_PrisonEnd_35ec7719:
 msgid "[_ly_] Pinky promise."
-msgstr ""
+msgstr "[_ly_] 拉勾保证。"
 
 # game/Intro01.rpy:1827 #-#-# translate crowdin Intro_PrisonEnd_384b6df7:
 msgid "[_u_] The keys are attached to the belt of the sultana."
-msgstr ""
+msgstr "[_u_] 那把钥匙挂在苏丹娜的腰带上。"
 
 # game/Intro01.rpy:1829 #-#-# translate crowdin Intro_PrisonEnd_24cd8f38:
 msgid "[_ly_] Oh..."
-msgstr ""
+msgstr "[_ly_] 哦..."
 
 # game/Intro01.rpy:1831 #-#-# translate crowdin Intro_PrisonEnd_3501de61:
 msgid "[_ly_] How am I supposed to steal this?"
-msgstr ""
+msgstr "[_ly_] 那我该怎么把钥匙偷到手呢？"
 
 # game/Intro01.rpy:1832 #-#-# translate crowdin Intro_PrisonEnd_235cdb9f:
 msgid "[_u_] You could go during the night! And steal this discreetly."
-msgstr ""
+msgstr "[_u_] 你可以在夜深人静的时候过去，然后神不知，鬼不觉的把它偷走。"
 
 # game/Intro01.rpy:1834 #-#-# translate crowdin Intro_PrisonEnd_5e8b15b1:
 msgid "[_ly_] Yeah... nope."
-msgstr ""
+msgstr "[_ly_] 嗯... 行不通。"
 
 # game/Intro01.rpy:1836 #-#-# translate crowdin Intro_PrisonEnd_20a6fb23:
 msgid "[_ly_] I already did that once and it was too dangerous. "
-msgstr ""
+msgstr "[_ly_] 我已经试过一次了，那样做太危险了。 "
 
 # game/Intro01.rpy:1838 #-#-# translate crowdin Intro_PrisonEnd_9b57ea7b:
 msgid "[_ly_] I know you are lonely in that cell, but joining you there is not my intention."
