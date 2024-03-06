@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-03-06 21:12\n"
+"PO-Revision-Date: 2024-03-06 22:29\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Intro01.rpy:64 #-#-# translate crowdin Intro01_93eeba4f:
 msgid "[_tb_] Greetings!"
@@ -1486,39 +1486,39 @@ msgstr "[_tb_] 那么，"
 
 # game/Intro01.rpy:1677 #-#-# translate crowdin GalleryImageQuest_Melissandre01_8c7519d1:
 msgid "[_tb_] I've called you here today to announce a new addition to our team!"
-msgstr ""
+msgstr "[_tb_] 我之所以今天要打电话联系你，是想通知你一下，我们团队有新成员加入了。"
 
 # game/Intro01.rpy:1679 #-#-# translate crowdin GalleryImageQuest_Melissandre01_6d878c42:
 msgid "[_tb_] This person will be responsible for writing quests and adventures for the entire park!"
-msgstr ""
+msgstr "[_tb_] 新人将负责编写整个公园的任务和冒险事件！"
 
 # game/Intro01.rpy:1681 #-#-# translate crowdin GalleryImageQuest_Melissandre01_2b3a92de:
 msgid "[_tb_] I can't tell you for the moment who it is... "
-msgstr ""
+msgstr "[_tb_] 我暂时还不能告诉你她是谁... "
 
 # game/Intro01.rpy:1683 #-#-# translate crowdin GalleryImageQuest_Melissandre01_cf685e07:
 msgid "[_tb_] But, she is a famous person in the galaxy."
-msgstr ""
+msgstr "[_tb_] 不过可以告诉你，她可是星系里的名人。"
 
 # game/Intro01.rpy:1685 #-#-# translate crowdin GalleryImageQuest_Melissandre01_8aea5c9d:
 msgid "[_tb_] so I would ask you not to tell anyone that she is here. "
-msgstr ""
+msgstr "[_tb_] 所以我要求你不要告诉别人她在这里的消息。 "
 
 # game/Intro01.rpy:1692 #-#-# translate crowdin GalleryImageQuest_Melissandre01_d66233bd:
 msgid "[_e_] Do we know her?"
-msgstr ""
+msgstr "[_e_] 我们知道她吗？"
 
 # game/Intro01.rpy:1694 #-#-# translate crowdin GalleryImageQuest_Melissandre01_c6d3ba00:
 msgid "[_ml_] How famous is she?"
-msgstr ""
+msgstr "[_ml_] 她是有多出名？"
 
 # game/Intro01.rpy:1696 #-#-# translate crowdin GalleryImageQuest_Melissandre01_93577709:
 msgid "[_e_] She's a famous person like... she wrote books? "
-msgstr ""
+msgstr "[_e_] 她是一个靠... 写书出名的人吗？ "
 
 # game/Intro01.rpy:1698 #-#-# translate crowdin GalleryImageQuest_Melissandre01_c8e8eac0:
 msgid "[_ml_] Fantasy books?"
-msgstr ""
+msgstr "[_ml_] 奇幻书作者？"
 
 # game/Intro01.rpy:1700 #-#-# translate crowdin GalleryImageQuest_Melissandre01_45386120:
 msgid "[_e_] Is this Amandine de Beauregard??"
@@ -1526,79 +1526,79 @@ msgstr ""
 
 # game/Intro01.rpy:1707 #-#-# translate crowdin GalleryImageQuest_Melissandre01_e86c8d33:
 msgid "[_tb_] ...."
-msgstr ""
+msgstr "[_tb_] ...."
 
 # game/Intro01.rpy:1709 #-#-# translate crowdin GalleryImageQuest_Melissandre01_1b259dda:
 msgid "[_tb_] Don't be crazy fan girls when she arrives, okay?"
-msgstr ""
+msgstr "[_tb_] 等她到了后不要当个无脑狂热粉丝，行吗？"
 
 # game/Intro01.rpy:1716 #-#-# translate crowdin GalleryImageQuest_Melissandre01_ac839b5c:
 msgid "[_ml_] Oh shit! So, that really her?? "
-msgstr ""
+msgstr "[_ml_] 我去！那真的是她吗？？ "
 
 # game/Intro01.rpy:1718 #-#-# translate crowdin GalleryImageQuest_Melissandre01_a21e461c:
 msgid "[_e_] Gosh..."
-msgstr ""
+msgstr "[_e_] 天哪..."
 
 # game/Intro01.rpy:1720 #-#-# translate crowdin GalleryImageQuest_Melissandre01_4308461b:
 msgid "[_e_] How did you convince her to come here? "
-msgstr ""
+msgstr "[_e_] 你是怎么说服她，让她来这里的？ "
 
 # game/Intro01.rpy:1722 #-#-# translate crowdin GalleryImageQuest_Melissandre01_d3e7cdd1:
 msgid "[_ml_] Yeah... we are pretty much in the middle of nowhere here... "
-msgstr ""
+msgstr "[_ml_] 嗯... 我们基本上是身处在一块前不着村后不着店的地... "
 
 # game/Intro01.rpy:1730 #-#-# translate crowdin GalleryImageQuest_Melissandre01_87477a70:
 msgid "[_tb_] I offered her a big pile of money."
-msgstr ""
+msgstr "[_tb_] 我给了她一大笔钱。"
 
 # game/Intro01.rpy:1732 #-#-# translate crowdin GalleryImageQuest_Melissandre01_8fb96ed9:
 msgid "[_tb_] Anyway, I hope you will welcome her properly!"
-msgstr ""
+msgstr "[_tb_] 总之，我希望你们能好好的欢迎她！"
 
 # game/Intro01.rpy:1734 #-#-# translate crowdin GalleryImageQuest_Melissandre01_3285a11e:
 msgid "[_tb_] You can go back to your work!"
-msgstr ""
+msgstr "[_tb_] 你们可以回去工作了！"
 
 # game/Intro01.rpy:1741 #-#-# translate crowdin GalleryImageQuest_Melissandre01_5beff109:
 msgid "[_ml_] Have we got any news about [name]? "
-msgstr ""
+msgstr "[_ml_] 我们有关于[name]的新消息吗？ "
 
 # game/Intro01.rpy:1742 #-#-# translate crowdin GalleryImageQuest_Melissandre01_40838bca:
 msgid "[_tb_] Not yet, why?"
-msgstr ""
+msgstr "[_tb_] 还没有，怎么了？"
 
 # game/Intro01.rpy:1744 #-#-# translate crowdin GalleryImageQuest_Melissandre01_a8d88eb2:
 msgid "[_e_] Well... It's been a month since he left"
-msgstr ""
+msgstr "[_e_] 这个嘛... 他已经走了有一个月了"
 
 # game/Intro01.rpy:1747 #-#-# translate crowdin GalleryImageQuest_Melissandre01_a7123b03:
 msgid "[_e_] Maybe we should go see what's going on."
-msgstr ""
+msgstr "[_e_] 也许我们应该过去看下发生了什么事。"
 
 # game/Intro01.rpy:1755 #-#-# translate crowdin GalleryImageQuest_Melissandre01_638baa0b:
 msgid "[_tb_] Nah..."
-msgstr ""
+msgstr "[_tb_] 不用..."
 
 # game/Intro01.rpy:1757 #-#-# translate crowdin GalleryImageQuest_Melissandre01_738a5264:
 msgid "[_tb_] I'm sure he'll be fine!"
-msgstr ""
+msgstr "[_tb_] 我相信他会没事的！"
 
 # game/Intro01.rpy:1759 #-#-# translate crowdin GalleryImageQuest_Melissandre01_42b378b4:
 msgid "[_tb_] No need to worry about it."
-msgstr ""
+msgstr "[_tb_] 不用那么担心的啦。"
 
 # game/Intro01.rpy:1767 #-#-# translate crowdin GalleryImageQuest_Melissandre01_ed75db45:
 msgid "[_u_] Yeah, I'm sure they'll be here soon. "
-msgstr ""
+msgstr "[_u_] 是的，我相信他们很快就能来了。 "
 
 # game/Intro01.rpy:1769 #-#-# translate crowdin GalleryImageQuest_Melissandre01_64755edc:
 msgid "[_ly_] I hope so!"
-msgstr ""
+msgstr "[_ly_] 希望如此吧！"
 
 # game/Intro01.rpy:1778 #-#-# translate crowdin GalleryImageQuest_Melissandre01_4dfdf8ec:
 msgid "[_u_] Another day here."
-msgstr ""
+msgstr "[_u_] 又在这里待了一天。"
 
 # game/Intro01.rpy:1780 #-#-# translate crowdin GalleryImageQuest_Melissandre01_011e3745:
 msgid "[_u_] Now that I think about it... I wonder if I can corrupt the androids from here... "
