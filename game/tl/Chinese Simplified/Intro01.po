@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-03-06 09:06\n"
+"PO-Revision-Date: 2024-03-06 21:12\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Intro01.rpy:64 #-#-# translate crowdin Intro01_93eeba4f:
 msgid "[_tb_] Greetings!"
@@ -1426,63 +1426,63 @@ msgstr "[_ml_] 我没法再等[name]自己回来了 .... "
 
 # game/Intro01.rpy:1626 #-#-# translate crowdin GalleryImageQuest_Melissandre01_f91c2474:
 msgid "[_ml_] Emee...."
-msgstr ""
+msgstr "[_ml_] 埃梅...."
 
 # game/Intro01.rpy:1627 #-#-# translate crowdin GalleryImageQuest_Melissandre01_765d70d8:
 msgid "[_ml_] [name]..."
-msgstr ""
+msgstr "[_ml_] [name]..."
 
 # game/Intro01.rpy:1629 #-#-# translate crowdin GalleryImageQuest_Melissandre01_b7de7947:
 msgid "[_ml_] Ooooh..."
-msgstr ""
+msgstr "[_ml_] 哦哦..."
 
 # game/Intro01.rpy:1630 #-#-# translate crowdin GalleryImageQuest_Melissandre01_aebd104c:
 msgid "[_ml_] Hell yeah..."
-msgstr ""
+msgstr "[_ml_] 哦耶..."
 
 # game/Intro01.rpy:1632 #-#-# translate crowdin GalleryImageQuest_Melissandre01_00396a4f:
 msgid "[_ml_] Give me some more..."
-msgstr ""
+msgstr "[_ml_] 给我更多..."
 
 # game/Intro01.rpy:1634 #-#-# translate crowdin GalleryImageQuest_Melissandre01_a3decdd9:
 msgid "[_ml_] I need more..."
-msgstr ""
+msgstr "[_ml_] 我要更多..."
 
 # game/Intro01.rpy:1636 #-#-# translate crowdin GalleryImageQuest_Melissandre01_51a80f0b:
 msgid "[_ml_] Aahhh...hh..."
-msgstr ""
+msgstr "[_ml_] 啊啊...嗯..."
 
 # game/Intro01.rpy:1638 #-#-# translate crowdin GalleryImageQuest_Melissandre01_a8230f24:
 msgid "[_ml_] More!!! I want more!"
-msgstr ""
+msgstr "[_ml_] 更多！！！我想要更多！"
 
 # game/Intro01.rpy:1640 #-#-# translate crowdin GalleryImageQuest_Melissandre01_f64ba6a9:
 msgid "[_ml_] Aaaahhhaa..."
-msgstr ""
+msgstr "[_ml_] 啊啊啊哈哈..."
 
 # game/Intro01.rpy:1642 #-#-# translate crowdin GalleryImageQuest_Melissandre01_6225edee:
 msgid "[_ml_] I....."
-msgstr ""
+msgstr "[_ml_] 我....."
 
 # game/Intro01.rpy:1644 #-#-# translate crowdin GalleryImageQuest_Melissandre01_92a09693:
 msgid "[_ml_] I'm gonna..."
-msgstr ""
+msgstr "[_ml_] 我要..."
 
 # game/Intro01.rpy:1646 #-#-# translate crowdin GalleryImageQuest_Melissandre01_364ab4cc:
 msgid "[_ml_] I'm gonna come!"
-msgstr ""
+msgstr "[_ml_] 我要来了！"
 
 # game/Intro01.rpy:1663 #-#-# translate crowdin GalleryImageQuest_Melissandre01_368658a5:
 msgid "[_e_] I found her!"
-msgstr ""
+msgstr "[_e_] 我找到她了！"
 
 # game/Intro01.rpy:1665 #-#-# translate crowdin GalleryImageQuest_Melissandre01_040a03dd:
 msgid "[_tb_] Great!"
-msgstr ""
+msgstr "[_tb_] 很好！"
 
 # game/Intro01.rpy:1675 #-#-# translate crowdin GalleryImageQuest_Melissandre01_2c2000ca:
 msgid "[_tb_] So,"
-msgstr ""
+msgstr "[_tb_] 那么，"
 
 # game/Intro01.rpy:1677 #-#-# translate crowdin GalleryImageQuest_Melissandre01_8c7519d1:
 msgid "[_tb_] I've called you here today to announce a new addition to our team!"
