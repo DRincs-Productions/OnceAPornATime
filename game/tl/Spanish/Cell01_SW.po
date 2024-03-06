@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-02-26 09:11\n"
+"PO-Revision-Date: 2024-03-06 09:06\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_SW.rpy:309 #-#-# translate crowdin CHARA_SW_Menu01_8238495a:
 msgid "[_sw_]  ... "
@@ -482,7 +482,7 @@ msgstr ""
 
 # game/Cell01_SW.rpy:965 #-#-# translate crowdin CHARA_SW_Exit_Teleport_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_SW.rpy:979 #-#-# translate crowdin CHARA_SW_Exit_Teleport_ac050383:
 msgid "[_tb_]  Hey! "
@@ -1006,7 +1006,7 @@ msgstr ""
 
 # game/Cell01_SW.rpy:1385 #-#-# translate crowdin SW_FAVOR_Bra01_p2_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_SW.rpy:1386 #-#-# translate crowdin SW_FAVOR_Bra01_p2_e05ac158:
 msgid "[_u_]  I need you to show me your bra. "
@@ -1394,7 +1394,7 @@ msgstr ""
 
 # game/Cell01_SW.rpy:1673 #-#-# translate crowdin SW_FAVOR_Panties01_p2_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_SW.rpy:1674 #-#-# translate crowdin SW_FAVOR_Panties01_p2_6841d07f:
 msgid "[_u_]  I need you to show me your panties. "
@@ -2170,7 +2170,7 @@ msgstr ""
 
 # game/Cell01_SW.rpy:2265 #-#-# translate crowdin SW_FAVOR_Boobs02_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_SW.rpy:2267 #-#-# translate crowdin SW_FAVOR_Boobs02_308e05fc:
 msgid "[_sw_] Are you talking about a penis? Because I'm not a goddamned futa-something."
@@ -2190,11 +2190,11 @@ msgstr ""
 
 # game/Cell01_SW.rpy:2274 #-#-# translate crowdin SW_FAVOR_Boobs02_7b1c1392_1:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_SW.rpy:2278 #-#-# translate crowdin SW_FAVOR_Boobs02_7b1c1392_2:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_SW.rpy:2280 #-#-# translate crowdin SW_FAVOR_Boobs02_55a9fb46:
 msgid "[_sw_] I'm... afraid that's all I have to offer..."
@@ -2202,7 +2202,7 @@ msgstr ""
 
 # game/Cell01_SW.rpy:2282 #-#-# translate crowdin SW_FAVOR_Boobs02_7b1c1392_3:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_SW.rpy:2286 #-#-# translate crowdin SW_FAVOR_Boobs02_687bc710:
 msgid "[_sw_]  Are mine the first you laid your eyes on? "
@@ -2322,7 +2322,7 @@ msgstr ""
 
 # game/Cell01_SW.rpy:2387 #-#-# translate crowdin SW_FAVOR_Pussy02_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_SW.rpy:2389 #-#-# translate crowdin SW_FAVOR_Pussy02_39da660b:
 msgid "[_u_] well... That's all I have for you, sir. "
@@ -2330,7 +2330,7 @@ msgstr ""
 
 # game/Cell01_SW.rpy:2391 #-#-# translate crowdin SW_FAVOR_Pussy02_7b1c1392_1:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_SW.rpy:2393 #-#-# translate crowdin SW_FAVOR_Pussy02_86d14115:
 msgid "[_sw_] Can I get dressed now? "
@@ -2454,7 +2454,7 @@ msgstr ""
 
 # game/Cell01_SW.rpy:2489 #-#-# translate crowdin SW_FAVOR_Boobs03loop_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_SW.rpy:2491 #-#-# translate crowdin SW_FAVOR_Boobs03loop_70df9f86:
 msgid "[_u_] You are cruel "
@@ -2550,7 +2550,7 @@ msgstr ""
 
 # game/Cell01_SW.rpy:2573 #-#-# translate crowdin SW_FAVOR_Pussy03loop_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_SW.rpy:2575 #-#-# translate crowdin SW_FAVOR_Pussy03loop_70df9f86:
 msgid "[_u_] You are cruel "
@@ -2790,7 +2790,7 @@ msgstr ""
 
 # game/Cell01_SW.rpy:2773 #-#-# translate crowdin SW_FAVOR_SW_Strip_NEEDDESS_RETURN_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_SW.rpy:2774 #-#-# translate crowdin SW_FAVOR_SW_Strip_NEEDDESS_RETURN_8891645e:
 msgid "[_u_] Your ass is... "
@@ -2802,7 +2802,7 @@ msgstr ""
 
 # game/Cell01_SW.rpy:2777 #-#-# translate crowdin SW_FAVOR_SW_Strip_NEEDDESS_RETURN_7b1c1392_1:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_SW.rpy:2785 #-#-# translate crowdin SW_FAVOR_SW_Strip_NEEDDESS_RETURN_a2a23130_1:
 msgid "[_u_] !!!"
@@ -3050,7 +3050,7 @@ msgstr ""
 
 # game/Cell01_SW.rpy:2971 #-#-# translate crowdin SW_FAVOR_Strip02_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_SW.rpy:2972 #-#-# translate crowdin SW_FAVOR_Strip02_574851b5:
 msgid "[_u_] Yes, ma'am."
@@ -3434,7 +3434,7 @@ msgstr ""
 
 # game/Cell01_SW.rpy:3233 #-#-# translate crowdin SW_FistQuest_01_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_SW.rpy:3234 #-#-# translate crowdin SW_FistQuest_01_6e90c9b1:
 msgid "[_u_] Alacasam ..."
@@ -3742,7 +3742,7 @@ msgstr ""
 
 # game/Cell01_SW.rpy:3488 #-#-# translate crowdin Quest_SW_App03_v1_01_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_SW.rpy:3490 #-#-# translate crowdin Quest_SW_App03_v1_01_a2a23130_1:
 msgid "[_u_] !!!"
@@ -3870,7 +3870,7 @@ msgstr ""
 
 # game/Cell01_SW.rpy:3585 #-#-# translate crowdin Quest_SW_App03_v2_01_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_SW.rpy:3587 #-#-# translate crowdin Quest_SW_App03_v2_01_a2a23130:
 msgid "[_u_] !!!"
@@ -3954,7 +3954,7 @@ msgstr ""
 
 # game/Cell01_SW.rpy:3656 #-#-# translate crowdin Quest_SW_App03_v2_01_7b1c1392_1:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_SW.rpy:3657 #-#-# translate crowdin Quest_SW_App03_v2_01_13b0c926:
 msgid "[_u_] I promise you, I've never seen such a beautiful ass in my life!"
@@ -4014,7 +4014,7 @@ msgstr ""
 
 # game/Cell01_SW.rpy:3691 #-#-# translate crowdin Quest_SW_App03_v2_01Loop_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_SW.rpy:3693 #-#-# translate crowdin Quest_SW_App03_v2_01Loop_a2a23130:
 msgid "[_u_] !!!"
@@ -4030,7 +4030,7 @@ msgstr ""
 
 # game/Cell01_SW.rpy:3696 #-#-# translate crowdin Quest_SW_App03_v2_01Loop_7b1c1392_1:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_SW.rpy:3698 #-#-# translate crowdin Quest_SW_App03_v2_01Loop_c10f566e:
 msgid "[_sw_]  There you go! "
@@ -4118,7 +4118,7 @@ msgstr ""
 
 # game/Cell01_SW.rpy:3762 #-#-# translate crowdin Quest_SW_App03_v3_01_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_SW.rpy:3764 #-#-# translate crowdin Quest_SW_App03_v3_01_52a2e2cd:
 msgid "[_u_] (Yess!!!)"
@@ -4142,7 +4142,7 @@ msgstr ""
 
 # game/Cell01_SW.rpy:3779 #-#-# translate crowdin Quest_SW_App03_v3_01_7b1c1392_1:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_SW.rpy:3789 #-#-# translate crowdin Quest_SW_App03_v3_01_c152f993:
 msgid "[_sw_] !!!!!!!!"
@@ -4210,7 +4210,7 @@ msgstr ""
 
 # game/Cell01_SW.rpy:3852 #-#-# translate crowdin Quest_SW_App03_v3_01_7b1c1392_2:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_SW.rpy:3853 #-#-# translate crowdin Quest_SW_App03_v3_01_13b0c926:
 msgid "[_u_] I promise you, I've never seen such a beautiful ass in my life!"
@@ -4282,7 +4282,7 @@ msgstr ""
 
 # game/Cell01_SW.rpy:3901 #-#-# translate crowdin Quest_SW_App03_v3_01Loop_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_SW.rpy:3903 #-#-# translate crowdin Quest_SW_App03_v3_01Loop_52a2e2cd:
 msgid "[_u_] (Yess!!!)"
@@ -4290,7 +4290,7 @@ msgstr ""
 
 # game/Cell01_SW.rpy:3904 #-#-# translate crowdin Quest_SW_App03_v3_01Loop_7b1c1392_1:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_SW.rpy:3905 #-#-# translate crowdin Quest_SW_App03_v3_01Loop_0010aa95:
 msgid "[_u_]  Should I try to lift it more? "
@@ -4302,7 +4302,7 @@ msgstr ""
 
 # game/Cell01_SW.rpy:3909 #-#-# translate crowdin Quest_SW_App03_v3_01Loop_7b1c1392_2:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_SW.rpy:3914 #-#-# translate crowdin Quest_SW_App03_v3_01Loop_c152f993:
 msgid "[_sw_] !!!!!!!!"
@@ -4318,7 +4318,7 @@ msgstr ""
 
 # game/Cell01_SW.rpy:3924 #-#-# translate crowdin Quest_SW_App03_v3_01Loop_7b1c1392_3:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_SW.rpy:3927 #-#-# translate crowdin Quest_SW_App03_v3_01Loop_c10f566e:
 msgid "[_sw_]  There you go! "
@@ -4382,7 +4382,7 @@ msgstr ""
 
 # game/Cell01_SW.rpy:3976 #-#-# translate crowdin Quest_SW_App03_v3_02CupidApple_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_SW.rpy:3977 #-#-# translate crowdin Quest_SW_App03_v3_02CupidApple_bc1a842c:
 msgid "[_u_] Is there anyone here? "
@@ -4626,7 +4626,7 @@ msgstr ""
 
 # game/Cell01_SW.rpy:4174 #-#-# translate crowdin Quest_SW_App03_v4_01CupidApple_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_SW.rpy:4176 #-#-# translate crowdin Quest_SW_App03_v4_01CupidApple_52a2e2cd:
 msgid "[_u_] (Yess!!!)"
@@ -4634,7 +4634,7 @@ msgstr ""
 
 # game/Cell01_SW.rpy:4177 #-#-# translate crowdin Quest_SW_App03_v4_01CupidApple_7b1c1392_1:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_SW.rpy:4178 #-#-# translate crowdin Quest_SW_App03_v4_01CupidApple_8c1212ca:
 msgid "[_u_]  Let's lift it more... "
@@ -5474,7 +5474,7 @@ msgstr ""
 
 # game/Cell01_SW.rpy:4878 #-#-# translate crowdin Quest_Chrismas01_p03_Dial02_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_SW.rpy:4879 #-#-# translate crowdin Quest_Chrismas01_p03_Dial02_857edb47:
 msgid "[_tb_] Why the long face?"
@@ -5802,7 +5802,7 @@ msgstr ""
 
 # game/Cell01_SW.rpy:5115 #-#-# translate crowdin Quest_SW_App07_StartPart2_03Clothes_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_SW.rpy:5124 #-#-# translate crowdin Quest_SW_App07_StartPart2_03Clothes_246189d9:
 msgid "[_tb_] ahahahahah CutiePie!"
@@ -5878,7 +5878,7 @@ msgstr ""
 
 # game/Cell01_SW.rpy:5168 #-#-# translate crowdin Quest_SW_App07_StartPart2_03Clothes_7b1c1392_1:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_SW.rpy:5169 #-#-# translate crowdin Quest_SW_App07_StartPart2_03Clothes_724b6403:
 msgid "[_u_] It's funny, every time I start to forget you're a princess,"
@@ -6166,7 +6166,7 @@ msgstr ""
 
 # game/Cell01_SW.rpy:5375 #-#-# translate crowdin Quest_SW_ADVENTURE_01_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_SW.rpy:5376 #-#-# translate crowdin Quest_SW_ADVENTURE_01_f60cdcf7:
 msgid "[_u_] ...what?"
@@ -6178,7 +6178,7 @@ msgstr ""
 
 # game/Cell01_SW.rpy:5380 #-#-# translate crowdin Quest_SW_ADVENTURE_01_7b1c1392_1:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_SW.rpy:5381 #-#-# translate crowdin Quest_SW_ADVENTURE_01_a79bad2b:
 msgid "[_u_] I must be missing something. We left three minutes ago."
@@ -6190,7 +6190,7 @@ msgstr ""
 
 # game/Cell01_SW.rpy:5384 #-#-# translate crowdin Quest_SW_ADVENTURE_01_7b1c1392_2:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_SW.rpy:5385 #-#-# translate crowdin Quest_SW_ADVENTURE_01_ad3513d1:
 msgid "[_u_] Are you kidding me? "
@@ -6226,7 +6226,7 @@ msgstr ""
 
 # game/Cell01_SW.rpy:5398 #-#-# translate crowdin Quest_SW_ADVENTURE_01_7b1c1392_3:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_SW.rpy:5400 #-#-# translate crowdin Quest_SW_ADVENTURE_01_da2335b5:
 msgid "[_sw_] Are you pouting?"
@@ -6294,7 +6294,7 @@ msgstr ""
 
 # game/Cell01_SW.rpy:5439 #-#-# translate crowdin Quest_SW_ADVENTURE_01_7b1c1392_4:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_SW.rpy:5440 #-#-# translate crowdin Quest_SW_ADVENTURE_01_5be041ef:
 msgid "[_u_] See?"
@@ -6922,7 +6922,7 @@ msgstr ""
 
 # game/Cell01_SW.rpy:5977 #-#-# translate crowdin Quest_SW_GOLDCOIN_01_APPLESQuests01_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_SW.rpy:5987 #-#-# translate crowdin Quest_SW_GOLDCOIN_01_APPLESQuests01_9ba9788c:
 msgid "[_sw_] Okay... so..."
@@ -6930,7 +6930,7 @@ msgstr ""
 
 # game/Cell01_SW.rpy:5995 #-#-# translate crowdin Quest_SW_GOLDCOIN_01_APPLESQuests01_7b1c1392_1:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_SW.rpy:5996 #-#-# translate crowdin Quest_SW_GOLDCOIN_01_APPLESQuests01_2012ad9e:
 msgid "[_u_] Snow White?"
@@ -7086,7 +7086,7 @@ msgstr ""
 
 # game/Cell01_SW.rpy:6069 #-#-# translate crowdin Quest_SW_GOLDCOIN_01_APPLESQuests01_7b1c1392_2:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_SW.rpy:6070 #-#-# translate crowdin Quest_SW_GOLDCOIN_01_APPLESQuests01_6a48f90d:
 msgid "[_u_] a little mouse? "
@@ -7346,7 +7346,7 @@ msgstr ""
 
 # game/Cell01_SW.rpy:6231 #-#-# translate crowdin Quest_SW_GOLDCOIN_03_adventure_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_SW.rpy:6241 #-#-# translate crowdin Quest_SW_GOLDCOIN_03_adventure_6645c88e:
 msgid "[_sw_] Hmm... Doesn't seem like anything changed."
@@ -7370,7 +7370,7 @@ msgstr ""
 
 # game/Cell01_SW.rpy:6255 #-#-# translate crowdin Quest_SW_GOLDCOIN_03_adventure_7b1c1392_1:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_SW.rpy:6256 #-#-# translate crowdin Quest_SW_GOLDCOIN_03_adventure_817a9c8e:
 msgid "[_u_] Tinker, I think she's disintegrated. "
@@ -7510,7 +7510,7 @@ msgstr ""
 
 # game/Cell01_SW.rpy:6342 #-#-# translate crowdin Quest_SW_GOLDCOIN_03_adventure_7b1c1392_2:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_SW.rpy:6343 #-#-# translate crowdin Quest_SW_GOLDCOIN_03_adventure_f3833ac4:
 msgid "[_u_] Nothing's happening at all, actually..."
@@ -7614,7 +7614,7 @@ msgstr ""
 
 # game/Cell01_SW.rpy:6410 #-#-# translate crowdin Quest_SW_GOLDCOIN_03_adventure_7b1c1392_3:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_SW.rpy:6411 #-#-# translate crowdin Quest_SW_GOLDCOIN_03_adventure_f3833ac4_1:
 msgid "[_u_] Nothing's happening at all, actually..."
@@ -7686,7 +7686,7 @@ msgstr ""
 
 # game/Cell01_SW.rpy:6472 #-#-# translate crowdin Quest_SW_GOLDCOIN_03_adventure_7b1c1392_4:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_SW.rpy:6473 #-#-# translate crowdin Quest_SW_GOLDCOIN_03_adventure_f3833ac4_2:
 msgid "[_u_] Nothing's happening at all, actually..."
@@ -7722,7 +7722,7 @@ msgstr ""
 
 # game/Cell01_SW.rpy:6496 #-#-# translate crowdin Quest_SW_GOLDCOIN_03_adventure_7b1c1392_5:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_SW.rpy:6498 #-#-# translate crowdin Quest_SW_GOLDCOIN_03_adventure_0eadce34:
 msgid "[_tb_] Your wish really sucks."
@@ -7970,7 +7970,7 @@ msgstr ""
 
 # game/Cell01_SW.rpy:6667 #-#-# translate crowdin Quest_SW_GOLDCOIN_01_APPLESQuests02_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_SW.rpy:6677 #-#-# translate crowdin Quest_SW_GOLDCOIN_01_APPLESQuests02_182858b2:
 msgid "[_sw_] It's always a little ..."
@@ -8086,7 +8086,7 @@ msgstr ""
 
 # game/Cell01_SW.rpy:6732 #-#-# translate crowdin Quest_SW_GOLDCOIN_01_APPLESQuests02_7b1c1392_1:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_SW.rpy:6733 #-#-# translate crowdin Quest_SW_GOLDCOIN_01_APPLESQuests02_485369b5:
 msgid "[_u_] You ready?"
@@ -8102,11 +8102,11 @@ msgstr ""
 
 # game/Cell01_SW.rpy:6739 #-#-# translate crowdin Quest_SW_GOLDCOIN_01_APPLESQuests02_7b1c1392_2:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_SW.rpy:6740 #-#-# translate crowdin Quest_SW_GOLDCOIN_01_APPLESQuests02_7b1c1392_3:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_SW.rpy:6741 #-#-# translate crowdin Quest_SW_GOLDCOIN_01_APPLESQuests02_5ed035db:
 msgid "[_sw_] I'm ready!"
@@ -8366,7 +8366,7 @@ msgstr ""
 
 # game/Cell01_SW.rpy:6910 #-#-# translate crowdin Quest_SW_GOLDCOIN_05_adventure_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_SW.rpy:6920 #-#-# translate crowdin Quest_SW_GOLDCOIN_05_adventure_a4409229:
 msgid "[_sw_] Well, do you think it worked?"
@@ -8810,7 +8810,7 @@ msgstr ""
 
 # game/Cell01_SW.rpy:7180 #-#-# translate crowdin Quest_SW_GOLDCOIN_06_adventure_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_SW.rpy:7182 #-#-# translate crowdin Quest_SW_GOLDCOIN_06_adventure_495fda61:
 msgid "[_sw_] It's because it's a well..."
@@ -8842,7 +8842,7 @@ msgstr ""
 
 # game/Cell01_SW.rpy:7195 #-#-# translate crowdin Quest_SW_GOLDCOIN_06_adventure_7b1c1392_1:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_SW.rpy:7205 #-#-# translate crowdin Quest_SW_GOLDCOIN_06_adventure_ca7b30b1:
 msgid "[_sw_] Well, I guess this time..."
@@ -9254,7 +9254,7 @@ msgstr ""
 
 # game/Cell01_SW.rpy:7496 #-#-# translate crowdin Quest_SW_GOLDCOIN_07_adventure_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_SW.rpy:7506 #-#-# translate crowdin Quest_SW_GOLDCOIN_07_adventure_182e6ca2:
 msgid "[_sw_] I think I feel something... "
@@ -9550,7 +9550,7 @@ msgstr ""
 
 # game/Cell01_SW.rpy:7683 #-#-# translate crowdin Quest_SW_GOLDCOIN_08_adventure_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_SW.rpy:7693 #-#-# translate crowdin Quest_SW_GOLDCOIN_08_adventure_5e0c7716:
 msgid "[_sw_] Looks like it failed. Oh well."
@@ -9566,7 +9566,7 @@ msgstr ""
 
 # game/Cell01_SW.rpy:7697 #-#-# translate crowdin Quest_SW_GOLDCOIN_08_adventure_7b1c1392_1:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_SW.rpy:7698 #-#-# translate crowdin Quest_SW_GOLDCOIN_08_adventure_ee91a9a5:
 msgid "[_u_] That's pretty disappointing."
@@ -9634,7 +9634,7 @@ msgstr ""
 
 # game/Cell01_SW.rpy:7732 #-#-# translate crowdin Quest_SW_GOLDCOIN_08_adventure_7b1c1392_2:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_SW.rpy:7733 #-#-# translate crowdin Quest_SW_GOLDCOIN_08_adventure_7b73eebe:
 msgid "[_u_] Where are you???"
@@ -9770,7 +9770,7 @@ msgstr ""
 
 # game/Cell01_SW.rpy:7818 #-#-# translate crowdin Quest_SW_GOLDCOIN_PATREON03_adventure_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_SW.rpy:7820 #-#-# translate crowdin Quest_SW_GOLDCOIN_PATREON03_adventure_cf38e9e3:
 msgid "[_sw_] ?"
@@ -9810,7 +9810,7 @@ msgstr ""
 
 # game/Cell01_SW.rpy:7841 #-#-# translate crowdin Quest_SW_GOLDCOIN_PATREON03_adventure_7b1c1392_1:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_SW.rpy:7842 #-#-# translate crowdin Quest_SW_GOLDCOIN_PATREON03_adventure_2012ad9e:
 msgid "[_u_] Snow White?"
@@ -10534,7 +10534,7 @@ msgstr ""
 
 # game/Cell01_SW.rpy:8372 #-#-# translate crowdin Quest_SW_GOLDCOIN_09_adventure_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_SW.rpy:8373 #-#-# translate crowdin Quest_SW_GOLDCOIN_09_adventure_2509c811:
 msgid "[_u_] Is it possible to become an Aenari? "
@@ -10826,7 +10826,7 @@ msgstr ""
 
 # game/Cell01_SW.rpy:8605 #-#-# translate crowdin Quest_SW_GOLDCOIN_09_adventureP2_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_SW.rpy:8606 #-#-# translate crowdin Quest_SW_GOLDCOIN_09_adventureP2_651b4bcb:
 msgid "[_u_] Damn it... I'm getting tired of princesses."
@@ -11194,7 +11194,7 @@ msgstr ""
 
 # game/Cell01_SW.rpy:8878 #-#-# translate crowdin Quest_SW_GOLDCOIN_09_adventureP2_7b1c1392_1:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_SW.rpy:8879 #-#-# translate crowdin Quest_SW_GOLDCOIN_09_adventureP2_d813db2e:
 msgid "[_u_] Are you saying my life's been in danger the whole time on this planet?"
@@ -11394,7 +11394,7 @@ msgstr ""
 
 # game/Cell01_SW.rpy:9003 #-#-# translate crowdin Quest_SW_GOLDCOIN_09_adventureP3_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_SW.rpy:9004 #-#-# translate crowdin Quest_SW_GOLDCOIN_09_adventureP3_fbd0e04e:
 msgid "[_u_] And that's it?"
@@ -11726,7 +11726,7 @@ msgstr ""
 
 # game/Cell01_SW.rpy:9355 #-#-# translate crowdin Quest_DRONEAUTO_SW_Intro_01_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_SW.rpy:9356 #-#-# translate crowdin Quest_DRONEAUTO_SW_Intro_01_2012ad9e:
 msgid "[_u_] Snow White?"
@@ -11746,7 +11746,7 @@ msgstr ""
 
 # game/Cell01_SW.rpy:9362 #-#-# translate crowdin Quest_DRONEAUTO_SW_Intro_01_7b1c1392_1:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_SW.rpy:9363 #-#-# translate crowdin Quest_DRONEAUTO_SW_Intro_01_b58297aa:
 msgid "[_u_] Ah yes, of course, the famous metal bucket demons. "
@@ -11806,7 +11806,7 @@ msgstr ""
 
 # game/Cell01_SW.rpy:9399 #-#-# translate crowdin Quest_DRONEAUTO_SW_Intro_01_7b1c1392_2:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_SW.rpy:9400 #-#-# translate crowdin Quest_DRONEAUTO_SW_Intro_01_a7152b4b:
 msgid "[_u_] So, what do we do, tinker? Can you teleport it? "
@@ -11966,7 +11966,7 @@ msgstr ""
 
 # game/Cell01_SW.rpy:9519 #-#-# translate crowdin SW_PATREON04_ONHOLD01_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_SW.rpy:9520 #-#-# translate crowdin SW_PATREON04_ONHOLD01_a4bdf8db:
 msgid "[_u_] Let's go back to the headquarters."
@@ -12086,7 +12086,7 @@ msgstr ""
 
 # game/Cell01_SW.rpy:9631 #-#-# translate crowdin QuestPatreon04_p2_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_SW.rpy:9632 #-#-# translate crowdin QuestPatreon04_p2_213a5d15:
 msgid "[_u_] What the hell is this thing? "
@@ -12170,7 +12170,7 @@ msgstr ""
 
 # game/Cell01_SW.rpy:9696 #-#-# translate crowdin QuestPatreon04_p2_7b1c1392_1:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_SW.rpy:9698 #-#-# translate crowdin QuestPatreon04_p2_d33f94b2:
 msgid "[_u_] Does that mean you're so old that you're also an archaeological relic? "
@@ -12238,7 +12238,7 @@ msgstr ""
 
 # game/Cell01_SW.rpy:9742 #-#-# translate crowdin QuestPatreon04_p2_7b1c1392_2:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_SW.rpy:9745 #-#-# translate crowdin QuestPatreon04_p2_f4592d0e:
 msgid "[_fy3_s_] I've already told you to call me if you see any intruders..."
@@ -12618,7 +12618,7 @@ msgstr ""
 
 # game/Cell01_SW.rpy:10023 #-#-# translate crowdin Quest_SW_App08_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_SW.rpy:10028 #-#-# translate crowdin Quest_SW_App08_ef878324:
 msgid "[_sw_] Somehow, I have a hunch this is going to be something lewd."
@@ -12638,7 +12638,7 @@ msgstr ""
 
 # game/Cell01_SW.rpy:10036 #-#-# translate crowdin Quest_SW_App08_7b1c1392_1:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_SW.rpy:10037 #-#-# translate crowdin Quest_SW_App08_2b8e1a84:
 msgid "[_u_] Alright, I'll cut to the chase. I want to have sex with you."
@@ -12726,7 +12726,7 @@ msgstr ""
 
 # game/Cell01_SW.rpy:10075 #-#-# translate crowdin Quest_SW_App08_7b1c1392_2:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_SW.rpy:10077 #-#-# translate crowdin Quest_SW_App08_b437b452:
 msgid "[_u_] What would it take for you to be convinced?"
@@ -13330,7 +13330,7 @@ msgstr ""
 
 # game/Cell01_SW.rpy:10432 #-#-# translate crowdin Quest_SW_MagicMirror02_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_SW.rpy:10433 #-#-# translate crowdin Quest_SW_MagicMirror02_21f7130a:
 msgid "[_u_] And there is a particular reason to that?"
@@ -13650,7 +13650,7 @@ msgstr ""
 
 # game/Cell01_SW.rpy:10639 #-#-# translate crowdin Quest_SW_MagicMirror02_menu1_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_SW.rpy:10640 #-#-# translate crowdin Quest_SW_MagicMirror02_menu1_d7c3ea57:
 msgid "[_u_] Nope."
@@ -14142,7 +14142,7 @@ msgstr ""
 
 # game/Cell01_SW.rpy:11011 #-#-# translate crowdin Quest_SW_MagicMirror04_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_SW.rpy:11012 #-#-# translate crowdin Quest_SW_MagicMirror04_666d0821:
 msgid "[_u_] Yes, I know I'm not a princess."
@@ -14154,7 +14154,7 @@ msgstr ""
 
 # game/Cell01_SW.rpy:11015 #-#-# translate crowdin Quest_SW_MagicMirror04_7b1c1392_1:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_SW.rpy:11016 #-#-# translate crowdin Quest_SW_MagicMirror04_bb4d739d:
 msgid "[_u_] Shall we go? Or should we take a moment to bury the eloquence you just murdered?"
@@ -14390,7 +14390,7 @@ msgstr ""
 
 # game/Cell01_SW.rpy:11142 #-#-# translate crowdin Quest_SW_MagicMirror04_7b1c1392_2:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_SW.rpy:11143 #-#-# translate crowdin Quest_SW_MagicMirror04_99f4e78d:
 msgid "[_u_] Yeah... but... maybe it's one quesion per day AND per person..."
@@ -14594,7 +14594,7 @@ msgstr ""
 
 # game/Cell01_SW.rpy:11275 #-#-# translate crowdin Quest_SW_MagicMirror04_7b1c1392_3:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_SW.rpy:11276 #-#-# translate crowdin Quest_SW_MagicMirror04_ac36bf51:
 msgid "[_u_] Put your boobs out, princess."
