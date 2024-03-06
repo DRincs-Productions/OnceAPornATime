@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-03-06 03:59\n"
+"PO-Revision-Date: 2024-03-06 09:06\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Intro01.rpy:64 #-#-# translate crowdin Intro01_93eeba4f:
 msgid "[_tb_] Greetings!"
@@ -1350,79 +1350,79 @@ msgstr "[_ly_] ？"
 
 # game/Intro01.rpy:1544 #-#-# translate crowdin Intro_Headquarter_e0bd643e:
 msgid "[_tb_] So, What's up?"
-msgstr ""
+msgstr "[_tb_] 那么，近来还好吧？"
 
 # game/Intro01.rpy:1546 #-#-# translate crowdin Intro_Headquarter_0aab6ab7:
 msgid "[_tb_] How was the landing?"
-msgstr ""
+msgstr "[_tb_] 着陆没出什么差错吧？"
 
 # game/Intro01.rpy:1548 #-#-# translate crowdin Intro_Headquarter_30d2afc4:
 msgid "[_tb_] I heard a big ''Boom'' last night... "
-msgstr ""
+msgstr "[_tb_] 昨晚我听到''轰''的一大声... "
 
 # game/Intro01.rpy:1550 #-#-# translate crowdin Intro_Headquarter_428f03cc:
 msgid "[_tb_] Was that you? "
-msgstr ""
+msgstr "[_tb_] 是你闹出的动静吗？ "
 
 # game/Intro01.rpy:1551 #-#-# translate crowdin Intro_Headquarter_72a33094:
 msgid "[_e_] ..."
-msgstr ""
+msgstr "[_e_] ..."
 
 # game/Intro01.rpy:1561 #-#-# translate crowdin Intro_Headquarter_62f69a37:
 msgid "[_e_] Yeah, sorry about that."
-msgstr ""
+msgstr "[_e_] 是的，很抱歉弄得那么大声。"
 
 # game/Intro01.rpy:1563 #-#-# translate crowdin Intro_Headquarter_eb62e402:
 msgid "[_e_] I didn't see that there was something about the landing zone."
-msgstr ""
+msgstr "[_e_] 我并没有注意到着陆区里的东西。"
 
 # game/Intro01.rpy:1565 #-#-# translate crowdin Intro_Headquarter_b1270bae:
 msgid "[_e_] I think I pushed something into the ocean..."
-msgstr ""
+msgstr "[_e_] 我想我最后被迫将飞船驶入了大海里..."
 
 # game/Intro01.rpy:1567 #-#-# translate crowdin Intro_Headquarter_87d6ec56:
 msgid "[_e_] How bad is it? "
-msgstr ""
+msgstr "[_e_] 情况有多糟糕呢？ "
 
 # game/Intro01.rpy:1574 #-#-# translate crowdin Intro_Headquarter_a7ae7794:
 msgid "[_tb_] It must have been [name]'s old ship. "
-msgstr ""
+msgstr "[_tb_] 那一定是[name] 的旧飞船。 "
 
 # game/Intro01.rpy:1576 #-#-# translate crowdin Intro_Headquarter_0340862c:
 msgid "[_tb_] It's not a big deal. "
-msgstr ""
+msgstr "[_tb_] 这倒没什么大不了的。 "
 
 # game/Intro01.rpy:1578 #-#-# translate crowdin Intro_Headquarter_51addfd6:
 msgid "[_tb_] By the way, have you seen Meli?"
-msgstr ""
+msgstr "[_tb_] 顺便问下，你有见过梅莉吗？"
 
 # game/Intro01.rpy:1580 #-#-# translate crowdin Intro_Headquarter_3625b397:
 msgid "[_tb_] I called this meeting an hour ago..."
-msgstr ""
+msgstr "[_tb_] 我在一个小时前召开了这个会议..."
 
 # game/Intro01.rpy:1582 #-#-# translate crowdin Intro_Headquarter_9c2e7e63:
 msgid "[_tb_] What the hell is she doing? "
-msgstr ""
+msgstr "[_tb_] 她到底在做什么？ "
 
 # game/Intro01.rpy:1618 #-#-# translate crowdin GalleryImageQuest_Melissandre01_5f50b337:
 msgid "[_ml_] Mmmmmh....."
-msgstr ""
+msgstr "[_ml_] 嗯嗯嗯....."
 
 # game/Intro01.rpy:1619 #-#-# translate crowdin GalleryImageQuest_Melissandre01_927d1b67:
 msgid "[_ml_] I just.... can't... "
-msgstr ""
+msgstr "[_ml_] 我只是.... 没法... "
 
 # game/Intro01.rpy:1621 #-#-# translate crowdin GalleryImageQuest_Melissandre01_3258109e:
 msgid "[_ml_] stop thinking about it..."
-msgstr ""
+msgstr "[_ml_] 停下这个念头..."
 
 # game/Intro01.rpy:1623 #-#-# translate crowdin GalleryImageQuest_Melissandre01_b27b7fad:
 msgid "[_ml_] Gosh...."
-msgstr ""
+msgstr "[_ml_] 天哪...."
 
 # game/Intro01.rpy:1625 #-#-# translate crowdin GalleryImageQuest_Melissandre01_19ce4cf2:
 msgid "[_ml_] Can't wait for [name] to come back .... "
-msgstr ""
+msgstr "[_ml_] 我没法再等[name]自己回来了 .... "
 
 # game/Intro01.rpy:1626 #-#-# translate crowdin GalleryImageQuest_Melissandre01_f91c2474:
 msgid "[_ml_] Emee...."
