@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-02-26 09:11\n"
+"PO-Revision-Date: 2024-03-06 09:06\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Quest_Rooms_Separate02.rpy:125 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_peruche_1ffa9899:
 msgid "[_u_] What are you doing here? "
@@ -30,7 +30,7 @@ msgstr ""
 
 # game/Quest_Rooms_Separate02.rpy:135 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_peruche_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Quest_Rooms_Separate02.rpy:136 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_peruche_22d1d18a:
 msgid "[_u_] Damn, the communications don't work here?"
@@ -234,7 +234,7 @@ msgstr ""
 
 # game/Quest_Rooms_Separate02.rpy:274 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_peruche_menu1_P2_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Quest_Rooms_Separate02.rpy:276 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_peruche_menu1_P2_41e91fcf:
 msgid "[_ml_] Like... Flooded, or filled with giant insects, or crazy androids or... "
@@ -482,7 +482,7 @@ msgstr ""
 
 # game/Quest_Rooms_Separate02.rpy:517 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_BOXES_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Quest_Rooms_Separate02.rpy:518 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_BOXES_27a55d89:
 msgid "[_u_] I did not sign up for this."
@@ -534,7 +534,7 @@ msgstr ""
 
 # game/Quest_Rooms_Separate02.rpy:557 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_BOXES_7b1c1392_1:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Quest_Rooms_Separate02.rpy:558 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_BOXES_38ab8d58:
 msgid "[_u_] No, nothing here. "
@@ -630,7 +630,7 @@ msgstr ""
 
 # game/Quest_Rooms_Separate02.rpy:721 #-#-# translate crowdin Quest_LY_Favor_Red01_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Quest_Rooms_Separate02.rpy:723 #-#-# translate crowdin Quest_LY_Favor_Red01_fcf72162:
 msgid "[_ly_] So yes, I have red breasts."
@@ -798,7 +798,7 @@ msgstr ""
 
 # game/Quest_Rooms_Separate02.rpy:852 #-#-# translate crowdin Quest_LY_Favor_Boobs01_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Quest_Rooms_Separate02.rpy:856 #-#-# translate crowdin Quest_LY_Favor_Boobs01_d79c46e2:
 msgid "[_ly_] That's not a request you hear every day. "
@@ -866,7 +866,7 @@ msgstr ""
 
 # game/Quest_Rooms_Separate02.rpy:882 #-#-# translate crowdin Quest_LY_Favor_Boobs01_7b1c1392_1:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Quest_Rooms_Separate02.rpy:883 #-#-# translate crowdin Quest_LY_Favor_Boobs01_fcfcda81:
 msgid "[_u_] Like in gold?"
@@ -1158,7 +1158,7 @@ msgstr ""
 
 # game/Quest_Rooms_Separate02.rpy:1058 #-#-# translate crowdin Quest_LY_Favor_Boobs01_Amandine01_02_42baf11e:
 msgid "[_u_] Yup."
-msgstr ""
+msgstr "[_u_] Yup."
 
 # game/Quest_Rooms_Separate02.rpy:1060 #-#-# translate crowdin Quest_LY_Favor_Boobs01_Amandine01_02_28a5fec7:
 msgid "[_tb_] Let's take her back to the headquarter."
@@ -1430,7 +1430,7 @@ msgstr ""
 
 # game/Quest_Rooms_Separate02.rpy:1238 #-#-# translate crowdin Quest_A_SW_01_02_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Quest_Rooms_Separate02.rpy:1250 #-#-# translate crowdin Quest_A_SW_01_02_menu1_P1_c2892256:
 msgid "[_sw_] No need, I'm not stupid you know? "
@@ -1454,7 +1454,7 @@ msgstr ""
 
 # game/Quest_Rooms_Separate02.rpy:1261 #-#-# translate crowdin Quest_A_SW_01_02_menu1_P1_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Quest_Rooms_Separate02.rpy:1262 #-#-# translate crowdin Quest_A_SW_01_02_menu1_P1_23526222:
 msgid "[_u_] Do you really call yourself the most beautiful woman in... "
@@ -2102,7 +2102,7 @@ msgstr ""
 
 # game/Quest_Rooms_Separate02.rpy:1752 #-#-# translate crowdin Quest_A_SW_01_08_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Quest_Rooms_Separate02.rpy:1754 #-#-# translate crowdin Quest_A_SW_01_08_0754d094:
 msgid "[_sw_] I'm just saying."
@@ -2182,7 +2182,7 @@ msgstr ""
 
 # game/Quest_Rooms_Separate02.rpy:1833 #-#-# translate crowdin Scene_SnowWhite01_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Quest_Rooms_Separate02.rpy:1836 #-#-# translate crowdin Scene_SnowWhite01_a84e5fdd:
 msgid "[_sw_] And by that, I mean proving to you that I can be a better wife than yours."
@@ -2362,7 +2362,7 @@ msgstr ""
 
 # game/Quest_Rooms_Separate02.rpy:1969 #-#-# translate crowdin Scene_SnowWhite01_7b1c1392_1:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Quest_Rooms_Separate02.rpy:1972 #-#-# translate crowdin Scene_SnowWhite01_4ed2cdc1:
 msgid "[_sw_] Oh ?"
@@ -2666,7 +2666,7 @@ msgstr ""
 
 # game/Quest_Rooms_Separate02.rpy:2203 #-#-# translate crowdin SnowWhite01_menu1_P2_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Quest_Rooms_Separate02.rpy:2205 #-#-# translate crowdin SnowWhite01_menu1_P2_3e3c2016:
 msgid "[_u_] Fuck yes..."
@@ -2742,7 +2742,7 @@ msgstr ""
 
 # game/Quest_Rooms_Separate02.rpy:2242 #-#-# translate crowdin SnowWhite01_menu1_P2_7b1c1392_1:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Quest_Rooms_Separate02.rpy:2244 #-#-# translate crowdin SnowWhite01_menu1_P2_b883e0c6:
 msgid "[_sw_] ...Hmm ?"
