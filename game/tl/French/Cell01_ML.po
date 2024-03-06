@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-03-06 07:12\n"
+"PO-Revision-Date: 2024-03-06 13:31\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_ML.rpy:73 #-#-# translate crowdin CHARA_ML_Menu01_b7639ffd:
 msgid "[_ml_] Yo."
@@ -1062,7 +1062,7 @@ msgstr ""
 
 # game/Cell01_ML.rpy:1082 #-#-# translate crowdin ML_DroneItem_RoomDevice01_MENU2_P4_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "..."
 
 # game/Cell01_ML.rpy:1083 #-#-# translate crowdin ML_DroneItem_RoomDevice01_MENU2_P4_225f1d0d:
 msgid "[_u_] Yeah, that's a nice ass. "
@@ -1198,7 +1198,7 @@ msgstr ""
 
 # game/Cell01_ML.rpy:1174 #-#-# translate crowdin ML_DroneItem_RoomDevice01_MENU2_P8_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "..."
 
 # game/Cell01_ML.rpy:1175 #-#-# translate crowdin ML_DroneItem_RoomDevice01_MENU2_P8_66c546d4:
 msgid "[_u_] Where did you hear that? "
