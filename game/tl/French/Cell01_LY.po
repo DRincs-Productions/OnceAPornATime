@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-26 09:11\n"
+"PO-Revision-Date: 2024-03-06 07:12\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_LY.rpy:80 #-#-# translate crowdin Cell01_LY_QuestActivations_d1d09770:
 msgid "[_ly_] Hi cutie."
@@ -22,7 +22,7 @@ msgstr ""
 
 # game/Cell01_LY.rpy:133 #-#-# translate crowdin CHARA_LY_MenuChoice_259e399c:
 msgid "[_u_] See you later!"
-msgstr ""
+msgstr "À tantôt!"
 
 # game/Cell01_LY.rpy:135 #-#-# translate crowdin CHARA_LY_MenuChoice_d93ee3d6:
 msgid "[_ly_] See you [name]!"
