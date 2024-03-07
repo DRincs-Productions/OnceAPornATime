@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2024-03-07 14:17\n"
+"PO-Revision-Date: 2024-03-07 19:59\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_TB.rpy:29 #-#-# translate crowdin Cell01_TB_126a6d5f:
 msgid "[_tb_] I'll be there in a second."
@@ -30,7 +30,7 @@ msgstr ""
 
 # game/Cell01_TB.rpy:41 #-#-# translate crowdin Cell01_TB_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_TB.rpy:42 #-#-# translate crowdin Cell01_TB_5d95936d:
 msgid "[_u_] Gosh, where is she?"
@@ -134,7 +134,7 @@ msgstr ""
 
 # game/Cell01_TB.rpy:377 #-#-# translate crowdin Cell01_TB_Questions01_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_TB.rpy:378 #-#-# translate crowdin Cell01_TB_Questions01_837e56eb:
 msgid "[_u_] Would it be something bad? "
@@ -403,7 +403,7 @@ msgstr ""
 
 # game/Cell01_TB.rpy:540 #-#-# translate crowdin TB2QUEST_01_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_TB.rpy:541 #-#-# translate crowdin TB2QUEST_01_7c645035:
 msgid "[_u_] That's exactly what I said. "
@@ -419,7 +419,7 @@ msgstr ""
 
 # game/Cell01_TB.rpy:545 #-#-# translate crowdin TB2QUEST_01_7b1c1392_1:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_TB.rpy:547 #-#-# translate crowdin TB2QUEST_01_7a626e35:
 msgid "[_tb_] I promise I'll help you hook up with lots of employees!"
@@ -459,7 +459,7 @@ msgstr ""
 
 # game/Cell01_TB.rpy:560 #-#-# translate crowdin TB2QUEST_01_7b1c1392_2:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_TB.rpy:561 #-#-# translate crowdin TB2QUEST_01_cb2d7936:
 msgid "[_u_] Want a special color for your dress?"
@@ -631,7 +631,7 @@ msgstr ""
 
 # game/Cell01_TB.rpy:671 #-#-# translate crowdin QuestChap2_Amelia01_03_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_TB.rpy:672 #-#-# translate crowdin QuestChap2_Amelia01_03_1c2cf3f4:
 msgid "[_u_] No."
@@ -687,7 +687,7 @@ msgstr ""
 
 # game/Cell01_TB.rpy:713 #-#-# translate crowdin QuestChap2_Amelia01_12_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_TB.rpy:714 #-#-# translate crowdin QuestChap2_Amelia01_12_16aee944:
 msgid "[_u_] I ejaculated on you."
@@ -879,7 +879,7 @@ msgstr ""
 
 # game/Cell01_TB.rpy:846 #-#-# translate crowdin TBReactionDress01_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_TB.rpy:847 #-#-# translate crowdin TBReactionDress01_3dec98b2:
 msgid "[_u_] Can you just accept a gift? "
@@ -951,7 +951,7 @@ msgstr ""
 
 # game/Cell01_TB.rpy:908 #-#-# translate crowdin TBReactionDress04Variation_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_TB.rpy:909 #-#-# translate crowdin TBReactionDress04Variation_ece6b749:
 msgid "[_u_] Nah, it's all right."
@@ -1103,7 +1103,7 @@ msgstr ""
 
 # game/Cell01_TB.rpy:1021 #-#-# translate crowdin TBReactionDress05andHair03_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_TB.rpy:1023 #-#-# translate crowdin TBReactionDress05andHair03_05d56d8e:
 msgid "[_tb_] ..."
@@ -1235,7 +1235,7 @@ msgstr ""
 
 # game/Cell01_TB.rpy:1103 #-#-# translate crowdin TBReactionBrothelDress01_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_TB.rpy:1105 #-#-# translate crowdin TBReactionBrothelDress01_c860c38a:
 msgid "[_tb_] Get back to work! "
@@ -1287,7 +1287,7 @@ msgstr ""
 
 # game/Cell01_TB.rpy:1135 #-#-# translate crowdin TBReactionLicorne_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_TB.rpy:1137 #-#-# translate crowdin TBReactionLicorne_8703fa8d:
 msgid "[_tb_] Should I send a drone to bring it all here? "
@@ -1295,7 +1295,7 @@ msgstr ""
 
 # game/Cell01_TB.rpy:1138 #-#-# translate crowdin TBReactionLicorne_7b1c1392_1:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_TB.rpy:1139 #-#-# translate crowdin TBReactionLicorne_3edde9fe:
 msgid "[_u_] Yes."
@@ -1483,7 +1483,7 @@ msgstr ""
 
 # game/Cell01_TB.rpy:1296 #-#-# translate crowdin TBReactionParkAsk_menu1_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_TB.rpy:1297 #-#-# translate crowdin TBReactionParkAsk_menu1_631bcee3:
 msgid "[_u_] Tinker, can you promise me that you won't hide anything so strange from me? "
@@ -1503,7 +1503,7 @@ msgstr ""
 
 # game/Cell01_TB.rpy:1304 #-#-# translate crowdin TBReactionParkAsk_menu1_7b1c1392_1:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_TB.rpy:1305 #-#-# translate crowdin TBReactionParkAsk_menu1_9dc8ece7:
 msgid "[_u_] All right, then."
