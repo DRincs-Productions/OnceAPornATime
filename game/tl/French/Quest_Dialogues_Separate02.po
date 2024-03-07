@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-03-06 23:40\n"
+"PO-Revision-Date: 2024-03-07 21:13\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Quest_Dialogues_Separate02.rpy:69 #-#-# translate crowdin Quest2_Room01Panel01screen_E_8240cba6:
 msgid "[_u_] Got it!"
@@ -7777,7 +7777,7 @@ msgstr ""
 
 # game/Quest_Dialogues_Separate02.rpy:5659 #-#-# translate crowdin Ml_Ali_01_06_menu1_cc71eb9a:
 msgid "[_u_] Mh."
-msgstr ""
+msgstr "[_u_] Mh."
 
 # game/Quest_Dialogues_Separate02.rpy:5661 #-#-# translate crowdin Ml_Ali_01_06_menu1_622d00b4:
 msgid "[_tb_] But on the other hand, we could certainly fuck. "
