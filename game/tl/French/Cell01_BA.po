@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-03-07 19:58\n"
+"PO-Revision-Date: 2024-03-07 21:13\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_BA.rpy:50 #-#-# translate crowdin CHARA_BA_Menu01_98aea068:
 msgid "[_ba_]  ... "
@@ -62,63 +62,63 @@ msgstr "[_ba_] ...te montre mes seins ?"
 
 # game/Cell01_BA.rpy:136 #-#-# translate crowdin Quest_BA_Favor_Boobs_01_6ee176e9:
 msgid "[_ba_] You're not making any sense. "
-msgstr ""
+msgstr "[_ba_] Ce que tu dis n'a aucun sens. "
 
 # game/Cell01_BA.rpy:138 #-#-# translate crowdin Quest_BA_Favor_Boobs_01_fc00459a:
 msgid "[_ba_] I don't know what kind of imbecile would believe such nonsense. "
-msgstr ""
+msgstr "[_ba_] Quel genre d'imbécile pourrait croire en ces idioties ? "
 
 # game/Cell01_BA.rpy:139 #-#-# translate crowdin Quest_BA_Favor_Boobs_01_cc71eb9a:
 msgid "[_u_] Mh."
-msgstr ""
+msgstr "[_u_] Mh."
 
 # game/Cell01_BA.rpy:140 #-#-# translate crowdin Quest_BA_Favor_Boobs_01_fea7915a:
 msgid "[_u_] Got a problem with nudity?"
-msgstr ""
+msgstr "[_u_] T'as un problème avec la nudité ?"
 
 # game/Cell01_BA.rpy:142 #-#-# translate crowdin Quest_BA_Favor_Boobs_01_0036ca5c:
 msgid "[_ba_] Absolutely not. "
-msgstr ""
+msgstr "[_ba_] Absolument pas. "
 
 # game/Cell01_BA.rpy:143 #-#-# translate crowdin Quest_BA_Favor_Boobs_01_15376318:
 msgid "[_u_] Because when I see you reluctant to show your own breasts... "
-msgstr ""
+msgstr "[_u_] Non, parce que quand tu rechignes à ce point à montrer tes propres seins... "
 
 # game/Cell01_BA.rpy:145 #-#-# translate crowdin Quest_BA_Favor_Boobs_01_3204983f:
 msgid "[_u_] You'd think the queen of thieves was also the queen of modesty. "
-msgstr ""
+msgstr "[_u_] Je me dis que la reine des voleurs est aussi la reine des prudes. "
 
 # game/Cell01_BA.rpy:147 #-#-# translate crowdin Quest_BA_Favor_Boobs_01_7611efb4:
 msgid "[_ba_] ..."
-msgstr ""
+msgstr "[_ba_] ..."
 
 # game/Cell01_BA.rpy:149 #-#-# translate crowdin Quest_BA_Favor_Boobs_01_d9f0a406:
 msgid "[_ba_] You're lucky I need you to be a sultana."
-msgstr ""
+msgstr "[_ba_] T'as du bol que j'ai besoin de toi pour devenir sultane."
 
 # game/Cell01_BA.rpy:151 #-#-# translate crowdin Quest_BA_Favor_Boobs_01_ca549b72:
 msgid "[_ba_] Otherwise you'd already have had your tongue cut out and... "
-msgstr ""
+msgstr "[_ba_] Sinon, je t'aurais déjà coupé la langue et... "
 
 # game/Cell01_BA.rpy:152 #-#-# translate crowdin Quest_BA_Favor_Boobs_01_08840377:
 msgid "[_u_] ...and thrown into the desert. Yes, I know. "
-msgstr ""
+msgstr "[_u_] ...et abandonné dans le désert, je sais. "
 
 # game/Cell01_BA.rpy:154 #-#-# translate crowdin Quest_BA_Favor_Boobs_01_2e2af925:
 msgid "[_ba_] Mhf..."
-msgstr ""
+msgstr "[_ba_] Pff..."
 
 # game/Cell01_BA.rpy:155 #-#-# translate crowdin Quest_BA_Favor_Boobs_01_6bd09af9:
 msgid "[_u_] So... why don't you show me your breasts? "
-msgstr ""
+msgstr "[_u_] Donc... Pourquoi refuses-tu de me montrer tes seins ? "
 
 # game/Cell01_BA.rpy:157 #-#-# translate crowdin Quest_BA_Favor_Boobs_01_e671fb7b:
 msgid "[_ba_] You don't deserve to see my fabulous breasts. "
-msgstr ""
+msgstr "[_ba_] Tu ne mérites pas de voir mes fabuleux seins. "
 
 # game/Cell01_BA.rpy:159 #-#-# translate crowdin Quest_BA_Favor_Boobs_01_6b946cf7:
 msgid "[_ba_] I am, after all, a future sultana."
-msgstr ""
+msgstr "[_ba_] Après tout, je suis la future sultane."
 
 # game/Cell01_BA.rpy:161 #-#-# translate crowdin Quest_BA_Favor_Boobs_01_b34f3d5e:
 msgid "[_ba_] The breasts of a sultana are one of the most sacred things in this kingdom. "
@@ -290,7 +290,7 @@ msgstr ""
 
 # game/Cell01_BA.rpy:273 #-#-# translate crowdin Quest_BA_App01_01_7611efb4:
 msgid "[_ba_] ..."
-msgstr ""
+msgstr "[_ba_] ..."
 
 # game/Cell01_BA.rpy:275 #-#-# translate crowdin Quest_BA_App01_01_921abd65:
 msgid "[_ba_] I can't decide whether to give you a taste of my sword, or leave you in the middle of the desert. "
@@ -326,7 +326,7 @@ msgstr ""
 
 # game/Cell01_BA.rpy:297 #-#-# translate crowdin Quest_BA_App01_01_7611efb4_1:
 msgid "[_ba_] ..."
-msgstr ""
+msgstr "[_ba_] ..."
 
 # game/Cell01_BA.rpy:300 #-#-# translate crowdin Quest_BA_App01_01_c0ed89e7:
 msgid "[_ba_] That's pretty cool."
@@ -462,7 +462,7 @@ msgstr ""
 
 # game/Cell01_BA.rpy:370 #-#-# translate crowdin Quest_BA_App01_01_7611efb4_2:
 msgid "[_ba_] ..."
-msgstr ""
+msgstr "[_ba_] ..."
 
 # game/Cell01_BA.rpy:372 #-#-# translate crowdin Quest_BA_App01_01_d52c27be:
 msgid "[_dj_] As long as your soul is pure, you won't have your wish!"
@@ -502,7 +502,7 @@ msgstr ""
 
 # game/Cell01_BA.rpy:394 #-#-# translate crowdin Quest_BA_App01_01_7611efb4_3:
 msgid "[_ba_] ..."
-msgstr ""
+msgstr "[_ba_] ..."
 
 # game/Cell01_BA.rpy:395 #-#-# translate crowdin Quest_BA_App01_01_88fbf8c4:
 msgid "[_u_] Don't worry, sweetheart, it's not my first time. "
