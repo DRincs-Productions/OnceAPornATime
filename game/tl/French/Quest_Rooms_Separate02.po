@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-03-06 13:31\n"
+"PO-Revision-Date: 2024-03-07 21:13\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Quest_Rooms_Separate02.rpy:125 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_peruche_1ffa9899:
 msgid "[_u_] What are you doing here? "
@@ -2294,7 +2294,7 @@ msgstr ""
 
 # game/Quest_Rooms_Separate02.rpy:1902 #-#-# translate crowdin Scene_SnowWhite01_cc71eb9a:
 msgid "[_u_] Mh."
-msgstr ""
+msgstr "[_u_] Mh."
 
 # game/Quest_Rooms_Separate02.rpy:1904 #-#-# translate crowdin Scene_SnowWhite01_775efc98:
 msgid "[_a_] Like... you want me to watch you get sucked up closer?"
