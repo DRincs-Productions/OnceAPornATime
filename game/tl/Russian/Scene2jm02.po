@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2024-03-07 14:17\n"
+"PO-Revision-Date: 2024-03-07 19:59\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Scene2jm02.rpy:5 #-#-# translate crowdin Quest_JM_Favor_Feather1_03_f924725a:
 msgid "[_a_] Absolutely perfect."
@@ -486,7 +486,7 @@ msgstr ""
 
 # game/Scene2jm02.rpy:629 #-#-# translate crowdin Quest_JM_Favor_Feather1_Corrupt1_END_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Scene2jm02.rpy:630 #-#-# translate crowdin Quest_JM_Favor_Feather1_Corrupt1_END_e5141684:
 msgid "[_u_] She really just have an orgasm with her breasts alone..."
@@ -502,7 +502,7 @@ msgstr ""
 
 # game/Scene2jm02.rpy:633 #-#-# translate crowdin Quest_JM_Favor_Feather1_Corrupt1_END_7b1c1392_1:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Scene2jm02.rpy:641 #-#-# translate crowdin Quest_JM_Favor_Feather1_Corrupt1_END_1975ead9:
 msgid "[_u_] There, that's better."
@@ -514,7 +514,7 @@ msgstr ""
 
 # game/Scene2jm02.rpy:651 #-#-# translate crowdin Quest_JM_Favor_Feather1_Corrupt1_END_7b1c1392_2:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Scene2jm02.rpy:652 #-#-# translate crowdin Quest_JM_Favor_Feather1_Corrupt1_END_33cdcf01:
 msgid "[_u_] She wanted to cool down."
@@ -966,7 +966,7 @@ msgstr ""
 
 # game/Scene2jm02.rpy:1201 #-#-# translate crowdin Quest_JM_Favor_Feather1_Corrupt2_END_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Scene2jm02.rpy:1202 #-#-# translate crowdin Quest_JM_Favor_Feather1_Corrupt2_END_e5141684:
 msgid "[_u_] She really just have an orgasm with her breasts alone..."
@@ -982,7 +982,7 @@ msgstr ""
 
 # game/Scene2jm02.rpy:1205 #-#-# translate crowdin Quest_JM_Favor_Feather1_Corrupt2_END_7b1c1392_1:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Scene2jm02.rpy:1213 #-#-# translate crowdin Quest_JM_Favor_Feather1_Corrupt2_END_1975ead9:
 msgid "[_u_] There, that's better."
@@ -994,7 +994,7 @@ msgstr ""
 
 # game/Scene2jm02.rpy:1223 #-#-# translate crowdin Quest_JM_Favor_Feather1_Corrupt2_END_7b1c1392_2:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Scene2jm02.rpy:1224 #-#-# translate crowdin Quest_JM_Favor_Feather1_Corrupt2_END_33cdcf01:
 msgid "[_u_] She wanted to cool down."
@@ -1226,7 +1226,7 @@ msgstr ""
 
 # game/Scene2jm02.rpy:1390 #-#-# translate crowdin Quest_JM_Favor_Feather1_04_02_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Scene2jm02.rpy:1391 #-#-# translate crowdin Quest_JM_Favor_Feather1_04_02_27d58498:
 msgid "[_scc_] Okay, you know what?"
@@ -1238,7 +1238,7 @@ msgstr ""
 
 # game/Scene2jm02.rpy:1395 #-#-# translate crowdin Quest_JM_Favor_Feather1_04_02_7b1c1392_1:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Scene2jm02.rpy:1396 #-#-# translate crowdin Quest_JM_Favor_Feather1_04_02_733695e2:
 msgid "[_u_] You want me to fuck you?"
@@ -1254,7 +1254,7 @@ msgstr ""
 
 # game/Scene2jm02.rpy:1401 #-#-# translate crowdin Quest_JM_Favor_Feather1_04_02_7b1c1392_2:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Scene2jm02.rpy:1403 #-#-# translate crowdin Quest_JM_Favor_Feather1_04_02_f660fd6b:
 msgid "[_u_] Oh fuck it, I was planning on fucking someone today anyway."
@@ -1302,7 +1302,7 @@ msgstr ""
 
 # game/Scene2jm02.rpy:1433 #-#-# translate crowdin Quest_JM_Favor_Feather1_04_02_7b1c1392_3:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Scene2jm02.rpy:1434 #-#-# translate crowdin Quest_JM_Favor_Feather1_04_02_d9875633:
 msgid "[_u_] You really want me to stop? "
