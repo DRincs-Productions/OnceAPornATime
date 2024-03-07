@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-03-06 13:31\n"
+"PO-Revision-Date: 2024-03-07 21:13\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Intro01.rpy:64 #-#-# translate crowdin Intro01_93eeba4f:
 msgid "[_tb_] Greetings!"
@@ -1814,7 +1814,7 @@ msgstr "..."
 
 # game/Intro01.rpy:1954 #-#-# translate crowdin Intro_PrisonEnd_menu01_cc71eb9a:
 msgid "[_u_] Mh."
-msgstr ""
+msgstr "[_u_] Mh."
 
 # game/Intro01.rpy:1960 #-#-# translate crowdin Intro_PrisonEnd_menu01_fe918d36:
 msgid "[_ly_] It is said that whoever finds it, will obtain exceptional powers. "
