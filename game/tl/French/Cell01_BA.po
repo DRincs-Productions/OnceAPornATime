@@ -10,55 +10,55 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-03-06 13:31\n"
+"PO-Revision-Date: 2024-03-07 19:58\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_BA.rpy:50 #-#-# translate crowdin CHARA_BA_Menu01_98aea068:
 msgid "[_ba_]  ... "
-msgstr ""
+msgstr "[_ba_]  ... "
 
 # game/Cell01_BA.rpy:53 #-#-# translate crowdin CHARA_BA_Menu01_658d3e7b:
 msgid "[_ba_]  Oh, not you again..."
-msgstr ""
+msgstr "[_ba_]  Oh non, te revoilà..."
 
 # game/Cell01_BA.rpy:61 #-#-# translate crowdin CHARA_BA_Menu01_68a0dc42:
 msgid "[_ba_] Greetings [name]. "
-msgstr ""
+msgstr "[_ba_] Salutations, [name]. "
 
 # game/Cell01_BA.rpy:68 #-#-# translate crowdin CHARA_BA_MenuChoice_ee462d5f:
 msgid "AVAILABLE AT THE UPCOMING UPDATE"
-msgstr ""
+msgstr "DISPONIBLE À LA PROCHAINE MISE À JOUR"
 
 # game/Cell01_BA.rpy:96 #-#-# translate crowdin CHARA_BA_MenuChoice_FAVORS2_ee462d5f:
 msgid "AVAILABLE AT THE UPCOMING UPDATE"
-msgstr ""
+msgstr "DISPONIBLE À LA PROCHAINE MISE À JOUR"
 
 # game/Cell01_BA.rpy:105 #-#-# translate crowdin CHARA_BA_MenuChoice_FAVORS2_6d7b7b4a:
 msgid "[_u_] See you later."
-msgstr ""
+msgstr "[_u_] À plus tard."
 
 # game/Cell01_BA.rpy:107 #-#-# translate crowdin CHARA_BA_MenuChoice_FAVORS2_3dfd4a8f:
 msgid "[_sz_] Yeah, see ya."
-msgstr ""
+msgstr "[_sz_] Ouais, à plus."
 
 # game/Cell01_BA.rpy:127 #-#-# translate crowdin Quest_BA_Favor_Boobs_01_44976c9b:
 msgid "[_ba_] That I show you... what?"
-msgstr ""
+msgstr "[_ba_] Que je te montre... quoi ?"
 
 # game/Cell01_BA.rpy:129 #-#-# translate crowdin Quest_BA_Favor_Boobs_01_0232476c:
 msgid "[_ba_] Why would I do that? "
-msgstr ""
+msgstr "[_ba_] Et pourquoi je ferais ça ? "
 
 # game/Cell01_BA.rpy:130 #-#-# translate crowdin Quest_BA_Favor_Boobs_01_9a9841bf:
 msgid "[_u_] To make you sexually debauched. To be able to make your wish to the Djin. "
-msgstr ""
+msgstr "[_u_] Pour te dévergonder sexuellement. Pour que tu puisses faire ton vœu au Djin. "
 
 # game/Cell01_BA.rpy:132 #-#-# translate crowdin Quest_BA_Favor_Boobs_01_f7106acc:
 msgid "[_ba_] And really... you think the best way to achieve this is for me to..."
-msgstr ""
+msgstr "[_ba_] Et... Tu penses vraiment que la meilleure solution est que je..."
 
 # game/Cell01_BA.rpy:134 #-#-# translate crowdin Quest_BA_Favor_Boobs_01_809c1fc3:
 msgid "[_ba_] ...show my breasts?"
-msgstr ""
+msgstr "[_ba_] ...te montre mes seins ?"
 
 # game/Cell01_BA.rpy:136 #-#-# translate crowdin Quest_BA_Favor_Boobs_01_6ee176e9:
 msgid "[_ba_] You're not making any sense. "
