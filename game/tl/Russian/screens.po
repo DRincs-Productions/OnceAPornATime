@@ -10,43 +10,43 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2024-03-07 14:17\n"
+"PO-Revision-Date: 2024-03-08 17:52\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # §translate crowdin strings: #|#|# # game/screens.rpy:256
 msgid "Back"
-msgstr ""
+msgstr "Назад"
 
 # game/screens.rpy:257
 msgid "History"
-msgstr ""
+msgstr "История"
 
 # game/screens.rpy:258
 msgid "Skip"
-msgstr ""
+msgstr "Пропустить"
 
 # game/screens.rpy:259
 msgid "Auto"
-msgstr ""
+msgstr "Авто"
 
 # game/screens.rpy:260
 msgid "Save"
-msgstr ""
+msgstr "Сохранить"
 
 # game/screens.rpy:261
 msgid "Q.Save"
-msgstr ""
+msgstr "Быстрое сохранение"
 
 # game/screens.rpy:262
 msgid "Q.Load"
-msgstr ""
+msgstr "Быстрая загрузка"
 
 # game/screens.rpy:263
 msgid "Prefs"
-msgstr ""
+msgstr "Настройки"
 
 # game/screens.rpy:304
 msgid "Version [config.version!t]\n"
-msgstr ""
+msgstr "Версия [config.version!t]\n"
 
 # game/screens.rpy:311
 msgid "Conçu avec {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n"
@@ -59,108 +59,109 @@ msgstr ""
 
 # game/screens.rpy:316
 msgid "Retour"
-msgstr ""
+msgstr "Назад"
 
 # game/screens.rpy:363
 msgid "ChangeLog"
-msgstr ""
+msgstr "Изменения"
 
 # game/screens.rpy:375
 msgid "Start"
-msgstr ""
+msgstr "Начать"
 
 # game/screens.rpy:386
 msgid "Load"
-msgstr ""
+msgstr "Загрузить"
 
 # game/screens.rpy:388
 msgid "Preferences"
-msgstr ""
+msgstr "Настройки"
 
 # game/screens.rpy:392
 msgid "End Replay"
-msgstr ""
+msgstr "Завершить повтор"
 
 # game/screens.rpy:396
 msgid "Main Menu"
-msgstr ""
+msgstr "Главное меню"
 
 # game/screens.rpy:398
 msgid "About"
-msgstr ""
+msgstr "О нас"
 
 # game/screens.rpy:403
 msgid "Help"
-msgstr ""
+msgstr "Помощь"
 
 # game/screens.rpy:406
 msgid "Quit"
-msgstr ""
+msgstr "Выйти"
 
 # game/screens.rpy:408
 msgid "PATREON"
-msgstr ""
+msgstr "ПАТРЕОН"
 
 # game/screens.rpy:412
 msgid "{color=#5b6568}{size=-10}^Check for Updates!^{/size}{/color}"
-msgstr ""
+msgstr "{color=#5b6568}{size=-10}^Проверьте наличие обновлений!^{/size}{/color}"
 
 # game/screens.rpy:580
 msgid "Return"
-msgstr ""
+msgstr "Вернуться"
 
 # game/screens.rpy:670
 msgid "Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n"
 "[renpy.license!t]"
-msgstr ""
+msgstr "Сделано с {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n"
+"[renpy.license!t]"
 
 # game/screens.rpy:675
 msgid "Thanks to all beta testers <3 "
-msgstr ""
+msgstr "Спасибо всем бета-тестерам <3 "
 
 # game/screens.rpy:677
 msgid "Special Thanks to Kevin MacLeod for some of the musics : https://incompetech.filmmusic.io/ "
-msgstr ""
+msgstr "Особая благодарность Kevin MacLeod за музыку: https://incompetech.filmmusic.io/ "
 
 # game/screens.rpy:679
 msgid "A big kiss to Pachi for the help with the english translation! "
-msgstr ""
+msgstr "Большое спасибо Пачи за помощь с английским переводом! "
 
 # game/screens.rpy:722
 msgid "Page {}"
-msgstr ""
+msgstr "Страница {}"
 
 # game/screens.rpy:722
 msgid "Automatic saves"
-msgstr ""
+msgstr "Автоматическое сохранение"
 
 # game/screens.rpy:722
 msgid "Quick saves"
-msgstr ""
+msgstr "Быстрое сохранение"
 
 # game/screens.rpy:764
 msgid "{#file_time}%A, %B %d %Y, %H:%M"
-msgstr ""
+msgstr "{#file_time}%A, %B %d %Y, %H:%M"
 
 # game/screens.rpy:764
 msgid "empty slot"
-msgstr ""
+msgstr "пустой слот"
 
 # game/screens.rpy:781
 msgid "<"
-msgstr ""
+msgstr "<"
 
 # game/screens.rpy:784
 msgid "{#auto_page}A"
-msgstr ""
+msgstr "{#auto_page}A"
 
 # game/screens.rpy:787
 msgid "{#quick_page}Q"
-msgstr ""
+msgstr "{#quick_page}Q"
 
 # game/screens.rpy:793
 msgid ">"
-msgstr ""
+msgstr ">"
 
 # game/screens.rpy:850
 msgid "Display"
