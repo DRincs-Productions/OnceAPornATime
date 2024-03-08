@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2024-03-08 17:52\n"
+"PO-Revision-Date: 2024-03-08 18:57\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # §translate crowdin strings: #|#|# # game/screens.rpy:256
 msgid "Back"
@@ -51,11 +51,12 @@ msgstr "Версия [config.version!t]\n"
 # game/screens.rpy:311
 msgid "Conçu avec {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n"
 "[renpy.license!t]"
-msgstr ""
+msgstr "Нажмите {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n"
+"[renpy.license!t]"
 
 # game/screens.rpy:315
 msgid "ICI CE TROUVE L'INVENTAIRE"
-msgstr ""
+msgstr "ЗДЕСЬ ВЫ НАЙДЕТЕ ИНВЕНТАРЬ"
 
 # game/screens.rpy:316
 msgid "Retour"
