@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-03-07 21:13\n"
+"PO-Revision-Date: 2024-03-08 00:30\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Quest_Rooms_Separate02.rpy:125 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_peruche_1ffa9899:
 msgid "[_u_] What are you doing here? "
@@ -38,7 +38,7 @@ msgstr ""
 
 # game/Quest_Rooms_Separate02.rpy:137 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_peruche_e7743dcf:
 msgid "[_u_] Great."
-msgstr ""
+msgstr "[_u_] Super."
 
 # game/Quest_Rooms_Separate02.rpy:138 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_peruche_3e232d1f:
 msgid "[_u_] Maybe it's just a curious bird after all."
