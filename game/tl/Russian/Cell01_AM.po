@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2024-03-08 09:30\n"
+"PO-Revision-Date: 2024-03-08 11:37\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_AM.rpy:86 #-#-# translate crowdin CHARA_AM_Menu01_c781f953:
 msgid "[_am_] Hey!"
@@ -162,47 +162,47 @@ msgstr "[_am_] О да!!! Мне было бы приятно!"
 
 # game/Cell01_AM.rpy:351 #-#-# translate crowdin Quest2_AM_Talk02_14b7845c:
 msgid "[_am_] Apparently, she closed all these locks with the number 555."
-msgstr "[_am_] Судя по всему, она закрыла все эти замки с номером 555."
+msgstr "[_am_] Судя по всему, она закрыла все эти замки кодом 555."
 
 # game/Cell01_AM.rpy:353 #-#-# translate crowdin Quest2_AM_Talk02_5048adc0:
 msgid "[_am_] So if you find a suitcase or a locker of hers, it will probably be her opening code. "
-msgstr ""
+msgstr "[_am_] Так что, если ты найдешь ее чемодан или шкафчик, это, вероятно, будет ее код открытия. "
 
 # game/Cell01_AM.rpy:354 #-#-# translate crowdin Quest2_AM_Talk02_4a3ca5f1:
 msgid "[_u_] Yeah, it can be useful."
-msgstr ""
+msgstr "[_u_] Да, это может быть полезно."
 
 # game/Cell01_AM.rpy:355 #-#-# translate crowdin Quest2_AM_Talk02_caad2ecc:
 msgid "[_u_] I'll write that down somewhere. "
-msgstr ""
+msgstr "[_u_] Я запишу это куда-нибудь. "
 
 # game/Cell01_AM.rpy:370 #-#-# translate crowdin Quest2_AM_Talk03_01a29e51:
 msgid "[_am_] Many things, I must say."
-msgstr ""
+msgstr "[_am_] Должна сказать, многое."
 
 # game/Cell01_AM.rpy:372 #-#-# translate crowdin Quest2_AM_Talk03_d18366fc:
 msgid "[_am_] Mrs. Bell really makes me do everything imaginable. "
-msgstr ""
+msgstr "[_am_] Миссис Белл действительно заставляет меня делать все, что только можно вообразить. "
 
 # game/Cell01_AM.rpy:374 #-#-# translate crowdin Quest2_AM_Talk03_47b67d45:
 msgid "[_am_] I repaired a teleporter, did the cartography of the magic forest, did the budgeting for this year... "
-msgstr ""
+msgstr "[_am_] Я починила телепорт, сделала картографию волшебного леса, составила бюджет на этот год... "
 
 # game/Cell01_AM.rpy:375 #-#-# translate crowdin Quest2_AM_Talk03_5531aa72:
 msgid "[_u_] A yes indeed... it is diversified. "
-msgstr ""
+msgstr "[_u_] Да, действительно... это разнообразно. "
 
 # game/Cell01_AM.rpy:377 #-#-# translate crowdin Quest2_AM_Talk03_24e8575f:
 msgid "[_u_] And nothing... sexual? "
-msgstr ""
+msgstr "[_u_] И ничего... сексуального? "
 
 # game/Cell01_AM.rpy:379 #-#-# translate crowdin Quest2_AM_Talk03_69531dec:
 msgid "[_am_] Nothing at all. "
-msgstr ""
+msgstr "[_am_] Вообще ничего. "
 
 # game/Cell01_AM.rpy:381 #-#-# translate crowdin Quest2_AM_Talk03_d9488393:
 msgid "[_am_] Yet... I have to admit I'm looking forward to it... "
-msgstr ""
+msgstr "[_am_] И все же... Должна признаться, я с нетерпением жду этого... "
 
 # game/Cell01_AM.rpy:382 #-#-# translate crowdin Quest2_AM_Talk03_7b1c1392:
 msgid "[_u_] ..."
@@ -210,19 +210,19 @@ msgstr "[_u_] ..."
 
 # game/Cell01_AM.rpy:386 #-#-# translate crowdin Quest2_AM_Talk03_2a3da7fa:
 msgid "[_am_] I... "
-msgstr ""
+msgstr "[_am_] Я... "
 
 # game/Cell01_AM.rpy:387 #-#-# translate crowdin Quest2_AM_Talk03_bd575477:
 msgid "[_am_] Uh..."
-msgstr ""
+msgstr "[_am_] Эм-м-м..."
 
 # game/Cell01_AM.rpy:389 #-#-# translate crowdin Quest2_AM_Talk03_da5def74:
 msgid "[_am_] I never said that... "
-msgstr ""
+msgstr "[_am_] Я никогда этого не говорила... "
 
 # game/Cell01_AM.rpy:391 #-#-# translate crowdin Quest2_AM_Talk03_96f67aae:
 msgid "[_am_] I wouldn't want to say I... "
-msgstr ""
+msgstr "[_am_] Я бы не хотела сказать, что я... "
 
 # game/Cell01_AM.rpy:393 #-#-# translate crowdin Quest2_AM_Talk03_1c8acf17:
 msgid "[_am_] ..."
