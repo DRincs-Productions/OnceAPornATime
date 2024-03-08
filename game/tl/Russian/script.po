@@ -10,159 +10,159 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2024-03-07 14:17\n"
+"PO-Revision-Date: 2024-03-08 11:37\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # §translate crowdin strings: #|#|# # game/script.rpy:935
 msgid "Changelog"
-msgstr ""
+msgstr "Изменения"
 
 # game/script.rpy:940
 msgid "Changelog [config.version!t]\n"
-msgstr ""
+msgstr "Изменения [config.version!t]\n"
 
 # game/script.rpy:946
 msgid "{size=20}{color=#797979}02/2023{/color}{/size}"
-msgstr ""
+msgstr "{size=20}{color=#797979}02/2023{/color}{/size}"
 
 # game/script.rpy:947
 msgid "-Main Quest"
-msgstr ""
+msgstr "-Основной квест"
 
 # game/script.rpy:948
 msgid "-Characters Quests"
-msgstr ""
+msgstr "-Квесты персонажей"
 
 # game/script.rpy:949
 msgid "-Bugfix"
-msgstr ""
+msgstr "-Исправления"
 
 # game/script.rpy:951
 msgid "{size=20}{color=#797979}12/2023{/color}{/size}"
-msgstr ""
+msgstr "{size=20}{color=#797979}12/2023{/color}{/size}"
 
 # game/script.rpy:952
 msgid "-Small update"
-msgstr ""
+msgstr "-Небольшое обновление"
 
 # game/script.rpy:956
 msgid "{size=20}{color=#797979}11/2023{/color}{/size}"
-msgstr ""
+msgstr "{size=20}{color=#797979}11/2023{/color}{/size}"
 
 # game/script.rpy:957
 msgid "-BugFix"
-msgstr ""
+msgstr "-Исправления"
 
 # game/script.rpy:960
 msgid "-New Main Quest"
-msgstr ""
+msgstr "-Новый основной квест"
 
 # game/script.rpy:962
 msgid "-New Characters"
-msgstr ""
+msgstr "-Новые персонажи"
 
 # game/script.rpy:963
 msgid "-Lots of New Clothes"
-msgstr ""
+msgstr "-Множество новой одежды"
 
 # game/script.rpy:965
 msgid "{size=20}{color=#797979}10/2023{/color}{/size}"
-msgstr ""
+msgstr "{size=20}{color=#797979}10/2023{/color}{/size}"
 
 # game/script.rpy:966
 msgid "-New Patreon Quest"
-msgstr ""
+msgstr "-Новый патреон квест"
 
 # game/script.rpy:967
 msgid "-New Clothes"
-msgstr ""
+msgstr "-Новая одежда"
 
 # game/script.rpy:969
 msgid "{size=20}{color=#797979}08/2023{/color}{/size}"
-msgstr ""
+msgstr "{size=20}{color=#797979}08/2023{/color}{/size}"
 
 # game/script.rpy:970
 msgid "-Office Customs"
-msgstr ""
+msgstr "-Офисная таможня"
 
 # game/script.rpy:973
 msgid "{size=20}{color=#797979}07/2023{/color}{/size}"
-msgstr ""
+msgstr "{size=20}{color=#797979}07/2023{/color}{/size}"
 
 # game/script.rpy:978
 msgid "{size=20}{color=#797979}04/2023{/color}{/size}"
-msgstr ""
+msgstr "{size=20}{color=#797979}04/2023{/color}{/size}"
 
 # game/script.rpy:979
 msgid "-Jasmine Patreon Quest Corruption"
-msgstr ""
+msgstr "-Патреон квест развращение Жасмин"
 
 # game/script.rpy:983
 msgid "02/2023"
-msgstr ""
+msgstr "02/2023"
 
 # game/script.rpy:987
 msgid "{size=20}{color=#797979}01/2023{/color}{/size}"
-msgstr ""
+msgstr "{size=20}{color=#797979}01/2023{/color}{/size}"
 
 # game/script.rpy:988
 msgid "-First Patreon Quest"
-msgstr ""
+msgstr "-Первый патреон квест"
 
 # game/script.rpy:990
 msgid "- New Clothes"
-msgstr ""
+msgstr "- Новая одежда"
 
 # game/script.rpy:992
 msgid "{size=20}{color=#797979}11/2022{/color}{/size}"
-msgstr ""
+msgstr "{size=20}{color=#797979}11/2022{/color}{/size}"
 
 # game/script.rpy:993
 msgid "- Sultana quest"
-msgstr ""
+msgstr "- Квест султанши"
 
 # game/script.rpy:994
 msgid "- Sherazade Corruption"
-msgstr ""
+msgstr "- Развращение Шеразады"
 
 # game/script.rpy:995
 msgid "- Character Romance progression"
-msgstr ""
+msgstr "- Развитие романтики персонажей"
 
 # game/script.rpy:998
 msgid "{size=20}{color=#797979}09/2022{/color}{/size}"
-msgstr ""
+msgstr "{size=20}{color=#797979}09/2022{/color}{/size}"
 
 # game/script.rpy:999
 msgid "-First Update, Introduction."
-msgstr ""
+msgstr "-Первое обновление, введение."
 
 # game/script.rpy:1003
 msgid "Creator : Salty01 "
-msgstr ""
+msgstr "Создатель: Salty01 "
 
 # game/script.rpy:1004
 msgid "PATREON PAGE : https://www.patreon.com/Salty01_NSFW "
-msgstr ""
+msgstr "СТРАНИЦА ПАТРЕОН: https://www.patreon.com/Salty01_NSFW "
 
 # game/script.rpy:1133
 msgid "Data Chelou"
-msgstr ""
+msgstr "Data Chelou"
 
 # game/script.rpy:1134
 msgid "Chest Melissandre"
-msgstr ""
+msgstr "Сундук Мелиссандры"
 
 # game/script.rpy:1135
 msgid "Boule Magique"
-msgstr ""
+msgstr "Волшебный шар"
 
 # game/script.rpy:1137
 msgid "Old Book"
-msgstr ""
+msgstr "Старая книга"
 
 # game/script.rpy:1139
 msgid "Spoon"
-msgstr ""
+msgstr "Ложка"
 
 # game/script.rpy:1140
 msgid "Orders for Djin"
