@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2024-03-08 11:37\n"
+"PO-Revision-Date: 2024-03-08 18:57\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_AM.rpy:86 #-#-# translate crowdin CHARA_AM_Menu01_c781f953:
 msgid "[_am_] Hey!"
@@ -226,23 +226,23 @@ msgstr "[_am_] Я бы не хотела сказать, что я... "
 
 # game/Cell01_AM.rpy:393 #-#-# translate crowdin Quest2_AM_Talk03_1c8acf17:
 msgid "[_am_] ..."
-msgstr ""
+msgstr "[_am_] ..."
 
 # game/Cell01_AM.rpy:397 #-#-# translate crowdin Quest2_AM_Talk03_89213ea5:
 msgid "[_am_] You are probably right. "
-msgstr ""
+msgstr "[_am_] Наверное, ты прав. "
 
 # game/Cell01_AM.rpy:399 #-#-# translate crowdin Quest2_AM_Talk03_b1eb8930:
 msgid "[_am_] I'm not going to end up an eternal virgin on this planet. "
-msgstr ""
+msgstr "[_am_] Я не собираюсь оставаться вечной девственницей на этой планете. "
 
 # game/Cell01_AM.rpy:401 #-#-# translate crowdin Quest2_AM_Talk03_9b4ad1c7:
 msgid "[_am_] That would be a shame. "
-msgstr ""
+msgstr "[_am_] Было бы обидно. "
 
 # game/Cell01_AM.rpy:403 #-#-# translate crowdin Quest2_AM_Talk03_8da5b89c:
 msgid "[_am_] And hum..."
-msgstr ""
+msgstr "[_am_] И хм..."
 
 # game/Cell01_AM.rpy:406 #-#-# translate crowdin Quest2_AM_Talk03_cf116443:
 msgid "[_am_] Have you ever done it... with Tinker?"
@@ -342,7 +342,7 @@ msgstr ""
 
 # game/Cell01_AM.rpy:458 #-#-# translate crowdin Quest2_AM_Talk04_1c8acf17:
 msgid "[_am_] ..."
-msgstr ""
+msgstr "[_am_] ..."
 
 # game/Cell01_AM.rpy:460 #-#-# translate crowdin Quest2_AM_Talk04_ed2ea6fc:
 msgid "[_am_] Too bad we can't fly. It would be fun to fly."
@@ -422,7 +422,7 @@ msgstr ""
 
 # game/Cell01_AM.rpy:510 #-#-# translate crowdin Amelia_FirstAppChap2_1c8acf17:
 msgid "[_am_] ..."
-msgstr ""
+msgstr "[_am_] ..."
 
 # game/Cell01_AM.rpy:511 #-#-# translate crowdin Amelia_FirstAppChap2_ffd3fd1b:
 msgid "[_u_] Wow."
@@ -670,7 +670,7 @@ msgstr ""
 
 # game/Cell01_AM.rpy:702 #-#-# translate crowdin QuestChap2_Amelia01_04_menu02_P1_1c8acf17:
 msgid "[_am_] ..."
-msgstr ""
+msgstr "[_am_] ..."
 
 # game/Cell01_AM.rpy:705 #-#-# translate crowdin QuestChap2_Amelia01_04_menu02_P1_00151224:
 msgid "[_am_] Oh."
@@ -738,7 +738,7 @@ msgstr "[_am_] Мм..."
 
 # game/Cell01_AM.rpy:759 #-#-# translate crowdin QuestChap2_Amelia01_04_menu02_P3_1c8acf17:
 msgid "[_am_] ..."
-msgstr ""
+msgstr "[_am_] ..."
 
 # game/Cell01_AM.rpy:761 #-#-# translate crowdin QuestChap2_Amelia01_04_menu02_P3_3dcbb0f7:
 msgid "[_am_] Do you often sleep with your employers? "
@@ -1282,7 +1282,7 @@ msgstr ""
 
 # game/Cell01_AM.rpy:1195 #-#-# translate crowdin QuestChap2_Amelia01_08_1c8acf17:
 msgid "[_am_] ..."
-msgstr ""
+msgstr "[_am_] ..."
 
 # game/Cell01_AM.rpy:1196 #-#-# translate crowdin QuestChap2_Amelia01_08_e09200c4:
 msgid "[_qiu_] Qiu."
@@ -1622,7 +1622,7 @@ msgstr ""
 
 # game/Cell01_AM.rpy:1491 #-#-# translate crowdin Quest_JM_Favor_Ask2_Amelia_1c8acf17:
 msgid "[_am_] ..."
-msgstr ""
+msgstr "[_am_] ..."
 
 # game/Cell01_AM.rpy:1492 #-#-# translate crowdin Quest_JM_Favor_Ask2_Amelia_071ba4bc:
 msgid "[_u_] A fairy? "
