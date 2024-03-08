@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2024-03-07 19:59\n"
+"PO-Revision-Date: 2024-03-08 07:34\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Quest_Rooms_Separate02.rpy:125 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_peruche_1ffa9899:
 msgid "[_u_] What are you doing here? "
@@ -1158,7 +1158,7 @@ msgstr ""
 
 # game/Quest_Rooms_Separate02.rpy:1058 #-#-# translate crowdin Quest_LY_Favor_Boobs01_Amandine01_02_42baf11e:
 msgid "[_u_] Yup."
-msgstr ""
+msgstr "[_u_] Ага."
 
 # game/Quest_Rooms_Separate02.rpy:1060 #-#-# translate crowdin Quest_LY_Favor_Boobs01_Amandine01_02_28a5fec7:
 msgid "[_tb_] Let's take her back to the headquarter."
