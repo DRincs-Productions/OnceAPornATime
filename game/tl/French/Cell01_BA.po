@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-03-08 00:30\n"
+"PO-Revision-Date: 2024-03-08 01:43\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_BA.rpy:50 #-#-# translate crowdin CHARA_BA_Menu01_98aea068:
 msgid "[_ba_]  ... "
@@ -162,7 +162,7 @@ msgstr "[_tb_] Hé, mec, si c'était si facile, je n'aurais pas besoin de toi."
 
 # game/Cell01_BA.rpy:186 #-#-# translate crowdin Quest_BA_Favor_Boobs_01_967f49fe:
 msgid "[_u_] Really? I thought you hired me for my incredible charm. "
-msgstr ""
+msgstr "[_u_] Vraiment ? Et moi qui croyais que tu m'avais embauché pour mon incroyable charme. "
 
 # game/Cell01_BA.rpy:188 #-#-# translate crowdin Quest_BA_Favor_Boobs_01_7d4d6de6:
 msgid "[_tb_] A few more chats with her and I'm sure you'll be fucking her!"
