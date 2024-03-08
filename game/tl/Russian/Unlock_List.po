@@ -10,17 +10,17 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2024-03-07 14:17\n"
+"PO-Revision-Date: 2024-03-08 11:37\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Unlock_List.rpy:107 #-#-# translate crowdin UNLOCK_LIST_e557fe26:
 msgid "[_u_] All I need now is the ''Lycoris Hairstyle'' and the outfit will be complete. "
-msgstr ""
+msgstr "[_u_] Все, что мне сейчас нужно, это «Прическа Ликорис», и наряд будет готов. "
 
 # game/Unlock_List.rpy:121 #-#-# translate crowdin UNLOCK_LIST_1a845b81:
 msgid "[_u_] All I need is Emee' brothel outfit, and I'll have everything I need!"
-msgstr ""
+msgstr "[_u_] Все, что мне сейчас нужно, это наряд Эми для борделя, и у меня будет все, что мне нужно!"
 
 # game/Unlock_List.rpy:130 #-#-# translate crowdin UNLOCK_LIST_8da91e38:
 msgid "[_u_] All I need is Lycoris' brothel outfit, and I'll have everything I need!"
-msgstr ""
+msgstr "[_u_] Все, что мне нужно, это бордельный наряд Ликорис, и у меня будет все, что мне нужно!"
 
