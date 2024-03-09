@@ -10,15 +10,15 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2024-03-07 19:59\n"
+"PO-Revision-Date: 2024-03-09 05:09\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Room_Showers.rpy:121 #-#-# translate crowdin ML_ShowerCams01_02_ec3b9bb7:
 msgid "[_u_] Meli?"
-msgstr ""
+msgstr "[_u_] Мели?"
 
 # game/Room_Showers.rpy:122 #-#-# translate crowdin ML_ShowerCams01_02_4abce515:
 msgid "[_ml_] ---"
-msgstr ""
+msgstr "[_ml_] ---"
 
 # game/Room_Showers.rpy:134 #-#-# translate crowdin A_GoShower_6fe1abdc:
 msgid "[_u_] Hey? Anybody here?"
