@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2024-03-08 18:57\n"
+"PO-Revision-Date: 2024-03-09 05:09\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # §translate crowdin strings: #|#|# # game/script.rpy:935
 msgid "Changelog"
@@ -190,57 +190,57 @@ msgstr "Список инструментов"
 
 # game/script.rpy:1146
 msgid "Incomplete Tool Box"
-msgstr ""
+msgstr "Неполный ящик инструментов"
 
 # game/script.rpy:1147
 msgid "Complete Tool Box"
-msgstr ""
+msgstr "Полный ящик инструментов"
 
 # game/script.rpy:1148
 msgid "Electronic Key"
-msgstr ""
+msgstr "Электронный ключ"
 
 # game/script.rpy:1149
 msgid "Lyco Request List"
-msgstr ""
+msgstr "Список запросов Лико"
 
 # game/script.rpy:1150
 msgid "Dance Book Vol.I"
-msgstr ""
+msgstr "Книга танцев, том I"
 
 # game/script.rpy:1151
 msgid "Dance Book Vol.II"
-msgstr ""
+msgstr "Книга танцев, том II"
 
 # game/script.rpy:1152
 msgid "Dance Book Vol.III"
-msgstr ""
+msgstr "Книга танцев, том III"
 
 # game/script.rpy:1153
 msgid "Sherazade Orders"
-msgstr ""
+msgstr "Приказы Шерезады"
 
 # game/script.rpy:1154
 msgid "Oasis Heart Drawn"
-msgstr ""
+msgstr "Нарисованное сердце Оазиса"
 
 # game/script.rpy:1155
 msgid "Undefined Luggage"
-msgstr ""
+msgstr "Неопределенный багаж"
 
 # game/script.rpy:1156
 msgid "List of Sex Fantasies"
-msgstr ""
+msgstr "Список сексуальных фантазий"
 
 # game/script.rpy:1157
 msgid "White Peacock feather"
-msgstr ""
+msgstr "Перо белого павлина"
 
 # game/script.rpy:1158
 msgid "Sherazade Garment"
-msgstr ""
+msgstr "Одежда Шерезады"
 
 # game/script.rpy:1159
 msgid "Little Horn"
-msgstr ""
+msgstr "Маленький Рог"
 
