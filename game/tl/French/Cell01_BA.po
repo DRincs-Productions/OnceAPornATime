@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-03-09 17:37\n"
+"PO-Revision-Date: 2024-03-09 18:56\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_BA.rpy:50 #-#-# translate crowdin CHARA_BA_Menu01_98aea068:
 msgid "[_ba_]  ... "
@@ -178,7 +178,7 @@ msgstr "[_tb_] Absolument pas."
 
 # game/Cell01_BA.rpy:212 #-#-# translate crowdin Quest_BA_App01_01_033285f3:
 msgid "[_u_] Hello? Mrs Ali? "
-msgstr ""
+msgstr "[_u_] Bonjour ? Mme Ali ? "
 
 # game/Cell01_BA.rpy:214 #-#-# translate crowdin Quest_BA_App01_01_7b1c1392:
 msgid "[_u_] ..."
@@ -186,27 +186,27 @@ msgstr "..."
 
 # game/Cell01_BA.rpy:215 #-#-# translate crowdin Quest_BA_App01_01_20ecf295:
 msgid "[_u_] Mrs Baba?"
-msgstr ""
+msgstr "[_u_] Mme Baba ?"
 
 # game/Cell01_BA.rpy:223 #-#-# translate crowdin Quest_BA_App01_01_8fdb5164:
 msgid "[_ba_] I warn you, I don't appreciate nicknames. "
-msgstr ""
+msgstr "[_ba_] Je te préviens, je n'apprécie pas les surnoms. "
 
 # game/Cell01_BA.rpy:225 #-#-# translate crowdin Quest_BA_App01_01_15d56340:
 msgid "[_ba_] Call me Ali-Baba or keep your mouth shut. "
-msgstr ""
+msgstr "[_ba_] Appelle-moi Ali-Baba or reste silencieux. "
 
 # game/Cell01_BA.rpy:227 #-#-# translate crowdin Quest_BA_App01_01_d772eeb4:
 msgid "[_ba_] ...Or you can call me ''Queen of Thieves''. "
-msgstr ""
+msgstr "[_ba_] ...Ou tu peux m'appeler ''Reine des Voleurs''. "
 
 # game/Cell01_BA.rpy:229 #-#-# translate crowdin Quest_BA_App01_01_94233455:
 msgid "[_ba_] It's a title I particularly appreciate. "
-msgstr ""
+msgstr "[_ba_] C'est un titre que j'apprécie particulièrement. "
 
 # game/Cell01_BA.rpy:230 #-#-# translate crowdin Quest_BA_App01_01_1257cdc6:
 msgid "[_u_] Yeah... I'm not a fan of Titles... let's go for Ali-Baba. "
-msgstr ""
+msgstr "[_u_] Ouais... Je ne suis pas fan des titres... On va rester sur Ali-Baba. "
 
 # game/Cell01_BA.rpy:232 #-#-# translate crowdin Quest_BA_App01_01_7496e3b5:
 msgid "[_ba_] Are you going to talk about titles and names for much longer, or shall we get down to business? "
