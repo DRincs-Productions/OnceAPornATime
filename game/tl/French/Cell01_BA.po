@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-03-08 01:43\n"
+"PO-Revision-Date: 2024-03-09 17:37\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_BA.rpy:50 #-#-# translate crowdin CHARA_BA_Menu01_98aea068:
 msgid "[_ba_]  ... "
@@ -166,15 +166,15 @@ msgstr "[_u_] Vraiment ? Et moi qui croyais que tu m'avais embauché pour mon in
 
 # game/Cell01_BA.rpy:188 #-#-# translate crowdin Quest_BA_Favor_Boobs_01_7d4d6de6:
 msgid "[_tb_] A few more chats with her and I'm sure you'll be fucking her!"
-msgstr ""
+msgstr "[_tb_] Encore quelques discussions comme ça et je suis sûr que tu la baiseras!"
 
 # game/Cell01_BA.rpy:189 #-#-# translate crowdin Quest_BA_Favor_Boobs_01_aeba7780:
 msgid "[_u_] Want to bet on something? "
-msgstr ""
+msgstr "[_u_] Tu veux parier ? "
 
 # game/Cell01_BA.rpy:191 #-#-# translate crowdin Quest_BA_Favor_Boobs_01_24b6d96a:
 msgid "[_tb_] Absolutely not."
-msgstr ""
+msgstr "[_tb_] Absolument pas."
 
 # game/Cell01_BA.rpy:212 #-#-# translate crowdin Quest_BA_App01_01_033285f3:
 msgid "[_u_] Hello? Mrs Ali? "
