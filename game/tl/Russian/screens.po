@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2024-03-08 18:57\n"
+"PO-Revision-Date: 2024-03-10 13:37\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # §translate crowdin strings: #|#|# # game/screens.rpy:256
 msgid "Back"
@@ -166,339 +166,345 @@ msgstr ">"
 
 # game/screens.rpy:850
 msgid "Display"
-msgstr ""
+msgstr "Дисплей"
 
 # game/screens.rpy:851
 msgid "Window"
-msgstr ""
+msgstr "Окно"
 
 # game/screens.rpy:852
 msgid "Fullscreen"
-msgstr ""
+msgstr "Полный экран"
 
 # game/screens.rpy:860
 msgid "Rollback Side"
-msgstr ""
+msgstr "Сторона отката"
 
 # game/screens.rpy:861
 msgid "Disable"
-msgstr ""
+msgstr "Отключить"
 
 # game/screens.rpy:862
 msgid "Left"
-msgstr ""
+msgstr "Слева"
 
 # game/screens.rpy:863
 msgid "Right"
-msgstr ""
+msgstr "Справа"
 
 # game/screens.rpy:868
 msgid "Unseen Text"
-msgstr ""
+msgstr "Весь текст"
 
 # game/screens.rpy:869
 msgid "After Choices"
-msgstr ""
+msgstr "После выбора"
 
 # game/screens.rpy:870
 msgid "Transitions"
-msgstr ""
+msgstr "Перемещения"
 
 # game/screens.rpy:894
 msgid "Text Speed"
-msgstr ""
+msgstr "Скорость текста"
 
 # game/screens.rpy:898
 msgid "Auto-Forward Time"
-msgstr ""
+msgstr "Время автоматической перемотки"
 
 # game/screens.rpy:905
 msgid "Music Volume"
-msgstr ""
+msgstr "Громкость музыки"
 
 # game/screens.rpy:912
 msgid "Sound Volume"
-msgstr ""
+msgstr "Громкость звука"
 
 # game/screens.rpy:918
 msgid "Test"
-msgstr ""
+msgstr "Тест"
 
 # game/screens.rpy:922
 msgid "Voice Volume"
-msgstr ""
+msgstr "Громкость голоса"
 
 # game/screens.rpy:933
 msgid "Mute All"
-msgstr ""
+msgstr "Заглушить всё"
 
 # game/screens.rpy:1052
 msgid "The dialogue history is empty."
-msgstr ""
+msgstr "История диалога пуста."
 
 # game/screens.rpy:1122
 msgid "Keyboard"
-msgstr ""
+msgstr "Клавиатура"
 
 # game/screens.rpy:1123
 msgid "Mouse"
-msgstr ""
+msgstr "Мышка"
 
 # game/screens.rpy:1126
 msgid "Gamepad"
-msgstr ""
+msgstr "Геймпад"
 
 # game/screens.rpy:1139
 msgid "Enter"
-msgstr ""
+msgstr "Ввод"
 
 # game/screens.rpy:1140
 msgid "Advances dialogue and activates the interface."
-msgstr ""
+msgstr "Продвигает диалог и активирует интерфейс."
 
 # game/screens.rpy:1143
 msgid "Space"
-msgstr ""
+msgstr "Пробел"
 
 # game/screens.rpy:1144
 msgid "Advances dialogue without selecting choices."
-msgstr ""
+msgstr "Продвигает диалог без выбора действий."
 
 # game/screens.rpy:1147
 msgid "Arrow Keys"
-msgstr ""
+msgstr "Клавиши со стрелками"
 
 # game/screens.rpy:1148
 msgid "Navigate the interface."
-msgstr ""
+msgstr "Навигация по интерфейсу."
 
 # game/screens.rpy:1151
 msgid "Escape"
-msgstr ""
+msgstr "Escape"
 
 # game/screens.rpy:1152
 msgid "Accesses the game menu."
-msgstr ""
+msgstr "Доступ в игровое меню."
 
 # game/screens.rpy:1155
 msgid "Ctrl"
-msgstr ""
+msgstr "Ctrl"
 
 # game/screens.rpy:1156
 msgid "Skips dialogue while held down."
-msgstr ""
+msgstr "Пропускает диалог во время удерживания."
 
 # game/screens.rpy:1159
 msgid "Tab"
-msgstr ""
+msgstr "Tab"
 
 # game/screens.rpy:1160
 msgid "Toggles dialogue skipping."
-msgstr ""
+msgstr "Переключает пропуск диалога."
 
 # game/screens.rpy:1163
 msgid "Page Up"
-msgstr ""
+msgstr "Страница вверх"
 
 # game/screens.rpy:1164
 msgid "Rolls back to earlier dialogue."
-msgstr ""
+msgstr "Возврат к предыдущему диалогу."
 
 # game/screens.rpy:1167
 msgid "Page Down"
-msgstr ""
+msgstr "Страница вниз"
 
 # game/screens.rpy:1168
 msgid "Rolls forward to later dialogue."
-msgstr ""
+msgstr "Переходит к последующему диалогу."
 
 # game/screens.rpy:1172
 msgid "Hides the user interface."
-msgstr ""
+msgstr "Скрывает пользовательский интерфейс."
 
 # game/screens.rpy:1176
 msgid "Takes a screenshot."
-msgstr ""
+msgstr "Делает снимок экрана."
 
 # game/screens.rpy:1180
 msgid "Toggles assistive {a=https://www.renpy.org/l/voicing}self-voicing{/a}."
-msgstr ""
+msgstr "Включает вспомогательную функцию {a=https://www.renpy.org/l/voicing}self-voicing{/a}."
 
 # game/screens.rpy:1186
 msgid "Left Click"
-msgstr ""
+msgstr "Левая кнопка мышки"
 
 # game/screens.rpy:1190
 msgid "Middle Click"
-msgstr ""
+msgstr "Нажатие колеса мышки"
 
 # game/screens.rpy:1194
 msgid "Right Click"
-msgstr ""
+msgstr "Правая кнопка мышки"
 
 # game/screens.rpy:1198
 msgid "Mouse Wheel Up\n"
 "Click Rollback Side"
-msgstr ""
+msgstr "Прокрутка колеса мышки вверх\n"
+"Нажатие на сторону отката"
 
 # game/screens.rpy:1202
 msgid "Mouse Wheel Down"
-msgstr ""
+msgstr "Прокрутка колеса мышки вниз"
 
 # game/screens.rpy:1209
 msgid "Right Trigger\n"
 "A/Bottom Button"
-msgstr ""
+msgstr "Правый триггер\n"
+"А/Нижняя кнопка"
 
 # game/screens.rpy:1213
 msgid "Left Trigger\n"
 "Left Shoulder"
-msgstr ""
+msgstr "Левый триггер\n"
+"Левая плечевая кнопка"
 
 # game/screens.rpy:1217
 msgid "Right Shoulder"
-msgstr ""
+msgstr "Правая плечевая кнопка"
 
 # game/screens.rpy:1222
 msgid "D-Pad, Sticks"
-msgstr ""
+msgstr "Крестовина"
 
 # game/screens.rpy:1226
 msgid "Start, Guide"
-msgstr ""
+msgstr "Start, Guide"
 
 # game/screens.rpy:1230
 msgid "Y/Top Button"
-msgstr ""
+msgstr "Y/Верхняя кнопка"
 
 # game/screens.rpy:1233
 msgid "Calibrate"
-msgstr ""
+msgstr "Калибровка"
 
 # game/screens.rpy:1298
 msgid "Yes"
-msgstr ""
+msgstr "Да"
 
 # game/screens.rpy:1299
 msgid "No"
-msgstr ""
+msgstr "Нет"
 
 # game/screens.rpy:1345
 msgid "Skipping"
-msgstr ""
+msgstr "Пропуск"
 
 # game/screens.rpy:1568
 msgid "Menu"
-msgstr ""
+msgstr "Меню"
 
 # game/screens.rpy:1662
 msgid "Developer Menu"
-msgstr ""
+msgstr "Меню разработчика"
 
 # game/screens.rpy:1667
 msgid "Interactive Director (D)"
-msgstr ""
+msgstr "Интерактивный директор (D)"
 
 # game/screens.rpy:1669
 msgid "Reload Game (Shift+R)"
-msgstr ""
+msgstr "Перезагрузка игры (Shift + R)"
 
 # game/screens.rpy:1671
 msgid "Console (Shift+O)"
-msgstr ""
+msgstr "Консоль (Shift+O)"
 
 # game/screens.rpy:1673
 msgid "Variable Viewer"
-msgstr ""
+msgstr "Просмотр переменных"
 
 # game/screens.rpy:1675
 msgid "Image Location Picker"
-msgstr ""
+msgstr "Выбор местоположения изображения"
 
 # game/screens.rpy:1677
 msgid "Filename List"
-msgstr ""
+msgstr "Список имен файлов"
 
 # game/screens.rpy:1681
 msgid "Show Image Load Log (F4)"
-msgstr ""
+msgstr "Показать лог загрузки изображений (F4)"
 
 # game/screens.rpy:1684
 msgid "Hide Image Load Log (F4)"
-msgstr ""
+msgstr "Скрыть лог загрузки изображений (F4)"
 
 # game/screens.rpy:1687
 msgid "Image Attributes"
-msgstr ""
+msgstr "Аттрибуты изображения"
 
 # game/screens.rpy:1714
 msgid "[name] [attributes] (hidden)"
-msgstr ""
+msgstr "[ имя] [ атрибуты] (скрыто)"
 
 # game/screens.rpy:1718
 msgid "[name] [attributes]"
-msgstr ""
+msgstr "[ имя] [ атрибуты]"
 
 # game/screens.rpy:1767
 msgid "Nothing to inspect."
-msgstr ""
+msgstr "Переменные не заданы."
 
 # game/screens.rpy:1778
 msgid "Hide deleted"
-msgstr ""
+msgstr "Скрыть удалённые"
 
 # game/screens.rpy:1778
 msgid "Show deleted"
-msgstr ""
+msgstr "Показывать удалённые"
 
 # game/screens.rpy:1902
 msgid "Return to the developer menu"
-msgstr ""
+msgstr "Вернуться в меню разработчика"
 
 # game/screens.rpy:2067
 msgid "Rectangle: %r"
-msgstr ""
+msgstr "Прямоугольник: %r"
 
 # game/screens.rpy:2072
 msgid "Mouse position: %r"
-msgstr ""
+msgstr "Позиция мышки: %r"
 
 # game/screens.rpy:2077
 msgid "Right-click or escape to quit."
-msgstr ""
+msgstr "Нажмите правую кнопку мышки или ESC чтобы выйти."
 
 # game/screens.rpy:2109
 msgid "Rectangle copied to clipboard."
-msgstr ""
+msgstr "Текст скопирован в буфер обмена."
 
 # game/screens.rpy:2112
 msgid "Position copied to clipboard."
-msgstr ""
+msgstr "Координаты позиции скопированы в буфер обмена."
 
 # game/screens.rpy:2130
 msgid "Type to filter: "
-msgstr ""
+msgstr "Введите текст для фильтрации: "
 
 # game/screens.rpy:2255
 msgid "Textures: [tex_count] ([tex_size_mb:.1f] MB)"
-msgstr ""
+msgstr "Текстуры: [tex_count] ([tex_size_mb:.1f] МБ)"
 
 # game/screens.rpy:2259
 msgid "Image cache: [cache_pct:.1f]% ([cache_size_mb:.1f] MB)"
-msgstr ""
+msgstr "Кеш изображений: [cache_pct:.1f]% ([cache_size_mb:.1f] МБ)"
 
 # game/screens.rpy:2269
 msgid "✔ "
-msgstr ""
+msgstr "✔ "
 
 # game/screens.rpy:2272
 msgid "✘ "
-msgstr ""
+msgstr "✘ "
 
 # game/screens.rpy:2277
 msgid "\n"
 "{color=#cfc}✔ predicted image (good){/color}\n"
 "{color=#fcc}✘ unpredicted image (bad){/color}\n"
 "{color=#fff}Drag to move.{/color}"
-msgstr ""
+msgstr "\n"
+"{color=#cfc}✔ Предсказанное изображение (good){/color}\n"
+"{color=#fcc}✘ Непредсказанное изображение (bad){/color}\n"
+"{color=#fff}Перетаскивать для перемещения {/color}"
 
