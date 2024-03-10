@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2024-03-09 18:56\n"
+"PO-Revision-Date: 2024-03-10 08:05\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Room_Showers.rpy:121 #-#-# translate crowdin ML_ShowerCams01_02_ec3b9bb7:
 msgid "[_u_] Meli?"
@@ -22,7 +22,7 @@ msgstr "[_ml_] ---"
 
 # game/Room_Showers.rpy:134 #-#-# translate crowdin A_GoShower_6fe1abdc:
 msgid "[_u_] Hey? Anybody here?"
-msgstr "[_u_] Эй? Тут кто-нибудь здесь?"
+msgstr "[_u_] Эй? Тут кто-нибудь есть?"
 
 # game/Room_Showers.rpy:136 #-#-# translate crowdin A_GoShower_0e192d24:
 msgid "[_a_] [name]?!!?"
@@ -46,11 +46,11 @@ msgstr "[_a_] Что ты здесь делаешь? "
 
 # game/Room_Showers.rpy:154 #-#-# translate crowdin A_GoShower_70c0677a:
 msgid "[_u_] Well, I saw you weren't in your office, so... "
-msgstr "[_u_] Ну, я видел, что тебя нет в офисе, так что... "
+msgstr "[_u_] Ну, я заметил, что тебя нет в офисе и... "
 
 # game/Room_Showers.rpy:156 #-#-# translate crowdin A_GoShower_5cb92a4f:
 msgid "[_a_] So you thought you'd come and spy on me in the shower, did you? "
-msgstr "[_a_] Так что ты подумал, что пойдешь и будешь подглядывать за мной в душе, да? "
+msgstr "[_a_] И решил настигнуть меня в душе, верно? "
 
 # game/Room_Showers.rpy:157 #-#-# translate crowdin A_GoShower_5c1cab48:
 msgid "[_u_] Noooo... "
@@ -58,7 +58,7 @@ msgstr "[_u_] Неееет... "
 
 # game/Room_Showers.rpy:158 #-#-# translate crowdin A_GoShower_cb67529b:
 msgid "[_u_] I just thought you might like some company. "
-msgstr "[_u_] Я просто подумал, что тебе может понравиться какая-нибудь компания. "
+msgstr "[_u_] Я просто подумал, что ты обрадуешься компании. "
 
 # game/Room_Showers.rpy:160 #-#-# translate crowdin A_GoShower_1a37392a:
 msgid "[_a_] How kind of you."
