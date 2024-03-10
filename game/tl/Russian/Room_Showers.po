@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2024-03-10 11:43\n"
+"PO-Revision-Date: 2024-03-10 13:37\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Room_Showers.rpy:121 #-#-# translate crowdin ML_ShowerCams01_02_ec3b9bb7:
 msgid "[_u_] Meli?"
@@ -242,7 +242,7 @@ msgstr "[_ly_] А в чём проблема? "
 
 # game/Room_Showers.rpy:282 #-#-# translate crowdin A_GoShower_menu1_4a5d1120:
 msgid "[_ly_] I mean... We're in a shower room... I'm not going to wash with my clothes on..."
-msgstr "[ _ly_] Ну то есть... Мы в душе ... Я не собираюсь мыться в одежде..."
+msgstr "[_ly_] То есть... Мы в душевой... Я не собираюсь мыться в одежде..."
 
 # game/Room_Showers.rpy:285 #-#-# translate crowdin A_GoShower_menu1_74417676:
 msgid "[_a_] No, I mean in terms of modesty."
