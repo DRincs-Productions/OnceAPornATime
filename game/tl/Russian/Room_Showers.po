@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2024-03-10 10:24\n"
+"PO-Revision-Date: 2024-03-10 11:43\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Room_Showers.rpy:121 #-#-# translate crowdin ML_ShowerCams01_02_ec3b9bb7:
 msgid "[_u_] Meli?"
@@ -230,7 +230,7 @@ msgstr "[_ly_] Я что-то не так сказала? "
 
 # game/Room_Showers.rpy:276 #-#-# translate crowdin A_GoShower_menu1_d42b9697:
 msgid "[_a_] How can you be so confident standing naked?!"
-msgstr "[_a_] Как ты можешь так уверенно стоять обнаженной?!"
+msgstr "[_a_] Как у тебя получается так непоколебимо стоять обнаженной?!"
 
 # game/Room_Showers.rpy:278 #-#-# translate crowdin A_GoShower_menu1_15a865b6:
 msgid "[_ly_] Well... I don't know... "
@@ -238,11 +238,11 @@ msgstr "[_ly_] Ну... не знаю... "
 
 # game/Room_Showers.rpy:280 #-#-# translate crowdin A_GoShower_menu1_31a94636:
 msgid "[_ly_] Shouldn't I? "
-msgstr "[_ly_] А не должна? "
+msgstr "[_ly_] А в чём проблема? "
 
 # game/Room_Showers.rpy:282 #-#-# translate crowdin A_GoShower_menu1_4a5d1120:
 msgid "[_ly_] I mean... We're in a shower room... I'm not going to wash with my clothes on..."
-msgstr "[_ly_] То есть... Мы в душевой... Я не собираюсь мыться в одежде..."
+msgstr "[ _ly_] Ну то есть... Мы в душе ... Я не собираюсь мыться в одежде..."
 
 # game/Room_Showers.rpy:285 #-#-# translate crowdin A_GoShower_menu1_74417676:
 msgid "[_a_] No, I mean in terms of modesty."
@@ -410,7 +410,7 @@ msgstr ""
 
 # game/Room_Showers.rpy:386 #-#-# translate crowdin A_GoShower_menu1_c2a4ec8d:
 msgid "[_ly_] Too bad for you."
-msgstr ""
+msgstr "[_ly_] Очень жалко."
 
 # game/Room_Showers.rpy:389 #-#-# translate crowdin A_GoShower_menu1_d9e68ccb:
 msgid "[_ly_] But anyway, if that were the case, well... you just have to enjoy a cool sexy moment under hot water!"
@@ -418,11 +418,11 @@ msgstr ""
 
 # game/Room_Showers.rpy:391 #-#-# translate crowdin A_GoShower_menu1_8c665f9e:
 msgid "[_ly_] And if you don't feel like it, that's okay, maybe another time!"
-msgstr ""
+msgstr "[_ly_] А если ты не хочешь, ничего страшного, можно в другой раз!"
 
 # game/Room_Showers.rpy:394 #-#-# translate crowdin A_GoShower_menu1_2fa1c2c5:
 msgid "[_ly_] We're not animals, we can just talk to each other. And have fun if we want. "
-msgstr ""
+msgstr "[_ly_] Мы не животные, мы можем просто поговорить друг с другом. И веселится, если хотим. "
 
 # game/Room_Showers.rpy:396 #-#-# translate crowdin A_GoShower_menu1_04e3430b:
 msgid "[_a_] If you could wait until I've left to fuck, that would be very kind!"
