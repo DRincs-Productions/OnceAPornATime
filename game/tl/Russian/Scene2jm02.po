@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2024-03-10 03:51\n"
+"PO-Revision-Date: 2024-03-10 06:03\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Scene2jm02.rpy:5 #-#-# translate crowdin Quest_JM_Favor_Feather1_03_f924725a:
 msgid "[_a_] Absolutely perfect."
@@ -78,7 +78,7 @@ msgstr "[_u_] Вообще-то, перо Белого Павлина."
 
 # game/Scene2jm02.rpy:83 #-#-# translate crowdin Quest_JM_Favor_Feather1_03CORRUPTION1_1ba2fd82:
 msgid "[_u_] I hope you've noticed because it's apparently important."
-msgstr "[_u_] Надеюсь заметила, поскольку, оказывается, это имеет значение."
+msgstr "[_u_] Надеюсь ты заметила, поскольку, оказывается, это имеет значение."
 
 # game/Scene2jm02.rpy:85 #-#-# translate crowdin Quest_JM_Favor_Feather1_03CORRUPTION1_22b50919:
 msgid "[_jm_] Is this what you were talking about? "
@@ -282,7 +282,7 @@ msgstr "[_jm_] Что ты делаешь?!"
 
 # game/Scene2jm02.rpy:420 #-#-# translate crowdin Quest_JM_Favor_Feather1_Corrupt1_P7_afe019ca:
 msgid "[_a_] Take it easy! Don't be so blunt!"
-msgstr "[_a_] Не спеши! Не надо так откровенно!"
+msgstr "[_a_] Полегче! Не надо так откровенно!"
 
 # game/Scene2jm02.rpy:425 #-#-# translate crowdin Quest_JM_Favor_Feather1_Corrupt1_P7_7f774c20:
 msgid "[_u_] Sorry, my feather slipped."
@@ -314,7 +314,7 @@ msgstr "[_jm_] !!!?!?"
 
 # game/Scene2jm02.rpy:452 #-#-# translate crowdin Quest_JM_Favor_Feather1_Corrupt1_P7_58c84f8b:
 msgid "[_jm_] Arg stop... "
-msgstr "[_jm_] Арг стой... "
+msgstr "[_jm_] Аргх стой... "
 
 # game/Scene2jm02.rpy:454 #-#-# translate crowdin Quest_JM_Favor_Feather1_Corrupt1_P7_031b25f3:
 msgid "[_jm_] It's too sensitive here... "
@@ -558,7 +558,7 @@ msgstr "[_u_] Вообще-то, перо Белого Павлина."
 
 # game/Scene2jm02.rpy:686 #-#-# translate crowdin Quest_JM_Favor_Feather1_03CORRUPTION2_1ba2fd82:
 msgid "[_u_] I hope you've noticed because it's apparently important."
-msgstr "[_u_] Надеюсь заметила, поскольку, оказывается, это имеет значение."
+msgstr "[_u_] Надеюсь ты заметила, поскольку, оказывается, это имеет значение."
 
 # game/Scene2jm02.rpy:688 #-#-# translate crowdin Quest_JM_Favor_Feather1_03CORRUPTION2_22b50919:
 msgid "[_jm_] Is this what you were talking about? "
@@ -762,7 +762,7 @@ msgstr "[_jm_] Что ты делаешь?!"
 
 # game/Scene2jm02.rpy:991 #-#-# translate crowdin Quest_JM_Favor_Feather1_Corrupt2_P7_afe019ca:
 msgid "[_a_] Take it easy! Don't be so blunt!"
-msgstr "[_a_] Не спеши! Не надо так откровенно!"
+msgstr "[_a_] Полегче! Не надо так откровенно!"
 
 # game/Scene2jm02.rpy:996 #-#-# translate crowdin Quest_JM_Favor_Feather1_Corrupt2_P7_7f774c20:
 msgid "[_u_] Sorry, my feather slipped."
@@ -794,7 +794,7 @@ msgstr "[_jm_] !!!?!?"
 
 # game/Scene2jm02.rpy:1024 #-#-# translate crowdin Quest_JM_Favor_Feather1_Corrupt2_P7_58c84f8b:
 msgid "[_jm_] Arg stop... "
-msgstr "[_jm_] Арг стой... "
+msgstr "[_jm_] Аргх стой... "
 
 # game/Scene2jm02.rpy:1026 #-#-# translate crowdin Quest_JM_Favor_Feather1_Corrupt2_P7_031b25f3:
 msgid "[_jm_] It's too sensitive here... "
@@ -1062,7 +1062,7 @@ msgstr "[_u_] Вас понял, Тинкер."
 
 # game/Scene2jm02.rpy:1290 #-#-# translate crowdin Quest_JM_Favor_Feather1_04_d0e42162:
 msgid "[_tb_] Melissandre tells me she's been working on a way to detect androids at a precise distance. "
-msgstr "[_tb_] Мелиссандра говорит, что она работает над способом обнаружения андроидов на точном расстоянии. "
+msgstr "[_tb_] Мелиссандра говорит, что она работает над высокоточным способом обнаружения андроидов. "
 
 # game/Scene2jm02.rpy:1292 #-#-# translate crowdin Quest_JM_Favor_Feather1_04_c42f5794:
 msgid "[_tb_] Go and see if you can help her."
