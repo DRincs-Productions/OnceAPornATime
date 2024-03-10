@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2024-03-10 08:05\n"
+"PO-Revision-Date: 2024-03-10 11:43\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Scene2jm02.rpy:5 #-#-# translate crowdin Quest_JM_Favor_Feather1_03_f924725a:
 msgid "[_a_] Absolutely perfect."
@@ -526,7 +526,7 @@ msgstr "[_a_] Что ж, похоже, мой план сработал!"
 
 # game/Scene2jm02.rpy:656 #-#-# translate crowdin Quest_JM_Favor_Feather1_Corrupt1_END_75c8afd7:
 msgid "[_a_] Come back to the headquarter and tomorrow, I promise, she'll fuck you over. "
-msgstr "[_a_] Возвращайся завтра ко мне в офис и, я обещаю, она на тебя запрыгнет. "
+msgstr "[_a_] Возвращайся в штаб и завтра, я обещаю, она на тебя запрыгнет. "
 
 # game/Scene2jm02.rpy:657 #-#-# translate crowdin Quest_JM_Favor_Feather1_Corrupt1_END_a837bdd0:
 msgid "[_u_] Eheh... "
@@ -1006,7 +1006,7 @@ msgstr "[_a_] Что ж, похоже, мой план сработал!"
 
 # game/Scene2jm02.rpy:1228 #-#-# translate crowdin Quest_JM_Favor_Feather1_Corrupt2_END_75c8afd7:
 msgid "[_a_] Come back to the headquarter and tomorrow, I promise, she'll fuck you over. "
-msgstr "[_a_] Возвращайся завтра ко мне в офис и, я обещаю, она на тебя запрыгнет. "
+msgstr "[_a_] Возвращайся в штаб и завтра, я обещаю, она на тебя запрыгнет. "
 
 # game/Scene2jm02.rpy:1229 #-#-# translate crowdin Quest_JM_Favor_Feather1_Corrupt2_END_a837bdd0:
 msgid "[_u_] Eheh... "
@@ -1086,7 +1086,7 @@ msgstr "[_u_] Чёрт... А ведь я почти её трахнул... Ар�
 
 # game/Scene2jm02.rpy:1312 #-#-# translate crowdin Quest_JM_Favor_Feather1_04_c69deaf1:
 msgid "[_ml_] So yeah, I'm going to need something specific. "
-msgstr "[_ml_] Да, мне надо кое-что очень специфичное. "
+msgstr "[_ml_] Так что да, мне надо кое-что очень специфичное. "
 
 # game/Scene2jm02.rpy:1314 #-#-# translate crowdin Quest_JM_Favor_Feather1_04_49bda117:
 msgid "[_ml_] Remember the outpost we visited last time? "
