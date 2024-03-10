@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2024-03-10 02:55\n"
+"PO-Revision-Date: 2024-03-10 03:51\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Scene2jm02.rpy:5 #-#-# translate crowdin Quest_JM_Favor_Feather1_03_f924725a:
 msgid "[_a_] Absolutely perfect."
@@ -390,11 +390,11 @@ msgstr "[_jm_] Мммхф!!!!"
 
 # game/Scene2jm02.rpy:525 #-#-# translate crowdin Quest_JM_Favor_Feather1_Corrupt1_P11_7161005d:
 msgid "[_jm_] I feel like you're almost touching my breasts..."
-msgstr ""
+msgstr "[_jm_] Кажется, будто ты почти коснулся моей груди..."
 
 # game/Scene2jm02.rpy:527 #-#-# translate crowdin Quest_JM_Favor_Feather1_Corrupt1_P11_53992c9c:
 msgid "[_jm_] Ahah so funny..."
-msgstr ""
+msgstr "[_jm_] Ахах так забавно..."
 
 # game/Scene2jm02.rpy:532 #-#-# translate crowdin Quest_JM_Favor_Feather1_Corrupt1_P11_89335f8e:
 msgid "[_jm_] Mmffh....."
@@ -410,15 +410,15 @@ msgstr "[_jm_] !?!"
 
 # game/Scene2jm02.rpy:544 #-#-# translate crowdin Quest_JM_Favor_Feather1_Corrupt1_P12_9540fa57:
 msgid "[_jm_] First time someone has touched my shoulder... "
-msgstr ""
+msgstr "[_jm_] Впервые кто-то дотронулся до моего плеча... "
 
 # game/Scene2jm02.rpy:546 #-#-# translate crowdin Quest_JM_Favor_Feather1_Corrupt1_P12_4693fc86:
 msgid "[_jm_] Well... I really am a princess... "
-msgstr ""
+msgstr "[_jm_] Что ж... Я и впрямь принцесса... "
 
 # game/Scene2jm02.rpy:547 #-#-# translate crowdin Quest_JM_Favor_Feather1_Corrupt1_P12_c8f45c98:
 msgid "[_u_] Not for much longer"
-msgstr ""
+msgstr "[_u_] Ненадолго"
 
 # game/Scene2jm02.rpy:549 #-#-# translate crowdin Quest_JM_Favor_Feather1_Corrupt1_P12_8020b112:
 msgid "[_jm_] ..."
@@ -434,7 +434,7 @@ msgstr ""
 
 # game/Scene2jm02.rpy:561 #-#-# translate crowdin Quest_JM_Favor_Feather1_Corrupt1_P12_2cb7c828:
 msgid "[_jm_] Not bad... "
-msgstr ""
+msgstr "[_jm_] Неплохо... "
 
 # game/Scene2jm02.rpy:566 #-#-# translate crowdin Quest_JM_Favor_Feather1_Corrupt1_P12_8020b112_2:
 msgid "[_jm_] ..."
@@ -446,23 +446,23 @@ msgstr ""
 
 # game/Scene2jm02.rpy:576 #-#-# translate crowdin Quest_JM_Favor_Feather1_Corrupt1_P14_a54e2e8d:
 msgid "[_jm_] You're going to make me sneeze!"
-msgstr ""
+msgstr "[_jm_] Я сейчас чихну!"
 
 # game/Scene2jm02.rpy:578 #-#-# translate crowdin Quest_JM_Favor_Feather1_Corrupt1_P14_1c3ca62c:
 msgid "[_jm_] Leave my nose alone!"
-msgstr ""
+msgstr "[_jm_] Отстань от моего носа!"
 
 # game/Scene2jm02.rpy:579 #-#-# translate crowdin Quest_JM_Favor_Feather1_Corrupt1_P14_77d6da1f:
 msgid "[_u_] I'm sorry, but I can't just ignore such a beautiful nose. "
-msgstr ""
+msgstr "[_u_] Извини, не могу игнорировать такой прекрасный нос. "
 
 # game/Scene2jm02.rpy:581 #-#-# translate crowdin Quest_JM_Favor_Feather1_Corrupt1_P14_41a34286:
 msgid "[_jm_] Mh."
-msgstr ""
+msgstr "[_jm_] Мх."
 
 # game/Scene2jm02.rpy:586 #-#-# translate crowdin Quest_JM_Favor_Feather1_Corrupt1_P14_de0bf1c1:
 msgid "[_jm_] !!"
-msgstr ""
+msgstr "[_jm_] !!"
 
 # game/Scene2jm02.rpy:588 #-#-# translate crowdin Quest_JM_Favor_Feather1_Corrupt1_P14_8020b112:
 msgid "[_jm_] ..."
@@ -478,11 +478,11 @@ msgstr ""
 
 # game/Scene2jm02.rpy:624 #-#-# translate crowdin Quest_JM_Favor_Feather1_Corrupt1_PUn3_7565eb62:
 msgid "[_jm_] I guess it'll bring me some fresh air... you're right."
-msgstr ""
+msgstr "[_jm_] Наверное это привнесёт немного свежего воздуха... Ты прав."
 
 # game/Scene2jm02.rpy:628 #-#-# translate crowdin Quest_JM_Favor_Feather1_Corrupt1_END_396acca5:
 msgid "[_u_] Did she fall asleep like that? "
-msgstr ""
+msgstr "[_u_] Неужели она так и заснула? "
 
 # game/Scene2jm02.rpy:629 #-#-# translate crowdin Quest_JM_Favor_Feather1_Corrupt1_END_7b1c1392:
 msgid "[_u_] ..."
@@ -490,7 +490,7 @@ msgstr "[_u_] ..."
 
 # game/Scene2jm02.rpy:630 #-#-# translate crowdin Quest_JM_Favor_Feather1_Corrupt1_END_e5141684:
 msgid "[_u_] She really just have an orgasm with her breasts alone..."
-msgstr ""
+msgstr "[_u_] Она реально испытала оргазм только засчёт своей груди..."
 
 # game/Scene2jm02.rpy:631 #-#-# translate crowdin Quest_JM_Favor_Feather1_Corrupt1_END_0529a669:
 msgid "[_u_] Wow..."
@@ -498,7 +498,7 @@ msgstr ""
 
 # game/Scene2jm02.rpy:632 #-#-# translate crowdin Quest_JM_Favor_Feather1_Corrupt1_END_fb37c614:
 msgid "[_u_] She must be hot... maybe I should... undress her. "
-msgstr ""
+msgstr "[_u_] Должно быть, ей жарко... может стоит... раздеть её. "
 
 # game/Scene2jm02.rpy:633 #-#-# translate crowdin Quest_JM_Favor_Feather1_Corrupt1_END_7b1c1392_1:
 msgid "[_u_] ..."
@@ -506,11 +506,11 @@ msgstr "[_u_] ..."
 
 # game/Scene2jm02.rpy:641 #-#-# translate crowdin Quest_JM_Favor_Feather1_Corrupt1_END_1975ead9:
 msgid "[_u_] There, that's better."
-msgstr ""
+msgstr "[_u_] Вот так-то лучше."
 
 # game/Scene2jm02.rpy:650 #-#-# translate crowdin Quest_JM_Favor_Feather1_Corrupt1_END_bfaad367:
 msgid "[_a_] Why is she naked?"
-msgstr ""
+msgstr "[_a_] Почему она голая?"
 
 # game/Scene2jm02.rpy:651 #-#-# translate crowdin Quest_JM_Favor_Feather1_Corrupt1_END_7b1c1392_2:
 msgid "[_u_] ..."
@@ -518,15 +518,15 @@ msgstr "[_u_] ..."
 
 # game/Scene2jm02.rpy:652 #-#-# translate crowdin Quest_JM_Favor_Feather1_Corrupt1_END_33cdcf01:
 msgid "[_u_] She wanted to cool down."
-msgstr ""
+msgstr "[_u_] Она хотела остыть."
 
 # game/Scene2jm02.rpy:654 #-#-# translate crowdin Quest_JM_Favor_Feather1_Corrupt1_END_c7cf805a:
 msgid "[_a_] Well, I guess my plan worked!"
-msgstr ""
+msgstr "[_a_] Что ж, похоже, мой план сработал!"
 
 # game/Scene2jm02.rpy:656 #-#-# translate crowdin Quest_JM_Favor_Feather1_Corrupt1_END_75c8afd7:
 msgid "[_a_] Come back to the headquarter and tomorrow, I promise, she'll fuck you over. "
-msgstr ""
+msgstr "[_a_] Возвращайся завтра ко мне в офис и, я обещаю, она на тебя запрыгнет. "
 
 # game/Scene2jm02.rpy:657 #-#-# translate crowdin Quest_JM_Favor_Feather1_Corrupt1_END_a837bdd0:
 msgid "[_u_] Eheh... "
@@ -538,11 +538,11 @@ msgstr "[_jm_] Расскажешь мне, почему я на кровати?
 
 # game/Scene2jm02.rpy:678 #-#-# translate crowdin Quest_JM_Favor_Feather1_03CORRUPTION2_e5060b99:
 msgid "[_jm_] And I have to tell you that being tied up like this doesn't put me in a comfortable position. "
-msgstr ""
+msgstr "[_jm_] Должна сказать, что лежать вот так вот связанной не слишком удобно. "
 
 # game/Scene2jm02.rpy:679 #-#-# translate crowdin Quest_JM_Favor_Feather1_03CORRUPTION2_44f47f9a:
 msgid "[_u_] I know."
-msgstr ""
+msgstr "[_u_] Понимаю."
 
 # game/Scene2jm02.rpy:682 #-#-# translate crowdin Quest_JM_Favor_Feather1_03CORRUPTION2_8a94e9fc:
 msgid "[_jm_] !?!"
@@ -618,11 +618,11 @@ msgstr "[_jm_] Какое удивительное открытие..."
 
 # game/Scene2jm02.rpy:826 #-#-# translate crowdin Quest_JM_Favor_Feather1_Corrupt2_P1_d19fd02e:
 msgid "[_jm_] Please be gentle..."
-msgstr ""
+msgstr "[_jm_] Пожалуйста, будь ласков..."
 
 # game/Scene2jm02.rpy:832 #-#-# translate crowdin Quest_JM_Favor_Feather1_Corrupt2_P1_a8363056:
 msgid "[_jm_] !!!!"
-msgstr ""
+msgstr "[_jm_] !!!!"
 
 # game/Scene2jm02.rpy:834 #-#-# translate crowdin Quest_JM_Favor_Feather1_Corrupt2_P1_d290f7b2:
 msgid "[_jm_] I feel it all over my body it's crazy!!!!"
@@ -870,11 +870,11 @@ msgstr "[_jm_] Мммхф!!!!"
 
 # game/Scene2jm02.rpy:1097 #-#-# translate crowdin Quest_JM_Favor_Feather1_Corrupt2_P11_7161005d:
 msgid "[_jm_] I feel like you're almost touching my breasts..."
-msgstr ""
+msgstr "[_jm_] Кажется, будто ты почти коснулся моей груди..."
 
 # game/Scene2jm02.rpy:1099 #-#-# translate crowdin Quest_JM_Favor_Feather1_Corrupt2_P11_b279c6e8:
 msgid "[_jm_] Mmrrrh..."
-msgstr ""
+msgstr "[_jm_] Ммрррх..."
 
 # game/Scene2jm02.rpy:1104 #-#-# translate crowdin Quest_JM_Favor_Feather1_Corrupt2_P11_89335f8e:
 msgid "[_jm_] Mmffh....."
@@ -890,15 +890,15 @@ msgstr "[_jm_] !?!"
 
 # game/Scene2jm02.rpy:1116 #-#-# translate crowdin Quest_JM_Favor_Feather1_Corrupt2_P12_5032de8f:
 msgid "[_jm_] How dare you touch my armpit? "
-msgstr ""
+msgstr "[_jm_] Как ты смеешь дотрагиваться до моей подмышки? "
 
 # game/Scene2jm02.rpy:1118 #-#-# translate crowdin Quest_JM_Favor_Feather1_Corrupt2_P12_d6b411ce:
 msgid "[_u_] What, you don't like it? "
-msgstr ""
+msgstr "[_u_] Что, тебе не понравилось? "
 
 # game/Scene2jm02.rpy:1119 #-#-# translate crowdin Quest_JM_Favor_Feather1_Corrupt2_P12_2c769e4c:
 msgid "[_u_] Wait, I'll try again."
-msgstr ""
+msgstr "[_u_] Погоди, я попробую ещё разок."
 
 # game/Scene2jm02.rpy:1121 #-#-# translate crowdin Quest_JM_Favor_Feather1_Corrupt2_P12_03aade46:
 msgid "[_jm_] Gosh..."
@@ -914,7 +914,7 @@ msgstr ""
 
 # game/Scene2jm02.rpy:1133 #-#-# translate crowdin Quest_JM_Favor_Feather1_Corrupt2_P12_2cb7c828:
 msgid "[_jm_] Not bad... "
-msgstr ""
+msgstr "[_jm_] Неплохо... "
 
 # game/Scene2jm02.rpy:1138 #-#-# translate crowdin Quest_JM_Favor_Feather1_Corrupt2_P12_8020b112_1:
 msgid "[_jm_] ..."
@@ -926,23 +926,23 @@ msgstr ""
 
 # game/Scene2jm02.rpy:1148 #-#-# translate crowdin Quest_JM_Favor_Feather1_Corrupt2_P14_a54e2e8d:
 msgid "[_jm_] You're going to make me sneeze!"
-msgstr ""
+msgstr "[_jm_] Я сейчас чихну!"
 
 # game/Scene2jm02.rpy:1150 #-#-# translate crowdin Quest_JM_Favor_Feather1_Corrupt2_P14_1c3ca62c:
 msgid "[_jm_] Leave my nose alone!"
-msgstr ""
+msgstr "[_jm_] Отстань от моего носа!"
 
 # game/Scene2jm02.rpy:1151 #-#-# translate crowdin Quest_JM_Favor_Feather1_Corrupt2_P14_77d6da1f:
 msgid "[_u_] I'm sorry, but I can't just ignore such a beautiful nose. "
-msgstr ""
+msgstr "[_u_] Извини, не могу игнорировать такой прекрасный нос. "
 
 # game/Scene2jm02.rpy:1153 #-#-# translate crowdin Quest_JM_Favor_Feather1_Corrupt2_P14_41a34286:
 msgid "[_jm_] Mh."
-msgstr ""
+msgstr "[_jm_] Мх."
 
 # game/Scene2jm02.rpy:1158 #-#-# translate crowdin Quest_JM_Favor_Feather1_Corrupt2_P14_de0bf1c1:
 msgid "[_jm_] !!"
-msgstr ""
+msgstr "[_jm_] !!"
 
 # game/Scene2jm02.rpy:1160 #-#-# translate crowdin Quest_JM_Favor_Feather1_Corrupt2_P14_8020b112:
 msgid "[_jm_] ..."
@@ -958,11 +958,11 @@ msgstr ""
 
 # game/Scene2jm02.rpy:1196 #-#-# translate crowdin Quest_JM_Favor_Feather1_Corrupt2_PUn3_7565eb62:
 msgid "[_jm_] I guess it'll bring me some fresh air... you're right."
-msgstr ""
+msgstr "[_jm_] Наверное это привнесёт немного свежего воздуха... Ты прав."
 
 # game/Scene2jm02.rpy:1200 #-#-# translate crowdin Quest_JM_Favor_Feather1_Corrupt2_END_396acca5:
 msgid "[_u_] Did she fall asleep like that? "
-msgstr ""
+msgstr "[_u_] Неужели она так и заснула? "
 
 # game/Scene2jm02.rpy:1201 #-#-# translate crowdin Quest_JM_Favor_Feather1_Corrupt2_END_7b1c1392:
 msgid "[_u_] ..."
@@ -970,7 +970,7 @@ msgstr "[_u_] ..."
 
 # game/Scene2jm02.rpy:1202 #-#-# translate crowdin Quest_JM_Favor_Feather1_Corrupt2_END_e5141684:
 msgid "[_u_] She really just have an orgasm with her breasts alone..."
-msgstr ""
+msgstr "[_u_] Она реально испытала оргазм только засчёт своей груди..."
 
 # game/Scene2jm02.rpy:1203 #-#-# translate crowdin Quest_JM_Favor_Feather1_Corrupt2_END_0529a669:
 msgid "[_u_] Wow..."
@@ -978,7 +978,7 @@ msgstr ""
 
 # game/Scene2jm02.rpy:1204 #-#-# translate crowdin Quest_JM_Favor_Feather1_Corrupt2_END_fb37c614:
 msgid "[_u_] She must be hot... maybe I should... undress her. "
-msgstr ""
+msgstr "[_u_] Должно быть, ей жарко... может стоит... раздеть её. "
 
 # game/Scene2jm02.rpy:1205 #-#-# translate crowdin Quest_JM_Favor_Feather1_Corrupt2_END_7b1c1392_1:
 msgid "[_u_] ..."
@@ -986,11 +986,11 @@ msgstr "[_u_] ..."
 
 # game/Scene2jm02.rpy:1213 #-#-# translate crowdin Quest_JM_Favor_Feather1_Corrupt2_END_1975ead9:
 msgid "[_u_] There, that's better."
-msgstr ""
+msgstr "[_u_] Вот так-то лучше."
 
 # game/Scene2jm02.rpy:1222 #-#-# translate crowdin Quest_JM_Favor_Feather1_Corrupt2_END_bfaad367:
 msgid "[_a_] Why is she naked?"
-msgstr ""
+msgstr "[_a_] Почему она голая?"
 
 # game/Scene2jm02.rpy:1223 #-#-# translate crowdin Quest_JM_Favor_Feather1_Corrupt2_END_7b1c1392_2:
 msgid "[_u_] ..."
@@ -998,15 +998,15 @@ msgstr "[_u_] ..."
 
 # game/Scene2jm02.rpy:1224 #-#-# translate crowdin Quest_JM_Favor_Feather1_Corrupt2_END_33cdcf01:
 msgid "[_u_] She wanted to cool down."
-msgstr ""
+msgstr "[_u_] Она хотела остыть."
 
 # game/Scene2jm02.rpy:1226 #-#-# translate crowdin Quest_JM_Favor_Feather1_Corrupt2_END_c7cf805a:
 msgid "[_a_] Well, I guess my plan worked!"
-msgstr ""
+msgstr "[_a_] Что ж, похоже, мой план сработал!"
 
 # game/Scene2jm02.rpy:1228 #-#-# translate crowdin Quest_JM_Favor_Feather1_Corrupt2_END_75c8afd7:
 msgid "[_a_] Come back to the headquarter and tomorrow, I promise, she'll fuck you over. "
-msgstr ""
+msgstr "[_a_] Возвращайся завтра ко мне в офис и, я обещаю, она на тебя запрыгнет. "
 
 # game/Scene2jm02.rpy:1229 #-#-# translate crowdin Quest_JM_Favor_Feather1_Corrupt2_END_a837bdd0:
 msgid "[_u_] Eheh... "
@@ -1014,7 +1014,7 @@ msgstr ""
 
 # game/Scene2jm02.rpy:1248 #-#-# translate crowdin Quest_JM_Favor_Feather1_04_9461a282:
 msgid "[_u_] Oh, no, no..."
-msgstr ""
+msgstr "[_u_] Ох, нет, нет..."
 
 # game/Scene2jm02.rpy:1254 #-#-# translate crowdin Quest_JM_Favor_Feather1_04_2c0b9bd8:
 msgid "[_u_] Uh..."
@@ -1022,23 +1022,23 @@ msgstr ""
 
 # game/Scene2jm02.rpy:1258 #-#-# translate crowdin Quest_JM_Favor_Feather1_04_bf7d7e40:
 msgid "[_u_] Amadine, we've got a problem."
-msgstr ""
+msgstr "[_u_] Амандин, у нас проблема."
 
 # game/Scene2jm02.rpy:1266 #-#-# translate crowdin Quest_JM_Favor_Feather1_04_b444cddc:
 msgid "[_a_] Shit... that's a bummer."
-msgstr ""
+msgstr "[_a_] Блин... вот облом."
 
 # game/Scene2jm02.rpy:1273 #-#-# translate crowdin Quest_JM_Favor_Feather1_04_5e869fcf:
 msgid "[_tb_] You lost another Jasmine????"
-msgstr ""
+msgstr "[_tb_] Вы просрали ещё одну Жасмин????"
 
 # game/Scene2jm02.rpy:1274 #-#-# translate crowdin Quest_JM_Favor_Feather1_04_128d7fad:
 msgid "[_u_] It's not us, she's been kidnapped! "
-msgstr ""
+msgstr "[_u_] Это не мы, ее похитили! "
 
 # game/Scene2jm02.rpy:1276 #-#-# translate crowdin Quest_JM_Favor_Feather1_04_7ace1d3a:
 msgid "[_u_] The letter is signed... Alibaba. "
-msgstr ""
+msgstr "[_u_] Письмо подписано... Алибаба. "
 
 # game/Scene2jm02.rpy:1279 #-#-# translate crowdin Quest_JM_Favor_Feather1_04_05d56d8e:
 msgid "[_tb_] ..."
@@ -1046,115 +1046,115 @@ msgstr ""
 
 # game/Scene2jm02.rpy:1281 #-#-# translate crowdin Quest_JM_Favor_Feather1_04_098ea6a4:
 msgid "[_tb_] We're not going to create this character again!"
-msgstr ""
+msgstr "[_tb_] Мы не собираемся ещё раз делать этого персонажа!"
 
 # game/Scene2jm02.rpy:1283 #-#-# translate crowdin Quest_JM_Favor_Feather1_04_0f375cbf:
 msgid "[_tb_] If this keeps up, in a few months half the population of this city will be Jasmines!"
-msgstr ""
+msgstr "[_tb_] Если так и дальше пойдёт, то через пару месяцев половина населения города будет Жасминами!"
 
 # game/Scene2jm02.rpy:1286 #-#-# translate crowdin Quest_JM_Favor_Feather1_04_f1ce6d72:
 msgid "[_tb_] You need to find a way to get her back."
-msgstr ""
+msgstr "[_tb_] Ты должен найти способ её вернуть."
 
 # game/Scene2jm02.rpy:1287 #-#-# translate crowdin Quest_JM_Favor_Feather1_04_950d4bef:
 msgid "[_u_] Roger that, Tinker."
-msgstr ""
+msgstr "[_u_] Вас понял, Тинкер."
 
 # game/Scene2jm02.rpy:1290 #-#-# translate crowdin Quest_JM_Favor_Feather1_04_d0e42162:
 msgid "[_tb_] Melissandre tells me she's been working on a way to detect androids at a precise distance. "
-msgstr ""
+msgstr "[_tb_] Мелиссандра говорит, что она работает над способом обнаружения андроидов на точном расстоянии. "
 
 # game/Scene2jm02.rpy:1292 #-#-# translate crowdin Quest_JM_Favor_Feather1_04_c42f5794:
 msgid "[_tb_] Go and see if you can help her."
-msgstr ""
+msgstr "[_tb_] Сходи посмотри, можешь ли ты ей помочь."
 
 # game/Scene2jm02.rpy:1293 #-#-# translate crowdin Quest_JM_Favor_Feather1_04_46b6e599:
 msgid "[_u_] Got it."
-msgstr ""
+msgstr "[_u_] Понял."
 
 # game/Scene2jm02.rpy:1295 #-#-# translate crowdin Quest_JM_Favor_Feather1_04_96ccccbd:
 msgid "[_tb_] And uh... Amandine? The feather was a good idea. "
-msgstr ""
+msgstr "[_tb_] И э... Амандин? Перо было хорошей идеей. "
 
 # game/Scene2jm02.rpy:1297 #-#-# translate crowdin Quest_JM_Favor_Feather1_04_b723624a:
 msgid "[_a_] Thanks a lot Boss! "
-msgstr ""
+msgstr "[_a_] Большое спасибо, босс! "
 
 # game/Scene2jm02.rpy:1308 #-#-# translate crowdin Quest_JM_Favor_Feather1_04_39d371cd:
 msgid "[_u_] Damn... I was so close to fuck her... Arg."
-msgstr ""
+msgstr "[_u_] Чёрт... А я ведь почти её трахнул... Аргх."
 
 # game/Scene2jm02.rpy:1312 #-#-# translate crowdin Quest_JM_Favor_Feather1_04_c69deaf1:
 msgid "[_ml_] So yeah, I'm going to need something specific. "
-msgstr ""
+msgstr "[_ml_] Так что да, мне надо кое-что очень специфичное. "
 
 # game/Scene2jm02.rpy:1314 #-#-# translate crowdin Quest_JM_Favor_Feather1_04_49bda117:
 msgid "[_ml_] Remember the outpost we visited last time? "
-msgstr ""
+msgstr "[_ml_] Помнишь аванпост, на который мы наведались в прошлый раз? "
 
 # game/Scene2jm02.rpy:1316 #-#-# translate crowdin Quest_JM_Favor_Feather1_04_0a5d9d56:
 msgid "[_ml_] With crates everywhere. "
-msgstr ""
+msgstr "[_ml_] С ящиками повсюду. "
 
 # game/Scene2jm02.rpy:1317 #-#-# translate crowdin Quest_JM_Favor_Feather1_04_456b15f9:
 msgid "[_u_] Ah yes! I remember that. "
-msgstr ""
+msgstr "[_u_] Ах да! Вспомнил. "
 
 # game/Scene2jm02.rpy:1319 #-#-# translate crowdin Quest_JM_Favor_Feather1_04_d0843e7b:
 msgid "[_ml_] I think the machine over there can help me create an Android detector. "
-msgstr ""
+msgstr "[_ml_] Думаю, тамошний агрегат может помочь мне создать Андроид-детектор. "
 
 # game/Scene2jm02.rpy:1321 #-#-# translate crowdin Quest_JM_Favor_Feather1_04_999180c2:
 msgid "[_ml_] I need someone to go there and find a particular instrument. "
-msgstr ""
+msgstr "[_ml_] Мне нужно, чтобы кто-то сходил туда и нашел определенный инструмент. "
 
 # game/Scene2jm02.rpy:1323 #-#-# translate crowdin Quest_JM_Favor_Feather1_04_03820996:
 msgid "[_ml_] It should be at the back of the big machine, behind some cables. "
-msgstr ""
+msgstr "[_ml_] Он должен быть за большим механизмом, позади кабелей. "
 
 # game/Scene2jm02.rpy:1324 #-#-# translate crowdin Quest_JM_Favor_Feather1_04_09cfb9de:
 msgid "[_u_] Okay, got it."
-msgstr ""
+msgstr "[_u_] Окей, понял."
 
 # game/Scene2jm02.rpy:1326 #-#-# translate crowdin Quest_JM_Favor_Feather1_04_4301451d:
 msgid "[_ml_] And be careful not to get stuck... those cables are pretty tricky."
-msgstr ""
+msgstr "[_ml_] И будь осторожен, чтобы не застрять... эти кабели довольно коварны."
 
 # game/Scene2jm02.rpy:1335 #-#-# translate crowdin Quest_JM_Favor_Feather1_04_f0e50fac:
 msgid "[_u_] And here we are. "
-msgstr ""
+msgstr "[_u_] И вот мы здесь. "
 
 # game/Scene2jm02.rpy:1337 #-#-# translate crowdin Quest_JM_Favor_Feather1_04_8955e6e6:
 msgid "[_u_] It's been a long time since I've been here!"
-msgstr ""
+msgstr "[_u_] Прошло немало времени с моего последнего визита!"
 
 # game/Scene2jm02.rpy:1339 #-#-# translate crowdin Quest_JM_Favor_Feather1_04_278ccb95:
 msgid "[_sz_s_] Hey!!! Is anyone here???"
-msgstr ""
+msgstr "[_sz_s_] Эй!!! Кто-нибудь здесь???"
 
 # game/Scene2jm02.rpy:1340 #-#-# translate crowdin Quest_JM_Favor_Feather1_04_2c3ec02a:
 msgid "[_u_] ?!"
-msgstr ""
+msgstr "[_u_] ?!"
 
 # game/Scene2jm02.rpy:1342 #-#-# translate crowdin Quest_JM_Favor_Feather1_04_6e99ac35:
 msgid "[_sz_s_] I'm stuck in the machine!!"
-msgstr ""
+msgstr "[_sz_s_] Я тут застряла!!"
 
 # game/Scene2jm02.rpy:1343 #-#-# translate crowdin Quest_JM_Favor_Feather1_04_cf88ca44:
 msgid "[_u_] What the hell... "
-msgstr ""
+msgstr "[_u_] Чё за хрень... "
 
 # game/Scene2jm02.rpy:1346 #-#-# translate crowdin Quest_JM_Favor_Feather1_04_43cefc6f:
 msgid "[_u_] Uh... who are you?"
-msgstr ""
+msgstr "[_u_] Эм... ты кто?"
 
 # game/Scene2jm02.rpy:1347 #-#-# translate crowdin Quest_JM_Favor_Feather1_04_f20150df:
 msgid "[_sz_s_] I'm stuck in the machine I said!!!"
-msgstr ""
+msgstr "[_sz_s_] Я говорю я тут застряла!!!"
 
 # game/Scene2jm02.rpy:1348 #-#-# translate crowdin Quest_JM_Favor_Feather1_04_798b1277:
 msgid "[_u_] Yes, I heard that... "
-msgstr ""
+msgstr "[_u_] Да, я слышу... "
 
 # game/Scene2jm02.rpy:1349 #-#-# translate crowdin Quest_JM_Favor_Feather1_04_097f9c02:
 msgid "[_u_] Holy shit... this day makes no sense. "
