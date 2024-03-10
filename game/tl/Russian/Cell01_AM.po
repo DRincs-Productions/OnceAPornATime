@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2024-03-08 18:57\n"
+"PO-Revision-Date: 2024-03-10 10:24\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_AM.rpy:86 #-#-# translate crowdin CHARA_AM_Menu01_c781f953:
 msgid "[_am_] Hey!"
@@ -246,15 +246,15 @@ msgstr "[_am_] И хм..."
 
 # game/Cell01_AM.rpy:406 #-#-# translate crowdin Quest2_AM_Talk03_cf116443:
 msgid "[_am_] Have you ever done it... with Tinker?"
-msgstr ""
+msgstr "[_am_] Ты когда-нибудь делал это... с Тинкер?"
 
 # game/Cell01_AM.rpy:407 #-#-# translate crowdin Quest2_AM_Talk03_0924003d:
 msgid "[_u_] What? Me? Get laid with Tinker??"
-msgstr ""
+msgstr "[_u_] Что? Я? Переспать с Тинкер??"
 
 # game/Cell01_AM.rpy:408 #-#-# translate crowdin Quest2_AM_Talk03_45fd8112:
 msgid "[_u_] Nope, never, not yet."
-msgstr ""
+msgstr "[_u_] Нет, никогда, пока нет."
 
 # game/Cell01_AM.rpy:410 #-#-# translate crowdin Quest2_AM_Talk03_9fa78ae8:
 msgid "[_u_] And then... I don't know if it would fit... like... physically."
@@ -266,7 +266,7 @@ msgstr ""
 
 # game/Cell01_AM.rpy:414 #-#-# translate crowdin Quest2_AM_Talk03_35fd3f4a:
 msgid "[_am_] So exciting..."
-msgstr ""
+msgstr "[_am_] Так интересно..."
 
 # game/Cell01_AM.rpy:415 #-#-# translate crowdin Quest2_AM_Talk03_7b1c1392_1:
 msgid "[_u_] ..."
@@ -274,15 +274,15 @@ msgstr "[_u_] ..."
 
 # game/Cell01_AM.rpy:417 #-#-# translate crowdin Quest2_AM_Talk03_30549523:
 msgid "[_u_] I think we're both going to be good buddies."
-msgstr ""
+msgstr "[_u_] Я думаю, мы оба будем хорошими друзьями."
 
 # game/Cell01_AM.rpy:419 #-#-# translate crowdin Quest2_AM_Talk03_4aef165f:
 msgid "[_am_] So cool!"
-msgstr ""
+msgstr "[_am_] Так круто!"
 
 # game/Cell01_AM.rpy:426 #-#-# translate crowdin Quest2_AM_Talk04_a54d56c3:
 msgid "[_am_] What a curious man you are. "
-msgstr ""
+msgstr "[_am_] Какой ты любопытный человек. "
 
 # game/Cell01_AM.rpy:431 #-#-# translate crowdin Quest2_AM_Talk04_5431f053:
 msgid "[_am_] That's hot. "
