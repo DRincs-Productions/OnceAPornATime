@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-03-06 23:40\n"
+"PO-Revision-Date: 2024-03-11 10:22\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Intro01.rpy:64 #-#-# translate crowdin Intro01_93eeba4f:
 msgid "[_tb_] Greetings!"
@@ -1674,75 +1674,75 @@ msgstr "[_ly_] 我已经试过一次了，那样做太危险了。 "
 
 # game/Intro01.rpy:1838 #-#-# translate crowdin Intro_PrisonEnd_9b57ea7b:
 msgid "[_ly_] I know you are lonely in that cell, but joining you there is not my intention."
-msgstr ""
+msgstr "[_ly_] 我知道你在那间牢房里非常孤独，但我无意和你一起蹲苦窑。"
 
 # game/Intro01.rpy:1840 #-#-# translate crowdin Intro_PrisonEnd_280e4382:
 msgid "[_ly_] Find something else!"
-msgstr ""
+msgstr "[_ly_] 想个别的办法吧！"
 
 # game/Intro01.rpy:1841 #-#-# translate crowdin Intro_PrisonEnd_26d5981b:
 msgid "[_u_] Climbing through the window? "
-msgstr ""
+msgstr "[_u_] 从窗户爬过去？ "
 
 # game/Intro01.rpy:1843 #-#-# translate crowdin Intro_PrisonEnd_5eae044a:
 msgid "[_ly_] Nope, not for me. "
-msgstr ""
+msgstr "[_ly_] 不，我不擅长攀爬。 "
 
 # game/Intro01.rpy:1844 #-#-# translate crowdin Intro_PrisonEnd_e5908b88:
 msgid "[_u_] Go through the sewers!"
-msgstr ""
+msgstr "[_u_] 从下水道穿过去！"
 
 # game/Intro01.rpy:1846 #-#-# translate crowdin Intro_PrisonEnd_9ff2dce1:
 msgid "[_ly_] Forget that too. Never. "
-msgstr ""
+msgstr "[_ly_] 算了，这也一样。我从不擅长这个。 "
 
 # game/Intro01.rpy:1847 #-#-# translate crowdin Intro_PrisonEnd_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Intro01.rpy:1848 #-#-# translate crowdin Intro_PrisonEnd_330f028b:
 msgid "[_u_] Don't you know a little magic? "
-msgstr ""
+msgstr "[_u_] 难道你连一点小魔法都不会吗？ "
 
 # game/Intro01.rpy:1850 #-#-# translate crowdin Intro_PrisonEnd_171295a0:
 msgid "[_ly_] No, not so much. "
-msgstr ""
+msgstr "[_ly_] 不会，我没那么厉害。 "
 
 # game/Intro01.rpy:1851 #-#-# translate crowdin Intro_PrisonEnd_b864f106:
 msgid "[_ly_] And you? "
-msgstr ""
+msgstr "[_ly_] 那你呢？ "
 
 # game/Intro01.rpy:1852 #-#-# translate crowdin Intro_PrisonEnd_fcabdff2:
 msgid "[_u_] Uh... no I don't think so. "
-msgstr ""
+msgstr "[_u_] 呃... 我也不太会呢。 "
 
 # game/Intro01.rpy:1854 #-#-# translate crowdin Intro_PrisonEnd_4a1fd69a:
 msgid "[_ly_] Well, unless you find a way to magically make this key appear here... "
-msgstr ""
+msgstr "[_ly_] 呃，除非你能想个办法，让那把钥匙如魔法显灵般地在这出现... "
 
 # game/Intro01.rpy:1867 #-#-# translate crowdin Intro_PrisonEnd_0f07ccc4:
 msgid "[_u_] ?"
-msgstr ""
+msgstr "[_u_] ？"
 
 # game/Intro01.rpy:1874 #-#-# translate crowdin Intro_PrisonEnd_295c1ee4:
 msgid "[_ly_] Um... thank you?"
-msgstr ""
+msgstr "[_ly_] 呃... 谢谢你？"
 
 # game/Intro01.rpy:1896 #-#-# translate crowdin Intro_PrisonEnd_d4202026:
 msgid "[_ly_] ???"
-msgstr ""
+msgstr "[_ly_] ？？？"
 
 # game/Intro01.rpy:1901 #-#-# translate crowdin Intro_PrisonEnd_7e97aa56:
 msgid "[_ly_] Did you do this? "
-msgstr ""
+msgstr "[_ly_] 是你干的吗？ "
 
 # game/Intro01.rpy:1902 #-#-# translate crowdin Intro_PrisonEnd_f3fae504:
 msgid "[_u_] I'm not really sure, actually."
-msgstr ""
+msgstr "[_u_] 其实我也不太确定。"
 
 # game/Intro01.rpy:1904 #-#-# translate crowdin Intro_PrisonEnd_ddbcb1e9:
 msgid "[_ly_] Sir, I think you are lucky today! Eheh."
-msgstr ""
+msgstr "[_ly_] 先生，我想你今天是走了大运的！嘻嘻。"
 
 # game/Intro01.rpy:1906 #-#-# translate crowdin Intro_PrisonEnd_aa12e751:
 msgid "[_ly_] So, tell me [name]..."
