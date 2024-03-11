@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2024-03-11 15:21\n"
+"PO-Revision-Date: 2024-03-11 16:40\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Intro01.rpy:64 #-#-# translate crowdin Intro01_93eeba4f:
 msgid "[_tb_] Greetings!"
@@ -1086,19 +1086,19 @@ msgstr "[_ly_] Да и думаю, тебе не помешает, если бу
 
 # game/Intro01.rpy:1308 #-#-# translate crowdin LycoPrison_menu01_01_583a35f1:
 msgid "[_ly_] Especially after all this time in this cage... "
-msgstr ""
+msgstr "[_ly_] Особенно спустя столько времени, проведённого в клетке... "
 
 # game/Intro01.rpy:1310 #-#-# translate crowdin LycoPrison_menu01_01_9c25f3bc:
 msgid "[_ly_] But it will be a little difficult for me to satisfy your request. "
-msgstr ""
+msgstr "[_ly_] Но с удовлетворением твоей просьбы есть некоторые трудности. "
 
 # game/Intro01.rpy:1311 #-#-# translate crowdin LycoPrison_menu01_01_54512cba:
 msgid "[_u_] What? Why?"
-msgstr ""
+msgstr "[_u_] Что? Какие?"
 
 # game/Intro01.rpy:1313 #-#-# translate crowdin LycoPrison_menu01_01_188a1a41:
 msgid "[_ly_] See the clothes I'm wearing? "
-msgstr ""
+msgstr "[_ly_] Видишь, во что я одета? "
 
 # game/Intro01.rpy:1315 #-#-# translate crowdin LycoPrison_menu01_01_3a132a28:
 msgid "[_ly_] This stuff is not really meant to be removed easily."
