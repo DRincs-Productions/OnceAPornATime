@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2024-03-11 15:21\n"
+"PO-Revision-Date: 2024-03-11 16:40\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Intro01.rpy:64 #-#-# translate crowdin Intro01_93eeba4f:
 msgid "[_tb_] Greetings!"
@@ -66,7 +66,7 @@ msgstr ""
 
 # game/Intro01.rpy:102 #-#-# translate crowdin Intro01_05d56d8e:
 msgid "[_tb_] ..."
-msgstr ""
+msgstr "[_tb_] ..."
 
 # game/Intro01.rpy:103 #-#-# translate crowdin Intro01_f11f103e:
 msgid "[_tb_] Dude."
@@ -1478,7 +1478,7 @@ msgstr ""
 
 # game/Intro01.rpy:1665 #-#-# translate crowdin GalleryImageQuest_Melissandre01_040a03dd:
 msgid "[_tb_] Great!"
-msgstr ""
+msgstr "[ _tb_] Ottimo!"
 
 # game/Intro01.rpy:1675 #-#-# translate crowdin GalleryImageQuest_Melissandre01_2c2000ca:
 msgid "[_tb_] So,"
