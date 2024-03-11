@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2024-03-11 16:40\n"
+"PO-Revision-Date: 2024-03-11 17:44\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_BA.rpy:50 #-#-# translate crowdin CHARA_BA_Menu01_98aea068:
 msgid "[_ba_]  ... "
@@ -314,7 +314,7 @@ msgstr ""
 
 # game/Cell01_BA.rpy:283 #-#-# translate crowdin Quest_BA_App01_01_07c612b3:
 msgid "[_u_] Well..."
-msgstr ""
+msgstr "[_u_] Beh..."
 
 # game/Cell01_BA.rpy:294 #-#-# translate crowdin Quest_BA_App01_01_795609eb:
 msgid "[_ba_] So you weren't kidding... "
@@ -630,7 +630,7 @@ msgstr ""
 
 # game/Cell01_BA.rpy:482 #-#-# translate crowdin Ml_Ali_01_08_c84d982c:
 msgid "[_dj_] Hi there."
-msgstr ""
+msgstr "[_dj_] Heilà."
 
 # game/Cell01_BA.rpy:483 #-#-# translate crowdin Ml_Ali_01_08_0529a669:
 msgid "[_u_] Wow..."
@@ -758,7 +758,7 @@ msgstr ""
 
 # game/Cell01_BA.rpy:554 #-#-# translate crowdin Ml_Ali_01_08_menu1_b0ff36fe:
 msgid "[_u_] Gosh..."
-msgstr ""
+msgstr "[_u_] Accidenti..."
 
 # game/Cell01_BA.rpy:555 #-#-# translate crowdin Ml_Ali_01_08_menu1_5546e67c:
 msgid "[_u_] I think this is the first time a virgin has offered to fuck someone so quickly. "
