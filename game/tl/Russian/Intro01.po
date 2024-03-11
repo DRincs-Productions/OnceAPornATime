@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2024-03-11 08:47\n"
+"PO-Revision-Date: 2024-03-11 10:22\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Intro01.rpy:64 #-#-# translate crowdin Intro01_93eeba4f:
 msgid "[_tb_] Greetings!"
@@ -22,39 +22,39 @@ msgstr ""
 
 # game/Intro01.rpy:70 #-#-# translate crowdin Intro01_d8214b02:
 msgid "[_tb_] Is this the first time we've met?"
-msgstr ""
+msgstr "[_tb_] Наша встреча для тебя в новинку?"
 
 # game/Intro01.rpy:73 #-#-# translate crowdin Intro01_270c3f6e:
 msgid "[_tb_] Or have you already done Chapter 1? "
-msgstr ""
+msgstr "[_tb_] Или ты уже прошёл первую главу? "
 
 # game/Intro01.rpy:81 #-#-# translate crowdin Intro01_0f021c7f:
 msgid "[_tb_] Hey! Welcome back [name]!"
-msgstr ""
+msgstr "[_tb_] Хэй! С возвращением, [name]!"
 
 # game/Intro01.rpy:84 #-#-# translate crowdin Intro01_7945ac25:
 msgid "[_tb_] Sorry about that, I have to be careful with newcomers. "
-msgstr ""
+msgstr "[_tb_] Извиняй, приходится быть аккуратней с новичками. "
 
 # game/Intro01.rpy:87 #-#-# translate crowdin Intro01_12602e7a:
 msgid "[_tb_] Anyway, I hope you enjoyed chapter 1!"
-msgstr ""
+msgstr "[_tb_] Ну да ладно, надеюсь тебе понравилась первая глава!"
 
 # game/Intro01.rpy:90 #-#-# translate crowdin Intro01_c19cb5b3:
 msgid "[_tb_] Because this chapter 2 is going to be insane."
-msgstr ""
+msgstr "[_tb_] Потому что эта будет вообще отрыв фляги."
 
 # game/Intro01.rpy:93 #-#-# translate crowdin Intro01_d5c3236f:
 msgid "[_tb_] Anyway, I digress."
-msgstr ""
+msgstr "[_tb_] Короче, я отвлеклась."
 
 # game/Intro01.rpy:96 #-#-# translate crowdin Intro01_80d042a1:
 msgid "[_tb_] So, I made a little animation to summarize chapter 1... "
-msgstr ""
+msgstr "[_tb_] В общем, я тут сделала небольшую анимацию чтобы подытожить первую главу... "
 
 # game/Intro01.rpy:98 #-#-# translate crowdin Intro01_081e846f:
 msgid "[_tb_] do you want to see it?"
-msgstr ""
+msgstr "[_tb_] Желаешь глянуть?"
 
 # game/Intro01.rpy:99 #-#-# translate crowdin Intro01_7b1c1392:
 msgid "[_u_] ..."
@@ -62,7 +62,7 @@ msgstr "[_u_] ..."
 
 # game/Intro01.rpy:100 #-#-# translate crowdin Intro01_6be92765:
 msgid "[_u_] Is this really necessary?"
-msgstr ""
+msgstr "[_u_] А это прям обязательно?"
 
 # game/Intro01.rpy:102 #-#-# translate crowdin Intro01_05d56d8e:
 msgid "[_tb_] ..."
@@ -70,11 +70,11 @@ msgstr ""
 
 # game/Intro01.rpy:103 #-#-# translate crowdin Intro01_f11f103e:
 msgid "[_tb_] Dude."
-msgstr ""
+msgstr "[_tb_] Чел."
 
 # game/Intro01.rpy:105 #-#-# translate crowdin Intro01_c430b091:
 msgid "[_tb_] It took me hours to do this thing. "
-msgstr ""
+msgstr "[_tb_] Я над ней несколько часов горбатилась. "
 
 # game/Intro01.rpy:106 #-#-# translate crowdin Intro01_41614d92:
 msgid "[_u_] But I..."
@@ -82,63 +82,63 @@ msgstr ""
 
 # game/Intro01.rpy:109 #-#-# translate crowdin Intro01_038b081c:
 msgid "[_tb_] Sh!"
-msgstr ""
+msgstr "[_tb_] Ш-ш!"
 
 # game/Intro01.rpy:112 #-#-# translate crowdin Intro01_ae71c8c5:
 msgid "[_tb_] Stop talking and look."
-msgstr ""
+msgstr "[_tb_] Харю стянул и смотришь."
 
 # game/Intro01.rpy:118 #-#-# translate crowdin Intro01_13f5fb85:
 msgid "[_tb_] Hey! Welcome to ''Once a porn a Time'' [name] !"
-msgstr ""
+msgstr "[_tb_] Хэй! Добро пожаловать в ''Once a porn a Time'', [name] !"
 
 # game/Intro01.rpy:121 #-#-# translate crowdin Intro01_9806b549:
 msgid "[_tb_] Let me introduce myself, I'm Tinker Bell, the CEO++ of this planet."
-msgstr ""
+msgstr "[_tb_] Разрешите представиться, я Тинкербелл, гендир++ этой планеты."
 
 # game/Intro01.rpy:122 #-#-# translate crowdin Intro01_6cfac5be:
 msgid "[_u_] Mmh... Why are you a fairy? "
-msgstr ""
+msgstr "[_u_] Эмм... А почему ты фея? "
 
 # game/Intro01.rpy:125 #-#-# translate crowdin Intro01_b43ebf29:
 msgid "[_tb_] Mh... let me explain."
-msgstr ""
+msgstr "[_tb_] Хм... Позволь объяснить."
 
 # game/Intro01.rpy:138 #-#-# translate crowdin Intro01_06947ce8:
 msgid "[_tb_] Once upon a time, there was a planet. "
-msgstr ""
+msgstr "[_tb_] Давным-давно, в далёкой-далёкой галактике, была планета. "
 
 # game/Intro01.rpy:143 #-#-# translate crowdin Intro01_8f41ccf1:
 msgid "[_tb_] This planet was a giant park, filled with all kinds of adventures."
-msgstr ""
+msgstr "[_tb_] Она была огромным парком развлечений, наполненным всевозможными приключениями."
 
 # game/Intro01.rpy:146 #-#-# translate crowdin Intro01_9a31a46c:
 msgid "[_tb_] And all the characters were super realistic androids."
-msgstr ""
+msgstr "[_tb_] И все персонажи были супер-реалистичными андроидами."
 
 # game/Intro01.rpy:150 #-#-# translate crowdin Intro01_2864b597:
 msgid "[_tb_] The richest people in the galaxy came to spend all their savings for a few days on this planet."
-msgstr ""
+msgstr "[_tb_] Богатейшие люди галактики слетались сюда, дабы потратить все свои сбережения, лишь бы провести тут несколько дней."
 
 # game/Intro01.rpy:152 #-#-# translate crowdin Intro01_fb2a2b72:
 msgid "[_u_] Sounds like a very profitable business."
-msgstr ""
+msgstr "[_u_] Пока звучит как довольно прибыльный бизнес."
 
 # game/Intro01.rpy:154 #-#-# translate crowdin Intro01_aaf2f303:
 msgid "[_tb_] That's right."
-msgstr ""
+msgstr "[_tb_] И это так."
 
 # game/Intro01.rpy:156 #-#-# translate crowdin Intro01_a316c95d:
 msgid "[_u_] You just reused the old animation you made. "
-msgstr ""
+msgstr "[_u_] Ты просто включила старую анимацию. "
 
 # game/Intro01.rpy:158 #-#-# translate crowdin Intro01_de8f9949:
 msgid "[_tb_] No, I..."
-msgstr ""
+msgstr "[_tb_] Нет, вообще-то..."
 
 # game/Intro01.rpy:161 #-#-# translate crowdin Intro01_015038e6:
 msgid "[_tb_] I added some stuff, okay?"
-msgstr ""
+msgstr "[_tb_] Я добавила кое-какие штуки, окей?"
 
 # game/Intro01.rpy:164 #-#-# translate crowdin Intro01_bd256297:
 msgid "[_tb_] Anyway..."
