@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2024-03-11 16:40\n"
+"PO-Revision-Date: 2024-03-11 17:44\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_SZ.rpy:87 #-#-# translate crowdin CHARA_SZ_Menu01_af6c6a0a:
 msgid "[_sz_]  ... "
@@ -170,7 +170,7 @@ msgstr ""
 
 # game/Cell01_SZ.rpy:314 #-#-# translate crowdin Quest_SZ_Favor_Cape03_07c612b3:
 msgid "[_u_] Well..."
-msgstr ""
+msgstr "[_u_] Beh..."
 
 # game/Cell01_SZ.rpy:318 #-#-# translate crowdin Quest_SZ_Favor_Cape03_d34c898c:
 msgid "[_sz_] There's no way that's going to happen."
@@ -3154,7 +3154,7 @@ msgstr ""
 
 # game/Cell01_SZ.rpy:2147 #-#-# translate crowdin Quest_SZ_Favor_Dos03_b0ff36fe:
 msgid "[_u_] Gosh..."
-msgstr ""
+msgstr "[_u_] Accidenti..."
 
 # game/Cell01_SZ.rpy:2149 #-#-# translate crowdin Quest_SZ_Favor_Dos03_c142ca56:
 msgid "[_u_] I'll look for it with the drone, right? "
@@ -3898,7 +3898,7 @@ msgstr ""
 
 # game/Cell01_SZ.rpy:2665 #-#-# translate crowdin Quest_SZ_Favor_Dos012_1f797da5:
 msgid "----------"
-msgstr ""
+msgstr "----------"
 
 # game/Cell01_SZ.rpy:2677 #-#-# translate crowdin QuestChap2_Amandine02_06_62ee0139:
 msgid "[_u_] Well, I almost forgot how warm it is here. "
@@ -5314,7 +5314,7 @@ msgstr ""
 
 # game/Cell01_SZ.rpy:3679 #-#-# translate crowdin QuestChap2_LyStart_E_03_P1_menu2_P2_b0ff36fe:
 msgid "[_u_] Gosh..."
-msgstr ""
+msgstr "[_u_] Accidenti..."
 
 # game/Cell01_SZ.rpy:3681 #-#-# translate crowdin QuestChap2_LyStart_E_03_P1_menu2_P2_2ae39244:
 msgid "[_u_] I really hope there's some gorgeous women in this brothel."
