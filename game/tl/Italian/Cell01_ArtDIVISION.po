@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2024-02-26 09:11\n"
+"PO-Revision-Date: 2024-03-11 10:22\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_ArtDIVISION.rpy:151 #-#-# translate crowdin Cell01_ArtDIVISION_Menu01_ed0ef4ce:
 msgid "[_a_] Bonjour [name]!"
@@ -18,7 +18,7 @@ msgstr ""
 
 # game/Cell01_ArtDIVISION.rpy:179 #-#-# translate crowdin Cell01_ArtDIVISION_Charaselect_LY_259e399c:
 msgid "[_u_] See you later!"
-msgstr ""
+msgstr "[_u_] Ci vediamo più tardi!"
 
 # game/Cell01_ArtDIVISION.rpy:181 #-#-# translate crowdin Cell01_ArtDIVISION_Charaselect_LY_d93ee3d6:
 msgid "[_ly_] See you [name]!"
@@ -26,7 +26,7 @@ msgstr ""
 
 # game/Cell01_ArtDIVISION.rpy:192 #-#-# translate crowdin Cell01_ArtDIVISION_Charaselect_A_259e399c:
 msgid "[_u_] See you later!"
-msgstr ""
+msgstr "[_u_] Ci vediamo più tardi!"
 
 # game/Cell01_ArtDIVISION.rpy:194 #-#-# translate crowdin Cell01_ArtDIVISION_Charaselect_A_03428ad6:
 msgid "[_a_] See you soon [name]!"
@@ -50,7 +50,7 @@ msgstr ""
 
 # game/Cell01_ArtDIVISION.rpy:272 #-#-# translate crowdin CHARA_A_MenuChoice_259e399c:
 msgid "[_u_] See you later!"
-msgstr ""
+msgstr "[_u_] Ci vediamo più tardi!"
 
 # game/Cell01_ArtDIVISION.rpy:274 #-#-# translate crowdin CHARA_A_MenuChoice_03428ad6:
 msgid "[_a_] See you soon [name]!"
@@ -58,7 +58,7 @@ msgstr ""
 
 # game/Cell01_ArtDIVISION.rpy:284 #-#-# translate crowdin CHARA_A_ChangeClothesPanel_a8c52ae1:
 msgid "[_e_] No. Not today."
-msgstr ""
+msgstr "[_e_] No. Non oggi."
 
 # game/Cell01_ArtDIVISION.rpy:287 #-#-# translate crowdin CHARA_A_ChangeClothesPanel_a6be5e3c:
 msgid "[_a_] Of course!"
