@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2024-03-10 10:24\n"
+"PO-Revision-Date: 2024-03-11 05:13\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_AM.rpy:86 #-#-# translate crowdin CHARA_AM_Menu01_c781f953:
 msgid "[_am_] Hey!"
@@ -234,7 +234,7 @@ msgstr "[_am_] Наверное, ты прав. "
 
 # game/Cell01_AM.rpy:399 #-#-# translate crowdin Quest2_AM_Talk03_b1eb8930:
 msgid "[_am_] I'm not going to end up an eternal virgin on this planet. "
-msgstr "[_am_] Я не собираюсь оставаться вечной девственницей на этой планете. "
+msgstr "[_am_] Я не собираюсь оставаться вечной девственницей на такой планете. "
 
 # game/Cell01_AM.rpy:401 #-#-# translate crowdin Quest2_AM_Talk03_9b4ad1c7:
 msgid "[_am_] That would be a shame. "
@@ -258,11 +258,11 @@ msgstr "[_u_] Нет, никогда, пока нет."
 
 # game/Cell01_AM.rpy:410 #-#-# translate crowdin Quest2_AM_Talk03_9fa78ae8:
 msgid "[_u_] And then... I don't know if it would fit... like... physically."
-msgstr ""
+msgstr "[_u_] И потом... Я не знаю, получится ли это... типа... физически."
 
 # game/Cell01_AM.rpy:412 #-#-# translate crowdin Quest2_AM_Talk03_4b5b8110:
 msgid "[_am_] It would be interesting to see if that could... do it..."
-msgstr ""
+msgstr "[_am_] Было бы интересно посмотреть, сможет ли она... сделать это..."
 
 # game/Cell01_AM.rpy:414 #-#-# translate crowdin Quest2_AM_Talk03_35fd3f4a:
 msgid "[_am_] So exciting..."
@@ -274,7 +274,7 @@ msgstr "[_u_] ..."
 
 # game/Cell01_AM.rpy:417 #-#-# translate crowdin Quest2_AM_Talk03_30549523:
 msgid "[_u_] I think we're both going to be good buddies."
-msgstr "[_u_] Я думаю, мы оба будем хорошими друзьями."
+msgstr "[_u_] Я думаю, мы будем хорошими друзьями."
 
 # game/Cell01_AM.rpy:419 #-#-# translate crowdin Quest2_AM_Talk03_4aef165f:
 msgid "[_am_] So cool!"
@@ -286,23 +286,23 @@ msgstr "[_am_] Какой ты любопытный человек. "
 
 # game/Cell01_AM.rpy:431 #-#-# translate crowdin Quest2_AM_Talk04_5431f053:
 msgid "[_am_] That's hot. "
-msgstr ""
+msgstr "[_am_] Это горячо. "
 
 # game/Cell01_AM.rpy:433 #-#-# translate crowdin Quest2_AM_Talk04_7573b0d3:
 msgid "[_am_] Like... It's amazing to be in something so hot... "
-msgstr ""
+msgstr "[_am_] Типа... Удивительно быть с чем-то такими сексуальным... "
 
 # game/Cell01_AM.rpy:435 #-#-# translate crowdin Quest2_AM_Talk04_a4e42ee0:
 msgid "[_am_] And it's soft..."
-msgstr ""
+msgstr "[_am_] И мягкими..."
 
 # game/Cell01_AM.rpy:437 #-#-# translate crowdin Quest2_AM_Talk04_e2052bbf:
 msgid "[_am_] And it bounces back when I jump. It's amazing. "
-msgstr ""
+msgstr "[_am_] И они отскакивают, когда я подпрыгиваю. Это потрясающе. "
 
 # game/Cell01_AM.rpy:439 #-#-# translate crowdin Quest2_AM_Talk04_4323bdf1:
 msgid "[_am_] And then it has so many... interactivity. "
-msgstr ""
+msgstr "[_am_] И в них так много... интерактивности. "
 
 # game/Cell01_AM.rpy:441 #-#-# translate crowdin Quest2_AM_Talk04_0239da9b:
 msgid "[_am_] So many things to do with this... thing!"
