@@ -10,11 +10,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2024-03-01 18:11\n"
+"PO-Revision-Date: 2024-03-11 08:47\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_ArtDIVISION.rpy:151 #-#-# translate crowdin Cell01_ArtDIVISION_Menu01_ed0ef4ce:
 msgid "[_a_] Bonjour [name]!"
-msgstr ""
+msgstr "[_a_] Bonjour [name]!"
 
 # game/Cell01_ArtDIVISION.rpy:179 #-#-# translate crowdin Cell01_ArtDIVISION_Charaselect_LY_259e399c:
 msgid "[_u_] See you later!"
@@ -22,7 +22,7 @@ msgstr "Bis bald!"
 
 # game/Cell01_ArtDIVISION.rpy:181 #-#-# translate crowdin Cell01_ArtDIVISION_Charaselect_LY_d93ee3d6:
 msgid "[_ly_] See you [name]!"
-msgstr ""
+msgstr "[_ly_] Bis später [name]!"
 
 # game/Cell01_ArtDIVISION.rpy:192 #-#-# translate crowdin Cell01_ArtDIVISION_Charaselect_A_259e399c:
 msgid "[_u_] See you later!"
@@ -30,23 +30,23 @@ msgstr "Bis bald!"
 
 # game/Cell01_ArtDIVISION.rpy:194 #-#-# translate crowdin Cell01_ArtDIVISION_Charaselect_A_03428ad6:
 msgid "[_a_] See you soon [name]!"
-msgstr ""
+msgstr "[_a_] Bis bald [name]!"
 
 # game/Cell01_ArtDIVISION.rpy:214 #-#-# translate crowdin CHARA_A_MenuChoice_6184bf61:
 msgid "[_a_] No, not for now."
-msgstr ""
+msgstr "[_a_] Nein, im Moment nicht."
 
 # game/Cell01_ArtDIVISION.rpy:216 #-#-# translate crowdin CHARA_A_MenuChoice_fc846623:
 msgid "[_a_] Maybe later."
-msgstr ""
+msgstr "[_a_] Vielleicht später."
 
 # game/Cell01_ArtDIVISION.rpy:223 #-#-# translate crowdin CHARA_A_MenuChoice_6184bf61_1:
 msgid "[_a_] No, not for now."
-msgstr ""
+msgstr "[_a_] Nein, im Moment nicht."
 
 # game/Cell01_ArtDIVISION.rpy:225 #-#-# translate crowdin CHARA_A_MenuChoice_fc846623_1:
 msgid "[_a_] Maybe later."
-msgstr ""
+msgstr "[_a_] Vielleicht später."
 
 # game/Cell01_ArtDIVISION.rpy:272 #-#-# translate crowdin CHARA_A_MenuChoice_259e399c:
 msgid "[_u_] See you later!"
@@ -54,7 +54,7 @@ msgstr "Bis bald!"
 
 # game/Cell01_ArtDIVISION.rpy:274 #-#-# translate crowdin CHARA_A_MenuChoice_03428ad6:
 msgid "[_a_] See you soon [name]!"
-msgstr ""
+msgstr "[_a_] Bis bald [name]!"
 
 # game/Cell01_ArtDIVISION.rpy:284 #-#-# translate crowdin CHARA_A_ChangeClothesPanel_a8c52ae1:
 msgid "[_e_] No. Not today."
@@ -62,23 +62,23 @@ msgstr "Nein. Nicht heute."
 
 # game/Cell01_ArtDIVISION.rpy:287 #-#-# translate crowdin CHARA_A_ChangeClothesPanel_a6be5e3c:
 msgid "[_a_] Of course!"
-msgstr ""
+msgstr "[_a_] Natürlich!"
 
 # game/Cell01_ArtDIVISION.rpy:358 #-#-# translate crowdin CHARA_A_MenuTalk_FirstTime_dbf8a5ba:
 msgid "[_u_] Hey, excuse my curiosity but I have a question..."
-msgstr ""
+msgstr "[_u_] Hey, entschuldige meine Neugier, aber ich habe eine Frage..."
 
 # game/Cell01_ArtDIVISION.rpy:360 #-#-# translate crowdin CHARA_A_MenuTalk_FirstTime_03fafe5d:
 msgid "[_a_] Ahah yes I was expecting you to be curious ahah"
-msgstr ""
+msgstr "[_a_] Haha! Ja ich hatte erwartet, dass du neugierig bist. Haha"
 
 # game/Cell01_ArtDIVISION.rpy:362 #-#-# translate crowdin CHARA_A_MenuTalk_FirstTime_ae134974:
 msgid "[_a_] But I understand you. "
-msgstr ""
+msgstr "[_a_] Aber ich verstehe dich. "
 
 # game/Cell01_ArtDIVISION.rpy:364 #-#-# translate crowdin CHARA_A_MenuTalk_FirstTime_397e1faa:
 msgid "[_a_] If I had a colleague with her face on magazines that landed on such an isolated planet... "
-msgstr ""
+msgstr "[_a_] Wenn ich eine Kollegin mit ihrem Gesicht auf Zeitschriften hätte, die auf einem so isolierten Planeten gelandet ist... "
 
 # game/Cell01_ArtDIVISION.rpy:366 #-#-# translate crowdin CHARA_A_MenuTalk_FirstTime_8a42adfe:
 msgid "[_a_] I'll be surprised too."
@@ -3432,11 +3432,11 @@ msgstr ""
 
 # game/Cell01_ArtDIVISION.rpy:2668 #-#-# translate crowdin Quest_A_SW_01_05_menu1_6184bf61:
 msgid "[_a_] No, not for now."
-msgstr ""
+msgstr "[_a_] Nein, im Moment nicht."
 
 # game/Cell01_ArtDIVISION.rpy:2670 #-#-# translate crowdin Quest_A_SW_01_05_menu1_fc846623:
 msgid "[_a_] Maybe later."
-msgstr ""
+msgstr "[_a_] Vielleicht später."
 
 # game/Cell01_ArtDIVISION.rpy:2674 #-#-# translate crowdin Quest_A_SW_01_05_menu1_7886ac35:
 msgid "[_a_] Good idea."
