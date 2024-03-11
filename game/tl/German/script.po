@@ -10,63 +10,63 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2024-02-26 09:13\n"
+"PO-Revision-Date: 2024-03-11 08:47\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # §translate crowdin strings: #|#|# # game/script.rpy:935
 msgid "Changelog"
-msgstr ""
+msgstr "Änderungsverlauf"
 
 # game/script.rpy:940
 msgid "Changelog [config.version!t]\n"
-msgstr ""
+msgstr "Änderungsverlauf [config.version!t]\n"
 
 # game/script.rpy:946
 msgid "{size=20}{color=#797979}02/2023{/color}{/size}"
-msgstr ""
+msgstr "{size=20}{color=#797979}02/2023{/color}{/size}"
 
 # game/script.rpy:947
 msgid "-Main Quest"
-msgstr ""
+msgstr "-Hauptquest"
 
 # game/script.rpy:948
 msgid "-Characters Quests"
-msgstr ""
+msgstr "-Charakter Quests"
 
 # game/script.rpy:949
 msgid "-Bugfix"
-msgstr ""
+msgstr "-Bugfix"
 
 # game/script.rpy:951
 msgid "{size=20}{color=#797979}12/2023{/color}{/size}"
-msgstr ""
+msgstr "{size=20}{color=#797979}12/2023{/color}{/size}"
 
 # game/script.rpy:952
 msgid "-Small update"
-msgstr ""
+msgstr "-Kleines Update"
 
 # game/script.rpy:956
 msgid "{size=20}{color=#797979}11/2023{/color}{/size}"
-msgstr ""
+msgstr "{size=20}{color=#797979}11/2023{/color}{/size}"
 
 # game/script.rpy:957
 msgid "-BugFix"
-msgstr ""
+msgstr "-Fehlerbehebung"
 
 # game/script.rpy:960
 msgid "-New Main Quest"
-msgstr ""
+msgstr "-Neue Hauptquest"
 
 # game/script.rpy:962
 msgid "-New Characters"
-msgstr ""
+msgstr "-Neue Charaktere"
 
 # game/script.rpy:963
 msgid "-Lots of New Clothes"
-msgstr ""
+msgstr "-Viele neue Kleider"
 
 # game/script.rpy:965
 msgid "{size=20}{color=#797979}10/2023{/color}{/size}"
-msgstr ""
+msgstr "{size=20}{color=#797979}10/2023{/color}{/size}"
 
 # game/script.rpy:966
 msgid "-New Patreon Quest"
