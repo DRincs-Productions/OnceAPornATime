@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2024-02-26 09:11\n"
+"PO-Revision-Date: 2024-03-11 13:17\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_SZ.rpy:87 #-#-# translate crowdin CHARA_SZ_Menu01_af6c6a0a:
 msgid "[_sz_]  ... "
@@ -186,7 +186,7 @@ msgstr ""
 
 # game/Cell01_SZ.rpy:325 #-#-# translate crowdin Quest_SZ_Favor_Cape03_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_SZ.rpy:326 #-#-# translate crowdin Quest_SZ_Favor_Cape03_31f8daab:
 msgid "[_u_] I don't have any other idea I must confess."
@@ -742,7 +742,7 @@ msgstr ""
 
 # game/Cell01_SZ.rpy:655 #-#-# translate crowdin Quest_SZ_Favor_Dos02_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_SZ.rpy:657 #-#-# translate crowdin Quest_SZ_Favor_Dos02_7bf1fa42:
 msgid "[_sz_] Very well, it would be easier with a woman. "
@@ -1086,7 +1086,7 @@ msgstr ""
 
 # game/Cell01_SZ.rpy:835 #-#-# translate crowdin Quest_SZ_Favor_Talk_01_menu1_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_SZ.rpy:837 #-#-# translate crowdin Quest_SZ_Favor_Talk_01_menu1_2b40c0a7:
 msgid "[_gd_] I grant you another order and you keep your mouth shut, okay? "
@@ -1094,7 +1094,7 @@ msgstr ""
 
 # game/Cell01_SZ.rpy:838 #-#-# translate crowdin Quest_SZ_Favor_Talk_01_menu1_7b1c1392_1:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_SZ.rpy:839 #-#-# translate crowdin Quest_SZ_Favor_Talk_01_menu1_d89191f6:
 msgid "[_u_] I'm fine with that."
@@ -1434,7 +1434,7 @@ msgstr ""
 
 # game/Cell01_SZ.rpy:1110 #-#-# translate crowdin Quest_SZ_Favor_Dress_01_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_SZ.rpy:1111 #-#-# translate crowdin Quest_SZ_Favor_Dress_01_d4f3671c:
 msgid "[_u_] But where's your cleavage?!?"
@@ -1550,7 +1550,7 @@ msgstr ""
 
 # game/Cell01_SZ.rpy:1165 #-#-# translate crowdin Quest2_A_Talk03_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_SZ.rpy:1166 #-#-# translate crowdin Quest2_A_Talk03_04fe7ceb:
 msgid "[_u_] Ask to see boobs? "
@@ -2470,7 +2470,7 @@ msgstr ""
 
 # game/Cell01_SZ.rpy:1707 #-#-# translate crowdin Quest_SZ_Favor_Boobs_02_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_SZ.rpy:1716 #-#-# translate crowdin Quest_SZ_Favor_Boobs_02_13a0690c:
 msgid "[_sz_] Well, that's it..."
@@ -2638,7 +2638,7 @@ msgstr ""
 
 # game/Cell01_SZ.rpy:1818 #-#-# translate crowdin Quest_SZ_Favor_Boobs_02_menu1_P2_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_SZ.rpy:1819 #-#-# translate crowdin Quest_SZ_Favor_Boobs_02_menu1_P2_5d5ed54f:
 msgid "[_u_] Wow... so if you take off your hands... I take off your ''boob virginity''? "
@@ -2706,7 +2706,7 @@ msgstr ""
 
 # game/Cell01_SZ.rpy:1865 #-#-# translate crowdin Quest_SZ_App01_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_SZ.rpy:1866 #-#-# translate crowdin Quest_SZ_App01_39f1cfe4:
 msgid "[_u_] Wow we've got work to do."
@@ -2798,7 +2798,7 @@ msgstr ""
 
 # game/Cell01_SZ.rpy:1908 #-#-# translate crowdin Quest_SZ_App01_7b1c1392_1:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_SZ.rpy:1909 #-#-# translate crowdin Quest_SZ_App01_e7743dcf:
 msgid "[_u_] Great."
@@ -2842,7 +2842,7 @@ msgstr ""
 
 # game/Cell01_SZ.rpy:1933 #-#-# translate crowdin Quest_SZ_App01_7b1c1392_2:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_SZ.rpy:1934 #-#-# translate crowdin Quest_SZ_App01_e765f30d:
 msgid "[_u_] Yes. Expose your shoulders."
@@ -3066,7 +3066,7 @@ msgstr ""
 
 # game/Cell01_SZ.rpy:2089 #-#-# translate crowdin Quest_SZ_Favor_Dos03_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_SZ.rpy:2090 #-#-# translate crowdin Quest_SZ_Favor_Dos03_16209919:
 msgid "[_u_] How much generously?"
@@ -3138,7 +3138,7 @@ msgstr ""
 
 # game/Cell01_SZ.rpy:2142 #-#-# translate crowdin Quest_SZ_Favor_Dos03_7b1c1392_1:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_SZ.rpy:2143 #-#-# translate crowdin Quest_SZ_Favor_Dos03_dcfe7980:
 msgid "[_u_] You could have created a fake one. "
@@ -3210,7 +3210,7 @@ msgstr ""
 
 # game/Cell01_SZ.rpy:2181 #-#-# translate crowdin Quest_SZ_Favor_Dos04_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_SZ.rpy:2183 #-#-# translate crowdin Quest_SZ_Favor_Dos04_710a002b:
 msgid "[_sz_] Oh no... "
@@ -3322,7 +3322,7 @@ msgstr ""
 
 # game/Cell01_SZ.rpy:2244 #-#-# translate crowdin Quest_SZ_SultanaEnd01_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_SZ.rpy:2246 #-#-# translate crowdin Quest_SZ_SultanaEnd01_a7320542:
 msgid "[_sz_] I won't say more. "
@@ -3530,7 +3530,7 @@ msgstr ""
 
 # game/Cell01_SZ.rpy:2372 #-#-# translate crowdin Quest_SZ_SultanaEnd01_7b1c1392_1:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_SZ.rpy:2373 #-#-# translate crowdin Quest_SZ_SultanaEnd01_84284a0b:
 msgid "[_u_] Yes uh... wait just a second."
@@ -3546,7 +3546,7 @@ msgstr ""
 
 # game/Cell01_SZ.rpy:2384 #-#-# translate crowdin Quest_SZ_SultanaEnd01_7b1c1392_2:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_SZ.rpy:2385 #-#-# translate crowdin Quest_SZ_SultanaEnd01_b624f060:
 msgid "[_u_] Umh... "
@@ -3562,7 +3562,7 @@ msgstr ""
 
 # game/Cell01_SZ.rpy:2394 #-#-# translate crowdin Quest_SZ_SultanaEnd01_7b1c1392_3:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_SZ.rpy:2396 #-#-# translate crowdin Quest_SZ_SultanaEnd01_b470b368:
 msgid "[_vns_] What are you doing? "
@@ -3906,7 +3906,7 @@ msgstr ""
 
 # game/Cell01_SZ.rpy:2678 #-#-# translate crowdin QuestChap2_Amandine02_06_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_SZ.rpy:2679 #-#-# translate crowdin QuestChap2_Amandine02_06_27f2c38c:
 msgid "[_u_] The place looks almost empty... "
@@ -4230,7 +4230,7 @@ msgstr ""
 
 # game/Cell01_SZ.rpy:2904 #-#-# translate crowdin QuestChap2_Jasmine01_02_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_SZ.rpy:2906 #-#-# translate crowdin QuestChap2_Jasmine01_02_951aa1d9:
 msgid "[_sz_] If you really think you can handle her, please do it! "
@@ -4250,7 +4250,7 @@ msgstr ""
 
 # game/Cell01_SZ.rpy:2912 #-#-# translate crowdin QuestChap2_Jasmine01_02_7b1c1392_1:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_SZ.rpy:2913 #-#-# translate crowdin QuestChap2_Jasmine01_02_9f4bc457:
 msgid "[_u_] Challenge accepted!"
@@ -4450,7 +4450,7 @@ msgstr ""
 
 # game/Cell01_SZ.rpy:3093 #-#-# translate crowdin QuestChap2_Jasmine01_02_7b1c1392_2:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_SZ.rpy:3094 #-#-# translate crowdin QuestChap2_Jasmine01_02_a0b76974:
 msgid "[_u_] Alright..."
@@ -4530,7 +4530,7 @@ msgstr ""
 
 # game/Cell01_SZ.rpy:3141 #-#-# translate crowdin QuestChap2_Jasmine01_02_7b1c1392_3:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_SZ.rpy:3143 #-#-# translate crowdin QuestChap2_Jasmine01_02_82145906:
 msgid "[_u_] Wow.... you don't mince words. "
@@ -4558,7 +4558,7 @@ msgstr ""
 
 # game/Cell01_SZ.rpy:3168 #-#-# translate crowdin QuestChap2_Jasmine01_02_7b1c1392_4:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_SZ.rpy:3180 #-#-# translate crowdin QuestChap2_Jasmine01_02_menu01_P1_059b28d4:
 msgid "[_jm_] Not the kind of princess Sherazade would want me to be..."
@@ -4638,7 +4638,7 @@ msgstr ""
 
 # game/Cell01_SZ.rpy:3224 #-#-# translate crowdin QuestChap2_Jasmine01_02_menu01_P2_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_SZ.rpy:3225 #-#-# translate crowdin QuestChap2_Jasmine01_02_menu01_P2_7ebb5d84:
 msgid "[_u_] All right, it's your call."
@@ -4794,7 +4794,7 @@ msgstr ""
 
 # game/Cell01_SZ.rpy:3335 #-#-# translate crowdin QuestChap2_LyStart_E_03_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_SZ.rpy:3336 #-#-# translate crowdin QuestChap2_LyStart_E_03_240ac916:
 msgid "[_u_] Damn it. "
@@ -4854,7 +4854,7 @@ msgstr ""
 
 # game/Cell01_SZ.rpy:3373 #-#-# translate crowdin QuestChap2_LyStart_E_03_P1_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_SZ.rpy:3378 #-#-# translate crowdin QuestChap2_LyStart_E_03_P1_dcd27497:
 msgid "[_sz_] You should. "
@@ -4934,7 +4934,7 @@ msgstr ""
 
 # game/Cell01_SZ.rpy:3422 #-#-# translate crowdin QuestChap2_LyStart_E_03_P1_7b1c1392_1:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_SZ.rpy:3424 #-#-# translate crowdin QuestChap2_LyStart_E_03_P1_9c6b2614:
 msgid "[_sz_] Maybe they're a little afraid of me too. "
@@ -5590,7 +5590,7 @@ msgstr ""
 
 # game/Cell01_SZ.rpy:3874 #-#-# translate crowdin Quest_SZ_AskReputation_01_menu1_P1_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_SZ.rpy:3875 #-#-# translate crowdin Quest_SZ_AskReputation_01_menu1_P1_61a4cbe5:
 msgid "[_u_] Jennifer?"
@@ -5606,7 +5606,7 @@ msgstr ""
 
 # game/Cell01_SZ.rpy:3879 #-#-# translate crowdin Quest_SZ_AskReputation_01_menu1_P1_7b1c1392_1:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_SZ.rpy:3880 #-#-# translate crowdin Quest_SZ_AskReputation_01_menu1_P1_b5c39b65:
 msgid "[_u_] Tomboy?"
@@ -5634,7 +5634,7 @@ msgstr ""
 
 # game/Cell01_SZ.rpy:3898 #-#-# translate crowdin Quest_SZ_AskReputation_01_menu1_P2_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_SZ.rpy:3900 #-#-# translate crowdin Quest_SZ_AskReputation_01_menu1_P2_14468588:
 msgid "[_u_] I would have said you were... 18. No older. "
@@ -5722,7 +5722,7 @@ msgstr ""
 
 # game/Cell01_SZ.rpy:3951 #-#-# translate crowdin Quest_SZ_AskReputation_01_menu1_P3_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_SZ.rpy:3953 #-#-# translate crowdin Quest_SZ_AskReputation_01_menu1_P3_505a3f68:
 msgid "[_u_] Yeah."
@@ -5770,7 +5770,7 @@ msgstr ""
 
 # game/Cell01_SZ.rpy:3984 #-#-# translate crowdin Quest_SZ_AskReputation_01_menu1_P3_7b1c1392_1:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_SZ.rpy:3985 #-#-# translate crowdin Quest_SZ_AskReputation_01_menu1_P3_620c6559:
 msgid "[_u_] An easy corruption for once wouldn't be unwelcome. "
@@ -5942,7 +5942,7 @@ msgstr ""
 
 # game/Cell01_SZ.rpy:4127 #-#-# translate crowdin Quest_SZ_AskReputation_01_menu2_P3_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_SZ.rpy:4128 #-#-# translate crowdin Quest_SZ_AskReputation_01_menu2_P3_eb03e3db:
 msgid "[_u_] What do you think of Sherazade?"
@@ -6202,7 +6202,7 @@ msgstr ""
 
 # game/Cell01_SZ.rpy:4256 #-#-# translate crowdin Quest_SZ_AskReputation_02_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_SZ.rpy:4257 #-#-# translate crowdin Quest_SZ_AskReputation_02_b560db37:
 msgid "[_u_] You want to rule by terror?"
@@ -6326,7 +6326,7 @@ msgstr ""
 
 # game/Cell01_SZ.rpy:4322 #-#-# translate crowdin ML_SherazadeClothes01_05_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_SZ.rpy:4324 #-#-# translate crowdin ML_SherazadeClothes01_05_97fdf8f3:
 msgid "[_sz_] And no, I won't expose my breasts to you. "
@@ -6354,7 +6354,7 @@ msgstr ""
 
 # game/Cell01_SZ.rpy:4333 #-#-# translate crowdin ML_SherazadeClothes01_05_7b1c1392_1:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_SZ.rpy:4334 #-#-# translate crowdin ML_SherazadeClothes01_05_8e422f8f:
 msgid "[_u_] Wait... she wouldn't..."
@@ -6370,7 +6370,7 @@ msgstr ""
 
 # game/Cell01_SZ.rpy:4346 #-#-# translate crowdin ML_SherazadeClothes01_05_7b1c1392_2:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_SZ.rpy:4348 #-#-# translate crowdin ML_SherazadeClothes01_05_4793e876:
 msgid "[_ly_] I just needed to get her dress, put it in the machine scanner and... "
@@ -6822,7 +6822,7 @@ msgstr ""
 
 # game/Cell01_SZ.rpy:4622 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_07_menu1_P3_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_SZ.rpy:4623 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_07_menu1_P3_1578c7b1:
 msgid "[_u_] They must be absolutely perfect for a footjob... "
@@ -7078,7 +7078,7 @@ msgstr ""
 
 # game/Cell01_SZ.rpy:4773 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_07_menu1_P4_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_SZ.rpy:4774 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_07_menu1_P4_3c935ae3_5:
 msgid "[_sz_] ..."
@@ -7186,7 +7186,7 @@ msgstr ""
 
 # game/Cell01_SZ.rpy:4852 #-#-# translate crowdin Sherazade04_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_SZ.rpy:4853 #-#-# translate crowdin Sherazade04_4db8f634:
 msgid "[_u_] And then you wonder why people don't like you..."
@@ -7262,7 +7262,7 @@ msgstr ""
 
 # game/Cell01_SZ.rpy:4924 #-#-# translate crowdin Sherazade04_7b1c1392_1:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_SZ.rpy:4925 #-#-# translate crowdin Sherazade04_32e9cd19:
 msgid "[_u_] Okay... I think this is a good time to teach you something. "
@@ -7302,7 +7302,7 @@ msgstr ""
 
 # game/Cell01_SZ.rpy:4939 #-#-# translate crowdin Sherazade04_7b1c1392_2:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_SZ.rpy:4941 #-#-# translate crowdin Sherazade04_1ffbc7d4:
 msgid "[_sz_] Not with my right hand, anyway."
@@ -7314,7 +7314,7 @@ msgstr ""
 
 # game/Cell01_SZ.rpy:4944 #-#-# translate crowdin Sherazade04_7b1c1392_3:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_SZ.rpy:4945 #-#-# translate crowdin Sherazade04_11471377:
 msgid "[_u_] I'm fine with that. "
@@ -7362,7 +7362,7 @@ msgstr ""
 
 # game/Cell01_SZ.rpy:4972 #-#-# translate crowdin Sherazade04_7b1c1392_4:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_SZ.rpy:4974 #-#-# translate crowdin Sherazade04_d2d908b8:
 msgid "[_sz_] Or... do it respectfully."
@@ -7370,7 +7370,7 @@ msgstr ""
 
 # game/Cell01_SZ.rpy:4975 #-#-# translate crowdin Sherazade04_7b1c1392_5:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_SZ.rpy:4976 #-#-# translate crowdin Sherazade04_39d73d9f:
 msgid "[_u_] Good idea, I'll do that. "
@@ -7406,7 +7406,7 @@ msgstr ""
 
 # game/Cell01_SZ.rpy:4995 #-#-# translate crowdin Sherazade04_7b1c1392_6:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_SZ.rpy:4996 #-#-# translate crowdin Sherazade04_3edde9fe:
 msgid "[_u_] Yes."
@@ -7498,7 +7498,7 @@ msgstr ""
 
 # game/Cell01_SZ.rpy:5047 #-#-# translate crowdin Sherazade04_7b1c1392_7:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_SZ.rpy:5049 #-#-# translate crowdin Sherazade04_45a0f456:
 msgid "[_u_] You sure about that ?"
