@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2024-03-11 14:16\n"
+"PO-Revision-Date: 2024-03-11 15:21\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Intro01.rpy:64 #-#-# translate crowdin Intro01_93eeba4f:
 msgid "[_tb_] Greetings!"
@@ -794,47 +794,47 @@ msgstr "[_vn_s_] Ты, жалкий червь..."
 
 # game/Intro01.rpy:1050 #-#-# translate crowdin LycoPrison_menu01_c35ec58f:
 msgid "[_vn_s_] I am the sultana of this land now."
-msgstr ""
+msgstr "[_vn_s_] Я теперь Султана этих земель."
 
 # game/Intro01.rpy:1052 #-#-# translate crowdin LycoPrison_menu01_5f328547:
 msgid "[_vns_] And you will be my captive for eternity for having dared to defy me, you insolent human."
-msgstr ""
+msgstr "[_vns_] И ты навечно останешься в моём плену за то, что посмел бросить мне вызов, ты, высокомерный человечишка."
 
 # game/Intro01.rpy:1053 #-#-# translate crowdin LycoPrison_menu01_e920e222:
 msgid "[_u_] You are the one who accepted a challenge."
-msgstr ""
+msgstr "[_u_] Принять вызов было твоей идеей."
 
 # game/Intro01.rpy:1055 #-#-# translate crowdin LycoPrison_menu01_f337cc49:
 msgid "[_u_] You just don't assume you've lost."
-msgstr ""
+msgstr "[_u_] А вот принять поражение у тебя не получается."
 
 # game/Intro01.rpy:1057 #-#-# translate crowdin LycoPrison_menu01_887cbb53:
 msgid "[_vns_] I hope you had a pleasant month here."
-msgstr ""
+msgstr "[_vns_] Надеюсь месяц прошёл приятно."
 
 # game/Intro01.rpy:1059 #-#-# translate crowdin LycoPrison_menu01_1f6bea09:
 msgid "[_vns_] Because you will be in this cell for a long time."
-msgstr ""
+msgstr "[_vns_] Поскольку сидеть в этой камере ты будешь ещё долго."
 
 # game/Intro01.rpy:1060 #-#-# translate crowdin LycoPrison_menu01_e5a45ba2:
 msgid "[_u_] I'm sure I'll make it out of here. "
-msgstr ""
+msgstr "[_u_] Я уверен, что выберусь отсюда. "
 
 # game/Intro01.rpy:1062 #-#-# translate crowdin LycoPrison_menu01_2929755d:
 msgid "[_u_] Do you want to bet on something? "
-msgstr ""
+msgstr "[_u_] Желаешь на что-нибудь поспорить? "
 
 # game/Intro01.rpy:1064 #-#-# translate crowdin LycoPrison_menu01_8ae2f861:
 msgid "[_vns_] Your words will not change anything, human."
-msgstr ""
+msgstr "[_vns_] Твои слова ничего не изменят, человек."
 
 # game/Intro01.rpy:1075 #-#-# translate crowdin LycoPrison_menu01_caa6e715:
 msgid "[_vns_] You will end your days in this cell."
-msgstr ""
+msgstr "[_vns_] Свои последние дни ты проведёшь за этой решёткой."
 
 # game/Intro01.rpy:1086 #-#-# translate crowdin LycoPrison_menu01_b162194b:
 msgid "[_u_] I'm not sure about that."
-msgstr ""
+msgstr "[_u_] Я бы не был так уверен."
 
 # game/Intro01.rpy:1104 #-#-# translate crowdin LycoPrison_menu01_911d1bec_1:
 msgid "[_u_] Lyco?... "
@@ -882,95 +882,95 @@ msgstr "[_vn_s_] Ты, жалкий червь..."
 
 # game/Intro01.rpy:1153 #-#-# translate crowdin LycoPrison_menu01_c35ec58f_1:
 msgid "[_vn_s_] I am the sultana of this land now."
-msgstr ""
+msgstr "[_vn_s_] Я теперь Султана этих земель."
 
 # game/Intro01.rpy:1155 #-#-# translate crowdin LycoPrison_menu01_5f328547_1:
 msgid "[_vns_] And you will be my captive for eternity for having dared to defy me, you insolent human."
-msgstr ""
+msgstr "[_vns_] И ты навечно останешься в моём плену за то, что посмел бросить мне вызов, ты, высокомерный человечишка."
 
 # game/Intro01.rpy:1156 #-#-# translate crowdin LycoPrison_menu01_e920e222_1:
 msgid "[_u_] You are the one who accepted a challenge."
-msgstr ""
+msgstr "[_u_] Принять вызов было твоей идеей."
 
 # game/Intro01.rpy:1158 #-#-# translate crowdin LycoPrison_menu01_f337cc49_1:
 msgid "[_u_] You just don't assume you've lost."
-msgstr ""
+msgstr "[_u_] А вот принять поражение у тебя не получается."
 
 # game/Intro01.rpy:1160 #-#-# translate crowdin LycoPrison_menu01_887cbb53_1:
 msgid "[_vns_] I hope you had a pleasant month here."
-msgstr ""
+msgstr "[_vns_] Надеюсь месяц прошёл приятно."
 
 # game/Intro01.rpy:1162 #-#-# translate crowdin LycoPrison_menu01_1f6bea09_1:
 msgid "[_vns_] Because you will be in this cell for a long time."
-msgstr ""
+msgstr "[_vns_] Поскольку сидеть в этой камере ты будешь ещё долго."
 
 # game/Intro01.rpy:1163 #-#-# translate crowdin LycoPrison_menu01_e5a45ba2_1:
 msgid "[_u_] I'm sure I'll make it out of here. "
-msgstr ""
+msgstr "[_u_] Я уверен, что выберусь отсюда. "
 
 # game/Intro01.rpy:1165 #-#-# translate crowdin LycoPrison_menu01_2929755d_1:
 msgid "[_u_] Do you want to bet on something? "
-msgstr ""
+msgstr "[_u_] Желаешь на что-нибудь поспорить? "
 
 # game/Intro01.rpy:1167 #-#-# translate crowdin LycoPrison_menu01_8ae2f861_1:
 msgid "[_vns_] Your words will not change anything, human."
-msgstr ""
+msgstr "[_vns_] Твои слова ничего не изменят, человек."
 
 # game/Intro01.rpy:1178 #-#-# translate crowdin LycoPrison_menu01_caa6e715_1:
 msgid "[_vns_] You will end your days in this cell."
-msgstr ""
+msgstr "[_vns_] Свои последние дни ты проведёшь за этой решёткой."
 
 # game/Intro01.rpy:1189 #-#-# translate crowdin LycoPrison_menu01_b162194b_1:
 msgid "[_u_] I'm not sure about that."
-msgstr ""
+msgstr "[_u_] Я бы не был так уверен."
 
 # game/Intro01.rpy:1215 #-#-# translate crowdin LycoPrison_menu01_115726f9:
 msgid "[_ly_] I saw your eye sticking out of a hole in the wall there. So funny. "
-msgstr ""
+msgstr "[_ly_] Я видела, как твой глаз выглядывает из той дырки в стене, так забавно. "
 
 # game/Intro01.rpy:1217 #-#-# translate crowdin LycoPrison_menu01_f5c20d51:
 msgid "[_ly_] I guess you heard it all? "
-msgstr ""
+msgstr "[_ly_] Думаю, ты всё и сам слышал? "
 
 # game/Intro01.rpy:1218 #-#-# translate crowdin LycoPrison_menu01_e1903859:
 msgid "[_u_] Yeah, explain to me, what's going on? "
-msgstr ""
+msgstr "[_u_] Да, объяснишь мне, что происходит? "
 
 # game/Intro01.rpy:1220 #-#-# translate crowdin LycoPrison_menu01_937aac4a:
 msgid "[_ly_] This is just between us but... "
-msgstr ""
+msgstr "[_ly_] Но это только между нами... "
 
 # game/Intro01.rpy:1222 #-#-# translate crowdin LycoPrison_menu01_8a3221f8:
 msgid "[_ly_] We're trying to get her majesty back in control of her kingdom. "
-msgstr ""
+msgstr "[_ly_] Мы пытаемся вернуть Её Величеству контроль над королевством. "
 
 # game/Intro01.rpy:1223 #-#-# translate crowdin LycoPrison_menu01_50271608:
 msgid "[_u_] ''Her majesty''? The chick I saw from behind? "
-msgstr ""
+msgstr "[_u_] ''Её Величество''? Леди, которую мне довелось видеть со спины? "
 
 # game/Intro01.rpy:1225 #-#-# translate crowdin LycoPrison_menu01_3491292f:
 msgid "[_ly_] Yeah, and anyway, we need to find a key."
-msgstr ""
+msgstr "[_ly_] Да, и в любом случае, нам нужно найти ключ."
 
 # game/Intro01.rpy:1226 #-#-# translate crowdin LycoPrison_menu01_ad50b5f9:
 msgid "[_u_] And do you have any idea where it is? "
-msgstr ""
+msgstr "[_u_] Какие-то мысли насчёт того, где он может быть? "
 
 # game/Intro01.rpy:1228 #-#-# translate crowdin LycoPrison_menu01_2cf932ca:
 msgid "[_ly_] None for now."
-msgstr ""
+msgstr "[_ly_] Пока никаких."
 
 # game/Intro01.rpy:1229 #-#-# translate crowdin LycoPrison_menu01_448f582a:
 msgid "[_u_] Pff..."
-msgstr ""
+msgstr "[_u_] Пфф..."
 
 # game/Intro01.rpy:1231 #-#-# translate crowdin LycoPrison_menu01_e1d67500:
 msgid "[_ly_] But then again, if your friends come and get you first, we'll all escape!"
-msgstr ""
+msgstr "[_ly_] Но опять же, если твои друзья заберут нас отсюда раньше, то мы сбежим!"
 
 # game/Intro01.rpy:1233 #-#-# translate crowdin LycoPrison_menu01_eff3aa3d:
 msgid "[_ly_] And no more key problems!"
-msgstr ""
+msgstr "[_ly_] И никаких больше проблем с ключами!"
 
 # game/Intro01.rpy:1235 #-#-# translate crowdin LycoPrison_menu01_93adb657:
 msgid "[_u_] Yeah... "
@@ -978,7 +978,7 @@ msgstr ""
 
 # game/Intro01.rpy:1236 #-#-# translate crowdin LycoPrison_menu01_ddaa3e98:
 msgid "[_u_] I hope they're on their way."
-msgstr ""
+msgstr "[_u_] Надеюсь, они уже в пути."
 
 # game/Intro01.rpy:1237 #-#-# translate crowdin LycoPrison_menu01_7b1c1392:
 msgid "[_u_] ..."
@@ -986,47 +986,47 @@ msgstr "[_u_] ..."
 
 # game/Intro01.rpy:1240 #-#-# translate crowdin LycoPrison_menu01_26f67099:
 msgid "[_ly_] Hello again, Mr. Prisoner. "
-msgstr ""
+msgstr "[_ly_] И снова здравствуйте, Господин Узник. "
 
 # game/Intro01.rpy:1250 #-#-# translate crowdin LycoPrison_menu01_01_c09c2ecc:
 msgid "[_u_] I never told you this but, your horns are so cute. "
-msgstr ""
+msgstr "[_u_] Я никогда этого не говорил, но у тебя очень милые рожки. "
 
 # game/Intro01.rpy:1252 #-#-# translate crowdin LycoPrison_menu01_01_4c7a2b7b:
 msgid "[_ly_] Is that a true compliment?"
-msgstr ""
+msgstr "[_ly_] Это искренний комплимент?"
 
 # game/Intro01.rpy:1254 #-#-# translate crowdin LycoPrison_menu01_01_f764e674:
 msgid "[_ly_] Or are you trying to charm me for some other reason, darling? "
-msgstr ""
+msgstr "[_ly_] Или ты пытаешься меня очаровать с какой-то корыстной целью, мой хороший? "
 
 # game/Intro01.rpy:1256 #-#-# translate crowdin LycoPrison_menu01_01_d7298149:
 msgid "[_ly_] Because I warn you, I have no idea how to get you out of this cage! "
-msgstr ""
+msgstr "[_ly_] Предупреждаю сразу, я понятия не имею как выбраться из этой клетки! "
 
 # game/Intro01.rpy:1257 #-#-# translate crowdin LycoPrison_menu01_01_eef90ef6:
 msgid "[_u_] No, it was a real compliment!"
-msgstr ""
+msgstr "[_u_] Нет, это искренний комплимент!"
 
 # game/Intro01.rpy:1259 #-#-# translate crowdin LycoPrison_menu01_01_b5f258ed:
 msgid "[_u_] I've never seen anyone wear horns so well!"
-msgstr ""
+msgstr "[_u_] Никогда не видел, чтобы кто-то так хорошо носил рога!"
 
 # game/Intro01.rpy:1261 #-#-# translate crowdin LycoPrison_menu01_01_f269facd:
 msgid "[_ly_] Ahah it's been a long time since I've been courted!"
-msgstr ""
+msgstr "[_ly_] Ахах, прошло немало времени с тех пор, как за мной ухаживали!"
 
 # game/Intro01.rpy:1263 #-#-# translate crowdin LycoPrison_menu01_01_796d2852:
 msgid "[_ly_] It's not unpleasant."
-msgstr ""
+msgstr "[_ly_] Это не неприятно."
 
 # game/Intro01.rpy:1265 #-#-# translate crowdin LycoPrison_menu01_01_cbc1fb54:
 msgid "[_ly_] I mean... I wish you were more... dressed up."
-msgstr ""
+msgstr "[_ly_] В смысле... Хотелось бы чтобы ты был чуть более... ухоженный."
 
 # game/Intro01.rpy:1267 #-#-# translate crowdin LycoPrison_menu01_01_8a61b626:
 msgid "[_ly_] But I'm pretty sure... with a nice tunic... and combed hair... "
-msgstr ""
+msgstr "[_ly_] Но я уверена... В красивом мундире... И расчёсанными волосами..."
 
 # game/Intro01.rpy:1269 #-#-# translate crowdin LycoPrison_menu01_01_06afe233:
 msgid "[_ly_] Mh..."
@@ -1034,7 +1034,7 @@ msgstr ""
 
 # game/Intro01.rpy:1271 #-#-# translate crowdin LycoPrison_menu01_01_6b63d8dc:
 msgid "[_ly_] Yeah that could do it. "
-msgstr ""
+msgstr "[_ly_] Да, пожалуй, сойдёт. "
 
 # game/Intro01.rpy:1272 #-#-# translate crowdin LycoPrison_menu01_01_7b1c1392:
 msgid "[_u_] ..."
@@ -1042,7 +1042,7 @@ msgstr "[_u_] ..."
 
 # game/Intro01.rpy:1274 #-#-# translate crowdin LycoPrison_menu01_01_70af0d81:
 msgid "[_ly_] I will come back tomorrow, I promise. "
-msgstr ""
+msgstr "[_ly_] Я завтра вернусь, обещаю. "
 
 # game/Intro01.rpy:1276 #-#-# translate crowdin LycoPrison_menu01_01_47e8ea2e:
 msgid "[_ly_] See ya!"
@@ -1050,11 +1050,11 @@ msgstr ""
 
 # game/Intro01.rpy:1293 #-#-# translate crowdin LycoPrison_menu01_01_2af41fd2:
 msgid "[_u_] Hey! So uh... I was wondering... "
-msgstr ""
+msgstr "[_u_] Слушай! Знаешь... Я тут подумал... "
 
 # game/Intro01.rpy:1295 #-#-# translate crowdin LycoPrison_menu01_01_89f8a454:
 msgid "[_ly_] Tell me everything. What were you wondering about? "
-msgstr ""
+msgstr "[_ly_] Не стесняйся, рассказывай, что тебя беспокоит? "
 
 # game/Intro01.rpy:1296 #-#-# translate crowdin LycoPrison_menu01_01_d55a56e4:
 msgid "[_u_] I..."
@@ -1066,7 +1066,7 @@ msgstr "[_u_] ..."
 
 # game/Intro01.rpy:1298 #-#-# translate crowdin LycoPrison_menu01_01_73d004ea:
 msgid "[_u_] Can I see your boobs?"
-msgstr ""
+msgstr "[_u_] Можешь показать мне сиськи?"
 
 # game/Intro01.rpy:1300 #-#-# translate crowdin LycoPrison_menu01_01_8cb06f46:
 msgid "[_ly_] ?"
@@ -1074,15 +1074,15 @@ msgstr ""
 
 # game/Intro01.rpy:1302 #-#-# translate crowdin LycoPrison_menu01_01_87a52c01:
 msgid "[_ly_] I wasn't expecting this! Ahah"
-msgstr ""
+msgstr "[_ly_] Такого я не ожидала! Ахах"
 
 # game/Intro01.rpy:1304 #-#-# translate crowdin LycoPrison_menu01_01_40edbfd5:
 msgid "[_ly_] I am not against this idea..."
-msgstr ""
+msgstr "[_ly_] Не сказала бы, что я против..."
 
 # game/Intro01.rpy:1306 #-#-# translate crowdin LycoPrison_menu01_01_54e196fc:
 msgid "[_ly_] And I guess it wouldn't hurt you to have something to fantasize about... "
-msgstr ""
+msgstr "[_ly_] Да и думаю, тебе не помешает, если будет о чём пофантазировать... "
 
 # game/Intro01.rpy:1308 #-#-# translate crowdin LycoPrison_menu01_01_583a35f1:
 msgid "[_ly_] Especially after all this time in this cage... "
