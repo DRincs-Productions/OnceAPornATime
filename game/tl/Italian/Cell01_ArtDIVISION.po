@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2024-03-11 13:17\n"
+"PO-Revision-Date: 2024-03-11 16:40\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_ArtDIVISION.rpy:151 #-#-# translate crowdin Cell01_ArtDIVISION_Menu01_ed0ef4ce:
 msgid "[_a_] Bonjour [name]!"
@@ -2920,7 +2920,7 @@ msgstr ""
 
 # game/Cell01_ArtDIVISION.rpy:2306 #-#-# translate crowdin Quest_JM_Favor_Ask2_Amandine_menu2_P2e_86b59053:
 msgid "[_u_] Ok great, only [Quest_JM_Favor_Ask2_Number] more employees to question."
-msgstr ""
+msgstr "[_u_] Ok grande, solo altri [Quest_JM_Favor_Ask2_Number] dipendenti da intervistare."
 
 # game/Cell01_ArtDIVISION.rpy:2312 #-#-# translate crowdin Quest_JM_Favor_Ask2_Amandine_menu2_P2e_9ba43681:
 msgid "[_a_] Do you need anything else?"
