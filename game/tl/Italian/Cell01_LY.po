@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2024-03-11 10:22\n"
+"PO-Revision-Date: 2024-03-11 13:17\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_LY.rpy:80 #-#-# translate crowdin Cell01_LY_QuestActivations_d1d09770:
 msgid "[_ly_] Hi cutie."
@@ -262,7 +262,7 @@ msgstr ""
 
 # game/Cell01_LY.rpy:452 #-#-# translate crowdin Quest2_LY_Talk01_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_LY.rpy:454 #-#-# translate crowdin Quest2_LY_Talk01_7b649b32:
 msgid "[_ly_] What?"
@@ -354,7 +354,7 @@ msgstr ""
 
 # game/Cell01_LY.rpy:512 #-#-# translate crowdin Quest2_LY_Talk02_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_LY.rpy:513 #-#-# translate crowdin Quest2_LY_Talk02_ee01f9b9:
 msgid "[_u_] Thanks."
@@ -410,7 +410,7 @@ msgstr ""
 
 # game/Cell01_LY.rpy:542 #-#-# translate crowdin Quest2_LY_Talk03_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_LY.rpy:544 #-#-# translate crowdin Quest2_LY_Talk03_8e6b6c83:
 msgid "[_ly_] Sorry, I'm just teasing! Eheh..."
@@ -638,7 +638,7 @@ msgstr ""
 
 # game/Cell01_LY.rpy:671 #-#-# translate crowdin Quest2_LY_Talk04_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_LY.rpy:673 #-#-# translate crowdin Quest2_LY_Talk04_4437b386:
 msgid "[_ly_] My hair's a mess and I'm making funny faces. "
@@ -654,7 +654,7 @@ msgstr ""
 
 # game/Cell01_LY.rpy:677 #-#-# translate crowdin Quest2_LY_Talk04_7b1c1392_1:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_LY.rpy:678 #-#-# translate crowdin Quest2_LY_Talk04_6c3c53b8:
 msgid "[_u_] Yet?"
@@ -882,7 +882,7 @@ msgstr ""
 
 # game/Cell01_LY.rpy:791 #-#-# translate crowdin Quest2_LY_TalkRetake01_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_LY.rpy:793 #-#-# translate crowdin Quest2_LY_TalkRetake01_6d250af1:
 msgid "[_ly_] I'm just teasing you!"
@@ -1342,7 +1342,7 @@ msgstr ""
 
 # game/Cell01_LY.rpy:1045 #-#-# translate crowdin QuestChap2_LyStart_E_05_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_LY.rpy:1055 #-#-# translate crowdin QuestChap2_LyStart_E_05_menu1_P1_6e3895e0:
 msgid "[_u_] What do you want to do with it? "
@@ -1366,7 +1366,7 @@ msgstr ""
 
 # game/Cell01_LY.rpy:1064 #-#-# translate crowdin QuestChap2_LyStart_E_05_menu1_P1_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_LY.rpy:1066 #-#-# translate crowdin QuestChap2_LyStart_E_05_menu1_P1_2e4b0d18:
 msgid "[_ly_] Very useful. "
@@ -1510,7 +1510,7 @@ msgstr ""
 
 # game/Cell01_LY.rpy:1164 #-#-# translate crowdin QuestChap2_Jasmine01_03_menu01_P1_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_LY.rpy:1165 #-#-# translate crowdin QuestChap2_Jasmine01_03_menu01_P1_ec9c149e:
 msgid "[_u_] Do you want to..."
@@ -1686,7 +1686,7 @@ msgstr ""
 
 # game/Cell01_LY.rpy:1293 #-#-# translate crowdin QuestChap2_LySZ_ClothesQuest01_02_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_LY.rpy:1299 #-#-# translate crowdin QuestChap2_LySZ_ClothesQuest01_02_5ae7d05c:
 msgid "[_a_] Hi! If you're looking for Lycoris, I think she's gone for a shower. "
@@ -2454,7 +2454,7 @@ msgstr ""
 
 # game/Cell01_LY.rpy:1917 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_03_menu3_P4_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_LY.rpy:1918 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_03_menu3_P4_b610b55c:
 msgid "[_u_] Are you kidding?"
@@ -2646,7 +2646,7 @@ msgstr ""
 
 # game/Cell01_LY.rpy:2060 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_03_menu3_P8_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_LY.rpy:2063 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_03_menu3_P8_41c17e8b:
 msgid "[_ly_] Let's just say that... it's not the kind of thing you can show in public either. "
@@ -2846,7 +2846,7 @@ msgstr ""
 
 # game/Cell01_LY.rpy:2227 #-#-# translate crowdin Quest_A_SW_01_04_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_LY.rpy:2229 #-#-# translate crowdin Quest_A_SW_01_04_66965dc4:
 msgid "[_ly_] It should be ready to be created in your machine soon!"
@@ -2870,7 +2870,7 @@ msgstr ""
 
 # game/Cell01_LY.rpy:2247 #-#-# translate crowdin Quest_A_SW_01_04_7b1c1392_1:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_LY.rpy:2248 #-#-# translate crowdin Quest_A_SW_01_04_82e5d63c:
 msgid "[_u_] And was it for any particular purpose? "
@@ -2974,7 +2974,7 @@ msgstr ""
 
 # game/Cell01_LY.rpy:2297 #-#-# translate crowdin Quest_A_SW_01_04_7b1c1392_2:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_LY.rpy:2307 #-#-# translate crowdin Quest_A_SW_01_04_menu1_7e06f5fa:
 msgid "[_ly_] Then no."
@@ -3062,7 +3062,7 @@ msgstr ""
 
 # game/Cell01_LY.rpy:2351 #-#-# translate crowdin Quest_A_SW_01_04_menu1_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_LY.rpy:2353 #-#-# translate crowdin Quest_A_SW_01_04_menu1_b1c8b36b:
 msgid "[_ly_] And then... I must admit she was pretty sexy."
@@ -3250,7 +3250,7 @@ msgstr ""
 
 # game/Cell01_LY.rpy:2488 #-#-# translate crowdin LY_LastQuest_01_01_menu1_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_LY.rpy:2490 #-#-# translate crowdin LY_LastQuest_01_01_menu1_3bf80780:
 msgid "[_ly_] Like uh... I can show you my boobs anytime you want!"
@@ -3270,7 +3270,7 @@ msgstr ""
 
 # game/Cell01_LY.rpy:2496 #-#-# translate crowdin LY_LastQuest_01_01_menu1_7b1c1392_1:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_LY.rpy:2497 #-#-# translate crowdin LY_LastQuest_01_01_menu1_43578ecd:
 msgid "[_u_] uhm..."
