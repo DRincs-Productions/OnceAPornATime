@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2024-03-05 22:11\n"
+"PO-Revision-Date: 2024-03-11 08:47\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_AM.rpy:86 #-#-# translate crowdin CHARA_AM_Menu01_c781f953:
 msgid "[_am_] Hey!"
@@ -334,7 +334,7 @@ msgstr ""
 
 # game/Cell01_AM.rpy:454 #-#-# translate crowdin Quest2_AM_Talk04_41451aa4:
 msgid "[_am_] Yeah..."
-msgstr ""
+msgstr "[_am_] Ja..."
 
 # game/Cell01_AM.rpy:456 #-#-# translate crowdin Quest2_AM_Talk04_ade3a3cc:
 msgid "[_am_] Yeah uh, I mean. Why not. We'll see. "
