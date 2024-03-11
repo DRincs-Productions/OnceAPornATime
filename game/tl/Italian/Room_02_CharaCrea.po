@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2024-02-26 09:12\n"
+"PO-Revision-Date: 2024-03-11 13:17\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Room_02_CharaCrea.rpy:10 #-#-# translate crowdin Room_02_CharaCrea_3d26d832:
 msgid "[_u_] No need to create anything yet. "
@@ -438,7 +438,7 @@ msgstr ""
 
 # game/Room_02_CharaCrea.rpy:721 #-#-# translate crowdin Room_02_CharaCreamenu_CLOTHESMENU_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Room_02_CharaCrea.rpy:722 #-#-# translate crowdin Room_02_CharaCreamenu_CLOTHESMENU_e8f96d6c:
 msgid "[_u_] What the hell are those numbers?"
