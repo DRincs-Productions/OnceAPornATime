@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2024-03-11 20:14\n"
+"PO-Revision-Date: 2024-03-11 21:58\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Intro01.rpy:64 #-#-# translate crowdin Intro01_93eeba4f:
 msgid "[_tb_] Greetings!"
@@ -1210,7 +1210,7 @@ msgstr "[_ly_] Да не волнуйся, я тебя дразню."
 
 # game/Intro01.rpy:1381 #-#-# translate crowdin LycoPrison_menu01_01_9f226930:
 msgid "[_ly_] You really take everything seriously ahah"
-msgstr "[_ly_] Ты и взапрямь воспринимаешь всё близко к сердцу, ахах"
+msgstr "[_ly_] Ты и правда воспринимаешь всё близко к сердцу, ахах"
 
 # game/Intro01.rpy:1383 #-#-# translate crowdin LycoPrison_menu01_01_4566598d:
 msgid "[_ly_] I come from a very distant place. Beyond the desert."
@@ -1306,43 +1306,43 @@ msgstr "[_ly_] Ваше Величество?"
 
 # game/Intro01.rpy:1454 #-#-# translate crowdin SheIntro01_266df66f:
 msgid "[_sz_s_] Did you have time to..."
-msgstr ""
+msgstr "[_sz_s_] Скажи, ты успела..."
 
 # game/Intro01.rpy:1456 #-#-# translate crowdin SheIntro01_c0ce3348:
 msgid "[_sz_s_] ...take care of our special problem? "
-msgstr ""
+msgstr "[_sz_s_] ...позаботиться о нашей особой проблеме? "
 
 # game/Intro01.rpy:1458 #-#-# translate crowdin SheIntro01_37ee92f3:
 msgid "[_ly_] Yes I... uh... sneak in her room..."
-msgstr ""
+msgstr "[_ly_] Да я... эм... прокралась в её комнату..."
 
 # game/Intro01.rpy:1459 #-#-# translate crowdin SheIntro01_13465d81:
 msgid "[_ly_] And I open the casket and... "
-msgstr ""
+msgstr "[_ly_] И я... Открыла шкатулку и... "
 
 # game/Intro01.rpy:1461 #-#-# translate crowdin SheIntro01_8784c99d:
 msgid "[_ly_] And the keys were no longer there."
-msgstr ""
+msgstr "[_ly_] И ключей там не оказалось."
 
 # game/Intro01.rpy:1463 #-#-# translate crowdin SheIntro01_0a7613b9:
 msgid "[_sz_s_] ... "
-msgstr ""
+msgstr "[_sz_s_] ... "
 
 # game/Intro01.rpy:1464 #-#-# translate crowdin SheIntro01_b36b16d7:
 msgid "[_sz_s_] It was our only chance to get out of here...."
-msgstr ""
+msgstr "[_sz_s_] Это был наш единственный шанс выбраться отсюда...."
 
 # game/Intro01.rpy:1466 #-#-# translate crowdin SheIntro01_f71cb457:
 msgid "[_sz_s_] We need to come up with another idea soon."
-msgstr ""
+msgstr "[_sz_s_] Теперь нам потребуется другой план."
 
 # game/Intro01.rpy:1468 #-#-# translate crowdin SheIntro01_fd5e9649:
 msgid "[_ly_] I'll see if I can find these."
-msgstr ""
+msgstr "[_ly_] Я постараюсь что-нибудь придумать."
 
 # game/Intro01.rpy:1470 #-#-# translate crowdin SheIntro01_8b881e20:
 msgid "[_sz_s_] Thank you. I count on you Lyco."
-msgstr ""
+msgstr "[_sz_s_] Спасибо. Я рассчитываю на тебя, Лико."
 
 # game/Intro01.rpy:1477 #-#-# translate crowdin SheIntro01_8cb06f46:
 msgid "[_ly_] ?"
@@ -1350,19 +1350,19 @@ msgstr ""
 
 # game/Intro01.rpy:1544 #-#-# translate crowdin Intro_Headquarter_e0bd643e:
 msgid "[_tb_] So, What's up?"
-msgstr ""
+msgstr "[_tb_] Чё, как дела?"
 
 # game/Intro01.rpy:1546 #-#-# translate crowdin Intro_Headquarter_0aab6ab7:
 msgid "[_tb_] How was the landing?"
-msgstr ""
+msgstr "[_tb_] Как прошла посадка?"
 
 # game/Intro01.rpy:1548 #-#-# translate crowdin Intro_Headquarter_30d2afc4:
 msgid "[_tb_] I heard a big ''Boom'' last night... "
-msgstr ""
+msgstr "[_tb_] Вчера ночью слышала мощнейший \"Бум\"... "
 
 # game/Intro01.rpy:1550 #-#-# translate crowdin Intro_Headquarter_428f03cc:
 msgid "[_tb_] Was that you? "
-msgstr ""
+msgstr "[_tb_] Твоих рук дело? "
 
 # game/Intro01.rpy:1551 #-#-# translate crowdin Intro_Headquarter_72a33094:
 msgid "[_e_] ..."
@@ -1370,99 +1370,99 @@ msgstr ""
 
 # game/Intro01.rpy:1561 #-#-# translate crowdin Intro_Headquarter_62f69a37:
 msgid "[_e_] Yeah, sorry about that."
-msgstr ""
+msgstr "[_e_] Да, извини, пожалуйста."
 
 # game/Intro01.rpy:1563 #-#-# translate crowdin Intro_Headquarter_eb62e402:
 msgid "[_e_] I didn't see that there was something about the landing zone."
-msgstr ""
+msgstr "[_e_] Я не заметила, что на посадочной полосе что-то было."
 
 # game/Intro01.rpy:1565 #-#-# translate crowdin Intro_Headquarter_b1270bae:
 msgid "[_e_] I think I pushed something into the ocean..."
-msgstr ""
+msgstr "[_e_] Мне кажется оно отлетело в океан..."
 
 # game/Intro01.rpy:1567 #-#-# translate crowdin Intro_Headquarter_87d6ec56:
 msgid "[_e_] How bad is it? "
-msgstr ""
+msgstr "[_e_] Всё плохо? "
 
 # game/Intro01.rpy:1574 #-#-# translate crowdin Intro_Headquarter_a7ae7794:
 msgid "[_tb_] It must have been [name]'s old ship. "
-msgstr ""
+msgstr "[_tb_] А, наверно это [name] поставил там свой старый корабль. "
 
 # game/Intro01.rpy:1576 #-#-# translate crowdin Intro_Headquarter_0340862c:
 msgid "[_tb_] It's not a big deal. "
-msgstr ""
+msgstr "[_tb_] Насрать. "
 
 # game/Intro01.rpy:1578 #-#-# translate crowdin Intro_Headquarter_51addfd6:
 msgid "[_tb_] By the way, have you seen Meli?"
-msgstr ""
+msgstr "[_tb_] Да, кстати, ты не видела Мели?"
 
 # game/Intro01.rpy:1580 #-#-# translate crowdin Intro_Headquarter_3625b397:
 msgid "[_tb_] I called this meeting an hour ago..."
-msgstr ""
+msgstr "[_tb_] Я рассылала приглашения на этот митинг час назад..."
 
 # game/Intro01.rpy:1582 #-#-# translate crowdin Intro_Headquarter_9c2e7e63:
 msgid "[_tb_] What the hell is she doing? "
-msgstr ""
+msgstr "[_tb_] Чем она там занимается? "
 
 # game/Intro01.rpy:1618 #-#-# translate crowdin GalleryImageQuest_Melissandre01_5f50b337:
 msgid "[_ml_] Mmmmmh....."
-msgstr ""
+msgstr "[_ml_] Мммммх....."
 
 # game/Intro01.rpy:1619 #-#-# translate crowdin GalleryImageQuest_Melissandre01_927d1b67:
 msgid "[_ml_] I just.... can't... "
-msgstr ""
+msgstr "[_ml_] Я просто.... Не могу... "
 
 # game/Intro01.rpy:1621 #-#-# translate crowdin GalleryImageQuest_Melissandre01_3258109e:
 msgid "[_ml_] stop thinking about it..."
-msgstr ""
+msgstr "[_ml_] Перестать думать об этом..."
 
 # game/Intro01.rpy:1623 #-#-# translate crowdin GalleryImageQuest_Melissandre01_b27b7fad:
 msgid "[_ml_] Gosh...."
-msgstr ""
+msgstr "[_ml_] Боже...."
 
 # game/Intro01.rpy:1625 #-#-# translate crowdin GalleryImageQuest_Melissandre01_19ce4cf2:
 msgid "[_ml_] Can't wait for [name] to come back .... "
-msgstr ""
+msgstr "[_ml_] Поскорее бы [name] вернулся.... "
 
 # game/Intro01.rpy:1626 #-#-# translate crowdin GalleryImageQuest_Melissandre01_f91c2474:
 msgid "[_ml_] Emee...."
-msgstr ""
+msgstr "[_ml_] Эми...."
 
 # game/Intro01.rpy:1627 #-#-# translate crowdin GalleryImageQuest_Melissandre01_765d70d8:
 msgid "[_ml_] [name]..."
-msgstr ""
+msgstr "[_ml_] [name]..."
 
 # game/Intro01.rpy:1629 #-#-# translate crowdin GalleryImageQuest_Melissandre01_b7de7947:
 msgid "[_ml_] Ooooh..."
-msgstr ""
+msgstr "[_ml_] Ooooх..."
 
 # game/Intro01.rpy:1630 #-#-# translate crowdin GalleryImageQuest_Melissandre01_aebd104c:
 msgid "[_ml_] Hell yeah..."
-msgstr ""
+msgstr "[_ml_] О да..."
 
 # game/Intro01.rpy:1632 #-#-# translate crowdin GalleryImageQuest_Melissandre01_00396a4f:
 msgid "[_ml_] Give me some more..."
-msgstr ""
+msgstr "[_ml_] Давай, ещё немного дольше..."
 
 # game/Intro01.rpy:1634 #-#-# translate crowdin GalleryImageQuest_Melissandre01_a3decdd9:
 msgid "[_ml_] I need more..."
-msgstr ""
+msgstr "[_ml_] Мне нужно больше..."
 
 # game/Intro01.rpy:1636 #-#-# translate crowdin GalleryImageQuest_Melissandre01_51a80f0b:
 msgid "[_ml_] Aahhh...hh..."
-msgstr ""
+msgstr "[_ml_] Ааххх...хх..."
 
 # game/Intro01.rpy:1638 #-#-# translate crowdin GalleryImageQuest_Melissandre01_a8230f24:
 msgid "[_ml_] More!!! I want more!"
-msgstr ""
+msgstr "[_ml_] Больше!!! Хочу больше!"
 
 # game/Intro01.rpy:1640 #-#-# translate crowdin GalleryImageQuest_Melissandre01_f64ba6a9:
 msgid "[_ml_] Aaaahhhaa..."
-msgstr ""
+msgstr "[_ml_] Аааахххаа..."
 
 # game/Intro01.rpy:1642 #-#-# translate crowdin GalleryImageQuest_Melissandre01_6225edee:
 msgid "[_ml_] I....."
-msgstr ""
+msgstr "[_ml_] Я....."
 
 # game/Intro01.rpy:1644 #-#-# translate crowdin GalleryImageQuest_Melissandre01_92a09693:
 msgid "[_ml_] I'm gonna..."
@@ -1470,11 +1470,11 @@ msgstr ""
 
 # game/Intro01.rpy:1646 #-#-# translate crowdin GalleryImageQuest_Melissandre01_364ab4cc:
 msgid "[_ml_] I'm gonna come!"
-msgstr ""
+msgstr "[_ml_] Я сейчас кончу!"
 
 # game/Intro01.rpy:1663 #-#-# translate crowdin GalleryImageQuest_Melissandre01_368658a5:
 msgid "[_e_] I found her!"
-msgstr ""
+msgstr "[_e_] Нашла!"
 
 # game/Intro01.rpy:1665 #-#-# translate crowdin GalleryImageQuest_Melissandre01_040a03dd:
 msgid "[_tb_] Great!"
@@ -1482,47 +1482,47 @@ msgstr ""
 
 # game/Intro01.rpy:1675 #-#-# translate crowdin GalleryImageQuest_Melissandre01_2c2000ca:
 msgid "[_tb_] So,"
-msgstr ""
+msgstr "[_tb_] Итак,"
 
 # game/Intro01.rpy:1677 #-#-# translate crowdin GalleryImageQuest_Melissandre01_8c7519d1:
 msgid "[_tb_] I've called you here today to announce a new addition to our team!"
-msgstr ""
+msgstr "[_tb_] Я собрала вас здесь сегодня, чтобы объявить о новом пополнении в нашей команде!"
 
 # game/Intro01.rpy:1679 #-#-# translate crowdin GalleryImageQuest_Melissandre01_6d878c42:
 msgid "[_tb_] This person will be responsible for writing quests and adventures for the entire park!"
-msgstr ""
+msgstr "[_tb_] Этот человек будет отвечать за написание квестов и сюжетов для всего парка!"
 
 # game/Intro01.rpy:1681 #-#-# translate crowdin GalleryImageQuest_Melissandre01_2b3a92de:
 msgid "[_tb_] I can't tell you for the moment who it is... "
-msgstr ""
+msgstr "[_tb_] В данный момент я не могу раскрыть его личность..."
 
 # game/Intro01.rpy:1683 #-#-# translate crowdin GalleryImageQuest_Melissandre01_cf685e07:
 msgid "[_tb_] But, she is a famous person in the galaxy."
-msgstr ""
+msgstr "[_tb_] Однако, она очень знаменитый человек в галактике."
 
 # game/Intro01.rpy:1685 #-#-# translate crowdin GalleryImageQuest_Melissandre01_8aea5c9d:
 msgid "[_tb_] so I would ask you not to tell anyone that she is here. "
-msgstr ""
+msgstr "[_tb_] Поэтому я попрошу вас никому не рассказывать о том, что она здесь. "
 
 # game/Intro01.rpy:1692 #-#-# translate crowdin GalleryImageQuest_Melissandre01_d66233bd:
 msgid "[_e_] Do we know her?"
-msgstr ""
+msgstr "[_e_] Мы её знаем?"
 
 # game/Intro01.rpy:1694 #-#-# translate crowdin GalleryImageQuest_Melissandre01_c6d3ba00:
 msgid "[_ml_] How famous is she?"
-msgstr ""
+msgstr "[_ml_] Насколько она известная?"
 
 # game/Intro01.rpy:1696 #-#-# translate crowdin GalleryImageQuest_Melissandre01_93577709:
 msgid "[_e_] She's a famous person like... she wrote books? "
-msgstr ""
+msgstr "[_e_] Она известная, типа... Она пишет книги? "
 
 # game/Intro01.rpy:1698 #-#-# translate crowdin GalleryImageQuest_Melissandre01_c8e8eac0:
 msgid "[_ml_] Fantasy books?"
-msgstr ""
+msgstr "[_ml_] Фэнтезийные книги?"
 
 # game/Intro01.rpy:1700 #-#-# translate crowdin GalleryImageQuest_Melissandre01_45386120:
 msgid "[_e_] Is this Amandine de Beauregard??"
-msgstr ""
+msgstr "[_e_] Неужели это Амандин Д'Борегар??"
 
 # game/Intro01.rpy:1707 #-#-# translate crowdin GalleryImageQuest_Melissandre01_e86c8d33:
 msgid "[_tb_] ...."
@@ -1530,11 +1530,11 @@ msgstr ""
 
 # game/Intro01.rpy:1709 #-#-# translate crowdin GalleryImageQuest_Melissandre01_1b259dda:
 msgid "[_tb_] Don't be crazy fan girls when she arrives, okay?"
-msgstr ""
+msgstr "[_tb_] Не превращайтесь в умалишённых фанаток, когда она прилетит, ладно?"
 
 # game/Intro01.rpy:1716 #-#-# translate crowdin GalleryImageQuest_Melissandre01_ac839b5c:
 msgid "[_ml_] Oh shit! So, that really her?? "
-msgstr ""
+msgstr "[_ml_] Нихера себе! Это правда она?? "
 
 # game/Intro01.rpy:1718 #-#-# translate crowdin GalleryImageQuest_Melissandre01_a21e461c:
 msgid "[_e_] Gosh..."
@@ -1542,47 +1542,47 @@ msgstr ""
 
 # game/Intro01.rpy:1720 #-#-# translate crowdin GalleryImageQuest_Melissandre01_4308461b:
 msgid "[_e_] How did you convince her to come here? "
-msgstr ""
+msgstr "[_e_] Как ты её уговорила сюда прилететь? "
 
 # game/Intro01.rpy:1722 #-#-# translate crowdin GalleryImageQuest_Melissandre01_d3e7cdd1:
 msgid "[_ml_] Yeah... we are pretty much in the middle of nowhere here... "
-msgstr ""
+msgstr "[_ml_] Да... мы здесь, типа как, у чёрта на куличках..."
 
 # game/Intro01.rpy:1730 #-#-# translate crowdin GalleryImageQuest_Melissandre01_87477a70:
 msgid "[_tb_] I offered her a big pile of money."
-msgstr ""
+msgstr "[_tb_] Я предложила ей огромную пачку бабла."
 
 # game/Intro01.rpy:1732 #-#-# translate crowdin GalleryImageQuest_Melissandre01_8fb96ed9:
 msgid "[_tb_] Anyway, I hope you will welcome her properly!"
-msgstr ""
+msgstr "[_tb_] Ну да ладно, надеюсь вы достойно её встретите!"
 
 # game/Intro01.rpy:1734 #-#-# translate crowdin GalleryImageQuest_Melissandre01_3285a11e:
 msgid "[_tb_] You can go back to your work!"
-msgstr ""
+msgstr "[_tb_] Ладно, за работу."
 
 # game/Intro01.rpy:1741 #-#-# translate crowdin GalleryImageQuest_Melissandre01_5beff109:
 msgid "[_ml_] Have we got any news about [name]? "
-msgstr ""
+msgstr "[_ml_] Как там [name], есть новости? "
 
 # game/Intro01.rpy:1742 #-#-# translate crowdin GalleryImageQuest_Melissandre01_40838bca:
 msgid "[_tb_] Not yet, why?"
-msgstr ""
+msgstr "[_tb_] Ещё нет, а что?"
 
 # game/Intro01.rpy:1744 #-#-# translate crowdin GalleryImageQuest_Melissandre01_a8d88eb2:
 msgid "[_e_] Well... It's been a month since he left"
-msgstr ""
+msgstr "[_e_] Ну... Типа как уже месяц прошёл"
 
 # game/Intro01.rpy:1747 #-#-# translate crowdin GalleryImageQuest_Melissandre01_a7123b03:
 msgid "[_e_] Maybe we should go see what's going on."
-msgstr ""
+msgstr "[_e_] Может стоит проверить, как он там?"
 
 # game/Intro01.rpy:1755 #-#-# translate crowdin GalleryImageQuest_Melissandre01_638baa0b:
 msgid "[_tb_] Nah..."
-msgstr ""
+msgstr "[_tb_] Зачем?"
 
 # game/Intro01.rpy:1757 #-#-# translate crowdin GalleryImageQuest_Melissandre01_738a5264:
 msgid "[_tb_] I'm sure he'll be fine!"
-msgstr ""
+msgstr "[_tb_] Уверена, он в порядке!"
 
 # game/Intro01.rpy:1759 #-#-# translate crowdin GalleryImageQuest_Melissandre01_42b378b4:
 msgid "[_tb_] No need to worry about it."
