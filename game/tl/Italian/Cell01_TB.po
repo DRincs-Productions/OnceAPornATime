@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2024-03-11 16:40\n"
+"PO-Revision-Date: 2024-03-11 17:44\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_TB.rpy:29 #-#-# translate crowdin Cell01_TB_126a6d5f:
 msgid "[_tb_] I'll be there in a second."
@@ -98,7 +98,7 @@ msgstr ""
 
 # game/Cell01_TB.rpy:360 #-#-# translate crowdin Cell01_TB_Questions01_b0ff36fe:
 msgid "[_u_] Gosh..."
-msgstr ""
+msgstr "[_u_] Accidenti..."
 
 # game/Cell01_TB.rpy:361 #-#-# translate crowdin Cell01_TB_Questions01_0ae8bdbc:
 msgid "[_u_] Will we be able to do all this in my lifetime? "
@@ -767,7 +767,7 @@ msgstr ""
 
 # game/Cell01_TB.rpy:764 #-#-# translate crowdin LY_TinkerOutfit04Retake01_00_3e745270:
 msgid "[_tb_] Mh..."
-msgstr ""
+msgstr "[_tb_] Mh..."
 
 # game/Cell01_TB.rpy:766 #-#-# translate crowdin LY_TinkerOutfit04Retake01_00_9300bf87:
 msgid "[_tb_] Can you go to Lyco for me? See if she can take care of it? "
