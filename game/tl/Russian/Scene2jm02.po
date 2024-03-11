@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2024-03-10 11:43\n"
+"PO-Revision-Date: 2024-03-11 10:22\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Scene2jm02.rpy:5 #-#-# translate crowdin Quest_JM_Favor_Feather1_03_f924725a:
 msgid "[_a_] Absolutely perfect."
@@ -1118,7 +1118,7 @@ msgstr "[_u_] Окей, понял."
 
 # game/Scene2jm02.rpy:1326 #-#-# translate crowdin Quest_JM_Favor_Feather1_04_4301451d:
 msgid "[_ml_] And be careful not to get stuck... those cables are pretty tricky."
-msgstr "[_ml_] И будь осторожен, чтобы не застрять... эти кабели довольно коварны."
+msgstr "[_ml_] И да, эти кабели довольно коварны, постарайся в них не запутаться."
 
 # game/Scene2jm02.rpy:1335 #-#-# translate crowdin Quest_JM_Favor_Feather1_04_f0e50fac:
 msgid "[_u_] And here we are. "
