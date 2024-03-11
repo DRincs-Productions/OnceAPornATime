@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2024-03-11 15:21\n"
+"PO-Revision-Date: 2024-03-11 16:40\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_LY.rpy:80 #-#-# translate crowdin Cell01_LY_QuestActivations_d1d09770:
 msgid "[_ly_] Hi cutie."
@@ -1674,11 +1674,11 @@ msgstr ""
 
 # game/Cell01_LY.rpy:1276 #-#-# translate crowdin Quest_JM_Favor_Ask2_Lyco_86b59053:
 msgid "[_u_] Ok great, only [Quest_JM_Favor_Ask2_Number] more employees to question."
-msgstr ""
+msgstr "[_u_] Ok grande, solo altri [Quest_JM_Favor_Ask2_Number] dipendenti da intervistare."
 
 # game/Cell01_LY.rpy:1282 #-#-# translate crowdin Quest_JM_Favor_Ask2_Lyco_68531393:
 msgid "[_ly_] Do you need anything else?"
-msgstr ""
+msgstr "[_ly_] Hai bisogno di altro?"
 
 # game/Cell01_LY.rpy:1292 #-#-# translate crowdin QuestChap2_LySZ_ClothesQuest01_02_f16c536d:
 msgid "[_u_] Lyco?"
@@ -3362,7 +3362,7 @@ msgstr ""
 
 # game/Cell01_LY.rpy:2558 #-#-# translate crowdin LY_LastQuest_01_02_ffd3fd1b:
 msgid "[_u_] Wow."
-msgstr ""
+msgstr "[_u_] Wow."
 
 # game/Cell01_LY.rpy:2559 #-#-# translate crowdin LY_LastQuest_01_02_3eeb17d3:
 msgid "[_ly_] ..."
