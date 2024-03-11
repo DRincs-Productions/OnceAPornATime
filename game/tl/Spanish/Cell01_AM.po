@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-03-11 01:09\n"
+"PO-Revision-Date: 2024-03-11 02:13\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_AM.rpy:86 #-#-# translate crowdin CHARA_AM_Menu01_c781f953:
 msgid "[_am_] Hey!"
@@ -318,27 +318,27 @@ msgstr "Creo que te acostumbrarás muy rápido. "
 
 # game/Cell01_AM.rpy:446 #-#-# translate crowdin Quest2_AM_Talk04_a427fe26:
 msgid "[_u_] And then I can help you if you want. "
-msgstr ""
+msgstr "Y después te puedo ayudar si quieres. "
 
 # game/Cell01_AM.rpy:448 #-#-# translate crowdin Quest2_AM_Talk04_62c5d4ff:
 msgid "[_am_] Help me? Help me how?"
-msgstr ""
+msgstr "¿Ayudarme? ¿Ayudarme cómo?"
 
 # game/Cell01_AM.rpy:450 #-#-# translate crowdin Quest2_AM_Talk04_15c1be97:
 msgid "[_am_] Ohhh you mean... "
-msgstr ""
+msgstr "Ohhh, te refieres..."
 
 # game/Cell01_AM.rpy:452 #-#-# translate crowdin Quest2_AM_Talk04_1a6fd5d2:
 msgid "[_am_] Like, with sex. "
-msgstr ""
+msgstr "Tipo, con sexo. "
 
 # game/Cell01_AM.rpy:454 #-#-# translate crowdin Quest2_AM_Talk04_41451aa4:
 msgid "[_am_] Yeah..."
-msgstr ""
+msgstr "Sí..."
 
 # game/Cell01_AM.rpy:456 #-#-# translate crowdin Quest2_AM_Talk04_ade3a3cc:
 msgid "[_am_] Yeah uh, I mean. Why not. We'll see. "
-msgstr ""
+msgstr "Si eh, quiero decir. Por qué no. Ya veremos. "
 
 # game/Cell01_AM.rpy:458 #-#-# translate crowdin Quest2_AM_Talk04_1c8acf17:
 msgid "[_am_] ..."
@@ -346,7 +346,7 @@ msgstr "..."
 
 # game/Cell01_AM.rpy:460 #-#-# translate crowdin Quest2_AM_Talk04_ed2ea6fc:
 msgid "[_am_] Too bad we can't fly. It would be fun to fly."
-msgstr ""
+msgstr "Una pena que no podamos volar. Sería divertido poder."
 
 # game/Cell01_AM.rpy:466 #-#-# translate crowdin Quest2_AM_Talk05_e87d508f:
 msgid "[_am_] Well, yes."
