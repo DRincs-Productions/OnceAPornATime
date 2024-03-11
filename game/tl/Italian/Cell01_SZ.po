@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2024-03-11 13:17\n"
+"PO-Revision-Date: 2024-03-11 16:40\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_SZ.rpy:87 #-#-# translate crowdin CHARA_SZ_Menu01_af6c6a0a:
 msgid "[_sz_]  ... "
@@ -3146,7 +3146,7 @@ msgstr ""
 
 # game/Cell01_SZ.rpy:2145 #-#-# translate crowdin Quest_SZ_Favor_Dos03_05d56d8e:
 msgid "[_tb_] ..."
-msgstr ""
+msgstr "[_tb_] ..."
 
 # game/Cell01_SZ.rpy:2146 #-#-# translate crowdin Quest_SZ_Favor_Dos03_aaeb5add:
 msgid "[_tb_] I didn't think about it. "
@@ -3974,7 +3974,7 @@ msgstr ""
 
 # game/Cell01_SZ.rpy:2738 #-#-# translate crowdin GalleryImageQuest_Lycoris01_05d56d8e:
 msgid "[_tb_] ..."
-msgstr ""
+msgstr "[_tb_] ..."
 
 # game/Cell01_SZ.rpy:2739 #-#-# translate crowdin GalleryImageQuest_Lycoris01_470dd860:
 msgid "[_tb_] No."
