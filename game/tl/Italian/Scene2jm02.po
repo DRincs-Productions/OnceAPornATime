@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2024-03-11 15:21\n"
+"PO-Revision-Date: 2024-03-11 16:40\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Scene2jm02.rpy:5 #-#-# translate crowdin Quest_JM_Favor_Feather1_03_f924725a:
 msgid "[_a_] Absolutely perfect."
@@ -1042,7 +1042,7 @@ msgstr ""
 
 # game/Scene2jm02.rpy:1279 #-#-# translate crowdin Quest_JM_Favor_Feather1_04_05d56d8e:
 msgid "[_tb_] ..."
-msgstr ""
+msgstr "[_tb_] ..."
 
 # game/Scene2jm02.rpy:1281 #-#-# translate crowdin Quest_JM_Favor_Feather1_04_098ea6a4:
 msgid "[_tb_] We're not going to create this character again!"
