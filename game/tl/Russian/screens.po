@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2024-03-10 13:37\n"
+"PO-Revision-Date: 2024-03-12 11:28\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # §translate crowdin strings: #|#|# # game/screens.rpy:256
 msgid "Back"
@@ -100,11 +100,11 @@ msgstr "Выйти"
 
 # game/screens.rpy:408
 msgid "PATREON"
-msgstr "ПАТРЕОН"
+msgstr "PATREON"
 
 # game/screens.rpy:412
 msgid "{color=#5b6568}{size=-10}^Check for Updates!^{/size}{/color}"
-msgstr "{color=#5b6568}{size=-10}^Проверьте наличие обновлений!^{/size}{/color}"
+msgstr "{color=#5b6568}{size=-10}^Проверить Наличие Обновлений!^{/size}{/color}"
 
 # game/screens.rpy:580
 msgid "Return"
@@ -113,7 +113,7 @@ msgstr "Вернуться"
 # game/screens.rpy:670
 msgid "Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n"
 "[renpy.license!t]"
-msgstr "Сделано с {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n"
+msgstr "Сделано с помощью {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n"
 "[renpy.license!t]"
 
 # game/screens.rpy:675
@@ -126,7 +126,7 @@ msgstr "Особая благодарность Kevin MacLeod за музыку:
 
 # game/screens.rpy:679
 msgid "A big kiss to Pachi for the help with the english translation! "
-msgstr "Большое спасибо Пачи за помощь с английским переводом! "
+msgstr "Большое спасибо Pachi за помощь с английским переводом! "
 
 # game/screens.rpy:722
 msgid "Page {}"
@@ -202,7 +202,7 @@ msgstr "После выбора"
 
 # game/screens.rpy:870
 msgid "Transitions"
-msgstr "Перемещения"
+msgstr "Переходы"
 
 # game/screens.rpy:894
 msgid "Text Speed"
