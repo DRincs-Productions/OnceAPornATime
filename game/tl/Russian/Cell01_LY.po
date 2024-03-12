@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2024-03-12 05:07\n"
+"PO-Revision-Date: 2024-03-12 06:14\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_LY.rpy:80 #-#-# translate crowdin Cell01_LY_QuestActivations_d1d09770:
 msgid "[_ly_] Hi cutie."
@@ -1638,7 +1638,7 @@ msgstr ""
 
 # game/Cell01_LY.rpy:1258 #-#-# translate crowdin Quest_JM_Favor_Ask2_Lyco_c5446f18:
 msgid "[_u_] Really?"
-msgstr ""
+msgstr "[_u_] Правда?"
 
 # game/Cell01_LY.rpy:1260 #-#-# translate crowdin Quest_JM_Favor_Ask2_Lyco_763bd1c9:
 msgid "[_ly_] Oh yes... a magnificent royal bed with plants... overlooking the city... "
