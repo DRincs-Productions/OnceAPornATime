@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2024-03-11 10:22\n"
+"PO-Revision-Date: 2024-03-12 11:28\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Scene2jm02.rpy:5 #-#-# translate crowdin Quest_JM_Favor_Feather1_03_f924725a:
 msgid "[_a_] Absolutely perfect."
@@ -394,7 +394,7 @@ msgstr "[_jm_] Кажется, будто ты почти коснулся мо�
 
 # game/Scene2jm02.rpy:527 #-#-# translate crowdin Quest_JM_Favor_Feather1_Corrupt1_P11_53992c9c:
 msgid "[_jm_] Ahah so funny..."
-msgstr "[_jm_] Ахах так забавно..."
+msgstr "[_jm_] Ахах, так забавно..."
 
 # game/Scene2jm02.rpy:532 #-#-# translate crowdin Quest_JM_Favor_Feather1_Corrupt1_P11_89335f8e:
 msgid "[_jm_] Mmffh....."
@@ -538,7 +538,7 @@ msgstr "[_jm_] Расскажешь мне, почему я на кровати?
 
 # game/Scene2jm02.rpy:678 #-#-# translate crowdin Quest_JM_Favor_Feather1_03CORRUPTION2_e5060b99:
 msgid "[_jm_] And I have to tell you that being tied up like this doesn't put me in a comfortable position. "
-msgstr "[_jm_] Должна сказать, что лежать вот так вот связанной не слишком удобно. "
+msgstr "[_jm_] Должна признать, лежать вот так вот связанной не слишком удобно. "
 
 # game/Scene2jm02.rpy:679 #-#-# translate crowdin Quest_JM_Favor_Feather1_03CORRUPTION2_44f47f9a:
 msgid "[_u_] I know."
