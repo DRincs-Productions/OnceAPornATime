@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2024-03-12 06:14\n"
+"PO-Revision-Date: 2024-03-12 08:43\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_AM.rpy:86 #-#-# translate crowdin CHARA_AM_Menu01_c781f953:
 msgid "[_am_] Hey!"
@@ -774,55 +774,55 @@ msgstr "[_val_] Нет, я никогда не спала со своим бос
 
 # game/Cell01_AM.rpy:778 #-#-# translate crowdin QuestChap2_Amelia01_04_menu02_P3_c66f6b48:
 msgid "[_am_] Thank you very much! "
-msgstr ""
+msgstr "[_am_] Большое спасибо! "
 
 # game/Cell01_AM.rpy:781 #-#-# translate crowdin QuestChap2_Amelia01_04_menu02_P3_06fa7dc4:
 msgid "[_u_] ....."
-msgstr ""
+msgstr "[_u_] ....."
 
 # game/Cell01_AM.rpy:792 #-#-# translate crowdin QuestChap2_Amelia01_04_menu02_P4_4dd5eb57:
 msgid "[_val_] Uh I... I don't know. "
-msgstr ""
+msgstr "[_val_] Я... я не знаю. "
 
 # game/Cell01_AM.rpy:794 #-#-# translate crowdin QuestChap2_Amelia01_04_menu02_P4_c6320990:
 msgid "[_val_] I would say that I invest myself a little too much."
-msgstr ""
+msgstr "[_val_] Я бы сказала, что вкладываю в себя слишком много."
 
 # game/Cell01_AM.rpy:796 #-#-# translate crowdin QuestChap2_Amelia01_04_menu02_P4_3eac0006:
 msgid "[_am_] Is this a defect? "
-msgstr ""
+msgstr "[_am_] Это дефект? "
 
 # game/Cell01_AM.rpy:798 #-#-# translate crowdin QuestChap2_Amelia01_04_menu02_P4_f2d46ea2:
 msgid "[_u_] The question sucks... I don't know why tinker wants me to ask this... "
-msgstr ""
+msgstr "[_u_] Вопрос отстойный... Я не знаю, почему Тинкер хочет, чтобы я это спросил... "
 
 # game/Cell01_AM.rpy:808 #-#-# translate crowdin QuestChap2_Amelia01_04_menu02_P4_4032d102:
 msgid "[_am_] Yes! I have!"
-msgstr ""
+msgstr "[_am_] Да! У меня есть!"
 
 # game/Cell01_AM.rpy:811 #-#-# translate crowdin QuestChap2_Amelia01_04_menu02_P4_b97c8c83:
 msgid "[_am_] Are you modest?"
-msgstr ""
+msgstr "[_am_] Вы скромная?"
 
 # game/Cell01_AM.rpy:813 #-#-# translate crowdin QuestChap2_Amelia01_04_menu02_P4_74a851b7:
 msgid "[_u_] Amelia?! What are you doing? "
-msgstr ""
+msgstr "[_u_] Амелия?! Что ты делаешь? "
 
 # game/Cell01_AM.rpy:816 #-#-# translate crowdin QuestChap2_Amelia01_04_menu02_P4_a7909cb4:
 msgid "[_am_] What? This planet is the kingdom of perversion!"
-msgstr ""
+msgstr "[_am_] Что? Эта планета — царство извращений!"
 
 # game/Cell01_AM.rpy:819 #-#-# translate crowdin QuestChap2_Amelia01_04_menu02_P4_6b800cdf:
 msgid "[_am_] It's normal to check this!"
-msgstr ""
+msgstr "[_am_] Это нормально проверять!"
 
 # game/Cell01_AM.rpy:821 #-#-# translate crowdin QuestChap2_Amelia01_04_menu02_P4_32c44685:
 msgid "[_val_] I think I'm pretty open-minded. "
-msgstr ""
+msgstr "[_val_] Я думаю, что я довольно открыта к новому. "
 
 # game/Cell01_AM.rpy:823 #-#-# translate crowdin QuestChap2_Amelia01_04_menu02_P4_a55ac3b1:
 msgid "[_u_] Here, you have your answer, are you happy? "
-msgstr ""
+msgstr "[_u_] Вот и ответ, ты довольна? "
 
 # game/Cell01_AM.rpy:825 #-#-# translate crowdin QuestChap2_Amelia01_04_menu02_P4_75fbc4b5:
 msgid "[_am_] Mh..."
@@ -830,23 +830,23 @@ msgstr "[_am_] Мм..."
 
 # game/Cell01_AM.rpy:828 #-#-# translate crowdin QuestChap2_Amelia01_04_menu02_P4_b37553dc:
 msgid "[_am_] I am not convinced. "
-msgstr ""
+msgstr "[_am_] Я не убеждена. "
 
 # game/Cell01_AM.rpy:830 #-#-# translate crowdin QuestChap2_Amelia01_04_menu02_P4_68ae5273:
 msgid "[_am_] Please show your breasts."
-msgstr ""
+msgstr "[_am_] Пожалуйста, покажите свою грудь."
 
 # game/Cell01_AM.rpy:832 #-#-# translate crowdin QuestChap2_Amelia01_04_menu02_P4_df10ddf5:
 msgid "[_u_] Gosh, you are impossible Amelia."
-msgstr ""
+msgstr "[_u_] Боже, ты невозможна, Амелия."
 
 # game/Cell01_AM.rpy:834 #-#-# translate crowdin QuestChap2_Amelia01_04_menu02_P4_5033535e:
 msgid "[_am_] What? At least we'll really know!"
-msgstr ""
+msgstr "[_am_] Что? По крайней мере, мы действительно будем знать!"
 
 # game/Cell01_AM.rpy:841 #-#-# translate crowdin QuestChap2_Amelia01_04_menu02_P4_73cc3b13:
 msgid "[_val_] Here you go!"
-msgstr ""
+msgstr "[_val_] Вот смотрите!"
 
 # game/Cell01_AM.rpy:844 #-#-# translate crowdin QuestChap2_Amelia01_04_menu02_P4_7b1c1392:
 msgid "[_u_] ..."
@@ -854,35 +854,35 @@ msgstr "[_u_] ..."
 
 # game/Cell01_AM.rpy:846 #-#-# translate crowdin QuestChap2_Amelia01_04_menu02_P4_8d89a57c:
 msgid "[_val_] Is it good for you? "
-msgstr ""
+msgstr "[_val_] Это хорошо? "
 
 # game/Cell01_AM.rpy:848 #-#-# translate crowdin QuestChap2_Amelia01_04_menu02_P4_b5bb776b:
 msgid "[_am_] Perfect, Madam!"
-msgstr ""
+msgstr "[_am_] Идеально, мадам!"
 
 # game/Cell01_AM.rpy:852 #-#-# translate crowdin QuestChap2_Amelia01_04_menu02_P4_7aaaa89a:
 msgid "[_am_] We will contact you soon! Thank you so much for coming!"
-msgstr ""
+msgstr "[_am_] Мы свяжемся с вами в ближайшее время! Большое спасибо, что пришли!"
 
 # game/Cell01_AM.rpy:856 #-#-# translate crowdin QuestChap2_Amelia01_04_menu02_P4_3189395a:
 msgid "[_val_] Thanks, see you soon!"
-msgstr ""
+msgstr "[_val_] Спасибо, до скорой встречи!"
 
 # game/Cell01_AM.rpy:862 #-#-# translate crowdin QuestChap2_Amelia01_04_menu02_P4_453102d3:
 msgid "[_am_] Well, what did you think of her?"
-msgstr ""
+msgstr "[_am_] Ну, что ты о ней думаешь?"
 
 # game/Cell01_AM.rpy:863 #-#-# translate crowdin QuestChap2_Amelia01_04_menu02_P4_e2d89347:
 msgid "[_u_] What was that bullshit at the end?!?"
-msgstr ""
+msgstr "[_u_] Что за бред был в конце?!?"
 
 # game/Cell01_AM.rpy:865 #-#-# translate crowdin QuestChap2_Amelia01_04_menu02_P4_a925d3e4:
 msgid "[_u_] You can't ask people to show their breasts!!"
-msgstr ""
+msgstr "[_u_] Ты не можешь просить людей показывать грудь!!"
 
 # game/Cell01_AM.rpy:867 #-#-# translate crowdin QuestChap2_Amelia01_04_menu02_P4_a77d1417:
 msgid "[_am_] What? She didn't look upset!"
-msgstr ""
+msgstr "[_am_] Что? Она не выглядела расстроенной!"
 
 # game/Cell01_AM.rpy:869 #-#-# translate crowdin QuestChap2_Amelia01_04_menu02_P4_8ad02ff2:
 msgid "[_am_] I'll tell Tinker that we found our human fixer!"
