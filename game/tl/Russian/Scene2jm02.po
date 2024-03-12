@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2024-03-12 11:28\n"
+"PO-Revision-Date: 2024-03-12 13:36\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Scene2jm02.rpy:5 #-#-# translate crowdin Quest_JM_Favor_Feather1_03_f924725a:
 msgid "[_a_] Absolutely perfect."
@@ -1050,7 +1050,7 @@ msgstr "[_tb_] Мы не собираемся ещё раз делать это�
 
 # game/Scene2jm02.rpy:1283 #-#-# translate crowdin Quest_JM_Favor_Feather1_04_0f375cbf:
 msgid "[_tb_] If this keeps up, in a few months half the population of this city will be Jasmines!"
-msgstr "[_tb_] Если так и дальше пойдёт, то через пару месяцев половина населения города будет Жасминами!"
+msgstr "[_tb_] Если так и дальше пойдёт, то через пару месяцев половина города будет населена Жасминами!"
 
 # game/Scene2jm02.rpy:1286 #-#-# translate crowdin Quest_JM_Favor_Feather1_04_f1ce6d72:
 msgid "[_tb_] You need to find a way to get her back."
@@ -1090,7 +1090,7 @@ msgstr "[_ml_] Так что да, мне надо кое-что очень сп
 
 # game/Scene2jm02.rpy:1314 #-#-# translate crowdin Quest_JM_Favor_Feather1_04_49bda117:
 msgid "[_ml_] Remember the outpost we visited last time? "
-msgstr "[_ml_] Помнишь аванпост, на котором мы были в последний раз? "
+msgstr "[_ml_] Помнишь аванпост, на котором мы когда-то были? "
 
 # game/Scene2jm02.rpy:1316 #-#-# translate crowdin Quest_JM_Favor_Feather1_04_0a5d9d56:
 msgid "[_ml_] With crates everywhere. "
@@ -1130,7 +1130,7 @@ msgstr "[_u_] Прошло немало времени с моего после�
 
 # game/Scene2jm02.rpy:1339 #-#-# translate crowdin Quest_JM_Favor_Feather1_04_278ccb95:
 msgid "[_sz_s_] Hey!!! Is anyone here???"
-msgstr "[_sz_s_] Эй!!! Кто-нибудь здесь???"
+msgstr "[_sz_s_] Эй!!! Тут кто-нибудь есть???"
 
 # game/Scene2jm02.rpy:1340 #-#-# translate crowdin Quest_JM_Favor_Feather1_04_2c3ec02a:
 msgid "[_u_] ?!"
@@ -1378,7 +1378,7 @@ msgstr "[_scc_] Как будто ты не..."
 
 # game/Scene2jm02.rpy:1498 #-#-# translate crowdin Quest_JM_Favor_Feather1_04_02_fa8b4697:
 msgid "[_scc_] As if you wouldn't pretend to fuck me."
-msgstr "[_scc_] Будто не притворяешься что ебёшь меня."
+msgstr "[_scc_] Будто не притворяешься, что ебёшь меня."
 
 # game/Scene2jm02.rpy:1504 #-#-# translate crowdin Quest_JM_Favor_Feather1_04_02_f28f204d_3:
 msgid "[_scc_] !!!"
@@ -1458,7 +1458,7 @@ msgstr "[_scc_] хХoooO..."
 
 # game/Scene2jm02.rpy:1580 #-#-# translate crowdin Quest_JM_Favor_Feather1_04_02_d854f995:
 msgid "[_scc_] Ah fuck... my pussy.... "
-msgstr "[_scc_] Ах трахай... мою пизду.... "
+msgstr "[_scc_] Ах, да, трахай... мою пизду.... "
 
 # game/Scene2jm02.rpy:1586 #-#-# translate crowdin Quest_JM_Favor_Feather1_04_02_5de6865a:
 msgid "[_scc_] HAAAAAaaa!!"
@@ -1506,7 +1506,7 @@ msgstr "[_scc_] Хoooo..."
 
 # game/Scene2jm02.rpy:1623 #-#-# translate crowdin Scenesucck01_menu1_23a43398:
 msgid "[_scc_] What strength you've got little guy..."
-msgstr "[_scc_] Сколько ж в тебе сил, малыш..."
+msgstr "[_scc_] Сколько же в тебе сил, малыш..."
 
 # game/Scene2jm02.rpy:1625 #-#-# translate crowdin Scenesucck01_menu1_c690e0df:
 msgid "[_scc_] It's almost as if I'm being screwed over again by a minotaur... "
