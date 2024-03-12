@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2024-03-10 01:25\n"
+"PO-Revision-Date: 2024-03-12 11:28\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # §translate crowdin strings: #|#|# # game/script.rpy:935
 msgid "Changelog"
@@ -166,7 +166,7 @@ msgstr "Ложка"
 
 # game/script.rpy:1140
 msgid "Orders for Djin"
-msgstr "Заказы для Джинни"
+msgstr "Указания для Джинни"
 
 # game/script.rpy:1141
 msgid "Magic Lamp"
@@ -202,7 +202,7 @@ msgstr "Электронный Ключ"
 
 # game/script.rpy:1149
 msgid "Lyco Request List"
-msgstr "Список Запросов Люко"
+msgstr "Список Запросов Лико"
 
 # game/script.rpy:1150
 msgid "Dance Book Vol.I"
