@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2024-03-12 13:36\n"
+"PO-Revision-Date: 2024-03-13 05:04\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Scene2jm02.rpy:5 #-#-# translate crowdin Quest_JM_Favor_Feather1_03_f924725a:
 msgid "[_a_] Absolutely perfect."
@@ -1202,7 +1202,7 @@ msgstr "[_u_] На самом деле я не за тобой вообще пр
 
 # game/Scene2jm02.rpy:1382 #-#-# translate crowdin Quest_JM_Favor_Feather1_04_02_ad85e45c:
 msgid "[_scc_] ..."
-msgstr ""
+msgstr "[_scc_] ..."
 
 # game/Scene2jm02.rpy:1383 #-#-# translate crowdin Quest_JM_Favor_Feather1_04_02_96794d9e:
 msgid "[_scc_] So, you're getting me out of here?"
@@ -1218,7 +1218,7 @@ msgstr "[_u_] Ты чё тут, воруешь всякое?"
 
 # game/Scene2jm02.rpy:1386 #-#-# translate crowdin Quest_JM_Favor_Feather1_04_02_ad85e45c_1:
 msgid "[_scc_] ..."
-msgstr ""
+msgstr "[_scc_] ..."
 
 # game/Scene2jm02.rpy:1388 #-#-# translate crowdin Quest_JM_Favor_Feather1_04_02_70c478f1:
 msgid "[_scc_] And what are you going to do? Call the space police? "
