@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2024-03-07 19:59\n"
+"PO-Revision-Date: 2024-03-13 06:19\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_E.rpy:71 #-#-# translate crowdin Cell01_E_QuestActivations_9ef65d05:
 msgid "[_u_] Whose ship is this? "
@@ -1894,7 +1894,7 @@ msgstr ""
 
 # game/Cell01_E.rpy:1772 #-#-# translate crowdin QuestChap2_LyStart_E_01_d1e4ca25:
 msgid "-----"
-msgstr ""
+msgstr "-----"
 
 # game/Cell01_E.rpy:1775 #-#-# translate crowdin Emee_Dress04_React_0674c46c:
 msgid "[_e_] Ooooh let me see that!"
