@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2024-03-07 19:59\n"
+"PO-Revision-Date: 2024-03-13 04:00\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_SZ.rpy:87 #-#-# translate crowdin CHARA_SZ_Menu01_af6c6a0a:
 msgid "[_sz_]  ... "
@@ -3898,7 +3898,7 @@ msgstr ""
 
 # game/Cell01_SZ.rpy:2665 #-#-# translate crowdin Quest_SZ_Favor_Dos012_1f797da5:
 msgid "----------"
-msgstr ""
+msgstr "----------"
 
 # game/Cell01_SZ.rpy:2677 #-#-# translate crowdin QuestChap2_Amandine02_06_62ee0139:
 msgid "[_u_] Well, I almost forgot how warm it is here. "
