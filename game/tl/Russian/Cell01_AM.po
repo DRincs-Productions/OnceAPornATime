@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2024-03-14 06:34\n"
+"PO-Revision-Date: 2024-03-14 07:54\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_AM.rpy:86 #-#-# translate crowdin CHARA_AM_Menu01_c781f953:
 msgid "[_am_] Hey!"
@@ -1558,67 +1558,67 @@ msgstr "[_u_] Точно."
 
 # game/Cell01_AM.rpy:1445 #-#-# translate crowdin Quest2_AM_TalkDressUnlock01_8695ed86:
 msgid "[_u_] I thought you might enjoy it."
-msgstr ""
+msgstr "[_u_] Я думал, тебе может это понравится."
 
 # game/Cell01_AM.rpy:1447 #-#-# translate crowdin Quest2_AM_TalkDressUnlock01_b6193c56:
 msgid "[_am_] That's really nice of you!"
-msgstr ""
+msgstr "[_am_] Это очень мило с твоей стороны!"
 
 # game/Cell01_AM.rpy:1449 #-#-# translate crowdin Quest2_AM_TalkDressUnlock01_fb636053:
 msgid "[_am_] I can't wait to try it!"
-msgstr ""
+msgstr "[_am_] Не могу дождаться, чтобы попробовать это!"
 
 # game/Cell01_AM.rpy:1451 #-#-# translate crowdin Quest2_AM_TalkDressUnlock01_7b728ed2:
 msgid "[_am_] I'll be back in a second!"
-msgstr ""
+msgstr "[_am_] Я вернусь через секунду!"
 
 # game/Cell01_AM.rpy:1463 #-#-# translate crowdin Quest2_AM_TalkDressUnlock01_f0eaf5fa:
 msgid "[_am_] Absolutely perfect!"
-msgstr ""
+msgstr "[_am_] Абсолютно идеально!"
 
 # game/Cell01_AM.rpy:1467 #-#-# translate crowdin Quest2_AM_TalkDressUnlock01_3616e869:
 msgid "[_am_] These colors are perfect!"
-msgstr ""
+msgstr "[_am_] Эти цвета идеальны!"
 
 # game/Cell01_AM.rpy:1469 #-#-# translate crowdin Quest2_AM_TalkDressUnlock01_3f0676b9:
 msgid "[_am_] You made a good choice in choosing this outfit. "
-msgstr ""
+msgstr "[_am_] Ты сделал правильный выбор, выбрав этот наряд. "
 
 # game/Cell01_AM.rpy:1470 #-#-# translate crowdin Quest2_AM_TalkDressUnlock01_13405395:
 msgid "[_u_] Uh... thanks but I just opened a box..."
-msgstr ""
+msgstr "[_u_] Э... спасибо, но я только открыл коробку..."
 
 # game/Cell01_AM.rpy:1472 #-#-# translate crowdin Quest2_AM_TalkDressUnlock01_179c3d30:
 msgid "[_u_] ...And it was in. "
-msgstr ""
+msgstr "[_u_] ...И это было внутри. "
 
 # game/Cell01_AM.rpy:1474 #-#-# translate crowdin Quest2_AM_TalkDressUnlock01_adcd1e04:
 msgid "[_am_] Anyway, it suits me great!"
-msgstr ""
+msgstr "[_am_] В любом случае, мне оно очень подходит!"
 
 # game/Cell01_AM.rpy:1476 #-#-# translate crowdin Quest2_AM_TalkDressUnlock01_6f86bf3d:
 msgid "[_am_] If from time to time you want to try outfits with me, it would be with pleasure!"
-msgstr ""
+msgstr "[_am_] Если тебе захочется время от времени примерять со мной наряды, то я буду очень рада!"
 
 # game/Cell01_AM.rpy:1482 #-#-# translate crowdin Quest_JM_Favor_Ask2_Amelia_f8db0720:
 msgid "[_am_] My sexual fantasy? "
-msgstr ""
+msgstr "[_am_] Моя сексуальная фантазия? "
 
 # game/Cell01_AM.rpy:1484 #-#-# translate crowdin Quest_JM_Favor_Ask2_Amelia_3fd4fba3:
 msgid "[_am_] That's a very interesting question... "
-msgstr ""
+msgstr "[_am_] Это интересный вопрос... "
 
 # game/Cell01_AM.rpy:1486 #-#-# translate crowdin Quest_JM_Favor_Ask2_Amelia_5209babd:
 msgid "[_am_] I'm not sure why, but I'd really like to uh... "
-msgstr ""
+msgstr "[_am_] Не знаю почему, но мне бы очень хотелось, э-э... "
 
 # game/Cell01_AM.rpy:1488 #-#-# translate crowdin Quest_JM_Favor_Ask2_Amelia_8e872f84:
 msgid "[_am_] I'd like to have sex with a... magical creature. "
-msgstr ""
+msgstr "[_am_] Я бы хотела заняться сексом с... волшебным существом. "
 
 # game/Cell01_AM.rpy:1490 #-#-# translate crowdin Quest_JM_Favor_Ask2_Amelia_94199dd3:
 msgid "[_am_] But not like a unicorn or anything... like... a mermaid or a sorceress or... "
-msgstr ""
+msgstr "[_am_] Но не как единорог или что-то в этом роде... как... русалка или колдунья или... "
 
 # game/Cell01_AM.rpy:1491 #-#-# translate crowdin Quest_JM_Favor_Ask2_Amelia_1c8acf17:
 msgid "[_am_] ..."
@@ -1626,251 +1626,251 @@ msgstr "[_am_] ..."
 
 # game/Cell01_AM.rpy:1492 #-#-# translate crowdin Quest_JM_Favor_Ask2_Amelia_071ba4bc:
 msgid "[_u_] A fairy? "
-msgstr ""
+msgstr "[_u_] Фея? "
 
 # game/Cell01_AM.rpy:1494 #-#-# translate crowdin Quest_JM_Favor_Ask2_Amelia_23061c62:
 msgid "[_am_] Yes! That's right!"
-msgstr ""
+msgstr "[_am_] Да! Это верно!"
 
 # game/Cell01_AM.rpy:1496 #-#-# translate crowdin Quest_JM_Favor_Ask2_Amelia_79b8122a:
 msgid "[_am_] A fairy, but like... very cool and badass."
-msgstr ""
+msgstr "[_am_] Фея, но типа... очень крутая и сильная."
 
 # game/Cell01_AM.rpy:1498 #-#-# translate crowdin Quest_JM_Favor_Ask2_Amelia_33e41ea0:
 msgid "[_am_] Yeah... that'd be great..."
-msgstr ""
+msgstr "[_am_] Да... было бы здорово..."
 
 # game/Cell01_AM.rpy:1499 #-#-# translate crowdin Quest_JM_Favor_Ask2_Amelia_067829ef:
 msgid "[_u_] Okay... "
-msgstr ""
+msgstr "[_u_] Хорошо... "
 
 # game/Cell01_AM.rpy:1501 #-#-# translate crowdin Quest_JM_Favor_Ask2_Amelia_9f17fcd5:
 msgid "[_am_] But uhm... Why are you asking me this question? "
-msgstr ""
+msgstr "[_am_] Но... Почему ты задаешь мне этот вопрос? "
 
 # game/Cell01_AM.rpy:1502 #-#-# translate crowdin Quest_JM_Favor_Ask2_Amelia_97e11651:
 msgid "[_u_] Oh uh... for work. "
-msgstr ""
+msgstr "[_u_] А... это по работе. "
 
 # game/Cell01_AM.rpy:1506 #-#-# translate crowdin Quest_JM_Favor_Ask2_Amelia_86b59053:
 msgid "[_u_] Ok great, only [Quest_JM_Favor_Ask2_Number] more employees to question."
-msgstr ""
+msgstr "[_u_] Отлично, осталось спросить только [Quest_JM_Favor_Ask2_Number] сотрудников."
 
 # game/Cell01_AM.rpy:1512 #-#-# translate crowdin Quest_JM_Favor_Ask2_Amelia_68531393:
 msgid "[_ly_] Do you need anything else?"
-msgstr ""
+msgstr "[_ly_] Тебе нужно что-нибудь еще?"
 
 # §translate crowdin strings: #|#|# # game/Cell01_AM.rpy:89
 msgid "{color=#3ad8ff}What's your main sexual fantasy?{/color} "
-msgstr ""
+msgstr "{color=#3ad8ff}Какая твоя главная сексуальная фантазия?{/color} "
 
 # game/Cell01_AM.rpy:89
 msgid "{color=#3ad8ff}I need the oriental dance book{/color} "
-msgstr ""
+msgstr "{color=#3ad8ff}Мне нужна книга по восточным танцам{/color} "
 
 # game/Cell01_AM.rpy:89
 msgid "{color=#3ad8ff}I have a new outfit for you{/color} "
-msgstr ""
+msgstr "{color=#3ad8ff}У меня есть для тебя новый наряд{/color} "
 
 # game/Cell01_AM.rpy:89
 msgid "{color=#3ad8ff}When do we start the job interviews?{/color} {image=heart07.png} "
-msgstr ""
+msgstr "{color=#3ad8ff}Когда мы начнем собеседования?{/color} {image=heart07.png} "
 
 # game/Cell01_AM.rpy:89
 msgid "{color=#3ad8ff}Shall we start the first interview?{/color}"
-msgstr ""
+msgstr "{color=#3ad8ff}Начнем первое собеседование?{/color}"
 
 # game/Cell01_AM.rpy:89
 msgid "{color=#3ad8ff}Is the second candidate ready?{/color}"
-msgstr ""
+msgstr "{color=#3ad8ff}Готов ли второй кандидат?{/color}"
 
 # game/Cell01_AM.rpy:89
 msgid "{color=#3ad8ff}Is the last candidate ready?{/color}"
-msgstr ""
+msgstr "{color=#3ad8ff}Готов ли последний кандидат?{/color}"
 
 # game/Cell01_AM.rpy:89
 msgid "$Talk{image=exl01.png}"
-msgstr ""
+msgstr "$Поговорить{image=exl01.png}"
 
 # game/Cell01_AM.rpy:89
 msgid "$Talk"
-msgstr ""
+msgstr "$Поговорить"
 
 # game/Cell01_AM.rpy:89
 msgid "{color=#636363}Would you like to change your clothes?{/color} {image=shirt02.png}"
-msgstr ""
+msgstr "{color=#636363}Не хочешь ли переодеться?{/color} {image=shirt02.png}"
 
 # game/Cell01_AM.rpy:89
 msgid "$Would you like to change your clothes? {image=shirt01.png}"
-msgstr ""
+msgstr "$Не хочешь ли переодеться? {image=shirt01.png}"
 
 # game/Cell01_AM.rpy:89
 msgid "$Leave "
-msgstr ""
+msgstr "$Уйти "
 
 # game/Cell01_AM.rpy:170
 msgid "$Change the Outfit "
-msgstr ""
+msgstr "$Изменить наряд "
 
 # game/Cell01_AM.rpy:170
 msgid "$Change the HairStyle "
-msgstr ""
+msgstr "$Изменить прическу "
 
 # game/Cell01_AM.rpy:170
 msgid "$Back"
-msgstr ""
+msgstr "$Назад"
 
 # game/Cell01_AM.rpy:173
 msgid "$// Basic Secretary"
-msgstr ""
+msgstr "$// Базовый секретарь"
 
 # game/Cell01_AM.rpy:173
 msgid "$// Retro-Secretary"
-msgstr ""
+msgstr "$// Ретро-секретарь"
 
 # game/Cell01_AM.rpy:173
 msgid "$// Vintage-Secretary"
-msgstr ""
+msgstr "$// Винтажный-секретарь"
 
 # game/Cell01_AM.rpy:202
 msgid "$// Tied Hair"
-msgstr ""
+msgstr "$// Связанные волосы"
 
 # game/Cell01_AM.rpy:257
 msgid "What is your job here? {image=heart04.png}"
-msgstr ""
+msgstr "В чем заключается твоя работа? {image=heart04.png}"
 
 # game/Cell01_AM.rpy:257
 msgid "Did Melissandre create this body for you? {image=heart04.png}"
-msgstr ""
+msgstr "Мелиссандра создала для тебя это тело? {image=heart04.png}"
 
 # game/Cell01_AM.rpy:257
 msgid "What have been your missions so far? {image=heart04.png}"
-msgstr ""
+msgstr "Какие миссии ты выполняла? {image=heart04.png}"
 
 # game/Cell01_AM.rpy:257
 msgid "So, how does it feel to have a body? {image=heart04.png}"
-msgstr ""
+msgstr "Итак, каково это — иметь тело? {image=heart04.png}"
 
 # game/Cell01_AM.rpy:257
 msgid "So, how does it feel to have a body? {image=heart06.png}"
-msgstr ""
+msgstr "Итак, каково это — иметь тело? {image=heart06.png}"
 
 # game/Cell01_AM.rpy:257
 msgid "{color=#636363}What is your job here? {/color}"
-msgstr ""
+msgstr "{color=#636363}В чем заключается твоя работа? {/цвет}"
 
 # game/Cell01_AM.rpy:257
 msgid "{color=#636363}Did Melissandre create this body for you?{/color}"
-msgstr ""
+msgstr "{color=#636363}Мелиссандра создала для тебя это тело?{/color}"
 
 # game/Cell01_AM.rpy:257
 msgid "{color=#636363}What have been your missions so far?{/color}"
-msgstr ""
+msgstr "{color=#636363}Какие миссии ты выполняла?{/color}"
 
 # game/Cell01_AM.rpy:257
 msgid "{color=#636363}So, how does it feel to have a body?{/color}"
-msgstr ""
+msgstr "{color=#636363}Итак, каково это — иметь тело?{/color}"
 
 # game/Cell01_AM.rpy:383
 msgid "Would you like to bang Tinker? "
-msgstr ""
+msgstr "Хочешь трахнуть Тинкер? "
 
 # game/Cell01_AM.rpy:383
 msgid "All comes to those who wait."
-msgstr ""
+msgstr "Все приходит к тем, кто ждет."
 
 # game/Cell01_AM.rpy:565
 msgid "{color=#f2923c}I am ready{/color}"
-msgstr ""
+msgstr "{color=#f2923c}Я готов{/color}"
 
 # game/Cell01_AM.rpy:565
 msgid "Have you prepared any questions?"
-msgstr ""
+msgstr "Ты подготовила вопросы?"
 
 # game/Cell01_AM.rpy:565
 msgid "Nice legs"
-msgstr ""
+msgstr "Классные ножки"
 
 # game/Cell01_AM.rpy:632
 msgid "It is top secret"
-msgstr ""
+msgstr "Это совершенно секретно"
 
 # game/Cell01_AM.rpy:632
 msgid "We are working on a theme park"
-msgstr ""
+msgstr "Мы работаем над тематическим парком"
 
 # game/Cell01_AM.rpy:632
 msgid "We work in a planet-sized park with top-tier androids"
-msgstr ""
+msgstr "Мы работаем в парке размером с планету с андроидами высшего класса"
 
 # game/Cell01_AM.rpy:685
 msgid "What is your profession? "
-msgstr ""
+msgstr "Какова ваша профессия? "
 
 # game/Cell01_AM.rpy:685
 msgid "{color=#797979}What is your profession? {/color}"
-msgstr ""
+msgstr "{color=#797979}Какая у вас профессия? {/цвет}"
 
 # game/Cell01_AM.rpy:685
 msgid "{color=#3ad8ff}Would this be a good job for you?{/color}"
-msgstr ""
+msgstr "{color=#3ad8ff}Подойдет ли вам эта работа?{/color}"
 
 # game/Cell01_AM.rpy:685
 msgid "{color=#797979}Would this be a good job for you?{/color}"
-msgstr ""
+msgstr "{color=#797979}Подойдет ли вам эта работа?{/color}"
 
 # game/Cell01_AM.rpy:685
 msgid "What are your qualities?"
-msgstr ""
+msgstr "Какие у вас положительные качества?"
 
 # game/Cell01_AM.rpy:685
 msgid "{color=#797979}What are your qualities?{/color}"
-msgstr ""
+msgstr "{color=#797979}Какие у вас положительные качества?{/color}"
 
 # game/Cell01_AM.rpy:685
 msgid "What is your worst defect?"
-msgstr ""
+msgstr "Какой у вас самый худший недостаток?"
 
 # game/Cell01_AM.rpy:685
 msgid "{color=#797979}What is your worst defect?{/color}"
-msgstr ""
+msgstr "{color=#797979}Какой у вас самый худший недостаток?{/color}"
 
 # game/Cell01_AM.rpy:685
 msgid "{color=#f2923c}Do you have a question to ask Amelia?{/color} "
-msgstr ""
+msgstr "{color=#f2923c}У тебя есть вопрос Амелия?{/color} "
 
 # game/Cell01_AM.rpy:930
 msgid "The most expensive on the market "
-msgstr ""
+msgstr "Самая дорогая на рынке "
 
 # game/Cell01_AM.rpy:930
 msgid "We are under the protection of the empire "
-msgstr ""
+msgstr "Мы под защитой империи "
 
 # game/Cell01_AM.rpy:930
 msgid "We don't really have any"
-msgstr ""
+msgstr "У нас действительно нет"
 
 # game/Cell01_AM.rpy:968
 msgid "{color=#f2923c}Mh... Do you have a question to ask Amelia?{/color} "
-msgstr ""
+msgstr "{color=#f2923c}Мх... У тебя есть вопросы Амелии?{/color} "
 
 # game/Cell01_AM.rpy:1096
 msgid "Yes, I think it's a good idea"
-msgstr ""
+msgstr "Да, я думаю, это хорошая идея"
 
 # game/Cell01_AM.rpy:1096
 msgid "No."
-msgstr ""
+msgstr "Нет."
 
 # game/Cell01_AM.rpy:1159
 msgid "I liked Valentina"
-msgstr ""
+msgstr "Мне понравилась Валентина"
 
 # game/Cell01_AM.rpy:1159
 msgid "Yes, the girl from yesterday was horrible"
-msgstr ""
+msgstr "Да, вчерашняя девушка была ужасна"
 
 # game/Cell01_AM.rpy:1214
 msgid "What is your profession?"
@@ -1878,7 +1878,7 @@ msgstr ""
 
 # game/Cell01_AM.rpy:1214
 msgid "{color=#797979}What is your profession?{/color}"
-msgstr ""
+msgstr "{color=#797979}Какая у ваc профессия?{/color}"
 
 # game/Cell01_AM.rpy:1331
 msgid "It suits her. "
