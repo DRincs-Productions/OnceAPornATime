@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-03-14 12:18\n"
+"PO-Revision-Date: 2024-03-14 13:42\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Intro01.rpy:64 #-#-# translate crowdin Intro01_93eeba4f:
 msgid "[_tb_] Greetings!"
@@ -1950,47 +1950,47 @@ msgstr "[_u_] ..."
 
 # game/Intro01.rpy:2023 #-#-# translate crowdin Intro_PrisonEnd_menu01_e6f175da:
 msgid "[_u_] Pff... what a wimp."
-msgstr ""
+msgstr "[_u_] 唉... 真是个怂逼。"
 
 # game/Intro01.rpy:2025 #-#-# translate crowdin Intro_PrisonEnd_menu01_d6daa8b0:
 msgid "[_u_] Okay, I know my classics... "
-msgstr ""
+msgstr "[_u_] 好吧，我也知道我素来如此... "
 
 # game/Intro01.rpy:2026 #-#-# translate crowdin Intro_PrisonEnd_menu01_40151234:
 msgid "[_u_] I just have to wish to return to the headquarters... "
-msgstr ""
+msgstr "[_u_] 只不过我希望我能回到总部... "
 
 # game/Intro01.rpy:2027 #-#-# translate crowdin Intro_PrisonEnd_menu01_70087955:
 msgid "[_u_] And I could finally get the hell out of here."
-msgstr ""
+msgstr "[_u_] 然后我终于可以离开这里了。"
 
 # game/Intro01.rpy:2028 #-#-# translate crowdin Intro_PrisonEnd_menu01_d88fc064:
 msgid "[_u_] Easy."
-msgstr ""
+msgstr "[_u_] 放轻松。"
 
 # game/Intro01.rpy:2030 #-#-# translate crowdin Intro_PrisonEnd_menu01_f73db7a6:
 msgid "[_u_] Let's just hope this lamp still works."
-msgstr ""
+msgstr "[_u_] 但愿这盏神灯能显灵吧。"
 
 # game/Intro01.rpy:2035 #-#-# translate crowdin Intro_PrisonEnd_menu01_7fb6e6fe:
 msgid "[_u_] Nice lamp."
-msgstr ""
+msgstr "[_u_] 这灯挺漂亮的。"
 
 # game/Intro01.rpy:2036 #-#-# translate crowdin Intro_PrisonEnd_menu01_e919f512:
 msgid "[_u_] Come on, let's make this trinket shine."
-msgstr ""
+msgstr "[_u_] 来吧，漂亮神灯快闪闪发光吧。"
 
 # game/Intro01.rpy:2054 #-#-# translate crowdin IntroDjinlampe_01continue_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Intro01.rpy:2055 #-#-# translate crowdin IntroDjinlampe_01continue_1e197253:
 msgid "[_u_] Just a little more..."
-msgstr ""
+msgstr "[_u_] 再亮一点..."
 
 # game/Intro01.rpy:2100 #-#-# translate crowdin IntroDjinlampe_02continue_63abc704:
 msgid "{cps=10}{color=#c10206} {font=BLKCHCRY.ttf} {size=35}Who Dares Enter My Domain? {/size} {/font=BLKCHCRY.ttf} {/color}{/cps}"
-msgstr ""
+msgstr "{cps=10}{color=#c10206} {font=BLKCHCRY.ttf} {size=35}是谁胆敢闯入我的领域？ {/size} {/font=BLKCHCRY.ttf} {/color}{/cps}"
 
 # game/Intro01.rpy:2104 #-#-# translate crowdin IntroDjinlampe_02continue_a7c3200c:
 msgid "{cps=10}{color=#c10206} {font=BLKCHCRY.ttf} {size=35}Who Dares Disturb My Peace? {/size} {/font=BLKCHCRY.ttf} {/color}{/cps}"
@@ -1998,67 +1998,67 @@ msgstr ""
 
 # game/Intro01.rpy:2123 #-#-# translate crowdin IntroDjinlampe_02continue_5ae2cacb:
 msgid "{cps=10}{color=#c10206} {font=BLKCHCRY.ttf} {size=35}...Only Those Whose Purity Of Soul Equals A Diamond {/size} {/font=BLKCHCRY.ttf} {/color}{/cps}"
-msgstr ""
+msgstr "{cps=10}{color=#c10206} {font=BLKCHCRY.ttf} {size=35}...只有那些灵魂如钻石般纯洁的人 {/size} {/font=BLKCHCRY.ttf} {/color}{/cps}"
 
 # game/Intro01.rpy:2124 #-#-# translate crowdin IntroDjinlampe_02continue_df7b5edd:
 msgid "{cps=10}{color=#c10206} {font=BLKCHCRY.ttf} {size=35}...Shall Have My Favor. {/size} {/font=BLKCHCRY.ttf} {/color}{/cps} "
-msgstr ""
+msgstr "{cps=10}{color=#c10206} {font=BLKCHCRY.ttf} {size=35}...才能得到我的恩惠。 {/size} {/font=BLKCHCRY.ttf} {/color}{/cps} "
 
 # game/Intro01.rpy:2130 #-#-# translate crowdin IntroDjinlampe_02continue_e1c2658c:
 msgid "[_u_] Oh boy..."
-msgstr ""
+msgstr "[_u_] 哦，天啊..."
 
 # game/Intro01.rpy:2131 #-#-# translate crowdin IntroDjinlampe_02continue_951a7b64:
 msgid "[_u_] I've fucked so many androids... my soul's purity must be undetectable. "
-msgstr ""
+msgstr "[_u_] 我上过那么多机器人... 我的灵魂肯定检测不出一丁点的纯洁。 "
 
 # game/Intro01.rpy:2135 #-#-# translate crowdin IntroDjinlampe_02continue_6f868626:
 msgid "{cps=10}{color=#c10206} {font=BLKCHCRY.ttf} {size=35}...{/size} {/font=BLKCHCRY.ttf} {/color}{/cps}"
-msgstr ""
+msgstr "{cps=10}{color=#c10206} {font=BLKCHCRY.ttf} {size=35}...{/size} {/font=BLKCHCRY.ttf} {/color}{/cps}"
 
 # game/Intro01.rpy:2136 #-#-# translate crowdin IntroDjinlampe_02continue_069f8178:
 msgid "{cps=10}{color=#c10206} {font=BLKCHCRY.ttf} {size=35}...You've... What?{/size} {/font=BLKCHCRY.ttf} {/color}{/cps}"
-msgstr ""
+msgstr "{cps=10}{color=#c10206} {font=BLKCHCRY.ttf} {size=35}...你上过... 什么？{/size} {/font=BLKCHCRY.ttf} {/color}{/cps}"
 
 # game/Intro01.rpy:2145 #-#-# translate crowdin IntroDjinlampe_02continue_505d44e6:
 msgid "[_u_] Hey, can we talk calmly? "
-msgstr ""
+msgstr "[_u_] 嘿，我们能心平气和的谈谈吗？ "
 
 # game/Intro01.rpy:2163 #-#-# translate crowdin IntroDjinlampe_02continue_2fe0eee3:
 msgid "[_dj_s_] What did you say?"
-msgstr ""
+msgstr "[_dj_s_] 你都说了些什么？"
 
 # game/Intro01.rpy:2164 #-#-# translate crowdin IntroDjinlampe_02continue_70d977d8:
 msgid "[_u_] I... "
-msgstr ""
+msgstr "[_u_] 我... "
 
 # game/Intro01.rpy:2165 #-#-# translate crowdin IntroDjinlampe_02continue_f991131a:
 msgid "[_u_] hum...."
-msgstr ""
+msgstr "[_u_] 额嗯...."
 
 # game/Intro01.rpy:2166 #-#-# translate crowdin IntroDjinlampe_02continue_4601dc26:
 msgid "[_u_] I said that... uh my soul was probably not pure."
-msgstr ""
+msgstr "[_u_] 我说了... 呃，我的灵魂可能并不纯洁。"
 
 # game/Intro01.rpy:2168 #-#-# translate crowdin IntroDjinlampe_02continue_c55bb9de:
 msgid "[_dj_s_] Yes, I heard that. But why?"
-msgstr ""
+msgstr "[_dj_s_] 是的，我听到了。但是原因呢？"
 
 # game/Intro01.rpy:2169 #-#-# translate crowdin IntroDjinlampe_02continue_5a11baeb:
 msgid "[_u_] Because I..."
-msgstr ""
+msgstr "[_u_] 因为我..."
 
 # game/Intro01.rpy:2170 #-#-# translate crowdin IntroDjinlampe_02continue_4850795a:
 msgid "[_u_] ...fucked a lot of androids? "
-msgstr ""
+msgstr "[_u_] ...上过很多机器人？ "
 
 # game/Intro01.rpy:2172 #-#-# translate crowdin IntroDjinlampe_02continue_e393b522:
 msgid "[_dj_s_] ???"
-msgstr ""
+msgstr "[_dj_s_] ？？？"
 
 # game/Intro01.rpy:2173 #-#-# translate crowdin IntroDjinlampe_02continue_d1e56c12:
 msgid "[_u_] It's normal that you don't understand."
-msgstr ""
+msgstr "[_u_] 你不能理解的话，那其实也正常。"
 
 # game/Intro01.rpy:2174 #-#-# translate crowdin IntroDjinlampe_02continue_fe664856:
 msgid "[_u_] You are an android yourself, you are programmed not to understand that word. "
