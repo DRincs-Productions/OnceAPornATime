@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-03-14 15:09\n"
+"PO-Revision-Date: 2024-03-14 16:21\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Intro01.rpy:64 #-#-# translate crowdin Intro01_93eeba4f:
 msgid "[_tb_] Greetings!"
@@ -2170,7 +2170,7 @@ msgstr "[_dj_] 不会，我被设计出来的目的就是这个，我很高兴�
 
 # game/Intro01.rpy:2245 #-#-# translate crowdin IntroDjinlampe_menu01_P1_5e979341:
 msgid "[_dj_] Even if... it's been a long time since there were any visitors here. "
-msgstr "[_dj_] 即使... 即使这里已经很久没有人来了。 "
+msgstr "[_dj_] 即使... 即使这里已经很久没有游客来了。 "
 
 # game/Intro01.rpy:2246 #-#-# translate crowdin IntroDjinlampe_menu01_P1_3f66f023:
 msgid "[_u_] Yeah... the park closed 200 years ago. "
@@ -2186,15 +2186,15 @@ msgstr "[_dj_] 哦，呃... 没有吧。 "
 
 # game/Intro01.rpy:2257 #-#-# translate crowdin IntroDjinlampe_menu01_P2_5768711d:
 msgid "[_dj_] I have a more than pleasant life in this lamp. "
-msgstr ""
+msgstr "[_dj_] 我在神灯里过着非常愉快的生活。 "
 
 # game/Intro01.rpy:2258 #-#-# translate crowdin IntroDjinlampe_menu01_P2_0f07ccc4:
 msgid "[_u_] ?"
-msgstr ""
+msgstr "[_u_] ？"
 
 # game/Intro01.rpy:2260 #-#-# translate crowdin IntroDjinlampe_menu01_P2_4fbd6001:
 msgid "[_dj_] This is the deal that was offered to me by the former boss:"
-msgstr ""
+msgstr "[_dj_] 这是前任老板给我提出的交易条件:"
 
 # game/Intro01.rpy:2262 #-#-# translate crowdin IntroDjinlampe_menu01_P2_6c87d347:
 msgid "[_dj_] I become the genie of the lamp, I help the visitors in their quests, that kind of things... "
