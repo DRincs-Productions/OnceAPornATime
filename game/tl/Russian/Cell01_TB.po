@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2024-03-14 05:16\n"
+"PO-Revision-Date: 2024-03-14 06:35\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_TB.rpy:29 #-#-# translate crowdin Cell01_TB_126a6d5f:
 msgid "[_tb_] I'll be there in a second."
@@ -255,7 +255,7 @@ msgstr ""
 
 # game/Cell01_TB.rpy:444 #-#-# translate crowdin Cell01_TB_QuestionsNones_05d56d8e:
 msgid "[_tb_] ..."
-msgstr ""
+msgstr "[_tb_] ..."
 
 # game/Cell01_TB.rpy:446 #-#-# translate crowdin Cell01_TB_QuestionsNones_dd32ff6f:
 msgid "[_tb_] No, anywhere on the planet I mean..."
@@ -455,7 +455,7 @@ msgstr ""
 
 # game/Cell01_TB.rpy:559 #-#-# translate crowdin TB2QUEST_01_05d56d8e:
 msgid "[_tb_] ..."
-msgstr ""
+msgstr "[_tb_] ..."
 
 # game/Cell01_TB.rpy:560 #-#-# translate crowdin TB2QUEST_01_7b1c1392_2:
 msgid "[_u_] ..."
@@ -467,7 +467,7 @@ msgstr ""
 
 # game/Cell01_TB.rpy:563 #-#-# translate crowdin TB2QUEST_01_05d56d8e_1:
 msgid "[_tb_] ..."
-msgstr ""
+msgstr "[_tb_] ..."
 
 # game/Cell01_TB.rpy:565 #-#-# translate crowdin TB2QUEST_01_33a6ec2b:
 msgid "[_tb_] I configured your drone to find what I want. "
@@ -639,7 +639,7 @@ msgstr ""
 
 # game/Cell01_TB.rpy:674 #-#-# translate crowdin QuestChap2_Amelia01_03_040a03dd:
 msgid "[_tb_] Great!"
-msgstr ""
+msgstr "[_tb_] Здорово!"
 
 # game/Cell01_TB.rpy:676 #-#-# translate crowdin QuestChap2_Amelia01_03_b5710761:
 msgid "[_tb_] And then, as my second in command here, I'm sure you'll eliminate the worst cases. "
@@ -759,7 +759,7 @@ msgstr ""
 
 # game/Cell01_TB.rpy:761 #-#-# translate crowdin LY_TinkerOutfit04Retake01_00_05d56d8e:
 msgid "[_tb_] ..."
-msgstr ""
+msgstr "[_tb_] ..."
 
 # game/Cell01_TB.rpy:762 #-#-# translate crowdin LY_TinkerOutfit04Retake01_00_15a34f6e:
 msgid "[_u_] Name one other fairy tradition."
@@ -767,7 +767,7 @@ msgstr ""
 
 # game/Cell01_TB.rpy:764 #-#-# translate crowdin LY_TinkerOutfit04Retake01_00_3e745270:
 msgid "[_tb_] Mh..."
-msgstr ""
+msgstr "[_tb_] Мх..."
 
 # game/Cell01_TB.rpy:766 #-#-# translate crowdin LY_TinkerOutfit04Retake01_00_9300bf87:
 msgid "[_tb_] Can you go to Lyco for me? See if she can take care of it? "
@@ -807,7 +807,7 @@ msgstr ""
 
 # game/Cell01_TB.rpy:795 #-#-# translate crowdin TBReactionDress01Variation_05d56d8e:
 msgid "[_tb_] ..."
-msgstr ""
+msgstr "[_tb_] ..."
 
 # game/Cell01_TB.rpy:797 #-#-# translate crowdin TBReactionDress01Variation_2777db0d:
 msgid "[_tb_] Because Melissandre built me a really big dressing room and it's empty."
@@ -967,7 +967,7 @@ msgstr ""
 
 # game/Cell01_TB.rpy:919 #-#-# translate crowdin TBReactionDress04Variation_01_05d56d8e:
 msgid "[_tb_] ..."
-msgstr ""
+msgstr "[_tb_] ..."
 
 # game/Cell01_TB.rpy:921 #-#-# translate crowdin TBReactionDress04Variation_01_265471e7:
 msgid "[_tb_] What do you have against tights? "
@@ -979,7 +979,7 @@ msgstr ""
 
 # game/Cell01_TB.rpy:924 #-#-# translate crowdin TBReactionDress04Variation_01_05d56d8e_1:
 msgid "[_tb_] ..."
-msgstr ""
+msgstr "[_tb_] ..."
 
 # game/Cell01_TB.rpy:926 #-#-# translate crowdin TBReactionDress04Variation_01_d06a8d73:
 msgid "[_tb_] Ok! Why not!"
@@ -1107,7 +1107,7 @@ msgstr "[_u_] ..."
 
 # game/Cell01_TB.rpy:1023 #-#-# translate crowdin TBReactionDress05andHair03_05d56d8e:
 msgid "[_tb_] ..."
-msgstr ""
+msgstr "[_tb_] ..."
 
 # game/Cell01_TB.rpy:1024 #-#-# translate crowdin TBReactionDress05andHair03_5a7e2bf8:
 msgid "[_u_] Be careful, I can do it."
@@ -1163,7 +1163,7 @@ msgstr ""
 
 # game/Cell01_TB.rpy:1053 #-#-# translate crowdin Quest_JM_Favor_Ask2_Tinker_05d56d8e:
 msgid "[_tb_] ..."
-msgstr ""
+msgstr "[_tb_] ..."
 
 # game/Cell01_TB.rpy:1055 #-#-# translate crowdin Quest_JM_Favor_Ask2_Tinker_e49bcb6d:
 msgid "[_tb_] What? "
@@ -1315,7 +1315,7 @@ msgstr ""
 
 # game/Cell01_TB.rpy:1150 #-#-# translate crowdin TBReactionLicorne_05d56d8e:
 msgid "[_tb_] ..."
-msgstr ""
+msgstr "[_tb_] ..."
 
 # game/Cell01_TB.rpy:1152 #-#-# translate crowdin TBReactionLicorne_ae13c27d:
 msgid "[_tb_] Are you seriously proposing to stick a unicorn horn up my ass? "
