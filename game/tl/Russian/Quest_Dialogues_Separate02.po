@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2024-03-13 06:19\n"
+"PO-Revision-Date: 2024-03-14 00:06\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Quest_Dialogues_Separate02.rpy:69 #-#-# translate crowdin Quest2_Room01Panel01screen_E_8240cba6:
 msgid "[_u_] Got it!"
@@ -6881,7 +6881,7 @@ msgstr ""
 
 # game/Quest_Dialogues_Separate02.rpy:5160 #-#-# translate crowdin QuestChap2_Message01_01_menu1_P1_a8b55720:
 msgid "[_u_] Who are you? "
-msgstr ""
+msgstr "[_u_] Кто ты? "
 
 # game/Quest_Dialogues_Separate02.rpy:5161 #-#-# translate crowdin QuestChap2_Message01_01_menu1_P1_98a8f2d6:
 msgid "[_u_] Do we know each other? "
