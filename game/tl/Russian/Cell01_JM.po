@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2024-03-12 06:14\n"
+"PO-Revision-Date: 2024-03-14 06:34\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_JM.rpy:131 #-#-# translate crowdin CHARA_JM_Menu01_0eca5cd6:
 msgid "[_jm_] Hello to you... my [Quest_JM_NameMC]."
@@ -5158,7 +5158,7 @@ msgstr ""
 
 # game/Cell01_JM.rpy:3981 #-#-# translate crowdin QuestChap2_Jasmine01_03_05d56d8e:
 msgid "[_tb_] ..."
-msgstr ""
+msgstr "[_tb_] ..."
 
 # game/Cell01_JM.rpy:3982 #-#-# translate crowdin QuestChap2_Jasmine01_03_cf894ec5:
 msgid "[_u_] She must be somewhere in town. "
@@ -5202,7 +5202,7 @@ msgstr ""
 
 # game/Cell01_JM.rpy:4002 #-#-# translate crowdin QuestChap2_Jasmine01_03_05d56d8e_1:
 msgid "[_tb_] ..."
-msgstr ""
+msgstr "[_tb_] ..."
 
 # game/Cell01_JM.rpy:4004 #-#-# translate crowdin QuestChap2_Jasmine01_03_882c8cef:
 msgid "[_tb_] If I say yes and you fail... "
