@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2024-03-14 11:18\n"
+"PO-Revision-Date: 2024-03-14 12:18\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_SZ.rpy:87 #-#-# translate crowdin CHARA_SZ_Menu01_af6c6a0a:
 msgid "[_sz_]  ... "
@@ -2802,7 +2802,7 @@ msgstr "[_u_] ..."
 
 # game/Cell01_SZ.rpy:1909 #-#-# translate crowdin Quest_SZ_App01_e7743dcf:
 msgid "[_u_] Great."
-msgstr ""
+msgstr "[_u_] Здорово."
 
 # game/Cell01_SZ.rpy:1910 #-#-# translate crowdin Quest_SZ_App01_7ed0f17f:
 msgid "[_u_] Tinker, what do I do? "
