@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2024-03-13 06:19\n"
+"PO-Revision-Date: 2024-03-14 06:35\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_ML.rpy:73 #-#-# translate crowdin CHARA_ML_Menu01_b7639ffd:
 msgid "[_ml_] Yo."
@@ -1474,7 +1474,7 @@ msgstr ""
 
 # game/Cell01_ML.rpy:1371 #-#-# translate crowdin ML_Melissandre_Dress02REACTION_46698d44:
 msgid "[_u_] Exactly."
-msgstr ""
+msgstr "[_u_] Точно."
 
 # game/Cell01_ML.rpy:1373 #-#-# translate crowdin ML_Melissandre_Dress02REACTION_02459f7b:
 msgid "[_ml_] Well... this chick is really good."
@@ -1522,7 +1522,7 @@ msgstr ""
 
 # game/Cell01_ML.rpy:1409 #-#-# translate crowdin Melissandre_Change_OutfitSpe01_05d56d8e:
 msgid "[_tb_] ..."
-msgstr ""
+msgstr "[_tb_] ..."
 
 # game/Cell01_ML.rpy:1410 #-#-# translate crowdin Melissandre_Change_OutfitSpe01_7a82bd8d:
 msgid "[_ml_] ..."
