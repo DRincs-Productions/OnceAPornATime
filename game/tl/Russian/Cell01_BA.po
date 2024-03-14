@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2024-03-07 19:59\n"
+"PO-Revision-Date: 2024-03-14 05:16\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_BA.rpy:50 #-#-# translate crowdin CHARA_BA_Menu01_98aea068:
 msgid "[_ba_]  ... "
@@ -314,7 +314,7 @@ msgstr ""
 
 # game/Cell01_BA.rpy:283 #-#-# translate crowdin Quest_BA_App01_01_07c612b3:
 msgid "[_u_] Well..."
-msgstr ""
+msgstr "[_у_] Ну..."
 
 # game/Cell01_BA.rpy:294 #-#-# translate crowdin Quest_BA_App01_01_795609eb:
 msgid "[_ba_] So you weren't kidding... "
@@ -758,7 +758,7 @@ msgstr ""
 
 # game/Cell01_BA.rpy:554 #-#-# translate crowdin Ml_Ali_01_08_menu1_b0ff36fe:
 msgid "[_u_] Gosh..."
-msgstr ""
+msgstr "[_u_] Боже..."
 
 # game/Cell01_BA.rpy:555 #-#-# translate crowdin Ml_Ali_01_08_menu1_5546e67c:
 msgid "[_u_] I think this is the first time a virgin has offered to fuck someone so quickly. "
