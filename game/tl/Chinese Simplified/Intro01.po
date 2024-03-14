@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-03-14 11:18\n"
+"PO-Revision-Date: 2024-03-14 12:18\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Intro01.rpy:64 #-#-# translate crowdin Intro01_93eeba4f:
 msgid "[_tb_] Greetings!"
@@ -1818,7 +1818,7 @@ msgstr "[_u_] 嗯。"
 
 # game/Intro01.rpy:1960 #-#-# translate crowdin Intro_PrisonEnd_menu01_fe918d36:
 msgid "[_ly_] It is said that whoever finds it, will obtain exceptional powers. "
-msgstr "[_ly_] 据说找到它的人，将会获得非凡的力量。 "
+msgstr "[_ly_] 据说找到秘密房间的人，将会获得非凡的力量。 "
 
 # game/Intro01.rpy:1962 #-#-# translate crowdin Intro_PrisonEnd_menu01_80f47ece:
 msgid "[_ly_] Or become super rich... "
@@ -1834,111 +1834,111 @@ msgstr "[_u_] ..."
 
 # game/Intro01.rpy:1967 #-#-# translate crowdin Intro_PrisonEnd_menu01_c15cc554:
 msgid "[_ly_] Everyone has their own version."
-msgstr ""
+msgstr "[_ly_] 每个人都有自己独有的版本。"
 
 # game/Intro01.rpy:1968 #-#-# translate crowdin Intro_PrisonEnd_menu01_ecae4177:
 msgid "[_u_] I see... And there is something that prevents you from accessing it? "
-msgstr ""
+msgstr "[_u_] 我懂了... 那是有什么东西在阻碍你不能到那个房间吗？ "
 
 # game/Intro01.rpy:1970 #-#-# translate crowdin Intro_PrisonEnd_menu01_ab6d7a48:
 msgid "[_ly_] Well... let's just say that no one has ever found this room. "
-msgstr ""
+msgstr "[_ly_] 这个嘛... 这么说吧，从来没有人发现过这个房间。 "
 
 # game/Intro01.rpy:1972 #-#-# translate crowdin Intro_PrisonEnd_menu01_a6d9f62e:
 msgid "[_ly_] BUT! I think I have found it!"
-msgstr ""
+msgstr "[_ly_] 不过！我觉得我找到了！"
 
 # game/Intro01.rpy:1973 #-#-# translate crowdin Intro_PrisonEnd_menu01_c5446f18:
 msgid "[_u_] Really?"
-msgstr ""
+msgstr "[_u_] 真的？"
 
 # game/Intro01.rpy:1975 #-#-# translate crowdin Intro_PrisonEnd_menu01_c53c4a02:
 msgid "[_ly_] Well... I found a hidden staircase under a stone slab while cleaning a few days ago. "
-msgstr ""
+msgstr "[_ly_] 嗯... 我前几天在打扫卫生的时候，在一块石板下面发现了一段被隐藏起来的楼梯。 "
 
 # game/Intro01.rpy:1977 #-#-# translate crowdin Intro_PrisonEnd_menu01_cfa45b7e:
 msgid "[_ly_] And at the end of the stairs... a door. In massive stone. With a lock. "
-msgstr ""
+msgstr "[_ly_] 而楼梯的尽头则是... 一扇门。由巨石砌成。还上了锁。 "
 
 # game/Intro01.rpy:1979 #-#-# translate crowdin Intro_PrisonEnd_menu01_f2accd04:
 msgid "[_ly_] And guess what the key should look like? "
-msgstr ""
+msgstr "[_ly_] 然后再猜猜钥匙大概是什么样子的？ "
 
 # game/Intro01.rpy:1980 #-#-# translate crowdin Intro_PrisonEnd_menu01_79cfd43c:
 msgid "[_u_] Eheh"
-msgstr ""
+msgstr "[_u_] 呃"
 
 # game/Intro01.rpy:1981 #-#-# translate crowdin Intro_PrisonEnd_menu01_484ee04a:
 msgid "[_u_] Shall we go now? Before your mistress gets here. "
-msgstr ""
+msgstr "[_u_] 我们可以去那里了吗？趁你主子还没来。 "
 
 # game/Intro01.rpy:1983 #-#-# translate crowdin Intro_PrisonEnd_menu01_fab21dcd:
 msgid "[_ly_] Not we, you."
-msgstr ""
+msgstr "[_ly_] 不是我们去，是你去。"
 
 # game/Intro01.rpy:1985 #-#-# translate crowdin Intro_PrisonEnd_menu01_5c835fc3:
 msgid "[_ly_] Do I look like a catacomb explorer to you?"
-msgstr ""
+msgstr "[_ly_] 你看我像是个摸金校尉吗？"
 
 # game/Intro01.rpy:1987 #-#-# translate crowdin Intro_PrisonEnd_menu01_b48e65b3:
 msgid "[_ly_] Nah, you go alone, and come back if you find something interesting. "
-msgstr ""
+msgstr "[_ly_] 不像，但你还是要自己一个人去，然后等你找到有趣的东西再回来。 "
 
 # game/Intro01.rpy:1988 #-#-# translate crowdin Intro_PrisonEnd_menu01_7b1c1392_2:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Intro01.rpy:1990 #-#-# translate crowdin Intro_PrisonEnd_menu01_d569dc25:
 msgid "[_ly_] Oh, don't make that face, you can handle it all by yourself, big boy. "
-msgstr ""
+msgstr "[_ly_] 哦，别露出这种表情，你可以自己一个人搞定这事的，猛男。 "
 
 # game/Intro01.rpy:1991 #-#-# translate crowdin Intro_PrisonEnd_menu01_7ca1d4dc:
 msgid "[_u_] Yeah sure..."
-msgstr ""
+msgstr "[_u_] 是这么说没错啦..."
 
 # game/Intro01.rpy:1992 #-#-# translate crowdin Intro_PrisonEnd_menu01_2b45726d:
 msgid "[_u_] I have a feeling that all of this will revolve around a magic lamp. "
-msgstr ""
+msgstr "[_u_] 但我有一种预感，接下来发生的一切，都将围绕着一盏神灯展开。 "
 
 # game/Intro01.rpy:1994 #-#-# translate crowdin Intro_PrisonEnd_menu01_f6ac3e5f:
 msgid "[_ly_] A magic lamp?"
-msgstr ""
+msgstr "[_ly_] 一盏神灯？"
 
 # game/Intro01.rpy:1996 #-#-# translate crowdin Intro_PrisonEnd_menu01_ba649e0a:
 msgid "[_ly_] That would be pretty ridiculous."
-msgstr ""
+msgstr "[_ly_] 那可太荒唐可笑了。"
 
 # game/Intro01.rpy:1998 #-#-# translate crowdin Intro_PrisonEnd_menu01_a59afc76:
 msgid "[_ly_] How about a magic salad bowl?"
-msgstr ""
+msgstr "[_ly_] 换作是一盘神奇沙拉碗如何？"
 
 # game/Intro01.rpy:2000 #-#-# translate crowdin Intro_PrisonEnd_menu01_744a42c4:
 msgid "[_ly_] Or a magic spoon? "
-msgstr ""
+msgstr "[_ly_] 或者换成神勺？ "
 
 # game/Intro01.rpy:2001 #-#-# translate crowdin Intro_PrisonEnd_menu01_54e908d2:
 msgid "[_u_] Let me doubt it. It will be a magic lamp. "
-msgstr ""
+msgstr "[_u_] 我赌一波，放在那里面的是盏神灯。 "
 
 # game/Intro01.rpy:2003 #-#-# translate crowdin Intro_PrisonEnd_menu01_e4ed612d:
 msgid "[_ly_] I don't think so."
-msgstr ""
+msgstr "[_ly_] 我不这么觉得。"
 
 # game/Intro01.rpy:2017 #-#-# translate crowdin Intro_PrisonEnd_menu01_50fef648:
 msgid "[_u_] I knew it."
-msgstr ""
+msgstr "[_u_] 我知道你会不信我。"
 
 # game/Intro01.rpy:2018 #-#-# translate crowdin Intro_PrisonEnd_menu01_3224948d:
 msgid "[_u_] Hey Lyco! I was so right!"
-msgstr ""
+msgstr "[_u_] 嘿，莉可！我可是大对特对了！"
 
 # game/Intro01.rpy:2019 #-#-# translate crowdin Intro_PrisonEnd_menu01_0ca29b78:
 msgid "[_u_] It was indeed a lamp underneath!"
-msgstr ""
+msgstr "[_u_] 藏在地下的确实是一盏神灯！"
 
 # game/Intro01.rpy:2020 #-#-# translate crowdin Intro_PrisonEnd_menu01_7b1c1392_3:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Intro01.rpy:2021 #-#-# translate crowdin Intro_PrisonEnd_menu01_7def6bde:
 msgid "[_u_] Lycoris?"
@@ -1946,7 +1946,7 @@ msgstr "[_u_] 莉可丽丝？"
 
 # game/Intro01.rpy:2022 #-#-# translate crowdin Intro_PrisonEnd_menu01_7b1c1392_4:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Intro01.rpy:2023 #-#-# translate crowdin Intro_PrisonEnd_menu01_e6f175da:
 msgid "[_u_] Pff... what a wimp."
