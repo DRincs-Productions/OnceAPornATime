@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2024-03-13 22:43\n"
+"PO-Revision-Date: 2024-03-14 00:06\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Intro01.rpy:64 #-#-# translate crowdin Intro01_93eeba4f:
 msgid "[_tb_] Greetings!"
@@ -2022,7 +2022,7 @@ msgstr "{cps=10}{color=#c10206} {font=BLKCHCRY.ttf} {size=35}...Ты... Что �
 
 # game/Intro01.rpy:2145 #-#-# translate crowdin IntroDjinlampe_02continue_505d44e6:
 msgid "[_u_] Hey, can we talk calmly? "
-msgstr "[_u_] Эй, а мы можем поговорить поспокойней? "
+msgstr "[_u_] Эй, а мы можем поговорить спокойней? "
 
 # game/Intro01.rpy:2163 #-#-# translate crowdin IntroDjinlampe_02continue_2fe0eee3:
 msgid "[_dj_s_] What did you say?"
@@ -2070,75 +2070,75 @@ msgstr "[_dj_s_] ..."
 
 # game/Intro01.rpy:2178 #-#-# translate crowdin IntroDjinlampe_02continue_6b686206:
 msgid "[_dj_s_] I know very well what an android is."
-msgstr ""
+msgstr "[_dj_s_] Слово \"андроид\" мне очень знакомо, не..."
 
 # game/Intro01.rpy:2180 #-#-# translate crowdin IntroDjinlampe_02continue_5487161d:
 msgid "[_u_] You... what? "
-msgstr ""
+msgstr "[_u_] Стоп, что!? "
 
 # game/Intro01.rpy:2181 #-#-# translate crowdin IntroDjinlampe_02continue_a8b55720:
 msgid "[_u_] Who are you? "
-msgstr ""
+msgstr "[_u_] Кто ты? "
 
 # game/Intro01.rpy:2183 #-#-# translate crowdin IntroDjinlampe_02continue_f1fcaa41:
 msgid "[_dj_s_] I am the genie of the lamp. "
-msgstr ""
+msgstr "[_dj_s_] Джинном из лампы меня называют, "
 
 # game/Intro01.rpy:2185 #-#-# translate crowdin IntroDjinlampe_02continue_19b4e121:
 msgid "[_dj_s_] And I am here to fulfill all your wishes!"
-msgstr ""
+msgstr "[_dj_s_] Мечты исполнять меня заставляют."
 
 # game/Intro01.rpy:2187 #-#-# translate crowdin IntroDjinlampe_02continue_d1cb48e3:
 msgid "[_dj_s_] Need a big pile of gold? A thoroughbred horse? A palace? "
-msgstr ""
+msgstr "[_dj_s_] Желаешь богатства, роскошный дворец?"
 
 # game/Intro01.rpy:2189 #-#-# translate crowdin IntroDjinlampe_02continue_bf425056:
 msgid "[_dj_s_] I'm the genie that you need!"
-msgstr ""
+msgstr "[_dj_s_] Желанья исполню твои, наконец!"
 
 # game/Intro01.rpy:2191 #-#-# translate crowdin IntroDjinlampe_02continue_a8aaa75b:
 msgid "[_dj_s_] But you can also call me ''Djin''"
-msgstr ""
+msgstr "[_dj_s_] Но также ты можешь звать меня \"Джинни\""
 
 # game/Intro01.rpy:2193 #-#-# translate crowdin IntroDjinlampe_02continue_18dc8fca:
 msgid "[_dj_] At your service sir ~ "
-msgstr ""
+msgstr "[_dj_] Я - к вашим услугам, лишь лампу потри мне. "
 
 # game/Intro01.rpy:2195 #-#-# translate crowdin IntroDjinlampe_02continue_9a8ecce3:
 msgid "[_u_] Aren't you an android? "
-msgstr ""
+msgstr "[_u_] Ты разве не андроид? "
 
 # game/Intro01.rpy:2197 #-#-# translate crowdin IntroDjinlampe_02continue_95c96a96:
 msgid "[_u_] But the androids are not conscious... This is the principle of this park. "
-msgstr ""
+msgstr "[_u_] Но андроиды не обладают самосознанием... Таков принцип этого парка. "
 
 # game/Intro01.rpy:2198 #-#-# translate crowdin IntroDjinlampe_02continue_96a3793b:
 msgid "[_u_] I don't understand."
-msgstr ""
+msgstr "[_u_] Ничего не понимаю."
 
 # game/Intro01.rpy:2200 #-#-# translate crowdin IntroDjinlampe_02continue_cf48e08b:
 msgid "[_dj_] So first... Technically I am a hologram, not an android. "
-msgstr ""
+msgstr "[_dj_] Во-первых, технически, я - голограмма, "
 
 # game/Intro01.rpy:2202 #-#-# translate crowdin IntroDjinlampe_02continue_437ae407:
 msgid "[_dj_] And then, I am... Special."
-msgstr ""
+msgstr "[_dj_] Выходит, особа моя программа."
 
 # game/Intro01.rpy:2203 #-#-# translate crowdin IntroDjinlampe_02continue_d287f3c2:
 msgid "[_u_] Are you a conscious AI like Tinker? "
-msgstr ""
+msgstr "[_u_] Ты тоже сознательный ИИ? Прямо как Тинкер? "
 
 # game/Intro01.rpy:2205 #-#-# translate crowdin IntroDjinlampe_02continue_24acff1c:
 msgid "[_dj_] Yes."
-msgstr ""
+msgstr "[_dj_] Ответ положительный, мой дорогой."
 
 # game/Intro01.rpy:2207 #-#-# translate crowdin IntroDjinlampe_02continue_705a3080:
 msgid "[_dj_] Wait, is Tinker still here? On this planet? "
-msgstr ""
+msgstr "[_dj_] Постой, а что, Тинкер связалась с тобой? Она ещё здесь, на этой планете? "
 
 # game/Intro01.rpy:2208 #-#-# translate crowdin IntroDjinlampe_02continue_970e5d40:
 msgid "[_u_] Yeah! She's the boss here. "
-msgstr ""
+msgstr "[_u_] Ага! Она теперь здесь босс. "
 
 # game/Intro01.rpy:2210 #-#-# translate crowdin IntroDjinlampe_02continue_9e6cd790:
 msgid "[_dj_] Well... it looks like my little Tinker played her cards right."
