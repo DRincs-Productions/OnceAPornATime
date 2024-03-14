@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2024-03-13 06:19\n"
+"PO-Revision-Date: 2024-03-14 05:16\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_TB.rpy:29 #-#-# translate crowdin Cell01_TB_126a6d5f:
 msgid "[_tb_] I'll be there in a second."
@@ -98,7 +98,7 @@ msgstr ""
 
 # game/Cell01_TB.rpy:360 #-#-# translate crowdin Cell01_TB_Questions01_b0ff36fe:
 msgid "[_u_] Gosh..."
-msgstr ""
+msgstr "[_u_] Боже..."
 
 # game/Cell01_TB.rpy:361 #-#-# translate crowdin Cell01_TB_Questions01_0ae8bdbc:
 msgid "[_u_] Will we be able to do all this in my lifetime? "
