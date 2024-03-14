@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2024-03-14 07:54\n"
+"PO-Revision-Date: 2024-03-14 12:18\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_BA.rpy:50 #-#-# translate crowdin CHARA_BA_Menu01_98aea068:
 msgid "[_ba_]  ... "
@@ -34,123 +34,123 @@ msgstr "ДОСТУПНО В СЛЕДУЮЩЕМ ОБНОВЛЕНИИ"
 
 # game/Cell01_BA.rpy:105 #-#-# translate crowdin CHARA_BA_MenuChoice_FAVORS2_6d7b7b4a:
 msgid "[_u_] See you later."
-msgstr ""
+msgstr "[_u_] Увидимся позже."
 
 # game/Cell01_BA.rpy:107 #-#-# translate crowdin CHARA_BA_MenuChoice_FAVORS2_3dfd4a8f:
 msgid "[_sz_] Yeah, see ya."
-msgstr ""
+msgstr "[_sz_] Да, увидимся."
 
 # game/Cell01_BA.rpy:127 #-#-# translate crowdin Quest_BA_Favor_Boobs_01_44976c9b:
 msgid "[_ba_] That I show you... what?"
-msgstr ""
+msgstr "[_ba_] Чтобы я тебе показала... что?"
 
 # game/Cell01_BA.rpy:129 #-#-# translate crowdin Quest_BA_Favor_Boobs_01_0232476c:
 msgid "[_ba_] Why would I do that? "
-msgstr ""
+msgstr "[_ba_] С чего бы мне это делать? "
 
 # game/Cell01_BA.rpy:130 #-#-# translate crowdin Quest_BA_Favor_Boobs_01_9a9841bf:
 msgid "[_u_] To make you sexually debauched. To be able to make your wish to the Djin. "
-msgstr ""
+msgstr "[_u_] Чтобы сделать тебя сексуально развратной. Чтобы иметь возможность загадать желание джину. "
 
 # game/Cell01_BA.rpy:132 #-#-# translate crowdin Quest_BA_Favor_Boobs_01_f7106acc:
 msgid "[_ba_] And really... you think the best way to achieve this is for me to..."
-msgstr ""
+msgstr "[_ba_] И ты действительно... думаешь, что лучший способ добиться этого - это..."
 
 # game/Cell01_BA.rpy:134 #-#-# translate crowdin Quest_BA_Favor_Boobs_01_809c1fc3:
 msgid "[_ba_] ...show my breasts?"
-msgstr ""
+msgstr "[_ba_] ...показать мою грудь?"
 
 # game/Cell01_BA.rpy:136 #-#-# translate crowdin Quest_BA_Favor_Boobs_01_6ee176e9:
 msgid "[_ba_] You're not making any sense. "
-msgstr ""
+msgstr "[_ba_] Это бессмыслица. "
 
 # game/Cell01_BA.rpy:138 #-#-# translate crowdin Quest_BA_Favor_Boobs_01_fc00459a:
 msgid "[_ba_] I don't know what kind of imbecile would believe such nonsense. "
-msgstr ""
+msgstr "[_ba_] Я не знаю, какой идиот поверит в такую ​​чушь. "
 
 # game/Cell01_BA.rpy:139 #-#-# translate crowdin Quest_BA_Favor_Boobs_01_cc71eb9a:
 msgid "[_u_] Mh."
-msgstr ""
+msgstr "[_u_] Мх."
 
 # game/Cell01_BA.rpy:140 #-#-# translate crowdin Quest_BA_Favor_Boobs_01_fea7915a:
 msgid "[_u_] Got a problem with nudity?"
-msgstr ""
+msgstr "[_u_] У кого-то проблемы с наготой?"
 
 # game/Cell01_BA.rpy:142 #-#-# translate crowdin Quest_BA_Favor_Boobs_01_0036ca5c:
 msgid "[_ba_] Absolutely not. "
-msgstr ""
+msgstr "[_ba_] Точно нет. "
 
 # game/Cell01_BA.rpy:143 #-#-# translate crowdin Quest_BA_Favor_Boobs_01_15376318:
 msgid "[_u_] Because when I see you reluctant to show your own breasts... "
-msgstr ""
+msgstr "[_u_] Потому что, когда я вижу, что ты не хочешь показывать свою грудь... "
 
 # game/Cell01_BA.rpy:145 #-#-# translate crowdin Quest_BA_Favor_Boobs_01_3204983f:
 msgid "[_u_] You'd think the queen of thieves was also the queen of modesty. "
-msgstr ""
+msgstr "[_u_] Можно подумать, королева воров еще и королева скромности. "
 
 # game/Cell01_BA.rpy:147 #-#-# translate crowdin Quest_BA_Favor_Boobs_01_7611efb4:
 msgid "[_ba_] ..."
-msgstr ""
+msgstr "[_ba_] ..."
 
 # game/Cell01_BA.rpy:149 #-#-# translate crowdin Quest_BA_Favor_Boobs_01_d9f0a406:
 msgid "[_ba_] You're lucky I need you to be a sultana."
-msgstr ""
+msgstr "[_ba_] Тебе повезло, что ты мне нужен, чтобы стать султаншей."
 
 # game/Cell01_BA.rpy:151 #-#-# translate crowdin Quest_BA_Favor_Boobs_01_ca549b72:
 msgid "[_ba_] Otherwise you'd already have had your tongue cut out and... "
-msgstr ""
+msgstr "[_ba_] Иначе тебе бы уже язык отрезали и... "
 
 # game/Cell01_BA.rpy:152 #-#-# translate crowdin Quest_BA_Favor_Boobs_01_08840377:
 msgid "[_u_] ...and thrown into the desert. Yes, I know. "
-msgstr ""
+msgstr "[_u_] ...и бросили в пустыню. Да, я знаю. "
 
 # game/Cell01_BA.rpy:154 #-#-# translate crowdin Quest_BA_Favor_Boobs_01_2e2af925:
 msgid "[_ba_] Mhf..."
-msgstr ""
+msgstr "[_ba_] Ммф..."
 
 # game/Cell01_BA.rpy:155 #-#-# translate crowdin Quest_BA_Favor_Boobs_01_6bd09af9:
 msgid "[_u_] So... why don't you show me your breasts? "
-msgstr ""
+msgstr "[_u_] Итак... почему бы тебе не показать мне свою грудь? "
 
 # game/Cell01_BA.rpy:157 #-#-# translate crowdin Quest_BA_Favor_Boobs_01_e671fb7b:
 msgid "[_ba_] You don't deserve to see my fabulous breasts. "
-msgstr ""
+msgstr "[_ba_] Ты не заслуживаешь видеть мою потрясающую грудь. "
 
 # game/Cell01_BA.rpy:159 #-#-# translate crowdin Quest_BA_Favor_Boobs_01_6b946cf7:
 msgid "[_ba_] I am, after all, a future sultana."
-msgstr ""
+msgstr "[_ba_] В конце концов я будущая султанша."
 
 # game/Cell01_BA.rpy:161 #-#-# translate crowdin Quest_BA_Favor_Boobs_01_b34f3d5e:
 msgid "[_ba_] The breasts of a sultana are one of the most sacred things in this kingdom. "
-msgstr ""
+msgstr "[_ba_] Грудь султанши – одна из самых священных вещей в этом королевстве. "
 
 # game/Cell01_BA.rpy:163 #-#-# translate crowdin Quest_BA_Favor_Boobs_01_961c5d93:
 msgid "[_ba_] Let someone like you see them... Mh... it would be punishable by death. "
-msgstr ""
+msgstr "[_ba_] Если кто-то вроде тебя увидит их... Мм... Это будет караться смертью. "
 
 # game/Cell01_BA.rpy:164 #-#-# translate crowdin Quest_BA_Favor_Boobs_01_626e5ff9:
 msgid "[_u_] Except that you'll never be a sultana if I don't see some breasts... "
-msgstr ""
+msgstr "[_u_] Вот только ты никогда не станешь султаншей, если я не увижу твою грудь... "
 
 # game/Cell01_BA.rpy:166 #-#-# translate crowdin Quest_BA_Favor_Boobs_01_b1c0176c:
 msgid "[_ba_] I definitely don't like the way you talk."
-msgstr ""
+msgstr "[_ba_] Мне очень не нравится, как ты говоришь."
 
 # game/Cell01_BA.rpy:168 #-#-# translate crowdin Quest_BA_Favor_Boobs_01_5d640317:
 msgid "[_ba_] What have I done to the gods to deserve this?"
-msgstr ""
+msgstr "[_ba_] Что я сделала богам, чтобы заслужить это?"
 
 # game/Cell01_BA.rpy:170 #-#-# translate crowdin Quest_BA_Favor_Boobs_01_5f4525c1:
 msgid "[_ba_] Mhr..."
-msgstr ""
+msgstr "[_ba_] Мхр..."
 
 # game/Cell01_BA.rpy:173 #-#-# translate crowdin Quest_BA_Favor_Boobs_01_5735afcb:
 msgid "[_ba_] Come back later, you little pervert."
-msgstr ""
+msgstr "[_ba_] Приходи позже, маленький извращенец."
 
 # game/Cell01_BA.rpy:175 #-#-# translate crowdin Quest_BA_Favor_Boobs_01_e7743dcf:
 msgid "[_u_] Great."
-msgstr ""
+msgstr "[_u_] Здорово."
 
 # game/Cell01_BA.rpy:176 #-#-# translate crowdin Quest_BA_Favor_Boobs_01_06a4f055:
 msgid "[_u_] Tinker... I'm really asking you as a favor... Is it possible to have a simple corruption one day? "
@@ -290,7 +290,7 @@ msgstr ""
 
 # game/Cell01_BA.rpy:273 #-#-# translate crowdin Quest_BA_App01_01_7611efb4:
 msgid "[_ba_] ..."
-msgstr ""
+msgstr "[_ba_] ..."
 
 # game/Cell01_BA.rpy:275 #-#-# translate crowdin Quest_BA_App01_01_921abd65:
 msgid "[_ba_] I can't decide whether to give you a taste of my sword, or leave you in the middle of the desert. "
@@ -326,7 +326,7 @@ msgstr ""
 
 # game/Cell01_BA.rpy:297 #-#-# translate crowdin Quest_BA_App01_01_7611efb4_1:
 msgid "[_ba_] ..."
-msgstr ""
+msgstr "[_ba_] ..."
 
 # game/Cell01_BA.rpy:300 #-#-# translate crowdin Quest_BA_App01_01_c0ed89e7:
 msgid "[_ba_] That's pretty cool."
@@ -462,7 +462,7 @@ msgstr ""
 
 # game/Cell01_BA.rpy:370 #-#-# translate crowdin Quest_BA_App01_01_7611efb4_2:
 msgid "[_ba_] ..."
-msgstr ""
+msgstr "[_ba_] ..."
 
 # game/Cell01_BA.rpy:372 #-#-# translate crowdin Quest_BA_App01_01_d52c27be:
 msgid "[_dj_] As long as your soul is pure, you won't have your wish!"
@@ -502,7 +502,7 @@ msgstr ""
 
 # game/Cell01_BA.rpy:394 #-#-# translate crowdin Quest_BA_App01_01_7611efb4_3:
 msgid "[_ba_] ..."
-msgstr ""
+msgstr "[_ba_] ..."
 
 # game/Cell01_BA.rpy:395 #-#-# translate crowdin Quest_BA_App01_01_88fbf8c4:
 msgid "[_u_] Don't worry, sweetheart, it's not my first time. "
