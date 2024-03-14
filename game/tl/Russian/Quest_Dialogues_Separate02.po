@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2024-03-14 06:35\n"
+"PO-Revision-Date: 2024-03-14 11:18\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Quest_Dialogues_Separate02.rpy:69 #-#-# translate crowdin Quest2_Room01Panel01screen_E_8240cba6:
 msgid "[_u_] Got it!"
@@ -686,7 +686,7 @@ msgstr ""
 
 # game/Quest_Dialogues_Separate02.rpy:483 #-#-# translate crowdin QuestChap2_Amandine01_02_03428ad6:
 msgid "[_a_] See you soon [name]!"
-msgstr ""
+msgstr "[_a_] Увидимся позже, [name]!"
 
 # game/Quest_Dialogues_Separate02.rpy:504 #-#-# translate crowdin QuestChap2_Amandine01_03_407513bc:
 msgid "[_u_] Here we go again."
@@ -2778,7 +2778,7 @@ msgstr ""
 
 # game/Quest_Dialogues_Separate02.rpy:2142 #-#-# translate crowdin QuestChap2_Jasmine01_13_3ff79084:
 msgid "[_u_] Hm..."
-msgstr ""
+msgstr "[_u_] Хм..."
 
 # game/Quest_Dialogues_Separate02.rpy:2143 #-#-# translate crowdin QuestChap2_Jasmine01_13_665aebba:
 msgid "[_u_] Well... where the hell did she put that book?"
@@ -3925,7 +3925,7 @@ msgstr ""
 
 # game/Quest_Dialogues_Separate02.rpy:2997 #-#-# translate crowdin QuestChap2_LyStart_E_04_menu2_P3_bb8e4b4e:
 msgid "[_a_] ..."
-msgstr ""
+msgstr "[_a_] ..."
 
 # game/Quest_Dialogues_Separate02.rpy:3000 #-#-# translate crowdin QuestChap2_LyStart_E_04_menu2_P3_e6bdf68e:
 msgid "[_a_] Nah, I think she just wants to make clothes. "
