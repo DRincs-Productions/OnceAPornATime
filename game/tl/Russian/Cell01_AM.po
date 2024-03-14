@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2024-03-14 07:54\n"
+"PO-Revision-Date: 2024-03-14 09:33\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_AM.rpy:86 #-#-# translate crowdin CHARA_AM_Menu01_c781f953:
 msgid "[_am_] Hey!"
@@ -1874,7 +1874,7 @@ msgstr "Да, вчерашняя девушка была ужасна"
 
 # game/Cell01_AM.rpy:1214
 msgid "What is your profession?"
-msgstr ""
+msgstr "Какова ваша профессия?"
 
 # game/Cell01_AM.rpy:1214
 msgid "{color=#797979}What is your profession?{/color}"
@@ -1882,13 +1882,13 @@ msgstr "{color=#797979}Какая у ваc профессия?{/color}"
 
 # game/Cell01_AM.rpy:1331
 msgid "It suits her. "
-msgstr ""
+msgstr "Ей это идет. "
 
 # game/Cell01_AM.rpy:1331
 msgid "It is very oriental? "
-msgstr ""
+msgstr "Это очень по-восточному? "
 
 # game/Cell01_AM.rpy:1331
 msgid "I prefer her naked. "
-msgstr ""
+msgstr "Я предпочел ее голой. "
 
