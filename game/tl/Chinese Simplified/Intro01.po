@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-03-11 10:22\n"
+"PO-Revision-Date: 2024-03-14 11:18\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Intro01.rpy:64 #-#-# translate crowdin Intro01_93eeba4f:
 msgid "[_tb_] Greetings!"
@@ -1746,91 +1746,91 @@ msgstr "[_ly_] 先生，我想你今天是走了大运的！嘻嘻。"
 
 # game/Intro01.rpy:1906 #-#-# translate crowdin Intro_PrisonEnd_aa12e751:
 msgid "[_ly_] So, tell me [name]..."
-msgstr ""
+msgstr "[_ly_] 那么，告诉我，[name]..."
 
 # game/Intro01.rpy:1910 #-#-# translate crowdin Intro_PrisonEnd_0805cd8f:
 msgid "[_ly_] Have you ever heard the story of... "
-msgstr ""
+msgstr "[_ly_] 你有没有听说过... "
 
 # game/Intro01.rpy:1914 #-#-# translate crowdin Intro_PrisonEnd_f6f7db14:
 msgid "[_ly_] ''The Cave of Wonders''?"
-msgstr ""
+msgstr "[_ly_] ''奇迹之洞''？"
 
 # game/Intro01.rpy:1915 #-#-# translate crowdin Intro_PrisonEnd_a19b774c:
 msgid "[_u_] Title of your sex tape."
-msgstr ""
+msgstr "[_u_] 和你那个性爱录像带的标题一模一样。"
 
 # game/Intro01.rpy:1917 #-#-# translate crowdin Intro_PrisonEnd_3eeb17d3:
 msgid "[_ly_] ..."
-msgstr ""
+msgstr "[_ly_] ..."
 
 # game/Intro01.rpy:1918 #-#-# translate crowdin Intro_PrisonEnd_807aa40d:
 msgid "[_u_] Can you just get me out of here?"
-msgstr ""
+msgstr "[_u_] 你能让我离开这里吗？"
 
 # game/Intro01.rpy:1928 #-#-# translate crowdin Intro_PrisonEnd_1f42d791:
 msgid "[_ly_] All right, listen to me."
-msgstr ""
+msgstr "[_ly_] 好了，听我说。"
 
 # game/Intro01.rpy:1930 #-#-# translate crowdin Intro_PrisonEnd_cccc102e:
 msgid "[_ly_] Her Highness must be in the gardens at this time if, so we don't have much time."
-msgstr ""
+msgstr "[_ly_] 公主殿下现在一定是在公园里，所以我们的时间不多了。"
 
 # game/Intro01.rpy:1932 #-#-# translate crowdin Intro_PrisonEnd_42fddfb4:
 msgid "[_ly_] And if she finds out I brought you in here, I'm dead. "
-msgstr ""
+msgstr "[_ly_] 要是让她发现是我把你带来这里的，那我就死定了。 "
 
 # game/Intro01.rpy:1939 #-#-# translate crowdin Intro_PrisonEnd_menu01_74b00fee:
 msgid "[_ly_] So, there is a hidden passage in the palace that leads to a secret room."
-msgstr ""
+msgstr "[_ly_] 王宫里有一条隐藏的通道，那条通道通往一个秘密房间。"
 
 # game/Intro01.rpy:1943 #-#-# translate crowdin Intro_PrisonEnd_menu01_c05b7272:
 msgid "[_ly_] Jasmine?"
-msgstr ""
+msgstr "[_ly_] 茉莉的秘密房间？"
 
 # game/Intro01.rpy:1945 #-#-# translate crowdin Intro_PrisonEnd_menu01_5f3b8a60:
 msgid "[_ly_] No, the princess's quarters are in the other side of the palace. "
-msgstr ""
+msgstr "[_ly_] 不是，公主的寝室在王宫的另一边。 "
 
 # game/Intro01.rpy:1946 #-#-# translate crowdin Intro_PrisonEnd_menu01_1f0e244a:
 msgid "[_u_] Really... but... "
-msgstr ""
+msgstr "[_u_] 真的吗... 但是... "
 
 # game/Intro01.rpy:1947 #-#-# translate crowdin Intro_PrisonEnd_menu01_d3bcbcb1:
 msgid "[_u_] Who is the woman in blue that you call ''Her Highness''? "
-msgstr ""
+msgstr "[_u_] 那个被你尊称为''公主殿下''的蓝发女人是谁？ "
 
 # game/Intro01.rpy:1949 #-#-# translate crowdin Intro_PrisonEnd_menu01_876263fb:
 msgid "[_ly_] So you really don't know... "
-msgstr ""
+msgstr "[_ly_] 那你是真不知道... "
 
 # game/Intro01.rpy:1951 #-#-# translate crowdin Intro_PrisonEnd_menu01_97482eda:
 msgid "[_ly_] You know what? I will tell you if you succeed in your mission. "
-msgstr ""
+msgstr "[_ly_] 你知道吗？如果你任务成功了 那我就会告诉你这个问题的答案。 "
 
 # game/Intro01.rpy:1953 #-#-# translate crowdin Intro_PrisonEnd_menu01_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Intro01.rpy:1954 #-#-# translate crowdin Intro_PrisonEnd_menu01_cc71eb9a:
 msgid "[_u_] Mh."
-msgstr ""
+msgstr "[_u_] 嗯。"
 
 # game/Intro01.rpy:1960 #-#-# translate crowdin Intro_PrisonEnd_menu01_fe918d36:
 msgid "[_ly_] It is said that whoever finds it, will obtain exceptional powers. "
-msgstr ""
+msgstr "[_ly_] 据说找到它的人，将会获得非凡的力量。 "
 
 # game/Intro01.rpy:1962 #-#-# translate crowdin Intro_PrisonEnd_menu01_80f47ece:
 msgid "[_ly_] Or become super rich... "
-msgstr ""
+msgstr "[_ly_] 或者变成超级富豪... "
 
 # game/Intro01.rpy:1964 #-#-# translate crowdin Intro_PrisonEnd_menu01_5a2b7f1b:
 msgid "[_ly_] Or find love."
-msgstr ""
+msgstr "[_ly_] 或者找到爱情。"
 
 # game/Intro01.rpy:1965 #-#-# translate crowdin Intro_PrisonEnd_menu01_7b1c1392_1:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Intro01.rpy:1967 #-#-# translate crowdin Intro_PrisonEnd_menu01_c15cc554:
 msgid "[_ly_] Everyone has their own version."
