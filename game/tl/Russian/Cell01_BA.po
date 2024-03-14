@@ -10,27 +10,27 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2024-03-14 06:34\n"
+"PO-Revision-Date: 2024-03-14 07:54\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_BA.rpy:50 #-#-# translate crowdin CHARA_BA_Menu01_98aea068:
 msgid "[_ba_]  ... "
-msgstr ""
+msgstr "[_ba_]  ... "
 
 # game/Cell01_BA.rpy:53 #-#-# translate crowdin CHARA_BA_Menu01_658d3e7b:
 msgid "[_ba_]  Oh, not you again..."
-msgstr ""
+msgstr "[_ba_] О, только не ты..."
 
 # game/Cell01_BA.rpy:61 #-#-# translate crowdin CHARA_BA_Menu01_68a0dc42:
 msgid "[_ba_] Greetings [name]. "
-msgstr ""
+msgstr "[_ba_] Приветствую [name]. "
 
 # game/Cell01_BA.rpy:68 #-#-# translate crowdin CHARA_BA_MenuChoice_ee462d5f:
 msgid "AVAILABLE AT THE UPCOMING UPDATE"
-msgstr ""
+msgstr "ДОСТУПНО В СЛЕДУЮЩЕМ ОБНОВЛЕНИИ"
 
 # game/Cell01_BA.rpy:96 #-#-# translate crowdin CHARA_BA_MenuChoice_FAVORS2_ee462d5f:
 msgid "AVAILABLE AT THE UPCOMING UPDATE"
-msgstr ""
+msgstr "ДОСТУПНО В СЛЕДУЮЩЕМ ОБНОВЛЕНИИ"
 
 # game/Cell01_BA.rpy:105 #-#-# translate crowdin CHARA_BA_MenuChoice_FAVORS2_6d7b7b4a:
 msgid "[_u_] See you later."
