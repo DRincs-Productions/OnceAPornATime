@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2024-03-14 06:35\n"
+"PO-Revision-Date: 2024-03-14 11:18\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_SZ.rpy:87 #-#-# translate crowdin CHARA_SZ_Menu01_af6c6a0a:
 msgid "[_sz_]  ... "
@@ -214,7 +214,7 @@ msgstr ""
 
 # game/Cell01_SZ.rpy:345 #-#-# translate crowdin Quest_SZ_Favor_Cape03_bb8e4b4e:
 msgid "[_a_] ..."
-msgstr ""
+msgstr "[_a_] ..."
 
 # game/Cell01_SZ.rpy:352 #-#-# translate crowdin Quest_SZ_Favor_Cape03_8ca8d0f4:
 msgid "[_tb_] Find a way to get rid of the sultana, and we'll all have something else to do than watch you struggle with Sherazade."
@@ -1686,7 +1686,7 @@ msgstr ""
 
 # game/Cell01_SZ.rpy:1272 #-#-# translate crowdin Quest_SZ_Favor_Dress_01_menu1_P2_bb8e4b4e:
 msgid "[_a_] ..."
-msgstr ""
+msgstr "[_a_] ..."
 
 # game/Cell01_SZ.rpy:1274 #-#-# translate crowdin Quest_SZ_Favor_Dress_01_menu1_P2_bd274b0c:
 msgid "[_a_] Indeed."
@@ -1842,7 +1842,7 @@ msgstr ""
 
 # game/Cell01_SZ.rpy:1354 #-#-# translate crowdin Quest_SZ_Favor_Dress_01_menu1_P3_bb8e4b4e:
 msgid "[_a_] ..."
-msgstr ""
+msgstr "[_a_] ..."
 
 # game/Cell01_SZ.rpy:1356 #-#-# translate crowdin Quest_SZ_Favor_Dress_01_menu1_P3_0a4ef09a:
 msgid "[_a_] Sorry, I'm saying too much. "
