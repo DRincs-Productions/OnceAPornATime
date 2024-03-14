@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2024-03-14 00:06\n"
+"PO-Revision-Date: 2024-03-14 05:16\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Quest_Dialogues_Separate02.rpy:69 #-#-# translate crowdin Quest2_Room01Panel01screen_E_8240cba6:
 msgid "[_u_] Got it!"
@@ -50,7 +50,7 @@ msgstr "[_u_] ..."
 
 # game/Quest_Dialogues_Separate02.rpy:105 #-#-# translate crowdin Intro_Rooms_Amandine01_b0ff36fe:
 msgid "[_u_] Gosh..."
-msgstr ""
+msgstr "[_u_] Боже..."
 
 # game/Quest_Dialogues_Separate02.rpy:106 #-#-# translate crowdin Intro_Rooms_Amandine01_8f92237e:
 msgid "[_u_] Where the fuck are you, Tinker?... "
@@ -2734,7 +2734,7 @@ msgstr "[_u_] ..."
 
 # game/Quest_Dialogues_Separate02.rpy:2106 #-#-# translate crowdin QuestChap2_Jasmine01_13_pause_b0ff36fe:
 msgid "[_u_] Gosh..."
-msgstr ""
+msgstr "[_u_] Боже..."
 
 # game/Quest_Dialogues_Separate02.rpy:2112 #-#-# translate crowdin QuestChap2_Jasmine01_13_pause_c55683a0:
 msgid "[_am_] Mmmh... you have a lot of nerve asking me to help you when we haven't even finished my interviews... "
@@ -2846,7 +2846,7 @@ msgstr "[_u_] С чего ты взяла?"
 
 # game/Quest_Dialogues_Separate02.rpy:2180 #-#-# translate crowdin GalleryImageQuest_QIU01_2ebf06d7:
 msgid "[_qiu_] ..."
-msgstr ""
+msgstr "[_qiu_] ..."
 
 # game/Quest_Dialogues_Separate02.rpy:2182 #-#-# translate crowdin GalleryImageQuest_QIU01_dfbf9b54:
 msgid "[_qiu_] So uh... "
@@ -2886,7 +2886,7 @@ msgstr ""
 
 # game/Quest_Dialogues_Separate02.rpy:2193 #-#-# translate crowdin GalleryImageQuest_QIU01_2ebf06d7_1:
 msgid "[_qiu_] ..."
-msgstr ""
+msgstr "[_qiu_] ..."
 
 # game/Quest_Dialogues_Separate02.rpy:2194 #-#-# translate crowdin GalleryImageQuest_QIU01_262967cd:
 msgid "[_qiu_] mh..."
@@ -2906,7 +2906,7 @@ msgstr ""
 
 # game/Quest_Dialogues_Separate02.rpy:2200 #-#-# translate crowdin GalleryImageQuest_QIU01_2ebf06d7_2:
 msgid "[_qiu_] ..."
-msgstr ""
+msgstr "[_qiu_] ..."
 
 # game/Quest_Dialogues_Separate02.rpy:2201 #-#-# translate crowdin GalleryImageQuest_QIU01_8a3c76c2:
 msgid "[_qiu_] Do you want to fuck?"
@@ -2918,7 +2918,7 @@ msgstr ""
 
 # game/Quest_Dialogues_Separate02.rpy:2204 #-#-# translate crowdin GalleryImageQuest_QIU01_2ebf06d7_3:
 msgid "[_qiu_] ..."
-msgstr ""
+msgstr "[_qiu_] ..."
 
 # game/Quest_Dialogues_Separate02.rpy:2223 #-#-# translate crowdin GalleryImageQuest_QIU01_933c143c:
 msgid "[_qiu_] MPhf...."
