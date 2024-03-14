@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2024-03-08 07:34\n"
+"PO-Revision-Date: 2024-03-14 05:16\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_ArtDIVISION.rpy:151 #-#-# translate crowdin Cell01_ArtDIVISION_Menu01_ed0ef4ce:
 msgid "[_a_] Bonjour [name]!"
@@ -2556,7 +2556,7 @@ msgstr ""
 
 # game/Cell01_ArtDIVISION.rpy:2063 #-#-# translate crowdin Sceneemee03_menu2_b0ff36fe:
 msgid "[_u_] Gosh..."
-msgstr ""
+msgstr "[_u_] Боже..."
 
 # game/Cell01_ArtDIVISION.rpy:2065 #-#-# translate crowdin Sceneemee03_menu2_8a05585c:
 msgid "[_e_] Come on, do it."
