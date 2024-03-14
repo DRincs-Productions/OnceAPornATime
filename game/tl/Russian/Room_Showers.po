@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2024-03-12 13:36\n"
+"PO-Revision-Date: 2024-03-14 06:35\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Room_Showers.rpy:121 #-#-# translate crowdin ML_ShowerCams01_02_ec3b9bb7:
 msgid "[_u_] Meli?"
@@ -402,7 +402,7 @@ msgstr "[_ly_] А если бы я не хотела, я бы просто ск�
 
 # game/Room_Showers.rpy:379 #-#-# translate crowdin A_GoShower_menu1_2a05cb1e:
 msgid "[_ly_] But right now, I wouldn't say no."
-msgstr ""
+msgstr "[_ly_] Но сейчас я бы не отказалась."
 
 # game/Room_Showers.rpy:384 #-#-# translate crowdin A_GoShower_menu1_24cd8f38:
 msgid "[_ly_] Oh..."
