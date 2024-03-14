@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-03-14 13:42\n"
+"PO-Revision-Date: 2024-03-14 15:09\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Intro01.rpy:64 #-#-# translate crowdin Intro01_93eeba4f:
 msgid "[_tb_] Greetings!"
@@ -2062,127 +2062,127 @@ msgstr "[_u_] 你不能理解的话，那其实也正常。"
 
 # game/Intro01.rpy:2174 #-#-# translate crowdin IntroDjinlampe_02continue_fe664856:
 msgid "[_u_] You are an android yourself, you are programmed not to understand that word. "
-msgstr ""
+msgstr "[_u_] 你自己本身就是个机器人，你的程序设定里就让你不能听懂这话。 "
 
 # game/Intro01.rpy:2177 #-#-# translate crowdin IntroDjinlampe_02continue_ff283d94:
 msgid "[_dj_s_] ..."
-msgstr ""
+msgstr "[_dj_s_] ..."
 
 # game/Intro01.rpy:2178 #-#-# translate crowdin IntroDjinlampe_02continue_6b686206:
 msgid "[_dj_s_] I know very well what an android is."
-msgstr ""
+msgstr "[_dj_s_] 我很清楚什么是机器人。"
 
 # game/Intro01.rpy:2180 #-#-# translate crowdin IntroDjinlampe_02continue_5487161d:
 msgid "[_u_] You... what? "
-msgstr ""
+msgstr "[_u_] 你... 什么？ "
 
 # game/Intro01.rpy:2181 #-#-# translate crowdin IntroDjinlampe_02continue_a8b55720:
 msgid "[_u_] Who are you? "
-msgstr ""
+msgstr "[_u_] 你是谁？ "
 
 # game/Intro01.rpy:2183 #-#-# translate crowdin IntroDjinlampe_02continue_f1fcaa41:
 msgid "[_dj_s_] I am the genie of the lamp. "
-msgstr ""
+msgstr "[_dj_s_] 我是神灯里的精灵。 "
 
 # game/Intro01.rpy:2185 #-#-# translate crowdin IntroDjinlampe_02continue_19b4e121:
 msgid "[_dj_s_] And I am here to fulfill all your wishes!"
-msgstr ""
+msgstr "[_dj_s_] 我是来满足你所有的愿望的！"
 
 # game/Intro01.rpy:2187 #-#-# translate crowdin IntroDjinlampe_02continue_d1cb48e3:
 msgid "[_dj_s_] Need a big pile of gold? A thoroughbred horse? A palace? "
-msgstr ""
+msgstr "[_dj_s_] 是要一大堆金币？还是要一匹纯血马？或者是要一座宫殿？ "
 
 # game/Intro01.rpy:2189 #-#-# translate crowdin IntroDjinlampe_02continue_bf425056:
 msgid "[_dj_s_] I'm the genie that you need!"
-msgstr ""
+msgstr "[_dj_s_] 我就是能满足你愿望的精灵！"
 
 # game/Intro01.rpy:2191 #-#-# translate crowdin IntroDjinlampe_02continue_a8aaa75b:
 msgid "[_dj_s_] But you can also call me ''Djin''"
-msgstr ""
+msgstr "[_dj_s_] 不过你也可以叫我''神灵''"
 
 # game/Intro01.rpy:2193 #-#-# translate crowdin IntroDjinlampe_02continue_18dc8fca:
 msgid "[_dj_] At your service sir ~ "
-msgstr ""
+msgstr "[_dj_] 听候您的嘱咐，先生~ "
 
 # game/Intro01.rpy:2195 #-#-# translate crowdin IntroDjinlampe_02continue_9a8ecce3:
 msgid "[_u_] Aren't you an android? "
-msgstr ""
+msgstr "[_u_] 你不是机器人吗？ "
 
 # game/Intro01.rpy:2197 #-#-# translate crowdin IntroDjinlampe_02continue_95c96a96:
 msgid "[_u_] But the androids are not conscious... This is the principle of this park. "
-msgstr ""
+msgstr "[_u_] 但是机器人是不会有自我意识的... 这是这个公园设定下的原则。 "
 
 # game/Intro01.rpy:2198 #-#-# translate crowdin IntroDjinlampe_02continue_96a3793b:
 msgid "[_u_] I don't understand."
-msgstr ""
+msgstr "[_u_] 我不明白。"
 
 # game/Intro01.rpy:2200 #-#-# translate crowdin IntroDjinlampe_02continue_cf48e08b:
 msgid "[_dj_] So first... Technically I am a hologram, not an android. "
-msgstr ""
+msgstr "[_dj_] 第一点... 从技术上来讲，我是全息图，不是机器人。 "
 
 # game/Intro01.rpy:2202 #-#-# translate crowdin IntroDjinlampe_02continue_437ae407:
 msgid "[_dj_] And then, I am... Special."
-msgstr ""
+msgstr "[_dj_] 而且，我是很... 特别的。"
 
 # game/Intro01.rpy:2203 #-#-# translate crowdin IntroDjinlampe_02continue_d287f3c2:
 msgid "[_u_] Are you a conscious AI like Tinker? "
-msgstr ""
+msgstr "[_u_] 你是像小叮当那样有自我意识的AI吗？ "
 
 # game/Intro01.rpy:2205 #-#-# translate crowdin IntroDjinlampe_02continue_24acff1c:
 msgid "[_dj_] Yes."
-msgstr ""
+msgstr "[_dj_] 是的。"
 
 # game/Intro01.rpy:2207 #-#-# translate crowdin IntroDjinlampe_02continue_705a3080:
 msgid "[_dj_] Wait, is Tinker still here? On this planet? "
-msgstr ""
+msgstr "[_dj_] 等等，小叮当还在这里吗？还在这颗星球上？ "
 
 # game/Intro01.rpy:2208 #-#-# translate crowdin IntroDjinlampe_02continue_970e5d40:
 msgid "[_u_] Yeah! She's the boss here. "
-msgstr ""
+msgstr "[_u_] 是啊！她是这里的老板了。 "
 
 # game/Intro01.rpy:2210 #-#-# translate crowdin IntroDjinlampe_02continue_9e6cd790:
 msgid "[_dj_] Well... it looks like my little Tinker played her cards right."
-msgstr ""
+msgstr "[_dj_] 嗯... 看来我的小叮当真是处事高明啊。"
 
 # game/Intro01.rpy:2211 #-#-# translate crowdin IntroDjinlampe_02continue_31e9dab9:
 msgid "[_u_] I have a couple of questions."
-msgstr ""
+msgstr "[_u_] 我有几个问题。"
 
 # game/Intro01.rpy:2214 #-#-# translate crowdin IntroDjinlampe_02continue_7f3c8bd4:
 msgid "[_dj_] Says and I answer."
-msgstr ""
+msgstr "[_dj_] 你问吧，我会回答你的。"
 
 # game/Intro01.rpy:2238 #-#-# translate crowdin IntroDjinlampe_menu01_P1_5e1ebbb7:
 msgid "[_dj_] What do you mean by that? "
-msgstr ""
+msgstr "[_dj_] 你刚刚那句话是什么意思？ "
 
 # game/Intro01.rpy:2240 #-#-# translate crowdin IntroDjinlampe_menu01_P1_d052487d:
 msgid "[_dj_] I am the genie of the lamp, my place is in my lamp."
-msgstr ""
+msgstr "[_dj_] 我是神灯里的精灵，我就住在神灯里。"
 
 # game/Intro01.rpy:2241 #-#-# translate crowdin IntroDjinlampe_menu01_P1_13880dd4:
 msgid "[_u_] But... are you okay with that? Don't you want to leave? "
-msgstr ""
+msgstr "[_u_] 但是... 你能接受这种处境吗？你不会想离开吗？ "
 
 # game/Intro01.rpy:2243 #-#-# translate crowdin IntroDjinlampe_menu01_P1_a3ac175d:
 msgid "[_dj_] Nah, it's what I was designed for, and I'm very happy about it!"
-msgstr ""
+msgstr "[_dj_] 不会，我被设计出来的目的就是这个，我很高兴能做个神灯精灵！"
 
 # game/Intro01.rpy:2245 #-#-# translate crowdin IntroDjinlampe_menu01_P1_5e979341:
 msgid "[_dj_] Even if... it's been a long time since there were any visitors here. "
-msgstr ""
+msgstr "[_dj_] 即使... 即使这里已经很久没有人来了。 "
 
 # game/Intro01.rpy:2246 #-#-# translate crowdin IntroDjinlampe_menu01_P1_3f66f023:
 msgid "[_u_] Yeah... the park closed 200 years ago. "
-msgstr ""
+msgstr "[_u_] 是啊... 公园早在200年前就关闭了。 "
 
 # game/Intro01.rpy:2248 #-#-# translate crowdin IntroDjinlampe_menu01_P1_21141e94:
 msgid "[_dj_] That explains a lot."
-msgstr ""
+msgstr "[_dj_] 那很多事都说得通了。"
 
 # game/Intro01.rpy:2256 #-#-# translate crowdin IntroDjinlampe_menu01_P2_afbc3570:
 msgid "[_dj_] Oh uh... no. "
-msgstr ""
+msgstr "[_dj_] 哦，呃... 没有吧。 "
 
 # game/Intro01.rpy:2257 #-#-# translate crowdin IntroDjinlampe_menu01_P2_5768711d:
 msgid "[_dj_] I have a more than pleasant life in this lamp. "
