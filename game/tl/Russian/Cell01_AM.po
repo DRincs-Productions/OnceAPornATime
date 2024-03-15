@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2024-03-14 09:33\n"
+"PO-Revision-Date: 2024-03-15 12:21\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_AM.rpy:86 #-#-# translate crowdin CHARA_AM_Menu01_c781f953:
 msgid "[_am_] Hey!"
@@ -106,7 +106,7 @@ msgstr "[_am_] Все, что я могу сделать."
 
 # game/Cell01_AM.rpy:320 #-#-# translate crowdin Quest2_AM_Talk01_2874b111:
 msgid "[_u_] Yes... I feel like you're the perfect person to follow all her... weird and irrational orders."
-msgstr "[_u_] Да... Я чувствую, что ты идеальный человек, чтобы выполнять все ее... странным и иррациональным приказам."
+msgstr "[_u_] Да... Я чувствую, что ты идеальный человек, чтобы выполнять все ее... странные и иррациональные приказы."
 
 # game/Cell01_AM.rpy:322 #-#-# translate crowdin Quest2_AM_Talk01_e20418d5:
 msgid "[_am_] Thank you! I think so too!"
@@ -162,7 +162,7 @@ msgstr "[_am_] О да!!! Мне было бы приятно!"
 
 # game/Cell01_AM.rpy:351 #-#-# translate crowdin Quest2_AM_Talk02_14b7845c:
 msgid "[_am_] Apparently, she closed all these locks with the number 555."
-msgstr "[_am_] Судя по всему, она закрыла все эти замки кодом 555."
+msgstr "[_am_] Судя по всему, она закрыла все замки кодом 555."
 
 # game/Cell01_AM.rpy:353 #-#-# translate crowdin Quest2_AM_Talk02_5048adc0:
 msgid "[_am_] So if you find a suitcase or a locker of hers, it will probably be her opening code. "
