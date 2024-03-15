@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-03-12 18:43\n"
+"PO-Revision-Date: 2024-03-15 03:48\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_AM.rpy:86 #-#-# translate crowdin CHARA_AM_Menu01_c781f953:
 msgid "[_am_] Hey!"
@@ -286,7 +286,7 @@ msgstr "Qué curioso eres. "
 
 # game/Cell01_AM.rpy:431 #-#-# translate crowdin Quest2_AM_Talk04_5431f053:
 msgid "[_am_] That's hot. "
-msgstr ""
+msgstr "[Eso está caliente. "
 
 # game/Cell01_AM.rpy:433 #-#-# translate crowdin Quest2_AM_Talk04_7573b0d3:
 msgid "[_am_] Like... It's amazing to be in something so hot... "
