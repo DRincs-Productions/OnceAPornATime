@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2024-03-14 06:35\n"
+"PO-Revision-Date: 2024-03-15 06:10\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_SW.rpy:309 #-#-# translate crowdin CHARA_SW_Menu01_8238495a:
 msgid "[_sw_]  ... "
@@ -12134,7 +12134,7 @@ msgstr ""
 
 # game/Cell01_SW.rpy:9676 #-#-# translate crowdin QuestPatreon04_p2_24b6d96a:
 msgid "[_tb_] Absolutely not."
-msgstr ""
+msgstr "[_tb_] Точно нет."
 
 # game/Cell01_SW.rpy:9678 #-#-# translate crowdin QuestPatreon04_p2_0f8fa653:
 msgid "[_tb_] I was a military robot of the Empire during the Great Energy War."
