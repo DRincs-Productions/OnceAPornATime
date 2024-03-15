@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2024-03-15 12:21\n"
+"PO-Revision-Date: 2024-03-15 14:20\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_AM.rpy:86 #-#-# translate crowdin CHARA_AM_Menu01_c781f953:
 msgid "[_am_] Hey!"
@@ -126,7 +126,7 @@ msgstr "[_am_] Ну да."
 
 # game/Cell01_AM.rpy:333 #-#-# translate crowdin Quest2_AM_Talk02_bb5df54c:
 msgid "[_am_] I mean... not really. "
-msgstr "[_am_] Я имею в виду... не совсем. "
+msgstr "[_am_] Я имею в виду... Не совсем. "
 
 # game/Cell01_AM.rpy:335 #-#-# translate crowdin Quest2_AM_Talk02_e71f109f:
 msgid "[_am_] In fact, she took as a model the former secretary that was on this planet back in the day. "
@@ -194,7 +194,7 @@ msgstr "[_u_] Да, действительно... это разнообразн�
 
 # game/Cell01_AM.rpy:377 #-#-# translate crowdin Quest2_AM_Talk03_24e8575f:
 msgid "[_u_] And nothing... sexual? "
-msgstr "[_u_] И ничего... сексуального? "
+msgstr "[_u_] И ничего... Сексуального? "
 
 # game/Cell01_AM.rpy:379 #-#-# translate crowdin Quest2_AM_Talk03_69531dec:
 msgid "[_am_] Nothing at all. "
@@ -246,7 +246,7 @@ msgstr "[_am_] И хм..."
 
 # game/Cell01_AM.rpy:406 #-#-# translate crowdin Quest2_AM_Talk03_cf116443:
 msgid "[_am_] Have you ever done it... with Tinker?"
-msgstr "[_am_] Ты когда-нибудь делал это... с Тинкер?"
+msgstr "[_am_] Ты когда-нибудь делал это... С Тинкер?"
 
 # game/Cell01_AM.rpy:407 #-#-# translate crowdin Quest2_AM_Talk03_0924003d:
 msgid "[_u_] What? Me? Get laid with Tinker??"
@@ -262,7 +262,7 @@ msgstr "[_u_] И потом... Я не знаю, получится ли это.
 
 # game/Cell01_AM.rpy:412 #-#-# translate crowdin Quest2_AM_Talk03_4b5b8110:
 msgid "[_am_] It would be interesting to see if that could... do it..."
-msgstr "[_am_] Было бы интересно посмотреть, сможет ли она... сделать это..."
+msgstr "[_am_] Было бы интересно посмотреть, сможет ли она... Сделать это..."
 
 # game/Cell01_AM.rpy:414 #-#-# translate crowdin Quest2_AM_Talk03_35fd3f4a:
 msgid "[_am_] So exciting..."
@@ -302,11 +302,11 @@ msgstr "[_am_] И они отскакивают, когда я подпрыги�
 
 # game/Cell01_AM.rpy:439 #-#-# translate crowdin Quest2_AM_Talk04_4323bdf1:
 msgid "[_am_] And then it has so many... interactivity. "
-msgstr "[_am_] И в них так много... интерактивности. "
+msgstr "[_am_] И в них так много... Интерактивности. "
 
 # game/Cell01_AM.rpy:441 #-#-# translate crowdin Quest2_AM_Talk04_0239da9b:
 msgid "[_am_] So many things to do with this... thing!"
-msgstr "[_am_] Столько всего можно сделать с этими... штуками!"
+msgstr "[_am_] Столько всего можно сделать с этими... Штуками!"
 
 # game/Cell01_AM.rpy:443 #-#-# translate crowdin Quest2_AM_Talk04_3d188bf4:
 msgid "[_am_] I still have to get used to it. "
@@ -354,7 +354,7 @@ msgstr "[_am_] Ну да."
 
 # game/Cell01_AM.rpy:468 #-#-# translate crowdin Quest2_AM_Talk05_bb5df54c:
 msgid "[_am_] I mean... not really. "
-msgstr "[_am_] Я имею в виду... не совсем. "
+msgstr "[_am_] Я имею в виду... Не совсем. "
 
 # game/Cell01_AM.rpy:482 #-#-# translate crowdin Amelia_FirstAppChap2_c8807fc9:
 msgid "[_u_] Well, that's a nice view."
@@ -418,7 +418,7 @@ msgstr "[_am_] Она такая мудрая и умная. Я уверена, 
 
 # game/Cell01_AM.rpy:509 #-#-# translate crowdin Amelia_FirstAppChap2_ad2a90bc:
 msgid "[_am_] Mh... what a stunning boss she is."
-msgstr "[_am_] Мм... какой она потрясающий босс."
+msgstr "[_am_] Мм... Какой она потрясающий босс."
 
 # game/Cell01_AM.rpy:510 #-#-# translate crowdin Amelia_FirstAppChap2_1c8acf17:
 msgid "[_am_] ..."
@@ -430,7 +430,7 @@ msgstr "[_u_] Вау."
 
 # game/Cell01_AM.rpy:512 #-#-# translate crowdin Amelia_FirstAppChap2_b8769a60:
 msgid "[_u_] Uh... yeah sure..."
-msgstr "[_u_] Э... да, конечно..."
+msgstr "[_u_] Э... Да, конечно..."
 
 # game/Cell01_AM.rpy:514 #-#-# translate crowdin Amelia_FirstAppChap2_6046d3cd:
 msgid "[_am_] Anyway."
@@ -510,11 +510,11 @@ msgstr "[_u_] По сути, нам просто нужно не нанимат�
 
 # game/Cell01_AM.rpy:572 #-#-# translate crowdin QuestChap2_Amelia01_04_menu01_aa7620ef:
 msgid "[_am_] Oh...and what does it look like?"
-msgstr "[_am_] Ох... и как они выглядят?"
+msgstr "[_am_] Ох... И как они выглядят?"
 
 # game/Cell01_AM.rpy:573 #-#-# translate crowdin QuestChap2_Amelia01_04_menu01_4c94615d:
 msgid "[_u_] uh... let's say it's the kind of person you don't want to have as a colleague. "
-msgstr "[_u_] э... скажем, такого человека ты не хотела бы иметь в качестве коллеги. "
+msgstr "[_u_] Э... Скажем, такого человека ты не хотела бы иметь в качестве коллеги. "
 
 # game/Cell01_AM.rpy:575 #-#-# translate crowdin QuestChap2_Amelia01_04_menu01_4c50dcb5:
 msgid "[_am_] Sounds simple."
@@ -582,23 +582,23 @@ msgstr "[_val_] Меня зовут Валентина."
 
 # game/Cell01_AM.rpy:628 #-#-# translate crowdin QuestChap2_Amelia01_04_menu01_0dba16e3:
 msgid "[_val_] I heard that you were looking for people to work on a big project."
-msgstr "[_val_] Я слышала, что вы ищете людей для работы над большим проектом."
+msgstr "[_val_] Я узнала, что вы ищете людей для работы над крупным проектом."
 
 # game/Cell01_AM.rpy:630 #-#-# translate crowdin QuestChap2_Amelia01_04_menu01_8b521b68:
 msgid "[_val_] I'm not sure I understood what it was about. "
-msgstr "[_val_] Я не уверена, что поняла, о чем речь. "
+msgstr "[_val_] Но так до конца и не поняла, что за проект. "
 
 # game/Cell01_AM.rpy:636 #-#-# translate crowdin QuestChap2_Amelia01_04_menu01_109fa73a:
 msgid "[_val_] Top secret? "
-msgstr "[_val_] Совершенно секретно? "
+msgstr "[_val_] Это что-то запрещенное? "
 
 # game/Cell01_AM.rpy:639 #-#-# translate crowdin QuestChap2_Amelia01_04_menu01_e9324071:
 msgid "[_val_] Do you create weapons? Are you slave traders?"
-msgstr "[_val_] Вы создаете оружие? Вы работорговцы?"
+msgstr "[_val_] Вы производите оружие? Вы работорговцы?"
 
 # game/Cell01_AM.rpy:642 #-#-# translate crowdin QuestChap2_Amelia01_04_menu01_c9c58c43:
 msgid "[_val_] Oh no... you're from the mob... I knew I shouldn't have come..."
-msgstr "[_val_] О нет... вы из мафии... Я знала, что не стоило приходить..."
+msgstr "[_val_] О нет... Вы из мафии... Черт я так и думала, что не стоило приходить..."
 
 # game/Cell01_AM.rpy:644 #-#-# translate crowdin QuestChap2_Amelia01_04_menu01_aa17e2e3:
 msgid "[_am_] No, no, none of that!"
@@ -614,7 +614,7 @@ msgstr "[_val_] О, очень круто."
 
 # game/Cell01_AM.rpy:652 #-#-# translate crowdin QuestChap2_Amelia01_04_menu01_621b75dd:
 msgid "[_val_] I love theme parks!"
-msgstr "[_val_] Мне нравятся тематические парки!"
+msgstr "[_val_] Мне нравятся парки развлечений!"
 
 # game/Cell01_AM.rpy:654 #-#-# translate crowdin QuestChap2_Amelia01_04_menu01_960223f7:
 msgid "[_val_] The rides, the cotton candy, the carousels..."
@@ -638,7 +638,7 @@ msgstr "[_u_] Это похоже, но не совсем. "
 
 # game/Cell01_AM.rpy:668 #-#-# translate crowdin QuestChap2_Amelia01_04_menu01_9b71d942:
 msgid "[_val_] This... seems to be an interesting project. "
-msgstr "[_val_] Это... кажется интересный проект. "
+msgstr "[_val_] Это... Кажется интересный проект. "
 
 # game/Cell01_AM.rpy:670 #-#-# translate crowdin QuestChap2_Amelia01_04_menu01_1400f514:
 msgid "[_val_] And very ambitious. "
@@ -646,11 +646,11 @@ msgstr "[_val_] И очень амбициозный. "
 
 # game/Cell01_AM.rpy:672 #-#-# translate crowdin QuestChap2_Amelia01_04_menu01_f1bcc291:
 msgid "[_val_] Indeed, you must need qualified people. "
-msgstr "[_val_] Действительно, вам нужны квалифицированные люди. "
+msgstr "[_val_] Вам действительно нужны квалифицированные люди. "
 
 # game/Cell01_AM.rpy:675 #-#-# translate crowdin QuestChap2_Amelia01_04_menu01_0e49b86b:
 msgid "[_am_] Yes, a lot. "
-msgstr "[_am_] Да, вполне. "
+msgstr "[_am_] Да, много. "
 
 # game/Cell01_AM.rpy:692 #-#-# translate crowdin QuestChap2_Amelia01_04_menu02_P1_8192a974:
 msgid "[_val_] I am a doctor."
@@ -658,11 +658,11 @@ msgstr "[_val_] Я врач."
 
 # game/Cell01_AM.rpy:694 #-#-# translate crowdin QuestChap2_Amelia01_04_menu02_P1_d2745d11:
 msgid "[_am_] Nice! In what discipline?"
-msgstr "[_am_] Приятно! В какой дисциплине?"
+msgstr "[_am_] Отлично! В каком направлении?"
 
 # game/Cell01_AM.rpy:697 #-#-# translate crowdin QuestChap2_Amelia01_04_menu02_P1_defa935b:
 msgid "[_am_] We have vacancies in engineering, biology, law, computer science... "
-msgstr "[_am_] У нас есть вакансии в инженерии, биологии, юриспруденции, информатике... "
+msgstr "[_am_] У нас есть вакансии в области инженерии, биологии, юриспруденции, информатике... "
 
 # game/Cell01_AM.rpy:700 #-#-# translate crowdin QuestChap2_Amelia01_04_menu02_P1_1abe8540:
 msgid "[_val_] Uh... I'm a medical doctor."
@@ -706,11 +706,11 @@ msgstr "[_u_] Да, допустим, подходит."
 
 # game/Cell01_AM.rpy:731 #-#-# translate crowdin QuestChap2_Amelia01_04_menu02_P2_d1ed9500:
 msgid "[_val_] Yes, yes, perfect!"
-msgstr "[_val_] Да-да, идеально!"
+msgstr "[_val_] Да-да, превосходно!"
 
 # game/Cell01_AM.rpy:734 #-#-# translate crowdin QuestChap2_Amelia01_04_menu02_P2_2e6870d3:
 msgid "[_val_] And then with the salary you offer, I can only say yes ahah"
-msgstr "[_val_] А потом с той зарплатой, которую вы предлагаете, я могу сказать только да, ахах"
+msgstr "[_val_] И потом с той зарплатой, которую вы предлагаете, я могу сказать только да, ахах"
 
 # game/Cell01_AM.rpy:736 #-#-# translate crowdin QuestChap2_Amelia01_04_menu02_P2_10922d0c:
 msgid "[_u_] That's a good reason."
@@ -750,11 +750,11 @@ msgstr "[_u_] Амелия?"
 
 # game/Cell01_AM.rpy:766 #-#-# translate crowdin QuestChap2_Amelia01_04_menu02_P3_2aeee63d:
 msgid "[_am_] What? I don't want to hire someone who wants to bang Tinker! It's normal!"
-msgstr "[_am_] Что? Я не хочу нанимать того, кто хочет трахнуть Тинкер! Это нормально!"
+msgstr "[_am_] Что? Я не хочу нанимать того, кто захочет переспать с Тинкер! Это нормально!"
 
 # game/Cell01_AM.rpy:767 #-#-# translate crowdin QuestChap2_Amelia01_04_menu02_P3_4302a2e7:
 msgid "[_u_] Amelia... you... Mh... "
-msgstr "[_u_] Амелия... ты... Мм... "
+msgstr "[_u_] Амелия... Ты... Мм... "
 
 # game/Cell01_AM.rpy:769 #-#-# translate crowdin QuestChap2_Amelia01_04_menu02_P3_4eea3e3b:
 msgid "[_u_] Sorry about that. "
@@ -762,7 +762,7 @@ msgstr "[_u_] Извините за это. "
 
 # game/Cell01_AM.rpy:771 #-#-# translate crowdin QuestChap2_Amelia01_04_menu02_P3_f1929de5:
 msgid "[_val_] hum..."
-msgstr "[_val_] хм..."
+msgstr "[_val_] Хм..."
 
 # game/Cell01_AM.rpy:773 #-#-# translate crowdin QuestChap2_Amelia01_04_menu02_P3_6b03faf8:
 msgid "[_val_] ..."
@@ -782,7 +782,7 @@ msgstr "[_u_] ....."
 
 # game/Cell01_AM.rpy:792 #-#-# translate crowdin QuestChap2_Amelia01_04_menu02_P4_4dd5eb57:
 msgid "[_val_] Uh I... I don't know. "
-msgstr "[_val_] Я... я не знаю. "
+msgstr "[_val_] Я... Я не знаю. "
 
 # game/Cell01_AM.rpy:794 #-#-# translate crowdin QuestChap2_Amelia01_04_menu02_P4_c6320990:
 msgid "[_val_] I would say that I invest myself a little too much."
@@ -838,7 +838,7 @@ msgstr "[_am_] Пожалуйста, покажите свою грудь."
 
 # game/Cell01_AM.rpy:832 #-#-# translate crowdin QuestChap2_Amelia01_04_menu02_P4_df10ddf5:
 msgid "[_u_] Gosh, you are impossible Amelia."
-msgstr "[_u_] Боже, ты невозможна, Амелия."
+msgstr "[_u_] Боже, ты невыносима, Амелия."
 
 # game/Cell01_AM.rpy:834 #-#-# translate crowdin QuestChap2_Amelia01_04_menu02_P4_5033535e:
 msgid "[_am_] What? At least we'll really know!"
@@ -934,7 +934,7 @@ msgstr "[_am_] Я Амелия, а это [name]."
 
 # game/Cell01_AM.rpy:911 #-#-# translate crowdin QuestChap2_Amelia01_06_556b5b72:
 msgid "[_u_] Uh... yes, hello."
-msgstr "[_u_] Э... да, привет."
+msgstr "[_u_] Э... Да, здравствуйте."
 
 # game/Cell01_AM.rpy:914 #-#-# translate crowdin QuestChap2_Amelia01_06_eb58fbf6:
 msgid "[_am_] What is your name? "
@@ -1002,7 +1002,7 @@ msgstr "[_am_] Итак, [name], у тебя есть вопросы? "
 
 # game/Cell01_AM.rpy:975 #-#-# translate crowdin QuestChap2_Amelia01_06_menu02_P1_9edba64f:
 msgid "[_scc_] I work in... security."
-msgstr "[_scc_] Я работаю в... охране."
+msgstr "[_scc_] Я работаю в... Охране."
 
 # game/Cell01_AM.rpy:977 #-#-# translate crowdin QuestChap2_Amelia01_06_menu02_P1_6b4bc3d2:
 msgid "[_scc_] Anything that involves guarding expensive stuff."
@@ -1034,7 +1034,7 @@ msgstr "[_scc_] Вы можете доверить мне все, что зах�
 
 # game/Cell01_AM.rpy:1003 #-#-# translate crowdin QuestChap2_Amelia01_06_menu02_P3_aade2966:
 msgid "[_scc_] ...it will be in good hands. "
-msgstr "[_scc_] ...это будет в надежных руках. "
+msgstr "[_scc_] ...Это будет в надежных руках. "
 
 # game/Cell01_AM.rpy:1005 #-#-# translate crowdin QuestChap2_Amelia01_06_menu02_P3_4b2aaf3f:
 msgid "[_am_] It's really nice to hear that! "
@@ -1042,11 +1042,11 @@ msgstr "[_am_] Очень приятно это слышать! "
 
 # game/Cell01_AM.rpy:1008 #-#-# translate crowdin QuestChap2_Amelia01_06_menu02_P3_46aa63f0:
 msgid "[_am_] It's better than the girl we had before... "
-msgstr "[_am_] Это лучше, чем та девушка, которая у нас была раньше... "
+msgstr "[_am_] Она лучше, чем та девушка, которая у нас была раньше... "
 
 # game/Cell01_AM.rpy:1010 #-#-# translate crowdin QuestChap2_Amelia01_06_menu02_P3_5564873a:
 msgid "[_am_] Like ''Yeah uh... I'm really nice uh... people love me and I sleep with my boss blablabla''."
-msgstr "[_am_] Типа: «Да, э-э... Я очень милая, э-э... люди любят меня, и я сплю со своим боссом, блаблабла»."
+msgstr "[_am_] Типа: «Да, э-э... Я очень милая, э-э... Люди любят меня, и я сплю со своим боссом, блаблабла»."
 
 # game/Cell01_AM.rpy:1012 #-#-# translate crowdin QuestChap2_Amelia01_06_menu02_P3_cb5a445d:
 msgid "[_am_] Unbearable."
@@ -1086,7 +1086,7 @@ msgstr "[_scc_] Что за вопрос?"
 
 # game/Cell01_AM.rpy:1046 #-#-# translate crowdin QuestChap2_Amelia01_06_menu02_P3_6917e57f:
 msgid "[_am_] Are you modest? We must not have any modest people here. "
-msgstr "[_am_] Ты скромная? У нас не должно быть здесь скромных людей. "
+msgstr "[_am_] Вы скромная? У нас не должно быть здесь скромных людей. "
 
 # game/Cell01_AM.rpy:1048 #-#-# translate crowdin QuestChap2_Amelia01_06_menu02_P3_e58abce3:
 msgid "[_u_] We never said that."
@@ -1142,11 +1142,11 @@ msgstr "[_scc_] Эхехе..."
 
 # game/Cell01_AM.rpy:1080 #-#-# translate crowdin QuestChap2_Amelia01_06_menu02_P3_494281d0:
 msgid "[_u_] Uh... "
-msgstr "[_у_] Эм... "
+msgstr "[_u_] Эм... "
 
 # game/Cell01_AM.rpy:1082 #-#-# translate crowdin QuestChap2_Amelia01_06_menu02_P3_be9c3426:
 msgid "[_u_] No. "
-msgstr "[_у_] Нет. "
+msgstr "[_u_] Нет. "
 
 # game/Cell01_AM.rpy:1084 #-#-# translate crowdin QuestChap2_Amelia01_06_menu02_P3_3f773b84:
 msgid "[_u_] I think we have everything we need. "
@@ -1158,7 +1158,7 @@ msgstr "[_scc_] Очень жаль. "
 
 # game/Cell01_AM.rpy:1089 #-#-# translate crowdin QuestChap2_Amelia01_06_menu02_P3_4184d909:
 msgid "[_scc_] So... am I in or out? "
-msgstr "[_scc_] Итак... я в игре или нет? "
+msgstr "[_scc_] Итак... Я в игре или нет? "
 
 # game/Cell01_AM.rpy:1091 #-#-# translate crowdin QuestChap2_Amelia01_06_menu02_P3_c0180f19:
 msgid "[_am_] For me, I think we can say yes. "
@@ -1170,7 +1170,7 @@ msgstr "[_am_] Что ты думаешь, [name]? "
 
 # game/Cell01_AM.rpy:1103 #-#-# translate crowdin QuestChap2_Amelia01_06_menu02_P3_ae4bede2:
 msgid "[_scc_] Great. I'm going to visit the place a little bit... just to... "
-msgstr "[_scc_] Отлично. Я собираюсь хорошенько прошерстить это место... просто чтобы... "
+msgstr "[_scc_] Отлично. Я собираюсь хорошенько прошерстить это место... Просто чтобы... "
 
 # game/Cell01_AM.rpy:1105 #-#-# translate crowdin QuestChap2_Amelia01_06_menu02_P3_c4a99dcc:
 msgid "[_scc_] To visit."
@@ -1186,7 +1186,7 @@ msgstr "[_am_] Отлично!"
 
 # game/Cell01_AM.rpy:1114 #-#-# translate crowdin QuestChap2_Amelia01_06_menu02_P3_6c19f4a8:
 msgid "[_am_] I'm sure Succk and I will become best friends!"
-msgstr "[_am_] Я уверена, что мы с Сасск станем лучшими друзьями!"
+msgstr "[_am_] Я уверена, что мы с Сосашей станем лучшими друзьями!"
 
 # game/Cell01_AM.rpy:1122 #-#-# translate crowdin QuestChap2_Amelia01_06_menu02_P3_159d8493:
 msgid "[_scc_] Mh. "
@@ -1202,7 +1202,7 @@ msgstr "[_scc_] Увидимся позже, неудачники."
 
 # game/Cell01_AM.rpy:1131 #-#-# translate crowdin QuestChap2_Amelia01_06_menu02_P3_bf8a69e9:
 msgid "[_am_] Well... why didn't you take her? "
-msgstr "[_am_] Ну... почему ты ее не взял? "
+msgstr "[_am_] Ну... Почему ты ее не взял? "
 
 # game/Cell01_AM.rpy:1132 #-#-# translate crowdin QuestChap2_Amelia01_06_menu02_P3_c8a0219e:
 msgid "[_u_] Gosh... Amelia... "
@@ -1214,7 +1214,7 @@ msgstr "[_u_] Она настоящий псих! "
 
 # game/Cell01_AM.rpy:1136 #-#-# translate crowdin QuestChap2_Amelia01_06_menu02_P3_e793c5fc:
 msgid "[_am_] What? Because she has some strange clothes? "
-msgstr "[_am_] Что? Потому что у нее какая-то странная одежда? "
+msgstr "[_am_] Что? Это потому что у нее странная одежда? "
 
 # game/Cell01_AM.rpy:1138 #-#-# translate crowdin QuestChap2_Amelia01_06_menu02_P3_399a9476:
 msgid "[_am_] I thought you were better than that.... "
@@ -1266,7 +1266,7 @@ msgstr "[_am_] Пошли за последним!"
 
 # game/Cell01_AM.rpy:1186 #-#-# translate crowdin QuestChap2_Amelia01_08_139197e5:
 msgid "[_am_] Hello! Welcome to our planet !"
-msgstr "[_am_] Привет! Добро пожаловать на нашу планету!"
+msgstr "[_am_] Здравствуйте! Добро пожаловать на нашу планету!"
 
 # game/Cell01_AM.rpy:1189 #-#-# translate crowdin QuestChap2_Amelia01_08_5b044f40:
 msgid "[_am_] I am amelia and this is [name]!"
@@ -1274,7 +1274,7 @@ msgstr "[_am_] Я Амелия, а это [name]!"
 
 # game/Cell01_AM.rpy:1190 #-#-# translate crowdin QuestChap2_Amelia01_08_b4c8c4cb:
 msgid "[_u_] Hi."
-msgstr "[_u_] Привет."
+msgstr "[_u_] Здравствуйте."
 
 # game/Cell01_AM.rpy:1193 #-#-# translate crowdin QuestChap2_Amelia01_08_15ba15c8:
 msgid "[_am_] And you are? "
@@ -1302,7 +1302,7 @@ msgstr "[_qiu_] Нет, это нормально."
 
 # game/Cell01_AM.rpy:1205 #-#-# translate crowdin QuestChap2_Amelia01_08_0d342436:
 msgid "[_am_] Uh, all right, well uh... you want to start your questions [name]? "
-msgstr "[_am_] Эм, ладно, ну э... не хочешь начать задавать вопросы, [name]? "
+msgstr "[_am_] Эм, ладно, ну э... Не хочешь начать задавать вопросы, [name]? "
 
 # game/Cell01_AM.rpy:1219 #-#-# translate crowdin QuestChap2_Amelia01_08_menu01_P1_1288f542:
 msgid "[_qiu_] I am an engineer."
@@ -1338,7 +1338,7 @@ msgstr "[_qiu_] Я эффективна. "
 
 # game/Cell01_AM.rpy:1245 #-#-# translate crowdin QuestChap2_Amelia01_08_menu01_P2_c7020fa3:
 msgid "[_am_] Yes... that's what I feel like... "
-msgstr "[_am_] Да... я чувствую... "
+msgstr "[_am_] Да... Я чувствую... "
 
 # game/Cell01_AM.rpy:1248 #-#-# translate crowdin QuestChap2_Amelia01_08_menu01_P2_d0e2277d:
 msgid "[_am_] You don't like to talk much, do you? "
@@ -1478,7 +1478,7 @@ msgstr "[_tb_] Вы двое настоящие извращенцы. "
 
 # game/Cell01_AM.rpy:1363 #-#-# translate crowdin QuestChap2_Amelia01_08_menu01end_a50b7f3a:
 msgid "[_tb_] Anyway, I think this outfit is really pretty!"
-msgstr "[_tb_] В любом случае, я думаю, что этот наряд очень красивый!"
+msgstr "[_tb_] В любом случае я думаю, что этот наряд очень красивый!"
 
 # game/Cell01_AM.rpy:1366 #-#-# translate crowdin QuestChap2_Amelia01_08_menu01end_12e982a2:
 msgid "[_tb_] And... Don't you think your boss deserves a nice outfit? "
@@ -1498,7 +1498,7 @@ msgstr "[_tb_] Да."
 
 # game/Cell01_AM.rpy:1372 #-#-# translate crowdin QuestChap2_Amelia01_08_menu01end_e749aa28:
 msgid "[_u_] Gosh, ok, put the blueprint in the object creation system; I'll do that when I have time. "
-msgstr "[_u_] Господи, ок, закинь чертеж в систему создания объектов; Я сделаю его, когда у меня будет время. "
+msgstr "[_u_] Боже, ладно, закинь чертеж в систему создания объектов; Я сделаю его, когда у меня будет время. "
 
 # game/Cell01_AM.rpy:1375 #-#-# translate crowdin QuestChap2_Amelia01_08_menu01end_040a03dd:
 msgid "[_tb_] Great!"
@@ -1522,7 +1522,7 @@ msgstr "[_u_] Ладно, надо закончить интервью. "
 
 # game/Cell01_AM.rpy:1405 #-#-# translate crowdin GalleryImageQuest_Amelia01_1a9def3b:
 msgid "[_am_] You are really not modest... that's for sure..."
-msgstr "[_am_] Ты действительно не скромная... это точно..."
+msgstr "[_am_] Ты действительно не скромная... Это точно..."
 
 # game/Cell01_AM.rpy:1407 #-#-# translate crowdin GalleryImageQuest_Amelia01_ce56162f:
 msgid "[_u_] Amelia? Are you kidding me? "
@@ -1586,7 +1586,7 @@ msgstr "[_am_] Ты сделал правильный выбор, выбрав �
 
 # game/Cell01_AM.rpy:1470 #-#-# translate crowdin Quest2_AM_TalkDressUnlock01_13405395:
 msgid "[_u_] Uh... thanks but I just opened a box..."
-msgstr "[_u_] Э... спасибо, но я только открыл коробку..."
+msgstr "[_u_] Э... Спасибо, но я только открыл коробку..."
 
 # game/Cell01_AM.rpy:1472 #-#-# translate crowdin Quest2_AM_TalkDressUnlock01_179c3d30:
 msgid "[_u_] ...And it was in. "
@@ -1614,7 +1614,7 @@ msgstr "[_am_] Не знаю почему, но мне бы очень хоте�
 
 # game/Cell01_AM.rpy:1488 #-#-# translate crowdin Quest_JM_Favor_Ask2_Amelia_8e872f84:
 msgid "[_am_] I'd like to have sex with a... magical creature. "
-msgstr "[_am_] Я бы хотела заняться сексом с... волшебным существом. "
+msgstr "[_am_] Я бы хотела заняться сексом с... Волшебным существом. "
 
 # game/Cell01_AM.rpy:1490 #-#-# translate crowdin Quest_JM_Favor_Ask2_Amelia_94199dd3:
 msgid "[_am_] But not like a unicorn or anything... like... a mermaid or a sorceress or... "
@@ -1634,11 +1634,11 @@ msgstr "[_am_] Да! Это верно!"
 
 # game/Cell01_AM.rpy:1496 #-#-# translate crowdin Quest_JM_Favor_Ask2_Amelia_79b8122a:
 msgid "[_am_] A fairy, but like... very cool and badass."
-msgstr "[_am_] Фея, но типа... очень крутая и сильная."
+msgstr "[_am_] Фея, но типа... Очень крутая и сильная."
 
 # game/Cell01_AM.rpy:1498 #-#-# translate crowdin Quest_JM_Favor_Ask2_Amelia_33e41ea0:
 msgid "[_am_] Yeah... that'd be great..."
-msgstr "[_am_] Да... было бы здорово..."
+msgstr "[_am_] Да... Было бы здорово..."
 
 # game/Cell01_AM.rpy:1499 #-#-# translate crowdin Quest_JM_Favor_Ask2_Amelia_067829ef:
 msgid "[_u_] Okay... "
@@ -1650,7 +1650,7 @@ msgstr "[_am_] Но... Почему ты задаешь мне этот вопр
 
 # game/Cell01_AM.rpy:1502 #-#-# translate crowdin Quest_JM_Favor_Ask2_Amelia_97e11651:
 msgid "[_u_] Oh uh... for work. "
-msgstr "[_u_] А... это по работе. "
+msgstr "[_u_] А... Это по работе. "
 
 # game/Cell01_AM.rpy:1506 #-#-# translate crowdin Quest_JM_Favor_Ask2_Amelia_86b59053:
 msgid "[_u_] Ok great, only [Quest_JM_Favor_Ask2_Number] more employees to question."
