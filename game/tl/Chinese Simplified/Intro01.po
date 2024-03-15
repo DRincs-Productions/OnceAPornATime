@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-03-14 16:21\n"
+"PO-Revision-Date: 2024-03-15 10:11\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Intro01.rpy:64 #-#-# translate crowdin Intro01_93eeba4f:
 msgid "[_tb_] Greetings!"
@@ -1994,7 +1994,7 @@ msgstr "{cps=10}{color=#c10206} {font=BLKCHCRY.ttf} {size=35}是谁胆敢闯入�
 
 # game/Intro01.rpy:2104 #-#-# translate crowdin IntroDjinlampe_02continue_a7c3200c:
 msgid "{cps=10}{color=#c10206} {font=BLKCHCRY.ttf} {size=35}Who Dares Disturb My Peace? {/size} {/font=BLKCHCRY.ttf} {/color}{/cps}"
-msgstr ""
+msgstr "{cps=10}{color=#c10206} {font=BLKCHCRY.ttf} {size=35}是谁胆敢打扰我的平静？{/size} {/font=BLKCHCRY.ttf} {/color}{/cps}"
 
 # game/Intro01.rpy:2123 #-#-# translate crowdin IntroDjinlampe_02continue_5ae2cacb:
 msgid "{cps=10}{color=#c10206} {font=BLKCHCRY.ttf} {size=35}...Only Those Whose Purity Of Soul Equals A Diamond {/size} {/font=BLKCHCRY.ttf} {/color}{/cps}"
@@ -2198,39 +2198,39 @@ msgstr "[_dj_] 这是前任老板给我提出的交易条件:"
 
 # game/Intro01.rpy:2262 #-#-# translate crowdin IntroDjinlampe_menu01_P2_6c87d347:
 msgid "[_dj_] I become the genie of the lamp, I help the visitors in their quests, that kind of things... "
-msgstr ""
+msgstr "[_dj_] 我成了神灯里的精灵，我要帮助游客们完成他们的任务，我要完成诸如此类的事情... "
 
 # game/Intro01.rpy:2264 #-#-# translate crowdin IntroDjinlampe_menu01_P2_0c642305:
 msgid "[_dj_] And in exchange, I have the right to enjoy this lamp as I please. "
-msgstr ""
+msgstr "[_dj_] 而作为交换，我有权可以随心所欲的使用神灯。 "
 
 # game/Intro01.rpy:2265 #-#-# translate crowdin IntroDjinlampe_menu01_P2_153cc6c9:
 msgid "[_u_] Uh... I'm not sure what that is supposed to mean. "
-msgstr ""
+msgstr "[_u_] 呃... 我不是很懂你刚刚在讲什么。 "
 
 # game/Intro01.rpy:2267 #-#-# translate crowdin IntroDjinlampe_menu01_P2_8406120d:
 msgid "[_dj_] Let's say... an eternal life in there is not unpleasant."
-msgstr ""
+msgstr "[_dj_] 这么说吧... 在神灯里的愉快生活其实并不愉快。"
 
 # game/Intro01.rpy:2275 #-#-# translate crowdin IntroDjinlampe_menu01_P3_03ba7e0c:
 msgid "[_dj_] Uh... is your soul pure? "
-msgstr ""
+msgstr "[_dj_] 呃... 你的灵魂是纯洁的吗？ "
 
 # game/Intro01.rpy:2276 #-#-# translate crowdin IntroDjinlampe_menu01_P3_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Intro01.rpy:2278 #-#-# translate crowdin IntroDjinlampe_menu01_P3_0570b33c:
 msgid "[_dj_] I'm just teasing. "
-msgstr ""
+msgstr "[_dj_] 我在逗你玩呢。 "
 
 # game/Intro01.rpy:2280 #-#-# translate crowdin IntroDjinlampe_menu01_P3_cf97cfd9:
 msgid "[_dj_] You are an employee, no need to ask for a wish. Just tell me what you want. "
-msgstr ""
+msgstr "[_dj_] 你只是一个雇员，没必要求得什么愿望，只管告诉我你要什么就好了。 "
 
 # game/Intro01.rpy:2281 #-#-# translate crowdin IntroDjinlampe_menu01_P3_951b33c6:
 msgid "[_u_] Oh... okay."
-msgstr ""
+msgstr "[_u_] 哦... 好吧。"
 
 # game/Intro01.rpy:2289 #-#-# translate crowdin IntroDjinlampe_menu01_P4_eb8c2a45:
 msgid "[_dj_] Are you aware that the whole planet is censored? "
