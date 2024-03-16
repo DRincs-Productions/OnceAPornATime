@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-03-16 15:08\n"
+"PO-Revision-Date: 2024-03-16 16:12\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_AM.rpy:86 #-#-# translate crowdin CHARA_AM_Menu01_c781f953:
 msgid "[_am_] Hey!"
@@ -362,39 +362,39 @@ msgstr "[_u_] Bueno, son unas buenas vistas."
 
 # game/Cell01_AM.rpy:483 #-#-# translate crowdin Amelia_FirstAppChap2_89ec64ce:
 msgid "[_u_] I hope this is the right office."
-msgstr ""
+msgstr "[_u_] Espero que sea la oficina correcta."
 
 # game/Cell01_AM.rpy:485 #-#-# translate crowdin Amelia_FirstAppChap2_3e3065ff:
 msgid "[_u_] Amelia? Are you here? "
-msgstr ""
+msgstr "[_u_] ¿Amelia? ¿Estás aquí? "
 
 # game/Cell01_AM.rpy:486 #-#-# translate crowdin Amelia_FirstAppChap2_a0941fb6:
 msgid "[_am_] Hey! [name]!"
-msgstr ""
+msgstr "[_am_] ¡Hola! [name]!"
 
 # game/Cell01_AM.rpy:490 #-#-# translate crowdin Amelia_FirstAppChap2_4326c71a:
 msgid "[_am_] So happy to see you here!"
-msgstr ""
+msgstr "[_am_] ¡Me alegra verte por aquí!"
 
 # game/Cell01_AM.rpy:492 #-#-# translate crowdin Amelia_FirstAppChap2_97e7004c:
 msgid "[_am_] Welcome to my office!"
-msgstr ""
+msgstr "[_am_] ¡Bienvenido a mi despacho!"
 
 # game/Cell01_AM.rpy:494 #-#-# translate crowdin Amelia_FirstAppChap2_f639b17d:
 msgid "[_am_] You'll excuse me, it's still a bit messy here."
-msgstr ""
+msgstr "[_am_] Disculpa, esto sigue un poco desordenado."
 
 # game/Cell01_AM.rpy:495 #-#-# translate crowdin Amelia_FirstAppChap2_0e61f0e0:
 msgid "[_u_] I've seen worse. "
-msgstr ""
+msgstr "[_u_] Te he visto peor. "
 
 # game/Cell01_AM.rpy:497 #-#-# translate crowdin Amelia_FirstAppChap2_0a9d10ac:
 msgid "[_am_] When I arrived, the place was filled with boxes and old things. "
-msgstr ""
+msgstr "[_am_] Cuando llegué, el lugar estaba lleno de cajas y cosas antiguas. "
 
 # game/Cell01_AM.rpy:499 #-#-# translate crowdin Amelia_FirstAppChap2_70f97b1a:
 msgid "[_am_] Mrs.Bell told me to put everything in your place, thanks for taking care of it. "
-msgstr ""
+msgstr "[_am_] La señora Bell me dijo que pusiera todo en tu lugar, gracias por ocuparte de ello. "
 
 # game/Cell01_AM.rpy:500 #-#-# translate crowdin Amelia_FirstAppChap2_7b1c1392:
 msgid "[_u_] ..."
@@ -402,23 +402,23 @@ msgstr "[_u_] ..."
 
 # game/Cell01_AM.rpy:501 #-#-# translate crowdin Amelia_FirstAppChap2_ca669573:
 msgid "[_u_] Oh... It was you."
-msgstr ""
+msgstr "[_u_] Oh... Eras tú."
 
 # game/Cell01_AM.rpy:503 #-#-# translate crowdin Amelia_FirstAppChap2_a8a8d5ce:
 msgid "[_u_] You could have thrown this away yourself. "
-msgstr ""
+msgstr "[_u_] Podrías haber tirado esto tú mismo. "
 
 # game/Cell01_AM.rpy:505 #-#-# translate crowdin Amelia_FirstAppChap2_a9b7eb31:
 msgid "[_am_] That's what I thought, but I didn't want to question Mrs. Bell's orders... "
-msgstr ""
+msgstr "[_am_] Eso pensé, pero no quería cuestionar las órdenes de la Sra. Bell... "
 
 # game/Cell01_AM.rpy:507 #-#-# translate crowdin Amelia_FirstAppChap2_decb9b24:
 msgid "[_am_] She is so wise and smart. I'm sure she knows what she's doing!"
-msgstr ""
+msgstr "[_am_] Ella es muy sabia e inteligente. ¡Estoy segura de que sabe lo que está haciendo!"
 
 # game/Cell01_AM.rpy:509 #-#-# translate crowdin Amelia_FirstAppChap2_ad2a90bc:
 msgid "[_am_] Mh... what a stunning boss she is."
-msgstr ""
+msgstr "[_am_] Mh... qué jefa tan impresionante es ella."
 
 # game/Cell01_AM.rpy:510 #-#-# translate crowdin Amelia_FirstAppChap2_1c8acf17:
 msgid "[_am_] ..."
@@ -426,19 +426,19 @@ msgstr "..."
 
 # game/Cell01_AM.rpy:511 #-#-# translate crowdin Amelia_FirstAppChap2_ffd3fd1b:
 msgid "[_u_] Wow."
-msgstr ""
+msgstr "[_u_] Guau."
 
 # game/Cell01_AM.rpy:512 #-#-# translate crowdin Amelia_FirstAppChap2_b8769a60:
 msgid "[_u_] Uh... yeah sure..."
-msgstr ""
+msgstr "[_u_] Ah... sí, claro..."
 
 # game/Cell01_AM.rpy:514 #-#-# translate crowdin Amelia_FirstAppChap2_6046d3cd:
 msgid "[_am_] Anyway."
-msgstr ""
+msgstr "[_am_] No importa."
 
 # game/Cell01_AM.rpy:516 #-#-# translate crowdin Amelia_FirstAppChap2_246969af:
 msgid "[_am_] Did you want something? "
-msgstr ""
+msgstr "[_am_] ¿Querías algo? "
 
 # game/Cell01_AM.rpy:525 #-#-# translate crowdin QuestChap2_Amelia01_02_71c3cc96:
 msgid "[_am_] We will start as soon as the first candidate is here!"
