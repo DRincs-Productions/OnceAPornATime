@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2024-03-16 00:41\n"
+"PO-Revision-Date: 2024-03-16 17:27\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Quest_Dialogues_Separate02.rpy:69 #-#-# translate crowdin Quest2_Room01Panel01screen_E_8240cba6:
 msgid "[_u_] Got it!"
@@ -2846,7 +2846,7 @@ msgstr ""
 
 # game/Quest_Dialogues_Separate02.rpy:2180 #-#-# translate crowdin GalleryImageQuest_QIU01_2ebf06d7:
 msgid "[_qiu_] ..."
-msgstr ""
+msgstr "[_qiu_] ..."
 
 # game/Quest_Dialogues_Separate02.rpy:2182 #-#-# translate crowdin GalleryImageQuest_QIU01_dfbf9b54:
 msgid "[_qiu_] So uh... "
@@ -2886,7 +2886,7 @@ msgstr ""
 
 # game/Quest_Dialogues_Separate02.rpy:2193 #-#-# translate crowdin GalleryImageQuest_QIU01_2ebf06d7_1:
 msgid "[_qiu_] ..."
-msgstr ""
+msgstr "[_qiu_] ..."
 
 # game/Quest_Dialogues_Separate02.rpy:2194 #-#-# translate crowdin GalleryImageQuest_QIU01_262967cd:
 msgid "[_qiu_] mh..."
@@ -2906,7 +2906,7 @@ msgstr ""
 
 # game/Quest_Dialogues_Separate02.rpy:2200 #-#-# translate crowdin GalleryImageQuest_QIU01_2ebf06d7_2:
 msgid "[_qiu_] ..."
-msgstr ""
+msgstr "[_qiu_] ..."
 
 # game/Quest_Dialogues_Separate02.rpy:2201 #-#-# translate crowdin GalleryImageQuest_QIU01_8a3c76c2:
 msgid "[_qiu_] Do you want to fuck?"
@@ -2918,7 +2918,7 @@ msgstr ""
 
 # game/Quest_Dialogues_Separate02.rpy:2204 #-#-# translate crowdin GalleryImageQuest_QIU01_2ebf06d7_3:
 msgid "[_qiu_] ..."
-msgstr ""
+msgstr "[_qiu_] ..."
 
 # game/Quest_Dialogues_Separate02.rpy:2223 #-#-# translate crowdin GalleryImageQuest_QIU01_933c143c:
 msgid "[_qiu_] MPhf...."
