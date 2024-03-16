@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-03-16 18:35\n"
+"PO-Revision-Date: 2024-03-16 22:11\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_SW.rpy:309 #-#-# translate crowdin CHARA_SW_Menu01_8238495a:
 msgid "[_sw_]  ... "
@@ -4130,7 +4130,7 @@ msgstr ""
 
 # game/Cell01_SW.rpy:3773 #-#-# translate crowdin Quest_SW_App03_v3_01_05d56d8e:
 msgid "[_tb_] ..."
-msgstr ""
+msgstr "[_tb_] ..."
 
 # game/Cell01_SW.rpy:3774 #-#-# translate crowdin Quest_SW_App03_v3_01_0010aa95:
 msgid "[_u_]  Should I try to lift it more? "
@@ -5738,7 +5738,7 @@ msgstr ""
 
 # game/Cell01_SW.rpy:5066 #-#-# translate crowdin Quest_SW_App07_StartPart2_02_040a03dd:
 msgid "[_tb_] Great!"
-msgstr ""
+msgstr "[_tb_] ¡Genial!"
 
 # game/Cell01_SW.rpy:5069 #-#-# translate crowdin Quest_SW_App07_StartPart2_02_e337a67f:
 msgid "[_tb_] I'm sending you the pdf of her mission. "
@@ -5946,7 +5946,7 @@ msgstr ""
 
 # game/Cell01_SW.rpy:5200 #-#-# translate crowdin Quest_SW_App07_StartPart2_03Clothes_07c612b3:
 msgid "[_u_] Well..."
-msgstr ""
+msgstr "[_u_] Bueno..."
 
 # game/Cell01_SW.rpy:5202 #-#-# translate crowdin Quest_SW_App07_StartPart2_03Clothes_c49d2990:
 msgid "[_sw_] That was a rhetorical question. Don't answer it."
@@ -6486,7 +6486,7 @@ msgstr ""
 
 # game/Cell01_SW.rpy:5600 #-#-# translate crowdin Quest_SW_ADVENTURE_01_05d56d8e:
 msgid "[_tb_] ..."
-msgstr ""
+msgstr "[_tb_] ..."
 
 # game/Cell01_SW.rpy:5602 #-#-# translate crowdin Quest_SW_ADVENTURE_01_246140d1:
 msgid "[_tb_] What are you saying? This underwear is awesome!"
@@ -6518,7 +6518,7 @@ msgstr ""
 
 # game/Cell01_SW.rpy:5620 #-#-# translate crowdin Quest_SW_ADVENTURE_01_040a03dd:
 msgid "[_tb_] Great!"
-msgstr ""
+msgstr "[_tb_] ¡Genial!"
 
 # game/Cell01_SW.rpy:5623 #-#-# translate crowdin Quest_SW_ADVENTURE_01_40b2e89b:
 msgid "[_tb_] As you've heard, in order for the well to work, you have to throw a gold coin inside."
@@ -8406,7 +8406,7 @@ msgstr ""
 
 # game/Cell01_SW.rpy:6942 #-#-# translate crowdin Quest_SW_GOLDCOIN_05_adventure_07c612b3:
 msgid "[_u_] Well..."
-msgstr ""
+msgstr "[_u_] Bueno..."
 
 # game/Cell01_SW.rpy:6944 #-#-# translate crowdin Quest_SW_GOLDCOIN_05_adventure_c32f1192:
 msgid "[_sw_] Pretty warm today, isn't it?"
@@ -10702,7 +10702,7 @@ msgstr ""
 
 # game/Cell01_SW.rpy:8531 #-#-# translate crowdin Quest_SW_GOLDCOIN_09_adventure_p1_02_05d56d8e:
 msgid "[_tb_] ..."
-msgstr ""
+msgstr "[_tb_] ..."
 
 # game/Cell01_SW.rpy:8532 #-#-# translate crowdin Quest_SW_GOLDCOIN_09_adventure_p1_02_280281a1:
 msgid "[_tb_] You're hopeless sometimes."
@@ -12178,7 +12178,7 @@ msgstr ""
 
 # game/Cell01_SW.rpy:9700 #-#-# translate crowdin QuestPatreon04_p2_05d56d8e:
 msgid "[_tb_] ..."
-msgstr ""
+msgstr "[_tb_] ..."
 
 # game/Cell01_SW.rpy:9701 #-#-# translate crowdin QuestPatreon04_p2_8f915392:
 msgid "[_tb_] I hate you so much right now."
@@ -13382,7 +13382,7 @@ msgstr ""
 
 # game/Cell01_SW.rpy:10458 #-#-# translate crowdin Quest_SW_MagicMirror02_05d56d8e:
 msgid "[_tb_] ..."
-msgstr ""
+msgstr "[_tb_] ..."
 
 # game/Cell01_SW.rpy:10460 #-#-# translate crowdin Quest_SW_MagicMirror02_45e050c3:
 msgid "[_tb_] But let's not spoil everything, you'll see that in due time. "
