@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2024-03-01 16:47\n"
+"PO-Revision-Date: 2024-03-16 17:27\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Scene2jm02.rpy:5 #-#-# translate crowdin Quest_JM_Favor_Feather1_03_f924725a:
 msgid "[_a_] Absolutely perfect."
@@ -1190,7 +1190,7 @@ msgstr ""
 
 # game/Scene2jm02.rpy:1376 #-#-# translate crowdin Quest_JM_Favor_Feather1_04_02_4f72216d:
 msgid "[_scc_] Succk."
-msgstr ""
+msgstr "[_scc_] Lutschh."
 
 # game/Scene2jm02.rpy:1378 #-#-# translate crowdin Quest_JM_Favor_Feather1_04_02_6b29698f:
 msgid "[_scc_] Took you long enough to come and get me! I've been here for 30 minutes! "
@@ -1202,7 +1202,7 @@ msgstr ""
 
 # game/Scene2jm02.rpy:1382 #-#-# translate crowdin Quest_JM_Favor_Feather1_04_02_ad85e45c:
 msgid "[_scc_] ..."
-msgstr ""
+msgstr "[_scc_] ..."
 
 # game/Scene2jm02.rpy:1383 #-#-# translate crowdin Quest_JM_Favor_Feather1_04_02_96794d9e:
 msgid "[_scc_] So, you're getting me out of here?"
@@ -1218,7 +1218,7 @@ msgstr ""
 
 # game/Scene2jm02.rpy:1386 #-#-# translate crowdin Quest_JM_Favor_Feather1_04_02_ad85e45c_1:
 msgid "[_scc_] ..."
-msgstr ""
+msgstr "[_scc_] ..."
 
 # game/Scene2jm02.rpy:1388 #-#-# translate crowdin Quest_JM_Favor_Feather1_04_02_70c478f1:
 msgid "[_scc_] And what are you going to do? Call the space police? "
