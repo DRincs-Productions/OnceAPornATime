@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-03-15 03:48\n"
+"PO-Revision-Date: 2024-03-16 15:08\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_AM.rpy:86 #-#-# translate crowdin CHARA_AM_Menu01_c781f953:
 msgid "[_am_] Hey!"
@@ -290,7 +290,7 @@ msgstr "[Eso está caliente. "
 
 # game/Cell01_AM.rpy:433 #-#-# translate crowdin Quest2_AM_Talk04_7573b0d3:
 msgid "[_am_] Like... It's amazing to be in something so hot... "
-msgstr ""
+msgstr "[_am_] Es como... Es increíble estar en algo tan caliente... "
 
 # game/Cell01_AM.rpy:435 #-#-# translate crowdin Quest2_AM_Talk04_a4e42ee0:
 msgid "[_am_] And it's soft..."
@@ -302,7 +302,7 @@ msgstr "Y rebota cuando salto. Es increíble. "
 
 # game/Cell01_AM.rpy:439 #-#-# translate crowdin Quest2_AM_Talk04_4323bdf1:
 msgid "[_am_] And then it has so many... interactivity. "
-msgstr ""
+msgstr "[_am_] Y entonces tiene tanta... interactividad. "
 
 # game/Cell01_AM.rpy:441 #-#-# translate crowdin Quest2_AM_Talk04_0239da9b:
 msgid "[_am_] So many things to do with this... thing!"
@@ -358,7 +358,7 @@ msgstr "[_am_] Quiero decir... no en realidad. "
 
 # game/Cell01_AM.rpy:482 #-#-# translate crowdin Amelia_FirstAppChap2_c8807fc9:
 msgid "[_u_] Well, that's a nice view."
-msgstr ""
+msgstr "[_u_] Bueno, son unas buenas vistas."
 
 # game/Cell01_AM.rpy:483 #-#-# translate crowdin Amelia_FirstAppChap2_89ec64ce:
 msgid "[_u_] I hope this is the right office."
