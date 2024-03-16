@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2024-03-15 06:10\n"
+"PO-Revision-Date: 2024-03-16 06:39\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_BA.rpy:50 #-#-# translate crowdin CHARA_BA_Menu01_98aea068:
 msgid "[_ba_]  ... "
@@ -42,7 +42,7 @@ msgstr "[_sz_] Да, увидимся."
 
 # game/Cell01_BA.rpy:127 #-#-# translate crowdin Quest_BA_Favor_Boobs_01_44976c9b:
 msgid "[_ba_] That I show you... what?"
-msgstr "[_ba_] Чтобы я тебе показала... что?"
+msgstr "[_ba_] Чтобы я тебе показала... Что?"
 
 # game/Cell01_BA.rpy:129 #-#-# translate crowdin Quest_BA_Favor_Boobs_01_0232476c:
 msgid "[_ba_] Why would I do that? "
@@ -50,15 +50,15 @@ msgstr "[_ba_] С чего бы мне это делать? "
 
 # game/Cell01_BA.rpy:130 #-#-# translate crowdin Quest_BA_Favor_Boobs_01_9a9841bf:
 msgid "[_u_] To make you sexually debauched. To be able to make your wish to the Djin. "
-msgstr "[_u_] Чтобы сделать тебя сексуально развратной. Чтобы иметь возможность загадать желание джину. "
+msgstr "[_u_] Чтобы сделать тебя сексуально развратной. И чтобы ты имела возможность загадать желание джину. "
 
 # game/Cell01_BA.rpy:132 #-#-# translate crowdin Quest_BA_Favor_Boobs_01_f7106acc:
 msgid "[_ba_] And really... you think the best way to achieve this is for me to..."
-msgstr "[_ba_] И ты действительно... думаешь, что лучший способ добиться этого - это..."
+msgstr "[_ba_] И ты действительно... Думаешь, что лучший способ добиться этого - это..."
 
 # game/Cell01_BA.rpy:134 #-#-# translate crowdin Quest_BA_Favor_Boobs_01_809c1fc3:
 msgid "[_ba_] ...show my breasts?"
-msgstr "[_ba_] ...показать мою грудь?"
+msgstr "[_ba_] ...Показать мою грудь?"
 
 # game/Cell01_BA.rpy:136 #-#-# translate crowdin Quest_BA_Favor_Boobs_01_6ee176e9:
 msgid "[_ba_] You're not making any sense. "
