@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2024-03-16 06:39\n"
+"PO-Revision-Date: 2024-03-16 07:38\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_BA.rpy:50 #-#-# translate crowdin CHARA_BA_Menu01_98aea068:
 msgid "[_ba_]  ... "
@@ -86,7 +86,7 @@ msgstr "[_u_] Потому что, когда я вижу, что ты не хо
 
 # game/Cell01_BA.rpy:145 #-#-# translate crowdin Quest_BA_Favor_Boobs_01_3204983f:
 msgid "[_u_] You'd think the queen of thieves was also the queen of modesty. "
-msgstr "[_u_] Можно подумать, королева воров еще и королева скромности. "
+msgstr "[_u_] Можно подумать, что королева воров еще и королева скромности. "
 
 # game/Cell01_BA.rpy:147 #-#-# translate crowdin Quest_BA_Favor_Boobs_01_7611efb4:
 msgid "[_ba_] ..."
@@ -102,7 +102,7 @@ msgstr "[_ba_] Иначе тебе бы уже язык отрезали и... "
 
 # game/Cell01_BA.rpy:152 #-#-# translate crowdin Quest_BA_Favor_Boobs_01_08840377:
 msgid "[_u_] ...and thrown into the desert. Yes, I know. "
-msgstr "[_u_] ...и бросили в пустыню. Да, я знаю. "
+msgstr "[_u_] ...И бросили в пустыню. Да, я знаю. "
 
 # game/Cell01_BA.rpy:154 #-#-# translate crowdin Quest_BA_Favor_Boobs_01_2e2af925:
 msgid "[_ba_] Mhf..."
