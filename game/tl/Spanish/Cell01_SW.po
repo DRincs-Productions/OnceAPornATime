@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-03-06 09:06\n"
+"PO-Revision-Date: 2024-03-16 18:35\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_SW.rpy:309 #-#-# translate crowdin CHARA_SW_Menu01_8238495a:
 msgid "[_sw_]  ... "
@@ -7306,7 +7306,7 @@ msgstr ""
 
 # game/Cell01_SW.rpy:6200 #-#-# translate crowdin Quest_SW_GOLDCOIN_03_adventure_c5446f18:
 msgid "[_u_] Really?"
-msgstr ""
+msgstr "[_u_] ¿De verdad?"
 
 # game/Cell01_SW.rpy:6202 #-#-# translate crowdin Quest_SW_GOLDCOIN_03_adventure_f74ccf0a:
 msgid "[_sw_] Yes! With these small wings, and small ears and ..."
