@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-03-16 18:35\n"
+"PO-Revision-Date: 2024-03-16 22:11\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Quest_Dialogues_Separate02.rpy:69 #-#-# translate crowdin Quest2_Room01Panel01screen_E_8240cba6:
 msgid "[_u_] Got it!"
@@ -50,7 +50,7 @@ msgstr "[_u_] ..."
 
 # game/Quest_Dialogues_Separate02.rpy:105 #-#-# translate crowdin Intro_Rooms_Amandine01_b0ff36fe:
 msgid "[_u_] Gosh..."
-msgstr ""
+msgstr "[_u_] Dios..."
 
 # game/Quest_Dialogues_Separate02.rpy:106 #-#-# translate crowdin Intro_Rooms_Amandine01_8f92237e:
 msgid "[_u_] Where the fuck are you, Tinker?... "
@@ -186,7 +186,7 @@ msgstr ""
 
 # game/Quest_Dialogues_Separate02.rpy:171 #-#-# translate crowdin Intro_Rooms_Amandine01_05d56d8e:
 msgid "[_tb_] ..."
-msgstr ""
+msgstr "[_tb_] ..."
 
 # game/Quest_Dialogues_Separate02.rpy:173 #-#-# translate crowdin Intro_Rooms_Amandine01_4e2940ca:
 msgid "[_tb_] Oh hello [name]."
@@ -398,7 +398,7 @@ msgstr ""
 
 # game/Quest_Dialogues_Separate02.rpy:296 #-#-# translate crowdin Intro_Rooms_BED01_menu01_P2_05d56d8e:
 msgid "[_tb_] ..."
-msgstr ""
+msgstr "[_tb_] ..."
 
 # game/Quest_Dialogues_Separate02.rpy:298 #-#-# translate crowdin Intro_Rooms_BED01_menu01_P2_6e2f4ed2:
 msgid "[_tb_] Did you see how nice it is inside?"
@@ -686,7 +686,7 @@ msgstr ""
 
 # game/Quest_Dialogues_Separate02.rpy:483 #-#-# translate crowdin QuestChap2_Amandine01_02_03428ad6:
 msgid "[_a_] See you soon [name]!"
-msgstr ""
+msgstr "[_a_] ¡Nos vemos pronto [name]!"
 
 # game/Quest_Dialogues_Separate02.rpy:504 #-#-# translate crowdin QuestChap2_Amandine01_03_407513bc:
 msgid "[_u_] Here we go again."
@@ -850,7 +850,7 @@ msgstr ""
 
 # game/Quest_Dialogues_Separate02.rpy:616 #-#-# translate crowdin QuestChap2_Amandine01_03_menu1_P3_b1452e56:
 msgid "[_dj_] Your desires are orders."
-msgstr ""
+msgstr "[_dj_] Sus deseos son órdenes."
 
 # game/Quest_Dialogues_Separate02.rpy:627 #-#-# translate crowdin QuestChap2_Amandine01_03_menu1_P3_d62776af:
 msgid "[_dj_] Wow!!! I can finally see my body!!!"
@@ -1950,7 +1950,7 @@ msgstr ""
 
 # game/Quest_Dialogues_Separate02.rpy:1438 #-#-# translate crowdin GalleryImageQuest_Tinker01_05d56d8e:
 msgid "[_tb_] ..."
-msgstr ""
+msgstr "[_tb_] ..."
 
 # game/Quest_Dialogues_Separate02.rpy:1440 #-#-# translate crowdin GalleryImageQuest_Tinker01_f27af5e1:
 msgid "[_tb_] Call me in the office as soon as the dress is ready. "
@@ -1974,7 +1974,7 @@ msgstr ""
 
 # game/Quest_Dialogues_Separate02.rpy:1456 #-#-# translate crowdin GalleryImageQuest_Tinker01_05d56d8e_1:
 msgid "[_tb_] ..."
-msgstr ""
+msgstr "[_tb_] ..."
 
 # game/Quest_Dialogues_Separate02.rpy:1458 #-#-# translate crowdin GalleryImageQuest_Tinker01_d4b4718a:
 msgid "[_tb_] Come back tonight and give me my dress. I spend the day with Djin today. "
@@ -2134,7 +2134,7 @@ msgstr ""
 
 # game/Quest_Dialogues_Separate02.rpy:1599 #-#-# translate crowdin GalleryImageQuest_Tinker02_3e745270:
 msgid "[_tb_] Mh..."
-msgstr ""
+msgstr "[_tb_] Mh..."
 
 # game/Quest_Dialogues_Separate02.rpy:1601 #-#-# translate crowdin GalleryImageQuest_Tinker02_e1998762:
 msgid "[_tb_] Gosssh..."
@@ -2618,7 +2618,7 @@ msgstr ""
 
 # game/Quest_Dialogues_Separate02.rpy:2030 #-#-# translate crowdin QuestChap2_Jasmine01_04_040a03dd:
 msgid "[_tb_] Great!"
-msgstr ""
+msgstr "[_tb_] ¡Genial!"
 
 # game/Quest_Dialogues_Separate02.rpy:2032 #-#-# translate crowdin QuestChap2_Jasmine01_04_0e35d04f:
 msgid "[_tb_] And good luck."
@@ -2734,7 +2734,7 @@ msgstr "[_u_] ..."
 
 # game/Quest_Dialogues_Separate02.rpy:2106 #-#-# translate crowdin QuestChap2_Jasmine01_13_pause_b0ff36fe:
 msgid "[_u_] Gosh..."
-msgstr ""
+msgstr "[_u_] Dios..."
 
 # game/Quest_Dialogues_Separate02.rpy:2112 #-#-# translate crowdin QuestChap2_Jasmine01_13_pause_c55683a0:
 msgid "[_am_] Mmmh... you have a lot of nerve asking me to help you when we haven't even finished my interviews... "
@@ -2846,7 +2846,7 @@ msgstr ""
 
 # game/Quest_Dialogues_Separate02.rpy:2180 #-#-# translate crowdin GalleryImageQuest_QIU01_2ebf06d7:
 msgid "[_qiu_] ..."
-msgstr ""
+msgstr "[_qiu_] ..."
 
 # game/Quest_Dialogues_Separate02.rpy:2182 #-#-# translate crowdin GalleryImageQuest_QIU01_dfbf9b54:
 msgid "[_qiu_] So uh... "
@@ -2886,7 +2886,7 @@ msgstr ""
 
 # game/Quest_Dialogues_Separate02.rpy:2193 #-#-# translate crowdin GalleryImageQuest_QIU01_2ebf06d7_1:
 msgid "[_qiu_] ..."
-msgstr ""
+msgstr "[_qiu_] ..."
 
 # game/Quest_Dialogues_Separate02.rpy:2194 #-#-# translate crowdin GalleryImageQuest_QIU01_262967cd:
 msgid "[_qiu_] mh..."
@@ -2906,7 +2906,7 @@ msgstr ""
 
 # game/Quest_Dialogues_Separate02.rpy:2200 #-#-# translate crowdin GalleryImageQuest_QIU01_2ebf06d7_2:
 msgid "[_qiu_] ..."
-msgstr ""
+msgstr "[_qiu_] ..."
 
 # game/Quest_Dialogues_Separate02.rpy:2201 #-#-# translate crowdin GalleryImageQuest_QIU01_8a3c76c2:
 msgid "[_qiu_] Do you want to fuck?"
@@ -2918,7 +2918,7 @@ msgstr ""
 
 # game/Quest_Dialogues_Separate02.rpy:2204 #-#-# translate crowdin GalleryImageQuest_QIU01_2ebf06d7_3:
 msgid "[_qiu_] ..."
-msgstr ""
+msgstr "[_qiu_] ..."
 
 # game/Quest_Dialogues_Separate02.rpy:2223 #-#-# translate crowdin GalleryImageQuest_QIU01_933c143c:
 msgid "[_qiu_] MPhf...."
@@ -3397,7 +3397,7 @@ msgstr ""
 
 # game/Quest_Dialogues_Separate02.rpy:2562 #-#-# translate crowdin QuestChap2_LycorisStart_01_menu01_P2_05d56d8e:
 msgid "[_tb_] ..."
-msgstr ""
+msgstr "[_tb_] ..."
 
 # game/Quest_Dialogues_Separate02.rpy:2564 #-#-# translate crowdin QuestChap2_LycorisStart_01_menu01_P2_d4ae7765:
 msgid "[_tb_] That's not a bad idea."
@@ -4601,7 +4601,7 @@ msgstr ""
 
 # game/Quest_Dialogues_Separate02.rpy:3420 #-#-# translate crowdin QUEST_office_01_customs_TINKERAPP01_05d56d8e:
 msgid "[_tb_] ..."
-msgstr ""
+msgstr "[_tb_] ..."
 
 # game/Quest_Dialogues_Separate02.rpy:3422 #-#-# translate crowdin QUEST_office_01_customs_TINKERAPP01_80fe714c:
 msgid "[_tb_] No, I've got a room full of them and I can't get rid of them. "
@@ -4713,7 +4713,7 @@ msgstr ""
 
 # game/Quest_Dialogues_Separate02.rpy:3513 #-#-# translate crowdin QUEST_office_01_customs_TINKERAPP02_05d56d8e:
 msgid "[_tb_] ..."
-msgstr ""
+msgstr "[_tb_] ..."
 
 # game/Quest_Dialogues_Separate02.rpy:3515 #-#-# translate crowdin QUEST_office_01_customs_TINKERAPP02_191390b5:
 msgid "[_tb_] Have a little more respect for my ancestors, you young prick. "
@@ -6061,7 +6061,7 @@ msgstr ""
 
 # game/Quest_Dialogues_Separate02.rpy:4630 #-#-# translate crowdin TBReactionLicorne_03_menu01_040a03dd:
 msgid "[_tb_] Great!"
-msgstr ""
+msgstr "[_tb_] ¡Genial!"
 
 # game/Quest_Dialogues_Separate02.rpy:4637 #-#-# translate crowdin TBReactionLicorne_03_menu01_cb1eecc9:
 msgid "[_tb_] I didn't think it would be so easy to convince you!"
@@ -6697,7 +6697,7 @@ msgstr ""
 
 # game/Quest_Dialogues_Separate02.rpy:5061 #-#-# translate crowdin GalleryImageQuest_Tinker03_05d56d8e:
 msgid "[_tb_] ..."
-msgstr ""
+msgstr "[_tb_] ..."
 
 # game/Quest_Dialogues_Separate02.rpy:5068 #-#-# translate crowdin GalleryImageQuest_Tinker03END_c7be0c5c:
 msgid "[_tb_] Gosh... that feels good..."
@@ -7673,7 +7673,7 @@ msgstr ""
 
 # game/Quest_Dialogues_Separate02.rpy:5606 #-#-# translate crowdin Ml_Ali_01_06_05d56d8e:
 msgid "[_tb_] ..."
-msgstr ""
+msgstr "[_tb_] ..."
 
 # game/Quest_Dialogues_Separate02.rpy:5608 #-#-# translate crowdin Ml_Ali_01_06_42834176:
 msgid "[_tb_] Do you think Melissandre would be up for a fairy body? "
@@ -7765,7 +7765,7 @@ msgstr ""
 
 # game/Quest_Dialogues_Separate02.rpy:5651 #-#-# translate crowdin Ml_Ali_01_06_menu1_05d56d8e:
 msgid "[_tb_] ..."
-msgstr ""
+msgstr "[_tb_] ..."
 
 # game/Quest_Dialogues_Separate02.rpy:5653 #-#-# translate crowdin Ml_Ali_01_06_menu1_cf368606:
 msgid "[_tb_] Anyway, we'll see. "
