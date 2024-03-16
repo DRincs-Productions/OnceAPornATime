@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-03-06 09:06\n"
+"PO-Revision-Date: 2024-03-16 22:11\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_ML.rpy:73 #-#-# translate crowdin CHARA_ML_Menu01_b7639ffd:
 msgid "[_ml_] Yo."
@@ -38,7 +38,7 @@ msgstr ""
 
 # game/Cell01_ML.rpy:140 #-#-# translate crowdin CHARA_ML_MenuChoice_259e399c:
 msgid "[_u_] See you later!"
-msgstr "[_u_] ¡Nos vemos más tarde!"
+msgstr "[_u_] ¡Te veo luego!"
 
 # game/Cell01_ML.rpy:145 #-#-# translate crowdin CHARA_ML_MenuChoice_459e9fcc:
 msgid "[_ml_] Yup "
@@ -1522,7 +1522,7 @@ msgstr ""
 
 # game/Cell01_ML.rpy:1409 #-#-# translate crowdin Melissandre_Change_OutfitSpe01_05d56d8e:
 msgid "[_tb_] ..."
-msgstr ""
+msgstr "[_tb_] ..."
 
 # game/Cell01_ML.rpy:1410 #-#-# translate crowdin Melissandre_Change_OutfitSpe01_7a82bd8d:
 msgid "[_ml_] ..."
