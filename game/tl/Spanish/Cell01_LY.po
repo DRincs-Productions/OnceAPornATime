@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-03-06 09:06\n"
+"PO-Revision-Date: 2024-03-16 16:12\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_LY.rpy:80 #-#-# translate crowdin Cell01_LY_QuestActivations_d1d09770:
 msgid "[_ly_] Hi cutie."
@@ -22,7 +22,7 @@ msgstr ""
 
 # game/Cell01_LY.rpy:133 #-#-# translate crowdin CHARA_LY_MenuChoice_259e399c:
 msgid "[_u_] See you later!"
-msgstr "[_u_] ¡Nos vemos más tarde!"
+msgstr "[_u_] ¡Te veo luego!"
 
 # game/Cell01_LY.rpy:135 #-#-# translate crowdin CHARA_LY_MenuChoice_d93ee3d6:
 msgid "[_ly_] See you [name]!"
@@ -3362,7 +3362,7 @@ msgstr ""
 
 # game/Cell01_LY.rpy:2558 #-#-# translate crowdin LY_LastQuest_01_02_ffd3fd1b:
 msgid "[_u_] Wow."
-msgstr ""
+msgstr "[_u_] Guau."
 
 # game/Cell01_LY.rpy:2559 #-#-# translate crowdin LY_LastQuest_01_02_3eeb17d3:
 msgid "[_ly_] ..."
