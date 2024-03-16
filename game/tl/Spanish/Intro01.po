@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-03-06 09:06\n"
+"PO-Revision-Date: 2024-03-16 18:35\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Intro01.rpy:64 #-#-# translate crowdin Intro01_93eeba4f:
 msgid "[_tb_] Greetings!"
@@ -1850,7 +1850,7 @@ msgstr ""
 
 # game/Intro01.rpy:1973 #-#-# translate crowdin Intro_PrisonEnd_menu01_c5446f18:
 msgid "[_u_] Really?"
-msgstr ""
+msgstr "[_u_] ¿De verdad?"
 
 # game/Intro01.rpy:1975 #-#-# translate crowdin Intro_PrisonEnd_menu01_c53c4a02:
 msgid "[_ly_] Well... I found a hidden staircase under a stone slab while cleaning a few days ago. "
