@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2024-03-01 16:47\n"
+"PO-Revision-Date: 2024-03-16 00:41\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_TB.rpy:29 #-#-# translate crowdin Cell01_TB_126a6d5f:
 msgid "[_tb_] I'll be there in a second."
@@ -611,7 +611,7 @@ msgstr ""
 
 # game/Cell01_TB.rpy:663 #-#-# translate crowdin QuestChap2_Amelia01_03_c5446f18:
 msgid "[_u_] Really?"
-msgstr ""
+msgstr "[_u_] Wirklich?"
 
 # game/Cell01_TB.rpy:665 #-#-# translate crowdin QuestChap2_Amelia01_03_360f0064:
 msgid "[_tb_] Yep. That's all I need to know. "
