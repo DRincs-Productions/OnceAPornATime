@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2024-03-11 10:22\n"
+"PO-Revision-Date: 2024-03-16 00:41\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_JM.rpy:131 #-#-# translate crowdin CHARA_JM_Menu01_0eca5cd6:
 msgid "[_jm_] Hello to you... my [Quest_JM_NameMC]."
@@ -7710,7 +7710,7 @@ msgstr "..."
 
 # game/Cell01_JM.rpy:6073 #-#-# translate crowdin QuestChap2_Jasmine01_16_menu01_P1_c5446f18:
 msgid "[_u_] Really?"
-msgstr ""
+msgstr "[_u_] Wirklich?"
 
 # game/Cell01_JM.rpy:6075 #-#-# translate crowdin QuestChap2_Jasmine01_16_menu01_P1_f6b4d71c:
 msgid "[_a_] Yeah."
