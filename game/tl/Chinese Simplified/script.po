@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-03-17 09:20\n"
+"PO-Revision-Date: 2024-03-17 10:42\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # §translate crowdin strings: #|#|# # game/script.rpy:935
 msgid "Changelog"
@@ -86,11 +86,11 @@ msgstr ""
 
 # game/script.rpy:973
 msgid "{size=20}{color=#797979}07/2023{/color}{/size}"
-msgstr ""
+msgstr "{size=20}{color=#797979}07/2023{/color}{/size}"
 
 # game/script.rpy:978
 msgid "{size=20}{color=#797979}04/2023{/color}{/size}"
-msgstr ""
+msgstr "{size=20}{color=#797979}04/2023{/color}{/size}"
 
 # game/script.rpy:979
 msgid "-Jasmine Patreon Quest Corruption"
