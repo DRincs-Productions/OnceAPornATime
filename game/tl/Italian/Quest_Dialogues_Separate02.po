@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2024-03-11 17:45\n"
+"PO-Revision-Date: 2024-03-17 14:11\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Quest_Dialogues_Separate02.rpy:69 #-#-# translate crowdin Quest2_Room01Panel01screen_E_8240cba6:
 msgid "[_u_] Got it!"
@@ -686,7 +686,7 @@ msgstr ""
 
 # game/Quest_Dialogues_Separate02.rpy:483 #-#-# translate crowdin QuestChap2_Amandine01_02_03428ad6:
 msgid "[_a_] See you soon [name]!"
-msgstr ""
+msgstr "[_a_] A presto [name]!"
 
 # game/Quest_Dialogues_Separate02.rpy:504 #-#-# translate crowdin QuestChap2_Amandine01_03_407513bc:
 msgid "[_u_] Here we go again."
