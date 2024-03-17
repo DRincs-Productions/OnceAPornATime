@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-03-17 01:30\n"
+"PO-Revision-Date: 2024-03-17 03:03\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Quest_Dialogues_Separate02.rpy:69 #-#-# translate crowdin Quest2_Room01Panel01screen_E_8240cba6:
 msgid "[_u_] Got it!"
@@ -5573,7 +5573,7 @@ msgstr ""
 
 # game/Quest_Dialogues_Separate02.rpy:4265 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_05_menu1_P2_d8f057fe:
 msgid "[_dj_] ..."
-msgstr ""
+msgstr "[_dj_] ..."
 
 # game/Quest_Dialogues_Separate02.rpy:4267 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_05_menu1_P2_881055e4:
 msgid "[_dj_] Don't tempt me!"
@@ -5597,7 +5597,7 @@ msgstr ""
 
 # game/Quest_Dialogues_Separate02.rpy:4277 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_05_menu1_P2_d8f057fe_1:
 msgid "[_dj_] ..."
-msgstr ""
+msgstr "[_dj_] ..."
 
 # game/Quest_Dialogues_Separate02.rpy:4279 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_05_menu1_P2_62ce5b41:
 msgid "[_dj_] Okay, I didn't struggle to get this body..."
@@ -6029,7 +6029,7 @@ msgstr ""
 
 # game/Quest_Dialogues_Separate02.rpy:4609 #-#-# translate crowdin TBReactionLicorne_03_198bfd6e:
 msgid "[_u_] Are you serious? "
-msgstr ""
+msgstr "[_u_] 你是说真的吗？ "
 
 # game/Quest_Dialogues_Separate02.rpy:4611 #-#-# translate crowdin TBReactionLicorne_03_00820265:
 msgid "[_tb_] Yeah! I can't do it at all with my little arms!"
