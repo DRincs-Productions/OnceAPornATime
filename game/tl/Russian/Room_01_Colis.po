@@ -11,53 +11,53 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2024-03-07 14:17\n"
+"PO-Revision-Date: 2024-03-17 16:13\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Room_01_Colis.rpy:2 #-#-# translate crowdin Room01_ColisArrived_033b8e73:
 msgid " You receive: "
-msgstr ""
+msgstr " Вы получили: "
 
 # game/Room_01_Colis.rpy:7 #-#-# translate crowdin Room01_ColisArrived_4b2aeaa1:
 msgid "([COLIS_OBJECT_01]) Apple Basket !"
-msgstr ""
+msgstr "([COLIS_OBJECT_01]) Корзина с яблоками !"
 
 # game/Room_01_Colis.rpy:15 #-#-# translate crowdin Room01_ColisArrived_255304ca:
 msgid "([COLIS_OBJECT_02]) Drone Energy Boost 3AP !"
-msgstr ""
+msgstr "([COLIS_OBJECT_02]) Усиление Энергии Дрона 3АП !"
 
 # game/Room_01_Colis.rpy:16 #-#-# translate crowdin Room01_ColisArrived_0b9127ea:
 msgid " Use the Drone device to use your boost !"
-msgstr ""
+msgstr " Используйте устройство Дрон, чтобы использовать своё усиление!"
 
 # game/Room_01_Colis.rpy:24 #-#-# translate crowdin Room01_ColisArrived_7edf4b2e:
 msgid "([COLIS_OBJECT_03]) Clothes Scrap !"
-msgstr ""
+msgstr "([COLIS_OBJECT_03]) Обрезки одежды!"
 
 # game/Room_01_Colis.rpy:32 #-#-# translate crowdin Room01_ColisArrived_d0965dde:
 msgid "([COLIS_OBJECT_04]) Apple Candy !"
-msgstr ""
+msgstr "([COLIS_OBJECT_04]) Яблочные конфеты !"
 
 # game/Room_01_Colis.rpy:40 #-#-# translate crowdin Room01_ColisArrived_4bdff54e:
 msgid "([COLIS_OBJECT_05]) Apple Cider !"
-msgstr ""
+msgstr "([COLIS_OBJECT_05]) Яблочный сидр !"
 
 # game/Room_01_Colis.rpy:48 #-#-# translate crowdin Room01_ColisArrived_8a7a6261:
 msgid "([COLIS_OBJECT_06]) Big Old-Fashioned Cookbook !"
-msgstr ""
+msgstr "([COLIS_OBJECT_06]) Большая старомодная Кулинарная книга!"
 
 # game/Room_01_Colis.rpy:56 #-#-# translate crowdin Room01_ColisArrived_4acc7f39:
 msgid "([COLIS_OBJECT_07]) Cupid apple basket !"
-msgstr ""
+msgstr "([COLIS_OBJECT_07]) Корзина с яблоками \"Купидон\"!"
 
 # game/Room_01_Colis.rpy:64 #-#-# translate crowdin Room01_ColisArrived_636c2261:
 msgid "([COLIS_OBJECT_08]) Drone Energy Boost 5AP !"
-msgstr ""
+msgstr "([COLIS_OBJECT_08]) Усиление Энергии Дрона 5АП !"
 
 # game/Room_01_Colis.rpy:65 #-#-# translate crowdin Room01_ColisArrived_0b9127ea_1:
 msgid " Use the Drone device to use your boost !"
-msgstr ""
+msgstr " Используйте устройство Дрон, чтобы использовать своё усиление!"
 
 # game/Room_01_Colis.rpy:73 #-#-# translate crowdin Room01_ColisArrived_2dd7a7ae:
 msgid "([COLIS_OBJECT_09]) Emergency Energy Cell !"
-msgstr ""
+msgstr "([COLIS_OBJECT_09]) Аварийная энергетическая ячейка!"
 
