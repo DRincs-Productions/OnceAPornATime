@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2024-03-14 12:18\n"
+"PO-Revision-Date: 2024-03-17 16:13\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_JM.rpy:131 #-#-# translate crowdin CHARA_JM_Menu01_0eca5cd6:
 msgid "[_jm_] Hello to you... my [Quest_JM_NameMC]."
@@ -7450,19 +7450,19 @@ msgstr ""
 
 # game/Cell01_JM.rpy:5918 #-#-# translate crowdin GalleryImageQuest_Jasmine01_642da2c9:
 msgid "[_tb_] Rest assured, The next part is already in production!"
-msgstr ""
+msgstr "[_tb_] Будьте уверены, следующая часть уже в производстве!"
 
 # game/Cell01_JM.rpy:5921 #-#-# translate crowdin GalleryImageQuest_Jasmine01_d596bfee:
 msgid "[_tb_] Or even already released! The only way to find out is to check it out on {a=https://www.patreon.com/Salty01_NSFW}{color=#fc9c63}Patreon{/color}{/a}!"
-msgstr ""
+msgstr "[_tb_] Или даже уже выпущена! Единственный способ узнать это - проверить его на {a=https://www.patreon.com/Salty01_NSFW}{color=#fc9c63}Patreon{/color}{/a}!"
 
 # game/Cell01_JM.rpy:5924 #-#-# translate crowdin GalleryImageQuest_Jasmine01_e74c174b:
 msgid "[_tb_] Thank you again for helping financially this game, it is thanks to you and your support that this game can exist!"
-msgstr ""
+msgstr "[_tb_] Еще раз спасибо за финансовую поддержку игры, именно благодаря вам и вашей поддержке она может существовать!"
 
 # game/Cell01_JM.rpy:5928 #-#-# translate crowdin GalleryImageQuest_Jasmine01_8cba7e19:
 msgid "[_tb_] See you soon for more adventures!"
-msgstr ""
+msgstr "[_tb_] Увидимся в скором времени для новых приключений!"
 
 # game/Cell01_JM.rpy:5938 #-#-# translate crowdin QuestChap2_Jasmine01_16_7bfe57a9:
 msgid "[_jm_] What do you mean?"
