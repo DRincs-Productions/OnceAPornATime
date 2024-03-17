@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-03-17 10:42\n"
+"PO-Revision-Date: 2024-03-17 15:11\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # §translate crowdin strings: #|#|# # game/script.rpy:935
 msgid "Changelog"
@@ -82,7 +82,7 @@ msgstr "{size=20}{color=#797979}08/2023{/color}{/size}"
 
 # game/script.rpy:970
 msgid "-Office Customs"
-msgstr ""
+msgstr "-官方服装"
 
 # game/script.rpy:973
 msgid "{size=20}{color=#797979}07/2023{/color}{/size}"
@@ -94,31 +94,31 @@ msgstr "{size=20}{color=#797979}04/2023{/color}{/size}"
 
 # game/script.rpy:979
 msgid "-Jasmine Patreon Quest Corruption"
-msgstr ""
+msgstr "-茉莉Patreon恶堕任务"
 
 # game/script.rpy:983
 msgid "02/2023"
-msgstr ""
+msgstr "02/2023"
 
 # game/script.rpy:987
 msgid "{size=20}{color=#797979}01/2023{/color}{/size}"
-msgstr ""
+msgstr "{size=20}{color=#797979}01/2023{/color}{/size}"
 
 # game/script.rpy:988
 msgid "-First Patreon Quest"
-msgstr ""
+msgstr "-第一个Patreon任务"
 
 # game/script.rpy:990
 msgid "- New Clothes"
-msgstr ""
+msgstr "- 新的服装"
 
 # game/script.rpy:992
 msgid "{size=20}{color=#797979}11/2022{/color}{/size}"
-msgstr ""
+msgstr "{size=20}{color=#797979}11/2022{/color}{/size}"
 
 # game/script.rpy:993
 msgid "- Sultana quest"
-msgstr ""
+msgstr "- 苏丹娜任务"
 
 # game/script.rpy:994
 msgid "- Sherazade Corruption"
