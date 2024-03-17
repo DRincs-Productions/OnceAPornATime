@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2024-03-17 16:13\n"
+"PO-Revision-Date: 2024-03-17 17:28\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_BA.rpy:50 #-#-# translate crowdin CHARA_BA_Menu01_98aea068:
 msgid "[_ba_]  ... "
@@ -394,7 +394,7 @@ msgstr ""
 
 # game/Cell01_BA.rpy:335 #-#-# translate crowdin Quest_BA_App01_01_d474590f:
 msgid "[_dj_] Is that another wish?"
-msgstr ""
+msgstr "[_dj_] Это еще одно желание?"
 
 # game/Cell01_BA.rpy:337 #-#-# translate crowdin Quest_BA_App01_01_b0295ad8:
 msgid "[_dj_] Because if that's the case, you've got none left. "
@@ -402,23 +402,23 @@ msgstr ""
 
 # game/Cell01_BA.rpy:340 #-#-# translate crowdin Quest_BA_App01_01_ea1b20bc:
 msgid "[_ba_] Oh my God... I can't believe it..."
-msgstr ""
+msgstr "[_ba_] Боже мой... Я не могу в это поверить..."
 
 # game/Cell01_BA.rpy:341 #-#-# translate crowdin Quest_BA_App01_01_d8225a01:
 msgid "[_u_] Well, that was quick. "
-msgstr ""
+msgstr "[_u_] Ну, это было быстро. "
 
 # game/Cell01_BA.rpy:343 #-#-# translate crowdin Quest_BA_App01_01_62c16060:
 msgid "[_ba_] By the great sea of sand... I cannot believe it... "
-msgstr ""
+msgstr "[_ba_] У великого моря песка... Я не могу в это поверить... "
 
 # game/Cell01_BA.rpy:345 #-#-# translate crowdin Quest_BA_App01_01_2d2ab977:
 msgid "[_dj_] If you like, I can grant you one last wish. But... "
-msgstr ""
+msgstr "[_dj_] Если хочешь, я могу исполнить твое последнее желание. Но... "
 
 # game/Cell01_BA.rpy:347 #-#-# translate crowdin Quest_BA_App01_01_2ab0687c:
 msgid "[_ba_] Let me know. I'm up to anything."
-msgstr ""
+msgstr "[_ba_] Дай мне знать. Я готов на все."
 
 # game/Cell01_BA.rpy:349 #-#-# translate crowdin Quest_BA_App01_01_5a47299b:
 msgid "[_dj_] But I can only grant this extra-ordinary wish to an exceptionally... debauched person. "
@@ -1038,47 +1038,47 @@ msgstr ""
 
 # game/Cell01_BA.rpy:726 #-#-# translate crowdin GalleryImageQuest_Djin01_efe1beec:
 msgid "[_dj_] Thanks, I know."
-msgstr ""
+msgstr "[_dj_] Спасибо, я знаю."
 
 # game/Cell01_BA.rpy:728 #-#-# translate crowdin GalleryImageQuest_Djin01_a2893c20:
 msgid "[_dj_] Annhw ! Hey !"
-msgstr ""
+msgstr "[_dj_] Аннхв! Эй!"
 
 # game/Cell01_BA.rpy:730 #-#-# translate crowdin GalleryImageQuest_Djin01_0e0c73ff:
 msgid "[_dj_] Are you that impatient ?"
-msgstr ""
+msgstr "[_dj_] Ты настолько нетерпелив?"
 
 # game/Cell01_BA.rpy:732 #-#-# translate crowdin GalleryImageQuest_Djin01_69d5c215:
 msgid "[_u_] Fuck, it's so good inside you..."
-msgstr ""
+msgstr "[_u_] Черт, как же хорошо внутри тебя..."
 
 # game/Cell01_BA.rpy:734 #-#-# translate crowdin GalleryImageQuest_Djin01_e4c42711:
 msgid "[_u_] I can't control myself anymore."
-msgstr ""
+msgstr "[_u_] Я больше не могу контролировать себя."
 
 # game/Cell01_BA.rpy:736 #-#-# translate crowdin GalleryImageQuest_Djin01_1e4f206c:
 msgid "[_dj_] Aww do as you want, I'm feeling really good too with your cock ramming me !"
-msgstr ""
+msgstr "[_dj_] Оу, делай что хочешь, мне тоже очень хорошо, когда твой член проникает в меня!"
 
 # game/Cell01_BA.rpy:738 #-#-# translate crowdin GalleryImageQuest_Djin01_29985f3a:
 msgid "[_dj_] Yeeees !"
-msgstr ""
+msgstr "[_dj_] Дааааа!"
 
 # game/Cell01_BA.rpy:740 #-#-# translate crowdin GalleryImageQuest_Djin01_b85c3520:
 msgid "[_dj_] Cum for me !"
-msgstr ""
+msgstr "[_dj_] Кончи в меня!"
 
 # game/Cell01_BA.rpy:761 #-#-# translate crowdin GalleryImageQuest_Djin01_5d087186:
 msgid "[_dj_] My insides are burning..."
-msgstr ""
+msgstr "[_dj_] У меня все горит..."
 
 # game/Cell01_BA.rpy:781 #-#-# translate crowdin GalleryImageQuest_Djin01_f9ddc1d1:
 msgid "[_dj_] Wow... That's hot."
-msgstr ""
+msgstr "[_dj_] Вау... Это горячо."
 
 # game/Cell01_BA.rpy:784 #-#-# translate crowdin GalleryImageQuest_Djin01_3d5623eb:
 msgid "[_dj_] So cool..."
-msgstr ""
+msgstr "[_dj_] Так круто..."
 
 # game/Cell01_BA.rpy:813 #-#-# translate crowdin GalleryImageQuest_Djin01_END_e86629e5:
 msgid "[_tb_] Hello, dear [name]! "
