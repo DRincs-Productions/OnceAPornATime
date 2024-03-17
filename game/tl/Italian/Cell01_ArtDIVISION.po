@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2024-03-17 14:11\n"
+"PO-Revision-Date: 2024-03-17 15:11\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_ArtDIVISION.rpy:151 #-#-# translate crowdin Cell01_ArtDIVISION_Menu01_ed0ef4ce:
 msgid "[_a_] Bonjour [name]!"
@@ -66,43 +66,43 @@ msgstr "[_a_] Certo!"
 
 # game/Cell01_ArtDIVISION.rpy:358 #-#-# translate crowdin CHARA_A_MenuTalk_FirstTime_dbf8a5ba:
 msgid "[_u_] Hey, excuse my curiosity but I have a question..."
-msgstr ""
+msgstr "[_u_] Hey, scusami se ti do fastidio, ma avrei una domanda..."
 
 # game/Cell01_ArtDIVISION.rpy:360 #-#-# translate crowdin CHARA_A_MenuTalk_FirstTime_03fafe5d:
 msgid "[_a_] Ahah yes I was expecting you to be curious ahah"
-msgstr ""
+msgstr "[_a_] Ahah sì mi aspettavo che tu fossi curioso ahah"
 
 # game/Cell01_ArtDIVISION.rpy:362 #-#-# translate crowdin CHARA_A_MenuTalk_FirstTime_ae134974:
 msgid "[_a_] But I understand you. "
-msgstr ""
+msgstr "[_a_] Ma ti capisco. "
 
 # game/Cell01_ArtDIVISION.rpy:364 #-#-# translate crowdin CHARA_A_MenuTalk_FirstTime_397e1faa:
 msgid "[_a_] If I had a colleague with her face on magazines that landed on such an isolated planet... "
-msgstr ""
+msgstr "[_a_] Se avessi una collega con la faccia sulle riviste che si trova su un pianeta così isolato... "
 
 # game/Cell01_ArtDIVISION.rpy:366 #-#-# translate crowdin CHARA_A_MenuTalk_FirstTime_8a42adfe:
 msgid "[_a_] I'll be surprised too."
-msgstr ""
+msgstr "[_a_] Sarò sorpreso anch'io."
 
 # game/Cell01_ArtDIVISION.rpy:367 #-#-# translate crowdin CHARA_A_MenuTalk_FirstTime_8f5edc43:
 msgid "[_u_] Yeah... that's kind of the idea."
-msgstr ""
+msgstr "[_u_] Sì... L'idea è più o meno quella."
 
 # game/Cell01_ArtDIVISION.rpy:369 #-#-# translate crowdin CHARA_A_MenuTalk_FirstTime_6c200ad5:
 msgid "[_a_] Actually... it's me who has a question for you:"
-msgstr ""
+msgstr "[_a_] Veramente... Sono io che ho una domanda per te:"
 
 # game/Cell01_ArtDIVISION.rpy:371 #-#-# translate crowdin CHARA_A_MenuTalk_FirstTime_a9f611ef:
 msgid "[_a_] Have you..."
-msgstr ""
+msgstr "[_a_] Hai..."
 
 # game/Cell01_ArtDIVISION.rpy:373 #-#-# translate crowdin CHARA_A_MenuTalk_FirstTime_0bf52c31:
 msgid "[_a_] Have you read my book?"
-msgstr ""
+msgstr "[_a_] Hai letto il mio libro?"
 
 # game/Cell01_ArtDIVISION.rpy:374 #-#-# translate crowdin CHARA_A_MenuTalk_FirstTime_3ff79084:
 msgid "[_u_] Hm..."
-msgstr ""
+msgstr "[_u_] Hm..."
 
 # game/Cell01_ArtDIVISION.rpy:376 #-#-# translate crowdin CHARA_A_MenuTalk_FirstTime_7df87e9c:
 msgid "[_a_] Yes I know, I sound a little arrogant asking this question. "
