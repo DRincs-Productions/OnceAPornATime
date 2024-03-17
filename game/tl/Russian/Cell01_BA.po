@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2024-03-16 07:38\n"
+"PO-Revision-Date: 2024-03-17 06:28\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_BA.rpy:50 #-#-# translate crowdin CHARA_BA_Menu01_98aea068:
 msgid "[_ba_]  ... "
@@ -78,7 +78,7 @@ msgstr "[_u_] У кого-то проблемы с наготой?"
 
 # game/Cell01_BA.rpy:142 #-#-# translate crowdin Quest_BA_Favor_Boobs_01_0036ca5c:
 msgid "[_ba_] Absolutely not. "
-msgstr "[_ba_] Точно нет. "
+msgstr "[_ba_] Точно не у меня. "
 
 # game/Cell01_BA.rpy:143 #-#-# translate crowdin Quest_BA_Favor_Boobs_01_15376318:
 msgid "[_u_] Because when I see you reluctant to show your own breasts... "
@@ -138,7 +138,7 @@ msgstr "[_ba_] Мне очень не нравится, как ты говори
 
 # game/Cell01_BA.rpy:168 #-#-# translate crowdin Quest_BA_Favor_Boobs_01_5d640317:
 msgid "[_ba_] What have I done to the gods to deserve this?"
-msgstr "[_ba_] Что я сделала богам, чтобы заслужить это?"
+msgstr "[_ba_] Где я так согрешила, чтобы заслужить это?"
 
 # game/Cell01_BA.rpy:170 #-#-# translate crowdin Quest_BA_Favor_Boobs_01_5f4525c1:
 msgid "[_ba_] Mhr..."
@@ -154,11 +154,11 @@ msgstr "[_u_] Здорово."
 
 # game/Cell01_BA.rpy:176 #-#-# translate crowdin Quest_BA_Favor_Boobs_01_06a4f055:
 msgid "[_u_] Tinker... I'm really asking you as a favor... Is it possible to have a simple corruption one day? "
-msgstr "[_u_] Тинкер... Я прошу тебя об одолжении... Возможно ли однажды простое развращение? "
+msgstr "[_u_] Тинкер... Я прошу можно хоть в один день будет простое развращение? "
 
 # game/Cell01_BA.rpy:184 #-#-# translate crowdin Quest_BA_Favor_Boobs_01_9db7b342:
 msgid "[_tb_] Hey, man, if that was the case, I wouldn't need you."
-msgstr "[_tb_] Чувак, если бы это было так, ты бы мне не понадобился."
+msgstr "[_tb_] Чел, если бы это было так, ты бы мне не понадобился."
 
 # game/Cell01_BA.rpy:186 #-#-# translate crowdin Quest_BA_Favor_Boobs_01_967f49fe:
 msgid "[_u_] Really? I thought you hired me for my incredible charm. "
