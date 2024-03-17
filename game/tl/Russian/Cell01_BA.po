@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2024-03-17 07:23\n"
+"PO-Revision-Date: 2024-03-17 16:13\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_BA.rpy:50 #-#-# translate crowdin CHARA_BA_Menu01_98aea068:
 msgid "[_ba_]  ... "
@@ -1082,73 +1082,73 @@ msgstr ""
 
 # game/Cell01_BA.rpy:813 #-#-# translate crowdin GalleryImageQuest_Djin01_END_e86629e5:
 msgid "[_tb_] Hello, dear [name]! "
-msgstr ""
+msgstr "[_tb_] Здравствуй, дорогой [name]! "
 
 # game/Cell01_BA.rpy:815 #-#-# translate crowdin GalleryImageQuest_Djin01_END_d29bb85e:
 msgid "[_tb_] You have finished the current update of the Mains Quests! "
-msgstr ""
+msgstr "[_tb_] Вы завершили текущее обновление основных квестов! "
 
 # game/Cell01_BA.rpy:818 #-#-# translate crowdin GalleryImageQuest_Djin01_END_642da2c9:
 msgid "[_tb_] Rest assured, The next part is already in production!"
-msgstr ""
+msgstr "[_tb_] Будьте уверены, следующая часть уже в производстве!"
 
 # game/Cell01_BA.rpy:821 #-#-# translate crowdin GalleryImageQuest_Djin01_END_d596bfee:
 msgid "[_tb_] Or even already released! The only way to find out is to check it out on {a=https://www.patreon.com/Salty01_NSFW}{color=#fc9c63}Patreon{/color}{/a}!"
-msgstr ""
+msgstr "[_tb_] Или даже уже выпущена! Единственный способ узнать это - проверить его на {a=https://www.patreon.com/Salty01_NSFW}{color=#fc9c63}Patreon{/color}{/a}!"
 
 # game/Cell01_BA.rpy:824 #-#-# translate crowdin GalleryImageQuest_Djin01_END_e74c174b:
 msgid "[_tb_] Thank you again for helping financially this game, it is thanks to you and your support that this game can exist!"
-msgstr ""
+msgstr "[_tb_] Еще раз спасибо за финансовую поддержку игры, именно благодаря вам и вашей поддержке она может существовать!"
 
 # game/Cell01_BA.rpy:828 #-#-# translate crowdin GalleryImageQuest_Djin01_END_8cba7e19:
 msgid "[_tb_] See you soon for more adventures!"
-msgstr ""
+msgstr "[_tb_] Увидимся в скором времени для новых приключений!"
 
 # §translate crowdin strings: #|#|# # game/Cell01_BA.rpy:64
 msgid "{color=#f2923c}Why did you kidnap Jasmine?{/color} {image=heart07.png}"
-msgstr ""
+msgstr "{color=#f2923c}Зачем ты похитил Жасмин?{/color} {image=heart07.png}"
 
 # game/Cell01_BA.rpy:64
 msgid "{color=#3ad8ff}Why do you want the throne?{/color}"
-msgstr ""
+msgstr "{color=#3ad8ff}Зачем тебе трон?{/color}"
 
 # game/Cell01_BA.rpy:64
 msgid "$Corruption"
-msgstr ""
+msgstr "$Развращение"
 
 # game/Cell01_BA.rpy:90
 msgid "{color=#3ad8ff}Show me your boobs{/color} {image=heart01.png}"
-msgstr ""
+msgstr "{color=#3ad8ff}Покажи мне свои сиськи{/color} {image=heart01.png}"
 
 # game/Cell01_BA.rpy:90
 msgid "{color=#3ad8ff}Show me your boobs{/color} {image=heart02.png}{image=heart01.png}"
-msgstr ""
+msgstr "{color=#3ad8ff}Покажи мне свои сиськи{/color} {image=heart02.png}{image=heart01.png}"
 
 # game/Cell01_BA.rpy:504
 msgid "How does it feel to have a body? "
-msgstr ""
+msgstr "Каково это - иметь тело? "
 
 # game/Cell01_BA.rpy:504
 msgid "You're so beautiful!"
-msgstr ""
+msgstr "Вы так красивы!"
 
 # game/Cell01_BA.rpy:504
 msgid "{color=#3ad8ff}So, have you planned anything?{/color}"
-msgstr ""
+msgstr "{color=#3ad8ff}Итак, вы все спланировали?{/color}"
 
 # game/Cell01_BA.rpy:563
 msgid "I'd love to"
-msgstr ""
+msgstr "С удовольствием"
 
 # game/Cell01_BA.rpy:563
 msgid "No, thanks"
-msgstr ""
+msgstr "Нет, спасибо"
 
 # game/Cell01_BA.rpy:742
 msgid "Cum inside"
-msgstr ""
+msgstr "Кончить внутрь"
 
 # game/Cell01_BA.rpy:742
 msgid "Cum on her ass"
-msgstr ""
+msgstr "Кончил ей на задницу"
 
