@@ -10,75 +10,75 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-02-26 13:31\n"
+"PO-Revision-Date: 2024-03-17 09:20\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # §translate crowdin strings: #|#|# # game/script.rpy:935
 msgid "Changelog"
-msgstr ""
+msgstr "更新日志"
 
 # game/script.rpy:940
 msgid "Changelog [config.version!t]\n"
-msgstr ""
+msgstr "更新日志 [config.version!t]\n"
 
 # game/script.rpy:946
 msgid "{size=20}{color=#797979}02/2023{/color}{/size}"
-msgstr ""
+msgstr "{size=20}{color=#797979}02/2023{/color}{/size}"
 
 # game/script.rpy:947
 msgid "-Main Quest"
-msgstr ""
+msgstr "-主线任务"
 
 # game/script.rpy:948
 msgid "-Characters Quests"
-msgstr ""
+msgstr "-角色任务"
 
 # game/script.rpy:949
 msgid "-Bugfix"
-msgstr ""
+msgstr "-修复Bug"
 
 # game/script.rpy:951
 msgid "{size=20}{color=#797979}12/2023{/color}{/size}"
-msgstr ""
+msgstr "{size=20}{color=#797979}12/2023{/color}{/size}"
 
 # game/script.rpy:952
 msgid "-Small update"
-msgstr ""
+msgstr "-小更新"
 
 # game/script.rpy:956
 msgid "{size=20}{color=#797979}11/2023{/color}{/size}"
-msgstr ""
+msgstr "{size=20}{color=#797979}11/2023{/color}{/size}"
 
 # game/script.rpy:957
 msgid "-BugFix"
-msgstr ""
+msgstr "-修复Bug"
 
 # game/script.rpy:960
 msgid "-New Main Quest"
-msgstr ""
+msgstr "-新的主线任务"
 
 # game/script.rpy:962
 msgid "-New Characters"
-msgstr ""
+msgstr "-新的角色"
 
 # game/script.rpy:963
 msgid "-Lots of New Clothes"
-msgstr ""
+msgstr "-很多新的服装"
 
 # game/script.rpy:965
 msgid "{size=20}{color=#797979}10/2023{/color}{/size}"
-msgstr ""
+msgstr "{size=20}{color=#797979}10/2023{/color}{/size}"
 
 # game/script.rpy:966
 msgid "-New Patreon Quest"
-msgstr ""
+msgstr "-新的Patreon任务"
 
 # game/script.rpy:967
 msgid "-New Clothes"
-msgstr ""
+msgstr "-新的服装"
 
 # game/script.rpy:969
 msgid "{size=20}{color=#797979}08/2023{/color}{/size}"
-msgstr ""
+msgstr "{size=20}{color=#797979}08/2023{/color}{/size}"
 
 # game/script.rpy:970
 msgid "-Office Customs"
