@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-03-17 01:30\n"
+"PO-Revision-Date: 2024-03-17 03:03\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Intro01.rpy:64 #-#-# translate crowdin Intro01_93eeba4f:
 msgid "[_tb_] Greetings!"
@@ -2314,159 +2314,159 @@ msgstr "[_dj_] 我想也许我该保留我剩下的能量... "
 
 # game/Intro01.rpy:2339 #-#-# translate crowdin IntroDjinlampe_menu01end_4130e59b:
 msgid "[_dj_] So I shut down all the systems I could. "
-msgstr ""
+msgstr "[_dj_] 所以我把所以能关的系统都关了。 "
 
 # game/Intro01.rpy:2340 #-#-# translate crowdin IntroDjinlampe_menu01end_561e7da3:
 msgid "[_u_] Oh... so it's because of you that the teleportation was off. "
-msgstr ""
+msgstr "[_u_] 哦... 原来是因为你，所以传送门才会失效了。 "
 
 # game/Intro01.rpy:2341 #-#-# translate crowdin IntroDjinlampe_menu01end_2dc56c5b:
 msgid "[_u_] Do you know that I had to cross a whole desert to get here? "
-msgstr ""
+msgstr "[_u_] 你知道我是要穿过这个沙漠，我才能来这里吗？ "
 
 # game/Intro01.rpy:2342 #-#-# translate crowdin IntroDjinlampe_menu01end_d8f057fe:
 msgid "[_dj_] ..."
-msgstr ""
+msgstr "[_dj_] ..."
 
 # game/Intro01.rpy:2348 #-#-# translate crowdin IntroDjinlampe_menu01end_e8cf9be5:
 msgid "[_dj_] I think I did it."
-msgstr ""
+msgstr "[_dj_] 应该是我的锅吧。"
 
 # game/Intro01.rpy:2349 #-#-# translate crowdin IntroDjinlampe_menu01end_198bfd6e:
 msgid "[_u_] Are you serious? "
-msgstr ""
+msgstr "[_u_] 你是说真的吗？ "
 
 # game/Intro01.rpy:2351 #-#-# translate crowdin IntroDjinlampe_menu01end_feebc91b:
 msgid "[_dj_] When you make a wish, I make it come true."
-msgstr ""
+msgstr "[_dj_] 等你许愿了，我就让你的愿望成真。"
 
 # game/Intro01.rpy:2353 #-#-# translate crowdin IntroDjinlampe_menu01end_56cb43d4:
 msgid "[_dj_] That's my credo. "
-msgstr ""
+msgstr "[_dj_] 这是我的信条。 "
 
 # game/Intro01.rpy:2355 #-#-# translate crowdin IntroDjinlampe_menu01end_874c31e7:
 msgid "[_dj_] Say hello to Tinker for me, pretty boy. "
-msgstr ""
+msgstr "[_dj_] 帮我跟小叮当问个好，靓仔。 "
 
 # game/Intro01.rpy:2360 #-#-# translate crowdin IntroDjinlampe_menu01end_347ab6b0:
 msgid "[_dj_] What the... "
-msgstr ""
+msgstr "[_dj_] 什么... "
 
 # game/Intro01.rpy:2386 #-#-# translate crowdin IntroDjinlampe_menu01end_c458d0b1:
 msgid "[_u_] Damn.... I don't believe it."
-msgstr ""
+msgstr "[_u_] 我去.... 我都不敢相信。"
 
 # game/Intro01.rpy:2387 #-#-# translate crowdin IntroDjinlampe_menu01end_669412e2:
 msgid "[_u_] Finally back here."
-msgstr ""
+msgstr "[_u_] 我终于回来了。"
 
 # game/Intro01.rpy:2388 #-#-# translate crowdin IntroDjinlampe_menu01end_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Intro01.rpy:2389 #-#-# translate crowdin IntroDjinlampe_menu01end_5cdafb34:
 msgid "[_u_] Hello? Is there anyone here? "
-msgstr ""
+msgstr "[_u_] 喂？有人在吗？ "
 
 # game/Intro01.rpy:2390 #-#-# translate crowdin IntroDjinlampe_menu01end_7b1c1392_1:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Intro01.rpy:2391 #-#-# translate crowdin IntroDjinlampe_menu01end_5017c907:
 msgid "[_u_] Tinker?"
-msgstr ""
+msgstr "[_u_] 小叮当？"
 
 # game/Intro01.rpy:2392 #-#-# translate crowdin IntroDjinlampe_menu01end_7b1c1392_2:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Intro01.rpy:2398 #-#-# translate crowdin IntroDjinlampe_menu01end_d7434e9b:
 msgid "[_u_] What is this mess?"
-msgstr ""
+msgstr "[_u_] 这里怎么乱七八糟的？"
 
 # game/Intro01.rpy:2399 #-#-# translate crowdin IntroDjinlampe_menu01end_52ac6e49:
 msgid "[_u_] What did they do here? Having a party? "
-msgstr ""
+msgstr "[_u_] 他们在这里干了什么？开派对吗？ "
 
 # game/Intro01.rpy:2400 #-#-# translate crowdin IntroDjinlampe_menu01end_b357b4fe:
 msgid "[_u_] Did they celebrate putting boxes everywhere? "
-msgstr ""
+msgstr "[_u_] 他们是为了庆祝，才把箱子放得哪都是吗？ "
 
 # game/Intro01.rpy:2401 #-#-# translate crowdin IntroDjinlampe_menu01end_49d75c95:
 msgid "[_u_] It makes no fucking sense."
-msgstr ""
+msgstr "[_u_] 真他妈让人摸不着头脑。"
 
 # §translate crowdin strings: #|#|# # game/Intro01.rpy:76
 msgid "I've already done Chapter 1"
-msgstr ""
+msgstr "我已经玩过第一章了"
 
 # game/Intro01.rpy:76
 msgid "I'm starting the adventure here."
-msgstr ""
+msgstr "我的冒险从这里起步。"
 
 # game/Intro01.rpy:885
 msgid "Why don't you escape? "
-msgstr ""
+msgstr "你为什么不逃走呢？ "
 
 # game/Intro01.rpy:885
 msgid "{color=#797979}Why don't you escape?{/color}"
-msgstr ""
+msgstr "{color=#797979}你为什么不逃走呢？{/color}"
 
 # game/Intro01.rpy:885
 msgid "Couldn't you steal the key of my cell? "
-msgstr ""
+msgstr "你不能帮我偷下我牢房的钥匙吗？ "
 
 # game/Intro01.rpy:885
 msgid "{color=#797979}Couldn't you steal the key of my cell?{/color}"
-msgstr ""
+msgstr "{color=#797979}你不能帮我偷下我牢房的钥匙吗？ {/color}"
 
 # game/Intro01.rpy:885
 msgid "Do you know what's on the other side of my wall?"
-msgstr ""
+msgstr "你知道我这堵墙的隔壁是什么吗？"
 
 # game/Intro01.rpy:885
 msgid "{color=#797979}Do you know what's on the other side of my wall?{/color}"
-msgstr ""
+msgstr "{color=#797979}你知道我这堵墙的隔壁是什么吗？{/color}"
 
 # game/Intro01.rpy:1246
 msgid "*Flirt with her* {image=heart01.png}"
-msgstr ""
+msgstr "*和她调情* {image=heart01.png}"
 
 # game/Intro01.rpy:1246
 msgid "{color=#797979}*Flirt with her*{/color} {image=heart03.png}"
-msgstr ""
+msgstr "{color=#797979}*和她调情*{/color} {image=heart03.png}"
 
 # game/Intro01.rpy:1246
 msgid "*Ask her to show her boobs* {image=heart01.png}"
-msgstr ""
+msgstr "*让她露出奶子* {image=heart01.png}"
 
 # game/Intro01.rpy:1246
 msgid "{color=#797979}*Ask her to show her boobs*{/color} {image=heart03.png}"
-msgstr ""
+msgstr "{color=#797979}*让她露出奶子*{/color} {image=heart03.png}"
 
 # game/Intro01.rpy:1246
 msgid "How long have you been here? "
-msgstr ""
+msgstr "你来这里多久了？ "
 
 # game/Intro01.rpy:1246
 msgid "Why do you have red skin?"
-msgstr ""
+msgstr "你为什么会有红色皮肤？"
 
 # game/Intro01.rpy:1246
 msgid "What is your role here?"
-msgstr ""
+msgstr "你在这里的角色是什么？"
 
 # game/Intro01.rpy:1246
 msgid "$See you later Lyco"
-msgstr ""
+msgstr "$再见，莉可"
 
 # game/Intro01.rpy:1936
 msgid "{color=#f2923c}What's the plan?{/color}"
-msgstr ""
+msgstr "{color=#f2923c}计划是什么？{/color}"
 
 # game/Intro01.rpy:1936
 msgid "Are you referring to Jasmine?"
-msgstr ""
+msgstr "你指的是茉莉吗？"
 
 # game/Intro01.rpy:2108
 msgid "Obey me, spirits of the lamp!"
