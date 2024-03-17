@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-03-17 03:03\n"
+"PO-Revision-Date: 2024-03-17 09:20\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Intro01.rpy:64 #-#-# translate crowdin Intro01_93eeba4f:
 msgid "[_tb_] Greetings!"
@@ -1082,7 +1082,7 @@ msgstr "[_ly_] 我不是反对这个想法..."
 
 # game/Intro01.rpy:1306 #-#-# translate crowdin LycoPrison_menu01_01_54e196fc:
 msgid "[_ly_] And I guess it wouldn't hurt you to have something to fantasize about... "
-msgstr ""
+msgstr "[_ly_] 只是我不想击碎你的幻想... "
 
 # game/Intro01.rpy:1308 #-#-# translate crowdin LycoPrison_menu01_01_583a35f1:
 msgid "[_ly_] Especially after all this time in this cage... "
@@ -1522,7 +1522,7 @@ msgstr "[_ml_] 奇幻书作者？"
 
 # game/Intro01.rpy:1700 #-#-# translate crowdin GalleryImageQuest_Melissandre01_45386120:
 msgid "[_e_] Is this Amandine de Beauregard??"
-msgstr ""
+msgstr "[_e_] 是那位阿芒丁·德·博勒加尔吗？"
 
 # game/Intro01.rpy:1707 #-#-# translate crowdin GalleryImageQuest_Melissandre01_e86c8d33:
 msgid "[_tb_] ...."
@@ -2470,49 +2470,49 @@ msgstr "你指的是茉莉吗？"
 
 # game/Intro01.rpy:2108
 msgid "Obey me, spirits of the lamp!"
-msgstr ""
+msgstr "服从我，神灯里的精灵！"
 
 # game/Intro01.rpy:2108
 msgid "Hello, I would like to go home"
-msgstr ""
+msgstr "你好，我想回家"
 
 # game/Intro01.rpy:2108
 msgid "Hi, I am [name], nice to meet you."
-msgstr ""
+msgstr "嗨，我是[name]，很高兴见到你。"
 
 # game/Intro01.rpy:2231
 msgid "{color=#f2923c}I need to get back to headquarters{/color}"
-msgstr ""
+msgstr "{color=#f2923c}我需要回到总部{/color}"
 
 # game/Intro01.rpy:2231
 msgid "What are you doing here?"
-msgstr ""
+msgstr "你在这做什么呢？"
 
 # game/Intro01.rpy:2231
 msgid "{color=#797979}What are you doing here?{/color}"
-msgstr ""
+msgstr "{color=#797979}你在这做什么呢？{/color}"
 
 # game/Intro01.rpy:2231
 msgid "You must be very bored in this cave."
-msgstr ""
+msgstr "你在山洞里一定很无聊吧。"
 
 # game/Intro01.rpy:2231
 msgid "{color=#797979}You must be very bored in this cave.{/color}"
-msgstr ""
+msgstr "{color=#797979}你在山洞里一定很无聊吧。{/color}"
 
 # game/Intro01.rpy:2231
 msgid "Can you grant me some wishes? "
-msgstr ""
+msgstr "你能满足我的一点愿望吗？ "
 
 # game/Intro01.rpy:2231
 msgid "{color=#797979}Can you grant me some wishes?{/color} "
-msgstr ""
+msgstr "{color=#797979}你能满足我的一点愿望吗？{/color} "
 
 # game/Intro01.rpy:2231
 msgid "{color=#3ad8ff}So if I ask you to undress...{/color}"
-msgstr ""
+msgstr "{color=#3ad8ff}这么说，如果我要你脱去衣服...{/color}"
 
 # game/Intro01.rpy:2231
 msgid "{color=#797979}So if I ask you to undress...{/color}"
-msgstr ""
+msgstr "{color=#797979}这么说，如果我要你脱去衣服...{/color}"
 
