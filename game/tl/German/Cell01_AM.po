@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2024-03-16 17:27\n"
+"PO-Revision-Date: 2024-03-17 19:31\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_AM.rpy:86 #-#-# translate crowdin CHARA_AM_Menu01_c781f953:
 msgid "[_am_] Hey!"
@@ -1014,7 +1014,7 @@ msgstr "[_am_] Nice! "
 
 # game/Cell01_AM.rpy:982 #-#-# translate crowdin QuestChap2_Amelia01_06_menu02_P1_465f0850:
 msgid "[_am_] We have a head of security position that is vaccinating! "
-msgstr ""
+msgstr "[_am_] Wir sind noch eine Position offen für den Sicherheitschef! "
 
 # game/Cell01_AM.rpy:985 #-#-# translate crowdin QuestChap2_Amelia01_06_menu02_P1_7933f0a4:
 msgid "[_scc_] That's good news. "
