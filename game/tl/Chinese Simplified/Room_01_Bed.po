@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-03-18 08:34\n"
+"PO-Revision-Date: 2024-03-18 09:30\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Room_01_Bed.rpy:56 #-#-# translate crowdin ROOM_BED01_BED_e83acd4d:
 msgid "[_u_] No need to sleep for now."
@@ -42,5 +42,5 @@ msgstr ""
 
 # §translate crowdin strings: #|#|# # game/Room_01_Bed.rpy:80
 msgid "$Contine the day"
-msgstr ""
+msgstr "$继续过这一天"
 
