@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-03-18 02:12\n"
+"PO-Revision-Date: 2024-03-18 03:13\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # §translate crowdin strings: #|#|# # game/script.rpy:935
 msgid "Changelog"
@@ -166,7 +166,7 @@ msgstr "勺子"
 
 # game/script.rpy:1140
 msgid "Orders for Djin"
-msgstr "神灵的订单"
+msgstr "神灵的要求"
 
 # game/script.rpy:1141
 msgid "Magic Lamp"
@@ -206,41 +206,41 @@ msgstr "莉可的请求列表"
 
 # game/script.rpy:1150
 msgid "Dance Book Vol.I"
-msgstr ""
+msgstr "舞蹈书 第一卷"
 
 # game/script.rpy:1151
 msgid "Dance Book Vol.II"
-msgstr ""
+msgstr "舞蹈书 第二卷"
 
 # game/script.rpy:1152
 msgid "Dance Book Vol.III"
-msgstr ""
+msgstr "舞蹈书 第三卷"
 
 # game/script.rpy:1153
 msgid "Sherazade Orders"
-msgstr ""
+msgstr "山鲁佐德的要求"
 
 # game/script.rpy:1154
 msgid "Oasis Heart Drawn"
-msgstr ""
+msgstr "绿洲之心的画"
 
 # game/script.rpy:1155
 msgid "Undefined Luggage"
-msgstr ""
+msgstr "不明确的行李"
 
 # game/script.rpy:1156
 msgid "List of Sex Fantasies"
-msgstr ""
+msgstr "性幻想的列表"
 
 # game/script.rpy:1157
 msgid "White Peacock feather"
-msgstr ""
+msgstr "白孔雀羽毛"
 
 # game/script.rpy:1158
 msgid "Sherazade Garment"
-msgstr ""
+msgstr "山鲁佐德的服装"
 
 # game/script.rpy:1159
 msgid "Little Horn"
-msgstr ""
+msgstr "小角"
 
