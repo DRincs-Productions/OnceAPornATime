@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-03-17 15:11\n"
+"PO-Revision-Date: 2024-03-18 02:12\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # §translate crowdin strings: #|#|# # game/script.rpy:935
 msgid "Changelog"
@@ -122,87 +122,87 @@ msgstr "- 苏丹娜任务"
 
 # game/script.rpy:994
 msgid "- Sherazade Corruption"
-msgstr ""
+msgstr "- 山鲁佐德恶堕"
 
 # game/script.rpy:995
 msgid "- Character Romance progression"
-msgstr ""
+msgstr "- 角色的好感进度"
 
 # game/script.rpy:998
 msgid "{size=20}{color=#797979}09/2022{/color}{/size}"
-msgstr ""
+msgstr "{size=20}{color=#797979}09/2022{/color}{/size}"
 
 # game/script.rpy:999
 msgid "-First Update, Introduction."
-msgstr ""
+msgstr "-首次更新，序章。"
 
 # game/script.rpy:1003
 msgid "Creator : Salty01 "
-msgstr ""
+msgstr "创作者 : Salty01 "
 
 # game/script.rpy:1004
 msgid "PATREON PAGE : https://www.patreon.com/Salty01_NSFW "
-msgstr ""
+msgstr "PATREON 页面 : https://www.patreon.com/Salty01_NSFW "
 
 # game/script.rpy:1133
 msgid "Data Chelou"
-msgstr ""
+msgstr "修改数据"
 
 # game/script.rpy:1134
 msgid "Chest Melissandre"
-msgstr ""
+msgstr "梅莉山大的胸部"
 
 # game/script.rpy:1135
 msgid "Boule Magique"
-msgstr ""
+msgstr "魔术球"
 
 # game/script.rpy:1137
 msgid "Old Book"
-msgstr ""
+msgstr "旧书"
 
 # game/script.rpy:1139
 msgid "Spoon"
-msgstr ""
+msgstr "勺子"
 
 # game/script.rpy:1140
 msgid "Orders for Djin"
-msgstr ""
+msgstr "神灵的订单"
 
 # game/script.rpy:1141
 msgid "Magic Lamp"
-msgstr ""
+msgstr "神灯"
 
 # game/script.rpy:1142
 msgid "Silver Box"
-msgstr ""
+msgstr "银盒"
 
 # game/script.rpy:1143
 msgid "Secretary Password"
-msgstr ""
+msgstr "密码"
 
 # game/script.rpy:1144
 msgid "Recruitment Checklist"
-msgstr ""
+msgstr "招聘清单"
 
 # game/script.rpy:1145
 msgid "Tool List"
-msgstr ""
+msgstr "工具列表"
 
 # game/script.rpy:1146
 msgid "Incomplete Tool Box"
-msgstr ""
+msgstr "不完整的工具箱"
 
 # game/script.rpy:1147
 msgid "Complete Tool Box"
-msgstr ""
+msgstr "完整的工具箱"
 
 # game/script.rpy:1148
 msgid "Electronic Key"
-msgstr ""
+msgstr "电子钥匙"
 
 # game/script.rpy:1149
 msgid "Lyco Request List"
-msgstr ""
+msgstr "莉可的请求列表"
 
 # game/script.rpy:1150
 msgid "Dance Book Vol.I"
