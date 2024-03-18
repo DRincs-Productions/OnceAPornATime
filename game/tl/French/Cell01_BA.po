@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-03-09 18:56\n"
+"PO-Revision-Date: 2024-03-18 13:56\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_BA.rpy:50 #-#-# translate crowdin CHARA_BA_Menu01_98aea068:
 msgid "[_ba_]  ... "
@@ -210,11 +210,11 @@ msgstr "[_u_] Ouais... Je ne suis pas fan des titres... On va rester sur Ali-Bab
 
 # game/Cell01_BA.rpy:232 #-#-# translate crowdin Quest_BA_App01_01_7496e3b5:
 msgid "[_ba_] Are you going to talk about titles and names for much longer, or shall we get down to business? "
-msgstr ""
+msgstr "[_ba_] Tu vas discuter de titres et de noms encore longtemps, ou on peut passer aux choses sérieuses ? "
 
 # game/Cell01_BA.rpy:233 #-#-# translate crowdin Quest_BA_App01_01_c896d450:
 msgid "[_u_] All right... if you want to talk about serious things... let's talk about serious things."
-msgstr ""
+msgstr "[_u_] Très bien... si tu veux te mettre au travail... on va se mettre au travail."
 
 # game/Cell01_BA.rpy:235 #-#-# translate crowdin Quest_BA_App01_01_714f5f70:
 msgid "[_u_] I've figured out how to make you a Sultana. "
