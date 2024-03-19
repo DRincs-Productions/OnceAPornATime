@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-03-19 16:08\n"
+"PO-Revision-Date: 2024-03-19 17:20\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_ML.rpy:73 #-#-# translate crowdin CHARA_ML_Menu01_b7639ffd:
 msgid "[_ml_] Yo."
@@ -1850,11 +1850,11 @@ msgstr "{ color=#3ad8ff} Pouvez-vous me faire un choix de cheveux doré? { /colo
 
 # game/Cell01_ML.rpy:77
 msgid " {color=#f45fed}So, What do you think of my room?{/color} "
-msgstr " { color=#f45fed} Alors, que pensez-vous de ma chambre? { /color } "
+msgstr " {color=#f45fed}Alors, que pensez-vous de ma chambre?{/color} "
 
 # game/Cell01_ML.rpy:77
 msgid " {color=#f45fed}I have a strange device in my room{/color} "
-msgstr " { color=#f45fed} J'ai un périphérique étrange dans ma chambre { /color } "
+msgstr " {color=#f45fed}J'ai un périphérique étrange dans ma chambre{/color} "
 
 # game/Cell01_ML.rpy:77
 msgid "$ Leave "
