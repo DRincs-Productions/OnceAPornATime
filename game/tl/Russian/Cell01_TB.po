@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2024-03-14 07:54\n"
+"PO-Revision-Date: 2024-03-19 16:09\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_TB.rpy:29 #-#-# translate crowdin Cell01_TB_126a6d5f:
 msgid "[_tb_] I'll be there in a second."
@@ -363,7 +363,7 @@ msgstr ""
 
 # game/Cell01_TB.rpy:524 #-#-# translate crowdin TB2QUEST_01_be9c3426:
 msgid "[_u_] No. "
-msgstr "[_у_] Нет. "
+msgstr "[_u_] Нет. "
 
 # game/Cell01_TB.rpy:526 #-#-# translate crowdin TB2QUEST_01_823cec65:
 msgid "[_tb_] Wait, you don't know what I'm going to say!"
@@ -499,7 +499,7 @@ msgstr ""
 
 # game/Cell01_TB.rpy:595 #-#-# translate crowdin TB2QUEST_01_01_be9c3426:
 msgid "[_u_] No. "
-msgstr "[_у_] Нет. "
+msgstr "[_u_] Нет. "
 
 # game/Cell01_TB.rpy:597 #-#-# translate crowdin TB2QUEST_01_01_059f0b0b:
 msgid "[_tb_] Let me try that! "
