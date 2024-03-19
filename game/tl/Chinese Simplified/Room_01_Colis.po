@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-03-19 10:51\n"
+"PO-Revision-Date: 2024-03-19 12:38\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Room_01_Colis.rpy:2 #-#-# translate crowdin Room01_ColisArrived_033b8e73:
 msgid " You receive: "
@@ -23,7 +23,7 @@ msgstr "([COLIS_OBJECT_01]) 苹果篮！"
 
 # game/Room_01_Colis.rpy:15 #-#-# translate crowdin Room01_ColisArrived_255304ca:
 msgid "([COLIS_OBJECT_02]) Drone Energy Boost 3AP !"
-msgstr ""
+msgstr "([COLIS_OBJECT_02]) 无人机能量提升3AP !"
 
 # game/Room_01_Colis.rpy:16 #-#-# translate crowdin Room01_ColisArrived_0b9127ea:
 msgid " Use the Drone device to use your boost !"
