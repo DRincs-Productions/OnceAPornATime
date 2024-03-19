@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2024-03-17 17:28\n"
+"PO-Revision-Date: 2024-03-19 18:16\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_BA.rpy:50 #-#-# translate crowdin CHARA_BA_Menu01_98aea068:
 msgid "[_ba_]  ... "
@@ -194,7 +194,7 @@ msgstr "[_ba_] Предупреждаю, я мне не нравятся про�
 
 # game/Cell01_BA.rpy:225 #-#-# translate crowdin Quest_BA_App01_01_15d56340:
 msgid "[_ba_] Call me Ali-Baba or keep your mouth shut. "
-msgstr "[_ba_] Зови меня Али-Баба или ебало офни. "
+msgstr "[_ba_] Зови меня Али-Баба или держи язык за зубами. "
 
 # game/Cell01_BA.rpy:227 #-#-# translate crowdin Quest_BA_App01_01_d772eeb4:
 msgid "[_ba_] ...Or you can call me ''Queen of Thieves''. "
@@ -386,11 +386,11 @@ msgstr "[_ba_] Что? НЕТ!"
 
 # game/Cell01_BA.rpy:331 #-#-# translate crowdin Quest_BA_App01_01_60ce351d:
 msgid "[_u_] Oh yes! I love body swapping. "
-msgstr ""
+msgstr "[_у_] О да! Я люблю обмен телами. "
 
 # game/Cell01_BA.rpy:333 #-#-# translate crowdin Quest_BA_App01_01_13f6f189:
 msgid "[_ba_] No, wait! I want to change my wishes!!!"
-msgstr ""
+msgstr "[_ba_] Стой, подожди! Я хочу изменить свои желания!!!"
 
 # game/Cell01_BA.rpy:335 #-#-# translate crowdin Quest_BA_App01_01_d474590f:
 msgid "[_dj_] Is that another wish?"
@@ -398,7 +398,7 @@ msgstr "[_dj_] Это еще одно желание?"
 
 # game/Cell01_BA.rpy:337 #-#-# translate crowdin Quest_BA_App01_01_b0295ad8:
 msgid "[_dj_] Because if that's the case, you've got none left. "
-msgstr ""
+msgstr "[_dj_] Потому что если это так, то у тебя ничего не останется. "
 
 # game/Cell01_BA.rpy:340 #-#-# translate crowdin Quest_BA_App01_01_ea1b20bc:
 msgid "[_ba_] Oh my God... I can't believe it..."
@@ -410,7 +410,7 @@ msgstr "[_u_] Ну, это было быстро. "
 
 # game/Cell01_BA.rpy:343 #-#-# translate crowdin Quest_BA_App01_01_62c16060:
 msgid "[_ba_] By the great sea of sand... I cannot believe it... "
-msgstr "[_ba_] У великого моря песка... Я не могу в это поверить... "
+msgstr "[_ba_] Во имя великого песчаного моря... Я не могу в это поверить... "
 
 # game/Cell01_BA.rpy:345 #-#-# translate crowdin Quest_BA_App01_01_2d2ab977:
 msgid "[_dj_] If you like, I can grant you one last wish. But... "
@@ -418,47 +418,47 @@ msgstr "[_dj_] Если хочешь, я могу исполнить твое п
 
 # game/Cell01_BA.rpy:347 #-#-# translate crowdin Quest_BA_App01_01_2ab0687c:
 msgid "[_ba_] Let me know. I'm up to anything."
-msgstr "[_ba_] Дай мне знать. Я готов на все."
+msgstr "[_ba_] Дай мне знать. Я готова на все."
 
 # game/Cell01_BA.rpy:349 #-#-# translate crowdin Quest_BA_App01_01_5a47299b:
 msgid "[_dj_] But I can only grant this extra-ordinary wish to an exceptionally... debauched person. "
-msgstr ""
+msgstr "[_dj_] Но исполнить это необычное желание я могу исключительно... Развратному человеку. "
 
 # game/Cell01_BA.rpy:351 #-#-# translate crowdin Quest_BA_App01_01_c5f985df:
 msgid "[_ba_] I'm the queen of thieves, I'm not really a pure soul, you know..."
-msgstr ""
+msgstr "[_ba_] Я королева воров, я ни капельки не чистая душа, понимаешь..."
 
 # game/Cell01_BA.rpy:353 #-#-# translate crowdin Quest_BA_App01_01_cae0adf1:
 msgid "[_dj_] I mean... sexually debauched. "
-msgstr ""
+msgstr "[_dj_] Я имею в виду... Сексуально развратный. "
 
 # game/Cell01_BA.rpy:356 #-#-# translate crowdin Quest_BA_App01_01_11c85d96:
 msgid "[_ba_] What?!"
-msgstr ""
+msgstr "[_ba_] Что?!"
 
 # game/Cell01_BA.rpy:358 #-#-# translate crowdin Quest_BA_App01_01_6d07bb58:
 msgid "[_ba_] I... mh... "
-msgstr ""
+msgstr "[_ba_] Я... Мх... "
 
 # game/Cell01_BA.rpy:360 #-#-# translate crowdin Quest_BA_App01_01_6765fc92:
 msgid "[_ba_] What should I do? "
-msgstr ""
+msgstr "[_ba_] Что я должна делать? "
 
 # game/Cell01_BA.rpy:362 #-#-# translate crowdin Quest_BA_App01_01_a66d3af8:
 msgid "[_dj_] To fulfill this last wish, you'll have to..."
-msgstr ""
+msgstr "[_dj_] Чтобы исполнить последнее желание, тебе придется..."
 
 # game/Cell01_BA.rpy:364 #-#-# translate crowdin Quest_BA_App01_01_1610f5d8:
 msgid "[_dj_] ...do whatever this man tells you. "
-msgstr ""
+msgstr "[_dj_] ... Делать все, что скажет тебе этот человек. "
 
 # game/Cell01_BA.rpy:366 #-#-# translate crowdin Quest_BA_App01_01_ee6c6612:
 msgid "[_ba_] WHAT? What kind of crappy condition is that? "
-msgstr ""
+msgstr "[_ba_] ЧЕГО? Что это за хреновое условие? "
 
 # game/Cell01_BA.rpy:368 #-#-# translate crowdin Quest_BA_App01_01_13b73d7f:
 msgid "[_dj_] Do you question my word, mere mortal? "
-msgstr ""
+msgstr "[_dj_] Ты сомневаешься в моих словах, жалкая смертная? "
 
 # game/Cell01_BA.rpy:370 #-#-# translate crowdin Quest_BA_App01_01_7611efb4_2:
 msgid "[_ba_] ..."
@@ -466,39 +466,39 @@ msgstr "[_ba_] ..."
 
 # game/Cell01_BA.rpy:372 #-#-# translate crowdin Quest_BA_App01_01_d52c27be:
 msgid "[_dj_] As long as your soul is pure, you won't have your wish!"
-msgstr ""
+msgstr "[_dj_] Пока твоя душа чиста, твое желание не будет исполнено!"
 
 # game/Cell01_BA.rpy:374 #-#-# translate crowdin Quest_BA_App01_01_75b99d16:
 msgid "[_dj_] {cps=100}{color=#ff2929} {font=BLKCHCRY.ttf} {size=35}-I Have Spoken!-{/size} {/font=BLKCHCRY.ttf} {/color}{/cps}"
-msgstr ""
+msgstr "[_dj_] {cps=100}{color=#ff2929} {font=BLKCHCRY.ttf} {size=35}-Я ВСЕ СКАЗАЛА!-{/size} {/font=BLKCHCRY.ttf} {/color}{/cps}"
 
 # game/Cell01_BA.rpy:383 #-#-# translate crowdin Quest_BA_App01_01_839f53aa:
 msgid "[_ba_] ?!"
-msgstr ""
+msgstr "[_ba_] ?!"
 
 # game/Cell01_BA.rpy:385 #-#-# translate crowdin Quest_BA_App01_01_efde920a:
 msgid "[_ba_] Is this some kind of joke?!"
-msgstr ""
+msgstr "[_ba_] Это что, шутка?!"
 
 # game/Cell01_BA.rpy:386 #-#-# translate crowdin Quest_BA_App01_01_3b497a54:
 msgid "[_u_] I don't think so."
-msgstr ""
+msgstr "[_u_] Я так не думаю."
 
 # game/Cell01_BA.rpy:388 #-#-# translate crowdin Quest_BA_App01_01_b7f05726:
 msgid "[_ba_] No way... I'm not going to... follow your instructions blindly until I get my wish?!"
-msgstr ""
+msgstr "[_ba_] Ни за что... Я не собираюсь... Слепо следовать твоим указаниям, пока мое желание не будет исполнено?!"
 
 # game/Cell01_BA.rpy:389 #-#-# translate crowdin Quest_BA_App01_01_5a52348b:
 msgid "[_u_] So the Queen of Thieves is afraid of some small, depraved sex act?"
-msgstr ""
+msgstr "[_u_] Значит, Королева Воров боится какого-то небольшого, развратного полового акта?"
 
 # game/Cell01_BA.rpy:391 #-#-# translate crowdin Quest_BA_App01_01_2d7039c9:
 msgid "[_ba_] That's not what I said."
-msgstr ""
+msgstr "[_ba_] Это не то, что я сказала."
 
 # game/Cell01_BA.rpy:392 #-#-# translate crowdin Quest_BA_App01_01_4e1ec6e2:
 msgid "[_u_] Great! Then it'll be a piece of cake for you!"
-msgstr ""
+msgstr "[_u_] Отлично! Тогда для тебя это будет проще простого!"
 
 # game/Cell01_BA.rpy:394 #-#-# translate crowdin Quest_BA_App01_01_7611efb4_3:
 msgid "[_ba_] ..."
@@ -506,19 +506,19 @@ msgstr "[_ba_] ..."
 
 # game/Cell01_BA.rpy:395 #-#-# translate crowdin Quest_BA_App01_01_88fbf8c4:
 msgid "[_u_] Don't worry, sweetheart, it's not my first time. "
-msgstr ""
+msgstr "[_u_] Не волнуйся, дорогуша, у меня это не впервой. "
 
 # game/Cell01_BA.rpy:397 #-#-# translate crowdin Quest_BA_App01_01_3d3d4435:
 msgid "[_ba_] Gosh... I hope this thing works... "
-msgstr ""
+msgstr "[_ba_] Боже... Надеюсь, это сработает... "
 
 # game/Cell01_BA.rpy:399 #-#-# translate crowdin Quest_BA_App01_01_21342620:
 msgid "[_ba_] Because if it doesn't work... I promise I'll leave you in the middle of the desert. "
-msgstr ""
+msgstr "[_ba_] Потому что если нет... Обещаю, я оставлю тебя посреди пустыни. "
 
 # game/Cell01_BA.rpy:401 #-#-# translate crowdin Quest_BA_App01_01_d6e187ba:
 msgid "[_ba_] And this time I'm not kidding. "
-msgstr ""
+msgstr "[_ba_] И на этот раз я не шучу. "
 
 # game/Cell01_BA.rpy:402 #-#-# translate crowdin Quest_BA_App01_01_79336e4b:
 msgid "[_u_] Ah... because you were joking the first time? "
@@ -1102,11 +1102,11 @@ msgstr "[_tb_] Еще раз спасибо за финансовую подде
 
 # game/Cell01_BA.rpy:828 #-#-# translate crowdin GalleryImageQuest_Djin01_END_8cba7e19:
 msgid "[_tb_] See you soon for more adventures!"
-msgstr "[_tb_] Увидимся в скором времени для новых приключений!"
+msgstr "[_tb_] До скорой встречи и новых приключений!"
 
 # §translate crowdin strings: #|#|# # game/Cell01_BA.rpy:64
 msgid "{color=#f2923c}Why did you kidnap Jasmine?{/color} {image=heart07.png}"
-msgstr "{color=#f2923c}Зачем ты похитил Жасмин?{/color} {image=heart07.png}"
+msgstr "{color=#f2923c}Зачем ты похитила Жасмин?{/color} {image=heart07.png}"
 
 # game/Cell01_BA.rpy:64
 msgid "{color=#3ad8ff}Why do you want the throne?{/color}"
@@ -1130,7 +1130,7 @@ msgstr "Каково это - иметь тело? "
 
 # game/Cell01_BA.rpy:504
 msgid "You're so beautiful!"
-msgstr "Вы так красивы!"
+msgstr "Ты так красива!"
 
 # game/Cell01_BA.rpy:504
 msgid "{color=#3ad8ff}So, have you planned anything?{/color}"
@@ -1150,5 +1150,5 @@ msgstr "Кончить внутрь"
 
 # game/Cell01_BA.rpy:742
 msgid "Cum on her ass"
-msgstr "Кончил ей на задницу"
+msgstr "Кончить ей на задницу"
 
