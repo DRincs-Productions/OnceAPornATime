@@ -10,25 +10,25 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-26 09:13\n"
+"PO-Revision-Date: 2024-03-19 16:10\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/room01_donnee01_In.rpy:37 #-#-# translate crowdin room01_donnee01_QuestsPanel_aac43b7d:
 msgid " = This is the quests panel = "
-msgstr ""
+msgstr " = Il s'agit du panneau quests = "
 
 # game/room01_donnee01_In.rpy:38 #-#-# translate crowdin room01_donnee01_QuestsPanel_b1b10e17:
 msgid " = All the quests available in this version of the game are available here. = "
-msgstr ""
+msgstr " = Toutes les quêtes disponibles dans cette version du jeu sont disponibles ici. = "
 
 # game/room01_donnee01_In.rpy:39 #-#-# translate crowdin room01_donnee01_QuestsPanel_285033ee:
 msgid " = You still have quests to complete as long as some remain unlocked. = "
-msgstr ""
+msgstr " = Vous avez toujours des quêtes à remplir tant que certains restent déverrouillés. = "
 
 # §translate crowdin strings: #|#|# # game/room01_donnee01_In.rpy:21
 msgid "Quest Panel"
-msgstr ""
+msgstr "Panneau Quest"
 
 # game/room01_donnee01_In.rpy:21
 msgid "Gamepedia"
-msgstr ""
+msgstr "Gamepedia"
 
