@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2024-03-17 16:13\n"
+"PO-Revision-Date: 2024-03-19 18:16\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_JM.rpy:131 #-#-# translate crowdin CHARA_JM_Menu01_0eca5cd6:
 msgid "[_jm_] Hello to you... my [Quest_JM_NameMC]."
@@ -7462,7 +7462,7 @@ msgstr "[_tb_] Еще раз спасибо за финансовую подде
 
 # game/Cell01_JM.rpy:5928 #-#-# translate crowdin GalleryImageQuest_Jasmine01_8cba7e19:
 msgid "[_tb_] See you soon for more adventures!"
-msgstr "[_tb_] Увидимся в скором времени для новых приключений!"
+msgstr "[_tb_] До скорой встречи и новых приключений!"
 
 # game/Cell01_JM.rpy:5938 #-#-# translate crowdin QuestChap2_Jasmine01_16_7bfe57a9:
 msgid "[_jm_] What do you mean?"
