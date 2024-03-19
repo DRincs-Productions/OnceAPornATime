@@ -10,11 +10,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-03-19 16:10\n"
+"PO-Revision-Date: 2024-03-19 17:20\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/room01_donnee01_In.rpy:37 #-#-# translate crowdin room01_donnee01_QuestsPanel_aac43b7d:
 msgid " = This is the quests panel = "
-msgstr " = Il s'agit du panneau quests = "
+msgstr " = Il s'agit du panneau quêtes = "
 
 # game/room01_donnee01_In.rpy:38 #-#-# translate crowdin room01_donnee01_QuestsPanel_b1b10e17:
 msgid " = All the quests available in this version of the game are available here. = "
