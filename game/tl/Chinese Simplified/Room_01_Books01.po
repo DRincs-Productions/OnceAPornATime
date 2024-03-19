@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-03-18 09:30\n"
+"PO-Revision-Date: 2024-03-19 10:51\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Room_01_Books01.rpy:27 #-#-# translate crowdin room01_books01_In_46239f59:
 msgid "You've already chosen a book for tonight."
@@ -114,17 +114,17 @@ msgstr "地心历险记 {image=book02.png}{image=book02.png}{image=book02.png} "
 
 # game/Room_01_Books01.rpy:43
 msgid "ART BOOK (I) Happy little Trees {image=book01.png}{image=book01.png}{image=book01.png} "
-msgstr ""
+msgstr "画册 (I) 快乐的小树 {image=book01.png}{image=book01.png}{image=book01.png} "
 
 # game/Room_01_Books01.rpy:43
 msgid "ART BOOK (I) Happy little Trees {image=book02.png}{image=book01.png}{image=book01.png} "
-msgstr ""
+msgstr "画册 (I) 快乐的小树 {image=book02.png}{image=book01.png}{image=book01.png} "
 
 # game/Room_01_Books01.rpy:43
 msgid "ART BOOK (I) Happy little Trees {image=book02.png}{image=book02.png}{image=book01.png} "
-msgstr ""
+msgstr "画册 (I) 快乐的小树 {image=book02.png}{image=book02.png}{image=book01.png} "
 
 # game/Room_01_Books01.rpy:43
 msgid "ART BOOK (I) Happy little Trees {image=book02.png}{image=book02.png}{image=book02.png} "
-msgstr ""
+msgstr "画册 (I) 快乐的小树 {image=book02.png}{image=book02.png}{image=book02.png} "
 
