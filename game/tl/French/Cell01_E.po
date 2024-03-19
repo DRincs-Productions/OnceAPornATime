@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-03-19 16:08\n"
+"PO-Revision-Date: 2024-03-19 17:20\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_E.rpy:71 #-#-# translate crowdin Cell01_E_QuestActivations_9ef65d05:
 msgid "[_u_] Whose ship is this? "
@@ -34,7 +34,7 @@ msgstr "[¡Claro que sí !"
 
 # game/Cell01_E.rpy:198 #-#-# translate crowdin CHARA_E_Shop_MenuChoice_b1e9a2b8:
 msgid " ==ERROR== You don't have enough money. "
-msgstr " ==ERROR== Vous n'avez pas assez d'argent. "
+msgstr " ==ERREUR== Vous n'avez pas assez d'argent. "
 
 # game/Cell01_E.rpy:225 #-#-# translate crowdin CHARA_E_Shop_MenuChoice_29bf4e0a:
 msgid "[_u_] I think I have everything."
@@ -50,7 +50,7 @@ msgstr "== VENTE TERMINÉE ! =="
 
 # game/Cell01_E.rpy:235 #-#-# translate crowdin CHARA_E_Shop_MenuChoice_b1e9a2b8_1:
 msgid " ==ERROR== You don't have enough money. "
-msgstr " ==ERROR== Vous n'avez pas assez d'argent. "
+msgstr " ==ERREUR== Vous n'avez pas assez d'argent. "
 
 # game/Cell01_E.rpy:255 #-#-# translate crowdin CHARA_E_Shop_MenuChoice_1c5e06d2_1:
 msgid "== SALE COMPLETED ! =="
@@ -106,7 +106,7 @@ msgstr "[Oui. Ce serait bien. "
 
 # game/Cell01_E.rpy:290 #-#-# translate crowdin CHARA_E_Shop_MenuChoice_b1e9a2b8_2:
 msgid " ==ERROR== You don't have enough money. "
-msgstr " ==ERROR== Vous n'avez pas assez d'argent. "
+msgstr " ==ERREUR== Vous n'avez pas assez d'argent. "
 
 # game/Cell01_E.rpy:301 #-#-# translate crowdin CHARA_E_Shop_MenuChoice_1c5e06d2_2:
 msgid "== SALE COMPLETED ! =="
@@ -114,7 +114,7 @@ msgstr "== VENTE TERMINÉE ! =="
 
 # game/Cell01_E.rpy:306 #-#-# translate crowdin CHARA_E_Shop_MenuChoice_b1e9a2b8_3:
 msgid " ==ERROR== You don't have enough money. "
-msgstr " ==ERROR== Vous n'avez pas assez d'argent. "
+msgstr " ==ERREUR== Vous n'avez pas assez d'argent. "
 
 # game/Cell01_E.rpy:317 #-#-# translate crowdin CHARA_E_Shop_MenuChoice_1c5e06d2_3:
 msgid "== SALE COMPLETED ! =="
@@ -122,7 +122,7 @@ msgstr "== VENTE TERMINÉE ! =="
 
 # game/Cell01_E.rpy:322 #-#-# translate crowdin CHARA_E_Shop_MenuChoice_b1e9a2b8_4:
 msgid " ==ERROR== You don't have enough money. "
-msgstr " ==ERROR== Vous n'avez pas assez d'argent. "
+msgstr " ==ERREUR== Vous n'avez pas assez d'argent. "
 
 # game/Cell01_E.rpy:333 #-#-# translate crowdin CHARA_E_Shop_MenuChoice_1c5e06d2_4:
 msgid "== SALE COMPLETED ! =="
@@ -130,7 +130,7 @@ msgstr "== VENTE TERMINÉE ! =="
 
 # game/Cell01_E.rpy:338 #-#-# translate crowdin CHARA_E_Shop_MenuChoice_b1e9a2b8_5:
 msgid " ==ERROR== You don't have enough money. "
-msgstr " ==ERROR== Vous n'avez pas assez d'argent. "
+msgstr " ==ERREUR== Vous n'avez pas assez d'argent. "
 
 # game/Cell01_E.rpy:349 #-#-# translate crowdin CHARA_E_Shop_MenuChoice_1c5e06d2_5:
 msgid "== SALE COMPLETED ! =="
@@ -138,7 +138,7 @@ msgstr "== VENTE TERMINÉE ! =="
 
 # game/Cell01_E.rpy:354 #-#-# translate crowdin CHARA_E_Shop_MenuChoice_b1e9a2b8_6:
 msgid " ==ERROR== You don't have enough money. "
-msgstr " ==ERROR== Vous n'avez pas assez d'argent. "
+msgstr " ==ERREUR== Vous n'avez pas assez d'argent. "
 
 # game/Cell01_E.rpy:365 #-#-# translate crowdin CHARA_E_Shop_MenuChoice_1c5e06d2_6:
 msgid "== SALE COMPLETED ! =="
@@ -146,7 +146,7 @@ msgstr "== VENTE TERMINÉE ! =="
 
 # game/Cell01_E.rpy:370 #-#-# translate crowdin CHARA_E_Shop_MenuChoice_b1e9a2b8_7:
 msgid " ==ERROR== You don't have enough money. "
-msgstr " ==ERROR== Vous n'avez pas assez d'argent. "
+msgstr " ==ERREUR== Vous n'avez pas assez d'argent. "
 
 # game/Cell01_E.rpy:381 #-#-# translate crowdin CHARA_E_Shop_MenuChoice_1c5e06d2_7:
 msgid "== SALE COMPLETED ! =="
@@ -154,7 +154,7 @@ msgstr "== VENTE TERMINÉE ! =="
 
 # game/Cell01_E.rpy:394 #-#-# translate crowdin CHARA_E_Shop_MenuChoice_SELL_281c3ba5:
 msgid " ==ERROR== You don't have enough Clothes Data. "
-msgstr " ==ERROR== Vous n'avez pas assez de données sur les vêtements. "
+msgstr " ==ERREUR== Vous n'avez pas assez de données sur les vêtements. "
 
 # game/Cell01_E.rpy:402 #-#-# translate crowdin CHARA_E_Shop_MenuChoice_SELL_b1ea968c:
 msgid "[_e_] ¡Gracias, amigo!"
@@ -166,7 +166,7 @@ msgstr "== VENTE TERMINÉE ! =="
 
 # game/Cell01_E.rpy:409 #-#-# translate crowdin CHARA_E_Shop_MenuChoice_SELL_fea37e81:
 msgid " ==ERROR== You don't have enough Character Data. "
-msgstr " ==ERROR== Vous n'avez pas assez de données de caractères. "
+msgstr " ==ERREUR== Vous n'avez pas assez de données de caractères. "
 
 # game/Cell01_E.rpy:417 #-#-# translate crowdin CHARA_E_Shop_MenuChoice_SELL_b1ea968c_1:
 msgid "[_e_] ¡Gracias, amigo!"
