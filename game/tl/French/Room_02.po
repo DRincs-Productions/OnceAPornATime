@@ -10,19 +10,19 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-03-19 16:10\n"
+"PO-Revision-Date: 2024-03-19 17:20\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Room_02.rpy:32 #-#-# translate crowdin room02_cuve01_5548a552:
 msgid " = THE CHARACTER IN CREATION WILL BE AVAILABLE IN {color=#40cbf9}[CHARA_CREA_PROCEED_DAYLEFT]{/color} DAYS ="
-msgstr " = LE CARACTERE DE CREATION SERA DISPONIBLE DANS { color=#40cbf9} [ CHARA_CREA_PROCEED_DAYLEFT ] { /color } DAYS ="
+msgstr " = LE CARACTERE DE CREATION SERA DISPONIBLE DANS {color=#40cbf9}[CHARA_CREA_PROCEED_DAYLEFT]{/color} JOURS="
 
 # game/Room_02.rpy:35 #-#-# translate crowdin room02_cuve01_77556add:
 msgid " = THE CLOTHES IN CREATION WILL BE AVAILABLE IN {color=#40cbf9}[CLOTHE_CREA_PROCEED_DAYLEFT]{/color} DAYS ="
-msgstr " = LES CLOTHES IN CREATION WILL BE AVAILABLE IN { color=#40cbf9} [ CLOTHE_CREA_PROCEED_DAYLEFT ] { /color } DAYS ="
+msgstr " = LES VÊTEMENTS EN CRÉATION SERONT DISPONIBLES EN {color=#40cbf9}[CLOTHE_CREA_PROCEED_DAYLEFT]{/color} JOURS ="
 
 # game/Room_02.rpy:38 #-#-# translate crowdin room02_cuve01_ad56e3cc:
 msgid " = THE HAIR IN CREATION WILL BE AVAILABLE IN {color=#40cbf9}[HAIR_CREA_PROCEED_DAYLEFT]{/color} DAYS ="
-msgstr " = THE HAIR IN CREATION WILL BE AVAILABLE IN { color=#40cbf9} [ HAIR_CREA_PROCEED_DAYLEFT ] { /color } DAYS ="
+msgstr " = LES CHEVEUX EN CRÉATION SERONT DISPONIBLES EN {color=#40cbf9}[HAIR_CREA_PROCEED_DAYLEFT]{/color} JOURS ="
 
 # game/Room_02.rpy:50 #-#-# translate crowdin room02_expedition01_menu01_c7ef097f:
 msgid "== DRONE UNAVAILABLE DURING THE NIGHT =="
