@@ -10,31 +10,31 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-03-06 13:31\n"
+"PO-Revision-Date: 2024-03-19 16:08\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_ML.rpy:73 #-#-# translate crowdin CHARA_ML_Menu01_b7639ffd:
 msgid "[_ml_] Yo."
-msgstr ""
+msgstr "[ _ml_ ] Yo."
 
 # game/Cell01_ML.rpy:84 #-#-# translate crowdin CHARA_ML_MenuChoice_0105041a:
 msgid "[_ml_] Bring me back the two charadatas and the fairy wings. "
-msgstr ""
+msgstr "[ _ml_ ] Apportez-moi les deux charadatas et les ailes de fées. "
 
 # game/Cell01_ML.rpy:86 #-#-# translate crowdin CHARA_ML_MenuChoice_11fe1d2d:
 msgid "[_ml_] Without that, I can't do anything."
-msgstr ""
+msgstr "Sans ça, je ne peux rien faire."
 
 # game/Cell01_ML.rpy:114 #-#-# translate crowdin CHARA_ML_MenuChoice_99879961:
 msgid "[_ml_] I'm a little busy right now, can you come back tomorrow morning?"
-msgstr ""
+msgstr "[ _ml_ ] Je suis un peu occupé en ce moment, pouvez-vous revenir demain matin?"
 
 # game/Cell01_ML.rpy:120 #-#-# translate crowdin CHARA_ML_MenuChoice_99879961_1:
 msgid "[_ml_] I'm a little busy right now, can you come back tomorrow morning?"
-msgstr ""
+msgstr "[ _ml_ ] Je suis un peu occupé en ce moment, pouvez-vous revenir demain matin?"
 
 # game/Cell01_ML.rpy:136 #-#-# translate crowdin CHARA_ML_MenuChoice_4baff42b:
 msgid "[_ml_] Yes, of course. Why not."
-msgstr ""
+msgstr "[ _ml_ ] Oui, bien sûr. Pourquoi pas."
 
 # game/Cell01_ML.rpy:140 #-#-# translate crowdin CHARA_ML_MenuChoice_259e399c:
 msgid "[_u_] See you later!"
@@ -42,1023 +42,1023 @@ msgstr "À tantôt!"
 
 # game/Cell01_ML.rpy:145 #-#-# translate crowdin CHARA_ML_MenuChoice_459e9fcc:
 msgid "[_ml_] Yup "
-msgstr ""
+msgstr "[ _ml_ ] Yup "
 
 # game/Cell01_ML.rpy:196 #-#-# translate crowdin Quest_ML_Talk01_7d0566de:
 msgid "[_ml_] Well, great!"
-msgstr ""
+msgstr "[ _ml_ ] Eh bien, super !"
 
 # game/Cell01_ML.rpy:198 #-#-# translate crowdin Quest_ML_Talk01_ba82d0ff:
 msgid "[_ml_] It's been a long time since someone asked me this question!"
-msgstr ""
+msgstr "[ _ml_ ] Ça fait longtemps que quelqu'un m'a posé cette question !"
 
 # game/Cell01_ML.rpy:200 #-#-# translate crowdin Quest_ML_Talk01_1c682362:
 msgid "[_ml_] In fact, I'd say I've never felt better. "
-msgstr ""
+msgstr "[ _ml_ ] En fait, je dirais que je ne me suis jamais senti mieux. "
 
 # game/Cell01_ML.rpy:202 #-#-# translate crowdin Quest_ML_Talk01_4e328691:
 msgid "[_ml_] I finally have my own laboratory, I do a great job... "
-msgstr ""
+msgstr "[ _ml_ ] J'ai enfin mon propre laboratoire, je fais un super boulot ... "
 
 # game/Cell01_ML.rpy:204 #-#-# translate crowdin Quest_ML_Talk01_3a8281db:
 msgid "[_ml_] And my colleagues are pretty cool I must admit. "
-msgstr ""
+msgstr "[ _ml_ ] Et mes collègues sont assez cool, je dois l'avouer. "
 
 # game/Cell01_ML.rpy:205 #-#-# translate crowdin Quest_ML_Talk01_68569511:
 msgid "[_u_] I am flattered. "
-msgstr ""
+msgstr "[ _u_ ] Je suis flatté. "
 
 # game/Cell01_ML.rpy:207 #-#-# translate crowdin Quest_ML_Talk01_d46c50ca:
 msgid "[_ml_] Although I must admit that I don't take enough days off. "
-msgstr ""
+msgstr "[ _ml_ ] Bien que je doive admettre que je ne prends pas assez de jours de congé. "
 
 # game/Cell01_ML.rpy:208 #-#-# translate crowdin Quest_ML_Talk01_487e4946:
 msgid "[_u_] If you want to spend time with a colleague outside of work, I'm up for it. "
-msgstr ""
+msgstr "[ _u_ ] Si vous voulez passer du temps avec un collègue en dehors du travail, je suis à la hauteur. "
 
 # game/Cell01_ML.rpy:210 #-#-# translate crowdin Quest_ML_Talk01_b9d7ad58:
 msgid "[_ml_] That's really sweet. "
-msgstr ""
+msgstr "[ _ml_ ] C'est vraiment gentil. "
 
 # game/Cell01_ML.rpy:212 #-#-# translate crowdin Quest_ML_Talk01_5d7026fd:
 msgid "[_ml_] It will be my pleasure."
-msgstr ""
+msgstr "[ _ml_ ] Ce sera mon plaisir."
 
 # game/Cell01_ML.rpy:214 #-#-# translate crowdin Quest_ML_Talk01_0b1baebf:
 msgid "[_ml_] I'll let you know if I find anything interesting to do. "
-msgstr ""
+msgstr "[ _ml_ ] Je vous laisse savoir si je trouve quelque chose d'intéressant à faire. "
 
 # game/Cell01_ML.rpy:216 #-#-# translate crowdin Quest_ML_Talk01_af70d481:
 msgid "[_ml_] I mean... besides..."
-msgstr ""
+msgstr "[ _ml_ ] Je veux dire ... en plus ..."
 
 # game/Cell01_ML.rpy:218 #-#-# translate crowdin Quest_ML_Talk01_c9806869:
 msgid "[_ml_] ...besides fucking of course."
-msgstr ""
+msgstr "[ _ml_ ] ... en plus du putain de cours."
 
 # game/Cell01_ML.rpy:224 #-#-# translate crowdin Quest_ML_Talk02_885d9c28:
 msgid "[_ml_] Let's talk about this later."
-msgstr ""
+msgstr "[ _ml_ ] Parlons de ça plus tard."
 
 # game/Cell01_ML.rpy:229 #-#-# translate crowdin Quest_ML_Talk02_1a400011:
 msgid "[_ml_] Fun, you say?"
-msgstr ""
+msgstr "[ _ml_ ] Amusez-vous, vous dites?"
 
 # game/Cell01_ML.rpy:231 #-#-# translate crowdin Quest_ML_Talk02_60407c40:
 msgid "[_ml_] I hope you are thinking about the same thing as me? "
-msgstr ""
+msgstr "[ _ml_ ] J'espère que vous pensez à la même chose que moi? "
 
 # game/Cell01_ML.rpy:233 #-#-# translate crowdin Quest_ML_Talk02_3439edaa:
 msgid "[_ml_] Because one day someone told me that and I found myself studying advanced math all night with her. "
-msgstr ""
+msgstr "[ _ml_ ] Parce qu'un jour quelqu'un m'a dit ça et je me suis retrouvé à étudier les mathématiques avancées toute la nuit avec elle. "
 
 # game/Cell01_ML.rpy:235 #-#-# translate crowdin Quest_ML_Talk02_c34afbce:
 msgid "[_ml_] Worst night of my life. "
-msgstr ""
+msgstr "[ _ml_ ] La nuit de ma vie. "
 
 # game/Cell01_ML.rpy:236 #-#-# translate crowdin Quest_ML_Talk02_0ca84064:
 msgid "[_u_] I was thinking of simpler equations, like... "
-msgstr ""
+msgstr "[ _u_ ] Je pensais à des équations plus simples, comme ... "
 
 # game/Cell01_ML.rpy:238 #-#-# translate crowdin Quest_ML_Talk02_8d922a83:
 msgid "[_ml_] 1 penis + 1 ass = cool? "
-msgstr ""
+msgstr "[ _ml_ ] 1 pénis + 1 ass = cool? "
 
 # game/Cell01_ML.rpy:239 #-#-# translate crowdin Quest_ML_Talk02_74406210:
 msgid "[_u_] Something like that."
-msgstr ""
+msgstr "[ _u_ ] Quelque chose comme ça."
 
 # game/Cell01_ML.rpy:243 #-#-# translate crowdin Quest_ML_Talk02_2a200e72:
 msgid "[_ml_] I'm not against it, but come back tonight. "
-msgstr ""
+msgstr "[ _ml_ ] Je ne suis pas contre, mais revenais ce soir. "
 
 # game/Cell01_ML.rpy:245 #-#-# translate crowdin Quest_ML_Talk02_ff9e2b41:
 msgid "[_ml_] I try to keep my work hours just for work. "
-msgstr ""
+msgstr "[ _ml_ ] J'essaie de garder mes heures de travail juste pour le travail. "
 
 # game/Cell01_ML.rpy:246 #-#-# translate crowdin Quest_ML_Talk02_ffb21c75:
 msgid "[_u_] It's honorable. "
-msgstr ""
+msgstr "[ _u_ ] C'est honorable. "
 
 # game/Cell01_ML.rpy:248 #-#-# translate crowdin Quest_ML_Talk02_063cc69b:
 msgid "[_ml_] Yes and then... there are often people who come here for a coffee so... "
-msgstr ""
+msgstr "[ _ml_ ] Oui et ensuite ... il y a souvent des gens qui viennent ici pour un café donc ... "
 
 # game/Cell01_ML.rpy:249 #-#-# translate crowdin Quest_ML_Talk02_1f3498ef:
 msgid "[_u_] No worries, see you later meli."
-msgstr ""
+msgstr "[ _u_ ] Pas de soucis, vous voyez plus tard meli."
 
 # game/Cell01_ML.rpy:251 #-#-# translate crowdin Quest_ML_Talk02_9a4b1b0b:
 msgid "[_ml_] See ya!"
-msgstr ""
+msgstr "[ _ml_ ] Voir ya !"
 
 # game/Cell01_ML.rpy:255 #-#-# translate crowdin Quest_ML_Talk02_c53ec5ce:
 msgid "[_ml_] Why not... and it is night... so nobody will disturb us. "
-msgstr ""
+msgstr "[ _ml_ ] Pourquoi pas ... et c'est la nuit ... donc personne ne nous dérangera. "
 
 # game/Cell01_ML.rpy:256 #-#-# translate crowdin Quest_ML_Talk02_7a82bd8d:
 msgid "[_ml_] ..."
-msgstr ""
+msgstr "[ _ml_ ] ..."
 
 # game/Cell01_ML.rpy:258 #-#-# translate crowdin Quest_ML_Talk02_d3c48f67:
 msgid "[_ml_] Ok I'm in."
-msgstr ""
+msgstr "[ _ml_ ] Ok je suis dans."
 
 # game/Cell01_ML.rpy:263 #-#-# translate crowdin Quest_ML_Talk02_Fuck_4cfba8ab:
 msgid "[_ml_] Come back at night. "
-msgstr ""
+msgstr "[ _ml_ ] Revenez la nuit. "
 
 # game/Cell01_ML.rpy:264 #-#-# translate crowdin Quest_ML_Talk02_Fuck_cde270e0:
 msgid "[_ml_] We might be disturbed in the middle of the day. "
-msgstr ""
+msgstr "[ _ml_ ] Nous pourrions être dérangés au milieu de la journée. "
 
 # game/Cell01_ML.rpy:268 #-#-# translate crowdin Quest_ML_Talk02_Fuck_d1e4ca25:
 msgid "-----"
-msgstr ""
+msgstr "-----"
 
 # game/Cell01_ML.rpy:275 #-#-# translate crowdin Quest2_ML_TalkFUN1_01_2a200e72:
 msgid "[_ml_] I'm not against it, but come back tonight. "
-msgstr ""
+msgstr "[ _ml_ ] Je ne suis pas contre, mais revenais ce soir. "
 
 # game/Cell01_ML.rpy:277 #-#-# translate crowdin Quest2_ML_TalkFUN1_01_ff9e2b41:
 msgid "[_ml_] I try to keep my work hours just for work. "
-msgstr ""
+msgstr "[ _ml_ ] J'essaie de garder mes heures de travail juste pour le travail. "
 
 # game/Cell01_ML.rpy:278 #-#-# translate crowdin Quest2_ML_TalkFUN1_01_ffb21c75:
 msgid "[_u_] It's honorable. "
-msgstr ""
+msgstr "[ _u_ ] C'est honorable. "
 
 # game/Cell01_ML.rpy:280 #-#-# translate crowdin Quest2_ML_TalkFUN1_01_063cc69b:
 msgid "[_ml_] Yes and then... there are often people who come here for a coffee so... "
-msgstr ""
+msgstr "[ _ml_ ] Oui et ensuite ... il y a souvent des gens qui viennent ici pour un café donc ... "
 
 # game/Cell01_ML.rpy:281 #-#-# translate crowdin Quest2_ML_TalkFUN1_01_1f3498ef:
 msgid "[_u_] No worries, see you later meli."
-msgstr ""
+msgstr "[ _u_ ] Pas de soucis, vous voyez plus tard meli."
 
 # game/Cell01_ML.rpy:283 #-#-# translate crowdin Quest2_ML_TalkFUN1_01_9a4b1b0b:
 msgid "[_ml_] See ya!"
-msgstr ""
+msgstr "[ _ml_ ] Voir ya !"
 
 # game/Cell01_ML.rpy:287 #-#-# translate crowdin Quest2_ML_TalkFUN1_01_c53ec5ce:
 msgid "[_ml_] Why not... and it is night... so nobody will disturb us. "
-msgstr ""
+msgstr "[ _ml_ ] Pourquoi pas ... et c'est la nuit ... donc personne ne nous dérangera. "
 
 # game/Cell01_ML.rpy:288 #-#-# translate crowdin Quest2_ML_TalkFUN1_01_7a82bd8d:
 msgid "[_ml_] ..."
-msgstr ""
+msgstr "[ _ml_ ] ..."
 
 # game/Cell01_ML.rpy:290 #-#-# translate crowdin Quest2_ML_TalkFUN1_01_d3c48f67:
 msgid "[_ml_] Ok I'm in."
-msgstr ""
+msgstr "[ _ml_ ] Ok je suis dans."
 
 # game/Cell01_ML.rpy:294 #-#-# translate crowdin Quest2_ML_TalkFUN1_01_60c48449:
 msgid "[_ml_] Come over here [name]."
-msgstr ""
+msgstr "[ _ml_ ] Venez ici [ nom ]."
 
 # game/Cell01_ML.rpy:295 #-#-# translate crowdin Quest2_ML_TalkFUN1_01_f386bfc8:
 msgid "[_u_] I'm putting it in... "
-msgstr ""
+msgstr "[ _u_ ] Je le mets dans ... "
 
 # game/Cell01_ML.rpy:296 #-#-# translate crowdin Quest2_ML_TalkFUN1_01_f8b8a020:
 msgid "[_ml_] Yes in my ass please."
-msgstr ""
+msgstr "[ _ml_ ] Oui dans mon cul s'il vous plaît."
 
 # game/Cell01_ML.rpy:297 #-#-# translate crowdin Quest2_ML_TalkFUN1_01_7a82bd8d_1:
 msgid "[_ml_] ..."
-msgstr ""
+msgstr "[ _ml_ ] ..."
 
 # game/Cell01_ML.rpy:298 #-#-# translate crowdin Quest2_ML_TalkFUN1_01_d1486cac:
 msgid "[_ml_] Oh gosh it's... "
-msgstr ""
+msgstr "[ _ml_ ] Oh gosh c'est. .. "
 
 # game/Cell01_ML.rpy:299 #-#-# translate crowdin Quest2_ML_TalkFUN1_01_41972208:
 msgid "[_ml_] ...really tight...."
-msgstr ""
+msgstr "[ _ml_ ] ... vraiment serré ...."
 
 # game/Cell01_ML.rpy:320 #-#-# translate crowdin SceneMelisandre02_f2606552:
 msgid "[_ml_] Mhf...."
-msgstr ""
+msgstr "[ _ml_ ] Mhf ...."
 
 # game/Cell01_ML.rpy:321 #-#-# translate crowdin SceneMelisandre02_7c815fd6:
 msgid "[_ml_] Gosh... yes..."
-msgstr ""
+msgstr "[ _ml_ ] Gosh ... oui ..."
 
 # game/Cell01_ML.rpy:322 #-#-# translate crowdin SceneMelisandre02_39ce1836:
 msgid "[_ml_] It's been too long..."
-msgstr ""
+msgstr "[ _ml_ ] C'est trop long ..."
 
 # game/Cell01_ML.rpy:323 #-#-# translate crowdin SceneMelisandre02_2cf0f9a8:
 msgid "[_ml_] Fuck me up, please..."
-msgstr ""
+msgstr "[ _ml_ ] Va me lever, s'il te plaît ..."
 
 # game/Cell01_ML.rpy:325 #-#-# translate crowdin SceneMelisandre02_48c54ef9:
 msgid "[_ml_] I need it so bad!!"
-msgstr ""
+msgstr "[ _ml_ ] J'en ai besoin ! !"
 
 # game/Cell01_ML.rpy:331 #-#-# translate crowdin SceneMelisandre02_07e78bdf:
 msgid "[_ml_] Oh fuck... I can totally feel it... "
-msgstr ""
+msgstr "[ _ml_ ] Oh merde ... Je peux le sentir totalement ... "
 
 # game/Cell01_ML.rpy:334 #-#-# translate crowdin SceneMelisandre02_68222dc0:
 msgid "[_ml_] Gosh... "
-msgstr ""
+msgstr "[ _ml_ ] Gosh ... "
 
 # game/Cell01_ML.rpy:336 #-#-# translate crowdin SceneMelisandre02_6446671d:
 msgid "[_ml_] It's so strong... "
-msgstr ""
+msgstr "[ _ml_ ] C'est si fort ... "
 
 # game/Cell01_ML.rpy:339 #-#-# translate crowdin SceneMelisandre02_f2606552_1:
 msgid "[_ml_] Mhf...."
-msgstr ""
+msgstr "[ _ml_ ] Mhf ...."
 
 # game/Cell01_ML.rpy:342 #-#-# translate crowdin SceneMelisandre02_2fdfd124:
 msgid "[_ml_]  !!!!"
-msgstr ""
+msgstr "[ _ml_ ] ! !!!"
 
 # game/Cell01_ML.rpy:344 #-#-# translate crowdin SceneMelisandre02_3ab5b988:
 msgid "[_ml_] I think I..."
-msgstr ""
+msgstr "[ _ml_ ] Je pense ..."
 
 # game/Cell01_ML.rpy:345 #-#-# translate crowdin SceneMelisandre02_2be40eec:
 msgid "[_ml_] I want you to go hard."
-msgstr ""
+msgstr "[ _ml_ ] Je veux que tu iras dur."
 
 # game/Cell01_ML.rpy:348 #-#-# translate crowdin SceneMelisandre02_24670dc1:
 msgid "[_ml_] Fuck... You're really not... "
-msgstr ""
+msgstr "[ _ml_ ] Fuck ... Vous n'êtes vraiment pas ... "
 
 # game/Cell01_ML.rpy:349 #-#-# translate crowdin SceneMelisandre02_73529c94:
 msgid "[_ml_] ...bad at all... "
-msgstr ""
+msgstr "[ _ml_ ] ... mauvais pour tous ... "
 
 # game/Cell01_ML.rpy:351 #-#-# translate crowdin SceneMelisandre02_295db071:
 msgid "[_ml_] Mmmh..."
-msgstr ""
+msgstr "[ _ml_ ] Mmmh ..."
 
 # game/Cell01_ML.rpy:354 #-#-# translate crowdin SceneMelisandre02_0ca8040e:
 msgid "[_ml_] Mf...."
-msgstr ""
+msgstr "[ _ml_ ] Mf ...."
 
 # game/Cell01_ML.rpy:356 #-#-# translate crowdin SceneMelisandre02_ef1ff6e5:
 msgid "[_ml_] Fuck yeah..."
-msgstr ""
+msgstr "[ _ml_ ] Fuck ouais ..."
 
 # game/Cell01_ML.rpy:358 #-#-# translate crowdin SceneMelisandre02_673bdf8f:
 msgid "[_ml_] Oh.... "
-msgstr ""
+msgstr "[ _ml_ ] Oh ... "
 
 # game/Cell01_ML.rpy:360 #-#-# translate crowdin SceneMelisandre02_7a82bd8d:
 msgid "[_ml_] ..."
-msgstr ""
+msgstr "[ _ml_ ] ..."
 
 # game/Cell01_ML.rpy:361 #-#-# translate crowdin SceneMelisandre02_5afa5129:
 msgid "[_ml_] ....."
-msgstr ""
+msgstr "[ _ml_ ] ....."
 
 # game/Cell01_ML.rpy:363 #-#-# translate crowdin SceneMelisandre02_3a86fe4a:
 msgid "[_ml_] I wanted this for months..."
-msgstr ""
+msgstr "[ _ml_ ] Je voulais ça pendant des mois ..."
 
 # game/Cell01_ML.rpy:365 #-#-# translate crowdin SceneMelisandre02_0bad1316:
 msgid "[_ml_] Go on..."
-msgstr ""
+msgstr "[ _ml_ ] Allez ..."
 
 # game/Cell01_ML.rpy:366 #-#-# translate crowdin SceneMelisandre02_68b1ac26:
 msgid "[_ml_] ...just..."
-msgstr ""
+msgstr "[ _ml_ ] ... juste ..."
 
 # game/Cell01_ML.rpy:368 #-#-# translate crowdin SceneMelisandre02_c0c9172e:
 msgid "[_ml_] Have fun with my ass..."
-msgstr ""
+msgstr "[ _ml_ ] Amusea avec mon cul ..."
 
 # game/Cell01_ML.rpy:376 #-#-# translate crowdin SceneMelisandre02_699da8d9:
 msgid "[_ml_] AHaaah....!!"
-msgstr ""
+msgstr "[ _ml_ ] AHaaah ... ! !"
 
 # game/Cell01_ML.rpy:379 #-#-# translate crowdin SceneMelisandre02_7e2ea02f:
 msgid "[_u_] I knew you would like it."
-msgstr ""
+msgstr "[ _u_ ] Je savais que vous l'aimeriez."
 
 # game/Cell01_ML.rpy:381 #-#-# translate crowdin SceneMelisandre02_b9fc7ab9:
 msgid "[_ml_] Oh... I'm such a bad girl! I can't help it..."
-msgstr ""
+msgstr "[ _ml_ ] Oh ... Je suis une si mauvaise fille ! Je ne peux pas l'aider ..."
 
 # game/Cell01_ML.rpy:383 #-#-# translate crowdin SceneMelisandre02_dbac3626:
 msgid "[_ml_] How do you like my anus?"
-msgstr ""
+msgstr "[ _ml_ ] Comment tu aimes mon anus?"
 
 # game/Cell01_ML.rpy:385 #-#-# translate crowdin SceneMelisandre02_8cde23bf:
 msgid "[_ml_] Mmmhf...."
-msgstr ""
+msgstr "[ _ml_ ] Mmmhf ...."
 
 # game/Cell01_ML.rpy:387 #-#-# translate crowdin SceneMelisandre02_7c9a3e0e:
 msgid "[_ml_] Oh fuck... "
-msgstr ""
+msgstr "[ _ml_ ] Oh merde ... "
 
 # game/Cell01_ML.rpy:389 #-#-# translate crowdin SceneMelisandre02_ff71dda2:
 msgid "[_ml_] Yeah... you love it... "
-msgstr ""
+msgstr "[ _ml_ ] Ouais ... tu l'aimes ... "
 
 # game/Cell01_ML.rpy:391 #-#-# translate crowdin SceneMelisandre02_1512404c:
 msgid "[_ml_] Mmh..."
-msgstr ""
+msgstr "[ _ml_ ] Mmh ..."
 
 # game/Cell01_ML.rpy:393 #-#-# translate crowdin SceneMelisandre02_7a82bd8d_1:
 msgid "[_ml_] ..."
-msgstr ""
+msgstr "[ _ml_ ] ..."
 
 # game/Cell01_ML.rpy:395 #-#-# translate crowdin SceneMelisandre02_92a09693:
 msgid "[_ml_] I'm gonna..."
-msgstr ""
+msgstr "[ _ml_ ] Je vais ..."
 
 # game/Cell01_ML.rpy:397 #-#-# translate crowdin SceneMelisandre02_e3a52751:
 msgid "[_ml_] I'm going to jerk off so much thinking about you..."
-msgstr ""
+msgstr "[ _ml_ ] Je vais te saler tellement penser à toi ..."
 
 # game/Cell01_ML.rpy:399 #-#-# translate crowdin SceneMelisandre02_d8176f80:
 msgid "[_ml_] Aaaahaaa...."
-msgstr ""
+msgstr "[ _ml_ ] Aaaahaaa ...."
 
 # game/Cell01_ML.rpy:401 #-#-# translate crowdin SceneMelisandre02_606d343e:
 msgid "[_ml_] Aaah...."
-msgstr ""
+msgstr "[ _ml_ ] Aaah ..."
 
 # game/Cell01_ML.rpy:403 #-#-# translate crowdin SceneMelisandre02_f2606552_2:
 msgid "[_ml_] Mhf...."
-msgstr ""
+msgstr "[ _ml_ ] Mhf ...."
 
 # game/Cell01_ML.rpy:412 #-#-# translate crowdin SceneMelisandre02_d12c2cb0:
 msgid "[_ml_] Mh....."
-msgstr ""
+msgstr "[ _ml_ ] Mh ....."
 
 # game/Cell01_ML.rpy:414 #-#-# translate crowdin SceneMelisandre02_aed22476:
 msgid "[_ml_] Damn... this position is really... "
-msgstr ""
+msgstr "[ _ml_ ] Damn ... cette position est vraiment ... "
 
 # game/Cell01_ML.rpy:416 #-#-# translate crowdin SceneMelisandre02_74ffae35:
 msgid "[_ml_] It's really not bad actually. "
-msgstr ""
+msgstr "[ _ml_ ] Ce n'est vraiment pas mauvais en fait. "
 
 # game/Cell01_ML.rpy:418 #-#-# translate crowdin SceneMelisandre02_8c8d4fa5:
 msgid "[_ml_] I didn't think you were the type to go slow... "
-msgstr ""
+msgstr "[ _ml_ ] Je ne pensais pas que vous étiez le type à ralentir ... "
 
 # game/Cell01_ML.rpy:420 #-#-# translate crowdin SceneMelisandre02_1512404c_1:
 msgid "[_ml_] Mmh..."
-msgstr ""
+msgstr "[ _ml_ ] Mmh ..."
 
 # game/Cell01_ML.rpy:422 #-#-# translate crowdin SceneMelisandre02_2c1fe925:
 msgid "[_ml_] It's not unpleasant..."
-msgstr ""
+msgstr "[ _ml_ ] Ce n'est pas désagréable ..."
 
 # game/Cell01_ML.rpy:424 #-#-# translate crowdin SceneMelisandre02_7a82bd8d_2:
 msgid "[_ml_] ..."
-msgstr ""
+msgstr "[ _ml_ ] ..."
 
 # game/Cell01_ML.rpy:426 #-#-# translate crowdin SceneMelisandre02_8497d790:
 msgid "[_ml_] ...A little slow for my taste... "
-msgstr ""
+msgstr "[ _ml_ ] ...Un peu lent pour mon goût ... "
 
 # game/Cell01_ML.rpy:430 #-#-# translate crowdin SceneMelisandre02_e9bc6a46:
 msgid "[_ml_] Ah fuck.... "
-msgstr ""
+msgstr "[ _ml_ ] Ah fuck ... "
 
 # game/Cell01_ML.rpy:432 #-#-# translate crowdin SceneMelisandre02_56d2d13f:
 msgid "[_ml_] I take that back...."
-msgstr ""
+msgstr "[ _ml_ ] Je prends ça ..."
 
 # game/Cell01_ML.rpy:436 #-#-# translate crowdin SceneMelisandre02_cab32e06:
 msgid "[_ml_] My anus is too fucking small for this... "
-msgstr ""
+msgstr "[ _ml_ ] Mon anus est trop petit pour ça ... "
 
 # game/Cell01_ML.rpy:438 #-#-# translate crowdin SceneMelisandre02_9128ced0:
 msgid "[_ml_] Ahh...."
-msgstr ""
+msgstr "[ _ml_ ] Ahh ...."
 
 # game/Cell01_ML.rpy:440 #-#-# translate crowdin SceneMelisandre02_4c41e2d6:
 msgid "[_ml_] You like that way too much..."
-msgstr ""
+msgstr "[ _ml_ ] Tu aimes beaucoup trop ..."
 
 # game/Cell01_ML.rpy:441 #-#-# translate crowdin SceneMelisandre02_1db01820:
 msgid "[_u_] Your anus is not too bad I must say. "
-msgstr ""
+msgstr "[ _u_ ] Votre anus n'est pas trop mauvais que je dois dire. "
 
 # game/Cell01_ML.rpy:443 #-#-# translate crowdin SceneMelisandre02_c6fda5b4:
 msgid "[_ml_] Mmh... "
-msgstr ""
+msgstr "[ _ml_ ] Mmh ... "
 
 # game/Cell01_ML.rpy:445 #-#-# translate crowdin SceneMelisandre02_e773fe82:
 msgid "[_ml_] I love that you use me... "
-msgstr ""
+msgstr "[ _ml_ ] J'aime que tu m'utilisais ... "
 
 # game/Cell01_ML.rpy:447 #-#-# translate crowdin SceneMelisandre02_b91e6351:
 msgid "[_ml_] ...way too much."
-msgstr ""
+msgstr "[ _ml_ ] ... beaucoup trop."
 
 # game/Cell01_ML.rpy:458 #-#-# translate crowdin SceneMelisandre02_bd93f8aa:
 msgid "[_ml_] !!!"
-msgstr ""
+msgstr "[ _ml_ ] !!!"
 
 # game/Cell01_ML.rpy:460 #-#-# translate crowdin SceneMelisandre02_e4bf9ad1:
 msgid "[_ml_] Gosh..."
-msgstr ""
+msgstr "[ _ml_ ] Gosh ..."
 
 # game/Cell01_ML.rpy:462 #-#-# translate crowdin SceneMelisandre02_29faaf8e:
 msgid "[_ml_] Mh......"
-msgstr ""
+msgstr "[ _ml_ ] Mh ......"
 
 # game/Cell01_ML.rpy:464 #-#-# translate crowdin SceneMelisandre02_5274a3a3:
 msgid "[_ml_] It's so hard... "
-msgstr ""
+msgstr "[ _ml_ ] C'est si dur ... "
 
 # game/Cell01_ML.rpy:466 #-#-# translate crowdin SceneMelisandre02_b80dda84:
 msgid "[_ml_] Your ass is so good meli... I'm going to cum... "
-msgstr ""
+msgstr "[ _ml_ ] Ton cul est si bon meli ... Je vais à cum ... "
 
 # game/Cell01_ML.rpy:468 #-#-# translate crowdin SceneMelisandre02_8d53340d:
 msgid "[_ml_] Cover me with cum [name]..."
-msgstr ""
+msgstr "[ _ml_ ] Couvrir-moi avec cum [ nom ] ..."
 
 # game/Cell01_ML.rpy:470 #-#-# translate crowdin SceneMelisandre02_450b9bc5:
 msgid "[_ml_] That's what I want..."
-msgstr ""
+msgstr "[ _ml_ ] C'est ce que je veux ..."
 
 # game/Cell01_ML.rpy:472 #-#-# translate crowdin SceneMelisandre02_27d10367:
 msgid "[_ml_] Aaaaaah...."
-msgstr ""
+msgstr "[ _ml_ ] Aaaaaah ...."
 
 # game/Cell01_ML.rpy:481 #-#-# translate crowdin SceneMelisandre02_c16bde9a:
 msgid "[_ml_] I have never felt my anus like that..."
-msgstr ""
+msgstr "[ _ml_ ] Je n'ai jamais senti mon anus comme ça ..."
 
 # game/Cell01_ML.rpy:483 #-#-# translate crowdin SceneMelisandre02_1a7725ef:
 msgid "[_ml_] And I know what I'm talking about."
-msgstr ""
+msgstr "[ _ml_ ] Et je sais de quoi je parle."
 
 # game/Cell01_ML.rpy:485 #-#-# translate crowdin SceneMelisandre02_e3eeecb4:
 msgid "[_ml_] Mh..."
-msgstr ""
+msgstr "[ _ml_ ] Mh ..."
 
 # game/Cell01_ML.rpy:487 #-#-# translate crowdin SceneMelisandre02_4ed85125:
 msgid "[_ml_] Oh fuck... it's pulsating..."
-msgstr ""
+msgstr "[ _ml_ ] Oh merde ... c'est pulsante ..."
 
 # game/Cell01_ML.rpy:488 #-#-# translate crowdin SceneMelisandre02_e2f9dc54:
 msgid "[_u_] I'm gonna come meli... "
-msgstr ""
+msgstr "[ _u_ ] Je vais venir meli ... "
 
 # game/Cell01_ML.rpy:490 #-#-# translate crowdin SceneMelisandre02_1fd4fdf2:
 msgid "[_ml_] Cover me with sperm [name]..."
-msgstr ""
+msgstr "[ _ml_ ] Couvrir-moi avec le sperme [ nom ] ..."
 
 # game/Cell01_ML.rpy:492 #-#-# translate crowdin SceneMelisandre02_7a82bd8d_3:
 msgid "[_ml_] ..."
-msgstr ""
+msgstr "[ _ml_ ] ..."
 
 # game/Cell01_ML.rpy:514 #-#-# translate crowdin SceneMelisandre02_d5e434eb:
 msgid "[_ml_] Shall we do it again soon? "
-msgstr ""
+msgstr "[ _ml_ ] Shall nous le faisons à nouveau bientôt? "
 
 # game/Cell01_ML.rpy:625 #-#-# translate crowdin QuestChap2_Amandine02_2_1_fcfea652:
 msgid "[_u_] Hello?"
-msgstr ""
+msgstr "[_u_] Allô ?"
 
 # game/Cell01_ML.rpy:626 #-#-# translate crowdin QuestChap2_Amandine02_2_1_f3cb98da:
 msgid "[_u_] Anybody home?"
-msgstr ""
+msgstr "[ _u_ ] N'importe quoi à la maison?"
 
 # game/Cell01_ML.rpy:627 #-#-# translate crowdin QuestChap2_Amandine02_2_1_6808c8b8:
 msgid "[_ml_] Hey! Good timing! I need help!"
-msgstr ""
+msgstr "[ _ml_ ] Hé ! Bonne synchronisation ! J'ai besoin d'aide !"
 
 # game/Cell01_ML.rpy:628 #-#-# translate crowdin QuestChap2_Amandine02_2_1_3a5b6bcc:
 msgid "[_ml_] Get your ass over there!"
-msgstr ""
+msgstr "[ _ml_ ] Fasse tes fesses là-bas !"
 
 # game/Cell01_ML.rpy:645 #-#-# translate crowdin QuestChap2_Amandine02_2_1_2f7b7851:
 msgid "[_u_] Speaking of ass."
-msgstr ""
+msgstr "[ _u_ ] Parler de cul."
 
 # game/Cell01_ML.rpy:646 #-#-# translate crowdin QuestChap2_Amandine02_2_1_fc8a7605:
 msgid "[_ml_] Yeah, enjoy the view little pervert."
-msgstr ""
+msgstr "[ _ml_ ] Ouais, profitez de la vue peu pervers."
 
 # game/Cell01_ML.rpy:647 #-#-# translate crowdin QuestChap2_Amandine02_2_1_ff505d32:
 msgid "[_ml_] Although I don't mind having fun with you in the pipes... "
-msgstr ""
+msgstr "[ _ml_ ] Bien que je ne me moque pas de vous amuser avec vous dans les tuyaux ... "
 
 # game/Cell01_ML.rpy:648 #-#-# translate crowdin QuestChap2_Amandine02_2_1_08930d09:
 msgid "[_ml_] I need you to pass me the termic ethomerticator."
-msgstr ""
+msgstr "[ _ml_ ] J'ai besoin que vous me transmettez l'éthomerticateur termique."
 
 # game/Cell01_ML.rpy:650 #-#-# translate crowdin QuestChap2_Amandine02_2_1_7ef901ed:
 msgid "[_ml_] Size 3"
-msgstr ""
+msgstr "[ _ml_ ] Taille 3"
 
 # game/Cell01_ML.rpy:658 #-#-# translate crowdin QuestChap2_Amandine02_2_1_19c9b957:
 msgid "[_ml_] Gosh... young people these days... Don't they teach you anything at the academy? "
-msgstr ""
+msgstr "[ _ml_ ] Gosh ... les jeunes de ces jours ... Ne t'enseignent-ils pas quoi que ce soit à l'académie? "
 
 # game/Cell01_ML.rpy:659 #-#-# translate crowdin QuestChap2_Amandine02_2_1_ed834bd4:
 msgid "[_ml_] Give me the thing with the orange screwdriver handle."
-msgstr ""
+msgstr "[ _ml_ ] Donnez-moi le truc avec la poignée de tournevis orange."
 
 # game/Cell01_ML.rpy:660 #-#-# translate crowdin QuestChap2_Amandine02_2_1_6ed1789e:
 msgid "[_u_] uh... "
-msgstr ""
+msgstr "[_u_] euh... "
 
 # game/Cell01_ML.rpy:662 #-#-# translate crowdin QuestChap2_Amandine02_2_1_2828e14b:
 msgid "[_ml_] And the thermal one, not the simple. "
-msgstr ""
+msgstr "[ _ml_ ] Et le thermique, pas le simple. "
 
 # game/Cell01_ML.rpy:704 #-#-# translate crowdin QuestChap2_Amandine02_02MELI_GOOD_dc436819:
 msgid "[_u_] Here, take it."
-msgstr ""
+msgstr "[ _u_ ] Tirez-le."
 
 # game/Cell01_ML.rpy:706 #-#-# translate crowdin QuestChap2_Amandine02_02MELI_GOOD_5e4777ed:
 msgid "[_ml_] Okay... let's see... "
-msgstr ""
+msgstr "[ _ml_ ] Ok ... voyons ... "
 
 # game/Cell01_ML.rpy:707 #-#-# translate crowdin QuestChap2_Amandine02_02MELI_GOOD_aeaa0ab4:
 msgid "[_ml_] Come on you filthy vermin!"
-msgstr ""
+msgstr "[ _ml_ ] Viens te salir la vermine !"
 
 # game/Cell01_ML.rpy:708 #-#-# translate crowdin QuestChap2_Amandine02_02MELI_GOOD_01c4b440:
 msgid "[_u_] Are you hunting pests now? "
-msgstr ""
+msgstr "[ _u_ ] Êtes-vous à la chasse aux parasites maintenant? "
 
 # game/Cell01_ML.rpy:709 #-#-# translate crowdin QuestChap2_Amandine02_02MELI_GOOD_58556600:
 msgid "[_ml_] Almost."
-msgstr ""
+msgstr "[ _ml_ ] Presque."
 
 # game/Cell01_ML.rpy:712 #-#-# translate crowdin QuestChap2_Amandine02_02MELI_GOOD_1eae2b31:
 msgid "[_ml_] No no!"
-msgstr ""
+msgstr "[ _ml_ ] Non non !"
 
 # game/Cell01_ML.rpy:713 #-#-# translate crowdin QuestChap2_Amandine02_02MELI_GOOD_1c47c131:
 msgid "[_ml_] Come back!!!"
-msgstr ""
+msgstr "[ _ml_ ] Revenez !!!"
 
 # game/Cell01_ML.rpy:719 #-#-# translate crowdin QuestChap2_Amandine02_02MELI_GOOD_d7684464:
 msgid "[_u_] Are you OK? "
-msgstr ""
+msgstr "[ _u_ ] Êtes-vous OK? "
 
 # game/Cell01_ML.rpy:720 #-#-# translate crowdin QuestChap2_Amandine02_02MELI_GOOD_0eb19de2:
 msgid "[_ml_] I think I got it!"
-msgstr ""
+msgstr "[ _ml_ ] Je pense que je l'ai !"
 
 # game/Cell01_ML.rpy:740 #-#-# translate crowdin QuestChap2_Amandine02_02MELI_GOOD_5b8b5a8d:
 msgid "[_ml_] Thanks, buddy."
-msgstr ""
+msgstr "[ _ml_ ] Merci, mon pote."
 
 # game/Cell01_ML.rpy:742 #-#-# translate crowdin QuestChap2_Amandine02_02MELI_GOOD_c0e8b0c5:
 msgid "[_ml_] I've been trying to catch this little bastard for days."
-msgstr ""
+msgstr "[ _ml_ ] J'ai essayé de prendre ce petit salaud pendant des jours."
 
 # game/Cell01_ML.rpy:744 #-#-# translate crowdin QuestChap2_Amandine02_02MELI_GOOD_dbd4c2d0:
 msgid "[_ml_] This thing must have damaged at least a hundred meters of cable."
-msgstr ""
+msgstr "[ _ml_ ] Cette chose doit avoir endommagé au moins une centaine de mètres de câble."
 
 # game/Cell01_ML.rpy:749 #-#-# translate crowdin QuestChap2_Amandine02_02MELI_BAD_c5f65888:
 msgid "[_u_] Maybe this one."
-msgstr ""
+msgstr "[ _u_ ] Peut-être celui-ci."
 
 # game/Cell01_ML.rpy:751 #-#-# translate crowdin QuestChap2_Amandine02_02MELI_BAD_005cdca5:
 msgid "[_u_] Here, take this!"
-msgstr ""
+msgstr "[ _u_ ] Ici, prends ça !"
 
 # game/Cell01_ML.rpy:753 #-#-# translate crowdin QuestChap2_Amandine02_02MELI_BAD_f2d91dcb:
 msgid "[_ml_] So let's see... "
-msgstr ""
+msgstr "[ _ml_ ] Donc voyons ... "
 
 # game/Cell01_ML.rpy:754 #-#-# translate crowdin QuestChap2_Amandine02_02MELI_BAD_8ca914ac:
 msgid "[_ml_] if I try to... "
-msgstr ""
+msgstr "[ _ml_ ] si j'essaie de ... "
 
 # game/Cell01_ML.rpy:757 #-#-# translate crowdin QuestChap2_Amandine02_02MELI_BAD_ab543f61:
 msgid "[_ml_] ... gosh... fuck!"
-msgstr ""
+msgstr "[ _ml_ ] ... gosh ... baise !"
 
 # game/Cell01_ML.rpy:773 #-#-# translate crowdin QuestChap2_Amandine02_02MELI_BAD_07c5bb2c:
 msgid "[_ml_] Are you mistaking your colors now? "
-msgstr ""
+msgstr "[ _ml_ ] Vous prenez mal vos couleurs maintenant? "
 
 # game/Cell01_ML.rpy:784 #-#-# translate crowdin QuestChap2_Amandine02_02MELI_MENU1_142fc20c:
 msgid "[_ml_] A badly programmed robot."
-msgstr ""
+msgstr "[ _ml_ ] Un robot mal programmé."
 
 # game/Cell01_ML.rpy:786 #-#-# translate crowdin QuestChap2_Amandine02_02MELI_MENU1_09cc7f6c:
 msgid "[_ml_] I still have trouble with these little creatures."
-msgstr ""
+msgstr "[ _ml_ ] J'ai encore des problèmes avec ces petites créatures."
 
 # game/Cell01_ML.rpy:788 #-#-# translate crowdin QuestChap2_Amandine02_02MELI_MENU1_a8298e30:
 msgid "[_ml_] It's the first time I create one from scratch..."
-msgstr ""
+msgstr "[ _ml_ ] C'est la première fois que je crée une ..."
 
 # game/Cell01_ML.rpy:790 #-#-# translate crowdin QuestChap2_Amandine02_02MELI_MENU1_21c8f0cb:
 msgid "[_ml_] Anyway, it's not a success yet."
-msgstr ""
+msgstr "[ _ml_ ] Quoi qu'il en soit, ce n'est pas encore un succès."
 
 # game/Cell01_ML.rpy:793 #-#-# translate crowdin QuestChap2_Amandine02_02MELI_MENU1_f5b38726:
 msgid "[_ml_] Oh, by the way... "
-msgstr ""
+msgstr "[ _ml_ ] Oh, au fait ... "
 
 # game/Cell01_ML.rpy:795 #-#-# translate crowdin QuestChap2_Amandine02_02MELI_MENU1_1cf937c5:
 msgid "[_ml_] I haven't had time to welcome you since you came back from your mission."
-msgstr ""
+msgstr "[ _ml_ ] Je n'ai pas eu le temps de vous accueillir depuis que vous êtes revenu de votre mission."
 
 # game/Cell01_ML.rpy:797 #-#-# translate crowdin QuestChap2_Amandine02_02MELI_MENU1_7f291e84:
 msgid "[_ml_] How was it?"
-msgstr ""
+msgstr "[ _ml_ ] Comment ça a été?"
 
 # game/Cell01_ML.rpy:798 #-#-# translate crowdin QuestChap2_Amandine02_02MELI_MENU1_173f87a2:
 msgid "[_u_] It sucked."
-msgstr ""
+msgstr "[ _u_ ] Elle a été aspirée."
 
 # game/Cell01_ML.rpy:800 #-#-# translate crowdin QuestChap2_Amandine02_02MELI_MENU1_a27f2830:
 msgid "[_u_] But now that we've gotten rid of the sultana, I think we can corrupt the whole area. "
-msgstr ""
+msgstr "[ _u_ ] Mais maintenant que nous nous sommes débarras de la sultana, je pense que nous pouvons corrompu toute la région. "
 
 # game/Cell01_ML.rpy:802 #-#-# translate crowdin QuestChap2_Amandine02_02MELI_MENU1_7dbe54af:
 msgid "[_ml_] You lucky bastard. "
-msgstr ""
+msgstr "[ _ml_ ] Vous avez de la chance. "
 
 # game/Cell01_ML.rpy:804 #-#-# translate crowdin QuestChap2_Amandine02_02MELI_MENU1_ecab3119:
 msgid "[_ml_] But yeah... we have a lot of work to do in this area. "
-msgstr ""
+msgstr "[ _ml_ ] Mais oui ... nous avons beaucoup de travail à faire dans ce domaine. "
 
 # game/Cell01_ML.rpy:806 #-#-# translate crowdin QuestChap2_Amandine02_02MELI_MENU1_bbca9605:
 msgid "[_ml_] Has Amandine started working?"
-msgstr ""
+msgstr "[ _ml_ ] Amandine a-t-elle commencé à travailler?"
 
 # game/Cell01_ML.rpy:807 #-#-# translate crowdin QuestChap2_Amandine02_02MELI_MENU1_d398b9f0:
 msgid "[_u_] Well, she sends me here to pick up some tools she'll need to get started."
-msgstr ""
+msgstr "[ _u_ ] Eh bien, elle m'envoie ici pour chercher des outils dont elle aura besoin pour commencer."
 
 # game/Cell01_ML.rpy:809 #-#-# translate crowdin QuestChap2_Amandine02_02MELI_MENU1_6ae208a8:
 msgid "[_u_] She gave me a list."
-msgstr ""
+msgstr "[ _u_ ] Elle m'a donné une liste."
 
 # game/Cell01_ML.rpy:811 #-#-# translate crowdin QuestChap2_Amandine02_02MELI_MENU1_fd50c6d8:
 msgid "[_ml_] Give me that. I'll see what I have in reserve. "
-msgstr ""
+msgstr "[ _ml_ ] Donnez-moi ça. Je vais voir ce que j'ai dans la réserve. "
 
 # game/Cell01_ML.rpy:816 #-#-# translate crowdin QuestChap2_Amandine02_02MELI_MENU1_ae8646e0:
 msgid "[_ml_] Ok... let's see... "
-msgstr ""
+msgstr "[ _ml_ ] Ok ... voyons ... "
 
 # game/Cell01_ML.rpy:817 #-#-# translate crowdin QuestChap2_Amandine02_02MELI_MENU1_e3eeecb4:
 msgid "[_ml_] Mh..."
-msgstr ""
+msgstr "[ _ml_ ] Mh ..."
 
 # game/Cell01_ML.rpy:818 #-#-# translate crowdin QuestChap2_Amandine02_02MELI_MENU1_a986d0e6:
 msgid "[_ml_] In fact... I don't think I have anything to give her..."
-msgstr ""
+msgstr "[ _ml_ ] En fait ... Je ne pense pas avoir quelque chose à lui donner ..."
 
 # game/Cell01_ML.rpy:819 #-#-# translate crowdin QuestChap2_Amandine02_02MELI_MENU1_2e742273:
 msgid "[_u_] Not even just 2 or 3? "
-msgstr ""
+msgstr "[ _u_ ] Même pas seulement 2 ou 3? "
 
 # game/Cell01_ML.rpy:823 #-#-# translate crowdin QuestChap2_Amandine02_02MELI_MENU1_d4accd1e:
 msgid "[_ml_] Nope. "
-msgstr ""
+msgstr "[ _ml_ ] Non. "
 
 # game/Cell01_ML.rpy:825 #-#-# translate crowdin QuestChap2_Amandine02_02MELI_MENU1_dd70f146:
 msgid "[_ml_] I'm also short on equipment."
-msgstr ""
+msgstr "[ _ml_ ] Je suis aussi à court d'équipement."
 
 # game/Cell01_ML.rpy:827 #-#-# translate crowdin QuestChap2_Amandine02_02MELI_MENU1_c6adeda5:
 msgid "[_ml_] But, there must be tons of stuff everywhere in the ruins of the planet."
-msgstr ""
+msgstr "[ _ml_ ] Mais il doit y avoir des tonnes de trucs partout dans les ruines de la planète."
 
 # game/Cell01_ML.rpy:829 #-#-# translate crowdin QuestChap2_Amandine02_02MELI_MENU1_2c1d0dc3:
 msgid "[_ml_] I think it's a good time to collect all this stuff."
-msgstr ""
+msgstr "[ _ml_ ] Je pense que c'est le bon moment pour rassembler tout ça."
 
 # game/Cell01_ML.rpy:830 #-#-# translate crowdin QuestChap2_Amandine02_02MELI_MENU1_66632d20:
 msgid "[_u_] If Emee hasn't already looted and resold everything. "
-msgstr ""
+msgstr "[ _u_ ] Si Emee n'a pas déjà pillé et revendu tout. "
 
 # game/Cell01_ML.rpy:832 #-#-# translate crowdin QuestChap2_Amandine02_02MELI_MENU1_bc2f7ea9:
 msgid "[_ml_] Indeed... "
-msgstr ""
+msgstr "[ _ml_ ] En effet ... "
 
 # game/Cell01_ML.rpy:834 #-#-# translate crowdin QuestChap2_Amandine02_02MELI_MENU1_cd9138a6:
 msgid "[_ml_] But, if you could find this... I think you'd be doing everyone a favor."
-msgstr ""
+msgstr "[ _ml_ ] Mais, si tu pouvais trouver ça ... Je pense que tu ferais une faveur à tous."
 
 # game/Cell01_ML.rpy:835 #-#-# translate crowdin QuestChap2_Amandine02_02MELI_MENU1_9a08f138:
 msgid "[_u_] I will see what I can find with the drone. "
-msgstr ""
+msgstr "[ _u_ ] Je vais voir ce que je peux trouver avec le drone. "
 
 # game/Cell01_ML.rpy:837 #-#-# translate crowdin QuestChap2_Amandine02_02MELI_MENU1_4639ae0b:
 msgid "[_ml_] Great! Thanks a lot!"
-msgstr ""
+msgstr "[ _ml_ ] Grand ! Merci beaucoup !"
 
 # game/Cell01_ML.rpy:839 #-#-# translate crowdin QuestChap2_Amandine02_02MELI_MENU1_b170b869:
 msgid "[_ml_] And uh... glad to have you back with us [name]."
-msgstr ""
+msgstr "[ _ml_ ] Et euh ... heureux de vous retrouver avec nous [ nom ]."
 
 # game/Cell01_ML.rpy:850 #-#-# translate crowdin ML_DroneItem_RoomDevice01_7ba0d216:
 msgid "[_ml_] Oh... a mystery ~"
-msgstr ""
+msgstr "[ _ml_ ] Oh ... un mystère ~"
 
 # game/Cell01_ML.rpy:852 #-#-# translate crowdin ML_DroneItem_RoomDevice01_68b76188:
 msgid "[_ml_] What does it look like? "
-msgstr ""
+msgstr "[ _ml_ ] À quoi ça ressemble? "
 
 # game/Cell01_ML.rpy:853 #-#-# translate crowdin ML_DroneItem_RoomDevice01_587256f3:
 msgid "[_u_] A kind of big pile of screens."
-msgstr ""
+msgstr "[ _u_ ] Une sorte de gros tas d'écrans."
 
 # game/Cell01_ML.rpy:855 #-#-# translate crowdin ML_DroneItem_RoomDevice01_aa77b711:
 msgid "[_ml_] ''A big pile of screens''?"
-msgstr ""
+msgstr "[ _ml_ ] '' Une grosse pile d'écrans''?"
 
 # game/Cell01_ML.rpy:860 #-#-# translate crowdin ML_DroneItem_RoomDevice01_4065d7ad:
 msgid "[_ml_] Yep, that's a big pile of screens."
-msgstr ""
+msgstr "[ _ml_ ] Yep, c'est un tas d'écrans."
 
 # game/Cell01_ML.rpy:861 #-#-# translate crowdin ML_DroneItem_RoomDevice01_19de3db9:
 msgid "[_u_] I told you so!"
-msgstr ""
+msgstr "[ _u_ ] Je vous l'ai dit !"
 
 # game/Cell01_ML.rpy:863 #-#-# translate crowdin ML_DroneItem_RoomDevice01_179ceb82:
 msgid "[_ml_] It looks like a kind of... personal computer but... "
-msgstr ""
+msgstr "[ _ml_ ] Ça ressemble à un ... ordinateur personnel mais ... "
 
 # game/Cell01_ML.rpy:865 #-#-# translate crowdin ML_DroneItem_RoomDevice01_96bc978b:
 msgid "[_ml_] But it seems to have a specific purpose. "
-msgstr ""
+msgstr "[ _ml_ ] Mais il semble qu'il ait un but spécifique. "
 
 # game/Cell01_ML.rpy:866 #-#-# translate crowdin ML_DroneItem_RoomDevice01_4a6d1b79:
 msgid "[_u_] If it was put here in the old room of the director... "
-msgstr ""
+msgstr "[ _u_ ] Si elle a été mise ici dans la vieille chambre du réalisateur ... "
 
 # game/Cell01_ML.rpy:868 #-#-# translate crowdin ML_DroneItem_RoomDevice01_bf4e6433:
 msgid "[_ml_] Yeah, it must be for a reason. And a good one."
-msgstr ""
+msgstr "[ _ml_ ] Oui, ça doit être pour une raison. Et un bon."
 
 # game/Cell01_ML.rpy:870 #-#-# translate crowdin ML_DroneItem_RoomDevice01_157982e4:
 msgid "[_ml_] If you want, I can take a closer look."
-msgstr ""
+msgstr "[ _ml_ ] Si vous voulez, je peux regarder de plus près."
 
 # game/Cell01_ML.rpy:872 #-#-# translate crowdin ML_DroneItem_RoomDevice01_f0395044:
 msgid "[_ml_] And if I find a way to make this work again, I'll let you know. "
-msgstr ""
+msgstr "[ _ml_ ] Et si je trouve un moyen de faire de nouveau ce travail, je vous le ferai savoir. "
 
 # game/Cell01_ML.rpy:874 #-#-# translate crowdin ML_DroneItem_RoomDevice01_c0c194a6:
 msgid "[_ml_] But for now... Let's keep it between us okay?"
-msgstr ""
+msgstr "[ _ml_ ] Mais pour l'instant ... Laissons ça entre nous d'accord?"
 
 # game/Cell01_ML.rpy:875 #-#-# translate crowdin ML_DroneItem_RoomDevice01_1b588e6b:
 msgid "[_u_] You think so?"
-msgstr ""
+msgstr "[_u_] Vous croyez ?"
 
 # game/Cell01_ML.rpy:877 #-#-# translate crowdin ML_DroneItem_RoomDevice01_698eb4da:
 msgid "[_ml_] I prefer to be cautious."
-msgstr ""
+msgstr "[ _ml_ ] Je préfère être prudent."
 
 # game/Cell01_ML.rpy:889 #-#-# translate crowdin ML_DroneItem_RoomDevice01_MENU1_end_c73e70f0:
 msgid "[_ml_] You're welcome."
-msgstr ""
+msgstr "[ _ml_ ] Vous êtes les bienvenus."
 
 # game/Cell01_ML.rpy:891 #-#-# translate crowdin ML_DroneItem_RoomDevice01_MENU1_end_1fd20bee:
 msgid "[_ml_] I'll contact you as soon as I know more about this machine."
-msgstr ""
+msgstr "[ _ml_ ] Je vous contacterai dès que j'en sais plus sur cette machine."
 
 # game/Cell01_ML.rpy:903 #-#-# translate crowdin ML_DroneItem_RoomDevice01_MENU1_P1_d121a681:
 msgid "[_ml_] It reminds me of my old university bedroom."
-msgstr ""
+msgstr "[ _ml_ ] Cela me rappelle ma vieille chambre d'université."
 
 # game/Cell01_ML.rpy:905 #-#-# translate crowdin ML_DroneItem_RoomDevice01_MENU1_P1_17246919:
 msgid "[_ml_] A one-bedroom of pure hell and the neighbors having sex all the time."
-msgstr ""
+msgstr "[ _ml_ ] Une chambre d'enfer et les voisins ayant des rapports sexuels tout le temps."
 
 # game/Cell01_ML.rpy:907 #-#-# translate crowdin ML_DroneItem_RoomDevice01_MENU1_P1_6bc079c3:
 msgid "[_ml_] I hated every moment. I'm glad it's over."
-msgstr ""
+msgstr "[ _ml_ ] J'ai détesté chaque instant. Je suis content que ça soit fini."
 
 # game/Cell01_ML.rpy:909 #-#-# translate crowdin ML_DroneItem_RoomDevice01_MENU1_P1_226c5c0d:
 msgid "[_ml_] And I hope I never see these idiots again. "
-msgstr ""
+msgstr "[ _ml_ ] Et j'espère ne plus jamais voir ces idiots. "
 
 # game/Cell01_ML.rpy:911 #-#-# translate crowdin ML_DroneItem_RoomDevice01_MENU1_P1_fd1cd256:
 msgid "[_u_] Since you're like 200 years old, no one you knew is currently alive."
-msgstr ""
+msgstr "[ _u_ ] Puisque vous avez 200 ans, personne que vous connaissiez n'est actuellement en vie."
 
 # game/Cell01_ML.rpy:913 #-#-# translate crowdin ML_DroneItem_RoomDevice01_MENU1_P1_e90ed888:
 msgid "[_ml_] So much the better. They were all jerks."
-msgstr ""
+msgstr "[ _ml_ ] Tant mieux. Ils étaient tous des maillots."
 
 # game/Cell01_ML.rpy:915 #-#-# translate crowdin ML_DroneItem_RoomDevice01_MENU1_P1_0acfc5bc:
 msgid "[_ml_] And then, I was really very indebted so it's so much better like that. "
-msgstr ""
+msgstr "[ _ml_ ] Et puis, j'étais vraiment très endettées, donc c'est tellement mieux comme ça. "
 
 # game/Cell01_ML.rpy:924 #-#-# translate crowdin ML_DroneItem_RoomDevice01_MENU1_P1_continue_21940ccb:
 msgid "[_ml_] Oh boy, that's a long story."
-msgstr ""
+msgstr "[ _ml_ ] Oh mon garçon, c'est une longue histoire."
 
 # game/Cell01_ML.rpy:926 #-#-# translate crowdin ML_DroneItem_RoomDevice01_MENU1_P1_continue_62d7e714:
 msgid "[_ml_] Are you sure you have time for this? "
-msgstr ""
+msgstr "[ _ml_ ] Etes-vous sûr d'avoir le temps pour cela? "
 
 # game/Cell01_ML.rpy:928 #-#-# translate crowdin ML_DroneItem_RoomDevice01_MENU1_P1_continue_8220ed0f:
 msgid "[_ml_] I don't want to bother you with my stories"
-msgstr ""
+msgstr "[ _ml_ ] Je ne veux pas vous déranger avec mes histoires"
 
 # game/Cell01_ML.rpy:932 #-#-# translate crowdin ML_DroneItem_RoomDevice01_MENU1_P1_continue_3dce8db6:
 msgid "[_u_] And I've got plenty of time."
-msgstr ""
+msgstr "[ _u_ ] Et j'ai beaucoup de temps."
 
 # game/Cell01_ML.rpy:934 #-#-# translate crowdin ML_DroneItem_RoomDevice01_MENU1_P1_continue_ce77b965:
 msgid "[_u_] But thanks for giving me your opinion on this device"
-msgstr ""
+msgstr "[ _u_ ] Mais merci de me donner votre avis sur ce dispositif"
 
 # game/Cell01_ML.rpy:938 #-#-# translate crowdin ML_DroneItem_RoomDevice01_MENU1_P1_continue_9d2daa72:
 msgid "[_ml_] A little break won't hurt me I must admit... "
-msgstr ""
+msgstr "[ _ml_ ] Une petite pause ne me fera pas de mal que je dois admettre ... "
 
 # game/Cell01_ML.rpy:940 #-#-# translate crowdin ML_DroneItem_RoomDevice01_MENU1_P1_continue_133b937e:
 msgid "[_ml_] Okay, let's just sit down for a second."
-msgstr ""
+msgstr "[ _ml_ ] D'accord, asseons-nous juste une seconde."
 
 # game/Cell01_ML.rpy:960 #-#-# translate crowdin ML_DroneItem_RoomDevice01_MENU1_P1_continue_1ffea747:
 msgid "[_ml_] It's good to finally settle down for a few minutes. "
-msgstr ""
+msgstr "[ _ml_ ] Il est bon de finalement s'installer quelques minutes. "
 
 # game/Cell01_ML.rpy:962 #-#-# translate crowdin ML_DroneItem_RoomDevice01_MENU1_P1_continue_8e04b329:
 msgid "[_ml_] In fact, I don't think I've taken a day off since Tinker hired me. "
-msgstr ""
+msgstr "[ _ml_ ] En fait, je ne pense pas avoir pris un jour de congé depuis que Tinker m'a embauché. "
 
 # game/Cell01_ML.rpy:963 #-#-# translate crowdin ML_DroneItem_RoomDevice01_MENU1_P1_continue_abdb4f83:
 msgid "[_u_] It must be exhausting."
-msgstr ""
+msgstr "[ _u_ ] Il doit être épuisant."
 
 # game/Cell01_ML.rpy:965 #-#-# translate crowdin ML_DroneItem_RoomDevice01_MENU1_P1_continue_33d8cf18:
 msgid "[_ml_] Not physically. My android body is really incredibly resilient."
-msgstr ""
+msgstr "[ _ml_ ] Pas physiquement. Mon corps androïde est vraiment incroyablement résistant."
 
 # game/Cell01_ML.rpy:967 #-#-# translate crowdin ML_DroneItem_RoomDevice01_MENU1_P1_continue_53655f02:
 msgid "[_ml_] But mentally... Let's just say I'd love to play a video game or two."
-msgstr ""
+msgstr "[ _ml_ ] Mais mentalement ... Disons que j'aimerais jouer un jeu vidéo ou deux."
 
 # game/Cell01_ML.rpy:968 #-#-# translate crowdin ML_DroneItem_RoomDevice01_MENU1_P1_continue_49fb71cf:
 msgid "[_u_] Yeah, there have been a lot of good games released in the last 200 years. "
-msgstr ""
+msgstr "[ _u_ ] Oui, il y a eu beaucoup de bons jeux diffusés au cours des 200 dernières années. "
 
 # game/Cell01_ML.rpy:970 #-#-# translate crowdin ML_DroneItem_RoomDevice01_MENU1_P1_continue_16ae3e99:
 msgid "[_ml_] I can't wait to go see that ahah."
-msgstr ""
+msgstr "[ _ml_ ] Je ne peux pas attendre d'aller voir cette ahah."
 
 # game/Cell01_ML.rpy:971 #-#-# translate crowdin ML_DroneItem_RoomDevice01_MENU1_P1_continue_c3bfbf2a:
 msgid "[_u_] So... I wanted to know..."
-msgstr ""
+msgstr "[ _u_ ] Donc ... Je voulais savoir ..."
 
 # game/Cell01_ML.rpy:973 #-#-# translate crowdin ML_DroneItem_RoomDevice01_MENU1_P1_continue_dceb9f4e:
 msgid "[_ml_] Go ahead, ask your questions, it's now or never, you little curious. "
-msgstr ""
+msgstr "[ _ml_ ] Allez-y, posez vos questions, c'est maintenant ou jamais, vous êtes peu curieux. "
 
 # game/Cell01_ML.rpy:990 #-#-# translate crowdin ML_DroneItem_RoomDevice01_MENU2_P1_13eb4ddb:
 msgid "[_u_] Were you addicted to gambling or something like that?"
-msgstr ""
+msgstr "[ _u_ ] Étiez-vous accro au jeu ou quelque chose comme ça?"
 
 # game/Cell01_ML.rpy:992 #-#-# translate crowdin ML_DroneItem_RoomDevice01_MENU2_P1_4ab8653e:
 msgid "[_ml_] Ahah if only."
-msgstr ""
+msgstr "[ _ml_ ] Ahah si seulement."
 
 # game/Cell01_ML.rpy:994 #-#-# translate crowdin ML_DroneItem_RoomDevice01_MENU2_P1_f49fdda3:
 msgid "[_ml_] I only went once on the Las Vegas 2 station..."
-msgstr ""
+msgstr "[ _ml_ ] Je n'ai fait qu'une fois sur la station Las Vegas 2 ..."
 
 # game/Cell01_ML.rpy:996 #-#-# translate crowdin ML_DroneItem_RoomDevice01_MENU2_P1_9960dc01:
 msgid "[_ml_] And that was for my interview to become an intern here. "
-msgstr ""
+msgstr "[ _ml_ ] Et c'était pour mon entretien de devenir stagiaire ici. "
 
 # game/Cell01_ML.rpy:997 #-#-# translate crowdin ML_DroneItem_RoomDevice01_MENU2_P1_ebd84d5e:
 msgid "[_u_] And how was it? "
-msgstr ""
+msgstr "[ _u_ ] Et comment était-il? "
 
 # game/Cell01_ML.rpy:999 #-#-# translate crowdin ML_DroneItem_RoomDevice01_MENU2_P1_0d7f81e0:
 msgid "[_ml_] I don't think I like being around so many people."
-msgstr ""
+msgstr "[ _ml_ ] Je ne pense pas que j'aime être autour de tant de gens."
 
 # game/Cell01_ML.rpy:1001 #-#-# translate crowdin ML_DroneItem_RoomDevice01_MENU2_P1_a0b48c3c:
 msgid "[_ml_] But I had never seen such sexy dresses."
-msgstr ""
+msgstr "[ _ml_ ] Mais je n'avais jamais vu de robes aussi sexy."
 
 # game/Cell01_ML.rpy:1003 #-#-# translate crowdin ML_DroneItem_RoomDevice01_MENU2_P1_133ca3f8:
 msgid "[_ml_] That was classy."
-msgstr ""
+msgstr "[ _ml_ ] C'était classy."
 
 # game/Cell01_ML.rpy:1012 #-#-# translate crowdin ML_DroneItem_RoomDevice01_MENU2_P2_6a1e5547:
 msgid "[_ml_] Oh, the answer is not very interesting. "
-msgstr ""
+msgstr "[ _ml_ ] Oh, la réponse n'est pas très intéressante. "
 
 # game/Cell01_ML.rpy:1014 #-#-# translate crowdin ML_DroneItem_RoomDevice01_MENU2_P2_9131dae0:
 msgid "[_ml_] I was born an orphan on a private space station. "
-msgstr ""
+msgstr "[ _ml_ ] Je suis né orphelin dans une station spatiale privée. "
 
 # game/Cell01_ML.rpy:1016 #-#-# translate crowdin ML_DroneItem_RoomDevice01_MENU2_P2_0bf938a1:
 msgid "[_ml_] And at my 18th birthday, I was given a bill for everything I owed."
-msgstr ""
+msgstr "[ _ml_ ] Et à mon 18e anniversaire, j'ai reçu un projet de loi pour tout ce que je devais."
 
 # game/Cell01_ML.rpy:1018 #-#-# translate crowdin ML_DroneItem_RoomDevice01_MENU2_P2_3e0ce7d4:
 msgid "[_ml_] Food, housing, education... everything. Since my birth. "
-msgstr ""
+msgstr "[ _ml_ ] La nourriture, le logement, l'éducation ... tout. Depuis ma naissance. "
 
 # game/Cell01_ML.rpy:1019 #-#-# translate crowdin ML_DroneItem_RoomDevice01_MENU2_P2_42a9d6aa:
 msgid "[_u_] Wow. That sucks. "
-msgstr ""
+msgstr "[ _u_ ] Wow. Ça craint. "
 
 # game/Cell01_ML.rpy:1021 #-#-# translate crowdin ML_DroneItem_RoomDevice01_MENU2_P2_ac1f042a:
 msgid "[_ml_] Yep. "
-msgstr ""
+msgstr "[ _ml_ ] Yep. "
 
 # game/Cell01_ML.rpy:1023 #-#-# translate crowdin ML_DroneItem_RoomDevice01_MENU2_P2_15fc769f:
 msgid "[_ml_] Can you believe I'm happy to have escaped all this? "
-msgstr ""
+msgstr "[ _ml_ ] Pouvez-vous croire que je suis heureux d'avoir échappé à tout ça? "
 
 # game/Cell01_ML.rpy:1032 #-#-# translate crowdin ML_DroneItem_RoomDevice01_MENU2_P3_f7cec54a:
 msgid "[_ml_] No."
-msgstr ""
+msgstr "[ _ml_ ] Non."
 
 # game/Cell01_ML.rpy:1034 #-#-# translate crowdin ML_DroneItem_RoomDevice01_MENU2_P3_3d3cb753:
 msgid "[_ml_] Just a few sex friend... nothing very original."
-msgstr ""
+msgstr "[ _ml_ ] Juste un ami sexuel ... rien de très original."
 
 # game/Cell01_ML.rpy:1036 #-#-# translate crowdin ML_DroneItem_RoomDevice01_MENU2_P3_d0ecd41e:
 msgid "[_ml_] Just enough to have something in my ass from time to time. "
-msgstr ""
+msgstr "[ _ml_ ] Juste assez pour avoir quelque chose dans mon cul de temps en temps. "
 
 # game/Cell01_ML.rpy:1038 #-#-# translate crowdin ML_DroneItem_RoomDevice01_MENU2_P3_5c9f7814:
 msgid "[_ml_] But I don't like people enough for more. "
-msgstr ""
+msgstr "[ _ml_ ] Mais je n'aime pas assez les gens pour plus. "
 
 # game/Cell01_ML.rpy:1040 #-#-# translate crowdin ML_DroneItem_RoomDevice01_MENU2_P3_9e705a27:
 msgid "[_ml_] I mean, it never happened."
-msgstr ""
+msgstr "[ _ml_ ] Je veux dire, ça ne s'est jamais produit."
 
 # game/Cell01_ML.rpy:1041 #-#-# translate crowdin ML_DroneItem_RoomDevice01_MENU2_P3_889f8422:
 msgid "[_u_] Yeah I see."
-msgstr ""
+msgstr "[ _u_ ] Oui, je vois."
 
 # game/Cell01_ML.rpy:1043 #-#-# translate crowdin ML_DroneItem_RoomDevice01_MENU2_P3_edf4bccb:
 msgid "[_ml_] I know it can be surprising ..."
-msgstr ""
+msgstr "[ _ml_ ] Je sais que ça peut être surprenant ..."
 
 # game/Cell01_ML.rpy:1045 #-#-# translate crowdin ML_DroneItem_RoomDevice01_MENU2_P3_cbfc232a:
 msgid "[_ml_] but I'm not very social."
-msgstr ""
+msgstr "[ _ml_ ] mais je ne suis pas très social."
 
 # game/Cell01_ML.rpy:1054 #-#-# translate crowdin ML_DroneItem_RoomDevice01_MENU2_P4_2d335e2e:
 msgid "[_ml_] Why?"
-msgstr ""
+msgstr "[ _ml_ ] Pourquoi?"
 
 # game/Cell01_ML.rpy:1056 #-#-# translate crowdin ML_DroneItem_RoomDevice01_MENU2_P4_682d2394:
 msgid "[_ml_] Isn't my ass perfect? "
-msgstr ""
+msgstr "[ _ml_ ] Mon cul n'est pas parfait? "
 
 # game/Cell01_ML.rpy:1057 #-#-# translate crowdin ML_DroneItem_RoomDevice01_MENU2_P4_0a3aebb2:
 msgid "[_u_] Oh don't worry, I'm not complaining. I'm just curious."
-msgstr ""
+msgstr "[ _u_ ] Oh ne vous inquiéte pas, je ne me plains pas. Je suis juste curieux."
 
 # game/Cell01_ML.rpy:1059 #-#-# translate crowdin ML_DroneItem_RoomDevice01_MENU2_P4_72427419:
 msgid "[_ml_] Actually, I think it's... stronger. "
-msgstr ""
+msgstr "[ _ml_ ] En fait, je pense que c'est. .. plus fort. "
 
 # game/Cell01_ML.rpy:1061 #-#-# translate crowdin ML_DroneItem_RoomDevice01_MENU2_P4_6baa5354:
 msgid "[_ml_] And it's tighter..."
-msgstr ""
+msgstr "[ _ml_ ] Et c'est plus serré ..."
 
 # game/Cell01_ML.rpy:1063 #-#-# translate crowdin ML_DroneItem_RoomDevice01_MENU2_P4_ea927617:
 msgid "[_ml_] And I know that people love my ass."
-msgstr ""
+msgstr "[ _ml_ ] Et je sais que les gens aiment mon cul."
 
 # game/Cell01_ML.rpy:1064 #-#-# translate crowdin ML_DroneItem_RoomDevice01_MENU2_P4_7a82bd8d:
 msgid "[_ml_] ..."
-msgstr ""
+msgstr "[ _ml_ ] ..."
 
 # game/Cell01_ML.rpy:1068 #-#-# translate crowdin ML_DroneItem_RoomDevice01_MENU2_P4_f3d3f76e:
 msgid "[_ml_] I know. "
-msgstr ""
+msgstr "[ _ml_ ] Je sais. "
 
 # game/Cell01_ML.rpy:1070 #-#-# translate crowdin ML_DroneItem_RoomDevice01_MENU2_P4_7ff72f4c:
 msgid "[_ml_] I've already had the opportunity to see how much you like it."
-msgstr ""
+msgstr "[ _ml_ ] J'ai déjà eu l'occasion de voir ce que tu aimes."
 
 # game/Cell01_ML.rpy:1073 #-#-# translate crowdin ML_DroneItem_RoomDevice01_MENU2_P4_7a82bd8d_1:
 msgid "[_ml_] ..."
-msgstr ""
+msgstr "[ _ml_ ] ..."
 
 # game/Cell01_ML.rpy:1080 #-#-# translate crowdin ML_DroneItem_RoomDevice01_MENU2_P4_5ef6ceb6:
 msgid "[_u_] Mh... "
-msgstr ""
+msgstr "[Mh... "
 
 # game/Cell01_ML.rpy:1081 #-#-# translate crowdin ML_DroneItem_RoomDevice01_MENU2_P4_5e048373:
 msgid "[_u_] Mmmmhhhh...."
-msgstr ""
+msgstr "[ _u_ ] Mmmmhhhh ...."
 
 # game/Cell01_ML.rpy:1082 #-#-# translate crowdin ML_DroneItem_RoomDevice01_MENU2_P4_7b1c1392:
 msgid "[_u_] ..."
@@ -1066,135 +1066,135 @@ msgstr "..."
 
 # game/Cell01_ML.rpy:1083 #-#-# translate crowdin ML_DroneItem_RoomDevice01_MENU2_P4_225f1d0d:
 msgid "[_u_] Yeah, that's a nice ass. "
-msgstr ""
+msgstr "[ _u_ ] Oui, c'est un joli cul. "
 
 # game/Cell01_ML.rpy:1084 #-#-# translate crowdin ML_DroneItem_RoomDevice01_MENU2_P4_84e240a3:
 msgid "[_ml_] Thank you."
-msgstr ""
+msgstr "[ _ml_ ] Merci."
 
 # game/Cell01_ML.rpy:1088 #-#-# translate crowdin ML_DroneItem_RoomDevice01_MENU2_P4_9fcd5b3c:
 msgid "[_ml_] But yeah, I don't understand why all women don't put things in their ass."
-msgstr ""
+msgstr "Mais oui, je ne comprends pas pourquoi toutes les femmes ne mettent pas les choses dans leur cul."
 
 # game/Cell01_ML.rpy:1090 #-#-# translate crowdin ML_DroneItem_RoomDevice01_MENU2_P4_3e34a6be:
 msgid "[_ml_] It's clearly better than the other stuff. "
-msgstr ""
+msgstr "[ _ml_ ] C'est nettement mieux que les autres trucs. "
 
 # game/Cell01_ML.rpy:1099 #-#-# translate crowdin ML_DroneItem_RoomDevice01_MENU2_P5_09410570:
 msgid "[_ml_] You really want to talk about work now? "
-msgstr ""
+msgstr "[ _ml_ ] Vous voulez vraiment parler de travail maintenant? "
 
 # game/Cell01_ML.rpy:1100 #-#-# translate crowdin ML_DroneItem_RoomDevice01_MENU2_P5_90007037:
 msgid "[_u_] I'm just curious."
-msgstr ""
+msgstr "[ _u_ ] Je suis juste curieux."
 
 # game/Cell01_ML.rpy:1102 #-#-# translate crowdin ML_DroneItem_RoomDevice01_MENU2_P5_d28dfca8:
 msgid "[_ml_] I'm trying to get a big part of the magic forest back on track. "
-msgstr ""
+msgstr "[ _ml_ ] J'essaie d'obtenir une grande partie de la forêt magique sur les rails. "
 
 # game/Cell01_ML.rpy:1104 #-#-# translate crowdin ML_DroneItem_RoomDevice01_MENU2_P5_ceb116f3:
 msgid "[_ml_] Since you managed to corrupt Snow White..."
-msgstr ""
+msgstr "[ _ml_ ] Depuis que vous avez réussi à corrompu Snow White ..."
 
 # game/Cell01_ML.rpy:1106 #-#-# translate crowdin ML_DroneItem_RoomDevice01_MENU2_P5_d3190ef0:
 msgid "[_ml_] ...We can start preparing to welcome people there one day. "
-msgstr ""
+msgstr "[ _ml_ ] ...Nous pouvons commencer à nous préparer à accueillir les gens là-bas un jour. "
 
 # game/Cell01_ML.rpy:1108 #-#-# translate crowdin ML_DroneItem_RoomDevice01_MENU2_P5_435d625b:
 msgid "[_ml_] There is still a lot of work to do. But the early days are encouraging. "
-msgstr ""
+msgstr "[ _ml_ ] Il y a encore beaucoup de travail à faire. Mais les premiers jours sont encourageants. "
 
 # game/Cell01_ML.rpy:1117 #-#-# translate crowdin ML_DroneItem_RoomDevice01_MENU2_P6_ab9fa5ec:
 msgid "[_ml_] Don't worry, I think I want to soak in a hot tub as much as you do."
-msgstr ""
+msgstr "[ _ml_ ] Ne vous inquiétez pas, je pense que je veux tremper dans un bain chaud autant que vous."
 
 # game/Cell01_ML.rpy:1119 #-#-# translate crowdin ML_DroneItem_RoomDevice01_MENU2_P6_4af00fbf:
 msgid "[_ml_] As soon as I have two or three unassigned drones, I send them to fix it. "
-msgstr ""
+msgstr "[ _ml_ ] Dès que j'ai deux ou trois drones non affectés, je les envoie pour le réparer. "
 
 # game/Cell01_ML.rpy:1120 #-#-# translate crowdin ML_DroneItem_RoomDevice01_MENU2_P6_4d73c46f:
 msgid "[_u_] Just saying... but Amandine told me that she was waiting for that too. "
-msgstr ""
+msgstr "[ _u_ ] Juste dire ... mais Amandine m'a dit qu'elle l'attendait aussi. "
 
 # game/Cell01_ML.rpy:1122 #-#-# translate crowdin ML_DroneItem_RoomDevice01_MENU2_P6_7a82bd8d:
 msgid "[_ml_] ..."
-msgstr ""
+msgstr "[ _ml_ ] ..."
 
 # game/Cell01_ML.rpy:1124 #-#-# translate crowdin ML_DroneItem_RoomDevice01_MENU2_P6_fd1d2c1b:
 msgid "[_ml_] Yes, I'll see if I can make things go faster."
-msgstr ""
+msgstr "[ _ml_ ] Oui, je vais voir si je peux rendre les choses plus rapides."
 
 # game/Cell01_ML.rpy:1133 #-#-# translate crowdin ML_DroneItem_RoomDevice01_MENU2_P7_f42fa789:
 msgid "[_ml_] Ahah I wouldn't want to take your job!"
-msgstr ""
+msgstr "[ _ml_ ] Ahah je ne voudrais pas prendre votre boulot !"
 
 # game/Cell01_ML.rpy:1135 #-#-# translate crowdin ML_DroneItem_RoomDevice01_MENU2_P7_2bba0443:
 msgid "[_ml_] And then, between you and Mrs. Blue... "
-msgstr ""
+msgstr "[ _ml_ ] Et puis, entre vous et Mme Blue ... "
 
 # game/Cell01_ML.rpy:1137 #-#-# translate crowdin ML_DroneItem_RoomDevice01_MENU2_P7_7e2689fb:
 msgid "[_ml_] I already have a lot of fun. "
-msgstr ""
+msgstr "[ _ml_ ] J'ai déjà beaucoup de plaisir. "
 
 # game/Cell01_ML.rpy:1139 #-#-# translate crowdin ML_DroneItem_RoomDevice01_MENU2_P7_24da6034:
 msgid "[_u_] What about the others?"
-msgstr ""
+msgstr "[ _u_ ] Qu'en est-il des autres?"
 
 # game/Cell01_ML.rpy:1141 #-#-# translate crowdin ML_DroneItem_RoomDevice01_MENU2_P7_dc5f7e89:
 msgid "[_ml_] The others? You mean Amandine, Amelia?..."
-msgstr ""
+msgstr "[ _ml_ ] Les autres? Vous voulez dire Amandine, Amelia? ..."
 
 # game/Cell01_ML.rpy:1142 #-#-# translate crowdin ML_DroneItem_RoomDevice01_MENU2_P7_a0e93244:
 msgid "[_u_] Or Tinker."
-msgstr ""
+msgstr "[ _u_ ] Ou Tinker."
 
 # game/Cell01_ML.rpy:1144 #-#-# translate crowdin ML_DroneItem_RoomDevice01_MENU2_P7_66fabad5:
 msgid "[_ml_] Ahah, never. "
-msgstr ""
+msgstr "[ _ml_ ] Ahah, jamais. "
 
 # game/Cell01_ML.rpy:1146 #-#-# translate crowdin ML_DroneItem_RoomDevice01_MENU2_P7_6fa02871:
 msgid "[_ml_] Nah, even if I could, I'm not going to sleep with my boss."
-msgstr ""
+msgstr "[ _ml_ ] Nah, même si je pouvais, je ne vais pas coucher avec mon patron."
 
 # game/Cell01_ML.rpy:1148 #-#-# translate crowdin ML_DroneItem_RoomDevice01_MENU2_P7_c8af6324:
 msgid "[_ml_] And Amelia... she clearly has an obsession with Tinker. "
-msgstr ""
+msgstr "[ _ml_ ] Et Amelia ... elle a clairement une obsession pour Tinker. "
 
 # game/Cell01_ML.rpy:1150 #-#-# translate crowdin ML_DroneItem_RoomDevice01_MENU2_P7_d86f38a9:
 msgid "[_ml_] I wouldn't want to get in the way of this... uhm... "
-msgstr ""
+msgstr "[ _ml_ ] Je ne voudrais pas entrer dans la façon de ça ... uhm ... "
 
 # game/Cell01_ML.rpy:1152 #-#-# translate crowdin ML_DroneItem_RoomDevice01_MENU2_P7_7fa7d8aa:
 msgid "[_ml_] ...Non-existent Relationship. Shall we say."
-msgstr ""
+msgstr "[ _ml_ ] ...Relation inexistante. On dit."
 
 # game/Cell01_ML.rpy:1161 #-#-# translate crowdin ML_DroneItem_RoomDevice01_MENU2_P8_a3a35b25:
 msgid "[_ml_] Well... If you want to do a foursome with her, Emee and I, I think I'm in! Ahah."
-msgstr ""
+msgstr "[ _ml_ ] Eh bien ... Si vous voulez faire une quarantaine avec elle, Emee et moi, je pense que je suis dans ! Ahah."
 
 # game/Cell01_ML.rpy:1163 #-#-# translate crowdin ML_DroneItem_RoomDevice01_MENU2_P8_b1b401e2:
 msgid "[_u_] Easy, don't scare her off. "
-msgstr ""
+msgstr "[ _u_ ] Facile, ne l'effrayer pas. "
 
 # game/Cell01_ML.rpy:1165 #-#-# translate crowdin ML_DroneItem_RoomDevice01_MENU2_P8_ebb5d708:
 msgid "[_ml_] What? "
-msgstr ""
+msgstr "[ _ml_ ] Quoi? "
 
 # game/Cell01_ML.rpy:1167 #-#-# translate crowdin ML_DroneItem_RoomDevice01_MENU2_P8_d4d09078:
 msgid "[_ml_] It's just a little fuck between colleagues."
-msgstr ""
+msgstr "[ _ml_ ] C'est juste un petit baiser entre collègues."
 
 # game/Cell01_ML.rpy:1169 #-#-# translate crowdin ML_DroneItem_RoomDevice01_MENU2_P8_4bcf5d84:
 msgid "[_u_] Yeah, but I'm not sure if this is a standard in the rest of the galaxy. "
-msgstr ""
+msgstr "[ _u_ ] Oui, mais je ne suis pas sûr qu'il s'agit d'une norme dans le reste de la galaxie. "
 
 # game/Cell01_ML.rpy:1171 #-#-# translate crowdin ML_DroneItem_RoomDevice01_MENU2_P8_2a9b2d08:
 msgid "[_ml_] It should be. "
-msgstr ""
+msgstr "[ _ml_ ] Il devrait l'être. "
 
 # game/Cell01_ML.rpy:1173 #-#-# translate crowdin ML_DroneItem_RoomDevice01_MENU2_P8_9086d5b1:
 msgid "[_ml_] However, I heard that she has a girlfriend."
-msgstr ""
+msgstr "[ _ml_ ] Cependant, j'ai entendu dire qu'elle avait une petite amie."
 
 # game/Cell01_ML.rpy:1174 #-#-# translate crowdin ML_DroneItem_RoomDevice01_MENU2_P8_7b1c1392:
 msgid "[_u_] ..."
@@ -1202,857 +1202,857 @@ msgstr "..."
 
 # game/Cell01_ML.rpy:1175 #-#-# translate crowdin ML_DroneItem_RoomDevice01_MENU2_P8_66c546d4:
 msgid "[_u_] Where did you hear that? "
-msgstr ""
+msgstr "[ _u_ ] Où as-tu entendu ça? "
 
 # game/Cell01_ML.rpy:1177 #-#-# translate crowdin ML_DroneItem_RoomDevice01_MENU2_P8_37dff441:
 msgid "[_ml_] I uh... read it... "
-msgstr ""
+msgstr "[ _ml_ ] Je l'ai lu ... "
 
 # game/Cell01_ML.rpy:1179 #-#-# translate crowdin ML_DroneItem_RoomDevice01_MENU2_P8_7c5abe4f:
 msgid "[_ml_] In a journal."
-msgstr ""
+msgstr "[ _ml_ ] Dans un journal."
 
 # game/Cell01_ML.rpy:1180 #-#-# translate crowdin ML_DroneItem_RoomDevice01_MENU2_P8_aa76623e:
 msgid "[_u_] You mean... The people magazine ''Gatactic Famous''?"
-msgstr ""
+msgstr "[ _u_ ] Vous voulez dire ... Le magazine \"Gatactic Famous\"?"
 
 # game/Cell01_ML.rpy:1182 #-#-# translate crowdin ML_DroneItem_RoomDevice01_MENU2_P8_373689d5:
 msgid "[_ml_] Yes."
-msgstr ""
+msgstr "[ _ml_ ] Oui."
 
 # game/Cell01_ML.rpy:1183 #-#-# translate crowdin ML_DroneItem_RoomDevice01_MENU2_P8_7bda9dac:
 msgid "[_u_] She came here to the other end of the galaxy and left everything behind... "
-msgstr ""
+msgstr "[ _u_ ] Elle est venue ici à l'autre bout de la galaxie et a tout laissé derrière ... "
 
 # game/Cell01_ML.rpy:1185 #-#-# translate crowdin ML_DroneItem_RoomDevice01_MENU2_P8_294fddb6:
 msgid "[_u_] I'd be surprised if she was anyone."
-msgstr ""
+msgstr "[ _u_ ] Je serais surprise si elle était quelqu'un."
 
 # game/Cell01_ML.rpy:1187 #-#-# translate crowdin ML_DroneItem_RoomDevice01_MENU2_P8_c6d50109:
 msgid "[_ml_] If you really want to know, go ask her!"
-msgstr ""
+msgstr "[ _ml_ ] Si vous voulez vraiment savoir, allez lui demander !"
 
 # game/Cell01_ML.rpy:1200 #-#-# translate crowdin ML_DroneItem_RoomDevice01_MENU2_P8_17eed012:
 msgid "[_u_] But thanks for the conversation. "
-msgstr ""
+msgstr "[ _u_ ] Mais merci pour la conversation. "
 
 # game/Cell01_ML.rpy:1213 #-#-# translate crowdin ML_DroneItem_RoomDevice01_MENU2_P8_9ab6edad:
 msgid "[_ml_] Do you often invite girls into your room so quickly?"
-msgstr ""
+msgstr "[ _ml_ ] Vous invitez-vous souvent des filles dans votre chambre si rapidement?"
 
 # game/Cell01_ML.rpy:1214 #-#-# translate crowdin ML_DroneItem_RoomDevice01_MENU2_P8_b1d790bb:
 msgid "[_u_] Uh, well..."
-msgstr ""
+msgstr "[ _u_ ] Euh, eh bien ..."
 
 # game/Cell01_ML.rpy:1215 #-#-# translate crowdin ML_DroneItem_RoomDevice01_MENU2_P8_5cf0b1f7:
 msgid "[_ml_] It's okay, I'm just kidding!"
-msgstr ""
+msgstr "[ _ml_ ] C'est bon, je plaisante !"
 
 # game/Cell01_ML.rpy:1216 #-#-# translate crowdin ML_DroneItem_RoomDevice01_MENU2_P8_0cf27ef2:
 msgid "[_ml_] And frankly, you already put your dick in my android ass, we're not going to start being shy are we? "
-msgstr ""
+msgstr "[ _ml_ ] Et franchement, tu as déjà mis ta bite dans mon cul androïde, on ne va pas commencer à être timide? "
 
 # game/Cell01_ML.rpy:1217 #-#-# translate crowdin ML_DroneItem_RoomDevice01_MENU2_P8_80de0fb2:
 msgid "[_u_] Is this an invitation? "
-msgstr ""
+msgstr "[ _u_ ] Est-ce une invitation? "
 
 # game/Cell01_ML.rpy:1218 #-#-# translate crowdin ML_DroneItem_RoomDevice01_MENU2_P8_7a82bd8d:
 msgid "[_ml_] ..."
-msgstr ""
+msgstr "[ _ml_ ] ..."
 
 # game/Cell01_ML.rpy:1223 #-#-# translate crowdin Quest_LY_Favor_Boobs01_Meli01_7f38ab83:
 msgid "[_ml_] Wow, that's definitely not in my skill set. "
-msgstr ""
+msgstr "[ _ml_ ] Wow, ce n'est absolument pas dans mon jeu de compétences. "
 
 # game/Cell01_ML.rpy:1225 #-#-# translate crowdin Quest_LY_Favor_Boobs01_Meli01_7881ed6a:
 msgid "[_ml_] You should see this with Amandine or Emee."
-msgstr ""
+msgstr "[ _ml_ ] Vous devriez voir ça avec Amandine ou Emee."
 
 # game/Cell01_ML.rpy:1230 #-#-# translate crowdin Quest_JM_Favor_Ask2_Meli_36fc3a4d:
 msgid "[_ml_] What? Are you tired of banging my ass in my lab?"
-msgstr ""
+msgstr "[ _ml_ ] Quoi? Es-tu fatigué de frapper mon cul dans mon labo?"
 
 # game/Cell01_ML.rpy:1231 #-#-# translate crowdin Quest_JM_Favor_Ask2_Meli_ce602d96:
 msgid "[_u_] Not at all, no."
-msgstr ""
+msgstr "[ _u_ ] Pas du tout, non."
 
 # game/Cell01_ML.rpy:1233 #-#-# translate crowdin Quest_JM_Favor_Ask2_Meli_87a35b59:
 msgid "[_ml_] Good."
-msgstr ""
+msgstr "[ _ml_ ] Bien."
 
 # game/Cell01_ML.rpy:1234 #-#-# translate crowdin Quest_JM_Favor_Ask2_Meli_1b62c570:
 msgid "[_u_] It's for Jasmine's corruption, I have to ask all the employees."
-msgstr ""
+msgstr "[ _u_ ] C'est pour la corruption de Jasmine, je dois demander à tous les employés."
 
 # game/Cell01_ML.rpy:1236 #-#-# translate crowdin Quest_JM_Favor_Ask2_Meli_12994b06:
 msgid "[_ml_] Oh... uh let's see... "
-msgstr ""
+msgstr "[ _ml_ ] Oh ... uh voyons ... "
 
 # game/Cell01_ML.rpy:1238 #-#-# translate crowdin Quest_JM_Favor_Ask2_Meli_d065c4d9:
 msgid "[_ml_] My biggest sexual fantasy..."
-msgstr ""
+msgstr "[ _ml_ ] Mon plus grand fantasme sexuel ..."
 
 # game/Cell01_ML.rpy:1240 #-#-# translate crowdin Quest_JM_Favor_Ask2_Meli_8da318cb:
 msgid "[_ml_] Well... when I was young... I used to dream of fucking a rock star."
-msgstr ""
+msgstr "[ _ml_ ] Eh bien ... quand j'étais jeune ... J'ai rêver de putain de rock star."
 
 # game/Cell01_ML.rpy:1241 #-#-# translate crowdin Quest_JM_Favor_Ask2_Meli_a35682ae:
 msgid "[_u_] Oh... "
-msgstr ""
+msgstr "[ _u_ ] Oh ... "
 
 # game/Cell01_ML.rpy:1242 #-#-# translate crowdin Quest_JM_Favor_Ask2_Meli_c32a950f:
 msgid "[_u_] Which instrument? Guitarist? Singer? Bassist? Drummer?"
-msgstr ""
+msgstr "[ _u_ ] Quel instrument? Guitariste? Singer? Bassiste? Tambour?"
 
 # game/Cell01_ML.rpy:1244 #-#-# translate crowdin Quest_JM_Favor_Ask2_Meli_7a82bd8d:
 msgid "[_ml_] ..."
-msgstr ""
+msgstr "[ _ml_ ] ..."
 
 # game/Cell01_ML.rpy:1245 #-#-# translate crowdin Quest_JM_Favor_Ask2_Meli_373689d5:
 msgid "[_ml_] Yes."
-msgstr ""
+msgstr "[ _ml_ ] Oui."
 
 # game/Cell01_ML.rpy:1247 #-#-# translate crowdin Quest_JM_Favor_Ask2_Meli_7b62e202:
 msgid "[_ml_] But anyway... I never made it. "
-msgstr ""
+msgstr "[ _ml_ ] Mais de toute façon ... Je ne l'ai jamais fait. "
 
 # game/Cell01_ML.rpy:1249 #-#-# translate crowdin Quest_JM_Favor_Ask2_Meli_2a78f77d:
 msgid "[_ml_] You... wouldn't secretly be a famous singer in a rock band? "
-msgstr ""
+msgstr "[ _ml_ ] Tu ... ne serait pas un chanteur célèbre dans un groupe de rock? "
 
 # game/Cell01_ML.rpy:1250 #-#-# translate crowdin Quest_JM_Favor_Ask2_Meli_0e9dac5f:
 msgid "[_u_] Not that I know of. "
-msgstr ""
+msgstr "[ _u_ ] Pas que je sache. "
 
 # game/Cell01_ML.rpy:1252 #-#-# translate crowdin Quest_JM_Favor_Ask2_Meli_d2a1250c:
 msgid "[_ml_] Yup... So I can confirm that this is my sexual fantasy!"
-msgstr ""
+msgstr "[ _ml_ ] Yup ... Je peux confirmer que c'est mon fantasme sexuel !"
 
 # game/Cell01_ML.rpy:1257 #-#-# translate crowdin Quest_JM_Favor_Ask2_Meli_86b59053:
 msgid "[_u_] Ok great, only [Quest_JM_Favor_Ask2_Number] more employees to question."
-msgstr ""
+msgstr "[_u_] Ok, super, plus que [Quest_JM_Favor_Ask2_Number] d'employés à interroger."
 
 # game/Cell01_ML.rpy:1263 #-#-# translate crowdin Quest_JM_Favor_Ask2_Meli_f332ab9b:
 msgid "[_ml_] Do you need anything else? "
-msgstr ""
+msgstr "[ _ml_ ] Avez-vous besoin d'autre chose? "
 
 # game/Cell01_ML.rpy:1282 #-#-# translate crowdin ML_SherazadeClothes01_01_7a82bd8d:
 msgid "[_ml_] ..."
-msgstr ""
+msgstr "[ _ml_ ] ..."
 
 # game/Cell01_ML.rpy:1284 #-#-# translate crowdin ML_SherazadeClothes01_01_3f570970:
 msgid "[_ml_] Hi."
-msgstr ""
+msgstr "[ _ml_ ] Salut."
 
 # game/Cell01_ML.rpy:1285 #-#-# translate crowdin ML_SherazadeClothes01_01_5313191d:
 msgid "[_u_] Lovely outfit."
-msgstr ""
+msgstr "[ _u_ ] Lovely imfit."
 
 # game/Cell01_ML.rpy:1287 #-#-# translate crowdin ML_SherazadeClothes01_01_6a4cb6d1:
 msgid "[_ml_] Yeah... I was trying on my harem outfit. "
-msgstr ""
+msgstr "[ _ml_ ] Ouais ... J'essayais sur mon harem outfit. "
 
 # game/Cell01_ML.rpy:1289 #-#-# translate crowdin ML_SherazadeClothes01_01_aba1ad86:
 msgid "[_ml_] What do you think of it?"
-msgstr ""
+msgstr "[ _ml_ ] Qu'en penses-tu?"
 
 # game/Cell01_ML.rpy:1290 #-#-# translate crowdin ML_SherazadeClothes01_01_a98d9253:
 msgid "[_u_] Very nice. I'm a big fan of transparency"
-msgstr ""
+msgstr "[ _u_ ] Très bien. Je suis un grand fan de transparence"
 
 # game/Cell01_ML.rpy:1292 #-#-# translate crowdin ML_SherazadeClothes01_01_4599f639:
 msgid "[_ml_] Yeah, me too. "
-msgstr ""
+msgstr "[ _ml_ ] Oui, moi aussi. "
 
 # game/Cell01_ML.rpy:1294 #-#-# translate crowdin ML_SherazadeClothes01_01_54c4115f:
 msgid "[_ml_] Now, are you going to tell me what you're doing here..."
-msgstr ""
+msgstr "[ _ml_ ] Maintenant, tu vas me dire ce que tu fais ici ..."
 
 # game/Cell01_ML.rpy:1296 #-#-# translate crowdin ML_SherazadeClothes01_01_058e5150:
 msgid "[_ml_] ...or do you want to keep looking at my tits? "
-msgstr ""
+msgstr "[ _ml_ ] ... ou voulez-vous continuer à regarder mes seins? "
 
 # game/Cell01_ML.rpy:1300 #-#-# translate crowdin ML_SherazadeClothes01_02_1a80ebab:
 msgid "[_u_] We need to pick up Scheherazade's clothes and bring them back here. "
-msgstr ""
+msgstr "[ _u_ ] Nous avons besoin de ramasser les vêtements de Scheherazade et de les ramener ici. "
 
 # game/Cell01_ML.rpy:1302 #-#-# translate crowdin ML_SherazadeClothes01_02_c671c555:
 msgid "[_ml_] Sounds pretty simple..."
-msgstr ""
+msgstr "[ _ml_ ] C'est assez simple ..."
 
 # game/Cell01_ML.rpy:1304 #-#-# translate crowdin ML_SherazadeClothes01_02_e91602b0:
 msgid "[_ml_] But I'm a bit overwhelmed at the moment... "
-msgstr ""
+msgstr "[ _ml_ ] Mais je suis un peu dépassé en ce moment ... "
 
 # game/Cell01_ML.rpy:1306 #-#-# translate crowdin ML_SherazadeClothes01_02_4669b79d:
 msgid "[_ml_] We're currently setting up the entire Magic Forest area!"
-msgstr ""
+msgstr "[ _ml_ ] Nous sommes en train de mettre en place l'ensemble de la zone de la forêt magique !"
 
 # game/Cell01_ML.rpy:1308 #-#-# translate crowdin ML_SherazadeClothes01_02_e3e8f583:
 msgid "[_ml_] It's a cool job... but it's very time-consuming. "
-msgstr ""
+msgstr "[ _ml_ ] C'est un boulot cool ... mais ça prend beaucoup de temps. "
 
 # game/Cell01_ML.rpy:1313 #-#-# translate crowdin ML_SherazadeClothes01_02_e8df0170:
 msgid "[_ml_] Yeah, since you've corrupted Snow White, we're preparing this area for its reopening!"
-msgstr ""
+msgstr "[ _ml_ ] Ouais, depuis que vous avez corrompu Snow White, nous préparons cette zone pour sa réouverture !"
 
 # game/Cell01_ML.rpy:1315 #-#-# translate crowdin ML_SherazadeClothes01_02_44679ac6:
 msgid "[_ml_] Well... it's complicated, but we're struggling with some of the details. "
-msgstr ""
+msgstr "[ _ml_ ] Bien ... c'est compliqué, mais nous sommes aux prises avec certains détails. "
 
 # game/Cell01_ML.rpy:1317 #-#-# translate crowdin ML_SherazadeClothes01_02_acbaf7dd:
 msgid "[_ml_] Maybe we'll ask you to go back to corrupting Snow White a bit... "
-msgstr ""
+msgstr "[ _ml_ ] Peut-être que nous vous demanderons de retourner à corromting Snow White un peu ... "
 
 # game/Cell01_ML.rpy:1319 #-#-# translate crowdin ML_SherazadeClothes01_02_510c17ba:
 msgid "[_ml_] Anyway, Tinker will tell you more when the time comes!"
-msgstr ""
+msgstr "[ _ml_ ] Quoi qu'il en soit, Tinker vous dira plus quand le moment viendra !"
 
 # game/Cell01_ML.rpy:1321 #-#-# translate crowdin ML_SherazadeClothes01_02_1ddf3a79:
 msgid "[_u_] I'm going to feel like I'm going back to an old booty call... what a strange feeling. "
-msgstr ""
+msgstr "[ _u_ ] Je vais me sentir comme si je retournais à un vieux coup de butin ... quel étrange sentiment. "
 
 # game/Cell01_ML.rpy:1323 #-#-# translate crowdin ML_SherazadeClothes01_02_a29b8068:
 msgid "[_ml_] I know what you mean."
-msgstr ""
+msgstr "[ _ml_ ] Je sais ce que tu veux dire."
 
 # game/Cell01_ML.rpy:1328 #-#-# translate crowdin ML_SherazadeClothes01_02_5fed4b71:
 msgid "[_ml_] I'll program your drone to pick it up."
-msgstr ""
+msgstr "[ _ml_ ] Je vais programmer votre drone pour le ramasser."
 
 # game/Cell01_ML.rpy:1330 #-#-# translate crowdin ML_SherazadeClothes01_02_c86b1caa:
 msgid "[_ml_] As soon as you have it, it will automatically be delivered to Lycoris. "
-msgstr ""
+msgstr "[ _ml_ ] Dès que vous l'avez, il sera livré automatiquement à Lycoris. "
 
 # game/Cell01_ML.rpy:1331 #-#-# translate crowdin ML_SherazadeClothes01_02_120b6850:
 msgid "[_u_] Great! Thanks a lot!"
-msgstr ""
+msgstr "[ _u_ ] Grand ! Merci beaucoup !"
 
 # game/Cell01_ML.rpy:1333 #-#-# translate crowdin ML_SherazadeClothes01_02_08e63fe2:
 msgid "[_ml_] And uh... any news on Emee?"
-msgstr ""
+msgstr "[ _ml_ ] Et euh ... toute nouvelle sur Emee?"
 
 # game/Cell01_ML.rpy:1335 #-#-# translate crowdin ML_SherazadeClothes01_02_7ba2e5c6:
 msgid "[_ml_] I mean... how's she doing with the brothel recruitment? "
-msgstr ""
+msgstr "[ _ml_ ] Je veux dire ... comment elle fait avec le recrutement de bordel? "
 
 # game/Cell01_ML.rpy:1336 #-#-# translate crowdin ML_SherazadeClothes01_02_05626c5d:
 msgid "[_u_] Why's that? Are you looking forward to the opening? "
-msgstr ""
+msgstr "[ _u_ ] Pourquoi? Tu te réjouis de l'ouverture? "
 
 # game/Cell01_ML.rpy:1338 #-#-# translate crowdin ML_SherazadeClothes01_02_d7e9ac07:
 msgid "[_ml_] Uh... I... "
-msgstr ""
+msgstr "[ _ml_ ] Uh ... I. .. "
 
 # game/Cell01_ML.rpy:1340 #-#-# translate crowdin ML_SherazadeClothes01_02_b9be3729:
 msgid "[_ml_] Anyway, did you want anything else? "
-msgstr ""
+msgstr "[ _ml_ ] Quoi qu'il en soit, as-tu voulu quoi que ce soit d'autre? "
 
 # game/Cell01_ML.rpy:1360 #-#-# translate crowdin ML_Melissandre_Dress02REACTION_2c1b0d5b:
 msgid "[_ml_] Hey... I hear you're the one who made me this lovely outfit. "
-msgstr ""
+msgstr "[ _ml_ ] Hé ... J'ai entendu que vous êtes celui qui m'a fait cette belle tenue. "
 
 # game/Cell01_ML.rpy:1362 #-#-# translate crowdin ML_Melissandre_Dress02REACTION_c7d5f491:
 msgid "[_u_] Yup, heard you needed it. "
-msgstr ""
+msgstr "[ _u_ ] Yup, entendu que vous en avez besoin. "
 
 # game/Cell01_ML.rpy:1364 #-#-# translate crowdin ML_Melissandre_Dress02REACTION_0ff801c6:
 msgid "[_ml_] You're so adorable..."
-msgstr ""
+msgstr "[ _ml_ ] Vous êtes si adorable ..."
 
 # game/Cell01_ML.rpy:1366 #-#-# translate crowdin ML_Melissandre_Dress02REACTION_baeb4120:
 msgid "[_ml_] This stuff makes my boobs look amazing!"
-msgstr ""
+msgstr "[ _ml_ ] Ce truc rend mes seins incroyables !"
 
 # game/Cell01_ML.rpy:1368 #-#-# translate crowdin ML_Melissandre_Dress02REACTION_8a97acb7:
 msgid "[_ml_] I look like I have an extra breast size! It's magical ahah"
-msgstr ""
+msgstr "[ _ml_ ] J'ai l'air d'avoir une taille de poitrine supplémentaire ! C'est une ahah magique"
 
 # game/Cell01_ML.rpy:1370 #-#-# translate crowdin ML_Melissandre_Dress02REACTION_a88e1740:
 msgid "[_ml_] Was it lycoris who made the blueprint?"
-msgstr ""
+msgstr "[ _ml_ ] Est-ce que c'était lycoris qui a fait le plan?"
 
 # game/Cell01_ML.rpy:1371 #-#-# translate crowdin ML_Melissandre_Dress02REACTION_46698d44:
 msgid "[_u_] Exactly."
-msgstr ""
+msgstr "[_u_] Exactement."
 
 # game/Cell01_ML.rpy:1373 #-#-# translate crowdin ML_Melissandre_Dress02REACTION_02459f7b:
 msgid "[_ml_] Well... this chick is really good."
-msgstr ""
+msgstr "[ _ml_ ] Eh bien ... ce poussin est vraiment bon."
 
 # game/Cell01_ML.rpy:1375 #-#-# translate crowdin ML_Melissandre_Dress02REACTION_570077b5:
 msgid "[_ml_] Anyway, did you want something else, pretty boy? "
-msgstr ""
+msgstr "[ _ml_ ] Quoi qu'il en soit, tu voulais quelque chose d'autre, joli garçon? "
 
 # game/Cell01_ML.rpy:1380 #-#-# translate crowdin Melissandre_Change_OutfitSpe01_a24102be:
 msgid "[_u_] Do you have anything more nude?"
-msgstr ""
+msgstr "[ _u_ ] Avez-vous quelque chose de plus nude?"
 
 # game/Cell01_ML.rpy:1383 #-#-# translate crowdin Melissandre_Change_OutfitSpe01_8a5c3ea7:
 msgid "[_ml_] What? More naked than that one?"
-msgstr ""
+msgstr "[ _ml_ ] Quoi? Plus nue que ça?"
 
 # game/Cell01_ML.rpy:1385 #-#-# translate crowdin Melissandre_Change_OutfitSpe01_50e7d563:
 msgid "[_ml_] Oh yeah... "
-msgstr ""
+msgstr "[ _ml_ ] Oh oui ... "
 
 # game/Cell01_ML.rpy:1387 #-#-# translate crowdin Melissandre_Change_OutfitSpe01_40f65b5c:
 msgid "[_ml_] I think I can find that for you. "
-msgstr ""
+msgstr "[ _ml_ ] Je pense que je peux trouver ça pour toi. "
 
 # game/Cell01_ML.rpy:1394 #-#-# translate crowdin Melissandre_Change_OutfitSpe01_8e4c1b96:
 msgid "[_ml_] Do you think this one might work? "
-msgstr ""
+msgstr "[ _ml_ ] Pensez-vous que celui-ci pourrait fonctionner? "
 
 # game/Cell01_ML.rpy:1395 #-#-# translate crowdin Melissandre_Change_OutfitSpe01_2b73820e:
 msgid "[_u_] I think I'd love to see you like this every day!"
-msgstr ""
+msgstr "[ _u_ ] Je pense que j'aimerais vous voir comme ça tous les jours !"
 
 # game/Cell01_ML.rpy:1397 #-#-# translate crowdin Melissandre_Change_OutfitSpe01_47f024ac:
 msgid "[_ml_] Strangely enough, I'm not surprised. "
-msgstr ""
+msgstr "[ _ml_ ] Étrangement, je ne suis pas surpris. "
 
 # game/Cell01_ML.rpy:1399 #-#-# translate crowdin Melissandre_Change_OutfitSpe01_a7bc5183:
 msgid "[_ml_] But I don't think that..."
-msgstr ""
+msgstr "[ _ml_ ] Mais je ne pense pas que ..."
 
 # game/Cell01_ML.rpy:1406 #-#-# translate crowdin Melissandre_Change_OutfitSpe01_eda9b44b:
 msgid "[_tb_] Hey Meli, I'm having a problem with the... "
-msgstr ""
+msgstr "[ _tb_ ] Hey Meli, j'ai un problème avec le ... "
 
 # game/Cell01_ML.rpy:1409 #-#-# translate crowdin Melissandre_Change_OutfitSpe01_05d56d8e:
 msgid "[_tb_] ..."
-msgstr ""
+msgstr "[..."
 
 # game/Cell01_ML.rpy:1410 #-#-# translate crowdin Melissandre_Change_OutfitSpe01_7a82bd8d:
 msgid "[_ml_] ..."
-msgstr ""
+msgstr "[ _ml_ ] ..."
 
 # game/Cell01_ML.rpy:1412 #-#-# translate crowdin Melissandre_Change_OutfitSpe01_70e3c288:
 msgid "[_tb_] Am I interrupting something?"
-msgstr ""
+msgstr "[ _tb_ ] Est-ce que j'interrompai quelque chose?"
 
 # game/Cell01_ML.rpy:1414 #-#-# translate crowdin Melissandre_Change_OutfitSpe01_a5b7d7f7:
 msgid "[_ml_] No..."
-msgstr ""
+msgstr "[ _ml_ ] Non."
 
 # game/Cell01_ML.rpy:1416 #-#-# translate crowdin Melissandre_Change_OutfitSpe01_4c18f2ea:
 msgid "[_tb_] If you have another orgy without me, I'm going to kill you... "
-msgstr ""
+msgstr "[ _tb_ ] Si vous avez une autre orgie sans moi, je vais vous tuer ... "
 
 # game/Cell01_ML.rpy:1417 #-#-# translate crowdin Melissandre_Change_OutfitSpe01_5e751c9c:
 msgid "[_u_] No, Tinker, we're not having an orgy. "
-msgstr ""
+msgstr "[ _u_ ] Non, Tinker, on n'a pas d'orgie. "
 
 # game/Cell01_ML.rpy:1419 #-#-# translate crowdin Melissandre_Change_OutfitSpe01_be81b6f7:
 msgid "[_tb_] Good."
-msgstr ""
+msgstr "[ _tb_ ] Bien."
 
 # game/Cell01_ML.rpy:1426 #-#-# translate crowdin Melissandre_Change_OutfitSpe01_bd355e53:
 msgid "[_ml_] I wouldn't have said no to an orgy."
-msgstr ""
+msgstr "[ _ml_ ] Je n'aurais pas dit non à une orgie."
 
 # game/Cell01_ML.rpy:1428 #-#-# translate crowdin Melissandre_Change_OutfitSpe01_bf565c48:
 msgid "[_u_] An orgy with our boss is a bit strange, don't you think? "
-msgstr ""
+msgstr "[ _u_ ] Une orgie avec notre patron est un peu étrange, ne pensez-vous pas? "
 
 # game/Cell01_ML.rpy:1430 #-#-# translate crowdin Melissandre_Change_OutfitSpe01_e62a9170:
 msgid "[_ml_] I was referring to Emee or Lycoris... "
-msgstr ""
+msgstr "[ _ml_ ] Je me référais à Emee ou Lycoris ... "
 
 # game/Cell01_ML.rpy:1432 #-#-# translate crowdin Melissandre_Change_OutfitSpe01_c82d778c:
 msgid "[_ml_] ...or Amandine."
-msgstr ""
+msgstr "[ _ml_ ] ... ou Amandine."
 
 # game/Cell01_ML.rpy:1433 #-#-# translate crowdin Melissandre_Change_OutfitSpe01_5df0af2c:
 msgid "[_u_] Stop making me hard! "
-msgstr ""
+msgstr "[ _u_ ] Arras de me faire du mal ! "
 
 # game/Cell01_ML.rpy:1435 #-#-# translate crowdin Melissandre_Change_OutfitSpe01_16c38465:
 msgid "[_ml_] Ehehe..."
-msgstr ""
+msgstr "[ _ml_ ] Ehehe ..."
 
 # game/Cell01_ML.rpy:1442 #-#-# translate crowdin Melissandre_Change_OutfitSpe01_b9be3729:
 msgid "[_ml_] Anyway, did you want anything else? "
-msgstr ""
+msgstr "[ _ml_ ] Quoi qu'il en soit, as-tu voulu quoi que ce soit d'autre? "
 
 # game/Cell01_ML.rpy:1448 #-#-# translate crowdin Quest_ML_Talk_SnowWhite01_01_18a902ef:
 msgid "[_ml_] No, I have absolutely no idea. "
-msgstr ""
+msgstr "[ _ml_ ] Non, je n'ai absolument aucune idée. "
 
 # game/Cell01_ML.rpy:1450 #-#-# translate crowdin Quest_ML_Talk_SnowWhite01_01_5e6d2132:
 msgid "[_ml_] And frankly, it's quite strange. "
-msgstr ""
+msgstr "[ _ml_ ] Et franchement, c'est assez étrange. "
 
 # game/Cell01_ML.rpy:1452 #-#-# translate crowdin Quest_ML_Talk_SnowWhite01_01_fef4416b:
 msgid "[_ml_] I remember checking her stats a few weeks ago, and this 10/10 wasn't there. "
-msgstr ""
+msgstr "[ _ml_ ] Je me souviens avoir vérifié ses statistiques il y a quelques semaines, et ce 10/10 n'était pas là. "
 
 # game/Cell01_ML.rpy:1454 #-#-# translate crowdin Quest_ML_Talk_SnowWhite01_01_465374ef:
 msgid "[_ml_] My theory is that someone had fun making a kind of... experiment on her. "
-msgstr ""
+msgstr "[ _ml_ ] Ma théorie est que quelqu'un s'est amusé à faire une sorte de ... expérience sur elle. "
 
 # game/Cell01_ML.rpy:1455 #-#-# translate crowdin Quest_ML_Talk_SnowWhite01_01_4919775b:
 msgid "[_u_] Ah? Who could have done that? "
-msgstr ""
+msgstr "[ _u_ ] Ah? Qui aurait pu faire ça? "
 
 # game/Cell01_ML.rpy:1457 #-#-# translate crowdin Quest_ML_Talk_SnowWhite01_01_dd8a907c:
 msgid "[_ml_] No one. Nobody has the skills to do this kind of thing. "
-msgstr ""
+msgstr "[ _ml_ ] Personne. Personne n'a les compétences pour faire ce genre de choses. "
 
 # game/Cell01_ML.rpy:1459 #-#-# translate crowdin Quest_ML_Talk_SnowWhite01_01_71a3bbc3:
 msgid "[_ml_] Especially since it seems to have worked, Snow White can really see who's lying!"
-msgstr ""
+msgstr "[ _ml_ ] Surtout puisqu'il semble avoir travaillé, Snow White peut vraiment voir qui ment !"
 
 # game/Cell01_ML.rpy:1461 #-#-# translate crowdin Quest_ML_Talk_SnowWhite01_01_3489a239:
 msgid "[_ml_] This is high-level robotic programming. Especially with this planet's unique code system."
-msgstr ""
+msgstr "[ _ml_ ] Il s'agit d'une programmation robotique de haut niveau. Surtout avec le système de code unique de cette planète."
 
 # game/Cell01_ML.rpy:1463 #-#-# translate crowdin Quest_ML_Talk_SnowWhite01_01_66d774c8:
 msgid "[_ml_] I'll try to search a little more, but I don't have much hope."
-msgstr ""
+msgstr "[ _ml_ ] Je vais essayer de chercher un peu plus, mais je n'ai pas beaucoup d'espoir."
 
 # game/Cell01_ML.rpy:1465 #-#-# translate crowdin Quest_ML_Talk_SnowWhite01_01_8b0c0a7d:
 msgid "[_ml_] Do you want to know what I think? There's something fishy about it. "
-msgstr ""
+msgstr "[ _ml_ ] Voulez-vous savoir ce que je pense? Il y a quelque chose de loueur. "
 
 # game/Cell01_ML.rpy:1467 #-#-# translate crowdin Quest_ML_Talk_SnowWhite01_01_d2202f25:
 msgid "[_ml_] Anyway, Do you need anything else? "
-msgstr ""
+msgstr "[ _ml_ ] En tout cas, avez-vous besoin d'autre chose? "
 
 # game/Cell01_ML.rpy:1473 #-#-# translate crowdin Ml_Ali_01_01_332c2a31:
 msgid "[_ml_] ?"
-msgstr ""
+msgstr "[ _ml_ ]?"
 
 # game/Cell01_ML.rpy:1474 #-#-# translate crowdin Ml_Ali_01_01_de038971:
 msgid "[_u_] About her new body or something."
-msgstr ""
+msgstr "[ _u_ ] A propos de son nouveau corps ou quelque chose."
 
 # game/Cell01_ML.rpy:1476 #-#-# translate crowdin Ml_Ali_01_01_7e2b3379:
 msgid "[_ml_] Nah... I told her I needed 2 character datas... "
-msgstr ""
+msgstr "[ _ml_ ] Nah ... Je lui ai dit que j'avais besoin de 2 ... "
 
 # game/Cell01_ML.rpy:1478 #-#-# translate crowdin Ml_Ali_01_01_c912ad1c:
 msgid "[_ml_] She asked you to do it, didn't she? "
-msgstr ""
+msgstr "[ _ml_ ] Elle vous a demandé de le faire, n'est-ce pas? "
 
 # game/Cell01_ML.rpy:1479 #-#-# translate crowdin Ml_Ali_01_01_2c7097bb:
 msgid "[_u_] That's right."
-msgstr ""
+msgstr "[C'est vrai."
 
 # game/Cell01_ML.rpy:1481 #-#-# translate crowdin Ml_Ali_01_01_114dc36a:
 msgid "[_ml_] And you accept without saying anything? "
-msgstr ""
+msgstr "[ _ml_ ] Et vous acceptez sans rien dire? "
 
 # game/Cell01_ML.rpy:1483 #-#-# translate crowdin Ml_Ali_01_01_f99795de:
 msgid "[_ml_] Is it because she has big boobs that you say yes to everything? "
-msgstr ""
+msgstr "[ _ml_ ] C'est parce qu'elle a de gros seins que tu dis oui à tout? "
 
 # game/Cell01_ML.rpy:1484 #-#-# translate crowdin Ml_Ali_01_01_649ea636:
 msgid "[_u_] I don't particularly say no to you and yet you don't have very big breasts. "
-msgstr ""
+msgstr "[ _u_ ] Je ne vous dis pas particulièrement non, et pourtant vous n'avez pas de gros seins. "
 
 # game/Cell01_ML.rpy:1486 #-#-# translate crowdin Ml_Ali_01_01_930baec9:
 msgid "[_ml_] Uhh..."
-msgstr ""
+msgstr "[ _ml_ ] Uhh ..."
 
 # game/Cell01_ML.rpy:1488 #-#-# translate crowdin Ml_Ali_01_01_d6ca211c:
 msgid "[_ml_] Thanks."
-msgstr ""
+msgstr "[ _ml_ ] Merci."
 
 # game/Cell01_ML.rpy:1490 #-#-# translate crowdin Ml_Ali_01_01_7bc661be:
 msgid "[_ml_] I guess?"
-msgstr ""
+msgstr "[ _ml_ ] Je suppose?"
 
 # game/Cell01_ML.rpy:1497 #-#-# translate crowdin Ml_Ali_01_01_menu1_15f2f5d3:
 msgid "[_ml_] Absolutely."
-msgstr ""
+msgstr "[ _ml_ ] Absolument."
 
 # game/Cell01_ML.rpy:1499 #-#-# translate crowdin Ml_Ali_01_01_menu1_0869acbb:
 msgid "[_ml_] And you can move from one body to another by thought. That's pretty handy. "
-msgstr ""
+msgstr "[ _ml_ ] Et vous pouvez passer d'un corps à un autre par la pensée. C'est plutôt pratique. "
 
 # game/Cell01_ML.rpy:1500 #-#-# translate crowdin Ml_Ali_01_01_menu1_5ad7fe82:
 msgid "[_u_] You could create yourself a second body... That's crazy!"
-msgstr ""
+msgstr "[ _u_ ] Vous pourriez créer un second corps ... C'est fou !"
 
 # game/Cell01_ML.rpy:1502 #-#-# translate crowdin Ml_Ali_01_01_menu1_41649a02:
 msgid "[_ml_] What? You got something on your mind? "
-msgstr ""
+msgstr "[ _ml_ ] Quoi? Vous avez quelque chose dans votre esprit? "
 
 # game/Cell01_ML.rpy:1504 #-#-# translate crowdin Ml_Ali_01_01_menu1_dddf9950:
 msgid "[_ml_] Do you want me to turn into anyone in particular? "
-msgstr ""
+msgstr "[ _ml_ ] Voulez-vous que je me tourne vers qui que ce soit en particulier? "
 
 # game/Cell01_ML.rpy:1506 #-#-# translate crowdin Ml_Ali_01_01_menu1_cd5c0b05:
 msgid "[_ml_] A fantasy to be fulfilled, perhaps? "
-msgstr ""
+msgstr "[ _ml_ ] Un fantasme à réaliser, peut-être? "
 
 # game/Cell01_ML.rpy:1507 #-#-# translate crowdin Ml_Ali_01_01_menu1_e863ca0a:
 msgid "[_u_] Uuumhh..."
-msgstr ""
+msgstr "[ _u_ ] Uuumhh ..."
 
 # game/Cell01_ML.rpy:1508 #-#-# translate crowdin Ml_Ali_01_01_menu1_1f4c8b70:
 msgid "[_u_] Wow... so many possibilities... "
-msgstr ""
+msgstr "[ _u_ ] Wow ... autant de possibilités ... "
 
 # game/Cell01_ML.rpy:1510 #-#-# translate crowdin Ml_Ali_01_01_menu1_f3d3f76e:
 msgid "[_ml_] I know. "
-msgstr ""
+msgstr "[ _ml_ ] Je sais. "
 
 # game/Cell01_ML.rpy:1512 #-#-# translate crowdin Ml_Ali_01_01_menu1_597c08ed:
 msgid "[_ml_] Anyway, body changes aren't really my thing. "
-msgstr ""
+msgstr "[ _ml_ ] Quoi qu'il en soit, les changements corporels ne sont pas vraiment mon truc. "
 
 # game/Cell01_ML.rpy:1514 #-#-# translate crowdin Ml_Ali_01_01_menu1_21022ace:
 msgid "[_ml_] I prefer to be myself in this android body."
-msgstr ""
+msgstr "[ _ml_ ] Je préfère être moi-même dans ce corps androïde."
 
 # game/Cell01_ML.rpy:1516 #-#-# translate crowdin Ml_Ali_01_01_menu1_dff5788d:
 msgid "[_ml_] If it means anything."
-msgstr ""
+msgstr "[ _ml_ ] Si cela signifie quelque chose."
 
 # game/Cell01_ML.rpy:1521 #-#-# translate crowdin Ml_Ali_01_01_menu1_aae40c1e:
 msgid "[_ml_] She wants to fuck Tinker."
-msgstr ""
+msgstr "[ _ml_ ] Elle veut baiser Tinker."
 
 # game/Cell01_ML.rpy:1523 #-#-# translate crowdin Ml_Ali_01_01_menu1_ea9f5048:
 msgid "[_ml_] Well... she thinks it's more likely to happen if she's her size."
-msgstr ""
+msgstr "[ _ml_ ] Eh bien ... elle pense que c'est plus susceptible de se produire si elle est de sa taille."
 
 # game/Cell01_ML.rpy:1525 #-#-# translate crowdin Ml_Ali_01_01_menu1_34540a58:
 msgid "[_ml_] Hope is everything, as they say. "
-msgstr ""
+msgstr "[ _ml_ ] L'espoir est tout, comme ils disent. "
 
 # game/Cell01_ML.rpy:1531 #-#-# translate crowdin Ml_Ali_01_01_menu1_d14308e4:
 msgid "[_ml_] And... Speaking of not refusing my requests... "
-msgstr ""
+msgstr "[ _ml_ ] Et ... Parler de ne pas refuser mes demandes ... "
 
 # game/Cell01_ML.rpy:1533 #-#-# translate crowdin Ml_Ali_01_01_menu1_d8c56bd8:
 msgid "[_ml_] While doing some research, I realized that the machines I have here are absolutely incapable of creating fairy wings."
-msgstr ""
+msgstr "[ _ml_ ] En effectuant quelques recherches, j'ai réalisé que les machines que j'ai ici sont absolument incapables de créer des ailes de fées."
 
 # game/Cell01_ML.rpy:1534 #-#-# translate crowdin Ml_Ali_01_01_menu1_c2f9ac28:
 msgid "[_u_] So... you want me to bring you a machine to create some? "
-msgstr ""
+msgstr "[ _u_ ] Donc ... vous voulez que je vous apporte une machine pour en créer? "
 
 # game/Cell01_ML.rpy:1536 #-#-# translate crowdin Ml_Ali_01_01_menu1_538aabcf:
 msgid "[_ml_] No, I want you to find some fairy wings. "
-msgstr ""
+msgstr "[ _ml_ ] Non, je veux que tu troues des ailes de fées. "
 
 # game/Cell01_ML.rpy:1538 #-#-# translate crowdin Ml_Ali_01_01_menu1_6e5f97da:
 msgid "[_ml_] I clearly don't have the time to understand how a machine like this works."
-msgstr ""
+msgstr "[ _ml_ ] Je n'ai clairement pas le temps de comprendre comment une machine comme celle-ci fonctionne."
 
 # game/Cell01_ML.rpy:1539 #-#-# translate crowdin Ml_Ali_01_01_menu1_cc19d2b3:
 msgid "[_u_] And uh... do you have any idea how I find that? "
-msgstr ""
+msgstr "[ _u_ ] Et euh ... tu as une idée de comment je trouve ça? "
 
 # game/Cell01_ML.rpy:1541 #-#-# translate crowdin Ml_Ali_01_01_menu1_7a82bd8d:
 msgid "[_ml_] ..."
-msgstr ""
+msgstr "[ _ml_ ] ..."
 
 # game/Cell01_ML.rpy:1542 #-#-# translate crowdin Ml_Ali_01_01_menu1_ffdf46a9:
 msgid "[_u_] With the drone, I suppose? "
-msgstr ""
+msgstr "[ _u_ ] Avec le drone, je suppose? "
 
 # game/Cell01_ML.rpy:1544 #-#-# translate crowdin Ml_Ali_01_01_menu1_ac5bb0cf:
 msgid "[_ml_] Yep."
-msgstr ""
+msgstr "[ _ml_ ] Yep."
 
 # game/Cell01_ML.rpy:1546 #-#-# translate crowdin Ml_Ali_01_01_menu1_121c454c:
 msgid "[_ml_] I'm going to reactivate the +5 boosts on sale, which will be easier for you. "
-msgstr ""
+msgstr "[ _ml_ ] Je vais réactiver le + 5 boosts en vente, ce qui sera plus facile pour vous. "
 
 # game/Cell01_ML.rpy:1548 #-#-# translate crowdin Ml_Ali_01_01_menu1_c0c5495e:
 msgid "[_ml_] Here, I've got some to give you if you need them. "
-msgstr ""
+msgstr "[ _ml_ ] Ici, j'ai quelques à vous donner si vous en avez besoin. "
 
 # game/Cell01_ML.rpy:1557 #-#-# translate crowdin Ml_Ali_01_01_menu1_02238c49:
 msgid "[_u_] That's very kind of you! "
-msgstr ""
+msgstr "[ _u_ ] C'est très gentil de vous ! "
 
 # game/Cell01_ML.rpy:1559 #-#-# translate crowdin Ml_Ali_01_01_menu1_88833bf8:
 msgid "[_ml_] Anyway, bring me two characters datas and the wings and then we'll deal with Amelia's fantasy. "
-msgstr ""
+msgstr "[ _ml_ ] En tout cas, amenez-moi deux personnages datas et les ailes et ensuite nous traiterons avec le fantasme d'Amelia. "
 
 # game/Cell01_ML.rpy:1561 #-#-# translate crowdin Ml_Ali_01_01_menu1_9a4b1b0b:
 msgid "[_ml_] See ya!"
-msgstr ""
+msgstr "[ _ml_ ] Voir ya !"
 
 # game/Cell01_ML.rpy:1575 #-#-# translate crowdin Ml_Ali_01_05_29bf4e0a:
 msgid "[_u_] I think I have everything."
-msgstr ""
+msgstr "[Je crois que j'ai tout."
 
 # game/Cell01_ML.rpy:1577 #-#-# translate crowdin Ml_Ali_01_05_b5290dbd:
 msgid "[_ml_] Perfect! Now we can give our dear secretary a little hope. "
-msgstr ""
+msgstr "[ _ml_ ] Parfait ! Maintenant, nous pouvons donner un peu d'espoir à notre cher secrétaire. "
 
 # game/Cell01_ML.rpy:1579 #-#-# translate crowdin Ml_Ali_01_05_ee9df212:
 msgid "[_ml_] And then, I'll be able to try out whether this ''Multiple Body'' technique is safe. "
-msgstr ""
+msgstr "[ _ml_ ] Et puis, je vais pouvoir essayer de savoir si cette technique \"Multiple Body\" est sûre. "
 
 # game/Cell01_ML.rpy:1581 #-#-# translate crowdin Ml_Ali_01_05_00e4de45:
 msgid "[_ml_] If it works. We can make a lot of things with it... "
-msgstr ""
+msgstr "[ _ml_ ] Si elle fonctionne. On peut faire beaucoup de choses avec ça ... "
 
 # game/Cell01_ML.rpy:1583 #-#-# translate crowdin Ml_Ali_01_05_44cfbc40:
 msgid "[_ml_] And uhm... this is just between us but... "
-msgstr ""
+msgstr "[ _ml_ ] Et uhm ... c'est juste entre nous, mais ... "
 
 # game/Cell01_ML.rpy:1585 #-#-# translate crowdin Ml_Ali_01_05_641c0dfa:
 msgid "[_ml_] I think Tinker seemed very interested."
-msgstr ""
+msgstr "[ _ml_ ] Je pense que Tinker semblait très intéressé."
 
 # game/Cell01_ML.rpy:1586 #-#-# translate crowdin Ml_Ali_01_05_eccd718c:
 msgid "[_u_] Oh? "
-msgstr ""
+msgstr "[ _u_ ] Oh? "
 
 # game/Cell01_ML.rpy:1588 #-#-# translate crowdin Ml_Ali_01_05_f57dee15:
 msgid "[_u_] Do you think Tinker would want a second body? "
-msgstr ""
+msgstr "[ _u_ ] Pensez-vous que Tinker voudrait un second corps? "
 
 # game/Cell01_ML.rpy:1590 #-#-# translate crowdin Ml_Ali_01_05_e8b57f6b:
 msgid "[_ml_] I have no idea."
-msgstr ""
+msgstr "[ _ml_ ] Je n'ai aucune idée."
 
 # game/Cell01_ML.rpy:1592 #-#-# translate crowdin Ml_Ali_01_05_e52d6b34:
 msgid "[_ml_] But maybe. "
-msgstr ""
+msgstr "[ _ml_ ] Mais peut-être. "
 
 # game/Cell01_ML.rpy:1594 #-#-# translate crowdin Ml_Ali_01_05_65995520:
 msgid "[_ml_] Anyway, thanks again for your help. "
-msgstr ""
+msgstr "[ _ml_ ] En tout cas, merci encore pour votre aide. "
 
 # game/Cell01_ML.rpy:1596 #-#-# translate crowdin Ml_Ali_01_05_7dbd273e:
 msgid "[_ml_] Is there anything else you need?"
-msgstr ""
+msgstr "[ _ml_ ] Y a-t-il autre chose dont vous avez besoin?"
 
 # §translate crowdin strings: #|#|# # game/Cell01_ML.rpy:77
 msgid "{color=#3ad8ff}About the items I need to bring you...{/color}"
-msgstr ""
+msgstr "{ color=#3ad8ff} A propos des éléments dont j'ai besoin pour vous apporter ... { /color }"
 
 # game/Cell01_ML.rpy:77
 msgid "{color=#3ad8ff}Amelia said you needed my help?{/color}"
-msgstr ""
+msgstr "{ color=#3ad8ff} Amelia a dit que vous avez besoin de mon aide? { /color }"
 
 # game/Cell01_ML.rpy:77
 msgid "{color=#3ad8ff}Do you know who changed Snow White's stats?{/color}"
-msgstr ""
+msgstr "{ color=#3ad8ff} Savez-vous qui a changé les statistiques de Snow White? { /color }"
 
 # game/Cell01_ML.rpy:77
 msgid "{color=#3ad8ff}Lycrois could use your help{/color} "
-msgstr ""
+msgstr "{ color=#3ad8ff} Lycrois peut utiliser votre aide { /color } "
 
 # game/Cell01_ML.rpy:77
 msgid "{color=#3ad8ff}Can you make me a golden hair pick?{/color}"
-msgstr ""
+msgstr "{ color=#3ad8ff} Pouvez-vous me faire un choix de cheveux doré? { /color }"
 
 # game/Cell01_ML.rpy:77
 msgid " {color=#f45fed}So, What do you think of my room?{/color} "
-msgstr ""
+msgstr " { color=#f45fed} Alors, que pensez-vous de ma chambre? { /color } "
 
 # game/Cell01_ML.rpy:77
 msgid " {color=#f45fed}I have a strange device in my room{/color} "
-msgstr ""
+msgstr " { color=#f45fed} J'ai un périphérique étrange dans ma chambre { /color } "
 
 # game/Cell01_ML.rpy:77
 msgid "$ Leave "
-msgstr ""
+msgstr "$ Congé "
 
 # game/Cell01_ML.rpy:171
 msgid "$How are you doing? {image=heart04.png}"
-msgstr ""
+msgstr "$How faites-vous? { image=heart04.png }"
 
 # game/Cell01_ML.rpy:171
 msgid "${color=#636363}How long will it take to fix this place?{/color}"
-msgstr ""
+msgstr "$ { color=#636363} Combien de temps faudra-t-il pour corriger cet endroit? { /color }"
 
 # game/Cell01_ML.rpy:171
 msgid "${color=#636363}So, you're an android?{/color}"
-msgstr ""
+msgstr "$ { color=#636363} Donc, vous êtes un androïde? { /color }"
 
 # game/Cell01_ML.rpy:371
 msgid "Grab her by the hair"
-msgstr ""
+msgstr "Grab-sa par les cheveux"
 
 # game/Cell01_ML.rpy:371
 msgid "Go gently"
-msgstr ""
+msgstr "Va doucement"
 
 # game/Cell01_ML.rpy:452
 msgid "Continue harder"
-msgstr ""
+msgstr "Continuer plus dur"
 
 # game/Cell01_ML.rpy:452
 msgid "Continue smoothly"
-msgstr ""
+msgstr "Continuer en douceur"
 
 # game/Cell01_ML.rpy:527
 msgid "// Basic Meli"
-msgstr ""
+msgstr "// Meli de base"
 
 # game/Cell01_ML.rpy:527
 msgid "// Basic Meli V2"
-msgstr ""
+msgstr "// Meli de base V2"
 
 # game/Cell01_ML.rpy:527
 msgid "{color=#3ad8ff}// Basic Meli V2 ???{/color}"
-msgstr ""
+msgstr "{ color=#3ad8ff}// Basic Meli V2? ?? { /color }"
 
 # game/Cell01_ML.rpy:527
 msgid "// Mechano Outfit"
-msgstr ""
+msgstr "// Mechano Outfit"
 
 # game/Cell01_ML.rpy:567
 msgid "Hairstyle 01 ''Basic''"
-msgstr ""
+msgstr "Hairstyle 01 '' Basic''"
 
 # game/Cell01_ML.rpy:567
 msgid "Hairstyle 01 ''Basic''(v2)"
-msgstr ""
+msgstr "Hairstyle 01 '' Basic''(v2)"
 
 # game/Cell01_ML.rpy:567
 msgid "Hairstyle 01 ''Basic''(v3)"
-msgstr ""
+msgstr "Hairstyle 01 '' Basic''(v3)"
 
 # game/Cell01_ML.rpy:567
 msgid "Hairstyle 02 ''Double Buns''"
-msgstr ""
+msgstr "Hairstyle 02 '' Double Buns''"
 
 # game/Cell01_ML.rpy:567
 msgid "Hairstyle 01 ''Double Buns''(v2)"
-msgstr ""
+msgstr "Hairstyle 01 '' Double Buns''(v2)"
 
 # game/Cell01_ML.rpy:653
 msgid "Ok no problem"
-msgstr ""
+msgstr "Ok aucun problème"
 
 # game/Cell01_ML.rpy:653
 msgid "No idea what it is"
-msgstr ""
+msgstr "Aucune idée de ce qu'elle est"
 
 # game/Cell01_ML.rpy:779
 msgid "You're welcome"
-msgstr ""
+msgstr "Vous êtes les bienvenus"
 
 # game/Cell01_ML.rpy:779
 msgid "What was that? "
-msgstr ""
+msgstr "Qu'est-ce que c'était? "
 
 # game/Cell01_ML.rpy:884
 msgid "{color=#3ad8ff}Thank you Meli{/color}"
-msgstr ""
+msgstr "{ color=#3ad8ff} Merci Meli { /color }"
 
 # game/Cell01_ML.rpy:884
 msgid "What do you think of my room? "
-msgstr ""
+msgstr "Qu'est-ce que tu penses de ma chambre? "
 
 # game/Cell01_ML.rpy:884
 msgid "{color=#797979}What do you think of my room?{/color} "
-msgstr ""
+msgstr "{ color=#797979} Que pensez-vous de ma chambre? { /color } "
 
 # game/Cell01_ML.rpy:884
 msgid "{color=#f45fed}Why were you in debt?{/color} "
-msgstr ""
+msgstr "{ color=#f45fed} Pourquoi avez-vous été endette? { /color } "
 
 # game/Cell01_ML.rpy:929
 msgid "{color=#f45fed}I want to know everything so badly{/color}"
-msgstr ""
+msgstr "{ color=#f45fed} Je veux tout savoir si mal { /color }"
 
 # game/Cell01_ML.rpy:929
 msgid "{color=#f45fed}No thanks, I'm going back to work{/color} "
-msgstr ""
+msgstr "{ color=#f45fed} Non merci, je vais retourner au travail { /color } "
 
 # game/Cell01_ML.rpy:985
 msgid "{color=#f45fed}What is this debt thing?{/color} "
-msgstr ""
+msgstr "{ color=#f45fed} Quelle est cette dette? { /color } "
 
 # game/Cell01_ML.rpy:985
 msgid "{color=#797979}What is this debt thing?{/color} "
-msgstr ""
+msgstr "{ color=#797979} Quelle est cette dette? { /color } "
 
 # game/Cell01_ML.rpy:985
 msgid "{color=#f45fed}So, this debt thing?{/color} "
-msgstr ""
+msgstr "{ color=#f45fed} Donc, cette dette? { /color } "
 
 # game/Cell01_ML.rpy:985
 msgid "{color=#797979}So, this debt thing?{/color} "
-msgstr ""
+msgstr "{ color=#797979} Donc, cette dette? { /color } "
 
 # game/Cell01_ML.rpy:985
 msgid "{color=#f45fed}No boyfriends back then?{/color}"
-msgstr ""
+msgstr "{ color=#f45fed} Aucun petit ami à l'époque? { /color }"
 
 # game/Cell01_ML.rpy:985
 msgid "{color=#797979}No boyfriends back then?{/color} "
-msgstr ""
+msgstr "{ color=#797979} Aucun petit ami à l'époque? { /color } "
 
 # game/Cell01_ML.rpy:985
 msgid "{color=#f45fed}Why do you like anal so much?{/color} "
-msgstr ""
+msgstr "{ color=#f45fed} Pourquoi vous aimez tant anal? { /color } "
 
 # game/Cell01_ML.rpy:985
 msgid "{color=#797979}Why do you like anal so much?{/color} "
-msgstr ""
+msgstr "{ color=#797979} Pourquoi vous aimez tant anal? { /color } "
 
 # game/Cell01_ML.rpy:985
 msgid "{color=#f45fed}What are you working on at the moment?{/color} "
-msgstr ""
+msgstr "{ color=#f45fed} Qu'est-ce que vous utilisez pour le moment? { /color } "
 
 # game/Cell01_ML.rpy:985
 msgid "{color=#f45fed}And about the jacuzzi...{/color} "
-msgstr ""
+msgstr "{ color=#f45fed} Et sur le jacuzzi ... { /color } "
 
 # game/Cell01_ML.rpy:985
 msgid "{color=#797979}And about the jacuzzi...{/color} "
-msgstr ""
+msgstr "{ color=#797979} Et sur le jacuzzi ... { /color } "
 
 # game/Cell01_ML.rpy:985
 msgid "{color=#f45fed}Have you ever tried it with an android?{/color} "
-msgstr ""
+msgstr "{ color=#f45fed} Avez-vous déjà essayé avec un androïde? { /color } "
 
 # game/Cell01_ML.rpy:985
 msgid "{color=#797979}Have you ever tried it with an android?{/color} "
-msgstr ""
+msgstr "{ color=#797979} Avez-vous déjà essayé avec un androïde? { /color } "
 
 # game/Cell01_ML.rpy:985
 msgid "{color=#f45fed}And Amandine?{/color} "
-msgstr ""
+msgstr "{ color=#f45fed} et Amandine? { /color } "
 
 # game/Cell01_ML.rpy:985
 msgid "{color=#797979}And Amandine?{/color} "
-msgstr ""
+msgstr "{ color=#797979} et Amandine? { /color } "
 
 # game/Cell01_ML.rpy:985
 msgid "I have to go back to work"
-msgstr ""
+msgstr "Je dois retourner au travail"
 
 # game/Cell01_ML.rpy:1065
 msgid "Yeah, your ass is pretty good"
-msgstr ""
+msgstr "Ouais, ton cul est plutôt bon"
 
 # game/Cell01_ML.rpy:1065
 msgid "Maybe if I saw it again... "
-msgstr ""
+msgstr "Peut-être que si je le revoyais ... "
 
 # game/Cell01_ML.rpy:1310
 msgid "The Magic Forest area?"
-msgstr ""
+msgstr "La zone de la forêt magique?"
 
 # game/Cell01_ML.rpy:1310
 msgid "{color=#3ad8ff}What do I have to do?{/color}"
-msgstr ""
+msgstr "{ color=#3ad8ff} Que dois-je faire? { /color }"
 
 # game/Cell01_ML.rpy:1494
 msgid "So... androids can have several bodies? "
-msgstr ""
+msgstr "Donc ... les androïdes peuvent avoir plusieurs corps? "
 
 # game/Cell01_ML.rpy:1494
 msgid "Why does Amelia want this body? "
-msgstr ""
+msgstr "Pourquoi Amelia veut ce corps? "
 
 # game/Cell01_ML.rpy:1494
 msgid "{color=#3ad8ff}I'll get you your characters datas{/color}"
-msgstr ""
+msgstr "{ color=#3ad8ff} I'll get you your caractères datas { /color }"
 
