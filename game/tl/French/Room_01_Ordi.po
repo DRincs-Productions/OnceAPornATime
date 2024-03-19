@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-03-19 16:10\n"
+"PO-Revision-Date: 2024-03-19 17:20\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Room_01_Ordi.rpy:7 #-#-# translate crowdin room01_ordi01_In_f3a4608f:
 msgid "[_u_] Let's try to open that door first."
@@ -22,7 +22,7 @@ msgstr "Videz votre boîte aux lettres avant d'acheter de nouveaux articles"
 
 # game/Room_01_Ordi.rpy:295 #-#-# translate crowdin room01_ordi01_achat_objets_b1e9a2b8:
 msgid " ==ERROR== You don't have enough money. "
-msgstr " ==ERROR== Vous n'avez pas assez d'argent. "
+msgstr " ==ERREUR== Vous n'avez pas assez d'argent. "
 
 # game/Room_01_Ordi.rpy:301 #-#-# translate crowdin room01_ordi01_achat_objets_c3ee7682:
 msgid "== THANK YOU FOR YOUR PURCHASE! =="
@@ -34,7 +34,7 @@ msgstr "== TÉLÉCHARGEMENT DE DONNÉES ! =="
 
 # game/Room_01_Ordi.rpy:307 #-#-# translate crowdin room01_ordi01_achat_objets_b1e9a2b8_1:
 msgid " ==ERROR== You don't have enough money. "
-msgstr " ==ERROR== Vous n'avez pas assez d'argent. "
+msgstr " ==ERREUR== Vous n'avez pas assez d'argent. "
 
 # game/Room_01_Ordi.rpy:313 #-#-# translate crowdin room01_ordi01_achat_objets_c3ee7682_1:
 msgid "== THANK YOU FOR YOUR PURCHASE! =="
@@ -46,7 +46,7 @@ msgstr "== TÉLÉCHARGEMENT DE DONNÉES ! =="
 
 # game/Room_01_Ordi.rpy:319 #-#-# translate crowdin room01_ordi01_achat_objets_b1e9a2b8_2:
 msgid " ==ERROR== You don't have enough money. "
-msgstr " ==ERROR== Vous n'avez pas assez d'argent. "
+msgstr " ==ERREUR== Vous n'avez pas assez d'argent. "
 
 # game/Room_01_Ordi.rpy:326 #-#-# translate crowdin room01_ordi01_achat_objets_c3ee7682_2:
 msgid "== THANK YOU FOR YOUR PURCHASE! =="
@@ -58,7 +58,7 @@ msgstr "== Vous recevrez votre commande bientôt ! =="
 
 # game/Room_01_Ordi.rpy:333 #-#-# translate crowdin room01_ordi01_achat_objets_b1e9a2b8_3:
 msgid " ==ERROR== You don't have enough money. "
-msgstr " ==ERROR== Vous n'avez pas assez d'argent. "
+msgstr " ==ERREUR== Vous n'avez pas assez d'argent. "
 
 # game/Room_01_Ordi.rpy:340 #-#-# translate crowdin room01_ordi01_achat_objets_c3ee7682_3:
 msgid "== THANK YOU FOR YOUR PURCHASE! =="
@@ -70,7 +70,7 @@ msgstr "== Vous recevrez votre commande bientôt ! =="
 
 # game/Room_01_Ordi.rpy:347 #-#-# translate crowdin room01_ordi01_achat_objets_b1e9a2b8_4:
 msgid " ==ERROR== You don't have enough money. "
-msgstr " ==ERROR== Vous n'avez pas assez d'argent. "
+msgstr " ==ERREUR== Vous n'avez pas assez d'argent. "
 
 # game/Room_01_Ordi.rpy:354 #-#-# translate crowdin room01_ordi01_achat_objets_c3ee7682_4:
 msgid "== THANK YOU FOR YOUR PURCHASE! =="
@@ -82,7 +82,7 @@ msgstr "== Vous recevrez votre commande bientôt ! =="
 
 # game/Room_01_Ordi.rpy:376 #-#-# translate crowdin room01_ordi01_achat_objetsGifts_b1e9a2b8:
 msgid " ==ERROR== You don't have enough money. "
-msgstr " ==ERROR== Vous n'avez pas assez d'argent. "
+msgstr " ==ERREUR== Vous n'avez pas assez d'argent. "
 
 # game/Room_01_Ordi.rpy:383 #-#-# translate crowdin room01_ordi01_achat_objetsGifts_c3ee7682:
 msgid "== THANK YOU FOR YOUR PURCHASE! =="
@@ -94,7 +94,7 @@ msgstr "== Vous recevrez votre commande bientôt ! =="
 
 # game/Room_01_Ordi.rpy:389 #-#-# translate crowdin room01_ordi01_achat_objetsGifts_b1e9a2b8_1:
 msgid " ==ERROR== You don't have enough money. "
-msgstr " ==ERROR== Vous n'avez pas assez d'argent. "
+msgstr " ==ERREUR== Vous n'avez pas assez d'argent. "
 
 # game/Room_01_Ordi.rpy:396 #-#-# translate crowdin room01_ordi01_achat_objetsGifts_c3ee7682_1:
 msgid "== THANK YOU FOR YOUR PURCHASE! =="
@@ -106,7 +106,7 @@ msgstr "== Vous recevrez votre commande bientôt ! =="
 
 # game/Room_01_Ordi.rpy:402 #-#-# translate crowdin room01_ordi01_achat_objetsGifts_b1e9a2b8_2:
 msgid " ==ERROR== You don't have enough money. "
-msgstr " ==ERROR== Vous n'avez pas assez d'argent. "
+msgstr " ==ERREUR== Vous n'avez pas assez d'argent. "
 
 # game/Room_01_Ordi.rpy:409 #-#-# translate crowdin room01_ordi01_achat_objetsGifts_c3ee7682_2:
 msgid "== THANK YOU FOR YOUR PURCHASE! =="
@@ -118,7 +118,7 @@ msgstr "== Vous recevrez votre commande bientôt ! =="
 
 # game/Room_01_Ordi.rpy:415 #-#-# translate crowdin room01_ordi01_achat_objetsGifts_b1e9a2b8_3:
 msgid " ==ERROR== You don't have enough money. "
-msgstr " ==ERROR== Vous n'avez pas assez d'argent. "
+msgstr " ==ERREUR== Vous n'avez pas assez d'argent. "
 
 # game/Room_01_Ordi.rpy:422 #-#-# translate crowdin room01_ordi01_achat_objetsGifts_c3ee7682_3:
 msgid "== THANK YOU FOR YOUR PURCHASE! =="
@@ -130,7 +130,7 @@ msgstr "== Vous recevrez votre commande bientôt ! =="
 
 # game/Room_01_Ordi.rpy:436 #-#-# translate crowdin room01_ordi01_achat_DroneStore_b1e9a2b8:
 msgid " ==ERROR== You don't have enough money. "
-msgstr " ==ERROR== Vous n'avez pas assez d'argent. "
+msgstr " ==ERREUR== Vous n'avez pas assez d'argent. "
 
 # game/Room_01_Ordi.rpy:443 #-#-# translate crowdin room01_ordi01_achat_DroneStore_c3ee7682:
 msgid "== THANK YOU FOR YOUR PURCHASE! =="
@@ -142,7 +142,7 @@ msgstr "== Vous recevrez votre commande bientôt ! =="
 
 # game/Room_01_Ordi.rpy:449 #-#-# translate crowdin room01_ordi01_achat_DroneStore_b1e9a2b8_1:
 msgid " ==ERROR== You don't have enough money. "
-msgstr " ==ERROR== Vous n'avez pas assez d'argent. "
+msgstr " ==ERREUR== Vous n'avez pas assez d'argent. "
 
 # game/Room_01_Ordi.rpy:456 #-#-# translate crowdin room01_ordi01_achat_DroneStore_c3ee7682_1:
 msgid "== THANK YOU FOR YOUR PURCHASE! =="
@@ -154,7 +154,7 @@ msgstr "== Vous recevrez votre commande bientôt ! =="
 
 # game/Room_01_Ordi.rpy:462 #-#-# translate crowdin room01_ordi01_achat_DroneStore_b1e9a2b8_2:
 msgid " ==ERROR== You don't have enough money. "
-msgstr " ==ERROR== Vous n'avez pas assez d'argent. "
+msgstr " ==ERREUR== Vous n'avez pas assez d'argent. "
 
 # game/Room_01_Ordi.rpy:469 #-#-# translate crowdin room01_ordi01_achat_DroneStore_c3ee7682_2:
 msgid "== THANK YOU FOR YOUR PURCHASE! =="
@@ -166,7 +166,7 @@ msgstr "== Vous recevrez votre commande bientôt ! =="
 
 # game/Room_01_Ordi.rpy:483 #-#-# translate crowdin room01_ordi01_achat_FurnitureStore_b1e9a2b8:
 msgid " ==ERROR== You don't have enough money. "
-msgstr " ==ERROR== Vous n'avez pas assez d'argent. "
+msgstr " ==ERREUR== Vous n'avez pas assez d'argent. "
 
 # game/Room_01_Ordi.rpy:490 #-#-# translate crowdin room01_ordi01_achat_FurnitureStore_c3ee7682:
 msgid "== THANK YOU FOR YOUR PURCHASE! =="
@@ -174,7 +174,7 @@ msgstr "== MERCI POUR VOTRE ACHAT ! =="
 
 # game/Room_01_Ordi.rpy:495 #-#-# translate crowdin room01_ordi01_achat_FurnitureStore_b1e9a2b8_1:
 msgid " ==ERROR== You don't have enough money. "
-msgstr " ==ERROR== Vous n'avez pas assez d'argent. "
+msgstr " ==ERREUR== Vous n'avez pas assez d'argent. "
 
 # game/Room_01_Ordi.rpy:502 #-#-# translate crowdin room01_ordi01_achat_FurnitureStore_c3ee7682_1:
 msgid "== THANK YOU FOR YOUR PURCHASE! =="
@@ -182,7 +182,7 @@ msgstr "== MERCI POUR VOTRE ACHAT ! =="
 
 # game/Room_01_Ordi.rpy:507 #-#-# translate crowdin room01_ordi01_achat_FurnitureStore_b1e9a2b8_2:
 msgid " ==ERROR== You don't have enough money. "
-msgstr " ==ERROR== Vous n'avez pas assez d'argent. "
+msgstr " ==ERREUR== Vous n'avez pas assez d'argent. "
 
 # game/Room_01_Ordi.rpy:514 #-#-# translate crowdin room01_ordi01_achat_FurnitureStore_c3ee7682_2:
 msgid "== THANK YOU FOR YOUR PURCHASE! =="
@@ -190,7 +190,7 @@ msgstr "== MERCI POUR VOTRE ACHAT ! =="
 
 # game/Room_01_Ordi.rpy:519 #-#-# translate crowdin room01_ordi01_achat_FurnitureStore_b1e9a2b8_3:
 msgid " ==ERROR== You don't have enough money. "
-msgstr " ==ERROR== Vous n'avez pas assez d'argent. "
+msgstr " ==ERREUR== Vous n'avez pas assez d'argent. "
 
 # game/Room_01_Ordi.rpy:526 #-#-# translate crowdin room01_ordi01_achat_FurnitureStore_c3ee7682_3:
 msgid "== THANK YOU FOR YOUR PURCHASE! =="
@@ -198,7 +198,7 @@ msgstr "== MERCI POUR VOTRE ACHAT ! =="
 
 # game/Room_01_Ordi.rpy:531 #-#-# translate crowdin room01_ordi01_achat_FurnitureStore_b1e9a2b8_4:
 msgid " ==ERROR== You don't have enough money. "
-msgstr " ==ERROR== Vous n'avez pas assez d'argent. "
+msgstr " ==ERREUR== Vous n'avez pas assez d'argent. "
 
 # game/Room_01_Ordi.rpy:538 #-#-# translate crowdin room01_ordi01_achat_FurnitureStore_c3ee7682_4:
 msgid "== THANK YOU FOR YOUR PURCHASE! =="
@@ -490,95 +490,95 @@ msgstr "{ color=#b4f08f} = { /color } { color=#da96ff} images d'affinité de car
 
 # game/Room_01_Ordi.rpy:567
 msgid " {color=#ffc9a2}(SPY_ORIENTAL_BATH){/color} "
-msgstr " { color=#ffc9a2} (SPY_ORIENTAL_BATH) { /color } "
+msgstr " {color=#ffc9a2}(SPY_ORIENTAL_BATH){/color} "
 
 # game/Room_01_Ordi.rpy:567
 msgid " {color=#ffc9a2}(SPY_ORIENTAL_BATH_02){/color} "
-msgstr " { color=#ffc9a2} (SPY_ORIENTAL_BATH_02) { /color } "
+msgstr " {color=#ffc9a2}(SPY_ORIENTAL_BATH_02){/color} "
 
 # game/Room_01_Ordi.rpy:567
 msgid " {color=#636363}(_LOCK_){/color} "
-msgstr " { color=#636363} (_LOCK_) { /color } "
+msgstr " {color=#636363}(_LOCK_){/color} "
 
 # game/Room_01_Ordi.rpy:567
 msgid " {color=#ffc9a2}(ORIENTAL_KISS){/color} "
-msgstr " { color=#ffc9a2} (ORIENTAL_KISS) { /color } "
+msgstr " {color=#ffc9a2}(ORIENTAL_KISS){/color} "
 
 # game/Room_01_Ordi.rpy:567
 msgid " {color=#ffc9a2}(THE_SULTANA){/color} "
-msgstr " { color=#ffc9a2} (THE_SULTANA) { /color } "
+msgstr " {color=#ffc9a2}(THE_SULTANA){/color} "
 
 # game/Room_01_Ordi.rpy:567
 msgid " {color=#ffc9a2}(QIU){/color} "
-msgstr " { color=#ffc9a2} (QIU) { /color } "
+msgstr " {color=#ffc9a2}(QIU){/color} "
 
 # game/Room_01_Ordi.rpy:567
 msgid " {color=#ffc9a2}(DE-PRINCESSING){/color} "
-msgstr " { color=#ffc9a2} (DE-PRINCESSING) { /color } "
+msgstr " {color=#ffc9a2}(DE-PRINCESSING){/color} "
 
 # game/Room_01_Ordi.rpy:567
 msgid " {color=#ffc9a2}(PRINCESS_EMEE){/color} "
-msgstr " { color=#ffc9a2} (PRINCESS_EMEE) { /color } "
+msgstr " {color=#ffc9a2}(PRINCESS_EMEE){/color} "
 
 # game/Room_01_Ordi.rpy:567
 msgid " {color=#ffc9a2}(SUCCK){/color} "
-msgstr " { color=#ffc9a2} (SUCCK) { /color } "
+msgstr " {color=#ffc9a2}(SUCCK){/color} "
 
 # game/Room_01_Ordi.rpy:567
 msgid " {color=#ffc9a2}(THE FEATHER'S AGONY){/color} "
-msgstr " { color=#ffc9a2} (L'AGONIE DE LA FEATHER) { /color } "
+msgstr " {color=#ffc9a2}(THE FEATHER'S AGONY){/color} "
 
 # game/Room_01_Ordi.rpy:567
 msgid " {color=#ffc9a2}(NOBLE BATH){/color} "
-msgstr " { color=#ffc9a2} (NOBLE BATH) { /color } "
+msgstr " {color=#ffc9a2}(NOBLE BATH){/color} "
 
 # game/Room_01_Ordi.rpy:567
 msgid " {color=#ffc9a2}(THE GREAT UNICORN HORN){/color} "
-msgstr " { color=#ffc9a2} (THE GREAT UNICORN HORN) { /color } "
+msgstr " {color=#ffc9a2}(THE GREAT UNICORN HORN){/color} "
 
 # game/Room_01_Ordi.rpy:664
 msgid " {color=#da96ff}(MELISSANDRE_01){/color} "
-msgstr " { color=#da96ff} (MELISSANDRE_01) { /color } "
+msgstr " {color=#da96ff}(MELISSANDRE_01){/color} "
 
 # game/Room_01_Ordi.rpy:664
 msgid " {color=#da96ff}(EMEE_02){/color} "
-msgstr " { color=#da96ff} (EMEE_02) { /color } "
+msgstr " {color=#da96ff}(EMEE_02){/color} "
 
 # game/Room_01_Ordi.rpy:664
 msgid " {color=#da96ff}(AMELIA_01){/color} "
-msgstr " { color=#da96ff} (AMELIA_01) { /color } "
+msgstr " {color=#da96ff}(AMELIA_01){/color} "
 
 # game/Room_01_Ordi.rpy:664
 msgid " {color=#da96ff}(TINKER_01){/color} "
-msgstr " { color=#da96ff} (TINKER_01) { /color } "
+msgstr " {color=#da96ff}(TINKER_01){/color} "
 
 # game/Room_01_Ordi.rpy:664
 msgid " {color=#da96ff}(TINKER_02){/color} "
-msgstr " { color=#da96ff} (TINKER_02) { /color } "
+msgstr " {color=#da96ff}(TINKER_02){/color} "
 
 # game/Room_01_Ordi.rpy:664
 msgid " {color=#da96ff}(TINKER_03){/color} "
-msgstr " { color=#da96ff} (TINKER_03) { /color } "
+msgstr " {color=#da96ff}(TINKER_03){/color} "
 
 # game/Room_01_Ordi.rpy:664
 msgid " {color=#da96ff}(LYCORIS_01){/color} "
-msgstr " { color=#da96ff} (LYCORIS_01) { /color } "
+msgstr " {color=#da96ff}(LYCORIS_01){/color} "
 
 # game/Room_01_Ordi.rpy:664
 msgid " {color=#da96ff}(LYCORIS_02){/color} "
-msgstr " { color=#da96ff} (LYCORIS_02) { /color } "
+msgstr " {color=#da96ff}(LYCORIS_02){/color} "
 
 # game/Room_01_Ordi.rpy:664
 msgid " {color=#da96ff}(LYCORIS_03){/color} "
-msgstr " { color=#da96ff} (LYCORIS_03) { /color } "
+msgstr " {color=#da96ff}(LYCORIS_03){/color} "
 
 # game/Room_01_Ordi.rpy:664
 msgid " {color=#da96ff}(SNOW_WHITE_01){/color} "
-msgstr " { color=#da96ff} (SNOW_WHITE_01) { /color } "
+msgstr " {color=#da96ff}(SNOW_WHITE_01){/color} "
 
 # game/Room_01_Ordi.rpy:664
 msgid " {color=#da96ff}(DJIN_01){/color} "
-msgstr " { color=#da96ff} (DJIN_01) { /color } "
+msgstr " {color=#da96ff}(DJIN_01){/color} "
 
 # game/Room_01_Ordi.rpy:789
 msgid "== {color=#797979}Cheat codes are currently deactivated{/color} ==\n"
