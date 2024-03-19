@@ -10,15 +10,15 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-02-26 13:30\n"
+"PO-Revision-Date: 2024-03-19 16:11\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Room_01_Ordi.rpy:7 #-#-# translate crowdin room01_ordi01_In_f3a4608f:
 msgid "[_u_] Let's try to open that door first."
-msgstr ""
+msgstr "[_u_] 我们先试着把那扇门打开吧。"
 
 # game/Room_01_Ordi.rpy:110 #-#-# translate crowdin room01_ordi01_In_ComputerMainMenu_ca788b67:
 msgid "Empty your mailbox before buying new items"
-msgstr ""
+msgstr "购买新的物品前要清空你的邮箱。"
 
 # game/Room_01_Ordi.rpy:295 #-#-# translate crowdin room01_ordi01_achat_objets_b1e9a2b8:
 msgid " ==ERROR== You don't have enough money. "
@@ -26,11 +26,11 @@ msgstr ""
 
 # game/Room_01_Ordi.rpy:301 #-#-# translate crowdin room01_ordi01_achat_objets_c3ee7682:
 msgid "== THANK YOU FOR YOUR PURCHASE! =="
-msgstr ""
+msgstr "== 感谢您的购买！ =="
 
 # game/Room_01_Ordi.rpy:302 #-#-# translate crowdin room01_ordi01_achat_objets_7a8e26be:
 msgid "== DATA DOWNLOAD ! =="
-msgstr ""
+msgstr "== 数据下载完毕！ =="
 
 # game/Room_01_Ordi.rpy:307 #-#-# translate crowdin room01_ordi01_achat_objets_b1e9a2b8_1:
 msgid " ==ERROR== You don't have enough money. "
@@ -38,11 +38,11 @@ msgstr ""
 
 # game/Room_01_Ordi.rpy:313 #-#-# translate crowdin room01_ordi01_achat_objets_c3ee7682_1:
 msgid "== THANK YOU FOR YOUR PURCHASE! =="
-msgstr ""
+msgstr "== 感谢您的购买！ =="
 
 # game/Room_01_Ordi.rpy:314 #-#-# translate crowdin room01_ordi01_achat_objets_7a8e26be_1:
 msgid "== DATA DOWNLOAD ! =="
-msgstr ""
+msgstr "== 数据下载完毕！ =="
 
 # game/Room_01_Ordi.rpy:319 #-#-# translate crowdin room01_ordi01_achat_objets_b1e9a2b8_2:
 msgid " ==ERROR== You don't have enough money. "
@@ -50,11 +50,11 @@ msgstr ""
 
 # game/Room_01_Ordi.rpy:326 #-#-# translate crowdin room01_ordi01_achat_objets_c3ee7682_2:
 msgid "== THANK YOU FOR YOUR PURCHASE! =="
-msgstr ""
+msgstr "== 感谢您的购买！ =="
 
 # game/Room_01_Ordi.rpy:327 #-#-# translate crowdin room01_ordi01_achat_objets_e474bd70:
 msgid "== You will receive your order soon! =="
-msgstr ""
+msgstr "== 您很快就能收到您的订单！ =="
 
 # game/Room_01_Ordi.rpy:333 #-#-# translate crowdin room01_ordi01_achat_objets_b1e9a2b8_3:
 msgid " ==ERROR== You don't have enough money. "
@@ -62,11 +62,11 @@ msgstr ""
 
 # game/Room_01_Ordi.rpy:340 #-#-# translate crowdin room01_ordi01_achat_objets_c3ee7682_3:
 msgid "== THANK YOU FOR YOUR PURCHASE! =="
-msgstr ""
+msgstr "== 感谢您的购买！ =="
 
 # game/Room_01_Ordi.rpy:341 #-#-# translate crowdin room01_ordi01_achat_objets_e474bd70_1:
 msgid "== You will receive your order soon! =="
-msgstr ""
+msgstr "== 您很快就能收到您的订单！ =="
 
 # game/Room_01_Ordi.rpy:347 #-#-# translate crowdin room01_ordi01_achat_objets_b1e9a2b8_4:
 msgid " ==ERROR== You don't have enough money. "
@@ -74,11 +74,11 @@ msgstr ""
 
 # game/Room_01_Ordi.rpy:354 #-#-# translate crowdin room01_ordi01_achat_objets_c3ee7682_4:
 msgid "== THANK YOU FOR YOUR PURCHASE! =="
-msgstr ""
+msgstr "== 感谢您的购买！ =="
 
 # game/Room_01_Ordi.rpy:355 #-#-# translate crowdin room01_ordi01_achat_objets_e474bd70_2:
 msgid "== You will receive your order soon! =="
-msgstr ""
+msgstr "== 您很快就能收到您的订单！ =="
 
 # game/Room_01_Ordi.rpy:376 #-#-# translate crowdin room01_ordi01_achat_objetsGifts_b1e9a2b8:
 msgid " ==ERROR== You don't have enough money. "
@@ -86,11 +86,11 @@ msgstr ""
 
 # game/Room_01_Ordi.rpy:383 #-#-# translate crowdin room01_ordi01_achat_objetsGifts_c3ee7682:
 msgid "== THANK YOU FOR YOUR PURCHASE! =="
-msgstr ""
+msgstr "== 感谢您的购买！ =="
 
 # game/Room_01_Ordi.rpy:384 #-#-# translate crowdin room01_ordi01_achat_objetsGifts_e474bd70:
 msgid "== You will receive your order soon! =="
-msgstr ""
+msgstr "== 您很快就能收到您的订单！ =="
 
 # game/Room_01_Ordi.rpy:389 #-#-# translate crowdin room01_ordi01_achat_objetsGifts_b1e9a2b8_1:
 msgid " ==ERROR== You don't have enough money. "
@@ -98,11 +98,11 @@ msgstr ""
 
 # game/Room_01_Ordi.rpy:396 #-#-# translate crowdin room01_ordi01_achat_objetsGifts_c3ee7682_1:
 msgid "== THANK YOU FOR YOUR PURCHASE! =="
-msgstr ""
+msgstr "== 感谢您的购买！ =="
 
 # game/Room_01_Ordi.rpy:397 #-#-# translate crowdin room01_ordi01_achat_objetsGifts_e474bd70_1:
 msgid "== You will receive your order soon! =="
-msgstr ""
+msgstr "== 您很快就能收到您的订单！ =="
 
 # game/Room_01_Ordi.rpy:402 #-#-# translate crowdin room01_ordi01_achat_objetsGifts_b1e9a2b8_2:
 msgid " ==ERROR== You don't have enough money. "
@@ -110,11 +110,11 @@ msgstr ""
 
 # game/Room_01_Ordi.rpy:409 #-#-# translate crowdin room01_ordi01_achat_objetsGifts_c3ee7682_2:
 msgid "== THANK YOU FOR YOUR PURCHASE! =="
-msgstr ""
+msgstr "== 感谢您的购买！ =="
 
 # game/Room_01_Ordi.rpy:410 #-#-# translate crowdin room01_ordi01_achat_objetsGifts_e474bd70_2:
 msgid "== You will receive your order soon! =="
-msgstr ""
+msgstr "== 您很快就能收到您的订单！ =="
 
 # game/Room_01_Ordi.rpy:415 #-#-# translate crowdin room01_ordi01_achat_objetsGifts_b1e9a2b8_3:
 msgid " ==ERROR== You don't have enough money. "
@@ -122,11 +122,11 @@ msgstr ""
 
 # game/Room_01_Ordi.rpy:422 #-#-# translate crowdin room01_ordi01_achat_objetsGifts_c3ee7682_3:
 msgid "== THANK YOU FOR YOUR PURCHASE! =="
-msgstr ""
+msgstr "== 感谢您的购买！ =="
 
 # game/Room_01_Ordi.rpy:423 #-#-# translate crowdin room01_ordi01_achat_objetsGifts_e474bd70_3:
 msgid "== You will receive your order soon! =="
-msgstr ""
+msgstr "== 您很快就能收到您的订单！ =="
 
 # game/Room_01_Ordi.rpy:436 #-#-# translate crowdin room01_ordi01_achat_DroneStore_b1e9a2b8:
 msgid " ==ERROR== You don't have enough money. "
@@ -134,11 +134,11 @@ msgstr ""
 
 # game/Room_01_Ordi.rpy:443 #-#-# translate crowdin room01_ordi01_achat_DroneStore_c3ee7682:
 msgid "== THANK YOU FOR YOUR PURCHASE! =="
-msgstr ""
+msgstr "== 感谢您的购买！ =="
 
 # game/Room_01_Ordi.rpy:444 #-#-# translate crowdin room01_ordi01_achat_DroneStore_e474bd70:
 msgid "== You will receive your order soon! =="
-msgstr ""
+msgstr "== 您很快就能收到您的订单！ =="
 
 # game/Room_01_Ordi.rpy:449 #-#-# translate crowdin room01_ordi01_achat_DroneStore_b1e9a2b8_1:
 msgid " ==ERROR== You don't have enough money. "
@@ -146,11 +146,11 @@ msgstr ""
 
 # game/Room_01_Ordi.rpy:456 #-#-# translate crowdin room01_ordi01_achat_DroneStore_c3ee7682_1:
 msgid "== THANK YOU FOR YOUR PURCHASE! =="
-msgstr ""
+msgstr "== 感谢您的购买！ =="
 
 # game/Room_01_Ordi.rpy:457 #-#-# translate crowdin room01_ordi01_achat_DroneStore_e474bd70_1:
 msgid "== You will receive your order soon! =="
-msgstr ""
+msgstr "== 您很快就能收到您的订单！ =="
 
 # game/Room_01_Ordi.rpy:462 #-#-# translate crowdin room01_ordi01_achat_DroneStore_b1e9a2b8_2:
 msgid " ==ERROR== You don't have enough money. "
@@ -158,11 +158,11 @@ msgstr ""
 
 # game/Room_01_Ordi.rpy:469 #-#-# translate crowdin room01_ordi01_achat_DroneStore_c3ee7682_2:
 msgid "== THANK YOU FOR YOUR PURCHASE! =="
-msgstr ""
+msgstr "== 感谢您的购买！ =="
 
 # game/Room_01_Ordi.rpy:470 #-#-# translate crowdin room01_ordi01_achat_DroneStore_e474bd70_2:
 msgid "== You will receive your order soon! =="
-msgstr ""
+msgstr "== 您很快就能收到您的订单！ =="
 
 # game/Room_01_Ordi.rpy:483 #-#-# translate crowdin room01_ordi01_achat_FurnitureStore_b1e9a2b8:
 msgid " ==ERROR== You don't have enough money. "
@@ -170,7 +170,7 @@ msgstr ""
 
 # game/Room_01_Ordi.rpy:490 #-#-# translate crowdin room01_ordi01_achat_FurnitureStore_c3ee7682:
 msgid "== THANK YOU FOR YOUR PURCHASE! =="
-msgstr ""
+msgstr "== 感谢您的购买！ =="
 
 # game/Room_01_Ordi.rpy:495 #-#-# translate crowdin room01_ordi01_achat_FurnitureStore_b1e9a2b8_1:
 msgid " ==ERROR== You don't have enough money. "
@@ -178,7 +178,7 @@ msgstr ""
 
 # game/Room_01_Ordi.rpy:502 #-#-# translate crowdin room01_ordi01_achat_FurnitureStore_c3ee7682_1:
 msgid "== THANK YOU FOR YOUR PURCHASE! =="
-msgstr ""
+msgstr "== 感谢您的购买！ =="
 
 # game/Room_01_Ordi.rpy:507 #-#-# translate crowdin room01_ordi01_achat_FurnitureStore_b1e9a2b8_2:
 msgid " ==ERROR== You don't have enough money. "
@@ -186,7 +186,7 @@ msgstr ""
 
 # game/Room_01_Ordi.rpy:514 #-#-# translate crowdin room01_ordi01_achat_FurnitureStore_c3ee7682_2:
 msgid "== THANK YOU FOR YOUR PURCHASE! =="
-msgstr ""
+msgstr "== 感谢您的购买！ =="
 
 # game/Room_01_Ordi.rpy:519 #-#-# translate crowdin room01_ordi01_achat_FurnitureStore_b1e9a2b8_3:
 msgid " ==ERROR== You don't have enough money. "
@@ -194,7 +194,7 @@ msgstr ""
 
 # game/Room_01_Ordi.rpy:526 #-#-# translate crowdin room01_ordi01_achat_FurnitureStore_c3ee7682_3:
 msgid "== THANK YOU FOR YOUR PURCHASE! =="
-msgstr ""
+msgstr "== 感谢您的购买！ =="
 
 # game/Room_01_Ordi.rpy:531 #-#-# translate crowdin room01_ordi01_achat_FurnitureStore_b1e9a2b8_4:
 msgid " ==ERROR== You don't have enough money. "
@@ -202,119 +202,119 @@ msgstr ""
 
 # game/Room_01_Ordi.rpy:538 #-#-# translate crowdin room01_ordi01_achat_FurnitureStore_c3ee7682_4:
 msgid "== THANK YOU FOR YOUR PURCHASE! =="
-msgstr ""
+msgstr "== 感谢您的购买！ =="
 
 # game/Room_01_Ordi.rpy:581 #-#-# translate crowdin room01_ordi01_galleryQuests_7b8a9f25:
 msgid " = NO DATAS = Continue Main Story quests, Character Quests and Patreon Quests to unlocks this gallery image. "
-msgstr ""
+msgstr " = 没有数据 = 继续做主线任务、角色任务和Patreon任务能解锁此个画廊图像。 "
 
 # game/Room_01_Ordi.rpy:590 #-#-# translate crowdin room01_ordi01_galleryQuests_7b8a9f25_1:
 msgid " = NO DATAS = Continue Main Story quests, Character Quests and Patreon Quests to unlocks this gallery image. "
-msgstr ""
+msgstr " = 没有数据 = 继续做主线任务、角色任务和Patreon任务能解锁此个画廊图像。 "
 
 # game/Room_01_Ordi.rpy:599 #-#-# translate crowdin room01_ordi01_galleryQuests_7b8a9f25_2:
 msgid " = NO DATAS = Continue Main Story quests, Character Quests and Patreon Quests to unlocks this gallery image. "
-msgstr ""
+msgstr " = 没有数据 = 继续做主线任务、角色任务和Patreon任务能解锁此个画廊图像。 "
 
 # game/Room_01_Ordi.rpy:608 #-#-# translate crowdin room01_ordi01_galleryQuests_7b8a9f25_3:
 msgid " = NO DATAS = Continue Main Story quests, Character Quests and Patreon Quests to unlocks this gallery image. "
-msgstr ""
+msgstr " = 没有数据 = 继续做主线任务、角色任务和Patreon任务能解锁此个画廊图像。 "
 
 # game/Room_01_Ordi.rpy:616 #-#-# translate crowdin room01_ordi01_galleryQuests_7b8a9f25_4:
 msgid " = NO DATAS = Continue Main Story quests, Character Quests and Patreon Quests to unlocks this gallery image. "
-msgstr ""
+msgstr " = 没有数据 = 继续做主线任务、角色任务和Patreon任务能解锁此个画廊图像。 "
 
 # game/Room_01_Ordi.rpy:624 #-#-# translate crowdin room01_ordi01_galleryQuests_7b8a9f25_5:
 msgid " = NO DATAS = Continue Main Story quests, Character Quests and Patreon Quests to unlocks this gallery image. "
-msgstr ""
+msgstr " = 没有数据 = 继续做主线任务、角色任务和Patreon任务能解锁此个画廊图像。 "
 
 # game/Room_01_Ordi.rpy:632 #-#-# translate crowdin room01_ordi01_galleryQuests_7b8a9f25_6:
 msgid " = NO DATAS = Continue Main Story quests, Character Quests and Patreon Quests to unlocks this gallery image. "
-msgstr ""
+msgstr " = 没有数据 = 继续做主线任务、角色任务和Patreon任务能解锁此个画廊图像。 "
 
 # game/Room_01_Ordi.rpy:640 #-#-# translate crowdin room01_ordi01_galleryQuests_7b8a9f25_7:
 msgid " = NO DATAS = Continue Main Story quests, Character Quests and Patreon Quests to unlocks this gallery image. "
-msgstr ""
+msgstr " = 没有数据 = 继续做主线任务、角色任务和Patreon任务能解锁此个画廊图像。 "
 
 # game/Room_01_Ordi.rpy:648 #-#-# translate crowdin room01_ordi01_galleryQuests_7b8a9f25_8:
 msgid " = NO DATAS = Continue Main Story quests, Character Quests and Patreon Quests to unlocks this gallery image. "
-msgstr ""
+msgstr " = 没有数据 = 继续做主线任务、角色任务和Patreon任务能解锁此个画廊图像。 "
 
 # game/Room_01_Ordi.rpy:656 #-#-# translate crowdin room01_ordi01_galleryQuests_7b8a9f25_9:
 msgid " = NO DATAS = Continue Main Story quests, Character Quests and Patreon Quests to unlocks this gallery image. "
-msgstr ""
+msgstr " = 没有数据 = 继续做主线任务、角色任务和Patreon任务能解锁此个画廊图像。 "
 
 # game/Room_01_Ordi.rpy:677 #-#-# translate crowdin room01_ordi01_gallerychara_7b8a9f25:
 msgid " = NO DATAS = Continue Main Story quests, Character Quests and Patreon Quests to unlocks this gallery image. "
-msgstr ""
+msgstr " = 没有数据 = 继续做主线任务、角色任务和Patreon任务能解锁此个画廊图像。 "
 
 # game/Room_01_Ordi.rpy:685 #-#-# translate crowdin room01_ordi01_gallerychara_7b8a9f25_1:
 msgid " = NO DATAS = Continue Main Story quests, Character Quests and Patreon Quests to unlocks this gallery image. "
-msgstr ""
+msgstr " = 没有数据 = 继续做主线任务、角色任务和Patreon任务能解锁此个画廊图像。 "
 
 # game/Room_01_Ordi.rpy:693 #-#-# translate crowdin room01_ordi01_gallerychara_7b8a9f25_2:
 msgid " = NO DATAS = Continue Main Story quests, Character Quests and Patreon Quests to unlocks this gallery image. "
-msgstr ""
+msgstr " = 没有数据 = 继续做主线任务、角色任务和Patreon任务能解锁此个画廊图像。 "
 
 # game/Room_01_Ordi.rpy:701 #-#-# translate crowdin room01_ordi01_gallerychara_7b8a9f25_3:
 msgid " = NO DATAS = Continue Main Story quests, Character Quests and Patreon Quests to unlocks this gallery image. "
-msgstr ""
+msgstr " = 没有数据 = 继续做主线任务、角色任务和Patreon任务能解锁此个画廊图像。 "
 
 # game/Room_01_Ordi.rpy:709 #-#-# translate crowdin room01_ordi01_gallerychara_7b8a9f25_4:
 msgid " = NO DATAS = Continue Main Story quests, Character Quests and Patreon Quests to unlocks this gallery image. "
-msgstr ""
+msgstr " = 没有数据 = 继续做主线任务、角色任务和Patreon任务能解锁此个画廊图像。 "
 
 # game/Room_01_Ordi.rpy:717 #-#-# translate crowdin room01_ordi01_gallerychara_7b8a9f25_5:
 msgid " = NO DATAS = Continue Main Story quests, Character Quests and Patreon Quests to unlocks this gallery image. "
-msgstr ""
+msgstr " = 没有数据 = 继续做主线任务、角色任务和Patreon任务能解锁此个画廊图像。 "
 
 # game/Room_01_Ordi.rpy:725 #-#-# translate crowdin room01_ordi01_gallerychara_7b8a9f25_6:
 msgid " = NO DATAS = Continue Main Story quests, Character Quests and Patreon Quests to unlocks this gallery image. "
-msgstr ""
+msgstr " = 没有数据 = 继续做主线任务、角色任务和Patreon任务能解锁此个画廊图像。 "
 
 # game/Room_01_Ordi.rpy:733 #-#-# translate crowdin room01_ordi01_gallerychara_7b8a9f25_7:
 msgid " = NO DATAS = Continue Main Story quests, Character Quests and Patreon Quests to unlocks this gallery image. "
-msgstr ""
+msgstr " = 没有数据 = 继续做主线任务、角色任务和Patreon任务能解锁此个画廊图像。 "
 
 # game/Room_01_Ordi.rpy:741 #-#-# translate crowdin room01_ordi01_gallerychara_7b8a9f25_8:
 msgid " = NO DATAS = Continue Main Story quests, Character Quests and Patreon Quests to unlocks this gallery image. "
-msgstr ""
+msgstr " = 没有数据 = 继续做主线任务、角色任务和Patreon任务能解锁此个画廊图像。 "
 
 # game/Room_01_Ordi.rpy:749 #-#-# translate crowdin room01_ordi01_gallerychara_7b8a9f25_9:
 msgid " = NO DATAS = Continue Main Story quests, Character Quests and Patreon Quests to unlocks this gallery image. "
-msgstr ""
+msgstr " = 没有数据 = 继续做主线任务、角色任务和Patreon任务能解锁此个画廊图像。 "
 
 # game/Room_01_Ordi.rpy:795 #-#-# translate crowdin room01_ordi01_Cheats_72d2952c:
 msgid "Cheat codes are not activated. "
-msgstr ""
+msgstr "作弊代码未激活。 "
 
 # game/Room_01_Ordi.rpy:800 #-#-# translate crowdin room01_ordi01_Cheats_72d2952c_1:
 msgid "Cheat codes are not activated. "
-msgstr ""
+msgstr "作弊代码未激活。 "
 
 # game/Room_01_Ordi.rpy:805 #-#-# translate crowdin room01_ordi01_Cheats_72d2952c_2:
 msgid "Cheat codes are not activated. "
-msgstr ""
+msgstr "作弊代码未激活。 "
 
 # game/Room_01_Ordi.rpy:810 #-#-# translate crowdin room01_ordi01_Cheats_72d2952c_3:
 msgid "Cheat codes are not activated. "
-msgstr ""
+msgstr "作弊代码未激活。 "
 
 # game/Room_01_Ordi.rpy:815 #-#-# translate crowdin room01_ordi01_Cheats_72d2952c_4:
 msgid "Cheat codes are not activated. "
-msgstr ""
+msgstr "作弊代码未激活。 "
 
 # game/Room_01_Ordi.rpy:822 #-#-# translate crowdin room01_ordi01_Cheats_e23c02e7:
 msgid "Cheat codes are available after entering a Patreon code. (Check out the {a=https://www.patreon.com/Salty01_NSFW}{color=#fc9c63}Patreon page{/color}{/a} to find it.) =="
-msgstr ""
+msgstr "在输入Patreon代码后就能获得作弊代码。 (去 {a=https://www.patreon.com/Salty01_NSFW}{color=#fc9c63}Patreon 页面{/color}{/a} 看下就能找到。) =="
 
 # game/Room_01_Ordi.rpy:827 #-#-# translate crowdin room01_ordi01_Cheats_a0257b10:
 msgid "== Cheat Codes: {color=#f2923c}ACTIVE{/color} =="
-msgstr ""
+msgstr "== 作弊代码: {color=#f2923c}ACTIVE{/color} =="
 
 # game/Room_01_Ordi.rpy:854 #-#-# translate crowdin room01_ordi01_Cheats_67412914:
 msgid "You don't have any Cheat Points left. "
-msgstr ""
+msgstr "你没有作弊点数了。 "
 
 # game/Room_01_Ordi.rpy:860 #-#-# translate crowdin room01_ordi01_Cheats_eb9861b4:
 msgid "{color=#f2923c}== +800 Credits added! =={/color}"
@@ -322,7 +322,7 @@ msgstr ""
 
 # game/Room_01_Ordi.rpy:867 #-#-# translate crowdin room01_ordi01_Cheats_67412914_1:
 msgid "You don't have any Cheat Points left. "
-msgstr ""
+msgstr "你没有作弊点数了。 "
 
 # game/Room_01_Ordi.rpy:873 #-#-# translate crowdin room01_ordi01_Cheats_c575b770:
 msgid "{color=#f2923c}== +25 Clothes Scraps added! =={/color}"
@@ -330,7 +330,7 @@ msgstr ""
 
 # game/Room_01_Ordi.rpy:880 #-#-# translate crowdin room01_ordi01_Cheats_67412914_2:
 msgid "You don't have any Cheat Points left. "
-msgstr ""
+msgstr "你没有作弊点数了。 "
 
 # game/Room_01_Ordi.rpy:886 #-#-# translate crowdin room01_ordi01_Cheats_2688da9b:
 msgid "{color=#f2923c}== +10 Clothes Data added! =={/color}"
@@ -338,7 +338,7 @@ msgstr ""
 
 # game/Room_01_Ordi.rpy:893 #-#-# translate crowdin room01_ordi01_Cheats_67412914_3:
 msgid "You don't have any Cheat Points left. "
-msgstr ""
+msgstr "你没有作弊点数了。 "
 
 # game/Room_01_Ordi.rpy:899 #-#-# translate crowdin room01_ordi01_Cheats_1291862e:
 msgid "{color=#f2923c}== +2 Character Data added! =={/color}"
@@ -350,7 +350,7 @@ msgstr ""
 
 # game/Room_01_Ordi.rpy:917 #-#-# translate crowdin room01_ordi01_Cheats_67412914_4:
 msgid "You don't have any Cheat Points left. "
-msgstr ""
+msgstr "你没有作弊点数了。 "
 
 # game/Room_01_Ordi.rpy:926 #-#-# translate crowdin room01_ordi01_Cheats_75f93969_1:
 msgid "Your character's name is now {color=#a0fc86}[name]{/color}."
