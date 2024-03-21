@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2024-03-21 08:48\n"
+"PO-Revision-Date: 2024-03-21 11:00\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_BA.rpy:50 #-#-# translate crowdin CHARA_BA_Menu01_98aea068:
 msgid "[_ba_]  ... "
@@ -554,7 +554,7 @@ msgstr "[_ba_] Кроме того... Из меня бы вышла султан
 
 # game/Cell01_BA.rpy:423 #-#-# translate crowdin Quest_BA_Ask01_1b4de826:
 msgid "[_ba_] With her in charge, this city is nothing but a hideout for bandits and thieves. "
-msgstr ""
+msgstr "[_ba_] Под ее руководством этот город — не что иное, как убежище бандитов и воров. "
 
 # game/Cell01_BA.rpy:424 #-#-# translate crowdin Quest_BA_Ask01_d337807a:
 msgid "[_u_] Mh..."
@@ -562,31 +562,31 @@ msgstr ""
 
 # game/Cell01_BA.rpy:426 #-#-# translate crowdin Quest_BA_Ask01_e58e00fe:
 msgid "[_ba_] What?"
-msgstr ""
+msgstr "[_ba_] Что?"
 
 # game/Cell01_BA.rpy:427 #-#-# translate crowdin Quest_BA_Ask01_69cf47ff:
 msgid "[_u_] What's your title again? "
-msgstr ""
+msgstr "[_u_] Напомни какой у тебя титул? "
 
 # game/Cell01_BA.rpy:429 #-#-# translate crowdin Quest_BA_Ask01_93b155cc:
 msgid "[_ba_] It's not the same for me. I have ambitions. "
-msgstr ""
+msgstr "[_ba_] Для меня это не то же самое. У меня есть амбиции. "
 
 # game/Cell01_BA.rpy:431 #-#-# translate crowdin Quest_BA_Ask01_27ab7356:
 msgid "[_ba_] I'm a lion leading sheep... but it's still better than lions led by a donkey. "
-msgstr ""
+msgstr "[_ba_] Я лев, ведущий овец... но это всё равно лучше, чем львы, ведомые ослом. "
 
 # game/Cell01_BA.rpy:432 #-#-# translate crowdin Quest_BA_Ask01_7864d509:
 msgid "[_u_] And in this methaphor... you're the lion, right? "
-msgstr ""
+msgstr "[_u_] И в этой метафоре... ты лев, да? "
 
 # game/Cell01_BA.rpy:434 #-#-# translate crowdin Quest_BA_Ask01_a8603bc6:
 msgid "[_ba_] Stop asking me such stupid questions."
-msgstr ""
+msgstr "[_ba_] Хватит задавать мне такие глупые вопросы."
 
 # game/Cell01_BA.rpy:436 #-#-# translate crowdin Quest_BA_Ask01_c34b9092:
 msgid "[_ba_] Her throne will be mine. Period. "
-msgstr ""
+msgstr "[_ba_] Ее трон будет моим. Точка. "
 
 # game/Cell01_BA.rpy:446 #-#-# translate crowdin Ml_Ali_01_08_f446d2cf:
 msgid "[_u_] Anybody home? "
@@ -598,31 +598,31 @@ msgstr "[_u_] ..."
 
 # game/Cell01_BA.rpy:449 #-#-# translate crowdin Ml_Ali_01_08_365d932b:
 msgid "[_u_] How the fuck am I supposed to corrupt someone who isn't even there? "
-msgstr ""
+msgstr "[_u_] Как, чёрт побери, я должен развращать ту, кого здесь нету? "
 
 # game/Cell01_BA.rpy:460 #-#-# translate crowdin Ml_Ali_01_08_f26c632e:
 msgid "[_dj_] Hi there!"
-msgstr ""
+msgstr "[_dj_] Привет!"
 
 # game/Cell01_BA.rpy:461 #-#-# translate crowdin Ml_Ali_01_08_a10ba100:
 msgid "[_u_] Hey. What's up? "
-msgstr ""
+msgstr "[_u_] Привет. Что такое? "
 
 # game/Cell01_BA.rpy:463 #-#-# translate crowdin Ml_Ali_01_08_b12e8e87:
 msgid "[_dj_] You're not going to believe this... I've got something to show you. "
-msgstr ""
+msgstr "[_dj_] Ты не поверишь... Мне нужно тебе кое-что показать. "
 
 # game/Cell01_BA.rpy:464 #-#-# translate crowdin Ml_Ali_01_08_7c09b389:
 msgid "[_u_] Oh... is that a new body? "
-msgstr ""
+msgstr "[_u_] Ох... это новое тело? "
 
 # game/Cell01_BA.rpy:465 #-#-# translate crowdin Ml_Ali_01_08_aa1889f0:
 msgid "[_dj_] Mh ... maybe. "
-msgstr ""
+msgstr "[_dj_] Мм... Может быть. "
 
 # game/Cell01_BA.rpy:466 #-#-# translate crowdin Ml_Ali_01_08_5f071e6a:
 msgid "[_dj_] How about I teleport you to me?"
-msgstr ""
+msgstr "[_dj_] Как насчет того, чтобы телепортироваться ко мне?"
 
 # game/Cell01_BA.rpy:468 #-#-# translate crowdin Ml_Ali_01_08_e45ea035:
 msgid "[_u_] Whenever you want, girl!"
@@ -638,83 +638,83 @@ msgstr ""
 
 # game/Cell01_BA.rpy:485 #-#-# translate crowdin Ml_Ali_01_08_c9031027:
 msgid "[_dj_] Yeah, I know. It's weird, isn't it? "
-msgstr ""
+msgstr "[_dj_] Да, я знаю. Это странно, не так ли? "
 
 # game/Cell01_BA.rpy:487 #-#-# translate crowdin Ml_Ali_01_08_c916c2aa:
 msgid "[_u_] I didn't think it would happen so quickly!"
-msgstr ""
+msgstr "[_u_] Не думал, что это произойдет так быстро!"
 
 # game/Cell01_BA.rpy:489 #-#-# translate crowdin Ml_Ali_01_08_63527488:
 msgid "[_dj_] Me neither, I must confess!"
-msgstr ""
+msgstr "[_dj_] Признаюсь тоже!"
 
 # game/Cell01_BA.rpy:491 #-#-# translate crowdin Ml_Ali_01_08_a176c52f:
 msgid "[_dj_] But look at that! I have a body! A REAL BODY!"
-msgstr ""
+msgstr "[_dj_] Но посмотри на это! У меня есть тело! НАСТОЯЩЕЕ ТЕЛО!"
 
 # game/Cell01_BA.rpy:493 #-#-# translate crowdin Ml_Ali_01_08_37eadedd:
 msgid "[_dj_] I'll finally be able to walk... and go anywhere I want on the whole planet!"
-msgstr ""
+msgstr "[_dj_] Наконец-то я могу ходить... и пойти куда захочу!"
 
 # game/Cell01_BA.rpy:495 #-#-# translate crowdin Ml_Ali_01_08_9fd94e65:
 msgid "[_dj_] I'm going to explore every nook and cranny of the Oriental Kingdom!"
-msgstr ""
+msgstr "[_dj_] Я собираюсь исследовать каждый уголок Восточного королевства!"
 
 # game/Cell01_BA.rpy:497 #-#-# translate crowdin Ml_Ali_01_08_5990b6ef:
 msgid "[_dj_] And when the zone will finally be corrupted... Mhh... "
-msgstr ""
+msgstr "[_dj_] А когда оно будет развращено... Ммм... "
 
 # game/Cell01_BA.rpy:499 #-#-# translate crowdin Ml_Ali_01_08_07d07735:
 msgid "[_dj_] It's going to be absolutely amazing."
-msgstr ""
+msgstr "[_dj_] Это будет просто потрясающе."
 
 # game/Cell01_BA.rpy:507 #-#-# translate crowdin Ml_Ali_01_08_menu1_06102860:
 msgid "[_dj_] I've jerked off at least 10 times since I got it. "
-msgstr ""
+msgstr "[_dj_] Я дрочила как минимум 10 раз с тех пор, как получила тело. "
 
 # game/Cell01_BA.rpy:509 #-#-# translate crowdin Ml_Ali_01_08_menu1_fa99427e:
 msgid "[_dj_] It's pretty incredible. "
-msgstr ""
+msgstr "[_dj_] Это невероятно. "
 
 # game/Cell01_BA.rpy:511 #-#-# translate crowdin Ml_Ali_01_08_menu1_13ba62cd:
 msgid "[_dj_] But I still have trouble walking, I must admit!"
-msgstr ""
+msgstr "[_dj_] Но ходить мне до сих пор трудновато!"
 
 # game/Cell01_BA.rpy:513 #-#-# translate crowdin Ml_Ali_01_08_menu1_34c376b0:
 msgid "[_dj_] It's a lot harder than it looks!"
-msgstr ""
+msgstr "[_dj_] Это намного сложнее, чем кажется!"
 
 # game/Cell01_BA.rpy:515 #-#-# translate crowdin Ml_Ali_01_08_menu1_3990aada:
 msgid "[_dj_] And it's strange to have to watch where you're walking... "
-msgstr ""
+msgstr "[_dj_] И так непривычно смотреть, куда идешь... "
 
 # game/Cell01_BA.rpy:517 #-#-# translate crowdin Ml_Ali_01_08_menu1_3e6e57e6:
 msgid "[_dj_] Strangely enough, I hadn't thought of that!"
-msgstr ""
+msgstr "[_dj_] Странно, но я об этом не думала!"
 
 # game/Cell01_BA.rpy:522 #-#-# translate crowdin Ml_Ali_01_08_menu1_4da31331:
 msgid "[_dj_] Thank you! That's so sweet!"
-msgstr ""
+msgstr "[_dj_] Спасибо! Это так мило!"
 
 # game/Cell01_BA.rpy:524 #-#-# translate crowdin Ml_Ali_01_08_menu1_3fde660b:
 msgid "[_dj_] If I wasn't so afraid to walk, I'd come and give you a kiss!"
-msgstr ""
+msgstr "[_dj_] Если бы я не боялась ходить, я бы подошла и поцеловала тебя!"
 
 # game/Cell01_BA.rpy:526 #-#-# translate crowdin Ml_Ali_01_08_menu1_a4200192:
 msgid "[_dj_] It's incredible, I was afraid my little golden tits would disappear... But no! I've got everything!"
-msgstr ""
+msgstr "[_dj_] Это невероятно, я боялась, что мои маленькие золотые сиськи исчезнут... Но нет! У меня все осталось!"
 
 # game/Cell01_BA.rpy:528 #-#-# translate crowdin Ml_Ali_01_08_menu1_000f7bc3:
 msgid "[_dj_] I've even got new tattoos on my legs!"
-msgstr ""
+msgstr "[_dj_] И даже появились новые татуировки на ногах!"
 
 # game/Cell01_BA.rpy:530 #-#-# translate crowdin Ml_Ali_01_08_menu1_94392c9f:
 msgid "[_dj_] And then... I've got a blue pussy!"
-msgstr ""
+msgstr "[_dj_] А еще... У меня синяя киска!"
 
 # game/Cell01_BA.rpy:532 #-#-# translate crowdin Ml_Ali_01_08_menu1_e46ce520:
 msgid "[_dj_] Have you ever seen blue pussy? I don't think so. "
-msgstr ""
+msgstr "[_dj_] Ты когда-нибудь видел голубую киску? Я так не думаю. "
 
 # game/Cell01_BA.rpy:533 #-#-# translate crowdin Ml_Ali_01_08_menu1_7b1c1392:
 msgid "[_u_] ..."
@@ -722,11 +722,11 @@ msgstr "[_u_] ..."
 
 # game/Cell01_BA.rpy:534 #-#-# translate crowdin Ml_Ali_01_08_menu1_ad0810f4:
 msgid "[_u_] Well... actually... Yes, I've seen Emee's. "
-msgstr ""
+msgstr "[_u_] Ну... вообще-то... Да, я видел у Эми. "
 
 # game/Cell01_BA.rpy:536 #-#-# translate crowdin Ml_Ali_01_08_menu1_d32cd4c2:
 msgid "[_dj_] Oh... yes..."
-msgstr ""
+msgstr "[_dj_] Ох... точно..."
 
 # game/Cell01_BA.rpy:538 #-#-# translate crowdin Ml_Ali_01_08_menu1_d836ad0e:
 msgid "[_dj_] But anyway, I think it's pretty cool!"
@@ -806,7 +806,7 @@ msgstr "[_dj_] Увидимся позже, [name]!"
 
 # game/Cell01_BA.rpy:606 #-#-# translate crowdin GalleryImageQuest_Djin01_f26c632e:
 msgid "[_dj_] Hi there!"
-msgstr ""
+msgstr "[_dj_] Привет!"
 
 # game/Cell01_BA.rpy:607 #-#-# translate crowdin GalleryImageQuest_Djin01_02dd136e:
 msgid "[_u_] Wow... A fuck above the city rooftops... "
