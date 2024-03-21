@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2024-03-19 18:16\n"
+"PO-Revision-Date: 2024-03-21 08:48\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_BA.rpy:50 #-#-# translate crowdin CHARA_BA_Menu01_98aea068:
 msgid "[_ba_]  ... "
@@ -522,11 +522,11 @@ msgstr "[_ba_] И на этот раз я не шучу. "
 
 # game/Cell01_BA.rpy:402 #-#-# translate crowdin Quest_BA_App01_01_79336e4b:
 msgid "[_u_] Ah... because you were joking the first time? "
-msgstr ""
+msgstr "[_u_] А... то есть в первый раз ты пошутила? "
 
 # game/Cell01_BA.rpy:404 #-#-# translate crowdin Quest_BA_App01_01_94a97619:
 msgid "[_ba_] I never joke. "
-msgstr ""
+msgstr "[_ba_] Я никогда не шучу. "
 
 # game/Cell01_BA.rpy:405 #-#-# translate crowdin Quest_BA_App01_01_c38ef83e:
 msgid "[_u_] It makes no sense."
@@ -534,23 +534,23 @@ msgstr ""
 
 # game/Cell01_BA.rpy:407 #-#-# translate crowdin Quest_BA_App01_01_5a83b267:
 msgid "[_ba_] I'll see you tomorrow [name]..."
-msgstr ""
+msgstr "[_ba_] Увидимся завтра [name]..."
 
 # game/Cell01_BA.rpy:415 #-#-# translate crowdin Quest_BA_Ask01_5ae1c955:
 msgid "[_ba_] The question would be... why wouldn't I want to? "
-msgstr ""
+msgstr "[_ba_] Вопрос в том... с чего бы мне не захотеть? "
 
 # game/Cell01_BA.rpy:417 #-#-# translate crowdin Quest_BA_Ask01_a24a7e6b:
 msgid "[_ba_] Sherazade's tyranny must come to an end sooner or later."
-msgstr ""
+msgstr "[_ba_] Тирании Шерезады рано или поздно должен прийти конец."
 
 # game/Cell01_BA.rpy:419 #-#-# translate crowdin Quest_BA_Ask01_fc81f237:
 msgid "[_ba_] And the sooner the better. Especially if it's me who ends up with my ass on her throne. "
-msgstr ""
+msgstr "[_ba_] И чем раньше, тем лучше. Особенно, если я окажусь на ее троне. "
 
 # game/Cell01_BA.rpy:421 #-#-# translate crowdin Quest_BA_Ask01_f75772de:
 msgid "[_ba_] Besides... I'd make a better Sultana than her. That's for sure. "
-msgstr ""
+msgstr "[_ba_] Кроме того... Из меня бы вышла султанша лучше, чем она. Это точно. "
 
 # game/Cell01_BA.rpy:423 #-#-# translate crowdin Quest_BA_Ask01_1b4de826:
 msgid "[_ba_] With her in charge, this city is nothing but a hideout for bandits and thieves. "
