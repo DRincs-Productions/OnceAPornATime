@@ -10,11 +10,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2024-03-14 11:18\n"
+"PO-Revision-Date: 2024-03-21 14:03\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_ArtDIVISION.rpy:151 #-#-# translate crowdin Cell01_ArtDIVISION_Menu01_ed0ef4ce:
 msgid "[_a_] Bonjour [name]!"
-msgstr ""
+msgstr "[_a_] Бонжур [имя]!"
 
 # game/Cell01_ArtDIVISION.rpy:179 #-#-# translate crowdin Cell01_ArtDIVISION_Charaselect_LY_259e399c:
 msgid "[_u_] See you later!"
@@ -34,7 +34,7 @@ msgstr "[_a_] Увидимся позже, [name]!"
 
 # game/Cell01_ArtDIVISION.rpy:214 #-#-# translate crowdin CHARA_A_MenuChoice_6184bf61:
 msgid "[_a_] No, not for now."
-msgstr ""
+msgstr "Нет, не сейчас."
 
 # game/Cell01_ArtDIVISION.rpy:216 #-#-# translate crowdin CHARA_A_MenuChoice_fc846623:
 msgid "[_a_] Maybe later."
@@ -42,7 +42,7 @@ msgstr "[_a_] Может быть потом."
 
 # game/Cell01_ArtDIVISION.rpy:223 #-#-# translate crowdin CHARA_A_MenuChoice_6184bf61_1:
 msgid "[_a_] No, not for now."
-msgstr ""
+msgstr "Нет, не сейчас."
 
 # game/Cell01_ArtDIVISION.rpy:225 #-#-# translate crowdin CHARA_A_MenuChoice_fc846623_1:
 msgid "[_a_] Maybe later."
@@ -3432,7 +3432,7 @@ msgstr "[_a_] ..."
 
 # game/Cell01_ArtDIVISION.rpy:2668 #-#-# translate crowdin Quest_A_SW_01_05_menu1_6184bf61:
 msgid "[_a_] No, not for now."
-msgstr ""
+msgstr "Нет, не сейчас."
 
 # game/Cell01_ArtDIVISION.rpy:2670 #-#-# translate crowdin Quest_A_SW_01_05_menu1_fc846623:
 msgid "[_a_] Maybe later."
