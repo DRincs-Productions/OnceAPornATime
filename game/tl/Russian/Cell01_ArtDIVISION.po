@@ -10,11 +10,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2024-03-21 14:03\n"
+"PO-Revision-Date: 2024-03-21 15:08\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_ArtDIVISION.rpy:151 #-#-# translate crowdin Cell01_ArtDIVISION_Menu01_ed0ef4ce:
 msgid "[_a_] Bonjour [name]!"
-msgstr "[_a_] Бонжур [имя]!"
+msgstr "Бонжур [имя]!"
 
 # game/Cell01_ArtDIVISION.rpy:179 #-#-# translate crowdin Cell01_ArtDIVISION_Charaselect_LY_259e399c:
 msgid "[_u_] See you later!"
@@ -86,7 +86,7 @@ msgstr "[_a_] Я бы тоже была удивлена."
 
 # game/Cell01_ArtDIVISION.rpy:367 #-#-# translate crowdin CHARA_A_MenuTalk_FirstTime_8f5edc43:
 msgid "[_u_] Yeah... that's kind of the idea."
-msgstr ""
+msgstr "Да... это вроде как идея."
 
 # game/Cell01_ArtDIVISION.rpy:369 #-#-# translate crowdin CHARA_A_MenuTalk_FirstTime_6c200ad5:
 msgid "[_a_] Actually... it's me who has a question for you:"
