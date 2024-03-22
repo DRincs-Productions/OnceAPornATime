@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-03-19 16:08\n"
+"PO-Revision-Date: 2024-03-22 20:50\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_BA.rpy:50 #-#-# translate crowdin CHARA_BA_Menu01_98aea068:
 msgid "[_ba_]  ... "
@@ -218,51 +218,51 @@ msgstr "[_u_] Très bien... si tu veux te mettre au travail... on va se mettre a
 
 # game/Cell01_BA.rpy:235 #-#-# translate crowdin Quest_BA_App01_01_714f5f70:
 msgid "[_u_] I've figured out how to make you a Sultana. "
-msgstr "[J'ai trouvé comment faire de vous une Sultane. "
+msgstr "[_u_] J'ai trouvé comment faire de toi une Sultane. "
 
 # game/Cell01_BA.rpy:237 #-#-# translate crowdin Quest_BA_App01_01_c7a0113c:
 msgid "[_ba_] Oh, really?"
-msgstr "[Oh, vraiment ?"
+msgstr "[_ba_] Oh, vraiment ?"
 
 # game/Cell01_BA.rpy:239 #-#-# translate crowdin Quest_BA_App01_01_704ad8f6:
 msgid "[_ba_] And what is this miracle plan? "
-msgstr "[Et quel est ce plan miracle ? "
+msgstr "[_ba_] Et quel est ton plan miracle ? "
 
 # game/Cell01_BA.rpy:241 #-#-# translate crowdin Quest_BA_App01_01_d4bb73a1:
 msgid "[_ba_] Have you convinced Sherazade to abdicate? "
-msgstr "[Avez-vous convaincu Shéhérazade d'abdiquer ? "
+msgstr "[_ba_] Tu as convaincu Shéhérazade d'abdiquer ? "
 
 # game/Cell01_BA.rpy:243 #-#-# translate crowdin Quest_BA_App01_01_f8dcf2d3:
 msgid "[_ba_] Or are you some kind of magician?"
-msgstr "[Ou êtes-vous une sorte de magicien ?"
+msgstr "[_ba_] Ou bien tu es un magicien ?"
 
 # game/Cell01_BA.rpy:244 #-#-# translate crowdin Quest_BA_App01_01_7385b207:
 msgid "[_u_] Indeed, it's something of a magic solution."
-msgstr "[_u_] En effet, il s'agit d'une solution un peu magique."
+msgstr "[_u_] On peut dire que c'est une solution magique."
 
 # game/Cell01_BA.rpy:246 #-#-# translate crowdin Quest_BA_App01_01_5f46ef61:
 msgid "[_ba_] Do you think I'm stupid? "
-msgstr "[Vous pensez que je suis stupide ? "
+msgstr "[_ba_] Tu me prends pour une idiote ? "
 
 # game/Cell01_BA.rpy:248 #-#-# translate crowdin Quest_BA_App01_01_099192e2:
 msgid "[_ba_] Why did I trust this Aladdin... "
-msgstr "[Pourquoi ai-je fait confiance à cet Aladin... "
+msgstr "[_ba_] Pourquoi j'ai cru cet Aladdin... "
 
 # game/Cell01_BA.rpy:250 #-#-# translate crowdin Quest_BA_App01_01_de4c53da:
 msgid "[_ba_] Admit it, you're not Shérazade's Vizier, but her buffoon. "
-msgstr "[Admettez-le, vous n'êtes pas le vizir de Shérazade, mais son bouffon. "
+msgstr "[_ba_] Avoue-le, tu n'es pas le vizir de Shéhérazade, mais son bouffon. "
 
 # game/Cell01_BA.rpy:251 #-#-# translate crowdin Quest_BA_App01_01_2bcc88db:
 msgid "[_u_] I'm Grand Vizier, not Vizier. "
-msgstr "[Je suis Grand Vizir, pas Vizir. "
+msgstr "[_u_] Je suis Grand Vizir, pas Vizir. "
 
 # game/Cell01_BA.rpy:253 #-#-# translate crowdin Quest_BA_App01_01_1e0eaa41:
 msgid "[_ba_] I thought you didn't like titles. "
-msgstr "[Je pensais que vous n'aimiez pas les titres. "
+msgstr "[_ba_] Et moi qui croyais que tu n'aimais pas les titres. "
 
 # game/Cell01_BA.rpy:254 #-#-# translate crowdin Quest_BA_App01_01_b3fb2eaf:
 msgid "[_u_] Here, take this. "
-msgstr "[Tenez, prenez ça. "
+msgstr "[_u_] Tiens, prends ça. "
 
 # game/Cell01_BA.rpy:263 #-#-# translate crowdin Quest_BA_App01_01_8c2bc9da:
 msgid "[_ba_] ?"
@@ -270,7 +270,7 @@ msgstr "[_ba_] ?"
 
 # game/Cell01_BA.rpy:265 #-#-# translate crowdin Quest_BA_App01_01_8028ec4c:
 msgid "[_ba_] What is it? "
-msgstr "[Qu'est-ce que c'est ? "
+msgstr "[_ba_] Qu'est-ce que c'est ? "
 
 # game/Cell01_BA.rpy:266 #-#-# translate crowdin Quest_BA_App01_01_a3c5334c:
 msgid "[_u_] A lamp."
@@ -278,11 +278,11 @@ msgstr "[_u_] Une lampe."
 
 # game/Cell01_BA.rpy:268 #-#-# translate crowdin Quest_BA_App01_01_f87cfb63:
 msgid "[_ba_] Yes, I guessed that... "
-msgstr "[Oui, je m'en doutais... "
+msgstr "[_ba_] J'avais remarqué, merci... "
 
 # game/Cell01_BA.rpy:270 #-#-# translate crowdin Quest_BA_App01_01_83442750:
 msgid "[_ba_] My goodness, I'm surrounded by idiots."
-msgstr "[Mon Dieu, je suis entouré d'idiots."
+msgstr "[_ba_] Mon Dieu, je suis entouré d'idiots."
 
 # game/Cell01_BA.rpy:271 #-#-# translate crowdin Quest_BA_App01_01_e8f5d7e7:
 msgid "[_u_] A magic lamp, to be exact. "
