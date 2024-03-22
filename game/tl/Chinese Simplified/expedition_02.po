@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-02-26 13:31\n"
+"PO-Revision-Date: 2024-03-22 10:26\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/expedition_02.rpy:17 #-#-# translate crowdin expedition_02_5f2bfafc:
 msgid "[_u_] I don't need this drone at the moment. "
@@ -22,11 +22,11 @@ msgstr ""
 
 # §translate crowdin strings: #|#|# # game/expedition_02.rpy:71
 msgid "$Drone Energy Boost 3AP ([ITEM_DRONE_2APBOOST] left) "
-msgstr ""
+msgstr "$无人机的能量助推器 3AP (剩余[ITEM_DRONE_2APBOOST]) "
 
 # game/expedition_02.rpy:71
 msgid "$Drone Energy Boost 5AP ([ITEM_DRONE_5APBOOST] left) "
-msgstr ""
+msgstr "$无人机的能量助推器 5AP (剩余[ITEM_DRONE_5APBOOST]) "
 
 # game/expedition_02.rpy:71
 msgid "$No thanks !"
