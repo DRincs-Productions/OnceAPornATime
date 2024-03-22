@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-03-22 08:34\n"
+"PO-Revision-Date: 2024-03-22 10:25\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Room_01_Ordi.rpy:7 #-#-# translate crowdin room01_ordi01_In_f3a4608f:
 msgid "[_u_] Let's try to open that door first."
@@ -358,175 +358,175 @@ msgstr "您角色的名称现在为{color=#a0fc86}[name]{/color}。"
 
 # §translate crowdin strings: #|#|# # game/Room_01_Ordi.rpy:28
 msgid "{color=#3ad8ff}= Go on the Computer ={/color}"
-msgstr ""
+msgstr "{color=#3ad8ff}= 使用电脑 ={/color}"
 
 # game/Room_01_Ordi.rpy:28
 msgid "= Call Tinker Bell ="
-msgstr ""
+msgstr "= 呼叫小叮当 ="
 
 # game/Room_01_Ordi.rpy:28
 msgid "=Back to the office="
-msgstr ""
+msgstr "=回到办公室="
 
 # game/Room_01_Ordi.rpy:92
 msgid "== You have:{color=#a0fc86} [MONEY] Credits {/color}/{color=#3c96f2} [CLOTHEDATA] Clothes Data {/color}/{color=#f2923c} [CHARADATA] Character Datas {/color} /{color=#a0fc86} [ITEM_CLOTHESSCRAPS01] Clothes Scraps {/color} =="
-msgstr ""
+msgstr "== 你拥有:{color=#a0fc86} [MONEY] 枚誉币 {/color}/{color=#3c96f2} [CLOTHEDATA] 个衣服数据 {/color}/{color=#f2923c} [CHARADATA] 个角色数据 {/color} /{color=#a0fc86} [ITEM_CLOTHESSCRAPS01] 个衣服碎片 {/color} =="
 
 # game/Room_01_Ordi.rpy:92
 msgid "{color=#3ad8ff}=STORE={/color}"
-msgstr ""
+msgstr "{color=#3ad8ff}=商店={/color}"
 
 # game/Room_01_Ordi.rpy:92
 msgid "{color=#b4f08f}=Gallery={/color}"
-msgstr ""
+msgstr "{color=#b4f08f}=画廊={/color}"
 
 # game/Room_01_Ordi.rpy:92
 msgid "{color=#ff9865}=Patreon Code={/color}"
-msgstr ""
+msgstr "{color=#ff9865}=Patreon代码={/color}"
 
 # game/Room_01_Ordi.rpy:92
 msgid "{color=#3ad8ff}=Room Customization={/color}"
-msgstr ""
+msgstr "{color=#3ad8ff}=自定义房间={/color}"
 
 # game/Room_01_Ordi.rpy:92
 msgid "{color=#797979}=Cheats :OFF={/color}"
-msgstr ""
+msgstr "{color=#797979}=作弊：关={/color}"
 
 # game/Room_01_Ordi.rpy:92
 msgid "{color=#797979}=Cheats :{color=#a0fc86}ON{/color}={/color}"
-msgstr ""
+msgstr "{color=#797979}=作弊：{color=#a0fc86}开{/color}={/color}"
 
 # game/Room_01_Ordi.rpy:92
 msgid "{color=#d743c7}LASTS CUSTOM{/color} "
-msgstr ""
+msgstr "{color=#d743c7}上次自定义{/color} "
 
 # game/Room_01_Ordi.rpy:92
 msgid "{color=#d743c7}ALL CUSTOM{/color} "
-msgstr ""
+msgstr "{color=#d743c7}所有自定义{/color} "
 
 # game/Room_01_Ordi.rpy:92
 msgid "default office_01_customs_p06_04UNLOCK = False"
-msgstr ""
+msgstr "default office_01_customs_p06_04UNLOCK = False"
 
 # game/Room_01_Ordi.rpy:289
 msgid "== You have:{color=#a0fc86} [MONEY] Credits {/color}/{color=#a0fc86} [IMAGEDATA] Image Datas {/color}/{color=#3c96f2} [CLOTHEDATA] Clothes Data {/color}/{color=#f2923c} [CHARADATA] Character Datas {/color} /{color=#a0fc86} [ITEM_CLOTHESSCRAPS01] Clothes Scraps {/color} =="
-msgstr ""
+msgstr "== 你拥有:{color=#a0fc86} [MONEY] 枚誉币 {/color}/{color=#3c96f2} [CLOTHEDATA] 个图像数据 {/color}/{color=#f2923c} [CHARADATA] 个角色数据 {/color} /{color=#a0fc86} [ITEM_CLOTHESSCRAPS01] 个衣服碎片 {/color} =="
 
 # game/Room_01_Ordi.rpy:289
 msgid "$=1= Clothes Data {color=#a0fc86}(75c){/color}"
-msgstr ""
+msgstr "$=1= 衣服数据 {color=#a0fc86}(75c){/color}"
 
 # game/Room_01_Ordi.rpy:289
 msgid "$=1= Character Data {color=#a0fc86}(505c){/color}"
-msgstr ""
+msgstr "$=1= 角色数据 {color=#a0fc86}(505c){/color}"
 
 # game/Room_01_Ordi.rpy:289
 msgid "$=1= Drone Energy Boost 3AP (One-time use) {color=#a0fc86}(30c){/color}"
-msgstr ""
+msgstr "$=1= 无人机的能量助推器 3AP (只能用一次) {color=#a0fc86}(30c){/color}"
 
 # game/Room_01_Ordi.rpy:289
 msgid "$=1= Drone Energy Boost 5AP (One-time use) {color=#a0fc86}(55c){/color}"
-msgstr ""
+msgstr "$=1= 无人机的能量助推器 5AP (只能用一次) {color=#a0fc86}(55c){/color}"
 
 # game/Room_01_Ordi.rpy:289
 msgid "$=1= Clothes Scraps {color=#a0fc86}(20c){/color}"
-msgstr ""
+msgstr "$=1= 衣服碎片 {color=#a0fc86}(20c){/color}"
 
 # game/Room_01_Ordi.rpy:371
 msgid "== You have:{color=#a0fc86} [MONEY] Credits {/color} =="
-msgstr ""
+msgstr "== 你拥有:{color=#a0fc86} [MONEY] 枚誉币 {/color} =="
 
 # game/Room_01_Ordi.rpy:371
 msgid "$=1= Apple candy {color=#a0fc86}(30c){/color}"
-msgstr ""
+msgstr "$=1= 苹果糖 {color=#a0fc86}(30c){/color}"
 
 # game/Room_01_Ordi.rpy:371
 msgid "$=1= Apple cider {color=#a0fc86}(50c){/color}"
-msgstr ""
+msgstr "$=1= 苹果酒 {color=#a0fc86}(50c){/color}"
 
 # game/Room_01_Ordi.rpy:371
 msgid "$=1= Apple basket {color=#a0fc86}(22c){/color}"
-msgstr ""
+msgstr "$=1= 苹果篮 {color=#a0fc86}(22c){/color}"
 
 # game/Room_01_Ordi.rpy:371
 msgid "$=1= Cupid apples basket {color=#a0fc86}(36c){/color}"
-msgstr ""
+msgstr "$=1= 丘比特苹果篮 {color=#a0fc86}(36c){/color}"
 
 # game/Room_01_Ordi.rpy:431
 msgid "$=1= Drone Energy Boost 5AP (One-time use) {color=#a0fc86}(51c){/color}"
-msgstr ""
+msgstr "$=1= 无人机的能量助推器 5AP (只能用一次) {color=#a0fc86}(51c){/color}"
 
 # game/Room_01_Ordi.rpy:431
 msgid "$=1= Emergency Energy Cell (One-time use) {color=#a0fc86}(40c){/color}"
-msgstr ""
+msgstr "$=1= 紧急能量电池 (只能用一次) {color=#a0fc86}(40c){/color}"
 
 # game/Room_01_Ordi.rpy:478
 msgid "$Office Coffee Machine {color=#a0fc86}(51c){/color}"
-msgstr ""
+msgstr "$办公室咖啡机 {color=#a0fc86}(51c){/color}"
 
 # game/Room_01_Ordi.rpy:478
 msgid "$Office Orchid {color=#a0fc86}(42c){/color}"
-msgstr ""
+msgstr "$办公室兰花 {color=#a0fc86}(42c){/color}"
 
 # game/Room_01_Ordi.rpy:478
 msgid "$Office Lamp {color=#a0fc86}(35c){/color}"
-msgstr ""
+msgstr "$办公室灯 {color=#a0fc86}(35c){/color}"
 
 # game/Room_01_Ordi.rpy:478
 msgid "$Office Folders {color=#a0fc86}(20c){/color}"
-msgstr ""
+msgstr "$办公室文件夹 {color=#a0fc86}(20c){/color}"
 
 # game/Room_01_Ordi.rpy:478
 msgid "$Office Carpet {color=#a0fc86}(30c){/color}"
-msgstr ""
+msgstr "$办公室地毯 {color=#a0fc86}(30c){/color}"
 
 # game/Room_01_Ordi.rpy:554
 msgid "{color=#b4f08f}={/color} {color=#ffc9a2}Quest images{/color} {color=#b4f08f}={/color}"
-msgstr ""
+msgstr "{color=#b4f08f}={/color} {color=#ffc9a2}任务图像{/color} {color=#b4f08f}={/color}"
 
 # game/Room_01_Ordi.rpy:554
 msgid "{color=#b4f08f}={/color} {color=#da96ff}Character Affinity images{/color} {color=#b4f08f}={/color}"
-msgstr ""
+msgstr "{color=#b4f08f}={/color} {color=#da96ff}角色好感图像{/color} {color=#b4f08f}={/color}"
 
 # game/Room_01_Ordi.rpy:567
 msgid " {color=#ffc9a2}(SPY_ORIENTAL_BATH){/color} "
-msgstr ""
+msgstr " {color=#ffc9a2}(监视_东方_浴缸){/color} "
 
 # game/Room_01_Ordi.rpy:567
 msgid " {color=#ffc9a2}(SPY_ORIENTAL_BATH_02){/color} "
-msgstr ""
+msgstr " {color=#ffc9a2}(监视_东方_浴缸_02){/color} "
 
 # game/Room_01_Ordi.rpy:567
 msgid " {color=#636363}(_LOCK_){/color} "
-msgstr ""
+msgstr " {color=#636363}(_锁定_){/color} "
 
 # game/Room_01_Ordi.rpy:567
 msgid " {color=#ffc9a2}(ORIENTAL_KISS){/color} "
-msgstr ""
+msgstr " {color=#ffc9a2}(东方_吻){/color} "
 
 # game/Room_01_Ordi.rpy:567
 msgid " {color=#ffc9a2}(THE_SULTANA){/color} "
-msgstr ""
+msgstr " {color=#ffc9a2}(苏丹娜){/color} "
 
 # game/Room_01_Ordi.rpy:567
 msgid " {color=#ffc9a2}(QIU){/color} "
-msgstr ""
+msgstr " {color=#ffc9a2}(QIU){/color} "
 
 # game/Room_01_Ordi.rpy:567
 msgid " {color=#ffc9a2}(DE-PRINCESSING){/color} "
-msgstr ""
+msgstr " {color=#ffc9a2}(DE-PRINCESSING){/color} "
 
 # game/Room_01_Ordi.rpy:567
 msgid " {color=#ffc9a2}(PRINCESS_EMEE){/color} "
-msgstr ""
+msgstr " {color=#ffc9a2}(PRINCESS_EMEE){/color} "
 
 # game/Room_01_Ordi.rpy:567
 msgid " {color=#ffc9a2}(SUCCK){/color} "
-msgstr ""
+msgstr " {color=#ffc9a2}(SUCCK){/color} "
 
 # game/Room_01_Ordi.rpy:567
 msgid " {color=#ffc9a2}(THE FEATHER'S AGONY){/color} "
-msgstr ""
+msgstr " {color=#ffc9a2}(THE FEATHER'S AGONY){/color} "
 
 # game/Room_01_Ordi.rpy:567
 msgid " {color=#ffc9a2}(NOBLE BATH){/color} "
