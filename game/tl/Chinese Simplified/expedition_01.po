@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-02-26 13:31\n"
+"PO-Revision-Date: 2024-03-22 10:26\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/expedition_01.rpy:72 #-#-# translate crowdin expedition_01lvl01_44b42dfd:
 msgid "The Drone have [ITEM_DRONE_EMERCELL01_UTILISATIONS] Emergency Energy Cell. ( [ITEM_DRONE_EMERCELL01] left in your inventory.) "
@@ -34,7 +34,7 @@ msgstr ""
 
 # game/expedition_01.rpy:84 #-#-# translate crowdin expedition_01lvl01_52c5c1a3:
 msgid "Ok! Drone Energy Boost 3AP used ! "
-msgstr ""
+msgstr "好嘞！已使用无人机的能量助推器 3AP ！ "
 
 # game/expedition_01.rpy:87 #-#-# translate crowdin expedition_01lvl01_1799ad5b:
 msgid "Drone AP set to: {color=#3797d1}[PA_DRONE01]{/color} AP."
@@ -42,7 +42,7 @@ msgstr ""
 
 # game/expedition_01.rpy:89 #-#-# translate crowdin expedition_01lvl01_cca8e0c8:
 msgid "Ok! Drone Energy Boost 5AP used ! "
-msgstr ""
+msgstr "好嘞！已使用无人机的能量助推器 5AP ！ "
 
 # game/expedition_01.rpy:92 #-#-# translate crowdin expedition_01lvl01_1799ad5b_1:
 msgid "Drone AP set to: {color=#3797d1}[PA_DRONE01]{/color} AP."
@@ -406,11 +406,11 @@ msgstr ""
 
 # §translate crowdin strings: #|#|# # game/expedition_01.rpy:82
 msgid " Drone Energy Boost 3AP ([ITEM_DRONE_2APBOOST] left) "
-msgstr ""
+msgstr " 无人机的能量助推器 3AP (剩余[ITEM_DRONE_2APBOOST]) "
 
 # game/expedition_01.rpy:82
 msgid " Drone Energy Boost 5AP ([ITEM_DRONE_5APBOOST] left) "
-msgstr ""
+msgstr " 无人机的能量助推器 5AP (剩余[ITEM_DRONE_5APBOOST]) "
 
 # game/expedition_01.rpy:82
 msgid " No thanks !"
