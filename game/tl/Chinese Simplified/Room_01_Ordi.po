@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-03-19 16:11\n"
+"PO-Revision-Date: 2024-03-22 08:34\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Room_01_Ordi.rpy:7 #-#-# translate crowdin room01_ordi01_In_f3a4608f:
 msgid "[_u_] Let's try to open that door first."
@@ -318,7 +318,7 @@ msgstr "你没有作弊点数了。 "
 
 # game/Room_01_Ordi.rpy:860 #-#-# translate crowdin room01_ordi01_Cheats_eb9861b4:
 msgid "{color=#f2923c}== +800 Credits added! =={/color}"
-msgstr ""
+msgstr "{color=#f2923c}== 已添加+800枚誉币！=={/color}"
 
 # game/Room_01_Ordi.rpy:867 #-#-# translate crowdin room01_ordi01_Cheats_67412914_1:
 msgid "You don't have any Cheat Points left. "
@@ -326,7 +326,7 @@ msgstr "你没有作弊点数了。 "
 
 # game/Room_01_Ordi.rpy:873 #-#-# translate crowdin room01_ordi01_Cheats_c575b770:
 msgid "{color=#f2923c}== +25 Clothes Scraps added! =={/color}"
-msgstr ""
+msgstr "{color=#f2923c}== 已添加+25衣服碎片！ =={/color}"
 
 # game/Room_01_Ordi.rpy:880 #-#-# translate crowdin room01_ordi01_Cheats_67412914_2:
 msgid "You don't have any Cheat Points left. "
@@ -334,7 +334,7 @@ msgstr "你没有作弊点数了。 "
 
 # game/Room_01_Ordi.rpy:886 #-#-# translate crowdin room01_ordi01_Cheats_2688da9b:
 msgid "{color=#f2923c}== +10 Clothes Data added! =={/color}"
-msgstr ""
+msgstr "{color=#f2923c}== 已添加+10个衣服数据！ =={/color}"
 
 # game/Room_01_Ordi.rpy:893 #-#-# translate crowdin room01_ordi01_Cheats_67412914_3:
 msgid "You don't have any Cheat Points left. "
@@ -342,11 +342,11 @@ msgstr "你没有作弊点数了。 "
 
 # game/Room_01_Ordi.rpy:899 #-#-# translate crowdin room01_ordi01_Cheats_1291862e:
 msgid "{color=#f2923c}== +2 Character Data added! =={/color}"
-msgstr ""
+msgstr "{color=#f2923c}== 已添加+2个角色数据！ =={/color}"
 
 # game/Room_01_Ordi.rpy:911 #-#-# translate crowdin room01_ordi01_Cheats_75f93969:
 msgid "Your character's name is now {color=#a0fc86}[name]{/color}."
-msgstr ""
+msgstr "您角色的名称现在为{color=#a0fc86}[name]{/color}。"
 
 # game/Room_01_Ordi.rpy:917 #-#-# translate crowdin room01_ordi01_Cheats_67412914_4:
 msgid "You don't have any Cheat Points left. "
@@ -354,7 +354,7 @@ msgstr "你没有作弊点数了。 "
 
 # game/Room_01_Ordi.rpy:926 #-#-# translate crowdin room01_ordi01_Cheats_75f93969_1:
 msgid "Your character's name is now {color=#a0fc86}[name]{/color}."
-msgstr ""
+msgstr "您角色的名称现在为{color=#a0fc86}[name]{/color}。"
 
 # §translate crowdin strings: #|#|# # game/Room_01_Ordi.rpy:28
 msgid "{color=#3ad8ff}= Go on the Computer ={/color}"
