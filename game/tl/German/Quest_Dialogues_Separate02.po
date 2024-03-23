@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2024-03-16 17:27\n"
+"PO-Revision-Date: 2024-03-23 21:28\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Quest_Dialogues_Separate02.rpy:69 #-#-# translate crowdin Quest2_Room01Panel01screen_E_8240cba6:
 msgid "[_u_] Got it!"
@@ -2778,7 +2778,7 @@ msgstr ""
 
 # game/Quest_Dialogues_Separate02.rpy:2142 #-#-# translate crowdin QuestChap2_Jasmine01_13_3ff79084:
 msgid "[_u_] Hm..."
-msgstr ""
+msgstr "Hm..."
 
 # game/Quest_Dialogues_Separate02.rpy:2143 #-#-# translate crowdin QuestChap2_Jasmine01_13_665aebba:
 msgid "[_u_] Well... where the hell did she put that book?"
