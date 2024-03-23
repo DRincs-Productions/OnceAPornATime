@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2024-03-01 16:47\n"
+"PO-Revision-Date: 2024-03-23 23:11\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Room_Showers.rpy:121 #-#-# translate crowdin ML_ShowerCams01_02_ec3b9bb7:
 msgid "[_u_] Meli?"
@@ -130,7 +130,7 @@ msgstr ""
 
 # game/Room_Showers.rpy:209 #-#-# translate crowdin A_GoShower_menu1_bb8e4b4e:
 msgid "[_a_] ..."
-msgstr ""
+msgstr "..."
 
 # game/Room_Showers.rpy:211 #-#-# translate crowdin A_GoShower_menu1_f605f3b8:
 msgid "[_a_] What am I apologizing for?"
@@ -218,7 +218,7 @@ msgstr ""
 
 # game/Room_Showers.rpy:269 #-#-# translate crowdin A_GoShower_menu1_bb8e4b4e_1:
 msgid "[_a_] ..."
-msgstr ""
+msgstr "..."
 
 # game/Room_Showers.rpy:271 #-#-# translate crowdin A_GoShower_menu1_7b649b32:
 msgid "[_ly_] What?"
@@ -330,7 +330,7 @@ msgstr ""
 
 # game/Room_Showers.rpy:333 #-#-# translate crowdin A_GoShower_menu1_bb8e4b4e_2:
 msgid "[_a_] ..."
-msgstr ""
+msgstr "..."
 
 # game/Room_Showers.rpy:335 #-#-# translate crowdin A_GoShower_menu1_170b0f6c:
 msgid "[_a_] It's true that... it doesn't look so bad..."
@@ -434,7 +434,7 @@ msgstr ""
 
 # game/Room_Showers.rpy:402 #-#-# translate crowdin A_GoShower_menu1_bb8e4b4e_3:
 msgid "[_a_] ..."
-msgstr ""
+msgstr "..."
 
 # game/Room_Showers.rpy:405 #-#-# translate crowdin A_GoShower_menu1_a06baf43:
 msgid "[_a_] It's true that it would be a shame to miss out on this kind of moment... "
@@ -458,7 +458,7 @@ msgstr ""
 
 # game/Room_Showers.rpy:428 #-#-# translate crowdin A_GoShower_menu1_bb8e4b4e_4:
 msgid "[_a_] ..."
-msgstr ""
+msgstr "..."
 
 # game/Room_Showers.rpy:431 #-#-# translate crowdin A_GoShower_menu1_1bf38ea2:
 msgid "[_a_] However... I've already had my shower so uh... "
