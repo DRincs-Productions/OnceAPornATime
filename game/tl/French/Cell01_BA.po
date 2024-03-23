@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-03-22 20:50\n"
+"PO-Revision-Date: 2024-03-23 03:56\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_BA.rpy:50 #-#-# translate crowdin CHARA_BA_Menu01_98aea068:
 msgid "[_ba_]  ... "
@@ -294,23 +294,23 @@ msgstr "[_ba_] ..."
 
 # game/Cell01_BA.rpy:275 #-#-# translate crowdin Quest_BA_App01_01_921abd65:
 msgid "[_ba_] I can't decide whether to give you a taste of my sword, or leave you in the middle of the desert. "
-msgstr "[Je ne sais pas si je dois te faire goûter à mon épée ou te laisser au milieu du désert. "
+msgstr "[_ba_] Je ne sais pas si je devrais te faire goûter à mon épée ou t'abandonner au milieu du désert. "
 
 # game/Cell01_BA.rpy:276 #-#-# translate crowdin Quest_BA_App01_01_b81c407a:
 msgid "[_u_] What if it's true? What will you do? "
-msgstr "[Et si c'est vrai ? Que ferez-vous ? "
+msgstr "[_u_] Et si c'est vrai ? Que feras-tu ? "
 
 # game/Cell01_BA.rpy:278 #-#-# translate crowdin Quest_BA_App01_01_1f61ba70:
 msgid "[_ba_] You'll have escaped the desert - that's a good start, isn't it? "
-msgstr "[Vous aurez échappé au désert - c'est un bon début, n'est-ce pas ? "
+msgstr "[_ba_] Tu échapperas au désert - c'est déjà pas mal, non ? "
 
 # game/Cell01_BA.rpy:280 #-#-# translate crowdin Quest_BA_App01_01_52774167:
 msgid "[_ba_] So you think this thing is magic? "
-msgstr "[Vous pensez donc que cette chose est magique ? "
+msgstr "[_ba_] Donc tu penses que cette chose est magique ? "
 
 # game/Cell01_BA.rpy:282 #-#-# translate crowdin Quest_BA_App01_01_3ed97df5:
 msgid "[_ba_] And you expect me to believe that like... a djin is stuck in there? "
-msgstr "[Et vous voulez me faire croire qu'un djin est coincé là-dedans ? "
+msgstr "[_ba_] Et tu veux me faire croire qu'un... un djin est coincé là-dedans ? "
 
 # game/Cell01_BA.rpy:283 #-#-# translate crowdin Quest_BA_App01_01_07c612b3:
 msgid "[_u_] Well..."
@@ -318,11 +318,11 @@ msgstr "[_u_] Eh bien..."
 
 # game/Cell01_BA.rpy:294 #-#-# translate crowdin Quest_BA_App01_01_795609eb:
 msgid "[_ba_] So you weren't kidding... "
-msgstr "[Vous ne plaisantiez donc pas... "
+msgstr "[_ba_] Donc tu étais sérieux... "
 
 # game/Cell01_BA.rpy:296 #-#-# translate crowdin Quest_BA_App01_01_5ffe1480:
 msgid "[_ba_] That's..."
-msgstr "[C'est..."
+msgstr "[_ba_] C'est..."
 
 # game/Cell01_BA.rpy:297 #-#-# translate crowdin Quest_BA_App01_01_7611efb4_1:
 msgid "[_ba_] ..."
@@ -330,63 +330,63 @@ msgstr "[_ba_] ..."
 
 # game/Cell01_BA.rpy:300 #-#-# translate crowdin Quest_BA_App01_01_c0ed89e7:
 msgid "[_ba_] That's pretty cool."
-msgstr "[C'est plutôt cool."
+msgstr "[_ba_] C'est plutôt cool."
 
 # game/Cell01_BA.rpy:302 #-#-# translate crowdin Quest_BA_App01_01_c85d86d3:
 msgid "[_ba_] Maybe you're not so useless after all!"
-msgstr "[Peut-être que vous n'êtes pas si inutile après tout !"
+msgstr "[_ba_] Tu n'es peut-être pas si inutile après tout !"
 
 # game/Cell01_BA.rpy:305 #-#-# translate crowdin Quest_BA_App01_01_85fcd0e5:
 msgid "[_ba_] So... I have three wishes, right? "
-msgstr "[Alors... j'ai trois souhaits, n'est-ce pas ? "
+msgstr "[_ba_] Du coup... j'ai trois vœux, pas vrai ? "
 
 # game/Cell01_BA.rpy:307 #-#-# translate crowdin Quest_BA_App01_01_bd4a0ea6:
 msgid "[_dj_] Uh... I..."
-msgstr "[Euh... Je..."
+msgstr "[_dj_] Euh... Je..."
 
 # game/Cell01_BA.rpy:309 #-#-# translate crowdin Quest_BA_App01_01_5ace2fe3:
 msgid "[_ba_] First of all, I wish I had all the gold in the kingdom."
-msgstr "[Tout d'abord, j'aimerais avoir tout l'or du royaume."
+msgstr "[_ba_] Tout d'abord, je souhaite avoir tout l'or du royaume."
 
 # game/Cell01_BA.rpy:311 #-#-# translate crowdin Quest_BA_App01_01_e703a6fb:
 msgid "[_ba_] And secondly I wish to be the Sultana of this kingdom and replace Sherazade!"
-msgstr "[Et deuxièmement, je souhaite devenir la sultane de ce royaume et remplacer Shéhérazade !"
+msgstr "[_ba_] Ensuite, je souhaite devenir la Sultane de ce royaume à la place de Shéhérazade !"
 
 # game/Cell01_BA.rpy:313 #-#-# translate crowdin Quest_BA_App01_01_847536df:
 msgid "[_dj_] Oh dear, that's an ambitious woman!"
-msgstr "[Oh là là, c'est une femme ambitieuse !"
+msgstr "[_dj_] Oh là là, on a une femme ambitieuse !"
 
 # game/Cell01_BA.rpy:316 #-#-# translate crowdin Quest_BA_App01_01_fdbd526d:
 msgid "[_dj_] You're aware that if I follow your wishes to the letter... you'll be in for a big surprise? "
-msgstr "[Vous savez que si je suis vos souhaits à la lettre... vous aurez une grosse surprise ? "
+msgstr "[_dj_] Tu es consciente que si je décide de suivre tes souhaits à la lettre... tu vas avoir une mauvaise surprise ? "
 
 # game/Cell01_BA.rpy:318 #-#-# translate crowdin Quest_BA_App01_01_9a5d901f:
 msgid "[_ba_] What do you mean?"
-msgstr "[Que voulez-vous dire ?"
+msgstr "[_ba_] Comment ça ?"
 
 # game/Cell01_BA.rpy:320 #-#-# translate crowdin Quest_BA_App01_01_083354ce:
 msgid "[_dj_] If I follow your wishes precisely... "
-msgstr "[Si je suis vos souhaits à la lettre... "
+msgstr "[_dj_] Si je respecte scrupuleusement tes vœux... "
 
 # game/Cell01_BA.rpy:322 #-#-# translate crowdin Quest_BA_App01_01_4364339b:
 msgid "[_dj_] For your first wish, you could find yourself buried under a pile of gold."
-msgstr "[_dj_] Pour votre premier souhait, vous pourriez vous retrouver enterré sous une pile d'or."
+msgstr "[_dj_] Pour ton premier souhait, tu pourrais te retrouver enterrée sous une pile d'or."
 
 # game/Cell01_BA.rpy:325 #-#-# translate crowdin Quest_BA_App01_01_0fb4584a:
 msgid "[_dj_] ( It's a classic I'm particularly fond of ~ )"
-msgstr "( C'est un classique que j'affectionne particulièrement ~ )"
+msgstr "[_dj_] (C'est un classique que j'affectionne particulièrement ~)"
 
 # game/Cell01_BA.rpy:328 #-#-# translate crowdin Quest_BA_App01_01_29665228:
 msgid "[_dj_] And for the second one... I could very well change your body with Sherazade. "
-msgstr "[Et pour la seconde... Je pourrais très bien changer ton corps avec Sherazade. "
+msgstr "[_dj_] Et pour le deuxième... je pourrais très bien échanger ton corps avec celui de Shéhérazade. "
 
 # game/Cell01_BA.rpy:330 #-#-# translate crowdin Quest_BA_App01_01_9f8044a3:
 msgid "[_ba_] What? NO!"
-msgstr "[Quoi ? NON !"
+msgstr "[_ba_] Quoi ? NON !"
 
 # game/Cell01_BA.rpy:331 #-#-# translate crowdin Quest_BA_App01_01_60ce351d:
 msgid "[_u_] Oh yes! I love body swapping. "
-msgstr "[Oh oui ! J'adore les échanges de corps. "
+msgstr "[_u_] Oh oui ! J'adore les échanges de corps. "
 
 # game/Cell01_BA.rpy:333 #-#-# translate crowdin Quest_BA_App01_01_13f6f189:
 msgid "[_ba_] No, wait! I want to change my wishes!!!"
