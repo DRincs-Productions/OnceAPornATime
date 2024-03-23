@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2024-03-17 19:31\n"
+"PO-Revision-Date: 2024-03-23 21:28\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_AM.rpy:86 #-#-# translate crowdin CHARA_AM_Menu01_c781f953:
 msgid "[_am_] Hey!"
@@ -1110,11 +1110,11 @@ msgstr "[_scc_] ..."
 
 # game/Cell01_AM.rpy:1063 #-#-# translate crowdin QuestChap2_Amelia01_06_menu02_P3_b2dda0c6:
 msgid "[_scc_] Is this what you want? "
-msgstr ""
+msgstr "Ist es das, was du wolltest? "
 
 # game/Cell01_AM.rpy:1065 #-#-# translate crowdin QuestChap2_Amelia01_06_menu02_P3_76718042:
 msgid "[_am_] Great!"
-msgstr ""
+msgstr "Super!"
 
 # game/Cell01_AM.rpy:1067 #-#-# translate crowdin QuestChap2_Amelia01_06_menu02_P3_f6015b96:
 msgid "[_am_] Thank you very much!"
@@ -1182,7 +1182,7 @@ msgstr ""
 
 # game/Cell01_AM.rpy:1112 #-#-# translate crowdin QuestChap2_Amelia01_06_menu02_P3_76718042_1:
 msgid "[_am_] Great!"
-msgstr ""
+msgstr "Super!"
 
 # game/Cell01_AM.rpy:1114 #-#-# translate crowdin QuestChap2_Amelia01_06_menu02_P3_6c19f4a8:
 msgid "[_am_] I'm sure Succk and I will become best friends!"
