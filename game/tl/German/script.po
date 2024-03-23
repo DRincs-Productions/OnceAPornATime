@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2024-03-16 18:35\n"
+"PO-Revision-Date: 2024-03-23 21:28\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # §translate crowdin strings: #|#|# # game/script.rpy:935
 msgid "Changelog"
@@ -226,21 +226,21 @@ msgstr ""
 
 # game/script.rpy:1155
 msgid "Undefined Luggage"
-msgstr ""
+msgstr "Undefiniertes Gepäck"
 
 # game/script.rpy:1156
 msgid "List of Sex Fantasies"
-msgstr ""
+msgstr "Liste der Sex-Fantasien"
 
 # game/script.rpy:1157
 msgid "White Peacock feather"
-msgstr ""
+msgstr "Weiße Pfauenfeder"
 
 # game/script.rpy:1158
 msgid "Sherazade Garment"
-msgstr ""
+msgstr "Sherazade Kleid"
 
 # game/script.rpy:1159
 msgid "Little Horn"
-msgstr ""
+msgstr "Kleines Horn"
 
