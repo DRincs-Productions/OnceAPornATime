@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2024-03-01 18:11\n"
+"PO-Revision-Date: 2024-03-23 23:11\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Quest_Rooms_Separate02.rpy:125 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_peruche_1ffa9899:
 msgid "[_u_] What are you doing here? "
@@ -1486,7 +1486,7 @@ msgstr ""
 
 # game/Quest_Rooms_Separate02.rpy:1286 #-#-# translate crowdin Quest_A_SW_01_02_menu1_P2_bb8e4b4e:
 msgid "[_a_] ..."
-msgstr ""
+msgstr "..."
 
 # game/Quest_Rooms_Separate02.rpy:1296 #-#-# translate crowdin Quest_A_SW_01_02_menu1_P2_4b0e7f04:
 msgid "[_sw_] I'm super calm."
@@ -1590,7 +1590,7 @@ msgstr ""
 
 # game/Quest_Rooms_Separate02.rpy:1352 #-#-# translate crowdin Quest_A_SW_01_02_menu1_P2_bb8e4b4e_1:
 msgid "[_a_] ..."
-msgstr ""
+msgstr "..."
 
 # game/Quest_Rooms_Separate02.rpy:1354 #-#-# translate crowdin Quest_A_SW_01_02_menu1_P2_d50974be:
 msgid "[_a_] She sounds lovely."
@@ -1854,7 +1854,7 @@ msgstr ""
 
 # game/Quest_Rooms_Separate02.rpy:1603 #-#-# translate crowdin Quest_A_SW_01_03_menu2_END_bb8e4b4e:
 msgid "[_a_] ..."
-msgstr ""
+msgstr "..."
 
 # game/Quest_Rooms_Separate02.rpy:1605 #-#-# translate crowdin Quest_A_SW_01_03_menu2_END_359613ab:
 msgid "[_a_] Now that's strange... "
@@ -1918,7 +1918,7 @@ msgstr ""
 
 # game/Quest_Rooms_Separate02.rpy:1644 #-#-# translate crowdin Quest_A_SW_01_03_menu2_END_bb8e4b4e_1:
 msgid "[_a_] ..."
-msgstr ""
+msgstr "..."
 
 # game/Quest_Rooms_Separate02.rpy:1646 #-#-# translate crowdin Quest_A_SW_01_03_menu2_END_d1adf163:
 msgid "[_ml_] Don't look at me like that, I'm originally just an intern! I don't know how everything works!"
@@ -2258,7 +2258,7 @@ msgstr ""
 
 # game/Quest_Rooms_Separate02.rpy:1887 #-#-# translate crowdin Scene_SnowWhite01_bb8e4b4e:
 msgid "[_a_] ..."
-msgstr ""
+msgstr "..."
 
 # game/Quest_Rooms_Separate02.rpy:1889 #-#-# translate crowdin Scene_SnowWhite01_a43b830c:
 msgid "[_a_] Are you getting your dick sucked by Snow White?"
@@ -2274,7 +2274,7 @@ msgstr ""
 
 # game/Quest_Rooms_Separate02.rpy:1894 #-#-# translate crowdin Scene_SnowWhite01_bb8e4b4e_1:
 msgid "[_a_] ..."
-msgstr ""
+msgstr "..."
 
 # game/Quest_Rooms_Separate02.rpy:1896 #-#-# translate crowdin Scene_SnowWhite01_be50303e:
 msgid "[_a_] Well... I'll let you have your fun!"
@@ -2314,7 +2314,7 @@ msgstr ""
 
 # game/Quest_Rooms_Separate02.rpy:1911 #-#-# translate crowdin Scene_SnowWhite01_bb8e4b4e_2:
 msgid "[_a_] ..."
-msgstr ""
+msgstr "..."
 
 # game/Quest_Rooms_Separate02.rpy:1913 #-#-# translate crowdin Scene_SnowWhite01_1dcaa108:
 msgid "[_a_] Would you really be up for it? "
@@ -2330,7 +2330,7 @@ msgstr ""
 
 # game/Quest_Rooms_Separate02.rpy:1926 #-#-# translate crowdin Scene_SnowWhite01_bb8e4b4e_3:
 msgid "[_a_] ..."
-msgstr ""
+msgstr "..."
 
 # game/Quest_Rooms_Separate02.rpy:1928 #-#-# translate crowdin Scene_SnowWhite01_1ac02418:
 msgid "[_a_] Ok, I'm in!"
@@ -2386,7 +2386,7 @@ msgstr ""
 
 # game/Quest_Rooms_Separate02.rpy:1984 #-#-# translate crowdin Scene_SnowWhite01_bb8e4b4e_4:
 msgid "[_a_] ..."
-msgstr ""
+msgstr "..."
 
 # game/Quest_Rooms_Separate02.rpy:1986 #-#-# translate crowdin Scene_SnowWhite01_41223793:
 msgid "[_u_] Don't put me into your little war, I'm staying neutral. "
