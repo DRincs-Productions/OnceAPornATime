@@ -10,11 +10,12 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-02-26 13:30\n"
+"PO-Revision-Date: 2024-03-24 08:08\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Room_02.rpy:32 #-#-# translate crowdin room02_cuve01_5548a552:
 msgid " = THE CHARACTER IN CREATION WILL BE AVAILABLE IN {color=#40cbf9}[CHARA_CREA_PROCEED_DAYLEFT]{/color} DAYS ="
-msgstr ""
+msgstr " = 创建的角色将在{color=#40cbf9}[CHARA_CREA_PROCEED_DAYLEFT]{/color} 里可用\n"
+"天数 ="
 
 # game/Room_02.rpy:35 #-#-# translate crowdin room02_cuve01_77556add:
 msgid " = THE CLOTHES IN CREATION WILL BE AVAILABLE IN {color=#40cbf9}[CLOTHE_CREA_PROCEED_DAYLEFT]{/color} DAYS ="
