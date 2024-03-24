@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-03-24 07:08\n"
+"PO-Revision-Date: 2024-03-24 08:08\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Room_01_Ordi.rpy:7 #-#-# translate crowdin room01_ordi01_In_f3a4608f:
 msgid "[_u_] Let's try to open that door first."
@@ -22,7 +22,7 @@ msgstr "购买新的物品前要清空你的邮箱。"
 
 # game/Room_01_Ordi.rpy:295 #-#-# translate crowdin room01_ordi01_achat_objets_b1e9a2b8:
 msgid " ==ERROR== You don't have enough money. "
-msgstr ""
+msgstr " ==错误== 你没有足够的钱。 "
 
 # game/Room_01_Ordi.rpy:301 #-#-# translate crowdin room01_ordi01_achat_objets_c3ee7682:
 msgid "== THANK YOU FOR YOUR PURCHASE! =="
@@ -34,7 +34,7 @@ msgstr "== 数据下载完毕！ =="
 
 # game/Room_01_Ordi.rpy:307 #-#-# translate crowdin room01_ordi01_achat_objets_b1e9a2b8_1:
 msgid " ==ERROR== You don't have enough money. "
-msgstr ""
+msgstr " ==错误== 你没有足够的钱。 "
 
 # game/Room_01_Ordi.rpy:313 #-#-# translate crowdin room01_ordi01_achat_objets_c3ee7682_1:
 msgid "== THANK YOU FOR YOUR PURCHASE! =="
@@ -46,7 +46,7 @@ msgstr "== 数据下载完毕！ =="
 
 # game/Room_01_Ordi.rpy:319 #-#-# translate crowdin room01_ordi01_achat_objets_b1e9a2b8_2:
 msgid " ==ERROR== You don't have enough money. "
-msgstr ""
+msgstr " ==错误== 你没有足够的钱。 "
 
 # game/Room_01_Ordi.rpy:326 #-#-# translate crowdin room01_ordi01_achat_objets_c3ee7682_2:
 msgid "== THANK YOU FOR YOUR PURCHASE! =="
@@ -58,7 +58,7 @@ msgstr "== 您很快就能收到您的订单！ =="
 
 # game/Room_01_Ordi.rpy:333 #-#-# translate crowdin room01_ordi01_achat_objets_b1e9a2b8_3:
 msgid " ==ERROR== You don't have enough money. "
-msgstr ""
+msgstr " ==错误== 你没有足够的钱。 "
 
 # game/Room_01_Ordi.rpy:340 #-#-# translate crowdin room01_ordi01_achat_objets_c3ee7682_3:
 msgid "== THANK YOU FOR YOUR PURCHASE! =="
@@ -70,7 +70,7 @@ msgstr "== 您很快就能收到您的订单！ =="
 
 # game/Room_01_Ordi.rpy:347 #-#-# translate crowdin room01_ordi01_achat_objets_b1e9a2b8_4:
 msgid " ==ERROR== You don't have enough money. "
-msgstr ""
+msgstr " ==错误== 你没有足够的钱。 "
 
 # game/Room_01_Ordi.rpy:354 #-#-# translate crowdin room01_ordi01_achat_objets_c3ee7682_4:
 msgid "== THANK YOU FOR YOUR PURCHASE! =="
@@ -82,7 +82,7 @@ msgstr "== 您很快就能收到您的订单！ =="
 
 # game/Room_01_Ordi.rpy:376 #-#-# translate crowdin room01_ordi01_achat_objetsGifts_b1e9a2b8:
 msgid " ==ERROR== You don't have enough money. "
-msgstr ""
+msgstr " ==错误== 你没有足够的钱。 "
 
 # game/Room_01_Ordi.rpy:383 #-#-# translate crowdin room01_ordi01_achat_objetsGifts_c3ee7682:
 msgid "== THANK YOU FOR YOUR PURCHASE! =="
@@ -94,7 +94,7 @@ msgstr "== 您很快就能收到您的订单！ =="
 
 # game/Room_01_Ordi.rpy:389 #-#-# translate crowdin room01_ordi01_achat_objetsGifts_b1e9a2b8_1:
 msgid " ==ERROR== You don't have enough money. "
-msgstr ""
+msgstr " ==错误== 你没有足够的钱。 "
 
 # game/Room_01_Ordi.rpy:396 #-#-# translate crowdin room01_ordi01_achat_objetsGifts_c3ee7682_1:
 msgid "== THANK YOU FOR YOUR PURCHASE! =="
@@ -106,7 +106,7 @@ msgstr "== 您很快就能收到您的订单！ =="
 
 # game/Room_01_Ordi.rpy:402 #-#-# translate crowdin room01_ordi01_achat_objetsGifts_b1e9a2b8_2:
 msgid " ==ERROR== You don't have enough money. "
-msgstr ""
+msgstr " ==错误== 你没有足够的钱。 "
 
 # game/Room_01_Ordi.rpy:409 #-#-# translate crowdin room01_ordi01_achat_objetsGifts_c3ee7682_2:
 msgid "== THANK YOU FOR YOUR PURCHASE! =="
@@ -118,7 +118,7 @@ msgstr "== 您很快就能收到您的订单！ =="
 
 # game/Room_01_Ordi.rpy:415 #-#-# translate crowdin room01_ordi01_achat_objetsGifts_b1e9a2b8_3:
 msgid " ==ERROR== You don't have enough money. "
-msgstr ""
+msgstr " ==错误== 你没有足够的钱。 "
 
 # game/Room_01_Ordi.rpy:422 #-#-# translate crowdin room01_ordi01_achat_objetsGifts_c3ee7682_3:
 msgid "== THANK YOU FOR YOUR PURCHASE! =="
@@ -130,7 +130,7 @@ msgstr "== 您很快就能收到您的订单！ =="
 
 # game/Room_01_Ordi.rpy:436 #-#-# translate crowdin room01_ordi01_achat_DroneStore_b1e9a2b8:
 msgid " ==ERROR== You don't have enough money. "
-msgstr ""
+msgstr " ==错误== 你没有足够的钱。 "
 
 # game/Room_01_Ordi.rpy:443 #-#-# translate crowdin room01_ordi01_achat_DroneStore_c3ee7682:
 msgid "== THANK YOU FOR YOUR PURCHASE! =="
@@ -142,7 +142,7 @@ msgstr "== 您很快就能收到您的订单！ =="
 
 # game/Room_01_Ordi.rpy:449 #-#-# translate crowdin room01_ordi01_achat_DroneStore_b1e9a2b8_1:
 msgid " ==ERROR== You don't have enough money. "
-msgstr ""
+msgstr " ==错误== 你没有足够的钱。 "
 
 # game/Room_01_Ordi.rpy:456 #-#-# translate crowdin room01_ordi01_achat_DroneStore_c3ee7682_1:
 msgid "== THANK YOU FOR YOUR PURCHASE! =="
@@ -154,7 +154,7 @@ msgstr "== 您很快就能收到您的订单！ =="
 
 # game/Room_01_Ordi.rpy:462 #-#-# translate crowdin room01_ordi01_achat_DroneStore_b1e9a2b8_2:
 msgid " ==ERROR== You don't have enough money. "
-msgstr ""
+msgstr " ==错误== 你没有足够的钱。 "
 
 # game/Room_01_Ordi.rpy:469 #-#-# translate crowdin room01_ordi01_achat_DroneStore_c3ee7682_2:
 msgid "== THANK YOU FOR YOUR PURCHASE! =="
@@ -166,7 +166,7 @@ msgstr "== 您很快就能收到您的订单！ =="
 
 # game/Room_01_Ordi.rpy:483 #-#-# translate crowdin room01_ordi01_achat_FurnitureStore_b1e9a2b8:
 msgid " ==ERROR== You don't have enough money. "
-msgstr ""
+msgstr " ==错误== 你没有足够的钱。 "
 
 # game/Room_01_Ordi.rpy:490 #-#-# translate crowdin room01_ordi01_achat_FurnitureStore_c3ee7682:
 msgid "== THANK YOU FOR YOUR PURCHASE! =="
@@ -174,7 +174,7 @@ msgstr "== 感谢您的购买！ =="
 
 # game/Room_01_Ordi.rpy:495 #-#-# translate crowdin room01_ordi01_achat_FurnitureStore_b1e9a2b8_1:
 msgid " ==ERROR== You don't have enough money. "
-msgstr ""
+msgstr " ==错误== 你没有足够的钱。 "
 
 # game/Room_01_Ordi.rpy:502 #-#-# translate crowdin room01_ordi01_achat_FurnitureStore_c3ee7682_1:
 msgid "== THANK YOU FOR YOUR PURCHASE! =="
@@ -182,7 +182,7 @@ msgstr "== 感谢您的购买！ =="
 
 # game/Room_01_Ordi.rpy:507 #-#-# translate crowdin room01_ordi01_achat_FurnitureStore_b1e9a2b8_2:
 msgid " ==ERROR== You don't have enough money. "
-msgstr ""
+msgstr " ==错误== 你没有足够的钱。 "
 
 # game/Room_01_Ordi.rpy:514 #-#-# translate crowdin room01_ordi01_achat_FurnitureStore_c3ee7682_2:
 msgid "== THANK YOU FOR YOUR PURCHASE! =="
@@ -190,7 +190,7 @@ msgstr "== 感谢您的购买！ =="
 
 # game/Room_01_Ordi.rpy:519 #-#-# translate crowdin room01_ordi01_achat_FurnitureStore_b1e9a2b8_3:
 msgid " ==ERROR== You don't have enough money. "
-msgstr ""
+msgstr " ==错误== 你没有足够的钱。 "
 
 # game/Room_01_Ordi.rpy:526 #-#-# translate crowdin room01_ordi01_achat_FurnitureStore_c3ee7682_3:
 msgid "== THANK YOU FOR YOUR PURCHASE! =="
@@ -198,7 +198,7 @@ msgstr "== 感谢您的购买！ =="
 
 # game/Room_01_Ordi.rpy:531 #-#-# translate crowdin room01_ordi01_achat_FurnitureStore_b1e9a2b8_4:
 msgid " ==ERROR== You don't have enough money. "
-msgstr ""
+msgstr " ==错误== 你没有足够的钱。 "
 
 # game/Room_01_Ordi.rpy:538 #-#-# translate crowdin room01_ordi01_achat_FurnitureStore_c3ee7682_4:
 msgid "== THANK YOU FOR YOUR PURCHASE! =="
@@ -578,7 +578,7 @@ msgstr ""
 
 # game/Room_01_Ordi.rpy:664
 msgid " {color=#da96ff}(DJIN_01){/color} "
-msgstr ""
+msgstr " {color=#da96ff}(DJIN_01){/color} "
 
 # game/Room_01_Ordi.rpy:789
 msgid "== {color=#797979}Cheat codes are currently deactivated{/color} ==\n"
@@ -625,29 +625,32 @@ msgid "{size=20}== {color=#797979}Cheat codes are currently{/color} {color=#f292
 "== You have : {color=#a0fc86}[CHEATPOINTS]{/color} Cheat Points (CP) ==\n"
 "{size=20}== You have:{color=#a0fc86} [MONEY] Credits {/color}/{color=#a0fc86} [IMAGEDATA] Image Datas {/color}/{color=#3c96f2} [CLOTHEDATA] Clothes Data {/color}/{color=#f2923c} [CHARADATA] Character Datas {/color} =={/size}\n"
 "=="
-msgstr ""
+msgstr "{size=20}== {color=#797979}目前作弊代码为{/color} {color=#f2923c}激活{/color} =={/size}\n"
+"== 你拥有 : {color=#a0fc86}[CHEATPOINTS]{/color} 作弊点数 (CP) ==\n"
+"{size=20}== 你拥有:{color=#a0fc86} [MONEY] 誉币 {/color}/{color=#a0fc86} [IMAGEDATA] 图像数据 {/color}/{color=#3c96f2} [CLOTHEDATA] 衣服数据 {/color}/{color=#f2923c} [CHARADATA] 角色数据 {/color} =={/size}\n"
+"=="
 
 # game/Room_01_Ordi.rpy:847
 msgid "== +800 {color=#a0fc86}Credits{/color} == {color=#a0fc86}1CP{/color}"
-msgstr ""
+msgstr "== +800 {color=#a0fc86}誉币{/color} == {color=#a0fc86}1CP{/color}"
 
 # game/Room_01_Ordi.rpy:847
 msgid "== +25 Clothes Scraps == {color=#a0fc86}1CP{/color}"
-msgstr ""
+msgstr "== +25 衣服碎片 == {color=#a0fc86}1CP{/color}"
 
 # game/Room_01_Ordi.rpy:847
 msgid "== +10 {color=#3c96f2}Clothes Data{/color} == {color=#a0fc86}1CP{/color}"
-msgstr ""
+msgstr "== +10 {color=#3c96f2}角色数据{/color} == {color=#a0fc86}1CP{/color}"
 
 # game/Room_01_Ordi.rpy:847
 msgid "== +2 {color=#f2923c}Character Data{/color} == {color=#a0fc86}1CP{/color}"
-msgstr ""
+msgstr "== +2 {color=#f2923c}角色数据{/color} == {color=#a0fc86}1CP{/color}"
 
 # game/Room_01_Ordi.rpy:847
 msgid "== Change your name == {color=#a0fc86}Free (One Time){/color}"
-msgstr ""
+msgstr "== 修改你的名字 == {color=#a0fc86}免费 (只有一次){/color}"
 
 # game/Room_01_Ordi.rpy:847
 msgid "== Change your name == {color=#a0fc86}1CP{/color}"
-msgstr ""
+msgstr "== 修改你的名字 == {color=#a0fc86}1CP{/color}"
 
