@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-03-19 17:20\n"
+"PO-Revision-Date: 2024-03-24 21:35\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Room_02_CharaCrea.rpy:10 #-#-# translate crowdin Room_02_CharaCrea_3d26d832:
 msgid "[_u_] No need to create anything yet. "
@@ -690,15 +690,15 @@ msgstr " ~~{color=#f2923c} {font=BLKCHCRY.ttf}Anna{/font=BLKCHCRY.ttf} {/color}~
 
 # game/Room_02_CharaCrea.rpy:48
 msgid " ~~{color=#f2923c} {font=BLKCHCRY.ttf}Rapunzel{/font=BLKCHCRY.ttf} {/color}~~ "
-msgstr " ~ ~ { color=#f2923c} { font=BLKCHCRY.ttf } Rapunzel { /font=BLKCHCRY.ttf } { /color } ~ ~ "
+msgstr " ~~{color=#f2923c} {font=BLKCHCRY.ttf}Rapunzel{/font=BLKCHCRY.ttf} {/color}~~ "
 
 # game/Room_02_CharaCrea.rpy:48
 msgid " ~~{color=#f2923c} {font=BLKCHCRY.ttf}Elsa{/font=BLKCHCRY.ttf} {/color}~~ "
-msgstr " ~ ~ { color=#f2923c} { font=BLKCHCRY.ttf } Elsa { /font=BLKCHCRY.ttf } { /color } ~ ~ "
+msgstr " ~~{color=#f2923c} {font=BLKCHCRY.ttf}Elsa{/font=BLKCHCRY.ttf} {/color}~~ "
 
 # game/Room_02_CharaCrea.rpy:48
 msgid " ~~{color=#f2923c} {font=BLKCHCRY.ttf}Jasmine{/font=BLKCHCRY.ttf} {/color}~~ "
-msgstr " ~ ~ { color=#f2923c} { font=BLKCHCRY.ttf } Jasmine { /font=BLKCHCRY.ttf } { /color } ~ ~ "
+msgstr " ~~{color=#f2923c} {font=BLKCHCRY.ttf}Jasmine{/font=BLKCHCRY.ttf} {/color}~~ "
 
 # game/Room_02_CharaCrea.rpy:48
 msgid "$Back "
