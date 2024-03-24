@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-03-19 16:08\n"
+"PO-Revision-Date: 2024-03-24 21:35\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_TB.rpy:29 #-#-# translate crowdin Cell01_TB_126a6d5f:
 msgid "[_tb_] I'll be there in a second."
@@ -1647,7 +1647,7 @@ msgstr "$That's tout ce que je voulais savoir maintenant. "
 
 # game/Cell01_TB.rpy:406
 msgid " How did you lose your voice? "
-msgstr " Comment as-tu perdu ton voix? "
+msgstr " Comment as-tu perdu ta voix? "
 
 # game/Cell01_TB.rpy:406
 msgid " What is this place ? "
