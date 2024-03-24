@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-03-19 16:10\n"
+"PO-Revision-Date: 2024-03-24 21:35\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/expedition_01.rpy:72 #-#-# translate crowdin expedition_01lvl01_44b42dfd:
 msgid "The Drone have [ITEM_DRONE_EMERCELL01_UTILISATIONS] Emergency Energy Cell. ( [ITEM_DRONE_EMERCELL01] left in your inventory.) "
@@ -66,11 +66,11 @@ msgstr " Le drone n'a plus de pouvoir. "
 
 # game/expedition_01.rpy:140 #-#-# translate crowdin Expedition_01_RANDOM_69786a16:
 msgid " Do you want to use an Emergency Energy Cell ? ([ITEM_DRONE_EMERCELL01_UTILISATIONS] Emergency Energy Cell left) "
-msgstr " Voulez-vous utiliser une cellule énergétique d'urgence? ([ITEM_DRONE_EMERCELL01_UTILISATIONS ] Cellule d'énergie d'urgence à gauche) "
+msgstr " Voulez-vous utiliser une cellule énergétique d'urgence? ([ITEM_DRONE_EMERCELL01_UTILISATIONS] Cellule d'énergie d'urgence à gauche) "
 
 # game/expedition_01.rpy:151 #-#-# translate crowdin Expedition_01_RANDOM_5d1d2551:
 msgid " Drone AP set to: {color=#3797d1}[PA_DRONE01]{/color} AP. ([ITEM_DRONE_EMERCELL01_UTILISATIONS] Emergency Energy Cell left)"
-msgstr " Drone AP défini sur: { color=#3797d1} [ PA_DRONE01 ] { /color } AP. ([ITEM_DRONE_EMERCELL01_UTILISATIONS ] Cellule d'énergie d'urgence à gauche)"
+msgstr " Drone AP set to: {color=#3797d1}[PA_DRONE01]{/color} AP. ([ITEM_DRONE_EMERCELL01_UTILISATIONS] Cellule d'énergie d'urgence à gauche)"
 
 # game/expedition_01.rpy:156 #-#-# translate crowdin Expedition_01_RANDOM_a0dce226:
 msgid " COMMUNICATION LOST "
@@ -406,11 +406,11 @@ msgstr "MAUVAIS."
 
 # §translate crowdin strings: #|#|# # game/expedition_01.rpy:82
 msgid " Drone Energy Boost 3AP ([ITEM_DRONE_2APBOOST] left) "
-msgstr " Drone Energy Boost 3AP ([ITEM_DRONE_2APBOOST ] à gauche) "
+msgstr " Drone Energy Boost 3AP ([ITEM_DRONE_2APBOOST] à gauche) "
 
 # game/expedition_01.rpy:82
 msgid " Drone Energy Boost 5AP ([ITEM_DRONE_5APBOOST] left) "
-msgstr " Drone Energy Boost 5AP ([ITEM_DRONE_5APBOOST ] à gauche) "
+msgstr " Drone Energy Boost 5AP ([ITEM_DRONE_5APBOOST] à gauche) "
 
 # game/expedition_01.rpy:82
 msgid " No thanks !"
