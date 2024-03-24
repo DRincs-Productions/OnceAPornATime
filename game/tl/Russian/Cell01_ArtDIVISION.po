@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2024-03-21 15:08\n"
+"PO-Revision-Date: 2024-03-24 22:45\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_ArtDIVISION.rpy:151 #-#-# translate crowdin Cell01_ArtDIVISION_Menu01_ed0ef4ce:
 msgid "[_a_] Bonjour [name]!"
@@ -106,7 +106,7 @@ msgstr "[_u_] Хм..."
 
 # game/Cell01_ArtDIVISION.rpy:376 #-#-# translate crowdin CHARA_A_MenuTalk_FirstTime_7df87e9c:
 msgid "[_a_] Yes I know, I sound a little arrogant asking this question. "
-msgstr ""
+msgstr "Да, я знаю, я звучу немного высокомерно, задавая этот вопрос. "
 
 # game/Cell01_ArtDIVISION.rpy:378 #-#-# translate crowdin CHARA_A_MenuTalk_FirstTime_0bccd93d:
 msgid "[_a_] But I... I need to know. "
@@ -138,27 +138,27 @@ msgstr "[_u_] Ладно, возможно мы немного изолиров�
 
 # game/Cell01_ArtDIVISION.rpy:394 #-#-# translate crowdin CHARA_A_MenuTalk_FirstTime_bc12b925:
 msgid "[_u_] And she also made Melissandre read it I think. "
-msgstr ""
+msgstr "Я думаю, она также заставила и Мелиссандру прочитать ее. "
 
 # game/Cell01_ArtDIVISION.rpy:396 #-#-# translate crowdin CHARA_A_MenuTalk_FirstTime_b8ead22f:
 msgid "[_u_] In fact, I think she recommends it to everyone she meets. "
-msgstr ""
+msgstr "На самом деле, я думаю, она рекомендует ее всем, с кем встречается. "
 
 # game/Cell01_ArtDIVISION.rpy:398 #-#-# translate crowdin CHARA_A_MenuTalk_FirstTime_feaa82af:
 msgid "[_a_] Well, I should probably go thank her!"
-msgstr ""
+msgstr "Что ж, я думаю, мне стоит поблагодарить ее!"
 
 # game/Cell01_ArtDIVISION.rpy:400 #-#-# translate crowdin CHARA_A_MenuTalk_FirstTime_88158ac8:
 msgid "[_u_] Be careful, if you get too close to her, she could have a heart attack. "
-msgstr ""
+msgstr "[Будьте осторожны, если ты подойдешь к ней слишком близко, у нее может случиться сердечный приступ. "
 
 # game/Cell01_ArtDIVISION.rpy:402 #-#-# translate crowdin CHARA_A_MenuTalk_FirstTime_3952de86:
 msgid "[_a_] Oh my god, I hope not!"
-msgstr ""
+msgstr "О боже, надеюсь, этого не произойдёт!"
 
 # game/Cell01_ArtDIVISION.rpy:405 #-#-# translate crowdin CHARA_A_MenuTalk_FirstTime_3d1e1636:
 msgid "[_a_] But for real... it's so strange... "
-msgstr ""
+msgstr "Но на самом деле... это так странно... "
 
 # game/Cell01_ArtDIVISION.rpy:407 #-#-# translate crowdin CHARA_A_MenuTalk_FirstTime_95001edc:
 msgid "[_a_] There is surely no place in the whole galaxy where nobody knows me anymore..."
