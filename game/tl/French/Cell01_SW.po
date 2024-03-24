@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-03-19 16:08\n"
+"PO-Revision-Date: 2024-03-24 21:35\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_SW.rpy:309 #-#-# translate crowdin CHARA_SW_Menu01_8238495a:
 msgid "[_sw_]  ... "
@@ -15050,7 +15050,7 @@ msgstr " Parler "
 
 # game/Cell01_SW.rpy:327
 msgid " Offer a Gift {image=exl01.png}"
-msgstr " Offre un cadeau { image=exl01.png }"
+msgstr " Offre un cadeau {image=exl01.png}"
 
 # game/Cell01_SW.rpy:327
 msgid " Offer a Gift"
@@ -15094,11 +15094,11 @@ msgstr " Montre-moi vos cultes { image=heart03.png } { image=heart03.png }"
 
 # game/Cell01_SW.rpy:342
 msgid " Give me your underwear. {image=heart05.png}"
-msgstr " Donnez-moi vos sous-vêtements. { image=heart05.png }"
+msgstr " Donnez-moi vos sous-vêtements. {image=heart05.png}"
 
 # game/Cell01_SW.rpy:342
 msgid " Show me your boobs {image=heart01.png}"
-msgstr " Montrez-moi vos seins { image=heart01.png }"
+msgstr " Montrez-moi vos seins {image=heart01.png}"
 
 # game/Cell01_SW.rpy:342
 msgid " Show me your pussy {image=heart01.png}"
@@ -15130,15 +15130,15 @@ msgstr " Montrez-moi votre chatte { image=heart02.png } { image=heart02.png }"
 
 # game/Cell01_SW.rpy:342
 msgid " Make a Strip {image=heart01.png}"
-msgstr " Créez une bande { image=heart01.png }"
+msgstr " Créez une bande {image=heart01.png}"
 
 # game/Cell01_SW.rpy:342
 msgid " Make a Strip {image=heart02.png}{image=heart01.png}"
-msgstr " Faites de la bande { image=heart02.png } { image=heart01.png }"
+msgstr " Créez une bande {image=heart02.png}{image=heart01.png}"
 
 # game/Cell01_SW.rpy:342
 msgid " Make a Strip {image=heart02.png}{image=heart02.png}"
-msgstr " Faites de la bande { image=heart02.png } { image=heart02.png }"
+msgstr " Créez une bande {image=heart02.png}{image=heart02.png}"
 
 # game/Cell01_SW.rpy:342
 msgid "back"
@@ -15270,7 +15270,7 @@ msgstr " Quelle est la taille de votre soutien-gorge? "
 
 # game/Cell01_SW.rpy:1564
 msgid " Admit it, you like it a little bit."
-msgstr " Admets-le, tu l'aimais un peu."
+msgstr " Admets-le, tu l'aimes un peu."
 
 # game/Cell01_SW.rpy:1564
 msgid " Can you take off your bra now? "
@@ -15714,7 +15714,7 @@ msgstr "Peut-être un tutorat privé? { image=heart04.png }"
 
 # game/Cell01_SW.rpy:8398
 msgid " I think I'm too curious not to ask for more details {image=heart04.png}"
-msgstr " Je pense que je suis trop curieux de ne pas demander plus de détails { image=heart04.png }"
+msgstr " Je pense que je suis trop curieux de ne pas demander plus de détails {image=heart04.png}"
 
 # game/Cell01_SW.rpy:8398
 msgid "That's a shame..."
