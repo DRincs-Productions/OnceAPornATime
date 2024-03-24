@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-03-24 08:08\n"
+"PO-Revision-Date: 2024-03-24 09:13\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Room_02.rpy:32 #-#-# translate crowdin room02_cuve01_5548a552:
 msgid " = THE CHARACTER IN CREATION WILL BE AVAILABLE IN {color=#40cbf9}[CHARA_CREA_PROCEED_DAYLEFT]{/color} DAYS ="
@@ -19,85 +19,87 @@ msgstr " = 创建的角色将在{color=#40cbf9}[CHARA_CREA_PROCEED_DAYLEFT]{/col
 
 # game/Room_02.rpy:35 #-#-# translate crowdin room02_cuve01_77556add:
 msgid " = THE CLOTHES IN CREATION WILL BE AVAILABLE IN {color=#40cbf9}[CLOTHE_CREA_PROCEED_DAYLEFT]{/color} DAYS ="
-msgstr ""
+msgstr " = 创建的衣服将在{color=#40cbf9}[CLOTHE_CREA_PROCEED_DAYLEFT]{/color} 里可用\n"
+"天数 ="
 
 # game/Room_02.rpy:38 #-#-# translate crowdin room02_cuve01_ad56e3cc:
 msgid " = THE HAIR IN CREATION WILL BE AVAILABLE IN {color=#40cbf9}[HAIR_CREA_PROCEED_DAYLEFT]{/color} DAYS ="
-msgstr ""
+msgstr " = 创建的发型将在{color=#40cbf9}[HAIR_CREA_PROCEED_DAYLEFT]{/color} 里可用\n"
+"天数 ="
 
 # game/Room_02.rpy:50 #-#-# translate crowdin room02_expedition01_menu01_c7ef097f:
 msgid "== DRONE UNAVAILABLE DURING THE NIGHT =="
-msgstr ""
+msgstr "== 无人机在夜间无法使用 =="
 
 # game/Room_02.rpy:71 #-#-# translate crowdin room02_expedition01_menu01_c7ef097f_1:
 msgid "== DRONE UNAVAILABLE DURING THE NIGHT =="
-msgstr ""
+msgstr "== 无人机在夜间无法使用 =="
 
 # game/Room_02.rpy:79 #-#-# translate crowdin room02_charadonne_6d4c8099:
 msgid "== UNAVAILABLE DURING THE NIGHT =="
-msgstr ""
+msgstr "== 在夜间无法使用 =="
 
 # game/Room_02.rpy:94 #-#-# translate crowdin room02_diretcell_5f1aa7f1:
 msgid "Melissandre is currently in the showers."
-msgstr ""
+msgstr "梅莉山大现在在洗澡。"
 
 # game/Room_02.rpy:104 #-#-# translate crowdin room02_diretcell_356ef1d3:
 msgid "You have already visited this place today "
-msgstr ""
+msgstr "你今天已经来过这个地方了。 "
 
 # game/Room_02.rpy:107 #-#-# translate crowdin room02_diretcell_a116b8ba:
 msgid "You have already visited this place tonight "
-msgstr ""
+msgstr "你今晚已经来过这个地方了。 "
 
 # game/Room_02.rpy:130 #-#-# translate crowdin room02_diretcell_356ef1d3_1:
 msgid "You have already visited this place today "
-msgstr ""
+msgstr "你今天已经来过这个地方了。 "
 
 # game/Room_02.rpy:141 #-#-# translate crowdin room02_diretcell_18711c31:
 msgid "You have already visited this character today "
-msgstr ""
+msgstr "你今天已经拜访过这个角色了。 "
 
 # game/Room_02.rpy:144 #-#-# translate crowdin room02_diretcell_9990099a:
 msgid "You have already visited this character tonight "
-msgstr ""
+msgstr "你今晚已经拜访过这个角色了。 "
 
 # game/Room_02.rpy:153 #-#-# translate crowdin room02_diretcell_9a2f3415:
 msgid "[_u_] It's late, there must be no one there."
-msgstr ""
+msgstr "[_u_] 太晚了，那里肯定没人了。"
 
 # game/Room_02.rpy:166 #-#-# translate crowdin room02_diretcell_cd938b39:
 msgid "It's useless to go out for the moment. "
-msgstr ""
+msgstr "这会出去也没啥用。 "
 
 # §translate crowdin strings: #|#|# # game/Room_02.rpy:47
 msgid "=Drone expedition="
-msgstr ""
+msgstr "=无人机探险="
 
 # game/Room_02.rpy:47
 msgid "=Manage automatic drones="
-msgstr ""
+msgstr "=管理自动无人机="
 
 # game/Room_02.rpy:91
 msgid "$Laboratory"
-msgstr ""
+msgstr "$实验室"
 
 # game/Room_02.rpy:91
 msgid "$Artistic Division"
-msgstr ""
+msgstr "$艺术部门"
 
 # game/Room_02.rpy:91
 msgid "$Amelia's Office"
-msgstr ""
+msgstr "$阿米莉亚的办公室"
 
 # game/Room_02.rpy:91
 msgid "$Showers"
-msgstr ""
+msgstr "$淋浴间"
 
 # game/Room_02.rpy:91
 msgid "$Outside"
-msgstr ""
+msgstr "$外面"
 
 # game/Room_02.rpy:91
 msgid "$Return"
-msgstr ""
+msgstr "$返回"
 
