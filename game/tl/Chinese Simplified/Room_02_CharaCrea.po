@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-03-24 09:13\n"
+"PO-Revision-Date: 2024-03-24 10:31\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Room_02_CharaCrea.rpy:10 #-#-# translate crowdin Room_02_CharaCrea_3d26d832:
 msgid "[_u_] No need to create anything yet. "
@@ -130,7 +130,7 @@ msgstr " = 这件衣服将在[CLOTHE_CREA_PROCEED_DAYLEFT] 天后可用 ="
 
 # game/Room_02_CharaCrea.rpy:215 #-#-# translate crowdin Room_02_CharaCreamenu_CLOTHESMENU_c5524f73:
 msgid "You must have these elements to create this object: {color=#3c96f2}([CLOTHEDATA]/2) Clothes Data {/color} and {color=#a0fc86} ([ITEM_CLOTHESSCRAPS01]/4) Clothes Scraps {color=#a0fc86}"
-msgstr ""
+msgstr "创造这个物品你必须要有这些元素: {color=#3c96f2}([CLOTHEDATA]/2) 衣服数据 {/color} 和 {color=#a0fc86} ([ITEM_CLOTHESSCRAPS01]/4) 衣服碎片 {color=#a0fc86}"
 
 # game/Room_02_CharaCrea.rpy:218 #-#-# translate crowdin Room_02_CharaCreamenu_CLOTHESMENU_39dd9eaf_1:
 msgid " You don't have the elements to create this object ( You can find them in the store or with the drone expeditions )"
@@ -150,7 +150,7 @@ msgstr " = 这件衣服将在[CLOTHE_CREA_PROCEED_DAYLEFT] 天后可用 ="
 
 # game/Room_02_CharaCrea.rpy:249 #-#-# translate crowdin Room_02_CharaCreamenu_CLOTHESMENU_c5524f73_1:
 msgid "You must have these elements to create this object: {color=#3c96f2}([CLOTHEDATA]/2) Clothes Data {/color} and {color=#a0fc86} ([ITEM_CLOTHESSCRAPS01]/4) Clothes Scraps {color=#a0fc86}"
-msgstr ""
+msgstr "创造这个物品你必须要有这些元素: {color=#3c96f2}([CLOTHEDATA]/2) 衣服数据 {/color} 和 {color=#a0fc86} ([ITEM_CLOTHESSCRAPS01]/4) 衣服碎片 {color=#a0fc86}"
 
 # game/Room_02_CharaCrea.rpy:252 #-#-# translate crowdin Room_02_CharaCreamenu_CLOTHESMENU_39dd9eaf_2:
 msgid " You don't have the elements to create this object ( You can find them in the store or with the drone expeditions )"
@@ -170,7 +170,7 @@ msgstr " = 这件衣服将在[CLOTHE_CREA_PROCEED_DAYLEFT] 天后可用 ="
 
 # game/Room_02_CharaCrea.rpy:283 #-#-# translate crowdin Room_02_CharaCreamenu_CLOTHESMENU_c5524f73_2:
 msgid "You must have these elements to create this object: {color=#3c96f2}([CLOTHEDATA]/2) Clothes Data {/color} and {color=#a0fc86} ([ITEM_CLOTHESSCRAPS01]/4) Clothes Scraps {color=#a0fc86}"
-msgstr ""
+msgstr "创造这个物品你必须要有这些元素: {color=#3c96f2}([CLOTHEDATA]/2) 衣服数据 {/color} 和 {color=#a0fc86} ([ITEM_CLOTHESSCRAPS01]/4) 衣服碎片 {color=#a0fc86}"
 
 # game/Room_02_CharaCrea.rpy:286 #-#-# translate crowdin Room_02_CharaCreamenu_CLOTHESMENU_39dd9eaf_3:
 msgid " You don't have the elements to create this object ( You can find them in the store or with the drone expeditions )"
@@ -270,7 +270,7 @@ msgstr " = 这件衣服将在[CLOTHE_CREA_PROCEED_DAYLEFT] 天后可用 ="
 
 # game/Room_02_CharaCrea.rpy:451 #-#-# translate crowdin Room_02_CharaCreamenu_CLOTHESMENU_21cceada:
 msgid "You must have these elements to create this object: {color=#a0fc86} ([ITEM_CLOTHESSCRAPS01]/8) Clothes Scraps {color=#a0fc86}"
-msgstr ""
+msgstr "创建这个物品你必须要有这些元素: {color=#a0fc86} ([ITEM_CLOTHESSCRAPS01]/8) 衣服碎片 {color=#a0fc86}"
 
 # game/Room_02_CharaCrea.rpy:453 #-#-# translate crowdin Room_02_CharaCreamenu_CLOTHESMENU_39dd9eaf_8:
 msgid " You don't have the elements to create this object ( You can find them in the store or with the drone expeditions )"
@@ -290,7 +290,7 @@ msgstr " = 这件衣服将在[CLOTHE_CREA_PROCEED_DAYLEFT] 天后可用 ="
 
 # game/Room_02_CharaCrea.rpy:483 #-#-# translate crowdin Room_02_CharaCreamenu_CLOTHESMENU_21cceada_1:
 msgid "You must have these elements to create this object: {color=#a0fc86} ([ITEM_CLOTHESSCRAPS01]/8) Clothes Scraps {color=#a0fc86}"
-msgstr ""
+msgstr "创建这个物品你必须要有这些元素: {color=#a0fc86} ([ITEM_CLOTHESSCRAPS01]/8) 衣服碎片 {color=#a0fc86}"
 
 # game/Room_02_CharaCrea.rpy:485 #-#-# translate crowdin Room_02_CharaCreamenu_CLOTHESMENU_39dd9eaf_9:
 msgid " You don't have the elements to create this object ( You can find them in the store or with the drone expeditions )"
@@ -350,7 +350,7 @@ msgstr " = 这件衣服将在[CLOTHE_CREA_PROCEED_DAYLEFT] 天后可用 ="
 
 # game/Room_02_CharaCrea.rpy:583 #-#-# translate crowdin Room_02_CharaCreamenu_CLOTHESMENU_0842dc83:
 msgid "You must have these elements to create this object: {color=#3c96f2}([CLOTHEDATA]/4) Clothes Data {/color} and {color=#a0fc86} ([ITEM_CLOTHESSCRAPS01]/5) Clothes Scraps {color=#a0fc86}"
-msgstr ""
+msgstr "创造这个物品你必须要有这些元素: {color=#3c96f2}([CLOTHEDATA]/4) 衣服数据 {/color} 和 {color=#a0fc86} ([ITEM_CLOTHESSCRAPS01]/5) 衣服碎片 {color=#a0fc86}"
 
 # game/Room_02_CharaCrea.rpy:585 #-#-# translate crowdin Room_02_CharaCreamenu_CLOTHESMENU_39dd9eaf_12:
 msgid " You don't have the elements to create this object ( You can find them in the store or with the drone expeditions )"
@@ -370,7 +370,7 @@ msgstr " = 这件衣服将在[CLOTHE_CREA_PROCEED_DAYLEFT] 天后可用 ="
 
 # game/Room_02_CharaCrea.rpy:616 #-#-# translate crowdin Room_02_CharaCreamenu_CLOTHESMENU_0842dc83_1:
 msgid "You must have these elements to create this object: {color=#3c96f2}([CLOTHEDATA]/4) Clothes Data {/color} and {color=#a0fc86} ([ITEM_CLOTHESSCRAPS01]/5) Clothes Scraps {color=#a0fc86}"
-msgstr ""
+msgstr "创造这个物品你必须要有这些元素: {color=#3c96f2}([CLOTHEDATA]/4) 衣服数据 {/color} 和 {color=#a0fc86} ([ITEM_CLOTHESSCRAPS01]/5) 衣服碎片 {color=#a0fc86}"
 
 # game/Room_02_CharaCrea.rpy:618 #-#-# translate crowdin Room_02_CharaCreamenu_CLOTHESMENU_39dd9eaf_13:
 msgid " You don't have the elements to create this object ( You can find them in the store or with the drone expeditions )"
@@ -390,7 +390,7 @@ msgstr " = 这件衣服将在[CLOTHE_CREA_PROCEED_DAYLEFT] 天后可用 ="
 
 # game/Room_02_CharaCrea.rpy:649 #-#-# translate crowdin Room_02_CharaCreamenu_CLOTHESMENU_0842dc83_2:
 msgid "You must have these elements to create this object: {color=#3c96f2}([CLOTHEDATA]/4) Clothes Data {/color} and {color=#a0fc86} ([ITEM_CLOTHESSCRAPS01]/5) Clothes Scraps {color=#a0fc86}"
-msgstr ""
+msgstr "创造这个物品你必须要有这些元素: {color=#3c96f2}([CLOTHEDATA]/4) 衣服数据 {/color} 和 {color=#a0fc86} ([ITEM_CLOTHESSCRAPS01]/5) 衣服碎片 {color=#a0fc86}"
 
 # game/Room_02_CharaCrea.rpy:651 #-#-# translate crowdin Room_02_CharaCreamenu_CLOTHESMENU_39dd9eaf_14:
 msgid " You don't have the elements to create this object ( You can find them in the store or with the drone expeditions )"
@@ -410,7 +410,7 @@ msgstr " = 这件衣服将在[CLOTHE_CREA_PROCEED_DAYLEFT] 天后可用 ="
 
 # game/Room_02_CharaCrea.rpy:683 #-#-# translate crowdin Room_02_CharaCreamenu_CLOTHESMENU_0842dc83_3:
 msgid "You must have these elements to create this object: {color=#3c96f2}([CLOTHEDATA]/4) Clothes Data {/color} and {color=#a0fc86} ([ITEM_CLOTHESSCRAPS01]/5) Clothes Scraps {color=#a0fc86}"
-msgstr ""
+msgstr "创造这个物品你必须要有这些元素: {color=#3c96f2}([CLOTHEDATA]/4) 衣服数据 {/color} 和 {color=#a0fc86} ([ITEM_CLOTHESSCRAPS01]/5) 衣服碎片 {color=#a0fc86}"
 
 # game/Room_02_CharaCrea.rpy:685 #-#-# translate crowdin Room_02_CharaCreamenu_CLOTHESMENU_39dd9eaf_15:
 msgid " You don't have the elements to create this object ( You can find them in the store or with the drone expeditions )"
@@ -430,7 +430,7 @@ msgstr " = 这件衣服将在[CLOTHE_CREA_PROCEED_DAYLEFT] 天后可用 ="
 
 # game/Room_02_CharaCrea.rpy:717 #-#-# translate crowdin Room_02_CharaCreamenu_CLOTHESMENU_463d86f8:
 msgid "You must have these elements to create this object: {color=#3c96f2}([CLOTHEDATA]/200) Clothes Data {/color} and {color=#a0fc86} ([ITEM_CLOTHESSCRAPS01]/300) Clothes Scraps {color=#a0fc86}"
-msgstr ""
+msgstr "创造这个物品你必须要有这些元素: {color=#3c96f2}([CLOTHEDATA]/200) 衣服数据 {/color} 和 {color=#a0fc86} ([ITEM_CLOTHESSCRAPS01]/300) 衣服碎片 {color=#a0fc86}"
 
 # game/Room_02_CharaCrea.rpy:720 #-#-# translate crowdin Room_02_CharaCreamenu_CLOTHESMENU_39dd9eaf_16:
 msgid " You don't have the elements to create this object ( You can find them in the store or with the drone expeditions )"
@@ -442,15 +442,15 @@ msgstr ""
 
 # game/Room_02_CharaCrea.rpy:722 #-#-# translate crowdin Room_02_CharaCreamenu_CLOTHESMENU_e8f96d6c:
 msgid "[_u_] What the hell are those numbers?"
-msgstr ""
+msgstr "[_u_] 这些数字到底是什么鬼？"
 
 # game/Room_02_CharaCrea.rpy:723 #-#-# translate crowdin Room_02_CharaCreamenu_CLOTHESMENU_1f26caaa:
 msgid "[_u_] Did she really put our annual clothes budget into one outfit?"
-msgstr ""
+msgstr "[_u_] 她是真拿我们一整年的衣服预算买了套服装？"
 
 # game/Room_02_CharaCrea.rpy:724 #-#-# translate crowdin Room_02_CharaCreamenu_CLOTHESMENU_1d986b85:
 msgid "[_u_] I should go back and see Lyco."
-msgstr ""
+msgstr "[_u_] 我应该回去看看莉可了。"
 
 # game/Room_02_CharaCrea.rpy:728 #-#-# translate crowdin Room_02_CharaCreamenu_CLOTHESMENU_a6f2bb68_16:
 msgid " You have the elements to create this object "
@@ -458,7 +458,7 @@ msgstr " 你有了创建这个物品的元素 "
 
 # game/Room_02_CharaCrea.rpy:730 #-#-# translate crowdin Room_02_CharaCreamenu_CLOTHESMENU_45d591e1:
 msgid "ERROR: The object can't be created."
-msgstr ""
+msgstr "错误: 无法创建这个物品。"
 
 # game/Room_02_CharaCrea.rpy:731 #-#-# translate crowdin Room_02_CharaCreamenu_CLOTHESMENU_27b566c8:
 msgid "[_u_] Even with all the objects, the blueprint still doesn't work???"
@@ -470,7 +470,7 @@ msgstr ""
 
 # game/Room_02_CharaCrea.rpy:738 #-#-# translate crowdin Room_02_CharaCreamenu_CLOTHESMENU_c5524f73_3:
 msgid "You must have these elements to create this object: {color=#3c96f2}([CLOTHEDATA]/2) Clothes Data {/color} and {color=#a0fc86} ([ITEM_CLOTHESSCRAPS01]/4) Clothes Scraps {color=#a0fc86}"
-msgstr ""
+msgstr "创造这个物品你必须要有这些元素: {color=#3c96f2}([CLOTHEDATA]/2) 衣服数据 {/color} 和 {color=#a0fc86} ([ITEM_CLOTHESSCRAPS01]/4) 衣服碎片 {color=#a0fc86}"
 
 # game/Room_02_CharaCrea.rpy:741 #-#-# translate crowdin Room_02_CharaCreamenu_CLOTHESMENU_39dd9eaf_17:
 msgid " You don't have the elements to create this object ( You can find them in the store or with the drone expeditions )"
@@ -490,7 +490,7 @@ msgstr " = 这件衣服将在[CLOTHE_CREA_PROCEED_DAYLEFT] 天后可用 ="
 
 # game/Room_02_CharaCrea.rpy:772 #-#-# translate crowdin Room_02_CharaCreamenu_CLOTHESMENU_c5524f73_4:
 msgid "You must have these elements to create this object: {color=#3c96f2}([CLOTHEDATA]/2) Clothes Data {/color} and {color=#a0fc86} ([ITEM_CLOTHESSCRAPS01]/4) Clothes Scraps {color=#a0fc86}"
-msgstr ""
+msgstr "创造这个物品你必须要有这些元素: {color=#3c96f2}([CLOTHEDATA]/2) 衣服数据 {/color} 和 {color=#a0fc86} ([ITEM_CLOTHESSCRAPS01]/4) 衣服碎片 {color=#a0fc86}"
 
 # game/Room_02_CharaCrea.rpy:775 #-#-# translate crowdin Room_02_CharaCreamenu_CLOTHESMENU_39dd9eaf_18:
 msgid " You don't have the elements to create this object ( You can find them in the store or with the drone expeditions )"
@@ -530,7 +530,7 @@ msgstr " = 这件衣服将在[CLOTHE_CREA_PROCEED_DAYLEFT] 天后可用 ="
 
 # game/Room_02_CharaCrea.rpy:843 #-#-# translate crowdin Room_02_CharaCreamenu_CLOTHESMENU_c5524f73_5:
 msgid "You must have these elements to create this object: {color=#3c96f2}([CLOTHEDATA]/2) Clothes Data {/color} and {color=#a0fc86} ([ITEM_CLOTHESSCRAPS01]/4) Clothes Scraps {color=#a0fc86}"
-msgstr ""
+msgstr "创造这个物品你必须要有这些元素: {color=#3c96f2}([CLOTHEDATA]/2) 衣服数据 {/color} 和 {color=#a0fc86} ([ITEM_CLOTHESSCRAPS01]/4) 衣服碎片 {color=#a0fc86}"
 
 # game/Room_02_CharaCrea.rpy:846 #-#-# translate crowdin Room_02_CharaCreamenu_CLOTHESMENU_39dd9eaf_20:
 msgid " You don't have the elements to create this object ( You can find them in the store or with the drone expeditions )"
@@ -550,7 +550,7 @@ msgstr " = 这件衣服将在[CLOTHE_CREA_PROCEED_DAYLEFT] 天后可用 ="
 
 # game/Room_02_CharaCrea.rpy:878 #-#-# translate crowdin Room_02_CharaCreamenu_CLOTHESMENU_c5524f73_6:
 msgid "You must have these elements to create this object: {color=#3c96f2}([CLOTHEDATA]/2) Clothes Data {/color} and {color=#a0fc86} ([ITEM_CLOTHESSCRAPS01]/4) Clothes Scraps {color=#a0fc86}"
-msgstr ""
+msgstr "创造这个物品你必须要有这些元素: {color=#3c96f2}([CLOTHEDATA]/2) 衣服数据 {/color} 和 {color=#a0fc86} ([ITEM_CLOTHESSCRAPS01]/4) 衣服碎片 {color=#a0fc86}"
 
 # game/Room_02_CharaCrea.rpy:881 #-#-# translate crowdin Room_02_CharaCreamenu_CLOTHESMENU_39dd9eaf_21:
 msgid " You don't have the elements to create this object ( You can find them in the store or with the drone expeditions )"
@@ -570,7 +570,7 @@ msgstr " = 这件衣服将在[CLOTHE_CREA_PROCEED_DAYLEFT] 天后可用 ="
 
 # game/Room_02_CharaCrea.rpy:912 #-#-# translate crowdin Room_02_CharaCreamenu_CLOTHESMENU_c5524f73_7:
 msgid "You must have these elements to create this object: {color=#3c96f2}([CLOTHEDATA]/2) Clothes Data {/color} and {color=#a0fc86} ([ITEM_CLOTHESSCRAPS01]/4) Clothes Scraps {color=#a0fc86}"
-msgstr ""
+msgstr "创造这个物品你必须要有这些元素: {color=#3c96f2}([CLOTHEDATA]/2) 衣服数据 {/color} 和 {color=#a0fc86} ([ITEM_CLOTHESSCRAPS01]/4) 衣服碎片 {color=#a0fc86}"
 
 # game/Room_02_CharaCrea.rpy:915 #-#-# translate crowdin Room_02_CharaCreamenu_CLOTHESMENU_39dd9eaf_22:
 msgid " You don't have the elements to create this object ( You can find them in the store or with the drone expeditions )"
