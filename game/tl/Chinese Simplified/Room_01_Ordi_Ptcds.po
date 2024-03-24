@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-03-24 08:08\n"
+"PO-Revision-Date: 2024-03-24 09:13\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Room_01_Ordi_Ptcds.rpy:33 #-#-# translate crowdin room01_ordi01_Ptcds_9ea2f78c:
 msgid " "
@@ -126,7 +126,7 @@ msgstr " 继续游玩吧，任务将会自行开启的！ "
 
 # game/Room_01_Ordi_Ptcds.rpy:157 #-#-# translate crowdin room01_ordi01_Ptcds_564e1c01:
 msgid " You have already unlocked all the elements of this Patreon password ! "
-msgstr " 你已经解锁了Patreon密码的所有要素！ "
+msgstr " 你已经解锁了Patreon密码的所有元素！ "
 
 # game/Room_01_Ordi_Ptcds.rpy:192 #-#-# translate crowdin room01_ordi01_Ptcds_91504e37_7:
 msgid " Thanks for being a Patreon! This game can only have future updates thanks to you! You're a great person! *wink wink* "
@@ -134,15 +134,15 @@ msgstr " 感谢您成为一名Patreon！这游戏能有未来的更新，都要�
 
 # game/Room_01_Ordi_Ptcds.rpy:226 #-#-# translate crowdin room01_ordi01_Ptcds_CP_e4668233:
 msgid "You have already unlocked all the elements of this password ! "
-msgstr "你已经解锁了Patreon密码的所有要素！ "
+msgstr "你已经解锁了Patreon密码的所有元素！ "
 
 # game/Room_01_Ordi_Ptcds.rpy:258 #-#-# translate crowdin room01_ordi01_Ptcds_CP_e4668233_1:
 msgid "You have already unlocked all the elements of this password ! "
-msgstr "你已经解锁了Patreon密码的所有要素！ "
+msgstr "你已经解锁了Patreon密码的所有元素！ "
 
 # game/Room_01_Ordi_Ptcds.rpy:288 #-#-# translate crowdin room01_ordi01_Ptcds_CP_e4668233_2:
 msgid "You have already unlocked all the elements of this password ! "
-msgstr "你已经解锁了Patreon密码的所有要素！ "
+msgstr "你已经解锁了Patreon密码的所有元素！ "
 
 # game/Room_01_Ordi_Ptcds.rpy:301 #-#-# translate crowdin room01_ordi01_Ptcds_CP_d47cac06:
 msgid " Wrong Code."
