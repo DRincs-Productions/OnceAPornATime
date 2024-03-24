@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-03-22 10:25\n"
+"PO-Revision-Date: 2024-03-24 07:08\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Room_01_Ordi.rpy:7 #-#-# translate crowdin room01_ordi01_In_f3a4608f:
 msgid "[_u_] Let's try to open that door first."
@@ -584,39 +584,41 @@ msgstr ""
 msgid "== {color=#797979}Cheat codes are currently deactivated{/color} ==\n"
 "{size=20}== Cheat codes are available after entering a Patreon code. ({a=https://www.patreon.com/Salty01_NSFW}{color=#fc9c63}Patreon page here{/color}{/a}) =={/size} \n"
 "{size=20}== "
-msgstr ""
+msgstr "== {color=#797979}目前作弊代码已失效{/color} ==\n"
+"{size=20}== 在输入Patreon代码后作弊代码才能有效。({a=https://www.patreon.com/Salty01_NSFW}{color=#fc9c63}Patreon 页面在此{/color}{/a}) =={/size} \n"
+"{size=20}== "
 
 # game/Room_01_Ordi.rpy:789
 msgid "== +800 Credits =="
-msgstr ""
+msgstr "== +800 誉币 =="
 
 # game/Room_01_Ordi.rpy:789
 msgid "{color=#797979}== +25 Clothes Scraps =={/color}"
-msgstr ""
+msgstr "{color=#797979}== +25 衣服碎片 =={/color}"
 
 # game/Room_01_Ordi.rpy:789
 msgid "{color=#797979}== +10 Clothes Data =={/color}"
-msgstr ""
+msgstr "{color=#797979}== +10 衣服数据 =={/color}"
 
 # game/Room_01_Ordi.rpy:789
 msgid "{color=#797979}== +2 Character Data =={/color}"
-msgstr ""
+msgstr "{color=#797979}== +2 角色数据 =={/color}"
 
 # game/Room_01_Ordi.rpy:789
 msgid "{color=#797979}== Change your name =={/color}"
-msgstr ""
+msgstr "{color=#797979}== 修改你的名字 =={/color}"
 
 # game/Room_01_Ordi.rpy:789
 msgid "{color=#ff9865}Activate the cheat codes{/color} {image=heart07.png}"
-msgstr ""
+msgstr "{color=#ff9865}激活作弊代码{/color} {image=heart07.png}"
 
 # game/Room_01_Ordi.rpy:789
 msgid "Disable cheat codes option (Recommended)"
-msgstr ""
+msgstr "禁用作弊代码选项 (推荐)"
 
 # game/Room_01_Ordi.rpy:831
 msgid "(This action is definitive)"
-msgstr ""
+msgstr "(这一操作是不可逆的)"
 
 # game/Room_01_Ordi.rpy:847
 msgid "{size=20}== {color=#797979}Cheat codes are currently{/color} {color=#f2923c}ACTIVE{/color} =={/size}\n"
