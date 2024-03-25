@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2024-03-25 21:05\n"
+"PO-Revision-Date: 2024-03-25 22:14\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_BA.rpy:50 #-#-# translate crowdin CHARA_BA_Menu01_98aea068:
 msgid "[_ba_]  ... "
@@ -558,7 +558,7 @@ msgstr "[_ba_] Под ее руководством этот город — не
 
 # game/Cell01_BA.rpy:424 #-#-# translate crowdin Quest_BA_Ask01_d337807a:
 msgid "[_u_] Mh..."
-msgstr ""
+msgstr "[_u_] Ммм..."
 
 # game/Cell01_BA.rpy:426 #-#-# translate crowdin Quest_BA_Ask01_e58e00fe:
 msgid "[_ba_] What?"
