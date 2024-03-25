@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-03-25 09:13\n"
+"PO-Revision-Date: 2024-03-25 11:18\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Room_02_CharaCrea.rpy:10 #-#-# translate crowdin Room_02_CharaCrea_3d26d832:
 msgid "[_u_] No need to create anything yet. "
@@ -710,31 +710,31 @@ msgstr "{color=#f2923c}([CHARADATA]/2) 角色数据 {/color}"
 
 # game/Room_02_CharaCrea.rpy:57
 msgid "=PROCEED="
-msgstr ""
+msgstr "=继续="
 
 # game/Room_02_CharaCrea.rpy:57
 msgid "=NOT NOW="
-msgstr ""
+msgstr "=时机未到="
 
 # game/Room_02_CharaCrea.rpy:118
 msgid "{color=#f2923c}([CHARADATA]/3) Character Data {/color}"
-msgstr ""
+msgstr "{color=#f2923c}([CHARADATA]/3) 角色数据 {/color}"
 
 # game/Room_02_CharaCrea.rpy:177
 msgid "{color=#a0fc86}You have : {/color}{color=#3c96f2}[CLOTHEDATA] Clothes Data {/color}"
-msgstr ""
+msgstr "{color=#a0fc86}你拥有 : {/color}{color=#3c96f2}[CLOTHEDATA] 衣服数据 {/color}"
 
 # game/Room_02_CharaCrea.rpy:177
 msgid " {color=#3c96f2}={/color} Emee // ''Oriental Dress'' {color=#3c96f2}={/color} "
-msgstr ""
+msgstr " {color=#3c96f2}={/color} 埃梅 // ''东方服饰'' {color=#3c96f2}={/color} "
 
 # game/Room_02_CharaCrea.rpy:177
 msgid " {color=#f2923c}={/color} Emee // ''Harem Outfit'' {color=#f2923c}={/color} "
-msgstr ""
+msgstr " {color=#f2923c}={/color} 埃梅 // ''后宫服装'' {color=#f2923c}={/color} "
 
 # game/Room_02_CharaCrea.rpy:177
 msgid " {color=#3c96f2}={/color} Emee // ''Tano Outfit'' {color=#3c96f2}={/color} "
-msgstr ""
+msgstr " {color=#3c96f2}={/color} 埃梅 // ''塔诺服装' {color=#3c96f2}={/color} "
 
 # game/Room_02_CharaCrea.rpy:177
 msgid " {color=#3c96f2}={/color} {color=#3ad8ff}Emee // ''Aenari Clothes'' // Variation{/color} {color=#3c96f2}={/color} "
