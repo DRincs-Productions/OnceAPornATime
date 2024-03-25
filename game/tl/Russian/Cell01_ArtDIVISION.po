@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2024-03-24 22:45\n"
+"PO-Revision-Date: 2024-03-25 19:51\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_ArtDIVISION.rpy:151 #-#-# translate crowdin Cell01_ArtDIVISION_Menu01_ed0ef4ce:
 msgid "[_a_] Bonjour [name]!"
@@ -162,15 +162,15 @@ msgstr "Но на самом деле... это так странно... "
 
 # game/Cell01_ArtDIVISION.rpy:407 #-#-# translate crowdin CHARA_A_MenuTalk_FirstTime_95001edc:
 msgid "[_a_] There is surely no place in the whole galaxy where nobody knows me anymore..."
-msgstr ""
+msgstr "Нет места во всей галактике, где меня больше никто не знает..."
 
 # game/Cell01_ArtDIVISION.rpy:409 #-#-# translate crowdin CHARA_A_MenuTalk_FirstTime_e04b951a:
 msgid "[_a_] It's unreal."
-msgstr ""
+msgstr "Это нереально."
 
 # game/Cell01_ArtDIVISION.rpy:412 #-#-# translate crowdin CHARA_A_MenuTalk_FirstTime_ad8217f9:
 msgid "[_a_] Anyway, I digress. What did you want to say? "
-msgstr ""
+msgstr "В любом случае я отвлеклась. Что ты хотел сказать? "
 
 # game/Cell01_ArtDIVISION.rpy:456 #-#-# translate crowdin Quest2_A_Talk01_bea5cf7c:
 msgid "[_u_] I mean, not that I'm... well, that we're not happy that you're here. "
