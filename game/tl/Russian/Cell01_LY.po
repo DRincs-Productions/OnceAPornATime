@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2024-03-14 11:18\n"
+"PO-Revision-Date: 2024-03-25 21:05\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_LY.rpy:80 #-#-# translate crowdin Cell01_LY_QuestActivations_d1d09770:
 msgid "[_ly_] Hi cutie."
@@ -1118,7 +1118,7 @@ msgstr ""
 
 # game/Cell01_LY.rpy:931 #-#-# translate crowdin LY_TinkerOutfit04Retake01_01_0f07ccc4:
 msgid "[_u_] ?"
-msgstr ""
+msgstr "[_u_] Зачем?"
 
 # game/Cell01_LY.rpy:933 #-#-# translate crowdin LY_TinkerOutfit04Retake01_01_5bac05b5:
 msgid "[_ly_] Tinker just told me over the intercom. "
@@ -1162,7 +1162,7 @@ msgstr ""
 
 # game/Cell01_LY.rpy:955 #-#-# translate crowdin QuestChap2_LyStart_E_05_0f07ccc4:
 msgid "[_u_] ?"
-msgstr ""
+msgstr "[_u_] Зачем?"
 
 # game/Cell01_LY.rpy:957 #-#-# translate crowdin QuestChap2_LyStart_E_05_991240ae:
 msgid "[_ly_] Don't worry, don't be embarrassed! It's a pretty funny idea... "
@@ -2242,7 +2242,7 @@ msgstr ""
 
 # game/Cell01_LY.rpy:1695 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_03_menu1_P1_0529a669:
 msgid "[_u_] Wow..."
-msgstr ""
+msgstr "[_u_] Вау..."
 
 # game/Cell01_LY.rpy:1696 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_03_menu1_P1_ef2ecf5a:
 msgid "[_u_] And you really want to finish this in a few months? "
@@ -2946,7 +2946,7 @@ msgstr ""
 
 # game/Cell01_LY.rpy:2286 #-#-# translate crowdin Quest_A_SW_01_04_0f07ccc4:
 msgid "[_u_] ?"
-msgstr ""
+msgstr "[_u_] Зачем?"
 
 # game/Cell01_LY.rpy:2287 #-#-# translate crowdin Quest_A_SW_01_04_d6d0ff01:
 msgid "[_u_] You want to give... a dildo... to Tinker? "
