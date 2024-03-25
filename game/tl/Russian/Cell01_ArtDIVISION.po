@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2024-03-25 22:14\n"
+"PO-Revision-Date: 2024-03-25 23:18\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_ArtDIVISION.rpy:151 #-#-# translate crowdin Cell01_ArtDIVISION_Menu01_ed0ef4ce:
 msgid "[_a_] Bonjour [name]!"
@@ -824,39 +824,39 @@ msgstr ""
 
 # game/Cell01_ArtDIVISION.rpy:902 #-#-# translate crowdin QuestChap2_Amandine02_03_1ad476dd:
 msgid "[_a_] I have a big machine to tidy up now! Ahah!"
-msgstr ""
+msgstr "[_a_] А сейчас, мне нужно починить эту большую машину! Ахах!"
 
 # game/Cell01_ArtDIVISION.rpy:904 #-#-# translate crowdin QuestChap2_Amandine02_03_e18737f0:
 msgid "[_u_] See you later Amandine!"
-msgstr ""
+msgstr "[_u_] Увидимся позже Амандина!"
 
 # game/Cell01_ArtDIVISION.rpy:916 #-#-# translate crowdin Quest_LY_Favor_Boobs01_Amandine_d3e91c56:
 msgid "[_a_] Do you... "
-msgstr ""
+msgstr "[_a_] Ты... "
 
 # game/Cell01_ArtDIVISION.rpy:918 #-#-# translate crowdin Quest_LY_Favor_Boobs01_Amandine_620349bb:
 msgid "[_a_] Are you going to propose to someone? "
-msgstr ""
+msgstr "[_a_] Ты собираешься сделать кому-то предложение? "
 
 # game/Cell01_ArtDIVISION.rpy:919 #-#-# translate crowdin Quest_LY_Favor_Boobs01_Amandine_ef2f1671:
 msgid "[_u_] What?"
-msgstr ""
+msgstr "[_u_] Что?"
 
 # game/Cell01_ArtDIVISION.rpy:921 #-#-# translate crowdin Quest_LY_Favor_Boobs01_Amandine_236e96f9:
 msgid "[_a_] Sorry I don't know everyone here yet..."
-msgstr ""
+msgstr "[_a_] Извини, я еще не знаю всех здесь..."
 
 # game/Cell01_ArtDIVISION.rpy:923 #-#-# translate crowdin Quest_LY_Favor_Boobs01_Amandine_a4d2b9af:
 msgid "[_a_] ...Or the relationships you have with each other..."
-msgstr ""
+msgstr "[_a_] ...Или ваши отношения друг с другом..."
 
 # game/Cell01_ArtDIVISION.rpy:925 #-#-# translate crowdin Quest_LY_Favor_Boobs01_Amandine_8e99537f:
 msgid "[_a_] ...Is it the blue or the gothic one? "
-msgstr ""
+msgstr "[_a_] ... Это синяя или готическая? "
 
 # game/Cell01_ArtDIVISION.rpy:927 #-#-# translate crowdin Quest_LY_Favor_Boobs01_Amandine_84704b5c:
 msgid "[_a_] Not Tinker, right?"
-msgstr ""
+msgstr "[_a_] Не Динь-Динь, верно?"
 
 # game/Cell01_ArtDIVISION.rpy:928 #-#-# translate crowdin Quest_LY_Favor_Boobs01_Amandine_7b1c1392:
 msgid "[_u_] ..."
@@ -864,23 +864,23 @@ msgstr "[_u_] ..."
 
 # game/Cell01_ArtDIVISION.rpy:930 #-#-# translate crowdin Quest_LY_Favor_Boobs01_Amandine_aece348e:
 msgid "[_a_] If it's Amelia, I think you're making a mistake, she's clearly not into you. "
-msgstr ""
+msgstr "[_a_] Если это Амелия, я думаю, ты ошибаешься. Ты ей явно не нравишься. "
 
 # game/Cell01_ArtDIVISION.rpy:932 #-#-# translate crowdin Quest_LY_Favor_Boobs01_Amandine_5bc809be:
 msgid "[_u_] What are you talking about? "
-msgstr ""
+msgstr "[_u_] О чем ты говоришь? "
 
 # game/Cell01_ArtDIVISION.rpy:934 #-#-# translate crowdin Quest_LY_Favor_Boobs01_Amandine_4bb23821:
 msgid "[_a_] You're not asking me for a wedding ring? "
-msgstr ""
+msgstr "[_a_] Ты не просишь у меня обручальное кольцо? "
 
 # game/Cell01_ArtDIVISION.rpy:935 #-#-# translate crowdin Quest_LY_Favor_Boobs01_Amandine_c17e8ab3:
 msgid "[_u_] Not at all. "
-msgstr ""
+msgstr "[_u_] Нет. "
 
 # game/Cell01_ArtDIVISION.rpy:937 #-#-# translate crowdin Quest_LY_Favor_Boobs01_Amandine_3801eb80:
 msgid "[_a_] Oh. "
-msgstr ""
+msgstr "[_a_] Ох. "
 
 # game/Cell01_ArtDIVISION.rpy:939 #-#-# translate crowdin Quest_LY_Favor_Boobs01_Amandine_f6c59e82:
 msgid "[_a_] Sorry, whenever there is a bit of gossip or romance..."
@@ -1376,7 +1376,7 @@ msgstr ""
 
 # game/Cell01_ArtDIVISION.rpy:1286 #-#-# translate crowdin Quest_A_Item_Luggage01_01_3801eb80:
 msgid "[_a_] Oh. "
-msgstr ""
+msgstr "[_a_] Ох. "
 
 # game/Cell01_ArtDIVISION.rpy:1288 #-#-# translate crowdin Quest_A_Item_Luggage01_01_9d94cb37:
 msgid "[_a_] Anyway, thank you so much for bringing it to me. "
@@ -2092,7 +2092,7 @@ msgstr ""
 
 # game/Cell01_ArtDIVISION.rpy:1756 #-#-# translate crowdin QuestChap2_LyStart_E_07_ef2f1671:
 msgid "[_u_] What?"
-msgstr ""
+msgstr "[_u_] Что?"
 
 # game/Cell01_ArtDIVISION.rpy:1758 #-#-# translate crowdin QuestChap2_LyStart_E_07_14f83d54:
 msgid "[_e_] Nothing, I just thought... "
