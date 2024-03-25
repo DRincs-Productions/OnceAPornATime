@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2024-03-22 18:21\n"
+"PO-Revision-Date: 2024-03-25 21:05\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_BA.rpy:50 #-#-# translate crowdin CHARA_BA_Menu01_98aea068:
 msgid "[_ba_]  ... "
@@ -634,7 +634,7 @@ msgstr "[_dj_] Всем привет."
 
 # game/Cell01_BA.rpy:483 #-#-# translate crowdin Ml_Ali_01_08_0529a669:
 msgid "[_u_] Wow..."
-msgstr ""
+msgstr "[_u_] Вау..."
 
 # game/Cell01_BA.rpy:485 #-#-# translate crowdin Ml_Ali_01_08_c9031027:
 msgid "[_dj_] Yeah, I know. It's weird, isn't it? "
@@ -1022,7 +1022,7 @@ msgstr ""
 
 # game/Cell01_BA.rpy:718 #-#-# translate crowdin GalleryImageQuest_Djin01_0529a669:
 msgid "[_u_] Wow..."
-msgstr ""
+msgstr "[_u_] Вау..."
 
 # game/Cell01_BA.rpy:720 #-#-# translate crowdin GalleryImageQuest_Djin01_7059c23e:
 msgid "[_dj_] Ahah ! It was a joke !"
