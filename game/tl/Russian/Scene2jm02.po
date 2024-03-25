@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2024-03-14 06:35\n"
+"PO-Revision-Date: 2024-03-25 21:06\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Scene2jm02.rpy:5 #-#-# translate crowdin Quest_JM_Favor_Feather1_03_f924725a:
 msgid "[_a_] Absolutely perfect."
@@ -494,7 +494,7 @@ msgstr "[_u_] Она реально испытала оргазм только �
 
 # game/Scene2jm02.rpy:631 #-#-# translate crowdin Quest_JM_Favor_Feather1_Corrupt1_END_0529a669:
 msgid "[_u_] Wow..."
-msgstr ""
+msgstr "[_u_] Вау..."
 
 # game/Scene2jm02.rpy:632 #-#-# translate crowdin Quest_JM_Favor_Feather1_Corrupt1_END_fb37c614:
 msgid "[_u_] She must be hot... maybe I should... undress her. "
@@ -974,7 +974,7 @@ msgstr "[_u_] Она реально испытала оргазм только �
 
 # game/Scene2jm02.rpy:1203 #-#-# translate crowdin Quest_JM_Favor_Feather1_Corrupt2_END_0529a669:
 msgid "[_u_] Wow..."
-msgstr ""
+msgstr "[_u_] Вау..."
 
 # game/Scene2jm02.rpy:1204 #-#-# translate crowdin Quest_JM_Favor_Feather1_Corrupt2_END_fb37c614:
 msgid "[_u_] She must be hot... maybe I should... undress her. "
