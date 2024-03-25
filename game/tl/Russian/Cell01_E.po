@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2024-03-14 11:18\n"
+"PO-Revision-Date: 2024-03-25 22:14\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_E.rpy:71 #-#-# translate crowdin Cell01_E_QuestActivations_9ef65d05:
 msgid "[_u_] Whose ship is this? "
@@ -1074,7 +1074,7 @@ msgstr ""
 
 # game/Cell01_E.rpy:1198 #-#-# translate crowdin Emee_FirstAppChap2_menu1_P5_d337807a:
 msgid "[_u_] Mh..."
-msgstr ""
+msgstr "[_u_] Ммм..."
 
 # game/Cell01_E.rpy:1200 #-#-# translate crowdin Emee_FirstAppChap2_menu1_P5_fc940d45:
 msgid "[_e_] You know, I'm up for it whenever you want."
@@ -1834,7 +1834,7 @@ msgstr ""
 
 # game/Cell01_E.rpy:1737 #-#-# translate crowdin QuestChap2_LyStart_E_01_d337807a:
 msgid "[_u_] Mh..."
-msgstr ""
+msgstr "[_u_] Ммм..."
 
 # game/Cell01_E.rpy:1742 #-#-# translate crowdin QuestChap2_LyStart_E_01_174bed40:
 msgid "[_e_] I had a sneaking suspicion of that."
