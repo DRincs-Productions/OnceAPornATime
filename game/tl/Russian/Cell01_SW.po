@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2024-03-25 22:15\n"
+"PO-Revision-Date: 2024-03-25 23:18\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_SW.rpy:309 #-#-# translate crowdin CHARA_SW_Menu01_8238495a:
 msgid "[_sw_]  ... "
@@ -1954,7 +1954,7 @@ msgstr ""
 
 # game/Cell01_SW.rpy:2069 #-#-# translate crowdin SW_FAVOR_GiveUnder01_ef2f1671:
 msgid "[_u_] What?"
-msgstr ""
+msgstr "[_u_] Что?"
 
 # game/Cell01_SW.rpy:2071 #-#-# translate crowdin SW_FAVOR_GiveUnder01_d04122f7:
 msgid "[_sw_] ...Turn around. "
@@ -6954,7 +6954,7 @@ msgstr ""
 
 # game/Cell01_SW.rpy:6001 #-#-# translate crowdin Quest_SW_GOLDCOIN_01_APPLESQuests01_ef2f1671:
 msgid "[_u_] What?"
-msgstr ""
+msgstr "[_u_] Что?"
 
 # game/Cell01_SW.rpy:6002 #-#-# translate crowdin Quest_SW_GOLDCOIN_01_APPLESQuests01_ee242d4a:
 msgid "[_sw_] It's all dusty and... barren..."
