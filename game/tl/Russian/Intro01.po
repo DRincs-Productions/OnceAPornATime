@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2024-03-25 21:06\n"
+"PO-Revision-Date: 2024-03-25 22:15\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Intro01.rpy:64 #-#-# translate crowdin Intro01_93eeba4f:
 msgid "[_tb_] Greetings!"
@@ -974,7 +974,7 @@ msgstr "[_ly_] И никаких больше проблем с ключами!"
 
 # game/Intro01.rpy:1235 #-#-# translate crowdin LycoPrison_menu01_93adb657:
 msgid "[_u_] Yeah... "
-msgstr ""
+msgstr "[_u_] Ага... "
 
 # game/Intro01.rpy:1236 #-#-# translate crowdin LycoPrison_menu01_ddaa3e98:
 msgid "[_u_] I hope they're on their way."
@@ -1610,7 +1610,7 @@ msgstr "[_u_] К тому же... Эта Ликорис довольно сим�
 
 # game/Intro01.rpy:1782 #-#-# translate crowdin GalleryImageQuest_Melissandre01_d337807a:
 msgid "[_u_] Mh..."
-msgstr ""
+msgstr "[_u_] Ммм..."
 
 # game/Intro01.rpy:1783 #-#-# translate crowdin GalleryImageQuest_Melissandre01_b6db975f:
 msgid "[_u_] Well, it's not like I have anything else to do. "
