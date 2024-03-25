@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2024-03-15 06:10\n"
+"PO-Revision-Date: 2024-03-25 21:06\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_SW.rpy:309 #-#-# translate crowdin CHARA_SW_Menu01_8238495a:
 msgid "[_sw_]  ... "
@@ -5574,7 +5574,7 @@ msgstr ""
 
 # game/Cell01_SW.rpy:4939 #-#-# translate crowdin Quest_SW_App07_StartPart2_02_0f07ccc4:
 msgid "[_u_] ?"
-msgstr ""
+msgstr "[_u_] Зачем?"
 
 # game/Cell01_SW.rpy:4941 #-#-# translate crowdin Quest_SW_App07_StartPart2_02_a7e85e14:
 msgid "[_sw_] I need a new outfit right away!"
@@ -12442,7 +12442,7 @@ msgstr ""
 
 # game/Cell01_SW.rpy:9876 #-#-# translate crowdin QuestPatreon04_p2_f03364d0:
 msgid "[_u_] Wow... "
-msgstr ""
+msgstr "[_u_] Вау... "
 
 # game/Cell01_SW.rpy:9878 #-#-# translate crowdin QuestPatreon04_p2_227dd906:
 msgid "[_u_] And now you both end up in... android fairy bodies? The chances were pretty small..."
