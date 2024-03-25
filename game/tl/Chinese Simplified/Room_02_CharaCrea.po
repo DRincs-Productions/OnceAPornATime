@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-03-24 10:31\n"
+"PO-Revision-Date: 2024-03-25 09:13\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Room_02_CharaCrea.rpy:10 #-#-# translate crowdin Room_02_CharaCrea_3d26d832:
 msgid "[_u_] No need to create anything yet. "
@@ -462,11 +462,11 @@ msgstr "错误: 无法创建这个物品。"
 
 # game/Room_02_CharaCrea.rpy:731 #-#-# translate crowdin Room_02_CharaCreamenu_CLOTHESMENU_27b566c8:
 msgid "[_u_] Even with all the objects, the blueprint still doesn't work???"
-msgstr ""
+msgstr "[_u_] 就算集齐了所有物品，蓝图也没办法用？？？"
 
 # game/Room_02_CharaCrea.rpy:732 #-#-# translate crowdin Room_02_CharaCreamenu_CLOTHESMENU_c61165c4:
 msgid "[_u_] Goddamn Lyco..."
-msgstr ""
+msgstr "[_u_] 见鬼，莉可..."
 
 # game/Room_02_CharaCrea.rpy:738 #-#-# translate crowdin Room_02_CharaCreamenu_CLOTHESMENU_c5524f73_3:
 msgid "You must have these elements to create this object: {color=#3c96f2}([CLOTHEDATA]/2) Clothes Data {/color} and {color=#a0fc86} ([ITEM_CLOTHESSCRAPS01]/4) Clothes Scraps {color=#a0fc86}"
@@ -510,7 +510,7 @@ msgstr " = 这件衣服将在[CLOTHE_CREA_PROCEED_DAYLEFT] 天后可用 ="
 
 # game/Room_02_CharaCrea.rpy:807 #-#-# translate crowdin Room_02_CharaCreamenu_CLOTHESMENU_39e3e693:
 msgid "You must have these elements to create this object: {color=#f2923c} ([CHARADATA]/2) Character Datas {/color}, {color=#3c96f2}([CLOTHEDATA]/2) Clothes Data {/color} and {color=#a0fc86} ([ITEM_CLOTHESSCRAPS01]/4) Clothes Scraps {color=#a0fc86}"
-msgstr ""
+msgstr "创建这个物品你必须要有这些元素: {color=#f2923c} ([CHARADATA]/2) 角色数据 {/color}, {color=#3c96f2}([CLOTHEDATA]/2) 衣服数据 {/color} 和 {color=#a0fc86} ([ITEM_CLOTHESSCRAPS01]/4) 衣服碎片 {color=#a0fc86}"
 
 # game/Room_02_CharaCrea.rpy:810 #-#-# translate crowdin Room_02_CharaCreamenu_CLOTHESMENU_39dd9eaf_19:
 msgid " You don't have the elements to create this object ( You can find them in the store or with the drone expeditions )"
@@ -610,7 +610,7 @@ msgstr " = 这件衣服将在[CLOTHE_CREA_PROCEED_DAYLEFT] 天后可用 ="
 
 # game/Room_02_CharaCrea.rpy:989 #-#-# translate crowdin Room_02_CharaCreamenu_HAIRSMENU_72e5e5bb:
 msgid "You must have these elements to create this object: {color=#3c96f2}([CLOTHEDATA]/3) Clothes Data {/color} and {color=#a0fc86} ([ITEM_CLOTHESSCRAPS01]/3) Clothes Scraps {color=#a0fc86}"
-msgstr ""
+msgstr "创造这个物品你必须要有这些元素: {color=#3c96f2}([CLOTHEDATA]/3) 衣服数据 {/color} 和 {color=#a0fc86} ([ITEM_CLOTHESSCRAPS01]/3) 衣服碎片 {color=#a0fc86}"
 
 # game/Room_02_CharaCrea.rpy:991 #-#-# translate crowdin Room_02_CharaCreamenu_HAIRSMENU_39dd9eaf_1:
 msgid " You don't have the elements to create this object ( You can find them in the store or with the drone expeditions )"
@@ -630,7 +630,7 @@ msgstr " = 这件衣服将在[CLOTHE_CREA_PROCEED_DAYLEFT] 天后可用 ="
 
 # game/Room_02_CharaCrea.rpy:1022 #-#-# translate crowdin Room_02_CharaCreamenu_HAIRSMENU_72e5e5bb_1:
 msgid "You must have these elements to create this object: {color=#3c96f2}([CLOTHEDATA]/3) Clothes Data {/color} and {color=#a0fc86} ([ITEM_CLOTHESSCRAPS01]/3) Clothes Scraps {color=#a0fc86}"
-msgstr ""
+msgstr "创造这个物品你必须要有这些元素: {color=#3c96f2}([CLOTHEDATA]/3) 衣服数据 {/color} 和 {color=#a0fc86} ([ITEM_CLOTHESSCRAPS01]/3) 衣服碎片 {color=#a0fc86}"
 
 # game/Room_02_CharaCrea.rpy:1024 #-#-# translate crowdin Room_02_CharaCreamenu_HAIRSMENU_39dd9eaf_2:
 msgid " You don't have the elements to create this object ( You can find them in the store or with the drone expeditions )"
@@ -650,63 +650,63 @@ msgstr " = 这件衣服将在[CLOTHE_CREA_PROCEED_DAYLEFT] 天后可用 ="
 
 # §translate crowdin strings: #|#|# # game/Room_02_CharaCrea.rpy:24
 msgid "{color=#a0fc86}You have : {/color}{color=#3c96f2}[CLOTHEDATA] Clothes Data {color=#a0fc86}/{/color} {color=#f2923c}[CHARADATA] Character Datas {/color}"
-msgstr ""
+msgstr "{color=#a0fc86}你拥有 : {/color}{color=#3c96f2}[CLOTHEDATA] 衣服数据 {color=#a0fc86}/{/color} {color=#f2923c}[CHARADATA] 角色数据 {/color}"
 
 # game/Room_02_CharaCrea.rpy:24
 msgid "${color=#636363}= Character creation = (LOCK){/color} "
-msgstr ""
+msgstr "${color=#636363}= 创建角色 = (锁定){/color} "
 
 # game/Room_02_CharaCrea.rpy:24
 msgid "${color=#ffaf51}={/color} Character creation {color=#ffaf51}={/color} "
-msgstr ""
+msgstr "${color=#ffaf51}={/color} 创建角色 {color=#ffaf51}={/color} "
 
 # game/Room_02_CharaCrea.rpy:24
 msgid "${color=#636363}= Clothes creation = (LOCK){/color} "
-msgstr ""
+msgstr "${color=#636363}= 创建衣服 = (锁定){/color} "
 
 # game/Room_02_CharaCrea.rpy:24
 msgid "${color=#51b3ff}={/color} Clothes creation {color=#51b3ff}={/color} "
-msgstr ""
+msgstr "${color=#51b3ff}={/color} 创建衣服 {color=#51b3ff}={/color} "
 
 # game/Room_02_CharaCrea.rpy:24
 msgid "${color=#636363}= Hairstyle creation = (LOCK){/color} "
-msgstr ""
+msgstr "${color=#636363}= 创建发型 = (锁定){/color} "
 
 # game/Room_02_CharaCrea.rpy:24
 msgid "${color=#51b3ff}={/color} Hairstyle creation {color=#51b3ff}={/color} "
-msgstr ""
+msgstr "${color=#51b3ff}={/color} 创建发型 {color=#51b3ff}={/color} "
 
 # game/Room_02_CharaCrea.rpy:24
 msgid "$=Back to the office= "
-msgstr ""
+msgstr "$=返回到办公室= "
 
 # game/Room_02_CharaCrea.rpy:48
 msgid "{color=#a0fc86}You have : {/color}{color=#f2923c}[CHARADATA] Character Data {/color}"
-msgstr ""
+msgstr "{color=#a0fc86}你拥有 : {/color}{color=#f2923c}[CHARADATA] 角色数据 {/color}"
 
 # game/Room_02_CharaCrea.rpy:48
 msgid " ~~{color=#f2923c} {font=BLKCHCRY.ttf}Anna{/font=BLKCHCRY.ttf} {/color}~~ "
-msgstr ""
+msgstr " ~~{color=#f2923c} {font=BLKCHCRY.ttf}安娜{/font=BLKCHCRY.ttf} {/color}~~ "
 
 # game/Room_02_CharaCrea.rpy:48
 msgid " ~~{color=#f2923c} {font=BLKCHCRY.ttf}Rapunzel{/font=BLKCHCRY.ttf} {/color}~~ "
-msgstr ""
+msgstr " ~~{color=#f2923c} {font=BLKCHCRY.ttf}乐佩{/font=BLKCHCRY.ttf} {/color}~~ "
 
 # game/Room_02_CharaCrea.rpy:48
 msgid " ~~{color=#f2923c} {font=BLKCHCRY.ttf}Elsa{/font=BLKCHCRY.ttf} {/color}~~ "
-msgstr ""
+msgstr " ~~{color=#f2923c} {font=BLKCHCRY.ttf}艾莎{/font=BLKCHCRY.ttf} {/color}~~ "
 
 # game/Room_02_CharaCrea.rpy:48
 msgid " ~~{color=#f2923c} {font=BLKCHCRY.ttf}Jasmine{/font=BLKCHCRY.ttf} {/color}~~ "
-msgstr ""
+msgstr " ~~{color=#f2923c} {font=BLKCHCRY.ttf}茉莉{/font=BLKCHCRY.ttf} {/color}~~ "
 
 # game/Room_02_CharaCrea.rpy:48
 msgid "$Back "
-msgstr ""
+msgstr "$返回 "
 
 # game/Room_02_CharaCrea.rpy:57
 msgid "{color=#f2923c}([CHARADATA]/2) Character Data {/color}"
-msgstr ""
+msgstr "{color=#f2923c}([CHARADATA]/2) 角色数据 {/color}"
 
 # game/Room_02_CharaCrea.rpy:57
 msgid "=PROCEED="
