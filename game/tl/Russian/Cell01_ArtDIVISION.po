@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2024-03-25 21:05\n"
+"PO-Revision-Date: 2024-03-25 22:14\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_ArtDIVISION.rpy:151 #-#-# translate crowdin Cell01_ArtDIVISION_Menu01_ed0ef4ce:
 msgid "[_a_] Bonjour [name]!"
@@ -380,7 +380,7 @@ msgstr "[_u_] Амандина? "
 
 # game/Cell01_ArtDIVISION.rpy:591 #-#-# translate crowdin QuestChap2_Amandine02_02_ae5dfb89:
 msgid "[_u_] Anybody there?"
-msgstr ""
+msgstr "[_u_] Есть кто-нибудь?"
 
 # game/Cell01_ArtDIVISION.rpy:592 #-#-# translate crowdin QuestChap2_Amandine02_02_7b1c1392:
 msgid "[_u_] ..."
@@ -388,39 +388,39 @@ msgstr "[_u_] ..."
 
 # game/Cell01_ArtDIVISION.rpy:593 #-#-# translate crowdin QuestChap2_Amandine02_02_d337807a:
 msgid "[_u_] Mh..."
-msgstr ""
+msgstr "[_u_] Ммм..."
 
 # game/Cell01_ArtDIVISION.rpy:594 #-#-# translate crowdin QuestChap2_Amandine02_02_811c578d:
 msgid "[_u_] Let's take a closer look at this room."
-msgstr ""
+msgstr "[_u_] Давай рассмотрим эту комнату поближе."
 
 # game/Cell01_ArtDIVISION.rpy:651 #-#-# translate crowdin QuestChap2_Amandine02_02_ROOM_mug_6bc3b449:
 msgid "[_u_] the coffee is still hot."
-msgstr ""
+msgstr "[_u_] Кофе еще горячий."
 
 # game/Cell01_ArtDIVISION.rpy:652 #-#-# translate crowdin QuestChap2_Amandine02_02_ROOM_mug_621193b9:
 msgid "[_u_] Amandine must not be far."
-msgstr ""
+msgstr "[_u_] Амандина где-то недалеко."
 
 # game/Cell01_ArtDIVISION.rpy:656 #-#-# translate crowdin QuestChap2_Amandine02_02_ROOM_mags_57258cce:
 msgid "[_u_] What's that?"
-msgstr ""
+msgstr "[_u_] Что это?"
 
 # game/Cell01_ArtDIVISION.rpy:660 #-#-# translate crowdin QuestChap2_Amandine02_02_ROOM_mags_d3197066:
 msgid "[_u_] So weird."
-msgstr ""
+msgstr "[_u_] Так странно."
 
 # game/Cell01_ArtDIVISION.rpy:661 #-#-# translate crowdin QuestChap2_Amandine02_02_ROOM_mags_f876a884:
 msgid "[_u_] It must not be easy every day to be so popular. "
-msgstr ""
+msgstr "[_u_] Должно быть нелегко каждый день быть такой популярной. "
 
 # game/Cell01_ArtDIVISION.rpy:662 #-#-# translate crowdin QuestChap2_Amandine02_02_ROOM_mags_00bf1fcc:
 msgid "[_u_] But... "
-msgstr ""
+msgstr "[_u_] Но... "
 
 # game/Cell01_ArtDIVISION.rpy:663 #-#-# translate crowdin QuestChap2_Amandine02_02_ROOM_mags_7aeaa621:
 msgid "[_u_] It's true that we have been waiting for a while for her next book..."
-msgstr ""
+msgstr "[_u_] Это правда, что мы весьма долго ждем ее следующей книги..."
 
 # game/Cell01_ArtDIVISION.rpy:664 #-#-# translate crowdin QuestChap2_Amandine02_02_ROOM_mags_7b1c1392:
 msgid "[_u_] ..."
@@ -428,19 +428,19 @@ msgstr "[_u_] ..."
 
 # game/Cell01_ArtDIVISION.rpy:665 #-#-# translate crowdin QuestChap2_Amandine02_02_ROOM_mags_c14f831e:
 msgid "[_u_] Let's see what's next..."
-msgstr ""
+msgstr "[_u_] Посмотрим, что дальше..."
 
 # game/Cell01_ArtDIVISION.rpy:669 #-#-# translate crowdin QuestChap2_Amandine02_02_ROOM_mags_93adb657:
 msgid "[_u_] Yeah... "
-msgstr ""
+msgstr "[_u_] Ага... "
 
 # game/Cell01_ArtDIVISION.rpy:670 #-#-# translate crowdin QuestChap2_Amandine02_02_ROOM_mags_6627b582:
 msgid "[_u_] If I were her, I would be very curious to see what they say about me... "
-msgstr ""
+msgstr "[_u_] Если бы я был на ее месте, то было бы очень любопытно узнать, что они говорят про меня... "
 
 # game/Cell01_ArtDIVISION.rpy:671 #-#-# translate crowdin QuestChap2_Amandine02_02_ROOM_mags_ca9c3f78:
 msgid "[_u_] But damn, what kind of idiots can buy this kind of magazine... "
-msgstr ""
+msgstr "[_u_] Но блин, какие идиоты могут покупать такой журнал... "
 
 # game/Cell01_ArtDIVISION.rpy:672 #-#-# translate crowdin QuestChap2_Amandine02_02_ROOM_mags_7b1c1392_1:
 msgid "[_u_] ..."
@@ -448,15 +448,15 @@ msgstr "[_u_] ..."
 
 # game/Cell01_ArtDIVISION.rpy:673 #-#-# translate crowdin QuestChap2_Amandine02_02_ROOM_mags_12171671:
 msgid "[_u_] I wonder if she is in a relationship... "
-msgstr ""
+msgstr "[_u_] Интересно, у неё есть кто-то... "
 
 # game/Cell01_ArtDIVISION.rpy:674 #-#-# translate crowdin QuestChap2_Amandine02_02_ROOM_mags_d08d5263:
 msgid "[_u_] I mean... "
-msgstr ""
+msgstr "[_u_] Я имею в виду... "
 
 # game/Cell01_ArtDIVISION.rpy:675 #-#-# translate crowdin QuestChap2_Amandine02_02_ROOM_mags_6f0c8b41:
 msgid "[_u_] uh... let's see the last one."
-msgstr ""
+msgstr "[_u_] Э... Давайте посмотрим последний."
 
 # game/Cell01_ArtDIVISION.rpy:679 #-#-# translate crowdin QuestChap2_Amandine02_02_ROOM_mags_7b1c1392_2:
 msgid "[_u_] ..."
@@ -464,135 +464,135 @@ msgstr "[_u_] ..."
 
 # game/Cell01_ArtDIVISION.rpy:680 #-#-# translate crowdin QuestChap2_Amandine02_02_ROOM_mags_e5f825c6:
 msgid "[_u_] Such subtlety."
-msgstr ""
+msgstr "[_u_] Такая тонкость."
 
 # game/Cell01_ArtDIVISION.rpy:681 #-#-# translate crowdin QuestChap2_Amandine02_02_ROOM_mags_79fc303a:
 msgid "[_u_] It looks pretty awful..."
-msgstr ""
+msgstr "[_u_] Это выглядит довольно ужасно..."
 
 # game/Cell01_ArtDIVISION.rpy:684 #-#-# translate crowdin QuestChap2_Amandine02_02_ROOM_mags_4d7cf1bb:
 msgid "[_a_] Am I disturbing your reading? "
-msgstr ""
+msgstr "[_a_] Я мешаю твоему чтению? "
 
 # game/Cell01_ArtDIVISION.rpy:689 #-#-# translate crowdin QuestChap2_Amandine02_02_ROOM_machine_389f586a:
 msgid "[_u_] This is a big machine."
-msgstr ""
+msgstr "[_u_] Это большая машина."
 
 # game/Cell01_ArtDIVISION.rpy:690 #-#-# translate crowdin QuestChap2_Amandine02_02_ROOM_machine_39bc34f0:
 msgid "[_u_] It's probably for... "
-msgstr ""
+msgstr "[_u_] Это, наверное, для... "
 
 # game/Cell01_ArtDIVISION.rpy:691 #-#-# translate crowdin QuestChap2_Amandine02_02_ROOM_machine_6ed1789e:
 msgid "[_u_] uh... "
-msgstr ""
+msgstr "[_u_] Эм-м-м... "
 
 # game/Cell01_ArtDIVISION.rpy:692 #-#-# translate crowdin QuestChap2_Amandine02_02_ROOM_machine_e422ac93:
 msgid "[_u_] Nah, I have no idea. "
-msgstr ""
+msgstr "[_u_] Нет, я понятия не имею. "
 
 # game/Cell01_ArtDIVISION.rpy:696 #-#-# translate crowdin QuestChap2_Amandine02_02_ROOM_verre_cdbb4419:
 msgid "[_u_] This place is really gorgeous..."
-msgstr ""
+msgstr "[_u_] Это место действительно великолепно..."
 
 # game/Cell01_ArtDIVISION.rpy:697 #-#-# translate crowdin QuestChap2_Amandine02_02_ROOM_verre_b664cf4f:
 msgid "[_u_] Why didn't I get my office here?"
-msgstr ""
+msgstr "[_u_] Почему я не получил офис?"
 
 # game/Cell01_ArtDIVISION.rpy:701 #-#-# translate crowdin QuestChap2_Amandine02_02_ROOM_hologram_aa596c22:
 msgid "[_u_] Some kind of... advanced holographic projector last generation, I guess."
-msgstr ""
+msgstr "[_u_] Какой-то... усовершенствованный голографический проектор последнего поколения, наверное."
 
 # game/Cell01_ArtDIVISION.rpy:702 #-#-# translate crowdin QuestChap2_Amandine02_02_ROOM_hologram_1aa0ec66:
 msgid "[_u_] Or maybe it's just a lamp, frankly I don't know."
-msgstr ""
+msgstr "[_u_] А может это просто лампа. Честно говоря, я не знаю."
 
 # game/Cell01_ArtDIVISION.rpy:707 #-#-# translate crowdin QuestChap2_Amandine02_02_ROOM_ordis_0315a76b:
 msgid "[_u_] Several desks?"
-msgstr ""
+msgstr "[_u_] Несколько столов?"
 
 # game/Cell01_ArtDIVISION.rpy:708 #-#-# translate crowdin QuestChap2_Amandine02_02_ROOM_ordis_0c22aace:
 msgid "[_u_] It will be good to see some new faces here. "
-msgstr ""
+msgstr "[_u_] Будет приятно увидеть здесь новые лица. "
 
 # game/Cell01_ArtDIVISION.rpy:709 #-#-# translate crowdin QuestChap2_Amandine02_02_ROOM_ordis_6dcc14e3:
 msgid "[_u_] But... these computers are really antiques..."
-msgstr ""
+msgstr "[_u_] Но... эти компьютеры действительно антиквариат..."
 
 # game/Cell01_ArtDIVISION.rpy:724 #-#-# translate crowdin QuestChap2_Amandine02_02_part2_494408f5:
 msgid "[_a_] I see you found these horrible papers. "
-msgstr ""
+msgstr "[_a_] Вижу, ты нашел эти ужасные бумаги. "
 
 # game/Cell01_ArtDIVISION.rpy:725 #-#-# translate crowdin QuestChap2_Amandine02_02_part2_d91bedce:
 msgid "[_u_] Yeah, I couldn't resist watching... "
-msgstr ""
+msgstr "[_u_] Да, я не мог не посмотреть... "
 
 # game/Cell01_ArtDIVISION.rpy:727 #-#-# translate crowdin QuestChap2_Amandine02_02_part2_4b1690a9:
 msgid "[_a_] What do you think of it?"
-msgstr ""
+msgstr "[_a_] Что ты думаешь об этом?"
 
 # game/Cell01_ArtDIVISION.rpy:728 #-#-# translate crowdin QuestChap2_Amandine02_02_part2_7a738ab0:
 msgid "[_u_] About what? The magazines? "
-msgstr ""
+msgstr "[_u_] О чем? О журналах? "
 
 # game/Cell01_ArtDIVISION.rpy:729 #-#-# translate crowdin QuestChap2_Amandine02_02_part2_2c0b9bd8:
 msgid "[_u_] Uh..."
-msgstr ""
+msgstr "[_u_] Угх..."
 
 # game/Cell01_ArtDIVISION.rpy:734 #-#-# translate crowdin QuestChap2_Amandine02_02_part2_18209ad8:
 msgid "[_a_] Ok, I must admit that this has some good sides."
-msgstr ""
+msgstr "[_a_] Хорошо, я должна признать, что у этого есть и хорошие стороны."
 
 # game/Cell01_ArtDIVISION.rpy:736 #-#-# translate crowdin QuestChap2_Amandine02_02_part2_7b4f85ac:
 msgid "[_a_] But the last few months... "
-msgstr ""
+msgstr "[_a_] Но последние несколько месяцев... "
 
 # game/Cell01_ArtDIVISION.rpy:738 #-#-# translate crowdin QuestChap2_Amandine02_02_part2_27682773:
 msgid "[_a_] Yeah, it wasn't great."
-msgstr ""
+msgstr "[_a_] Да, это было не здорово."
 
 # game/Cell01_ArtDIVISION.rpy:741 #-#-# translate crowdin QuestChap2_Amandine02_02_part2_e8ac1854:
 msgid "[_a_] Ahah thank you."
-msgstr ""
+msgstr "[_a_] Ахах, спасибо."
 
 # game/Cell01_ArtDIVISION.rpy:743 #-#-# translate crowdin QuestChap2_Amandine02_02_part2_7d4b3f1b:
 msgid "[_a_] That's the only comfort these magazines can give me I think."
-msgstr ""
+msgstr "[_a_] Думаю, это единственное утешение, которое могут дать мне эти журналы."
 
 # game/Cell01_ArtDIVISION.rpy:746 #-#-# translate crowdin QuestChap2_Amandine02_02_part2_6abf9f4c:
 msgid "[_a_] Neither do I."
-msgstr ""
+msgstr "[_a_] И я нет."
 
 # game/Cell01_ArtDIVISION.rpy:748 #-#-# translate crowdin QuestChap2_Amandine02_02_part2_782fe412:
 msgid "[_a_] Well... when I was a teenager, yeah, why no."
-msgstr ""
+msgstr "[_a_] Ну... когда я была подростком, да, почему бы и нет."
 
 # game/Cell01_ArtDIVISION.rpy:750 #-#-# translate crowdin QuestChap2_Amandine02_02_part2_3a06ddfc:
 msgid "[_a_] But gosh... I never get used to being on the cover."
-msgstr ""
+msgstr "[_a_] Но черт возьми... Я никогда не привыкну быть на обложке."
 
 # game/Cell01_ArtDIVISION.rpy:753 #-#-# translate crowdin QuestChap2_Amandine02_02_part2_02818abe:
 msgid "[_a_] Yeah. That's the idea. "
-msgstr ""
+msgstr "[_a_] Ага. В этом смысл. "
 
 # game/Cell01_ArtDIVISION.rpy:755 #-#-# translate crowdin QuestChap2_Amandine02_02_part2_f857ec59:
 msgid "[_a_] I rarely complain, but..."
-msgstr ""
+msgstr "[_a_] Я редко жалуюсь, но..."
 
 # game/Cell01_ArtDIVISION.rpy:757 #-#-# translate crowdin QuestChap2_Amandine02_02_part2_210c06eb:
 msgid "[_a_] Yes."
-msgstr ""
+msgstr "[_a_] Да."
 
 # game/Cell01_ArtDIVISION.rpy:760 #-#-# translate crowdin QuestChap2_Amandine02_02_part2_bc2fbb1b:
 msgid "[_a_] Anyway, welcome to my workspace!"
-msgstr ""
+msgstr "[_a_] В любом случае, добро пожаловать в мое рабочее пространство!"
 
 # game/Cell01_ArtDIVISION.rpy:762 #-#-# translate crowdin QuestChap2_Amandine02_02_part2_8a886d70:
 msgid "[_u_] This place is huge."
-msgstr ""
+msgstr "[_u_] Это место огромно."
 
 # game/Cell01_ArtDIVISION.rpy:764 #-#-# translate crowdin QuestChap2_Amandine02_02_part2_0237084d:
 msgid "[_a_] Yup! From here I will be able to create absolutely anything I want! "
-msgstr ""
+msgstr "[_a_] Ага! Отсюда я смогу создать абсолютно все, что захочу! "
 
 # game/Cell01_ArtDIVISION.rpy:766 #-#-# translate crowdin QuestChap2_Amandine02_02_part2_76df57cb:
 msgid "[_a_] It's kind of the ultimate dream of every writer I think."
