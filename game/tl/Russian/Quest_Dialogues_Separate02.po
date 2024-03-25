@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2024-03-25 22:15\n"
+"PO-Revision-Date: 2024-03-25 23:18\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Quest_Dialogues_Separate02.rpy:69 #-#-# translate crowdin Quest2_Room01Panel01screen_E_8240cba6:
 msgid "[_u_] Got it!"
@@ -1026,7 +1026,7 @@ msgstr ""
 
 # game/Quest_Dialogues_Separate02.rpy:732 #-#-# translate crowdin QuestChap2_Amandine01_03_menu1_P3_ef2f1671:
 msgid "[_u_] What?"
-msgstr ""
+msgstr "[_u_] Что?"
 
 # game/Quest_Dialogues_Separate02.rpy:733 #-#-# translate crowdin QuestChap2_Amandine01_03_menu1_P3_0063b9f9:
 msgid "[_u_] You are alone on a planet in a lamp?"
@@ -2902,7 +2902,7 @@ msgstr "[_u_] ..."
 
 # game/Quest_Dialogues_Separate02.rpy:2198 #-#-# translate crowdin GalleryImageQuest_QIU01_ef2f1671:
 msgid "[_u_] What?"
-msgstr ""
+msgstr "[_u_] Что?"
 
 # game/Quest_Dialogues_Separate02.rpy:2200 #-#-# translate crowdin GalleryImageQuest_QIU01_2ebf06d7_2:
 msgid "[_qiu_] ..."
@@ -5909,7 +5909,7 @@ msgstr ""
 
 # game/Quest_Dialogues_Separate02.rpy:4501 #-#-# translate crowdin QuestChap2_AMStart_DoubleQuest_menu1_P2_c17e8ab3:
 msgid "[_u_] Not at all. "
-msgstr ""
+msgstr "[_u_] Нет. "
 
 # game/Quest_Dialogues_Separate02.rpy:4503 #-#-# translate crowdin QuestChap2_AMStart_DoubleQuest_menu1_P2_6af3cfd6:
 msgid "[_tb_] And for a fairy, I've got pretty decent tits."
