@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-03-25 11:18\n"
+"PO-Revision-Date: 2024-03-26 14:19\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Room_02_CharaCrea.rpy:10 #-#-# translate crowdin Room_02_CharaCrea_3d26d832:
 msgid "[_u_] No need to create anything yet. "
@@ -738,43 +738,43 @@ msgstr " {color=#3c96f2}={/color} 埃梅 // ''塔诺服装' {color=#3c96f2}={/co
 
 # game/Room_02_CharaCrea.rpy:177
 msgid " {color=#3c96f2}={/color} {color=#3ad8ff}Emee // ''Aenari Clothes'' // Variation{/color} {color=#3c96f2}={/color} "
-msgstr ""
+msgstr " {color=#3c96f2}={/color} {color=#3ad8ff}埃梅 // ''艾瑞丽衣服'' // 改动{/color} {color=#3c96f2}={/color} "
 
 # game/Room_02_CharaCrea.rpy:177
 msgid " {color=#3c96f2}={/color} Tinker // ''Arabian Night'' {color=#3c96f2}={/color} "
-msgstr ""
+msgstr " {color=#3c96f2}={/color} 小叮当 // ''天方夜谭'' {color=#3c96f2}={/color} "
 
 # game/Room_02_CharaCrea.rpy:177
 msgid " {color=#3c96f2}={/color} Tinker // ''Wish Outfit'' {color=#3c96f2}={/color} "
-msgstr ""
+msgstr " {color=#3c96f2}={/color} 小叮当 // ''希望服装'' {color=#3c96f2}={/color} "
 
 # game/Room_02_CharaCrea.rpy:177
 msgid " {color=#3c96f2}={/color} Tinker // ''Vintage Workwear'' {color=#3c96f2}={/color} "
-msgstr ""
+msgstr " {color=#3c96f2}={/color} 小叮当 // ''复古工装'' {color=#3c96f2}={/color} "
 
 # game/Room_02_CharaCrea.rpy:177
 msgid " {color=#3c96f2}={/color} Tinker // ''Lycoris Dress'' {color=#3c96f2}={/color} "
-msgstr ""
+msgstr " {color=#3c96f2}={/color} 小叮当 // ''莉可莉丝服饰'' {color=#3c96f2}={/color} "
 
 # game/Room_02_CharaCrea.rpy:177
 msgid " {color=#3c96f2}={/color}{color=#3ad8ff} Tinker // ''Vintage Workwear'' // Variation {/color}{color=#3c96f2}={/color} "
-msgstr ""
+msgstr " {color=#3c96f2}={/color}{color=#3ad8ff} 小叮当 // ''复古工装'' // 改版 {/color}{color=#3c96f2}={/color} "
 
 # game/Room_02_CharaCrea.rpy:177
 msgid " {color=#3c96f2}={/color}{color=#3ad8ff} Tinker // ''Basic Tinker Dress'' // Variation {/color}{color=#3c96f2}={/color} "
-msgstr ""
+msgstr " {color=#3c96f2}={/color}{color=#3ad8ff} 小叮当 // ''小叮当基本服饰'' // 改装 {/color}{color=#3c96f2}={/color} "
 
 # game/Room_02_CharaCrea.rpy:177
 msgid " {color=#3c96f2}={/color} Amelia // ''Retro-Secretary'' {color=#3c96f2}={/color} "
-msgstr ""
+msgstr " {color=#3c96f2}={/color} 阿米莉亚 // ''怀旧-秘书装'' {color=#3c96f2}={/color} "
 
 # game/Room_02_CharaCrea.rpy:177
 msgid " {color=#3c96f2}={/color} Amelia // ''Vintage-Secretary'' {color=#3c96f2}={/color} "
-msgstr ""
+msgstr " {color=#3c96f2}={/color} 阿米莉亚 // ''复古-秘书装'' {color=#3c96f2}={/color} "
 
 # game/Room_02_CharaCrea.rpy:177
 msgid " {color=#3c96f2}={/color} Jasmine // ''Dance Dress'' {color=#3c96f2}={/color} "
-msgstr ""
+msgstr " {color=#3c96f2}={/color} 茉莉 // ''跳舞服饰'' {color=#3c96f2}={/color} "
 
 # game/Room_02_CharaCrea.rpy:177
 msgid " {color=#3c96f2}={/color} Jasmine // ''Royal Dress'' {color=#3c96f2}={/color} "
