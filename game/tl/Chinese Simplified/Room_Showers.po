@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-03-26 16:04\n"
+"PO-Revision-Date: 2024-03-26 17:03\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Room_Showers.rpy:121 #-#-# translate crowdin ML_ShowerCams01_02_ec3b9bb7:
 msgid "[_u_] Meli?"
@@ -178,7 +178,7 @@ msgstr "[_ly_] 你在做什么？ "
 
 # game/Room_Showers.rpy:238 #-#-# translate crowdin A_GoShower_menu1_0deb8a50:
 msgid "[_u_] We were talking about... uh..."
-msgstr "[_u_] 我们是在探讨... 呃..."
+msgstr "[_u_] 我们是在讨论... 呃..."
 
 # game/Room_Showers.rpy:239 #-#-# translate crowdin A_GoShower_menu1_7b1c1392:
 msgid "[_u_] ..."
@@ -186,31 +186,31 @@ msgstr ""
 
 # game/Room_Showers.rpy:240 #-#-# translate crowdin A_GoShower_menu1_fedf98e5:
 msgid "[_u_] Damn girls... I'm so jealous of your towels."
-msgstr "[_u_] 我日啊，妹子们... 我真是太嫉妒裹在你们身上的毛巾了。"
+msgstr "[_u_] 我日啊，妹子们... 我真是太嫉妒那件裹在你们身上的毛巾了。"
 
 # game/Room_Showers.rpy:242 #-#-# translate crowdin A_GoShower_menu1_97ce97dc:
 msgid "[_a_] I'm sorry, but I don't have any others silk towels. "
-msgstr ""
+msgstr "[_a_] 抱歉，我没有其他的丝绸毛巾了。 "
 
 # game/Room_Showers.rpy:245 #-#-# translate crowdin A_GoShower_menu1_7fdbab78:
 msgid "[_ly_] You were talking about towels? "
-msgstr ""
+msgstr "[_ly_] 你们是在探讨毛巾的事？ "
 
 # game/Room_Showers.rpy:249 #-#-# translate crowdin A_GoShower_menu1_3a025327:
 msgid "[_ly_] Don't you want to talk about something else?"
-msgstr ""
+msgstr "[_ly_] 你们就不想谈点别的事吗？"
 
 # game/Room_Showers.rpy:258 #-#-# translate crowdin A_GoShower_menu1_c26cab6a:
 msgid "[_ly_] I don't know, like... "
-msgstr ""
+msgstr "[_ly_] 我不知道，比如... "
 
 # game/Room_Showers.rpy:262 #-#-# translate crowdin A_GoShower_menu1_c52eb593:
 msgid "[_ly_] ...I think everything is more interesting than talking about towels. "
-msgstr ""
+msgstr "[_ly_] ...我觉得说什么都要比说毛巾有意思。 "
 
 # game/Room_Showers.rpy:264 #-#-# translate crowdin A_GoShower_menu1_44e52acc:
 msgid "[_ly_] Like... the weather outside... "
-msgstr ""
+msgstr "[_ly_] 比如说... 外面的天气... "
 
 # game/Room_Showers.rpy:266 #-#-# translate crowdin A_GoShower_menu1_92c477a5:
 msgid "[_ly_] Oh! Do you also have a kind of little green parrot that follows you everywhere?! "
