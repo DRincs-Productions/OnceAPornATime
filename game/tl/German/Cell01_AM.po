@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2024-03-23 21:28\n"
+"PO-Revision-Date: 2024-03-26 09:20\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_AM.rpy:86 #-#-# translate crowdin CHARA_AM_Menu01_c781f953:
 msgid "[_am_] Hey!"
@@ -1118,55 +1118,55 @@ msgstr "Super!"
 
 # game/Cell01_AM.rpy:1067 #-#-# translate crowdin QuestChap2_Amelia01_06_menu02_P3_f6015b96:
 msgid "[_am_] Thank you very much!"
-msgstr ""
+msgstr "[_am_] Vielen Dank!"
 
 # game/Cell01_AM.rpy:1069 #-#-# translate crowdin QuestChap2_Amelia01_06_menu02_P3_998afbf8:
 msgid "[_scc_] I thought you were a bunch of nerds, but it turns out you really are perverts. "
-msgstr ""
+msgstr "[_scc_] Ich dachte ihr wärt ein Haufen Nerds, aber in Wirklichkeit seid ihr alle Perverslinge. "
 
 # game/Cell01_AM.rpy:1072 #-#-# translate crowdin QuestChap2_Amelia01_06_menu02_P3_1eadebd4:
 msgid "[_scc_] What else do you want me to do? "
-msgstr ""
+msgstr "[_scc_] Was soll ich sonst noch tun? "
 
 # game/Cell01_AM.rpy:1074 #-#-# translate crowdin QuestChap2_Amelia01_06_menu02_P3_1ec36b0d:
 msgid "[_scc_] I can suck this guy's dick for 100credits if you want."
-msgstr ""
+msgstr "[_scc_] Ich kann den Schwanz von diesem Typen für 100 Credits lutschen, wenn du willst."
 
 # game/Cell01_AM.rpy:1077 #-#-# translate crowdin QuestChap2_Amelia01_06_menu02_P3_ef467460:
 msgid "[_scc_] I'm sure you must be delicious."
-msgstr ""
+msgstr "[_scc_] Ich bin mir sicher, dass du köstlich sein musst."
 
 # game/Cell01_AM.rpy:1079 #-#-# translate crowdin QuestChap2_Amelia01_06_menu02_P3_50a20fa5:
 msgid "[_scc_] Ehehe..."
-msgstr ""
+msgstr "[_scc_] Hehehe..."
 
 # game/Cell01_AM.rpy:1080 #-#-# translate crowdin QuestChap2_Amelia01_06_menu02_P3_494281d0:
 msgid "[_u_] Uh... "
-msgstr ""
+msgstr "[_u_] Äh... "
 
 # game/Cell01_AM.rpy:1082 #-#-# translate crowdin QuestChap2_Amelia01_06_menu02_P3_be9c3426:
 msgid "[_u_] No. "
-msgstr ""
+msgstr "[_u_] Nein. "
 
 # game/Cell01_AM.rpy:1084 #-#-# translate crowdin QuestChap2_Amelia01_06_menu02_P3_3f773b84:
 msgid "[_u_] I think we have everything we need. "
-msgstr ""
+msgstr "[_u_] Ich glaube, wir haben alles was wir brauchen. "
 
 # game/Cell01_AM.rpy:1087 #-#-# translate crowdin QuestChap2_Amelia01_06_menu02_P3_c5d058d8:
 msgid "[_scc_] Too bad. "
-msgstr ""
+msgstr "[_scc_] Zu schade. "
 
 # game/Cell01_AM.rpy:1089 #-#-# translate crowdin QuestChap2_Amelia01_06_menu02_P3_4184d909:
 msgid "[_scc_] So... am I in or out? "
-msgstr ""
+msgstr "[_scc_] Also... bin ich drin oder raus? "
 
 # game/Cell01_AM.rpy:1091 #-#-# translate crowdin QuestChap2_Amelia01_06_menu02_P3_c0180f19:
 msgid "[_am_] For me, I think we can say yes. "
-msgstr ""
+msgstr "[_am_] Ich denke, wir können Ja sagen. "
 
 # game/Cell01_AM.rpy:1093 #-#-# translate crowdin QuestChap2_Amelia01_06_menu02_P3_f1c0139a:
 msgid "[_am_] What do you think, [name]? "
-msgstr ""
+msgstr "[_am_] Was denkst du, [Name]? "
 
 # game/Cell01_AM.rpy:1103 #-#-# translate crowdin QuestChap2_Amelia01_06_menu02_P3_ae4bede2:
 msgid "[_scc_] Great. I'm going to visit the place a little bit... just to... "
