@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-03-27 08:23\n"
+"PO-Revision-Date: 2024-03-27 09:41\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Room_Showers.rpy:121 #-#-# translate crowdin ML_ShowerCams01_02_ec3b9bb7:
 msgid "[_u_] Meli?"
@@ -246,91 +246,91 @@ msgstr "[_ly_] 我是说... 我们在浴室里... 我不会在洗澡的时候还
 
 # game/Room_Showers.rpy:285 #-#-# translate crowdin A_GoShower_menu1_74417676:
 msgid "[_a_] No, I mean in terms of modesty."
-msgstr ""
+msgstr "[_a_] 不，我是说谦虚的性格。"
 
 # game/Room_Showers.rpy:287 #-#-# translate crowdin A_GoShower_menu1_c68b165f:
 msgid "[_ly_] No, I just... "
-msgstr ""
+msgstr "[_ly_] 不，只是我... "
 
 # game/Room_Showers.rpy:290 #-#-# translate crowdin A_GoShower_menu1_4cbca01b:
 msgid "[_ly_] You're all so sweet... I don't see why I should be shy in front of you! "
-msgstr ""
+msgstr "[_ly_] 觉得你人太可爱了... 我不明白我为什么要当着你的面害羞！ "
 
 # game/Room_Showers.rpy:293 #-#-# translate crowdin A_GoShower_menu1_a34176f9:
 msgid "[_a_] It's uh... well, when you put it that way..."
-msgstr ""
+msgstr "[_a_] 这，呃... 那个，既然你话都这么说了..."
 
 # game/Room_Showers.rpy:295 #-#-# translate crowdin A_GoShower_menu1_eba23b99:
 msgid "[_ly_] What are you afraid of? "
-msgstr ""
+msgstr "[_ly_] 你是在怕什么？ "
 
 # game/Room_Showers.rpy:297 #-#-# translate crowdin A_GoShower_menu1_9a8f6dac:
 msgid "[_a_] Well uh... I don't know... you could judge me or something. "
-msgstr ""
+msgstr "[_a_] 这个，呃... 我不知道... 你可以评判我什么的。 "
 
 # game/Room_Showers.rpy:299 #-#-# translate crowdin A_GoShower_menu1_7b649b32_1:
 msgid "[_ly_] What?"
-msgstr ""
+msgstr "[_ly_] 什么？"
 
 # game/Room_Showers.rpy:301 #-#-# translate crowdin A_GoShower_menu1_45e401a3:
 msgid "[_ly_] Why should we judge you? Have you done something wrong? "
-msgstr ""
+msgstr "[_ly_] 我为什么要评判你？你是有做错什么事吗？ "
 
 # game/Room_Showers.rpy:303 #-#-# translate crowdin A_GoShower_menu1_5285e5ed:
 msgid "[_a_] No, I mean I... "
-msgstr ""
+msgstr "[_a_] 没，我是说我... "
 
 # game/Room_Showers.rpy:305 #-#-# translate crowdin A_GoShower_menu1_f6af1ea0:
 msgid "[_ly_] Sorry, just teasing."
-msgstr ""
+msgstr "[_ly_] 抱歉，我逗你呢。"
 
 # game/Room_Showers.rpy:307 #-#-# translate crowdin A_GoShower_menu1_2b155bf4:
 msgid "[_ly_] Okay... I'll show you something..."
-msgstr ""
+msgstr "[_ly_] 好吧... 我给你看点东西吧..."
 
 # game/Room_Showers.rpy:309 #-#-# translate crowdin A_GoShower_menu1_6be05a8e:
 msgid "[_ly_] Look at my body and judge me. "
-msgstr ""
+msgstr "[_ly_] 就来看我的身体，然后来评判我吧。 "
 
 # game/Room_Showers.rpy:311 #-#-# translate crowdin A_GoShower_menu1_5257d5af:
 msgid "[_a_] I uh... are you sure? "
-msgstr ""
+msgstr "[_a_] 我，呃... 你确定吗？ "
 
 # game/Room_Showers.rpy:314 #-#-# translate crowdin A_GoShower_menu1_3c040a70:
 msgid "[_ly_] Yes, go ahead, gorgeous! Look at me all you want!"
-msgstr ""
+msgstr "[_ly_] 是的，继续，太漂亮了！随你怎么看待我！"
 
 # game/Room_Showers.rpy:317 #-#-# translate crowdin A_GoShower_menu1_53a325c7:
 msgid "[_a_] I uh..."
-msgstr ""
+msgstr "[_a_] 我，呃..."
 
 # game/Room_Showers.rpy:319 #-#-# translate crowdin A_GoShower_menu1_a0c49ecb:
 msgid "[_a_] You..."
-msgstr ""
+msgstr "[_a_] 你..."
 
 # game/Room_Showers.rpy:321 #-#-# translate crowdin A_GoShower_menu1_ebba771b:
 msgid "[_ly_] Yes?"
-msgstr ""
+msgstr "[_ly_] 怎么了？"
 
 # game/Room_Showers.rpy:323 #-#-# translate crowdin A_GoShower_menu1_6c8c9632:
 msgid "[_a_] Well... I must admit you're quite beautiful..."
-msgstr ""
+msgstr "[_a_] 呃... 我必须要承认你非常漂亮..."
 
 # game/Room_Showers.rpy:327 #-#-# translate crowdin A_GoShower_menu1_3af8abdb:
 msgid "[_ly_] Thank you very much! That's very nice of you!"
-msgstr ""
+msgstr "[_ly_] 非常感谢你的赞美！你这人真是太好了！"
 
 # game/Room_Showers.rpy:329 #-#-# translate crowdin A_GoShower_menu1_1afbcd51:
 msgid "[_ly_] See? The truth is, who cares if you're watched?"
-msgstr ""
+msgstr "[_ly_] 瞧见了吧？事实如此，谁会在乎你被看光了呢？"
 
 # game/Room_Showers.rpy:332 #-#-# translate crowdin A_GoShower_menu1_e58fd129:
 msgid "[_ly_] Frankly, I don't give a damn! If it pleases your eyes, look at me all you want!"
-msgstr ""
+msgstr "[_ly_] 坦白说，我不在乎那些眼光！只要你眼睛想看，那就随你看个遍吧！"
 
 # game/Room_Showers.rpy:333 #-#-# translate crowdin A_GoShower_menu1_bb8e4b4e_2:
 msgid "[_a_] ..."
-msgstr ""
+msgstr "[_a_] ..."
 
 # game/Room_Showers.rpy:335 #-#-# translate crowdin A_GoShower_menu1_170b0f6c:
 msgid "[_a_] It's true that... it doesn't look so bad..."
