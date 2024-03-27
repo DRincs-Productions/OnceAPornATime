@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-03-26 17:03\n"
+"PO-Revision-Date: 2024-03-27 05:54\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Room_Showers.rpy:121 #-#-# translate crowdin ML_ShowerCams01_02_ec3b9bb7:
 msgid "[_u_] Meli?"
@@ -214,19 +214,19 @@ msgstr "[_ly_] 比如说... 外面的天气... "
 
 # game/Room_Showers.rpy:266 #-#-# translate crowdin A_GoShower_menu1_92c477a5:
 msgid "[_ly_] Oh! Do you also have a kind of little green parrot that follows you everywhere?! "
-msgstr ""
+msgstr "[_ly_] 哦！你也有一只跟着你到处走的小绿鹦鹉吗？！ "
 
 # game/Room_Showers.rpy:269 #-#-# translate crowdin A_GoShower_menu1_bb8e4b4e_1:
 msgid "[_a_] ..."
-msgstr ""
+msgstr "[_a_] ..."
 
 # game/Room_Showers.rpy:271 #-#-# translate crowdin A_GoShower_menu1_7b649b32:
 msgid "[_ly_] What?"
-msgstr ""
+msgstr "[_ly_] 什么？"
 
 # game/Room_Showers.rpy:273 #-#-# translate crowdin A_GoShower_menu1_77d23d5c:
 msgid "[_ly_] Did I say something wrong? "
-msgstr ""
+msgstr "[_ly_] 我说错什么了吗？ "
 
 # game/Room_Showers.rpy:276 #-#-# translate crowdin A_GoShower_menu1_d42b9697:
 msgid "[_a_] How can you be so confident standing naked?!"
