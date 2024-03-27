@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-03-27 09:41\n"
+"PO-Revision-Date: 2024-03-27 11:17\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Room_Showers.rpy:121 #-#-# translate crowdin ML_ShowerCams01_02_ec3b9bb7:
 msgid "[_u_] Meli?"
@@ -334,39 +334,39 @@ msgstr "[_a_] ..."
 
 # game/Room_Showers.rpy:335 #-#-# translate crowdin A_GoShower_menu1_170b0f6c:
 msgid "[_a_] It's true that... it doesn't look so bad..."
-msgstr ""
+msgstr "[_a_] 说的没错... 看起来确实没那么糟糕..."
 
 # game/Room_Showers.rpy:338 #-#-# translate crowdin A_GoShower_menu1_1bfc9955:
 msgid "[_a_] But aren't you afraid that... "
-msgstr ""
+msgstr "[_a_] 但你不会害怕... "
 
 # game/Room_Showers.rpy:340 #-#-# translate crowdin A_GoShower_menu1_87aca8eb:
 msgid "[_a_] How do you say... That someone wants to do things with you if they see you naked? "
-msgstr ""
+msgstr "[_a_] 要是有人看到你的裸体就想和你发生点什么... 那你说该怎么办的好？ "
 
 # game/Room_Showers.rpy:342 #-#-# translate crowdin A_GoShower_menu1_a6be6f20:
 msgid "[_ly_] Why? You want to do things to me?... "
-msgstr ""
+msgstr "[_ly_] 为什么问这个？你是想对我做点什么吗？... "
 
 # game/Room_Showers.rpy:344 #-#-# translate crowdin A_GoShower_menu1_d8297f72:
 msgid "[_a_] No! I..."
-msgstr ""
+msgstr "[_a_] 不是！我..."
 
 # game/Room_Showers.rpy:346 #-#-# translate crowdin A_GoShower_menu1_60ed7c30:
 msgid "[_ly_] If you want to grab my boobs, just do it!"
-msgstr ""
+msgstr "[_ly_] 如果你想摸我的奶子，那你就摸吧！"
 
 # game/Room_Showers.rpy:348 #-#-# translate crowdin A_GoShower_menu1_f05eb6e4:
 msgid "[_a_] No, no, no, I didn't mean that!"
-msgstr ""
+msgstr "[_a_] 不，不，不，我不是那个意思！"
 
 # game/Room_Showers.rpy:350 #-#-# translate crowdin A_GoShower_menu1_5dfbfe97:
 msgid "[_ly_] Yes, I know... I just wanted to suggest that you do it. "
-msgstr ""
+msgstr "[_ly_] 我知道你不是那个意思... 我只是想建议你可以这么做。 "
 
 # game/Room_Showers.rpy:353 #-#-# translate crowdin A_GoShower_menu1_568b15f7:
 msgid "[_ly_] And that you do."
-msgstr ""
+msgstr "[_ly_] 而你是这么做的。"
 
 # game/Room_Showers.rpy:356 #-#-# translate crowdin A_GoShower_menu1_cc073231:
 msgid "[_ly_] Anyway, uh... well, if that's the case... "
