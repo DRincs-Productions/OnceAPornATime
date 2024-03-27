@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-03-27 05:54\n"
+"PO-Revision-Date: 2024-03-27 08:23\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Room_Showers.rpy:121 #-#-# translate crowdin ML_ShowerCams01_02_ec3b9bb7:
 msgid "[_u_] Meli?"
@@ -230,19 +230,19 @@ msgstr "[_ly_] 我说错什么了吗？ "
 
 # game/Room_Showers.rpy:276 #-#-# translate crowdin A_GoShower_menu1_d42b9697:
 msgid "[_a_] How can you be so confident standing naked?!"
-msgstr ""
+msgstr "[_a_] 你是怎么这样镇定自若的赤裸地站着的？"
 
 # game/Room_Showers.rpy:278 #-#-# translate crowdin A_GoShower_menu1_15a865b6:
 msgid "[_ly_] Well... I don't know... "
-msgstr ""
+msgstr "[_ly_] 这个嘛... 我不知道... "
 
 # game/Room_Showers.rpy:280 #-#-# translate crowdin A_GoShower_menu1_31a94636:
 msgid "[_ly_] Shouldn't I? "
-msgstr ""
+msgstr "[_ly_] 我不该这样吗？ "
 
 # game/Room_Showers.rpy:282 #-#-# translate crowdin A_GoShower_menu1_4a5d1120:
 msgid "[_ly_] I mean... We're in a shower room... I'm not going to wash with my clothes on..."
-msgstr ""
+msgstr "[_ly_] 我是说... 我们在浴室里... 我不会在洗澡的时候还穿衣服吧？那我在洗什么..."
 
 # game/Room_Showers.rpy:285 #-#-# translate crowdin A_GoShower_menu1_74417676:
 msgid "[_a_] No, I mean in terms of modesty."
