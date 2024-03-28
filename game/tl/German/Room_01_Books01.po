@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2024-03-28 08:49\n"
+"PO-Revision-Date: 2024-03-28 10:16\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Room_01_Books01.rpy:27 #-#-# translate crowdin room01_books01_In_46239f59:
 msgid "You've already chosen a book for tonight."
@@ -114,17 +114,17 @@ msgstr "Die Reise zum Mittelpunkt der Erde {image=book02.png}{image=book02.png}{
 
 # game/Room_01_Books01.rpy:43
 msgid "ART BOOK (I) Happy little Trees {image=book01.png}{image=book01.png}{image=book01.png} "
-msgstr ""
+msgstr "Kunstbuch (I) Fröhliche kleine Bäume {image=book01.png}{image=book01.png}{image=book01.png} "
 
 # game/Room_01_Books01.rpy:43
 msgid "ART BOOK (I) Happy little Trees {image=book02.png}{image=book01.png}{image=book01.png} "
-msgstr ""
+msgstr "Kunstbuch (I) Fröhliche kleine Bäume {image=book02.png}{image=book01.png}{image=book01.png} "
 
 # game/Room_01_Books01.rpy:43
 msgid "ART BOOK (I) Happy little Trees {image=book02.png}{image=book02.png}{image=book01.png} "
-msgstr ""
+msgstr "Kunstbuch (I) Fröhliche kleine Bäume {image=book02.png}{image=book02.png}{image=book01.png} "
 
 # game/Room_01_Books01.rpy:43
 msgid "ART BOOK (I) Happy little Trees {image=book02.png}{image=book02.png}{image=book02.png} "
-msgstr ""
+msgstr "Kunstbuch (I) Fröhliche kleine Bäume {image=book02.png}{image=book02.png}{image=book02.png} "
 
