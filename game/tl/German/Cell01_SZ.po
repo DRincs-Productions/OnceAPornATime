@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2024-03-23 23:11\n"
+"PO-Revision-Date: 2024-03-28 20:50\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_SZ.rpy:87 #-#-# translate crowdin CHARA_SZ_Menu01_af6c6a0a:
 msgid "[_sz_]  ... "
@@ -1822,7 +1822,7 @@ msgstr ""
 
 # game/Cell01_SZ.rpy:1346 #-#-# translate crowdin Quest_SZ_Favor_Dress_01_menu1_P3_0f07ccc4:
 msgid "[_u_] ?"
-msgstr ""
+msgstr "[_u_] ?"
 
 # game/Cell01_SZ.rpy:1348 #-#-# translate crowdin Quest_SZ_Favor_Dress_01_menu1_P3_07f343bb:
 msgid "[_a_] Yes I know, I ask a lot of questions, I'm curious ahah"
@@ -1838,7 +1838,7 @@ msgstr ""
 
 # game/Cell01_SZ.rpy:1353 #-#-# translate crowdin Quest_SZ_Favor_Dress_01_menu1_P3_44e6b779:
 msgid "[_a_] I..."
-msgstr ""
+msgstr "[_a_] Ich..."
 
 # game/Cell01_SZ.rpy:1354 #-#-# translate crowdin Quest_SZ_Favor_Dress_01_menu1_P3_bb8e4b4e:
 msgid "[_a_] ..."
@@ -4594,7 +4594,7 @@ msgstr ""
 
 # game/Cell01_SZ.rpy:3199 #-#-# translate crowdin QuestChap2_Jasmine01_02_menu01_P2_0f07ccc4:
 msgid "[_u_] ?"
-msgstr ""
+msgstr "[_u_] ?"
 
 # game/Cell01_SZ.rpy:3201 #-#-# translate crowdin QuestChap2_Jasmine01_02_menu01_P2_e972840d:
 msgid "[_jm_] I'm talking about the birds."
