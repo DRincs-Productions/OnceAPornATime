@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2024-03-23 23:11\n"
+"PO-Revision-Date: 2024-03-28 20:51\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Quest_Rooms_Separate02.rpy:125 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_peruche_1ffa9899:
 msgid "[_u_] What are you doing here? "
@@ -2310,7 +2310,7 @@ msgstr ""
 
 # game/Quest_Rooms_Separate02.rpy:1909 #-#-# translate crowdin Scene_SnowWhite01_44e6b779:
 msgid "[_a_] I..."
-msgstr ""
+msgstr "[_a_] Ich..."
 
 # game/Quest_Rooms_Separate02.rpy:1911 #-#-# translate crowdin Scene_SnowWhite01_bb8e4b4e_2:
 msgid "[_a_] ..."
