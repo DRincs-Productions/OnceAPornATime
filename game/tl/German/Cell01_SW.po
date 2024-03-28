@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2024-03-16 00:41\n"
+"PO-Revision-Date: 2024-03-28 20:50\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_SW.rpy:309 #-#-# translate crowdin CHARA_SW_Menu01_8238495a:
 msgid "[_sw_]  ... "
@@ -5574,7 +5574,7 @@ msgstr ""
 
 # game/Cell01_SW.rpy:4939 #-#-# translate crowdin Quest_SW_App07_StartPart2_02_0f07ccc4:
 msgid "[_u_] ?"
-msgstr ""
+msgstr "[_u_] ?"
 
 # game/Cell01_SW.rpy:4941 #-#-# translate crowdin Quest_SW_App07_StartPart2_02_a7e85e14:
 msgid "[_sw_] I need a new outfit right away!"
