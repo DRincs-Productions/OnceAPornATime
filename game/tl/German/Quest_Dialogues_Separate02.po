@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2024-03-23 23:11\n"
+"PO-Revision-Date: 2024-03-28 20:50\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Quest_Dialogues_Separate02.rpy:69 #-#-# translate crowdin Quest2_Room01Panel01screen_E_8240cba6:
 msgid "[_u_] Got it!"
@@ -62,7 +62,7 @@ msgstr ""
 
 # game/Quest_Dialogues_Separate02.rpy:109 #-#-# translate crowdin Intro_Rooms_Amandine01_0f07ccc4:
 msgid "[_u_] ?"
-msgstr ""
+msgstr "[_u_] ?"
 
 # game/Quest_Dialogues_Separate02.rpy:110 #-#-# translate crowdin Intro_Rooms_Amandine01_90139d36:
 msgid "[_u_] Yes? Who is it?"
@@ -2398,7 +2398,7 @@ msgstr ""
 
 # game/Quest_Dialogues_Separate02.rpy:1875 #-#-# translate crowdin QuestChap2_Jasmine01_01_0f07ccc4:
 msgid "[_u_] ?"
-msgstr ""
+msgstr "[_u_] ?"
 
 # game/Quest_Dialogues_Separate02.rpy:1876 #-#-# translate crowdin QuestChap2_Jasmine01_01_f0aa676a:
 msgid "[_u_] Did my door make that sound? "
@@ -3369,7 +3369,7 @@ msgstr ""
 
 # game/Quest_Dialogues_Separate02.rpy:2550 #-#-# translate crowdin QuestChap2_LycorisStart_01_menu01_P2_0f07ccc4:
 msgid "[_u_] ?"
-msgstr ""
+msgstr "[_u_] ?"
 
 # game/Quest_Dialogues_Separate02.rpy:2552 #-#-# translate crowdin QuestChap2_LycorisStart_01_menu01_P2_3b1719dd:
 msgid "[_tb_] We're going to corrupt the entire city."
@@ -3737,7 +3737,7 @@ msgstr ""
 
 # game/Quest_Dialogues_Separate02.rpy:2827 #-#-# translate crowdin QuestChap2_LyStart_E_04_menu1_P1_0f07ccc4:
 msgid "[_u_] ?"
-msgstr ""
+msgstr "[_u_] ?"
 
 # game/Quest_Dialogues_Separate02.rpy:2829 #-#-# translate crowdin QuestChap2_LyStart_E_04_menu1_P1_37f61c13:
 msgid "[_e_] Those eyes. Those are woman's eyes. "
@@ -4353,7 +4353,7 @@ msgstr ""
 
 # game/Quest_Dialogues_Separate02.rpy:3266 #-#-# translate crowdin QuestChap2_LyStart_E_06_P1_0f07ccc4:
 msgid "[_u_] ?"
-msgstr ""
+msgstr "[_u_] ?"
 
 # game/Quest_Dialogues_Separate02.rpy:3267 #-#-# translate crowdin QuestChap2_LyStart_E_06_P1_c27fd476:
 msgid "[_u_] And the Forty Thieves?"
@@ -6025,7 +6025,7 @@ msgstr ""
 
 # game/Quest_Dialogues_Separate02.rpy:4608 #-#-# translate crowdin TBReactionLicorne_03_0f07ccc4:
 msgid "[_u_] ?"
-msgstr ""
+msgstr "[_u_] ?"
 
 # game/Quest_Dialogues_Separate02.rpy:4609 #-#-# translate crowdin TBReactionLicorne_03_198bfd6e:
 msgid "[_u_] Are you serious? "
@@ -7377,11 +7377,11 @@ msgstr ""
 
 # game/Quest_Dialogues_Separate02.rpy:5450 #-#-# translate crowdin Emee_Ali_01_02_menu1_2a9fddb6:
 msgid "[_a_] I uh... "
-msgstr ""
+msgstr "[_a_] Ich äh... "
 
 # game/Quest_Dialogues_Separate02.rpy:5452 #-#-# translate crowdin Emee_Ali_01_02_menu1_44e6b779:
 msgid "[_a_] I..."
-msgstr ""
+msgstr "[_a_] Ich..."
 
 # game/Quest_Dialogues_Separate02.rpy:5454 #-#-# translate crowdin Emee_Ali_01_02_menu1_124d2b78:
 msgid "[_dj_] Sorry, I didn't mean to make you blush!"
