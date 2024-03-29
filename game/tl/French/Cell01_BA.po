@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-03-29 19:06\n"
+"PO-Revision-Date: 2024-03-29 23:40\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_BA.rpy:50 #-#-# translate crowdin CHARA_BA_Menu01_98aea068:
 msgid "[_ba_]  ... "
@@ -426,19 +426,19 @@ msgstr "[_dj_] Je ne peux accorder ce souhait extraordinaire qu'à une personne 
 
 # game/Cell01_BA.rpy:351 #-#-# translate crowdin Quest_BA_App01_01_c5f985df:
 msgid "[_ba_] I'm the queen of thieves, I'm not really a pure soul, you know..."
-msgstr "[Je suis la reine des voleurs, je ne suis pas vraiment une âme pure, vous savez..."
+msgstr "[_ba_] Je suis la reine des voleurs, pas vraiment une âme pure, tu sais..."
 
 # game/Cell01_BA.rpy:353 #-#-# translate crowdin Quest_BA_App01_01_cae0adf1:
 msgid "[_dj_] I mean... sexually debauched. "
-msgstr "[Je veux dire... sexuellement débauché. "
+msgstr "[_dj_] Je veux dire... sexuellement libertine. "
 
 # game/Cell01_BA.rpy:356 #-#-# translate crowdin Quest_BA_App01_01_11c85d96:
 msgid "[_ba_] What?!"
-msgstr "[Quoi ? !"
+msgstr "[_ba_] Quoi ?!"
 
 # game/Cell01_BA.rpy:358 #-#-# translate crowdin Quest_BA_App01_01_6d07bb58:
 msgid "[_ba_] I... mh... "
-msgstr "[I... mh... "
+msgstr "[_ba_] Je... euh... "
 
 # game/Cell01_BA.rpy:360 #-#-# translate crowdin Quest_BA_App01_01_6765fc92:
 msgid "[_ba_] What should I do? "
