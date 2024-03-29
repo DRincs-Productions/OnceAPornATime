@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-03-26 19:27\n"
+"PO-Revision-Date: 2024-03-29 19:06\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_BA.rpy:50 #-#-# translate crowdin CHARA_BA_Menu01_98aea068:
 msgid "[_ba_]  ... "
@@ -402,7 +402,7 @@ msgstr "[_dj_] Parce que si c'est le cas, c'était ton dernier. "
 
 # game/Cell01_BA.rpy:340 #-#-# translate crowdin Quest_BA_App01_01_ea1b20bc:
 msgid "[_ba_] Oh my God... I can't believe it..."
-msgstr "[Oh mon Dieu... Je ne peux pas le croire..."
+msgstr "[_ba_] Oh mon Dieu... Je n'arrive pas à y croire..."
 
 # game/Cell01_BA.rpy:341 #-#-# translate crowdin Quest_BA_App01_01_d8225a01:
 msgid "[_u_] Well, that was quick. "
@@ -410,19 +410,19 @@ msgstr "[_u_] Eh bien, c'était rapide. "
 
 # game/Cell01_BA.rpy:343 #-#-# translate crowdin Quest_BA_App01_01_62c16060:
 msgid "[_ba_] By the great sea of sand... I cannot believe it... "
-msgstr "[Au bord de la grande mer de sable... Je n'arrive pas à y croire... "
+msgstr "[_ba_] Par la grande mer de sable... Je n'arrive pas à y croire... "
 
 # game/Cell01_BA.rpy:345 #-#-# translate crowdin Quest_BA_App01_01_2d2ab977:
 msgid "[_dj_] If you like, I can grant you one last wish. But... "
-msgstr "[Si vous le souhaitez, je peux vous accorder un dernier souhait. Mais... "
+msgstr "[_dj_] Si tu veux, je peux t'accorder un dernier vœu. Mais... "
 
 # game/Cell01_BA.rpy:347 #-#-# translate crowdin Quest_BA_App01_01_2ab0687c:
 msgid "[_ba_] Let me know. I'm up to anything."
-msgstr "[Tenez-moi au courant. Je suis prêt à tout."
+msgstr "[_ba_] Dis-moi. Je suis prête à tout."
 
 # game/Cell01_BA.rpy:349 #-#-# translate crowdin Quest_BA_App01_01_5a47299b:
 msgid "[_dj_] But I can only grant this extra-ordinary wish to an exceptionally... debauched person. "
-msgstr "[Mais je ne peux accorder ce souhait extraordinaire qu'à une personne exceptionnellement... débauchée. "
+msgstr "[_dj_] Je ne peux accorder ce souhait extraordinaire qu'à une personne exceptionnellement... libertine. "
 
 # game/Cell01_BA.rpy:351 #-#-# translate crowdin Quest_BA_App01_01_c5f985df:
 msgid "[_ba_] I'm the queen of thieves, I'm not really a pure soul, you know..."
