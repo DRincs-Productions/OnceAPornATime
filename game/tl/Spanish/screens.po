@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-03-30 04:48\n"
+"PO-Revision-Date: 2024-03-30 05:48\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # §translate crowdin strings: #|#|# # game/screens.rpy:256
 msgid "Back"
@@ -42,177 +42,179 @@ msgstr "Carga Rápida"
 
 # game/screens.rpy:263
 msgid "Prefs"
-msgstr ""
+msgstr "Preferencias"
 
 # game/screens.rpy:304
 msgid "Version [config.version!t]\n"
-msgstr ""
+msgstr "Configuración de versiones"
 
 # game/screens.rpy:311
 msgid "Conçu avec {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n"
 "[renpy.license!t]"
-msgstr ""
+msgstr "Hecho con {a=https: //www.renpy.org/} Ren'Py {/a} [renpy.version_only].\n\n"
+"[renpy.license! t]"
 
 # game/screens.rpy:315
 msgid "ICI CE TROUVE L'INVENTAIRE"
-msgstr ""
+msgstr "AQUI ENCONTRARAS EL INVENTARIO"
 
 # game/screens.rpy:316
 msgid "Retour"
-msgstr ""
+msgstr "Volver"
 
 # game/screens.rpy:363
 msgid "ChangeLog"
-msgstr ""
+msgstr "Cambiar registro"
 
 # game/screens.rpy:375
 msgid "Start"
-msgstr ""
+msgstr "Comenzar"
 
 # game/screens.rpy:386
 msgid "Load"
-msgstr ""
+msgstr "Cargar"
 
 # game/screens.rpy:388
 msgid "Preferences"
-msgstr ""
+msgstr "Ajustes"
 
 # game/screens.rpy:392
 msgid "End Replay"
-msgstr ""
+msgstr "Finalizar repetición"
 
 # game/screens.rpy:396
 msgid "Main Menu"
-msgstr ""
+msgstr "Menú principal"
 
 # game/screens.rpy:398
 msgid "About"
-msgstr ""
+msgstr "Acerca de"
 
 # game/screens.rpy:403
 msgid "Help"
-msgstr ""
+msgstr "Ayuda"
 
 # game/screens.rpy:406
 msgid "Quit"
-msgstr ""
+msgstr "Salir"
 
 # game/screens.rpy:408
 msgid "PATREON"
-msgstr ""
+msgstr "PATREON"
 
 # game/screens.rpy:412
 msgid "{color=#5b6568}{size=-10}^Check for Updates!^{/size}{/color}"
-msgstr ""
+msgstr "{color=#5b6568}{size=-10}^¡Buscar actualizaciones!^{/size}{/color}"
 
 # game/screens.rpy:580
 msgid "Return"
-msgstr ""
+msgstr "REGRESAR"
 
 # game/screens.rpy:670
 msgid "Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n"
 "[renpy.license!t]"
-msgstr ""
+msgstr "Hecho con {a=https: //www.renpy.org/} Ren'Py {/a} [renpy.version_only].\n\n"
+"[renpy.license! t]"
 
 # game/screens.rpy:675
 msgid "Thanks to all beta testers <3 "
-msgstr ""
+msgstr "Gracias a todos los jugadores beta < 3 "
 
 # game/screens.rpy:677
 msgid "Special Thanks to Kevin MacLeod for some of the musics : https://incompetech.filmmusic.io/ "
-msgstr ""
+msgstr "Agradecimiento especial a Kevin MacLeod por algunas de las músicas: https://incompetech.filmmusic.io/ "
 
 # game/screens.rpy:679
 msgid "A big kiss to Pachi for the help with the english translation! "
-msgstr ""
+msgstr "Un beso grande a Pachi para la ayuda con la traducción al inglés! "
 
 # game/screens.rpy:722
 msgid "Page {}"
-msgstr ""
+msgstr "Página {}"
 
 # game/screens.rpy:722
 msgid "Automatic saves"
-msgstr ""
+msgstr "Guardado automatico"
 
 # game/screens.rpy:722
 msgid "Quick saves"
-msgstr ""
+msgstr "Guardado rápido"
 
 # game/screens.rpy:764
 msgid "{#file_time}%A, %B %d %Y, %H:%M"
-msgstr ""
+msgstr "{#file_time}%A, %B %d %Y, %H:%M"
 
 # game/screens.rpy:764
 msgid "empty slot"
-msgstr ""
+msgstr "ranura vacía"
 
 # game/screens.rpy:781
 msgid "<"
-msgstr ""
+msgstr "<"
 
 # game/screens.rpy:784
 msgid "{#auto_page}A"
-msgstr ""
+msgstr "{#auto_page}A"
 
 # game/screens.rpy:787
 msgid "{#quick_page}Q"
-msgstr ""
+msgstr "{#quick_page}Q"
 
 # game/screens.rpy:793
 msgid ">"
-msgstr ""
+msgstr ">"
 
 # game/screens.rpy:850
 msgid "Display"
-msgstr ""
+msgstr "Mostrar"
 
 # game/screens.rpy:851
 msgid "Window"
-msgstr ""
+msgstr "Ventana"
 
 # game/screens.rpy:852
 msgid "Fullscreen"
-msgstr ""
+msgstr "Pantalla completa"
 
 # game/screens.rpy:860
 msgid "Rollback Side"
-msgstr ""
+msgstr "Retroceso"
 
 # game/screens.rpy:861
 msgid "Disable"
-msgstr ""
+msgstr "Desactivar"
 
 # game/screens.rpy:862
 msgid "Left"
-msgstr ""
+msgstr "Izquierda"
 
 # game/screens.rpy:863
 msgid "Right"
-msgstr ""
+msgstr "Derecha"
 
 # game/screens.rpy:868
 msgid "Unseen Text"
-msgstr ""
+msgstr "Ocultar texto"
 
 # game/screens.rpy:869
 msgid "After Choices"
-msgstr ""
+msgstr "Después de elegir"
 
 # game/screens.rpy:870
 msgid "Transitions"
-msgstr ""
+msgstr "Transiciones"
 
 # game/screens.rpy:894
 msgid "Text Speed"
-msgstr ""
+msgstr "Velocidad del texto"
 
 # game/screens.rpy:898
 msgid "Auto-Forward Time"
-msgstr ""
+msgstr "Avance-automático"
 
 # game/screens.rpy:905
 msgid "Music Volume"
-msgstr ""
+msgstr "Volumen de Música"
 
 # game/screens.rpy:912
 msgid "Sound Volume"
@@ -419,19 +421,19 @@ msgstr ""
 
 # game/screens.rpy:1681
 msgid "Show Image Load Log (F4)"
-msgstr ""
+msgstr "Mostrar registro de imágenes (F4)"
 
 # game/screens.rpy:1684
 msgid "Hide Image Load Log (F4)"
-msgstr ""
+msgstr "Ocultar registro de imágenes (F4)"
 
 # game/screens.rpy:1687
 msgid "Image Attributes"
-msgstr ""
+msgstr "Atributos de imagen"
 
 # game/screens.rpy:1714
 msgid "[name] [attributes] (hidden)"
-msgstr ""
+msgstr "[nombre] [atributos] (oculto)"
 
 # game/screens.rpy:1718
 msgid "[name] [attributes]"
