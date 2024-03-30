@@ -10,35 +10,35 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-02-26 09:13\n"
+"PO-Revision-Date: 2024-03-30 04:48\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # §translate crowdin strings: #|#|# # game/screens.rpy:256
 msgid "Back"
-msgstr ""
+msgstr "Atras"
 
 # game/screens.rpy:257
 msgid "History"
-msgstr ""
+msgstr "Historia"
 
 # game/screens.rpy:258
 msgid "Skip"
-msgstr ""
+msgstr "Saltar dialogo"
 
 # game/screens.rpy:259
 msgid "Auto"
-msgstr ""
+msgstr "Automático"
 
 # game/screens.rpy:260
 msgid "Save"
-msgstr ""
+msgstr "Guardar"
 
 # game/screens.rpy:261
 msgid "Q.Save"
-msgstr ""
+msgstr "Guardado Rápido"
 
 # game/screens.rpy:262
 msgid "Q.Load"
-msgstr ""
+msgstr "Carga Rápida"
 
 # game/screens.rpy:263
 msgid "Prefs"
