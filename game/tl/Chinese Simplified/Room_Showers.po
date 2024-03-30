@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-03-30 09:03\n"
+"PO-Revision-Date: 2024-03-30 10:04\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Room_Showers.rpy:121 #-#-# translate crowdin ML_ShowerCams01_02_ec3b9bb7:
 msgid "[_u_] Meli?"
@@ -418,11 +418,11 @@ msgstr "[_ly_] 不过话说回来，要是真那样了，嗯... 你会在热水�
 
 # game/Room_Showers.rpy:391 #-#-# translate crowdin A_GoShower_menu1_8c665f9e:
 msgid "[_ly_] And if you don't feel like it, that's okay, maybe another time!"
-msgstr ""
+msgstr "[_ly_] 如果你要是不想这么做，那也没关系，说不定下次就想了呢？"
 
 # game/Room_Showers.rpy:394 #-#-# translate crowdin A_GoShower_menu1_2fa1c2c5:
 msgid "[_ly_] We're not animals, we can just talk to each other. And have fun if we want. "
-msgstr ""
+msgstr "[_ly_] 我们不是动物，我们可以互相交流。你情我愿，才能纵情欲海。 "
 
 # game/Room_Showers.rpy:396 #-#-# translate crowdin A_GoShower_menu1_04e3430b:
 msgid "[_a_] If you could wait until I've left to fuck, that would be very kind!"
