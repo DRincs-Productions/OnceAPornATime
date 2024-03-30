@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-03-11 02:13\n"
+"PO-Revision-Date: 2024-03-30 06:59\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # §translate crowdin strings: #|#|# # game/script.rpy:935
 msgid "Changelog"
@@ -18,11 +18,11 @@ msgstr "Registro de actualizaciones"
 
 # game/script.rpy:940
 msgid "Changelog [config.version!t]\n"
-msgstr ""
+msgstr "Cambios de configuración de versión"
 
 # game/script.rpy:946
 msgid "{size=20}{color=#797979}02/2023{/color}{/size}"
-msgstr ""
+msgstr "{tamaño=20}{color=#797979}02/2023{/color}{/tamaño}"
 
 # game/script.rpy:947
 msgid "-Main Quest"
@@ -38,7 +38,7 @@ msgstr "-Solución de errores"
 
 # game/script.rpy:951
 msgid "{size=20}{color=#797979}12/2023{/color}{/size}"
-msgstr ""
+msgstr "{tamaño=20}{color=#797979}12/2023{/color}{/tamaño}"
 
 # game/script.rpy:952
 msgid "-Small update"
@@ -46,7 +46,7 @@ msgstr "-Actualización pequeña"
 
 # game/script.rpy:956
 msgid "{size=20}{color=#797979}11/2023{/color}{/size}"
-msgstr ""
+msgstr "{tamaño=20}{color=#797979}11/2023{/color}{/tamaño}"
 
 # game/script.rpy:957
 msgid "-BugFix"
@@ -66,7 +66,7 @@ msgstr "-Mucha Ropa Nueva"
 
 # game/script.rpy:965
 msgid "{size=20}{color=#797979}10/2023{/color}{/size}"
-msgstr ""
+msgstr "{tamaño=20}{color=#797979}10/2023{/color}{/tamaño}"
 
 # game/script.rpy:966
 msgid "-New Patreon Quest"
@@ -78,7 +78,7 @@ msgstr "-Nueva Ropa"
 
 # game/script.rpy:969
 msgid "{size=20}{color=#797979}08/2023{/color}{/size}"
-msgstr ""
+msgstr "{tamaño=20}{color=#797979}08/2023{/color}{/tamaño}"
 
 # game/script.rpy:970
 msgid "-Office Customs"
@@ -86,11 +86,11 @@ msgstr "-Personalización de la Oficina"
 
 # game/script.rpy:973
 msgid "{size=20}{color=#797979}07/2023{/color}{/size}"
-msgstr ""
+msgstr "{tamaño=20}{color=#797979}07/2023{/color}{/tamaño}"
 
 # game/script.rpy:978
 msgid "{size=20}{color=#797979}04/2023{/color}{/size}"
-msgstr ""
+msgstr "{tamaño=20}{color=#797979}04/2023{/color}{/tamaño}"
 
 # game/script.rpy:979
 msgid "-Jasmine Patreon Quest Corruption"
@@ -102,7 +102,7 @@ msgstr "02/2023"
 
 # game/script.rpy:987
 msgid "{size=20}{color=#797979}01/2023{/color}{/size}"
-msgstr ""
+msgstr "{tamaño=20}{color=#797979}01/2023{/color}{/tamaño}"
 
 # game/script.rpy:988
 msgid "-First Patreon Quest"
@@ -114,7 +114,7 @@ msgstr "-Ropa Nueva"
 
 # game/script.rpy:992
 msgid "{size=20}{color=#797979}11/2022{/color}{/size}"
-msgstr ""
+msgstr "{tamaño=20}{color=#797979}11/2022{/color}{/tamaño}"
 
 # game/script.rpy:993
 msgid "- Sultana quest"
@@ -130,7 +130,7 @@ msgstr "-Progresión en el Romance de Personaje"
 
 # game/script.rpy:998
 msgid "{size=20}{color=#797979}09/2022{/color}{/size}"
-msgstr ""
+msgstr "{tamaño=20}{color=#797979}09/2022{/color}{/tamaño}"
 
 # game/script.rpy:999
 msgid "-First Update, Introduction."
@@ -138,15 +138,15 @@ msgstr "-Primera Actualización, Introducción."
 
 # game/script.rpy:1003
 msgid "Creator : Salty01 "
-msgstr ""
+msgstr "Creador: Salty01 "
 
 # game/script.rpy:1004
 msgid "PATREON PAGE : https://www.patreon.com/Salty01_NSFW "
-msgstr ""
+msgstr "PÁGINA DE PATREON: https://www.patreon.com/Salty01_NSFW "
 
 # game/script.rpy:1133
 msgid "Data Chelou"
-msgstr ""
+msgstr "Datos Chelou"
 
 # game/script.rpy:1134
 msgid "Chest Melissandre"
@@ -162,7 +162,7 @@ msgstr "Libro viejo"
 
 # game/script.rpy:1139
 msgid "Spoon"
-msgstr ""
+msgstr "Cuchara"
 
 # game/script.rpy:1140
 msgid "Orders for Djin"
@@ -186,61 +186,61 @@ msgstr "Lista de Entrevistas"
 
 # game/script.rpy:1145
 msgid "Tool List"
-msgstr ""
+msgstr "Lista de Herramientas"
 
 # game/script.rpy:1146
 msgid "Incomplete Tool Box"
-msgstr ""
+msgstr "Caja de herramientas incompleta"
 
 # game/script.rpy:1147
 msgid "Complete Tool Box"
-msgstr ""
+msgstr "Caja de herramientas completa"
 
 # game/script.rpy:1148
 msgid "Electronic Key"
-msgstr ""
+msgstr "Clave electrónica"
 
 # game/script.rpy:1149
 msgid "Lyco Request List"
-msgstr ""
+msgstr "Lista de solicitudes de Lyco"
 
 # game/script.rpy:1150
 msgid "Dance Book Vol.I"
-msgstr ""
+msgstr "Libro de Danza Vol.I"
 
 # game/script.rpy:1151
 msgid "Dance Book Vol.II"
-msgstr ""
+msgstr "Libro de Danza Vol.II"
 
 # game/script.rpy:1152
 msgid "Dance Book Vol.III"
-msgstr ""
+msgstr "Libro de Danza Vol.III"
 
 # game/script.rpy:1153
 msgid "Sherazade Orders"
-msgstr ""
+msgstr "Órdenes Sherazade"
 
 # game/script.rpy:1154
 msgid "Oasis Heart Drawn"
-msgstr ""
+msgstr "Corazón del Oasis dibujado"
 
 # game/script.rpy:1155
 msgid "Undefined Luggage"
-msgstr ""
+msgstr "Equipaje indefinido"
 
 # game/script.rpy:1156
 msgid "List of Sex Fantasies"
-msgstr ""
+msgstr "Lista de Fantasías Sexuales"
 
 # game/script.rpy:1157
 msgid "White Peacock feather"
-msgstr ""
+msgstr "Pluma de pavo real blanca"
 
 # game/script.rpy:1158
 msgid "Sherazade Garment"
-msgstr ""
+msgstr "Prenda Sherazade"
 
 # game/script.rpy:1159
 msgid "Little Horn"
-msgstr ""
+msgstr "Pequeño Cuerno"
 
