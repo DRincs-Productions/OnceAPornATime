@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-03-27 11:17\n"
+"PO-Revision-Date: 2024-03-30 09:03\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Room_Showers.rpy:121 #-#-# translate crowdin ML_ShowerCams01_02_ec3b9bb7:
 msgid "[_u_] Meli?"
@@ -370,51 +370,51 @@ msgstr "[_ly_] 而你是这么做的。"
 
 # game/Room_Showers.rpy:356 #-#-# translate crowdin A_GoShower_menu1_cc073231:
 msgid "[_ly_] Anyway, uh... well, if that's the case... "
-msgstr ""
+msgstr "[_ly_] 总之，呃... 嗯，如果真是那样的话... "
 
 # game/Room_Showers.rpy:358 #-#-# translate crowdin A_GoShower_menu1_3c0ffe4c:
 msgid "[_ly_] [name], you tell me:"
-msgstr ""
+msgstr "[_ly_] [name]，你告诉我："
 
 # game/Room_Showers.rpy:361 #-#-# translate crowdin A_GoShower_menu1_a57b2b65:
 msgid "[_ly_] You want to do stuff with me when you see me naked? "
-msgstr ""
+msgstr "[_ly_] 你在看到我的裸体时，你会想和我做那种事吗？ "
 
 # game/Room_Showers.rpy:367 #-#-# translate crowdin A_GoShower_menu1_bf4054b5:
 msgid "[_u_] You're pretty hot."
-msgstr ""
+msgstr "[_u_] 你很性感。"
 
 # game/Room_Showers.rpy:370 #-#-# translate crowdin A_GoShower_menu1_4ed1ccd2:
 msgid "[_ly_] So cool..."
-msgstr ""
+msgstr "[_ly_] 说得真委婉..."
 
 # game/Room_Showers.rpy:372 #-#-# translate crowdin A_GoShower_menu1_8f6a5902:
 msgid "[_ly_] We can do kinky stuff anytime you want, buddy!"
-msgstr ""
+msgstr "[_ly_] 兄弟，我们随时可以做那种性变态的事！"
 
 # game/Room_Showers.rpy:374 #-#-# translate crowdin A_GoShower_menu1_d849f5c7:
 msgid "[_a_] Oh..."
-msgstr ""
+msgstr "[_a_] 哦..."
 
 # game/Room_Showers.rpy:376 #-#-# translate crowdin A_GoShower_menu1_a2fc8a75:
 msgid "[_ly_] And if I hadn't wanted to, I would have just said no. "
-msgstr ""
+msgstr "[_ly_] 而如果我不想那么做，那我就会直接拒绝。 "
 
 # game/Room_Showers.rpy:379 #-#-# translate crowdin A_GoShower_menu1_2a05cb1e:
 msgid "[_ly_] But right now, I wouldn't say no."
-msgstr ""
+msgstr "[_ly_] 不过现在，我不会拒绝。"
 
 # game/Room_Showers.rpy:384 #-#-# translate crowdin A_GoShower_menu1_24cd8f38:
 msgid "[_ly_] Oh..."
-msgstr ""
+msgstr "[_ly_] 哦..."
 
 # game/Room_Showers.rpy:386 #-#-# translate crowdin A_GoShower_menu1_c2a4ec8d:
 msgid "[_ly_] Too bad for you."
-msgstr ""
+msgstr "[_ly_] 对你来说太可惜了。"
 
 # game/Room_Showers.rpy:389 #-#-# translate crowdin A_GoShower_menu1_d9e68ccb:
 msgid "[_ly_] But anyway, if that were the case, well... you just have to enjoy a cool sexy moment under hot water!"
-msgstr ""
+msgstr "[_ly_] 不过话说回来，要是真那样了，嗯... 你会在热水之下享受一段舒爽的性感时光了！"
 
 # game/Room_Showers.rpy:391 #-#-# translate crowdin A_GoShower_menu1_8c665f9e:
 msgid "[_ly_] And if you don't feel like it, that's okay, maybe another time!"
