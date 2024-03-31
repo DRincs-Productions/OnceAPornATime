@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-03-31 00:59\n"
+"PO-Revision-Date: 2024-03-31 02:07\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Scene2jm02.rpy:5 #-#-# translate crowdin Quest_JM_Favor_Feather1_03_f924725a:
 msgid "[_a_] Absolutely perfect."
@@ -890,15 +890,15 @@ msgstr "[_jm_]!?!"
 
 # game/Scene2jm02.rpy:1116 #-#-# translate crowdin Quest_JM_Favor_Feather1_Corrupt2_P12_5032de8f:
 msgid "[_jm_] How dare you touch my armpit? "
-msgstr ""
+msgstr "[_jm_] ¿Cómo te atreves a tocar mi axila? "
 
 # game/Scene2jm02.rpy:1118 #-#-# translate crowdin Quest_JM_Favor_Feather1_Corrupt2_P12_d6b411ce:
 msgid "[_u_] What, you don't like it? "
-msgstr ""
+msgstr "[_u_] ¿Qué, no te gusta? "
 
 # game/Scene2jm02.rpy:1119 #-#-# translate crowdin Quest_JM_Favor_Feather1_Corrupt2_P12_2c769e4c:
 msgid "[_u_] Wait, I'll try again."
-msgstr ""
+msgstr "[_u_] Espere, lo intentaré de nuevo."
 
 # game/Scene2jm02.rpy:1121 #-#-# translate crowdin Quest_JM_Favor_Feather1_Corrupt2_P12_03aade46:
 msgid "[_jm_] Gosh..."
@@ -1014,7 +1014,7 @@ msgstr ""
 
 # game/Scene2jm02.rpy:1248 #-#-# translate crowdin Quest_JM_Favor_Feather1_04_9461a282:
 msgid "[_u_] Oh, no, no..."
-msgstr ""
+msgstr "[_u_] Oh, no, no..."
 
 # game/Scene2jm02.rpy:1254 #-#-# translate crowdin Quest_JM_Favor_Feather1_04_2c0b9bd8:
 msgid "[_u_] Uh..."
@@ -1022,23 +1022,23 @@ msgstr ""
 
 # game/Scene2jm02.rpy:1258 #-#-# translate crowdin Quest_JM_Favor_Feather1_04_bf7d7e40:
 msgid "[_u_] Amadine, we've got a problem."
-msgstr ""
+msgstr "[_u_] Amadine, tenemos un problema."
 
 # game/Scene2jm02.rpy:1266 #-#-# translate crowdin Quest_JM_Favor_Feather1_04_b444cddc:
 msgid "[_a_] Shit... that's a bummer."
-msgstr ""
+msgstr "[_a_] Mierda... eso es un fastidio."
 
 # game/Scene2jm02.rpy:1273 #-#-# translate crowdin Quest_JM_Favor_Feather1_04_5e869fcf:
 msgid "[_tb_] You lost another Jasmine????"
-msgstr ""
+msgstr "[_tb_] ¿Perdiste a otra Jasmine?"
 
 # game/Scene2jm02.rpy:1274 #-#-# translate crowdin Quest_JM_Favor_Feather1_04_128d7fad:
 msgid "[_u_] It's not us, she's been kidnapped! "
-msgstr ""
+msgstr "[_u_] ¡No fuimos nosotros, ella ha sido secuestrada! "
 
 # game/Scene2jm02.rpy:1276 #-#-# translate crowdin Quest_JM_Favor_Feather1_04_7ace1d3a:
 msgid "[_u_] The letter is signed... Alibaba. "
-msgstr ""
+msgstr "[_u_] La carta está firmada... Alibaba. "
 
 # game/Scene2jm02.rpy:1279 #-#-# translate crowdin Quest_JM_Favor_Feather1_04_05d56d8e:
 msgid "[_tb_] ..."
@@ -1046,31 +1046,31 @@ msgstr "[_tb_] ..."
 
 # game/Scene2jm02.rpy:1281 #-#-# translate crowdin Quest_JM_Favor_Feather1_04_098ea6a4:
 msgid "[_tb_] We're not going to create this character again!"
-msgstr ""
+msgstr "[_tb_] ¡No vamos a volver a crear este personaje!"
 
 # game/Scene2jm02.rpy:1283 #-#-# translate crowdin Quest_JM_Favor_Feather1_04_0f375cbf:
 msgid "[_tb_] If this keeps up, in a few months half the population of this city will be Jasmines!"
-msgstr ""
+msgstr "[_tb_] ¡Si esto sigue así, en unos meses la mitad de la población de esta ciudad serán jazmines!"
 
 # game/Scene2jm02.rpy:1286 #-#-# translate crowdin Quest_JM_Favor_Feather1_04_f1ce6d72:
 msgid "[_tb_] You need to find a way to get her back."
-msgstr ""
+msgstr "[_tb_] Necesitas encontrar una manera de recuperarla."
 
 # game/Scene2jm02.rpy:1287 #-#-# translate crowdin Quest_JM_Favor_Feather1_04_950d4bef:
 msgid "[_u_] Roger that, Tinker."
-msgstr ""
+msgstr "[_u_] Entendido, Tinker."
 
 # game/Scene2jm02.rpy:1290 #-#-# translate crowdin Quest_JM_Favor_Feather1_04_d0e42162:
 msgid "[_tb_] Melissandre tells me she's been working on a way to detect androids at a precise distance. "
-msgstr ""
+msgstr "[_tb_] Melisa me dice que ha estado trabajando en una manera de detectar los androides a una distancia precisa. "
 
 # game/Scene2jm02.rpy:1292 #-#-# translate crowdin Quest_JM_Favor_Feather1_04_c42f5794:
 msgid "[_tb_] Go and see if you can help her."
-msgstr ""
+msgstr "[_tb_] Ve a ver si puedes ayudarla."
 
 # game/Scene2jm02.rpy:1293 #-#-# translate crowdin Quest_JM_Favor_Feather1_04_46b6e599:
 msgid "[_u_] Got it."
-msgstr ""
+msgstr "[_u_] Entendido."
 
 # game/Scene2jm02.rpy:1295 #-#-# translate crowdin Quest_JM_Favor_Feather1_04_96ccccbd:
 msgid "[_tb_] And uh... Amandine? The feather was a good idea. "
