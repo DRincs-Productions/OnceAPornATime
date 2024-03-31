@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-03-31 16:28\n"
+"PO-Revision-Date: 2024-03-31 17:32\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Room_Showers.rpy:121 #-#-# translate crowdin ML_ShowerCams01_02_ec3b9bb7:
 msgid "[_u_] Meli?"
@@ -150,35 +150,35 @@ msgstr "[_a_] No puedo simplemente... desnudarme así de fácil... "
 
 # game/Room_Showers.rpy:218 #-#-# translate crowdin A_GoShower_menu1_c0b3f998:
 msgid "[_a_] Can you imagine me? Stripping naked and acting like nothing happened? "
-msgstr ""
+msgstr "[_a_] ¿Puedes imaginarme? ¿Desnudándome y actuar como si nada hubiera pasado? "
 
 # game/Room_Showers.rpy:220 #-#-# translate crowdin A_GoShower_menu1_a2b9c518:
 msgid "[_a_] That's just impossible!"
-msgstr ""
+msgstr "[_a_] ¡Eso es simplemente imposible!"
 
 # game/Room_Showers.rpy:221 #-#-# translate crowdin A_GoShower_menu1_3723b6f2:
 msgid "[_ly_] Hello?"
-msgstr ""
+msgstr "[_ly_] Hola?"
 
 # game/Room_Showers.rpy:223 #-#-# translate crowdin A_GoShower_menu1_96ef4124:
 msgid "[_ly_] Is there anyone here?"
-msgstr ""
+msgstr "[_ly_] ¿Hay alguien aquí?"
 
 # game/Room_Showers.rpy:231 #-#-# translate crowdin A_GoShower_menu1_56f46b70:
 msgid "[_ly_] Hi, you two!"
-msgstr ""
+msgstr "[_ly_] ¡Hola, a ustedes dos!"
 
 # game/Room_Showers.rpy:233 #-#-# translate crowdin A_GoShower_menu1_bbda9952:
 msgid "[_a_] Hi!!"
-msgstr ""
+msgstr "[_u_] Hola!!"
 
 # game/Room_Showers.rpy:236 #-#-# translate crowdin A_GoShower_menu1_1de40c75:
 msgid "[_ly_] What are you doing? "
-msgstr ""
+msgstr "[_jm_] ¿Qué estás haciendo? "
 
 # game/Room_Showers.rpy:238 #-#-# translate crowdin A_GoShower_menu1_0deb8a50:
 msgid "[_u_] We were talking about... uh..."
-msgstr ""
+msgstr "[_u_] Estamos hablando de... eh..."
 
 # game/Room_Showers.rpy:239 #-#-# translate crowdin A_GoShower_menu1_7b1c1392:
 msgid "[_u_] ..."
@@ -186,23 +186,23 @@ msgstr "[_u_] ..."
 
 # game/Room_Showers.rpy:240 #-#-# translate crowdin A_GoShower_menu1_fedf98e5:
 msgid "[_u_] Damn girls... I'm so jealous of your towels."
-msgstr ""
+msgstr "[_u_] Malditas chicas... Estoy tan celoso de tus toallas"
 
 # game/Room_Showers.rpy:242 #-#-# translate crowdin A_GoShower_menu1_97ce97dc:
 msgid "[_a_] I'm sorry, but I don't have any others silk towels. "
-msgstr ""
+msgstr "[_a_] Lo siento, pero no tengo otras toallas de seda. "
 
 # game/Room_Showers.rpy:245 #-#-# translate crowdin A_GoShower_menu1_7fdbab78:
 msgid "[_ly_] You were talking about towels? "
-msgstr ""
+msgstr "[_ly_] ¿Estabas hablando de toallas? "
 
 # game/Room_Showers.rpy:249 #-#-# translate crowdin A_GoShower_menu1_3a025327:
 msgid "[_ly_] Don't you want to talk about something else?"
-msgstr ""
+msgstr "[_ly_] ¿No quiere hablar de otra cosa?"
 
 # game/Room_Showers.rpy:258 #-#-# translate crowdin A_GoShower_menu1_c26cab6a:
 msgid "[_ly_] I don't know, like... "
-msgstr ""
+msgstr "[_ly_] No sé, como... "
 
 # game/Room_Showers.rpy:262 #-#-# translate crowdin A_GoShower_menu1_c52eb593:
 msgid "[_ly_] ...I think everything is more interesting than talking about towels. "
