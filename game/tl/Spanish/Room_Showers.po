@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-03-31 19:51\n"
+"PO-Revision-Date: 2024-03-31 21:14\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Room_Showers.rpy:121 #-#-# translate crowdin ML_ShowerCams01_02_ec3b9bb7:
 msgid "[_u_] Meli?"
@@ -246,19 +246,19 @@ msgstr "[_ly_] Quiero decir... Estamos en un cuarto de ducha... no me voy a lava
 
 # game/Room_Showers.rpy:285 #-#-# translate crowdin A_GoShower_menu1_74417676:
 msgid "[_a_] No, I mean in terms of modesty."
-msgstr ""
+msgstr "[_a_] No, me refiero en términos de modestia."
 
 # game/Room_Showers.rpy:287 #-#-# translate crowdin A_GoShower_menu1_c68b165f:
 msgid "[_ly_] No, I just... "
-msgstr ""
+msgstr "[_ly_] No, yo solo... "
 
 # game/Room_Showers.rpy:290 #-#-# translate crowdin A_GoShower_menu1_4cbca01b:
 msgid "[_ly_] You're all so sweet... I don't see why I should be shy in front of you! "
-msgstr ""
+msgstr "[_ly_] Todos son tan dulces... ¡No veo porque debería ser tímida frente ustedes! "
 
 # game/Room_Showers.rpy:293 #-#-# translate crowdin A_GoShower_menu1_a34176f9:
 msgid "[_a_] It's uh... well, when you put it that way..."
-msgstr ""
+msgstr "[_a_] Es uh... Bueno, cuando lo pones de esa manera..."
 
 # game/Room_Showers.rpy:295 #-#-# translate crowdin A_GoShower_menu1_eba23b99:
 msgid "[_ly_] What are you afraid of? "
