@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-03-31 17:32\n"
+"PO-Revision-Date: 2024-03-31 18:39\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Room_Showers.rpy:121 #-#-# translate crowdin ML_ShowerCams01_02_ec3b9bb7:
 msgid "[_u_] Meli?"
@@ -202,19 +202,19 @@ msgstr "[_ly_] ¿No quiere hablar de otra cosa?"
 
 # game/Room_Showers.rpy:258 #-#-# translate crowdin A_GoShower_menu1_c26cab6a:
 msgid "[_ly_] I don't know, like... "
-msgstr "[_ly_] No sé, como... "
+msgstr "[_ly_] Como, no sé... "
 
 # game/Room_Showers.rpy:262 #-#-# translate crowdin A_GoShower_menu1_c52eb593:
 msgid "[_ly_] ...I think everything is more interesting than talking about towels. "
-msgstr ""
+msgstr "...Creo que todo es más interesante que hablar de toallas."
 
 # game/Room_Showers.rpy:264 #-#-# translate crowdin A_GoShower_menu1_44e52acc:
 msgid "[_ly_] Like... the weather outside... "
-msgstr ""
+msgstr "[_ly_] Como... el clima afuera... "
 
 # game/Room_Showers.rpy:266 #-#-# translate crowdin A_GoShower_menu1_92c477a5:
 msgid "[_ly_] Oh! Do you also have a kind of little green parrot that follows you everywhere?! "
-msgstr ""
+msgstr "[_ly_] ¡Oh! ¿También tienes una especie de lorito verde que te sigue a todas partes?! "
 
 # game/Room_Showers.rpy:269 #-#-# translate crowdin A_GoShower_menu1_bb8e4b4e_1:
 msgid "[_a_] ..."
@@ -226,19 +226,19 @@ msgstr ""
 
 # game/Room_Showers.rpy:273 #-#-# translate crowdin A_GoShower_menu1_77d23d5c:
 msgid "[_ly_] Did I say something wrong? "
-msgstr ""
+msgstr "[_ly_] ¿He dicho algo malo? "
 
 # game/Room_Showers.rpy:276 #-#-# translate crowdin A_GoShower_menu1_d42b9697:
 msgid "[_a_] How can you be so confident standing naked?!"
-msgstr ""
+msgstr "[_a_] ¿Cómo puedes estar tan confiada estando de pie desnuda?!"
 
 # game/Room_Showers.rpy:278 #-#-# translate crowdin A_GoShower_menu1_15a865b6:
 msgid "[_ly_] Well... I don't know... "
-msgstr ""
+msgstr "[_val_] Bueno... no lo sé... "
 
 # game/Room_Showers.rpy:280 #-#-# translate crowdin A_GoShower_menu1_31a94636:
 msgid "[_ly_] Shouldn't I? "
-msgstr ""
+msgstr "[_ly_] ¿No debería? "
 
 # game/Room_Showers.rpy:282 #-#-# translate crowdin A_GoShower_menu1_4a5d1120:
 msgid "[_ly_] I mean... We're in a shower room... I'm not going to wash with my clothes on..."
