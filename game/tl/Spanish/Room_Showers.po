@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-03-31 07:10\n"
+"PO-Revision-Date: 2024-03-31 16:28\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Room_Showers.rpy:121 #-#-# translate crowdin ML_ShowerCams01_02_ec3b9bb7:
 msgid "[_u_] Meli?"
@@ -142,11 +142,11 @@ msgstr "[_u_] Ni idea. Estás en la ducha, es normal estar desnuda."
 
 # game/Room_Showers.rpy:214 #-#-# translate crowdin A_GoShower_menu1_15ed6840:
 msgid "[_a_] God... I'll never get rid of this damn modesty. "
-msgstr ""
+msgstr "[_a_] Dios... Nunca me libraré de esta maldita modestia. "
 
 # game/Room_Showers.rpy:216 #-#-# translate crowdin A_GoShower_menu1_a833a0c7:
 msgid "[_a_] I can't just... like... get naked that easy... "
-msgstr ""
+msgstr "[_a_] No puedo simplemente... desnudarme así de fácil... "
 
 # game/Room_Showers.rpy:218 #-#-# translate crowdin A_GoShower_menu1_c0b3f998:
 msgid "[_a_] Can you imagine me? Stripping naked and acting like nothing happened? "
