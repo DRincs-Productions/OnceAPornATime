@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-03-31 06:10\n"
+"PO-Revision-Date: 2024-03-31 07:10\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Room_Showers.rpy:121 #-#-# translate crowdin ML_ShowerCams01_02_ec3b9bb7:
 msgid "[_u_] Meli?"
@@ -62,63 +62,63 @@ msgstr "[_u_] Solo pensé que te podría gustar tener algo de compañía. "
 
 # game/Room_Showers.rpy:160 #-#-# translate crowdin A_GoShower_1a37392a:
 msgid "[_a_] How kind of you."
-msgstr ""
+msgstr "[_a_] Qué amable de tu parte."
 
 # game/Room_Showers.rpy:167 #-#-# translate crowdin A_GoShower_menu1_b6de8553:
 msgid "[_a_] Yep! I figured this was the best way to start my personal self-corruption phase."
-msgstr ""
+msgstr "[_a_] ¡Si! Pensé que esta era la mejor manera de comenzar mi fase de autocorrupción personal"
 
 # game/Room_Showers.rpy:169 #-#-# translate crowdin A_GoShower_menu1_f6957375:
 msgid "[_a_] God... I really am a princess to be corrupted. "
-msgstr ""
+msgstr "[_a_] Dios... Realmente soy una princesa a la que hay que corrompe. "
 
 # game/Room_Showers.rpy:171 #-#-# translate crowdin A_GoShower_menu1_d94295c6:
 msgid "[_a_] How ironic. "
-msgstr ""
+msgstr "[_a_] Qué irónico. "
 
 # game/Room_Showers.rpy:176 #-#-# translate crowdin A_GoShower_menu1_2fa13f80:
 msgid "[_a_] No, not yet."
-msgstr ""
+msgstr "[_a_] No, aún no."
 
 # game/Room_Showers.rpy:178 #-#-# translate crowdin A_GoShower_menu1_fc82be4d:
 msgid "[_a_] Well, yes... I ran into Amelia's big tits on the way here. "
-msgstr ""
+msgstr "[_a_] Bueno, sí... Me topé con las grandes tetas de Amelia en el camino hacia aquí. "
 
 # game/Room_Showers.rpy:180 #-#-# translate crowdin A_GoShower_menu1_4be91d13:
 msgid "[_a_] But she was going out... so I showered alone."
-msgstr ""
+msgstr "[_a_] Pero ella estaba saliendo... así que me duche sola."
 
 # game/Room_Showers.rpy:181 #-#-# translate crowdin A_GoShower_menu1_0180c08b:
 msgid "[_u_] You should have called me, I would have gladly accompanied you. "
-msgstr ""
+msgstr "[_u_] Debiste haberme llamado, con gusto te hubiera acompañado."
 
 # game/Room_Showers.rpy:183 #-#-# translate crowdin A_GoShower_menu1_1c5b1942:
 msgid "[_a_] I prefer to leave it to chance and wait to see if anyone comes here at the same time as me."
-msgstr ""
+msgstr "[_a_] Prefiero dejarlo al azar y esperar a ver si alguien viene aquí al mismo tiempo que yo."
 
 # game/Room_Showers.rpy:185 #-#-# translate crowdin A_GoShower_menu1_33ae40b2:
 msgid "[_a_] It adds a little spice to the experience. "
-msgstr ""
+msgstr "[_a_] Agrega un poco de sabor a la experiencia. "
 
 # game/Room_Showers.rpy:186 #-#-# translate crowdin A_GoShower_menu1_e61f257b:
 msgid "[_u_] I confirm... You may have exibitionist tendencies. "
-msgstr ""
+msgstr "[_u_] Lo confirmo... Puede que tengas tendencias exhibicionistas. "
 
 # game/Room_Showers.rpy:188 #-#-# translate crowdin A_GoShower_menu1_b1fac8ad:
 msgid "[_a_] Oh? You might be right!"
-msgstr ""
+msgstr "[_a_] ¿Oh? ¡Puede que tengas razón!"
 
 # game/Room_Showers.rpy:191 #-#-# translate crowdin A_GoShower_menu1_8a5d69d6:
 msgid "[_a_] An exibitionist who doesn't dare show herself."
-msgstr ""
+msgstr "[_a_] Un exibitionista que no se atreve a mostrarse."
 
 # game/Room_Showers.rpy:193 #-#-# translate crowdin A_GoShower_menu1_e1695301:
 msgid "[_a_] Yet another irony to add to my list. "
-msgstr ""
+msgstr "[_a_] Otra ironía que añadir a mi lista. "
 
 # game/Room_Showers.rpy:201 #-#-# translate crowdin A_GoShower_menu1_7c18f4d4:
 msgid "[_a_] No worries, see you later [name]!"
-msgstr ""
+msgstr "[_a_] No te preocupes, ¡hasta luego [nombre]!"
 
 # game/Room_Showers.rpy:205 #-#-# translate crowdin A_GoShower_menu1_002186e8:
 msgid "[_a_] ?!"
@@ -126,7 +126,7 @@ msgstr ""
 
 # game/Room_Showers.rpy:207 #-#-# translate crowdin A_GoShower_menu1_94e7b0a6:
 msgid "[_a_] Sorry about that!"
-msgstr ""
+msgstr "[_a_] ¡Lo siento!"
 
 # game/Room_Showers.rpy:209 #-#-# translate crowdin A_GoShower_menu1_bb8e4b4e:
 msgid "[_a_] ..."
@@ -134,11 +134,11 @@ msgstr ""
 
 # game/Room_Showers.rpy:211 #-#-# translate crowdin A_GoShower_menu1_f605f3b8:
 msgid "[_a_] What am I apologizing for?"
-msgstr ""
+msgstr "[_a_] ¿Para qué me disculpo?"
 
 # game/Room_Showers.rpy:212 #-#-# translate crowdin A_GoShower_menu1_b5b56be9:
 msgid "[_u_] No idea. You're in a shower, it's kinda normal to be naked."
-msgstr ""
+msgstr "[_u_] Ni idea. Estás en la ducha, es normal estar desnuda."
 
 # game/Room_Showers.rpy:214 #-#-# translate crowdin A_GoShower_menu1_15ed6840:
 msgid "[_a_] God... I'll never get rid of this damn modesty. "
