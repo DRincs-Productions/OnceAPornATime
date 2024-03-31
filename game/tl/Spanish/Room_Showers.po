@@ -10,55 +10,55 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-03-06 09:06\n"
+"PO-Revision-Date: 2024-03-31 06:10\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Room_Showers.rpy:121 #-#-# translate crowdin ML_ShowerCams01_02_ec3b9bb7:
 msgid "[_u_] Meli?"
-msgstr ""
+msgstr "[_u_] ¿Meli?"
 
 # game/Room_Showers.rpy:122 #-#-# translate crowdin ML_ShowerCams01_02_4abce515:
 msgid "[_ml_] ---"
-msgstr ""
+msgstr "[_ml_] ---"
 
 # game/Room_Showers.rpy:134 #-#-# translate crowdin A_GoShower_6fe1abdc:
 msgid "[_u_] Hey? Anybody here?"
-msgstr ""
+msgstr "[_u_] ¿Hay? ¿Alguien aquí?"
 
 # game/Room_Showers.rpy:136 #-#-# translate crowdin A_GoShower_0e192d24:
 msgid "[_a_] [name]?!!?"
-msgstr ""
+msgstr "[_a_] [nombre]?!!?"
 
 # game/Room_Showers.rpy:137 #-#-# translate crowdin A_GoShower_0f172136:
 msgid "[_a_] Just a second!!!"
-msgstr ""
+msgstr "[_a_] ¡¡¡¡¡Un momento!!!"
 
 # game/Room_Showers.rpy:149 #-#-# translate crowdin A_GoShower_97ecd1a2:
 msgid "[_a_] ?!!"
-msgstr ""
+msgstr "[_a_]?!!"
 
 # game/Room_Showers.rpy:151 #-#-# translate crowdin A_GoShower_98997faf:
 msgid "[_u_] Hey, there!"
-msgstr ""
+msgstr "[_u_] ¡Hola!"
 
 # game/Room_Showers.rpy:153 #-#-# translate crowdin A_GoShower_2754a868:
 msgid "[_a_] What are you doing here? "
-msgstr ""
+msgstr "[_a_] ¿Qué estás haciendo aquí? "
 
 # game/Room_Showers.rpy:154 #-#-# translate crowdin A_GoShower_70c0677a:
 msgid "[_u_] Well, I saw you weren't in your office, so... "
-msgstr ""
+msgstr "[_u_] Bueno, vi que no estabas en tu oficina, así que... "
 
 # game/Room_Showers.rpy:156 #-#-# translate crowdin A_GoShower_5cb92a4f:
 msgid "[_a_] So you thought you'd come and spy on me in the shower, did you? "
-msgstr ""
+msgstr "[_a_] Entonces pensaste que podrías venir a espiarme en la ducha, ¿verdad?"
 
 # game/Room_Showers.rpy:157 #-#-# translate crowdin A_GoShower_5c1cab48:
 msgid "[_u_] Noooo... "
-msgstr ""
+msgstr "[_u_] Noooo... "
 
 # game/Room_Showers.rpy:158 #-#-# translate crowdin A_GoShower_cb67529b:
 msgid "[_u_] I just thought you might like some company. "
-msgstr ""
+msgstr "[_u_] Solo pensé que te podría gustar tener algo de compañía. "
 
 # game/Room_Showers.rpy:160 #-#-# translate crowdin A_GoShower_1a37392a:
 msgid "[_a_] How kind of you."
