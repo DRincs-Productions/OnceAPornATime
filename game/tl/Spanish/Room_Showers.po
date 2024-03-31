@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-03-31 21:14\n"
+"PO-Revision-Date: 2024-03-31 22:41\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Room_Showers.rpy:121 #-#-# translate crowdin ML_ShowerCams01_02_ec3b9bb7:
 msgid "[_u_] Meli?"
@@ -262,11 +262,11 @@ msgstr "[_a_] Es uh... Bueno, cuando lo pones de esa manera..."
 
 # game/Room_Showers.rpy:295 #-#-# translate crowdin A_GoShower_menu1_eba23b99:
 msgid "[_ly_] What are you afraid of? "
-msgstr ""
+msgstr "[_jm_] ¿A qué le tienes miedo? "
 
 # game/Room_Showers.rpy:297 #-#-# translate crowdin A_GoShower_menu1_9a8f6dac:
 msgid "[_a_] Well uh... I don't know... you could judge me or something. "
-msgstr ""
+msgstr "[_a_] Bueno eh... yo no lo sé... Tú podrías juzgarme o algo así. "
 
 # game/Room_Showers.rpy:299 #-#-# translate crowdin A_GoShower_menu1_7b649b32_1:
 msgid "[_ly_] What?"
@@ -274,39 +274,39 @@ msgstr ""
 
 # game/Room_Showers.rpy:301 #-#-# translate crowdin A_GoShower_menu1_45e401a3:
 msgid "[_ly_] Why should we judge you? Have you done something wrong? "
-msgstr ""
+msgstr "[_ly_] ¿Por qué deberíamos juzgarte? ¿Has hecho algo malo? "
 
 # game/Room_Showers.rpy:303 #-#-# translate crowdin A_GoShower_menu1_5285e5ed:
 msgid "[_a_] No, I mean I... "
-msgstr ""
+msgstr "[_a_] No, quiero decir que yo... "
 
 # game/Room_Showers.rpy:305 #-#-# translate crowdin A_GoShower_menu1_f6af1ea0:
 msgid "[_ly_] Sorry, just teasing."
-msgstr ""
+msgstr "[_ly_] Lo siento, solo estoy bromeando."
 
 # game/Room_Showers.rpy:307 #-#-# translate crowdin A_GoShower_menu1_2b155bf4:
 msgid "[_ly_] Okay... I'll show you something..."
-msgstr ""
+msgstr "[_ly_] Bueno... Te voy a mostrar algo..."
 
 # game/Room_Showers.rpy:309 #-#-# translate crowdin A_GoShower_menu1_6be05a8e:
 msgid "[_ly_] Look at my body and judge me. "
-msgstr ""
+msgstr "[_ly_] Mira mi cuerpo y juzgarme. "
 
 # game/Room_Showers.rpy:311 #-#-# translate crowdin A_GoShower_menu1_5257d5af:
 msgid "[_a_] I uh... are you sure? "
-msgstr ""
+msgstr "[_a_] Yo eh... ¿Está segura? "
 
 # game/Room_Showers.rpy:314 #-#-# translate crowdin A_GoShower_menu1_3c040a70:
 msgid "[_ly_] Yes, go ahead, gorgeous! Look at me all you want!"
-msgstr ""
+msgstr "[_ly_] Sí, ¡adelante, preciosa! ¡Mírame todo lo que quieras!"
 
 # game/Room_Showers.rpy:317 #-#-# translate crowdin A_GoShower_menu1_53a325c7:
 msgid "[_a_] I uh..."
-msgstr ""
+msgstr "[_a_] I uh..."
 
 # game/Room_Showers.rpy:319 #-#-# translate crowdin A_GoShower_menu1_a0c49ecb:
 msgid "[_a_] You..."
-msgstr ""
+msgstr "[_a_] Usted..."
 
 # game/Room_Showers.rpy:321 #-#-# translate crowdin A_GoShower_menu1_ebba771b:
 msgid "[_ly_] Yes?"
@@ -314,19 +314,19 @@ msgstr ""
 
 # game/Room_Showers.rpy:323 #-#-# translate crowdin A_GoShower_menu1_6c8c9632:
 msgid "[_a_] Well... I must admit you're quite beautiful..."
-msgstr ""
+msgstr "[_a_] Vaya... Debo admitir que eres bastante hermosa..."
 
 # game/Room_Showers.rpy:327 #-#-# translate crowdin A_GoShower_menu1_3af8abdb:
 msgid "[_ly_] Thank you very much! That's very nice of you!"
-msgstr ""
+msgstr "[_ly_] ¡Muchas gracias! ¡Eso es muy generoso de tu parte!"
 
 # game/Room_Showers.rpy:329 #-#-# translate crowdin A_GoShower_menu1_1afbcd51:
 msgid "[_ly_] See? The truth is, who cares if you're watched?"
-msgstr ""
+msgstr "[_ly_] ¿Ver? La verdad es que, ¿a quién le importa si eres vigilado?"
 
 # game/Room_Showers.rpy:332 #-#-# translate crowdin A_GoShower_menu1_e58fd129:
 msgid "[_ly_] Frankly, I don't give a damn! If it pleases your eyes, look at me all you want!"
-msgstr ""
+msgstr "[_ly_] Francamente, ¡me importa un comino! Si te gusta, ¡mírame todo lo que quieras!"
 
 # game/Room_Showers.rpy:333 #-#-# translate crowdin A_GoShower_menu1_bb8e4b4e_2:
 msgid "[_a_] ..."
@@ -334,63 +334,63 @@ msgstr ""
 
 # game/Room_Showers.rpy:335 #-#-# translate crowdin A_GoShower_menu1_170b0f6c:
 msgid "[_a_] It's true that... it doesn't look so bad..."
-msgstr ""
+msgstr "[_a_] Es cierto que... no se ve tan mal..."
 
 # game/Room_Showers.rpy:338 #-#-# translate crowdin A_GoShower_menu1_1bfc9955:
 msgid "[_a_] But aren't you afraid that... "
-msgstr ""
+msgstr "[_a_] Pero no tiene miedo de qué... "
 
 # game/Room_Showers.rpy:340 #-#-# translate crowdin A_GoShower_menu1_87aca8eb:
 msgid "[_a_] How do you say... That someone wants to do things with you if they see you naked? "
-msgstr ""
+msgstr "[_a_] ¿Cómo dices... que alguien quiere hacer cosas contigo si te ven desnuda? "
 
 # game/Room_Showers.rpy:342 #-#-# translate crowdin A_GoShower_menu1_a6be6f20:
 msgid "[_ly_] Why? You want to do things to me?... "
-msgstr ""
+msgstr "[_ly_] ¿Por qué? ¿Quieres hacerme cosas?... "
 
 # game/Room_Showers.rpy:344 #-#-# translate crowdin A_GoShower_menu1_d8297f72:
 msgid "[_a_] No! I..."
-msgstr ""
+msgstr "¡[_a_] No! Yo..."
 
 # game/Room_Showers.rpy:346 #-#-# translate crowdin A_GoShower_menu1_60ed7c30:
 msgid "[_ly_] If you want to grab my boobs, just do it!"
-msgstr ""
+msgstr "[_ly_] Si quieres agarrar mis tetas, simplemente hazlo!"
 
 # game/Room_Showers.rpy:348 #-#-# translate crowdin A_GoShower_menu1_f05eb6e4:
 msgid "[_a_] No, no, no, I didn't mean that!"
-msgstr ""
+msgstr "[_a_] No, no, no, ¡no quise decir eso!"
 
 # game/Room_Showers.rpy:350 #-#-# translate crowdin A_GoShower_menu1_5dfbfe97:
 msgid "[_ly_] Yes, I know... I just wanted to suggest that you do it. "
-msgstr ""
+msgstr "[_ly_] Sí, lo sé... solo quería sugerirte que lo hagas. "
 
 # game/Room_Showers.rpy:353 #-#-# translate crowdin A_GoShower_menu1_568b15f7:
 msgid "[_ly_] And that you do."
-msgstr ""
+msgstr "[_ly_] Y eso tú lo haces."
 
 # game/Room_Showers.rpy:356 #-#-# translate crowdin A_GoShower_menu1_cc073231:
 msgid "[_ly_] Anyway, uh... well, if that's the case... "
-msgstr ""
+msgstr "[_ly_] De todos modos, eh... bueno, si ese es el caso... "
 
 # game/Room_Showers.rpy:358 #-#-# translate crowdin A_GoShower_menu1_3c0ffe4c:
 msgid "[_ly_] [name], you tell me:"
-msgstr ""
+msgstr "[_ly_] [nombre], me dices:"
 
 # game/Room_Showers.rpy:361 #-#-# translate crowdin A_GoShower_menu1_a57b2b65:
 msgid "[_ly_] You want to do stuff with me when you see me naked? "
-msgstr ""
+msgstr "[_ly_] ¿Quieres hacer cosas conmigo cuando me ves desnuda? "
 
 # game/Room_Showers.rpy:367 #-#-# translate crowdin A_GoShower_menu1_bf4054b5:
 msgid "[_u_] You're pretty hot."
-msgstr ""
+msgstr "[_u_] Estás bastante sexy."
 
 # game/Room_Showers.rpy:370 #-#-# translate crowdin A_GoShower_menu1_4ed1ccd2:
 msgid "[_ly_] So cool..."
-msgstr ""
+msgstr "[_ly_] Muy genial..."
 
 # game/Room_Showers.rpy:372 #-#-# translate crowdin A_GoShower_menu1_8f6a5902:
 msgid "[_ly_] We can do kinky stuff anytime you want, buddy!"
-msgstr ""
+msgstr "[_ly_] ¡Podemos hacer cosas pervertidas cuando quieras, amigo!"
 
 # game/Room_Showers.rpy:374 #-#-# translate crowdin A_GoShower_menu1_d849f5c7:
 msgid "[_a_] Oh..."
@@ -398,11 +398,11 @@ msgstr ""
 
 # game/Room_Showers.rpy:376 #-#-# translate crowdin A_GoShower_menu1_a2fc8a75:
 msgid "[_ly_] And if I hadn't wanted to, I would have just said no. "
-msgstr ""
+msgstr "[_ly_] Y si no hubiera querido hacerlo, simplemente te habría dicho que no. "
 
 # game/Room_Showers.rpy:379 #-#-# translate crowdin A_GoShower_menu1_2a05cb1e:
 msgid "[_ly_] But right now, I wouldn't say no."
-msgstr ""
+msgstr "[_ly_] Pero ahora mismo, no diría que no."
 
 # game/Room_Showers.rpy:384 #-#-# translate crowdin A_GoShower_menu1_24cd8f38:
 msgid "[_ly_] Oh..."
@@ -410,11 +410,11 @@ msgstr ""
 
 # game/Room_Showers.rpy:386 #-#-# translate crowdin A_GoShower_menu1_c2a4ec8d:
 msgid "[_ly_] Too bad for you."
-msgstr ""
+msgstr "[_ly_] Demasiado para ti."
 
 # game/Room_Showers.rpy:389 #-#-# translate crowdin A_GoShower_menu1_d9e68ccb:
 msgid "[_ly_] But anyway, if that were the case, well... you just have to enjoy a cool sexy moment under hot water!"
-msgstr ""
+msgstr "[_ly_] ¡Pero de todos modos, si ese fuera el caso, bueno... solo tienes que disfrutar de un momento fresco y sexy bajo el agua caliente!"
 
 # game/Room_Showers.rpy:391 #-#-# translate crowdin A_GoShower_menu1_8c665f9e:
 msgid "[_ly_] And if you don't feel like it, that's okay, maybe another time!"
