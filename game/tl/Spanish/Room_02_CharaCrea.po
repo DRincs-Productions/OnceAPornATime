@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-04-01 20:54\n"
+"PO-Revision-Date: 2024-04-01 22:15\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Room_02_CharaCrea.rpy:10 #-#-# translate crowdin Room_02_CharaCrea_3d26d832:
 msgid "[_u_] No need to create anything yet. "
@@ -510,7 +510,7 @@ msgstr " = ESTA ROPA ESTARÁ DISPONIBLE EN [CLOTHE_CREA_PROCEDED_DAYLEFT] DAYS =
 
 # game/Room_02_CharaCrea.rpy:807 #-#-# translate crowdin Room_02_CharaCreamenu_CLOTHESMENU_39e3e693:
 msgid "You must have these elements to create this object: {color=#f2923c} ([CHARADATA]/2) Character Datas {/color}, {color=#3c96f2}([CLOTHEDATA]/2) Clothes Data {/color} and {color=#a0fc86} ([ITEM_CLOTHESSCRAPS01]/4) Clothes Scraps {color=#a0fc86}"
-msgstr ""
+msgstr "Debes tener estos elementos para crear este objeto: {color=#f2923c} ([CHARADATA]/2) Datos del personaje {/color}, {color=#3c96f2}([CLOTHEDATA]/2) Datos de ropa {/color} y {color=#a0fc86} ([ITEM_CLOTHESSCRAPS01]/4) Restos de ropa {color=#a0fc86}"
 
 # game/Room_02_CharaCrea.rpy:810 #-#-# translate crowdin Room_02_CharaCreamenu_CLOTHESMENU_39dd9eaf_19:
 msgid " You don't have the elements to create this object ( You can find them in the store or with the drone expeditions )"
@@ -610,7 +610,7 @@ msgstr " = ESTA ROPA ESTARÁ DISPONIBLE EN [CLOTHE_CREA_PROCEDED_DAYLEFT] DAYS =
 
 # game/Room_02_CharaCrea.rpy:989 #-#-# translate crowdin Room_02_CharaCreamenu_HAIRSMENU_72e5e5bb:
 msgid "You must have these elements to create this object: {color=#3c96f2}([CLOTHEDATA]/3) Clothes Data {/color} and {color=#a0fc86} ([ITEM_CLOTHESSCRAPS01]/3) Clothes Scraps {color=#a0fc86}"
-msgstr ""
+msgstr "Debes tener estos elementos para crear este objeto: {color=#3c96f2}([CLOTHEDATA]/3) Ropa de datos {/color} y {color=#a0fc86} ([ITEM_CLOTHESSCRAPS01]/3) Restos de Ropa {color=#a0fc86}"
 
 # game/Room_02_CharaCrea.rpy:991 #-#-# translate crowdin Room_02_CharaCreamenu_HAIRSMENU_39dd9eaf_1:
 msgid " You don't have the elements to create this object ( You can find them in the store or with the drone expeditions )"
@@ -630,7 +630,7 @@ msgstr " = ESTA ROPA ESTARÁ DISPONIBLE EN [CLOTHE_CREA_PROCEDED_DAYLEFT] DAYS =
 
 # game/Room_02_CharaCrea.rpy:1022 #-#-# translate crowdin Room_02_CharaCreamenu_HAIRSMENU_72e5e5bb_1:
 msgid "You must have these elements to create this object: {color=#3c96f2}([CLOTHEDATA]/3) Clothes Data {/color} and {color=#a0fc86} ([ITEM_CLOTHESSCRAPS01]/3) Clothes Scraps {color=#a0fc86}"
-msgstr ""
+msgstr "Debes tener estos elementos para crear este objeto: {color=#3c96f2}([CLOTHEDATA]/3) Ropa de datos {/color} y {color=#a0fc86} ([ITEM_CLOTHESSCRAPS01]/3) Restos de Ropa {color=#a0fc86}"
 
 # game/Room_02_CharaCrea.rpy:1024 #-#-# translate crowdin Room_02_CharaCreamenu_HAIRSMENU_39dd9eaf_2:
 msgid " You don't have the elements to create this object ( You can find them in the store or with the drone expeditions )"
@@ -650,103 +650,103 @@ msgstr " = ESTA ROPA ESTARÁ DISPONIBLE EN [CLOTHE_CREA_PROCEDED_DAYLEFT] DAYS =
 
 # §translate crowdin strings: #|#|# # game/Room_02_CharaCrea.rpy:24
 msgid "{color=#a0fc86}You have : {/color}{color=#3c96f2}[CLOTHEDATA] Clothes Data {color=#a0fc86}/{/color} {color=#f2923c}[CHARADATA] Character Datas {/color}"
-msgstr ""
+msgstr "{color=#a0fc86}Tienes : {/color}{color=#3c96f2}[CLOTHEDATA] Datos de ropa {color=#a0fc86}/{/color} {color=#f2923c}[CHARADATA] Datos de personaje {/color}"
 
 # game/Room_02_CharaCrea.rpy:24
 msgid "${color=#636363}= Character creation = (LOCK){/color} "
-msgstr ""
+msgstr "${color=#636363}= Creación de personaje = (LOCK){/color} "
 
 # game/Room_02_CharaCrea.rpy:24
 msgid "${color=#ffaf51}={/color} Character creation {color=#ffaf51}={/color} "
-msgstr ""
+msgstr "${color=#ffaf51}={/color} Creación de personaje {color=#ffaf51}={/color} "
 
 # game/Room_02_CharaCrea.rpy:24
 msgid "${color=#636363}= Clothes creation = (LOCK){/color} "
-msgstr ""
+msgstr "${color=#636363}= Creación de ropa = (LOCK){/color} "
 
 # game/Room_02_CharaCrea.rpy:24
 msgid "${color=#51b3ff}={/color} Clothes creation {color=#51b3ff}={/color} "
-msgstr ""
+msgstr "${color=#51b3ff} = {/color} Creación de ropa {color=#51b3ff} = {/color} "
 
 # game/Room_02_CharaCrea.rpy:24
 msgid "${color=#636363}= Hairstyle creation = (LOCK){/color} "
-msgstr ""
+msgstr "${color=#636363}= Creación de peinado = (LOCK){/color} "
 
 # game/Room_02_CharaCrea.rpy:24
 msgid "${color=#51b3ff}={/color} Hairstyle creation {color=#51b3ff}={/color} "
-msgstr ""
+msgstr "${color=#51b3ff}={/color} Creación de peinado {color=#51b3ff}={/color} "
 
 # game/Room_02_CharaCrea.rpy:24
 msgid "$=Back to the office= "
-msgstr ""
+msgstr "$=Volver a la oficina = "
 
 # game/Room_02_CharaCrea.rpy:48
 msgid "{color=#a0fc86}You have : {/color}{color=#f2923c}[CHARADATA] Character Data {/color}"
-msgstr ""
+msgstr "{color=#a0fc86}Tienes : {/color}{color=#f2923c}[CHARADATA] Datos del personaje {/color}"
 
 # game/Room_02_CharaCrea.rpy:48
 msgid " ~~{color=#f2923c} {font=BLKCHCRY.ttf}Anna{/font=BLKCHCRY.ttf} {/color}~~ "
-msgstr ""
+msgstr " ~ ~ {color=#f2923c} {font=BLKCHCRY.tttf} Anna {/font=BLKCHCRY.tttf} {/color} ~ ~ "
 
 # game/Room_02_CharaCrea.rpy:48
 msgid " ~~{color=#f2923c} {font=BLKCHCRY.ttf}Rapunzel{/font=BLKCHCRY.ttf} {/color}~~ "
-msgstr ""
+msgstr " ~ ~ {color=#f2923c} {font=BLKCHCRY.tttf} Rapunzel {/font=BLKCHCRY.ttf} {/color} ~ ~ "
 
 # game/Room_02_CharaCrea.rpy:48
 msgid " ~~{color=#f2923c} {font=BLKCHCRY.ttf}Elsa{/font=BLKCHCRY.ttf} {/color}~~ "
-msgstr ""
+msgstr " ~ ~ {color=#f2923c} {font=BLKCHCRY.tttf} Elsa {/font=BLKCHCRY.tttf} {/color} ~ ~ "
 
 # game/Room_02_CharaCrea.rpy:48
 msgid " ~~{color=#f2923c} {font=BLKCHCRY.ttf}Jasmine{/font=BLKCHCRY.ttf} {/color}~~ "
-msgstr ""
+msgstr " ~ ~ {color=#f2923c} {font=BLKCHCRY.tttf} Jasmine {/font=BLKCHCRY.tttf} {/color} ~ ~ "
 
 # game/Room_02_CharaCrea.rpy:48
 msgid "$Back "
-msgstr ""
+msgstr "$Volver"
 
 # game/Room_02_CharaCrea.rpy:57
 msgid "{color=#f2923c}([CHARADATA]/2) Character Data {/color}"
-msgstr ""
+msgstr "{color=#f2923c}([CHARADATA]/2) Datos de personaje {/color}"
 
 # game/Room_02_CharaCrea.rpy:57
 msgid "=PROCEED="
-msgstr ""
+msgstr "=CONTINUAR="
 
 # game/Room_02_CharaCrea.rpy:57
 msgid "=NOT NOW="
-msgstr ""
+msgstr "=AHORA NO="
 
 # game/Room_02_CharaCrea.rpy:118
 msgid "{color=#f2923c}([CHARADATA]/3) Character Data {/color}"
-msgstr ""
+msgstr "{color=#f2923c}([CHARADATA]/3) Datos de personaje {/color}"
 
 # game/Room_02_CharaCrea.rpy:177
 msgid "{color=#a0fc86}You have : {/color}{color=#3c96f2}[CLOTHEDATA] Clothes Data {/color}"
-msgstr ""
+msgstr "{color=#a0fc86}Tienes : {/color}{color=#3c96f2}[CLOTHEDATA] Datos de ropa {/color}"
 
 # game/Room_02_CharaCrea.rpy:177
 msgid " {color=#3c96f2}={/color} Emee // ''Oriental Dress'' {color=#3c96f2}={/color} "
-msgstr ""
+msgstr " {color=#3c96f2}={/color} Emee // ''Vestido oriental'' {color=#3c96f2}={/color} "
 
 # game/Room_02_CharaCrea.rpy:177
 msgid " {color=#f2923c}={/color} Emee // ''Harem Outfit'' {color=#f2923c}={/color} "
-msgstr ""
+msgstr " {color=#f2923c} = {/color} Emee // ''Traje de Harem'' {color=#f2923c} = {/color} "
 
 # game/Room_02_CharaCrea.rpy:177
 msgid " {color=#3c96f2}={/color} Emee // ''Tano Outfit'' {color=#3c96f2}={/color} "
-msgstr ""
+msgstr " {color=#3c96f2}={/color} Emee // ''Traje de Tano'' {color=#3c96f2}={/color} "
 
 # game/Room_02_CharaCrea.rpy:177
 msgid " {color=#3c96f2}={/color} {color=#3ad8ff}Emee // ''Aenari Clothes'' // Variation{/color} {color=#3c96f2}={/color} "
-msgstr ""
+msgstr " {color=#3c96f2} = {/color} {color=#3ad8ff} Emee // '' Ropa Aenari '' // Variación {/color} {color=#3c96f2} = {/color} "
 
 # game/Room_02_CharaCrea.rpy:177
 msgid " {color=#3c96f2}={/color} Tinker // ''Arabian Night'' {color=#3c96f2}={/color} "
-msgstr ""
+msgstr " {color=#3c96f2}={/color} Tinker // ''Noche árabe'' {color=#3c96f2}={/color} "
 
 # game/Room_02_CharaCrea.rpy:177
 msgid " {color=#3c96f2}={/color} Tinker // ''Wish Outfit'' {color=#3c96f2}={/color} "
-msgstr ""
+msgstr " {color=#3c96f2}={/color} Tinker // ''Traje de Deseo'' {color=#3c96f2}={/color} "
 
 # game/Room_02_CharaCrea.rpy:177
 msgid " {color=#3c96f2}={/color} Tinker // ''Vintage Workwear'' {color=#3c96f2}={/color} "
