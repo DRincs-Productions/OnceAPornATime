@@ -10,103 +10,103 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-02-26 09:12\n"
+"PO-Revision-Date: 2024-04-01 04:46\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Room_02_MAP.rpy:13 #-#-# translate crowdin Room_02_MAP_e8b9ebe7:
 msgid "[_u_] I need to find out where the others are first."
-msgstr ""
+msgstr "[_u_] Necesito averiguar dónde están los demás primero."
 
 # game/Room_02_MAP.rpy:17 #-#-# translate crowdin Room_02_MAP_28740bba:
 msgid "[_u_] Useless for the moment."
-msgstr ""
+msgstr "[_u_] Inútil por el momento."
 
 # game/Room_02_MAP.rpy:65 #-#-# translate crowdin MAP_01_OrientalCapital_b70ca43c:
 msgid " You have already visited this character today "
-msgstr ""
+msgstr " Ya has visitado a este personaje hoy "
 
 # game/Room_02_MAP.rpy:71 #-#-# translate crowdin MAP_01_OrientalCapital_00220254:
 msgid "You must create the character first"
-msgstr ""
+msgstr "Primero debes crear el personaje"
 
 # game/Room_02_MAP.rpy:74 #-#-# translate crowdin MAP_01_OrientalCapital_4b365400:
 msgid "The character is currently unavailable. "
-msgstr ""
+msgstr "El personaje no está disponible actualmente. "
 
 # game/Room_02_MAP.rpy:79 #-#-# translate crowdin MAP_01_OrientalCapital_b70ca43c_1:
 msgid " You have already visited this character today "
-msgstr ""
+msgstr " Ya has visitado a este personaje hoy "
 
 # game/Room_02_MAP.rpy:90 #-#-# translate crowdin MAP_01_OrientalCapital_b70ca43c_2:
 msgid " You have already visited this character today "
-msgstr ""
+msgstr " Ya has visitado a este personaje hoy "
 
 # game/Room_02_MAP.rpy:100 #-#-# translate crowdin MAP_01_MagicForest_f81ea75f:
 msgid "Not available now"
-msgstr ""
+msgstr "No disponible por ahora"
 
 # game/Room_02_MAP.rpy:133 #-#-# translate crowdin MAP_01_SnowPoint_a932a597:
 msgid "You need to find Em-AI before visiting other characters."
-msgstr ""
+msgstr "Necesitas encontrar Em-AI antes de visitar a otros personajes."
 
 # game/Room_02_MAP.rpy:136 #-#-# translate crowdin MAP_01_SnowPoint_7583d9a6:
 msgid "You need to see Emee first."
-msgstr ""
+msgstr "Es necesario ver primero a Emee."
 
 # game/Room_02_MAP.rpy:139 #-#-# translate crowdin MAP_01_SnowPoint_283b3476:
 msgid "Go see Em-AI."
-msgstr ""
+msgstr "Ve a ver Em-AI."
 
 # game/Room_02_MAP.rpy:142 #-#-# translate crowdin MAP_01_SnowPoint_d0d1b6d1:
 msgid "[_u_] I need to find a blank character data with my drone first."
-msgstr ""
+msgstr "[_u_] necesito encontrar primero datos de personaje en blanco con mi drone."
 
 # game/Room_02_MAP.rpy:150 #-#-# translate crowdin MAP_01_SnowPoint_b70ca43c:
 msgid " You have already visited this character today "
-msgstr ""
+msgstr " Ya has visitado a este personaje hoy "
 
 # game/Room_02_MAP.rpy:154 #-#-# translate crowdin MAP_01_SnowPoint_ee5619f2:
 msgid "You need to create Elsa first."
-msgstr ""
+msgstr "Primero necesitas crear a Elsa."
 
 # game/Room_02_MAP.rpy:160 #-#-# translate crowdin MAP_01_SnowPoint_b70ca43c_1:
 msgid " You have already visited this character today "
-msgstr ""
+msgstr " Ya has visitado a este personaje hoy "
 
 # game/Room_02_MAP.rpy:170 #-#-# translate crowdin MAP_01_SnowPoint_f81ea75f:
 msgid "Not available now"
-msgstr ""
+msgstr "No disponible por ahora"
 
 # game/Room_02_MAP.rpy:173 #-#-# translate crowdin MAP_01_SnowPoint_f81ea75f_1:
 msgid "Not available now"
-msgstr ""
+msgstr "No disponible por ahora"
 
 # game/Room_02_MAP.rpy:178 #-#-# translate crowdin MAP_01_MOON_f81ea75f:
 msgid "Not available now"
-msgstr ""
+msgstr "No disponible por ahora"
 
 # §translate crowdin strings: #|#|# # game/Room_02_MAP.rpy:59
 msgid "$Ali-baba's cave"
-msgstr ""
+msgstr "Cueva de $Ali-baba"
 
 # game/Room_02_MAP.rpy:59
 msgid "$Jasmine's room"
-msgstr ""
+msgstr "La habitación de $Jasmine"
 
 # game/Room_02_MAP.rpy:59
 msgid "$Djin"
-msgstr ""
+msgstr "$Djin"
 
 # game/Room_02_MAP.rpy:59
 msgid "$Sherazade's Place"
-msgstr ""
+msgstr "Lugar de $Sherazade"
 
 # game/Room_02_MAP.rpy:104
 msgid "$Snow White"
-msgstr ""
+msgstr "$Snow Blancanieves"
 
 # game/Room_02_MAP.rpy:104
 msgid "$Near the High Tower of Rosette"
-msgstr ""
+msgstr "$Near cerca la Torre Alta de Róseta"
 
 # game/Room_02_MAP.rpy:104
 msgid "$Outpost 23"
