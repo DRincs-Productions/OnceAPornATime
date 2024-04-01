@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-04-01 01:26\n"
+"PO-Revision-Date: 2024-04-01 04:46\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Room_Showers.rpy:121 #-#-# translate crowdin ML_ShowerCams01_02_ec3b9bb7:
 msgid "[_u_] Meli?"
@@ -622,33 +622,33 @@ msgstr "{color=#3ad8ff}¿Has encontrado a alguien?{/color}"
 
 # game/Room_Showers.rpy:196
 msgid "{color=#f45fed}You've got a breast out{/color}"
-msgstr ""
+msgstr "{color=#f45fed}Tienes un pecho fuera{/color}"
 
 # game/Room_Showers.rpy:196
 msgid "Well... I'll see you later"
-msgstr ""
+msgstr "Bueno... Te veré más tarde"
 
 # game/Room_Showers.rpy:363
 msgid "Of course"
-msgstr ""
+msgstr "Por supuesto."
 
 # game/Room_Showers.rpy:363
 msgid "Not right now"
-msgstr ""
+msgstr "No, por ahora"
 
 # game/Room_Showers.rpy:464
 msgid "Would you like to extend the shower a little?"
-msgstr ""
+msgstr "¿¿Quieres alargar un poco la ducha?"
 
 # game/Room_Showers.rpy:464
 msgid "See you soon!"
-msgstr ""
+msgstr "¡Nos vemos pronto!"
 
 # game/Room_Showers.rpy:513
 msgid "Damn Lyco... you weren't lying..."
-msgstr ""
+msgstr "Maldito Lyco... no estabas mintiendo..."
 
 # game/Room_Showers.rpy:513
 msgid "*Don't say anything*"
-msgstr ""
+msgstr "*No digas nada*"
 
