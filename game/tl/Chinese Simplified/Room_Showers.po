@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-04-01 08:28\n"
+"PO-Revision-Date: 2024-04-01 09:49\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Room_Showers.rpy:121 #-#-# translate crowdin ML_ShowerCams01_02_ec3b9bb7:
 msgid "[_u_] Meli?"
@@ -610,45 +610,45 @@ msgstr "[_u_] 嗯，呃... 不客气。 "
 
 # game/Room_Showers.rpy:559 #-#-# translate crowdin A_GoShower2_a999289a:
 msgid "[_u_] I guess."
-msgstr ""
+msgstr "[_u_] 我应该这么回吧。"
 
 # §translate crowdin strings: #|#|# # game/Room_Showers.rpy:164
 msgid "So you come here in the daylight now?"
-msgstr ""
+msgstr "所以你是大白天的来这里？"
 
 # game/Room_Showers.rpy:164
 msgid "{color=#3ad8ff}Have you come across anyone yet?{/color}"
-msgstr ""
+msgstr "{color=#3ad8ff}那你有碰到过谁吗？{/color}"
 
 # game/Room_Showers.rpy:196
 msgid "{color=#f45fed}You've got a breast out{/color}"
-msgstr ""
+msgstr "{color=#f45fed}你露出奶子了{/color}"
 
 # game/Room_Showers.rpy:196
 msgid "Well... I'll see you later"
-msgstr ""
+msgstr "好吧... 那回头见了"
 
 # game/Room_Showers.rpy:363
 msgid "Of course"
-msgstr ""
+msgstr "当然"
 
 # game/Room_Showers.rpy:363
 msgid "Not right now"
-msgstr ""
+msgstr "现在不行"
 
 # game/Room_Showers.rpy:464
 msgid "Would you like to extend the shower a little?"
-msgstr ""
+msgstr "你想把洗澡的时间再延长一点吗？"
 
 # game/Room_Showers.rpy:464
 msgid "See you soon!"
-msgstr ""
+msgstr "回头见！"
 
 # game/Room_Showers.rpy:513
 msgid "Damn Lyco... you weren't lying..."
-msgstr ""
+msgstr "该死的莉可... 你没有在撒谎..."
 
 # game/Room_Showers.rpy:513
 msgid "*Don't say anything*"
-msgstr ""
+msgstr "*什么也别说*"
 
