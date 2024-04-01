@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-03-30 10:04\n"
+"PO-Revision-Date: 2024-04-01 03:50\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Room_Showers.rpy:121 #-#-# translate crowdin ML_ShowerCams01_02_ec3b9bb7:
 msgid "[_u_] Meli?"
@@ -426,63 +426,63 @@ msgstr "[_ly_] 我们不是动物，我们可以互相交流。你情我愿，�
 
 # game/Room_Showers.rpy:396 #-#-# translate crowdin A_GoShower_menu1_04e3430b:
 msgid "[_a_] If you could wait until I've left to fuck, that would be very kind!"
-msgstr ""
+msgstr "[_a_] 如果你可以等到我走了再发情，那就太好不过了！"
 
 # game/Room_Showers.rpy:399 #-#-# translate crowdin A_GoShower_menu1_ba356fa9:
 msgid "[_ly_] Don't worry, I have to get back to work in 2 minutes!"
-msgstr ""
+msgstr "[_ly_] 别担心，我两分钟后就会回来工作了！"
 
 # game/Room_Showers.rpy:402 #-#-# translate crowdin A_GoShower_menu1_bb8e4b4e_3:
 msgid "[_a_] ..."
-msgstr ""
+msgstr "[_a_] ..."
 
 # game/Room_Showers.rpy:405 #-#-# translate crowdin A_GoShower_menu1_a06baf43:
 msgid "[_a_] It's true that it would be a shame to miss out on this kind of moment... "
-msgstr ""
+msgstr "[_a_] 确实，错过了这样的时刻是件蛮遗憾的事... "
 
 # game/Room_Showers.rpy:407 #-#-# translate crowdin A_GoShower_menu1_493f4f14:
 msgid "[_a_] Mh..."
-msgstr ""
+msgstr "[_a_] 嗯..."
 
 # game/Room_Showers.rpy:409 #-#-# translate crowdin A_GoShower_menu1_9597dd09:
 msgid "[_a_] Okay, then."
-msgstr ""
+msgstr "[_a_] 那好吧。"
 
 # game/Room_Showers.rpy:423 #-#-# translate crowdin A_GoShower_menu1_3fd0260c:
 msgid "[_ly_] Admit it. It's much more pleasant to be naked."
-msgstr ""
+msgstr "[_ly_] 承认吧，赤裸身体要比穿衣服舒服多了。"
 
 # game/Room_Showers.rpy:426 #-#-# translate crowdin A_GoShower_menu1_4923f53f:
 msgid "[_a_] I have to admit... it's a real pleasure."
-msgstr ""
+msgstr "[_a_] 我不得不承认... 那样确实舒服很多。"
 
 # game/Room_Showers.rpy:428 #-#-# translate crowdin A_GoShower_menu1_bb8e4b4e_4:
 msgid "[_a_] ..."
-msgstr ""
+msgstr "[_a_] ..."
 
 # game/Room_Showers.rpy:431 #-#-# translate crowdin A_GoShower_menu1_1bf38ea2:
 msgid "[_a_] However... I've already had my shower so uh... "
-msgstr ""
+msgstr "[_a_] 不过... 我已经洗过澡了，所以，呃... "
 
 # game/Room_Showers.rpy:433 #-#-# translate crowdin A_GoShower_menu1_5c2246c6:
 msgid "[_ly_] No worries! Glad I got to look at your boobs!"
-msgstr ""
+msgstr "[_ly_] 没关系！能看到你的奶子我就很高兴了！"
 
 # game/Room_Showers.rpy:442 #-#-# translate crowdin A_GoShower_menu1_aa49011a:
 msgid "[_a_] See you later guys!"
-msgstr ""
+msgstr "[_a_] 再见了，伙计们！"
 
 # game/Room_Showers.rpy:449 #-#-# translate crowdin A_GoShower_menu1_ea974d26:
 msgid "[_ly_] I'm sure she's going to be wanking about this all night!"
-msgstr ""
+msgstr "[_ly_] 我相信她回去后会自慰一整个晚上的。"
 
 # game/Room_Showers.rpy:450 #-#-# translate crowdin A_GoShower_menu1_0edc8344:
 msgid "[_u_] Ahah you're silly!"
-msgstr ""
+msgstr "[_u_] 啊哈，你傻了吧！"
 
 # game/Room_Showers.rpy:452 #-#-# translate crowdin A_GoShower_menu1_d62457ef:
 msgid "[_ly_] Damn... that chick's got great tits..."
-msgstr ""
+msgstr "[_ly_] 靠... 那妹子的奶子真不错啊..."
 
 # game/Room_Showers.rpy:454 #-#-# translate crowdin A_GoShower_menu1_2a2b4044:
 msgid "[_ly_] I want to bite 'em. "
