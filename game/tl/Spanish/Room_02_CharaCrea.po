@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-04-01 19:47\n"
+"PO-Revision-Date: 2024-04-01 20:54\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Room_02_CharaCrea.rpy:10 #-#-# translate crowdin Room_02_CharaCrea_3d26d832:
 msgid "[_u_] No need to create anything yet. "
@@ -446,11 +446,11 @@ msgstr "[_u_] ¿Qué demonios son esos números?"
 
 # game/Room_02_CharaCrea.rpy:723 #-#-# translate crowdin Room_02_CharaCreamenu_CLOTHESMENU_1f26caaa:
 msgid "[_u_] Did she really put our annual clothes budget into one outfit?"
-msgstr ""
+msgstr "[_u_] ¿Realmente puso nuestro presupuesto anual de ropa en un conjunto?"
 
 # game/Room_02_CharaCrea.rpy:724 #-#-# translate crowdin Room_02_CharaCreamenu_CLOTHESMENU_1d986b85:
 msgid "[_u_] I should go back and see Lyco."
-msgstr ""
+msgstr "[_u_] debería volver y ver a Lyco."
 
 # game/Room_02_CharaCrea.rpy:728 #-#-# translate crowdin Room_02_CharaCreamenu_CLOTHESMENU_a6f2bb68_16:
 msgid " You have the elements to create this object "
@@ -458,15 +458,15 @@ msgstr " Tienes los elementos para crear este personaje "
 
 # game/Room_02_CharaCrea.rpy:730 #-#-# translate crowdin Room_02_CharaCreamenu_CLOTHESMENU_45d591e1:
 msgid "ERROR: The object can't be created."
-msgstr ""
+msgstr "ERROR: El objeto no se puede crear."
 
 # game/Room_02_CharaCrea.rpy:731 #-#-# translate crowdin Room_02_CharaCreamenu_CLOTHESMENU_27b566c8:
 msgid "[_u_] Even with all the objects, the blueprint still doesn't work???"
-msgstr ""
+msgstr "[_u_] Incluso con todos los objetos, ¿el plano todavía no funciona???"
 
 # game/Room_02_CharaCrea.rpy:732 #-#-# translate crowdin Room_02_CharaCreamenu_CLOTHESMENU_c61165c4:
 msgid "[_u_] Goddamn Lyco..."
-msgstr ""
+msgstr "[_u_] Maldita seas Lyco..."
 
 # game/Room_02_CharaCrea.rpy:738 #-#-# translate crowdin Room_02_CharaCreamenu_CLOTHESMENU_c5524f73_3:
 msgid "You must have these elements to create this object: {color=#3c96f2}([CLOTHEDATA]/2) Clothes Data {/color} and {color=#a0fc86} ([ITEM_CLOTHESSCRAPS01]/4) Clothes Scraps {color=#a0fc86}"
