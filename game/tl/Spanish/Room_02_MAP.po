@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-04-01 04:46\n"
+"PO-Revision-Date: 2024-04-01 06:26\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Room_02_MAP.rpy:13 #-#-# translate crowdin Room_02_MAP_e8b9ebe7:
 msgid "[_u_] I need to find out where the others are first."
@@ -102,29 +102,29 @@ msgstr "Lugar de $Sherazade"
 
 # game/Room_02_MAP.rpy:104
 msgid "$Snow White"
-msgstr "$Snow Blancanieves"
+msgstr "$Blancanieves"
 
 # game/Room_02_MAP.rpy:104
 msgid "$Near the High Tower of Rosette"
-msgstr "$Near cerca la Torre Alta de Róseta"
+msgstr "$Near Cerca la Torre Alta de Róseta"
 
 # game/Room_02_MAP.rpy:104
 msgid "$Outpost 23"
-msgstr ""
+msgstr "$Outpost Puesto Avanzada 23"
 
 # game/Room_02_MAP.rpy:120
 msgid "$Cancel the travel"
-msgstr ""
+msgstr "$Cancelar el viaje"
 
 # game/Room_02_MAP.rpy:130
 msgid "$Anna"
-msgstr ""
+msgstr "$Anna"
 
 # game/Room_02_MAP.rpy:130
 msgid "$Queen Elsa"
-msgstr ""
+msgstr "$Reina Elsa"
 
 # game/Room_02_MAP.rpy:130
 msgid "${color=#3ad8ff}Outpost 16{/color}"
-msgstr ""
+msgstr "${color=#3ad8ff}Puesto avanzado 16{/color}"
 
