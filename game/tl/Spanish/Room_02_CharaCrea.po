@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-04-01 22:15\n"
+"PO-Revision-Date: 2024-04-01 23:20\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Room_02_CharaCrea.rpy:10 #-#-# translate crowdin Room_02_CharaCrea_3d26d832:
 msgid "[_u_] No need to create anything yet. "
@@ -750,101 +750,101 @@ msgstr " {color=#3c96f2}={/color} Tinker // ''Traje de Deseo'' {color=#3c96f2}={
 
 # game/Room_02_CharaCrea.rpy:177
 msgid " {color=#3c96f2}={/color} Tinker // ''Vintage Workwear'' {color=#3c96f2}={/color} "
-msgstr ""
+msgstr " {color=#3c96f2} = {/color} Tinker // ''Ropa de Trabajo Antiguo' {color=#3c96f2} = {/color} "
 
 # game/Room_02_CharaCrea.rpy:177
 msgid " {color=#3c96f2}={/color} Tinker // ''Lycoris Dress'' {color=#3c96f2}={/color} "
-msgstr ""
+msgstr " {color=#3c96f2}={/color} Tinker // ''Vestido Lycoris'' {color=#3c96f2}={/color} "
 
 # game/Room_02_CharaCrea.rpy:177
 msgid " {color=#3c96f2}={/color}{color=#3ad8ff} Tinker // ''Vintage Workwear'' // Variation {/color}{color=#3c96f2}={/color} "
-msgstr ""
+msgstr " {color=#3c96f2} = {/color} {color=#3ad8ff} Tinker // ''Ropa de Trabajo Antiguo'' // Variación {/color} {color=#3c96f2} = {/color} "
 
 # game/Room_02_CharaCrea.rpy:177
 msgid " {color=#3c96f2}={/color}{color=#3ad8ff} Tinker // ''Basic Tinker Dress'' // Variation {/color}{color=#3c96f2}={/color} "
-msgstr ""
+msgstr " {color=#3c96f2}={/color}{color=#3ad8ff} Tinker // ''Vestido Básico de Tinker'' // Variación {/color}{color=#3c96f2}={/color} "
 
 # game/Room_02_CharaCrea.rpy:177
 msgid " {color=#3c96f2}={/color} Amelia // ''Retro-Secretary'' {color=#3c96f2}={/color} "
-msgstr ""
+msgstr " {color=#3c96f2}={/color} Amelia // 'Retro-secretaria'' {color=#3c96f2}={/color} "
 
 # game/Room_02_CharaCrea.rpy:177
 msgid " {color=#3c96f2}={/color} Amelia // ''Vintage-Secretary'' {color=#3c96f2}={/color} "
-msgstr ""
+msgstr " {color=#3c96f2}={/color} Amelia // 'Antigua-secretaria'' {color=#3c96f2}={/color} "
 
 # game/Room_02_CharaCrea.rpy:177
 msgid " {color=#3c96f2}={/color} Jasmine // ''Dance Dress'' {color=#3c96f2}={/color} "
-msgstr ""
+msgstr " {color=#3c96f2}={/color} Jazmín // ''Vestido de Baile'' {color=#3c96f2}={/color "
 
 # game/Room_02_CharaCrea.rpy:177
 msgid " {color=#3c96f2}={/color} Jasmine // ''Royal Dress'' {color=#3c96f2}={/color} "
-msgstr ""
+msgstr " {color=#3c96f2}={/color} Jazmín // ''vestido Real'' {color=#3c96f2}={/color} "
 
 # game/Room_02_CharaCrea.rpy:177
 msgid " {color=#3c96f2}={/color} Jasmine // ''Brothel Dress'' {color=#3c96f2}={/color} "
-msgstr ""
+msgstr " {color=#3c96f2}={/color} Jazmín // ''Vestido de Burdel' {color=#3c96f2}={/color} "
 
 # game/Room_02_CharaCrea.rpy:177
 msgid " {color=#3c96f2}={/color} {color=#f2923c}Sherazade // ''Brothel Dress''{/color} {color=#3c96f2}={/color} "
-msgstr ""
+msgstr " {color=#3c96f2}={/color} {color=#f2923c}Sherazade // ''Vestido de Burdel'{/color} {color=#3c96f2}={/color} "
 
 # game/Room_02_CharaCrea.rpy:177
 msgid " {color=#3c96f2}={/color} Lycoris // ''Dressmaker'' {color=#3c96f2}={/color} "
-msgstr ""
+msgstr " {color=#3c96f2}={/color} Lycoris // 'Modista'' {color=#3c96f2}={/color} "
 
 # game/Room_02_CharaCrea.rpy:177
 msgid " {color=#797979}= Lycoris // ''Dressmaker'' ={/color} "
-msgstr ""
+msgstr " {color=#797979} = Lycoris // ''Modista'' = {/color} "
 
 # game/Room_02_CharaCrea.rpy:177
 msgid " {color=#f2923c}={/color} Lycoris // ''Harem Outfit'' {color=#f2923c}={/color} "
-msgstr ""
+msgstr " {color=#f2923c}={/color} Lycoris // ''Traje de Harem'' {color=#f2923c}={/color} "
 
 # game/Room_02_CharaCrea.rpy:177
 msgid " {color=#f2923c}={/color} {color=#f45fed}Lycoris // ''Sexy Red Dress''{/color} {color=#f2923c}={/color} "
-msgstr ""
+msgstr " {color=#f2923c}={/color} {color=#f45fed}Lycoris // ''Vestido rojo Sexy'{/color} {color=#f2923c}={/color} "
 
 # game/Room_02_CharaCrea.rpy:177
 msgid " {color=#3c96f2}={/color} {color=#3ad8ff}Melissandre // ''Basic Clothes'' // Variation{/color} {color=#3c96f2}={/color} "
-msgstr ""
+msgstr " {color=#3c96f2}={/color} {color=#3ad8ff}Melissandre // ''Ropa Básica'' // Variación{/color} {color=#3c96f2}={/color} "
 
 # game/Room_02_CharaCrea.rpy:177
 msgid " {color=#3c96f2}={/color} {color=#3ad8ff}Amandine // ''French Chemise'' // Variation{/color} {color=#3c96f2}={/color} "
-msgstr ""
+msgstr " {color=#3c96f2}={/color} {color=#3ad8ff}Amandine // ''Camisa Francesa'' // Variación{/color} {color=#3c96f2}={/color} "
 
 # game/Room_02_CharaCrea.rpy:177
 msgid " {color=#3c96f2}={/color} {color=#f45fed}Amandine // ''Minstrel Clothes''{/color} {color=#3c96f2}={/color} "
-msgstr ""
+msgstr " {color=#3c96f2}={/color} {color=#f45fed}Amandine // ''Ropa de Junglar''{/color} {color=#3c96f2}={/color} "
 
 # game/Room_02_CharaCrea.rpy:187
 msgid "{color=#3c96f2}([CLOTHEDATA]/2) Clothes Data {/color} and {color=#a0fc86} ([ITEM_CLOTHESSCRAPS01]/3) Clothes Scraps {color=#a0fc86}"
-msgstr ""
+msgstr "{color=#3c96f2}([CLOTHEDATA]/2) Datos de ropa {/color} y {color=#a0fc86} ([ITEM_CLOTHESSCRAPS01]/3) Restos de ropa {color=#a0fc86}"
 
 # game/Room_02_CharaCrea.rpy:221
 msgid "{color=#3c96f2}([CLOTHEDATA]/2) Clothes Data {/color} and {color=#a0fc86} ([ITEM_CLOTHESSCRAPS01]/4) Clothes Scraps {color=#a0fc86}"
-msgstr ""
+msgstr "{color=#3c96f2}([CLOTHEDATA]/2) Datos de ropa {/color} y {color=#a0fc86} ([ITEM_CLOTHESSCRAPS01]/4) Restos de ropa {color=#a0fc86}"
 
 # game/Room_02_CharaCrea.rpy:456
 msgid "{color=#a0fc86} ([ITEM_CLOTHESSCRAPS01]/8) Clothes Scraps {color=#a0fc86}"
-msgstr ""
+msgstr "{color=#a0fc86} ([ITEM_CLOTHESSCRAPS01]/ 8) Restos de ropa {color=#a0fc86}"
 
 # game/Room_02_CharaCrea.rpy:813
 msgid "{color=#f2923c} ([CHARADATA]/2) Character Datas {/color}, {color=#3c96f2}([CLOTHEDATA]/2) Clothes Data {/color} and {color=#a0fc86} ([ITEM_CLOTHESSCRAPS01]/4) Clothes Scraps {color=#a0fc86}"
-msgstr ""
+msgstr "{color=#f2923c} ([CHARADATA]/2) Datos de personaje {/color}, {color=#3c96f2}([CLOTHEDATA]/2) Datos de ropa {/color} y {color=#a0fc86} ([ITEM_CLOTHESSCRAPS01]/4) Restos de ropa {color=#a0fc86}"
 
 # game/Room_02_CharaCrea.rpy:952
 msgid " {color=#3c96f2}={/color} Tinker // ''Lycoris Hairstyle'' {color=#3c96f2}={/color} "
-msgstr ""
+msgstr " {color=#3c96f2}={/color} Tinker // ''Peinado Lycoris'' {color=#3c96f2}={/color} "
 
 # game/Room_02_CharaCrea.rpy:952
 msgid " {color=#3c96f2}={/color} Lycoris // ''Princess Hair Pick'' {color=#3c96f2}={/color} "
-msgstr ""
+msgstr " {color=#3c96f2}={/color} Lycoris // Selecciónn de Pelo de Princesa'' {color=#3c96f2}={/color} "
 
 # game/Room_02_CharaCrea.rpy:952
 msgid " {color=#3c96f2}={/color} {color=#f45fed}Amandine // ''Minstrel Hat''{/color} {color=#3c96f2}={/color} "
-msgstr ""
+msgstr " {color=#3c96f2}={/color} {color=#f45fed}Amandine // ''Sombrero de junglar''{/color} {color=#3c96f2}={/color} "
 
 # game/Room_02_CharaCrea.rpy:994
 msgid "{color=#3c96f2}([CLOTHEDATA]/3) Clothes Data {/color} and {color=#a0fc86} ([ITEM_CLOTHESSCRAPS01]/3) Clothes Scraps {color=#a0fc86}"
-msgstr ""
+msgstr "{color=#3c96f2}([CLOTHEDATA]/3) Datos de ropa {/color} y {color=#a0fc86} ([ITEM_CLOTHESSCRAPS01]/3) Restos de ropa {color=#a0fc86}"
 
