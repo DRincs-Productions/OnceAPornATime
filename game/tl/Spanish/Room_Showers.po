@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-04-01 00:17\n"
+"PO-Revision-Date: 2024-04-01 01:26\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Room_Showers.rpy:121 #-#-# translate crowdin ML_ShowerCams01_02_ec3b9bb7:
 msgid "[_u_] Meli?"
@@ -538,67 +538,67 @@ msgstr "[_ly_] Oh sí... [nombre]..."
 
 # game/Room_Showers.rpy:511 #-#-# translate crowdin A_GoShower2_0df7be0d:
 msgid "[_ly_] Shove it down my throat... mmhhhw..."
-msgstr ""
+msgstr "[_ly_] Métemelo en la garganta... mmhhhw..."
 
 # game/Room_Showers.rpy:518 #-#-# translate crowdin A_GoShower2_32ce425b:
 msgid "[_ly_] Eat my pussy Emee... "
-msgstr ""
+msgstr "[_ly_] Cómeme el coño Emee... "
 
 # game/Room_Showers.rpy:520 #-#-# translate crowdin A_GoShower2_949139de:
 msgid "[_ly_] Shove whatever you want up my ass, Amelia... "
-msgstr ""
+msgstr "[_ly_] Méteme lo que quieras por mi culo, Amelia... "
 
 # game/Room_Showers.rpy:522 #-#-# translate crowdin A_GoShower2_51a831e5:
 msgid "[_ly_] Amandine... oh fuck Amandine... "
-msgstr ""
+msgstr "[_ly_] Amandine... oh joder Amandine... "
 
 # game/Room_Showers.rpy:524 #-#-# translate crowdin A_GoShower2_8b1f399f:
 msgid "[_ly_] I... oh fuck... [name]..."
-msgstr ""
+msgstr "[_ly_] Yo... oh joder... [nombre]..."
 
 # game/Room_Showers.rpy:527 #-#-# translate crowdin A_GoShower2_b70a0619:
 msgid "[_ly_] Oh fuck! [name]!!!"
-msgstr ""
+msgstr "[_ly_] ¡Oh joder! [nombre]!!!"
 
 # game/Room_Showers.rpy:529 #-#-# translate crowdin A_GoShower2_ea5706a6:
 msgid "[_ly_] Why are you... aaaww..."
-msgstr ""
+msgstr "[_ly_] ¿Por qué estás... aaww..."
 
 # game/Room_Showers.rpy:531 #-#-# translate crowdin A_GoShower2_4b3ffb10:
 msgid "[_ly_] I just..."
-msgstr ""
+msgstr "[_ly_] Yo justo..."
 
 # game/Room_Showers.rpy:533 #-#-# translate crowdin A_GoShower2_4e5d7262:
 msgid "[_ly_] I'm so excited you're watching me touch myself.... "
-msgstr ""
+msgstr "[_ly_] Estoy tan emocionada que me estés viendo tocarme.... "
 
 # game/Room_Showers.rpy:535 #-#-# translate crowdin A_GoShower2_49daab34:
 msgid "[_ly_] It's so indecent it's... "
-msgstr ""
+msgstr "[_ly_] Es tan indecente que es... "
 
 # game/Room_Showers.rpy:537 #-#-# translate crowdin A_GoShower2_5cac17d5:
 msgid "[_ly_] Oh fuck... "
-msgstr ""
+msgstr "[_ly_] Oh joder... "
 
 # game/Room_Showers.rpy:539 #-#-# translate crowdin A_GoShower2_d1a83327:
 msgid "[_ly_] I'm going to come... "
-msgstr ""
+msgstr "[_ly_] Me voy a correr... "
 
 # game/Room_Showers.rpy:541 #-#-# translate crowdin A_GoShower2_d0a933f6:
 msgid "[_ly_] Look at me [name]... fuck... I'm coming to look at you..."
-msgstr ""
+msgstr "[_ly_] Mírame [nombre]... Joder... voy a venirme por mirarte..."
 
 # game/Room_Showers.rpy:550 #-#-# translate crowdin A_GoShower2_0494c16b:
 msgid "[_ly_] Damn, that was good..."
-msgstr ""
+msgstr "[_mc_] Maldición, eso estuvo bueno..."
 
 # game/Room_Showers.rpy:552 #-#-# translate crowdin A_GoShower2_08d1c8e0:
 msgid "[_ly_] I'm such a whore sometimes it's unbelievable!"
-msgstr ""
+msgstr "[_ly_] ¡Soy tan puta a veces es increíble!"
 
 # game/Room_Showers.rpy:554 #-#-# translate crowdin A_GoShower2_0862d1c2:
 msgid "[_ly_] See you later! Thanks!"
-msgstr ""
+msgstr "[_ly_] ¡Hasta luego! ¡Gracias!"
 
 # game/Room_Showers.rpy:557 #-#-# translate crowdin A_GoShower2_7b1c1392:
 msgid "[_u_] ..."
@@ -606,19 +606,19 @@ msgstr "[_u_] ..."
 
 # game/Room_Showers.rpy:558 #-#-# translate crowdin A_GoShower2_d59f33ff:
 msgid "[_u_] Well, uh... you're welcome. "
-msgstr ""
+msgstr "[_u_] Bueno, uh... No hay de qué. "
 
 # game/Room_Showers.rpy:559 #-#-# translate crowdin A_GoShower2_a999289a:
 msgid "[_u_] I guess."
-msgstr ""
+msgstr "[_u_] supongo."
 
 # §translate crowdin strings: #|#|# # game/Room_Showers.rpy:164
 msgid "So you come here in the daylight now?"
-msgstr ""
+msgstr "¿Así que usted viene aquí a la luz del día?"
 
 # game/Room_Showers.rpy:164
 msgid "{color=#3ad8ff}Have you come across anyone yet?{/color}"
-msgstr ""
+msgstr "{color=#3ad8ff}¿Has encontrado a alguien?{/color}"
 
 # game/Room_Showers.rpy:196
 msgid "{color=#f45fed}You've got a breast out{/color}"
