@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-03-19 16:08\n"
+"PO-Revision-Date: 2024-04-02 10:49\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_JM.rpy:131 #-#-# translate crowdin CHARA_JM_Menu01_0eca5cd6:
 msgid "[_jm_] Hello to you... my [Quest_JM_NameMC]."
@@ -3222,7 +3222,7 @@ msgstr "[_a_] Et la tension monte à un point tel que la personne devient presqu
 
 # game/Cell01_JM.rpy:2398 #-#-# translate crowdin Quest_JM_Favor_Unicorn1_menu1_P3_76bcdaba:
 msgid "[_a_] After that, your job will be almost too easy."
-msgstr "[Après cela, votre travail sera presque trop facile."
+msgstr "[_a_] Après cela, votre travail sera presque trop facile."
 
 # game/Cell01_JM.rpy:2400 #-#-# translate crowdin Quest_JM_Favor_Unicorn1_menu1_P3_d953195a:
 msgid "[_a_] It may look like nothing... but done right, it's incredibly effective."
@@ -8210,7 +8210,7 @@ msgstr "Il a l'air si doux..."
 
 # game/Cell01_JM.rpy:1885
 msgid "...Fuck all the girls in a brothel"
-msgstr "...Baiser toutes les filles d'un bordel"
+msgstr "...Baiser toutes les filles d'un bordel l"
 
 # game/Cell01_JM.rpy:1885
 msgid "{color=#797979}...Fuck all the girls in a brothel{/color}"
