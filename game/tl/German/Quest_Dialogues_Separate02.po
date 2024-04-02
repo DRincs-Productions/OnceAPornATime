@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2024-03-28 20:50\n"
+"PO-Revision-Date: 2024-04-02 08:00\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Quest_Dialogues_Separate02.rpy:69 #-#-# translate crowdin Quest2_Room01Panel01screen_E_8240cba6:
 msgid "[_u_] Got it!"
@@ -4813,7 +4813,7 @@ msgstr ""
 
 # game/Quest_Dialogues_Separate02.rpy:3585 #-#-# translate crowdin QuestChap2_LySZ_ClothesQuest01_01_7cd082cc:
 msgid "[_u_] I'll think about it. "
-msgstr ""
+msgstr "[_u_] Ich denke darüber nach. "
 
 # game/Quest_Dialogues_Separate02.rpy:3587 #-#-# translate crowdin QuestChap2_LySZ_ClothesQuest01_01_1884f421:
 msgid "[_ly_] So... Sherazade's ''brothel dress'' is already ready to be created in your machine... "
