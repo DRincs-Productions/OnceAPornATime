@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-03-19 16:10\n"
+"PO-Revision-Date: 2024-04-02 10:50\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # §translate crowdin strings: #|#|# # game/script.rpy:935
 msgid "Changelog"
@@ -26,11 +26,11 @@ msgstr "{ size=20 } { color=#797979} 02/2023 { /color } { /size }"
 
 # game/script.rpy:947
 msgid "-Main Quest"
-msgstr "-Main Quest"
+msgstr "-Quête principale"
 
 # game/script.rpy:948
 msgid "-Characters Quests"
-msgstr "-Caractères Quests"
+msgstr "-Quêtes des personnages"
 
 # game/script.rpy:949
 msgid "-Bugfix"
@@ -62,7 +62,7 @@ msgstr "-Nouveaux caractères"
 
 # game/script.rpy:963
 msgid "-Lots of New Clothes"
-msgstr "-Lots of New Clothes"
+msgstr "-Beaucoup de vêtements neufs"
 
 # game/script.rpy:965
 msgid "{size=20}{color=#797979}10/2023{/color}{/size}"
@@ -70,7 +70,7 @@ msgstr "{ size=20 } { color=#797979} 10/2023 { /color } { /size }"
 
 # game/script.rpy:966
 msgid "-New Patreon Quest"
-msgstr "-Nouveau Patreon Quest"
+msgstr "-Nouvelle quête Patreon"
 
 # game/script.rpy:967
 msgid "-New Clothes"
@@ -94,7 +94,7 @@ msgstr "{ size=20 } { color=#797979} 04/2023 { /color } { /size }"
 
 # game/script.rpy:979
 msgid "-Jasmine Patreon Quest Corruption"
-msgstr "-Jasmine Patreon Quest Corruption"
+msgstr "-Jasmine Quête Patreon Corruption"
 
 # game/script.rpy:983
 msgid "02/2023"
@@ -106,7 +106,7 @@ msgstr "{ size=20 } { color=#797979} 01/2023 { /color } { /size }"
 
 # game/script.rpy:988
 msgid "-First Patreon Quest"
-msgstr "-First Patreon Quest"
+msgstr "-Première quête Patreon"
 
 # game/script.rpy:990
 msgid "- New Clothes"
