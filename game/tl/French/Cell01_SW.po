@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-04-02 09:51\n"
+"PO-Revision-Date: 2024-04-02 10:50\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_SW.rpy:309 #-#-# translate crowdin CHARA_SW_Menu01_8238495a:
 msgid "[_sw_]  ... "
@@ -3778,7 +3778,7 @@ msgstr "[ _sw_ ] S'il vous plaît, avez une tranche ! "
 
 # game/Cell01_SW.rpy:3521 #-#-# translate crowdin Quest_SW_App03_v1_01_29a0d93e:
 msgid "(1) Piece of Apple Pie !"
-msgstr "(1) Piece d'Apple Pie !"
+msgstr "(1) Morceau de tarte aux pommes !"
 
 # game/Cell01_SW.rpy:3522 #-#-# translate crowdin Quest_SW_App03_v1_01_26d318ca:
 msgid "[_u_]  Thank you! I have to go, it's already late!"
@@ -15378,7 +15378,7 @@ msgstr " Faire un ahegao "
 
 # game/Cell01_SW.rpy:3207
 msgid " Undress yourself "
-msgstr " Dérobe toi "
+msgstr " Déshabillez-vous "
 
 # game/Cell01_SW.rpy:3207
 msgid " Suck my balls "
