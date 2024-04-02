@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-04-02 18:18\n"
+"PO-Revision-Date: 2024-04-02 19:35\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Quest_Rooms_Separate02.rpy:125 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_peruche_1ffa9899:
 msgid "[_u_] What are you doing here? "
@@ -694,27 +694,27 @@ msgstr "[_ly_] ¿Qué quieres decir? "
 
 # game/Quest_Rooms_Separate02.rpy:774 #-#-# translate crowdin Quest_LY_Favor_Face01_ccfea37c:
 msgid "[_u_] I mean without the veil."
-msgstr ""
+msgstr "[_u_] quiero decir sin velo."
 
 # game/Quest_Rooms_Separate02.rpy:776 #-#-# translate crowdin Quest_LY_Favor_Face01_4c6e48be:
 msgid "[_ly_] Oh this thing! "
-msgstr ""
+msgstr "[_ly_] ¡Oh esta cosa! "
 
 # game/Quest_Rooms_Separate02.rpy:778 #-#-# translate crowdin Quest_LY_Favor_Face01_3f82a68a:
 msgid "[_ly_] Gosh, I must have been wearing it for months... "
-msgstr ""
+msgstr "[_ly_] Dios, debo haberlo estado usando durante meses... "
 
 # game/Quest_Rooms_Separate02.rpy:779 #-#-# translate crowdin Quest_LY_Favor_Face01_f5a6b175:
 msgid "[_u_] Haven't you always worn this? "
-msgstr ""
+msgstr "[_u_] ¿No siempre has usado esto? "
 
 # game/Quest_Rooms_Separate02.rpy:781 #-#-# translate crowdin Quest_LY_Favor_Face01_1e6b5c05:
 msgid "[_ly_] I am not from this area I remind you."
-msgstr ""
+msgstr "[_ly_] No soy de esta zona te lo recuerdo."
 
 # game/Quest_Rooms_Separate02.rpy:783 #-#-# translate crowdin Quest_LY_Favor_Face01_222dcc03:
 msgid "[_ly_] And no, it was the former sultana who made me wear it. "
-msgstr ""
+msgstr "[_ly_] Y no, fue la ex sultana la que me obligó a llevarlo. "
 
 # game/Quest_Rooms_Separate02.rpy:785 #-#-# translate crowdin Quest_LY_Favor_Face01_3e6808f0:
 msgid "[_ly_] Saying that ''It is an element of the traditional dress of the palace servant.'' "
