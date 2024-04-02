@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-04-02 04:21\n"
+"PO-Revision-Date: 2024-04-02 05:28\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Room_01_Ordi.rpy:7 #-#-# translate crowdin room01_ordi01_In_f3a4608f:
 msgid "[_u_] Let's try to open that door first."
@@ -538,114 +538,119 @@ msgstr " {color=#ffc9a2}(EL GRAN CUERNO DE UNICORNIO){/color} "
 
 # game/Room_01_Ordi.rpy:664
 msgid " {color=#da96ff}(MELISSANDRE_01){/color} "
-msgstr ""
+msgstr " {color=#da96ff}(MELISSANDRE_01){/color} "
 
 # game/Room_01_Ordi.rpy:664
 msgid " {color=#da96ff}(EMEE_02){/color} "
-msgstr ""
+msgstr " {color=#da96ff}(EMEE_02){/color} "
 
 # game/Room_01_Ordi.rpy:664
 msgid " {color=#da96ff}(AMELIA_01){/color} "
-msgstr ""
+msgstr " {color=#da96ff}(AMELIA_01){/color} "
 
 # game/Room_01_Ordi.rpy:664
 msgid " {color=#da96ff}(TINKER_01){/color} "
-msgstr ""
+msgstr " {color=#da96ff}(TINKER_01){/color} "
 
 # game/Room_01_Ordi.rpy:664
 msgid " {color=#da96ff}(TINKER_02){/color} "
-msgstr ""
+msgstr " {color=#da96ff}(TINKER_02){/color} "
 
 # game/Room_01_Ordi.rpy:664
 msgid " {color=#da96ff}(TINKER_03){/color} "
-msgstr ""
+msgstr " {color=#da96ff}(TINKER_03){/color} "
 
 # game/Room_01_Ordi.rpy:664
 msgid " {color=#da96ff}(LYCORIS_01){/color} "
-msgstr ""
+msgstr " {color=#da96ff}(LYCORIS_01){/color} "
 
 # game/Room_01_Ordi.rpy:664
 msgid " {color=#da96ff}(LYCORIS_02){/color} "
-msgstr ""
+msgstr " {color=#da96ff}(LYCORIS_02){/color} "
 
 # game/Room_01_Ordi.rpy:664
 msgid " {color=#da96ff}(LYCORIS_03){/color} "
-msgstr ""
+msgstr " {color=#da96ff}(LYCORIS_03){/color} "
 
 # game/Room_01_Ordi.rpy:664
 msgid " {color=#da96ff}(SNOW_WHITE_01){/color} "
-msgstr ""
+msgstr " {color=#da96ff}(BALNCANIEVES_01){/color} "
 
 # game/Room_01_Ordi.rpy:664
 msgid " {color=#da96ff}(DJIN_01){/color} "
-msgstr ""
+msgstr " {color=#da96ff}(DJIN_01){/color} "
 
 # game/Room_01_Ordi.rpy:789
 msgid "== {color=#797979}Cheat codes are currently deactivated{/color} ==\n"
 "{size=20}== Cheat codes are available after entering a Patreon code. ({a=https://www.patreon.com/Salty01_NSFW}{color=#fc9c63}Patreon page here{/color}{/a}) =={/size} \n"
 "{size=20}== "
-msgstr ""
+msgstr "== {color=#797979}Los códigos de trucos están actualmente desactivados{/color} ==\n"
+"{size=20}== Los códigos de trucos están disponibles después de ingresar un código de Patreon. ({a=https://www.patreon.com/Salty01_NSFW}{color=#fc9c63}Página de Patreon aquí{/color}{/a}) =={/size}\n"
+"{tamaño=20}== "
 
 # game/Room_01_Ordi.rpy:789
 msgid "== +800 Credits =="
-msgstr ""
+msgstr "== +800 Créditos =="
 
 # game/Room_01_Ordi.rpy:789
 msgid "{color=#797979}== +25 Clothes Scraps =={/color}"
-msgstr ""
+msgstr "{color=#797979}== +25 Restos de ropa =={/color}"
 
 # game/Room_01_Ordi.rpy:789
 msgid "{color=#797979}== +10 Clothes Data =={/color}"
-msgstr ""
+msgstr "{color=#797979}== +10 Datos de ropa =={/color}"
 
 # game/Room_01_Ordi.rpy:789
 msgid "{color=#797979}== +2 Character Data =={/color}"
-msgstr ""
+msgstr "{color=#797979}== +2 Datos de personaje =={/color}"
 
 # game/Room_01_Ordi.rpy:789
 msgid "{color=#797979}== Change your name =={/color}"
-msgstr ""
+msgstr "{color=#797979}== Cambia tu nombre =={/color}"
 
 # game/Room_01_Ordi.rpy:789
 msgid "{color=#ff9865}Activate the cheat codes{/color} {image=heart07.png}"
-msgstr ""
+msgstr "{color=#ff9865}Activar los códigos de trucos{/color} {image=heart07.png}"
 
 # game/Room_01_Ordi.rpy:789
 msgid "Disable cheat codes option (Recommended)"
-msgstr ""
+msgstr "Desactivar la opción de códigos de trucos (Recomendado)"
 
 # game/Room_01_Ordi.rpy:831
 msgid "(This action is definitive)"
-msgstr ""
+msgstr "(Esta acción es definitiva)"
 
 # game/Room_01_Ordi.rpy:847
 msgid "{size=20}== {color=#797979}Cheat codes are currently{/color} {color=#f2923c}ACTIVE{/color} =={/size}\n"
 "== You have : {color=#a0fc86}[CHEATPOINTS]{/color} Cheat Points (CP) ==\n"
 "{size=20}== You have:{color=#a0fc86} [MONEY] Credits {/color}/{color=#a0fc86} [IMAGEDATA] Image Datas {/color}/{color=#3c96f2} [CLOTHEDATA] Clothes Data {/color}/{color=#f2923c} [CHARADATA] Character Datas {/color} =={/size}\n"
 "=="
-msgstr ""
+msgstr "{size=20}== {color=#797979}Los códigos de trucos están actualmente{/color} {color=#f2923c}ACTIVOS{/color} =={/size}\n"
+"== Tienes: {color=#a0fc86}[CHEATPOINTS]{/color} Puntos de trucos (CP) ==\n"
+"{size=20}== Tienes:{color=#a0fc86} [DINERO] Créditos {/color}/{color=#a0fc86} [IMAGEDATA] Datos de imagen {/color}/{color=#3c96f2} [CLOTHEDATA] Datos de ropa {/color}/{color=#f2923c} [CHARADATA] Datos de personajes {/color} =={/size}\n"
+"=="
 
 # game/Room_01_Ordi.rpy:847
 msgid "== +800 {color=#a0fc86}Credits{/color} == {color=#a0fc86}1CP{/color}"
-msgstr ""
+msgstr "== +800 {color=#a0fc86}Créditos{/color} == {color=#a0fc86}1CP{/color}"
 
 # game/Room_01_Ordi.rpy:847
 msgid "== +25 Clothes Scraps == {color=#a0fc86}1CP{/color}"
-msgstr ""
+msgstr "== +25 Restos de ropa == {color=#a0fc86} 1CP {/color}"
 
 # game/Room_01_Ordi.rpy:847
 msgid "== +10 {color=#3c96f2}Clothes Data{/color} == {color=#a0fc86}1CP{/color}"
-msgstr ""
+msgstr "== +10 {color=#3c96f2}Datos de ropa{/color} == {color=#a0fc86}1CP{/color}"
 
 # game/Room_01_Ordi.rpy:847
 msgid "== +2 {color=#f2923c}Character Data{/color} == {color=#a0fc86}1CP{/color}"
-msgstr ""
+msgstr "== +2 {color=#f2923c}Datos de personaje{/color} == {color=#a0fc86}1CP{/color}"
 
 # game/Room_01_Ordi.rpy:847
 msgid "== Change your name == {color=#a0fc86}Free (One Time){/color}"
-msgstr ""
+msgstr "== Cambiar tu nombre == {color=#a0fc86}Gratis (Una vez){/color}"
 
 # game/Room_01_Ordi.rpy:847
 msgid "== Change your name == {color=#a0fc86}1CP{/color}"
-msgstr ""
+msgstr "== Cambiar tu nombre == {color=#a0fc86}1CP{/color}"
 
