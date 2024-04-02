@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-03-19 16:08\n"
+"PO-Revision-Date: 2024-04-02 10:49\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_LY.rpy:80 #-#-# translate crowdin Cell01_LY_QuestActivations_d1d09770:
 msgid "[_ly_] Hi cutie."
@@ -1690,7 +1690,7 @@ msgstr "..."
 
 # game/Cell01_LY.rpy:1299 #-#-# translate crowdin QuestChap2_LySZ_ClothesQuest01_02_5ae7d05c:
 msgid "[_a_] Hi! If you're looking for Lycoris, I think she's gone for a shower. "
-msgstr "[ _a_ ] Salut ! Si vous cherchez Lycoris, je pense qu'elle est partie pour une douche. "
+msgstr "[_a_] Salut ! Si vous cherchez Lycoris, je pense qu'elle est partie pour une douche. "
 
 # game/Cell01_LY.rpy:1300 #-#-# translate crowdin QuestChap2_LySZ_ClothesQuest01_02_a50d924f:
 msgid "[_u_] Oh... I had to see her about Scheherazade's clothes... "
@@ -1702,19 +1702,19 @@ msgstr "[ _u_ ] Tu sais quand elle sera de retour? "
 
 # game/Cell01_LY.rpy:1303 #-#-# translate crowdin QuestChap2_LySZ_ClothesQuest01_02_9b9b06b6:
 msgid "[_a_] Wow, I have no idea! "
-msgstr "[ _a_ ] Wow, je n'ai aucune idée ! "
+msgstr "[_a_] Wow, je n'ai aucune idée ! "
 
 # game/Cell01_LY.rpy:1305 #-#-# translate crowdin QuestChap2_LySZ_ClothesQuest01_02_c41cc56f:
 msgid "[_a_] I've been waiting for an hour for her to come back so I can take a shower too. "
-msgstr "[ _a_ ] J'ai attendu une heure pour qu'elle revienne pour que je puisse prendre une douche aussi. "
+msgstr "[_a_] J'ai attendu une heure pour qu'elle revienne pour que je puisse prendre une douche aussi. "
 
 # game/Cell01_LY.rpy:1307 #-#-# translate crowdin QuestChap2_LySZ_ClothesQuest01_02_b72aa488:
 msgid "[_a_] That chick could stay under hot water for a whole day!"
-msgstr "[ _a_ ] Ce poussin pourrait rester sous l'eau chaude pendant toute une journée !"
+msgstr "[_a_] Ce poussin pourrait rester sous l'eau chaude pendant toute une journée !"
 
 # game/Cell01_LY.rpy:1309 #-#-# translate crowdin QuestChap2_LySZ_ClothesQuest01_02_af7c7d72:
 msgid "[_a_] It's a good thing the hot water here is ilimited. "
-msgstr "[ _a_ ] C'est une bonne chose que l'eau chaude ici soit ilimitée. "
+msgstr "[_a_] C'est une bonne chose que l'eau chaude ici soit ilimitée. "
 
 # game/Cell01_LY.rpy:1310 #-#-# translate crowdin QuestChap2_LySZ_ClothesQuest01_02_5aff2ebe:
 msgid "[_u_] I see..."
@@ -1722,11 +1722,11 @@ msgstr "[ _u_ ] Je vois ..."
 
 # game/Cell01_LY.rpy:1312 #-#-# translate crowdin QuestChap2_LySZ_ClothesQuest01_02_972c6db6:
 msgid "[_a_] By the way, things are going well with Sherazade!"
-msgstr "[ _a_ ] Au fait, les choses vont bien avec Sherazade !"
+msgstr "[_a_] Au fait, les choses vont bien avec Sherazade !"
 
 # game/Cell01_LY.rpy:1314 #-#-# translate crowdin QuestChap2_LySZ_ClothesQuest01_02_b16c1028:
 msgid "[_a_] She's finally taken her top off!"
-msgstr "[ _a_ ] Elle a finalement pris son top !"
+msgstr "[_a_] Elle a finalement pris son top !"
 
 # game/Cell01_LY.rpy:1316 #-#-# translate crowdin QuestChap2_LySZ_ClothesQuest01_02_2c2a41a8:
 msgid "[_u_] I'll claim victory when I finally see her breasts."
@@ -1734,11 +1734,11 @@ msgstr "[ _u_ ] Je vais demander la victoire quand je vois enfin ses seins."
 
 # game/Cell01_LY.rpy:1332 #-#-# translate crowdin QuestChap2_LySZ_ClothesQuest01_02_P1_85ee6c17:
 msgid "[_a_] I'm working on Sherazade's future scenario."
-msgstr "[ _a_ ] Je travaille sur le futur scénario de Sherazade."
+msgstr "[_a_] Je travaille sur le futur scénario de Sherazade."
 
 # game/Cell01_LY.rpy:1334 #-#-# translate crowdin QuestChap2_LySZ_ClothesQuest01_02_P1_cb9c3ade:
 msgid "[_a_] And I must confess that I draw a lot of inspiration from your corruption work! "
-msgstr "[ _a_ ] Et je dois avouer que je tire beaucoup d'inspiration de votre travail de corruption ! "
+msgstr "[_a_] Et je dois avouer que je tire beaucoup d'inspiration de votre travail de corruption ! "
 
 # game/Cell01_LY.rpy:1336 #-#-# translate crowdin QuestChap2_LySZ_ClothesQuest01_02_P1_f6d821b6:
 msgid "[_u_] So I've become a kind of muse?"
@@ -1746,11 +1746,11 @@ msgstr "[ _u_ ] Alors je suis devenu une sorte de muse?"
 
 # game/Cell01_LY.rpy:1338 #-#-# translate crowdin QuestChap2_LySZ_ClothesQuest01_02_P1_2fc17846:
 msgid "[_a_] If it makes you happy."
-msgstr "[ _a_ ] Si ça te rend heureux."
+msgstr "[_a_] Si ça te rend heureux."
 
 # game/Cell01_LY.rpy:1340 #-#-# translate crowdin QuestChap2_LySZ_ClothesQuest01_02_P1_45236733:
 msgid "[_a_] Anyway, future park visitors won't be disappointed I think! Ahah!"
-msgstr "[ _a_ ] En tout cas, les futurs visiteurs du parc ne seront pas déçus. Ahah !"
+msgstr "[_a_] En tout cas, les futurs visiteurs du parc ne seront pas déçus. Ahah !"
 
 # game/Cell01_LY.rpy:1342 #-#-# translate crowdin QuestChap2_LySZ_ClothesQuest01_02_P1_a454c89f:
 msgid "[_u_] I'm almost jealous of them. "
@@ -1758,27 +1758,27 @@ msgstr "[ _u_ ] Je suis presque jaloux d'eux. "
 
 # game/Cell01_LY.rpy:1344 #-#-# translate crowdin QuestChap2_LySZ_ClothesQuest01_02_P1_f626c495:
 msgid "[_a_] Same."
-msgstr "[ _a_ ] Même."
+msgstr "[_a_] Même."
 
 # game/Cell01_LY.rpy:1352 #-#-# translate crowdin QuestChap2_LySZ_ClothesQuest01_02_P2_65fd65d7:
 msgid "[_a_] Well, yes!"
-msgstr "[ _a_ ] Eh bien, oui !"
+msgstr "[_a_] Eh bien, oui !"
 
 # game/Cell01_LY.rpy:1354 #-#-# translate crowdin QuestChap2_LySZ_ClothesQuest01_02_P2_8a86e2a8:
 msgid "[_a_] I need to know where her corruption stands!"
-msgstr "[ _a_ ] J'ai besoin de savoir où se trouve sa corruption !"
+msgstr "[_a_] J'ai besoin de savoir où se trouve sa corruption !"
 
 # game/Cell01_LY.rpy:1356 #-#-# translate crowdin QuestChap2_LySZ_ClothesQuest01_02_P2_30f06208:
 msgid "[_a_] It's going to be hard to help you otherwise. "
-msgstr "[ _a_ ] Il sera difficile de vous aider autrement. "
+msgstr "[_a_] Il sera difficile de vous aider autrement. "
 
 # game/Cell01_LY.rpy:1358 #-#-# translate crowdin QuestChap2_LySZ_ClothesQuest01_02_P2_7724dfda:
 msgid "[_a_] But... I have to admit that when things get more... sexual... "
-msgstr "[ _a_ ] Mais ... Je dois admettre que lorsque les choses sont plus ... sexuelles ... "
+msgstr "[_a_] Mais ... Je dois admettre que lorsque les choses sont plus ... sexuelles ... "
 
 # game/Cell01_LY.rpy:1360 #-#-# translate crowdin QuestChap2_LySZ_ClothesQuest01_02_P2_a5cfb354:
 msgid "[_a_] I'm not sure I'd watch you do dirty things with her!"
-msgstr "[ _a_ ] Je ne suis pas sûr de vous voir faire des choses sales avec elle !"
+msgstr "[_a_] Je ne suis pas sûr de vous voir faire des choses sales avec elle !"
 
 # game/Cell01_LY.rpy:1362 #-#-# translate crowdin QuestChap2_LySZ_ClothesQuest01_02_P2_a7d26f1b:
 msgid "[_u_] Ah? Why's that?"
@@ -1786,7 +1786,7 @@ msgstr "[ _u_ ] Ah? Pourquoi?"
 
 # game/Cell01_LY.rpy:1364 #-#-# translate crowdin QuestChap2_LySZ_ClothesQuest01_02_P2_0186fd56:
 msgid "[_a_] Well, it's... still you fucking someone! I don't want to be a Peeping Tom. "
-msgstr "[ _a_ ] Eh bien, c'est ... tu putain encore quelqu'un ! Je ne veux pas être un Peeping Tom. "
+msgstr "[_a_] Eh bien, c'est ... tu putain encore quelqu'un ! Je ne veux pas être un Peeping Tom. "
 
 # game/Cell01_LY.rpy:1365 #-#-# translate crowdin QuestChap2_LySZ_ClothesQuest01_02_P2_0805f950:
 msgid "[_u_] That's very kind of you. But I really don't mind. "
@@ -1798,11 +1798,11 @@ msgstr "[_a_] Vraiment ? "
 
 # game/Cell01_LY.rpy:1369 #-#-# translate crowdin QuestChap2_LySZ_ClothesQuest01_02_P2_58705e71:
 msgid "[_a_] Well... I don't know how you do that."
-msgstr "[ _a_ ] Eh bien ... Je ne sais pas comment tu fais ça."
+msgstr "[_a_] Eh bien ... Je ne sais pas comment tu fais ça."
 
 # game/Cell01_LY.rpy:1371 #-#-# translate crowdin QuestChap2_LySZ_ClothesQuest01_02_P2_694017dd:
 msgid "[_a_] I'm not sure if I could let someone watch me have sex so easily!"
-msgstr "[ _a_ ] Je ne suis pas sûr que je puisse laisser quelqu'un me regarder faire le sexe si facilement !"
+msgstr "[_a_] Je ne suis pas sûr que je puisse laisser quelqu'un me regarder faire le sexe si facilement !"
 
 # game/Cell01_LY.rpy:1372 #-#-# translate crowdin QuestChap2_LySZ_ClothesQuest01_02_P2_f843ed42:
 msgid "[_u_] It takes time to get rid of modesty. I mean... if you want to get rid of it."
@@ -1814,23 +1814,23 @@ msgstr "[ _u_ ] Il n'y a rien de mal à être modeste. "
 
 # game/Cell01_LY.rpy:1376 #-#-# translate crowdin QuestChap2_LySZ_ClothesQuest01_02_P2_0b0aad28:
 msgid "[_a_] I wouldn't mind being a little less... uptight on certain subjects. "
-msgstr "[ _a_ ] Je ne voudrais pas être un peu moins ... tendu sur certains sujets. "
+msgstr "[_a_] Je ne voudrais pas être un peu moins ... tendu sur certains sujets. "
 
 # game/Cell01_LY.rpy:1385 #-#-# translate crowdin QuestChap2_LySZ_ClothesQuest01_02_P3_08699262:
 msgid "[_a_] Like... It's hard for me to get into the shower at the same time as someone else. "
-msgstr "[ _a_ ] Comme ... C'est dur pour moi d'entrer dans la douche en même temps que quelqu'un d'autre. "
+msgstr "[_a_] Comme ... C'est dur pour moi d'entrer dans la douche en même temps que quelqu'un d'autre. "
 
 # game/Cell01_LY.rpy:1387 #-#-# translate crowdin QuestChap2_LySZ_ClothesQuest01_02_P3_42f9dcb3:
 msgid "[_a_] I mean, just so we're clear, in private I have no problem being naked!"
-msgstr "[ _a_ ] Je veux dire, juste pour que nous soyons clairs, en privé, je n'ai aucun problème à être nu !"
+msgstr "[_a_] Je veux dire, juste pour que nous soyons clairs, en privé, je n'ai aucun problème à être nu !"
 
 # game/Cell01_LY.rpy:1389 #-#-# translate crowdin QuestChap2_LySZ_ClothesQuest01_02_P3_95a76385:
 msgid "[_a_] I'm not a nun!"
-msgstr "[ _a_ ] Je ne suis pas une nonne !"
+msgstr "[_a_] Je ne suis pas une nonne !"
 
 # game/Cell01_LY.rpy:1391 #-#-# translate crowdin QuestChap2_LySZ_ClothesQuest01_02_P3_9bb48516:
 msgid "[_a_] But being naked in public... I don't know how you do that."
-msgstr "[ _a_ ] Mais être nu en public ... Je ne sais pas comment tu fais ça."
+msgstr "[_a_] Mais être nu en public ... Je ne sais pas comment tu fais ça."
 
 # game/Cell01_LY.rpy:1392 #-#-# translate crowdin QuestChap2_LySZ_ClothesQuest01_02_P3_97d40469:
 msgid "[_u_] Have you ever just kind of... shown people your boobs for fun? "
@@ -1838,7 +1838,7 @@ msgstr "[ _u_ ] As-tu déjà ... montré aux gens tes seins pour le plaisir? "
 
 # game/Cell01_LY.rpy:1394 #-#-# translate crowdin QuestChap2_LySZ_ClothesQuest01_02_P3_3f246fd3:
 msgid "[_a_] If I'd done that, my breasts would have been on the front page of celebrity magazines for two weeks."
-msgstr "[ _a_ ] Si j'avais fait ça, mes seins auraient été sur la première page des magazines de célébrités pendant deux semaines."
+msgstr "[_a_] Si j'avais fait ça, mes seins auraient été sur la première page des magazines de célébrités pendant deux semaines."
 
 # game/Cell01_LY.rpy:1395 #-#-# translate crowdin QuestChap2_LySZ_ClothesQuest01_02_P3_4fb05bda:
 msgid "[_u_] Really? Two weeks? "
@@ -1846,11 +1846,11 @@ msgstr "[ _u_ ] Vraiement? Deux semaines? "
 
 # game/Cell01_LY.rpy:1397 #-#-# translate crowdin QuestChap2_LySZ_ClothesQuest01_02_P3_c7caa925:
 msgid "[_a_] A photo of me in a bikini at the beach was once on the front cover for a week. "
-msgstr "[ _a_ ] Une photo de moi dans un bikini à la plage était une fois sur la couverture avant pendant une semaine. "
+msgstr "[_a_] Une photo de moi dans un bikini à la plage était une fois sur la couverture avant pendant une semaine. "
 
 # game/Cell01_LY.rpy:1399 #-#-# translate crowdin QuestChap2_LySZ_ClothesQuest01_02_P3_3c8780fe:
 msgid "[_a_] So yes, a boob shot, that's at least two weeks."
-msgstr "[ _a_ ] Donc oui, un coup de feu, c'est au moins deux semaines."
+msgstr "[_a_] Donc oui, un coup de feu, c'est au moins deux semaines."
 
 # game/Cell01_LY.rpy:1400 #-#-# translate crowdin QuestChap2_LySZ_ClothesQuest01_02_P3_f8565a86:
 msgid "[_u_] What if a sex tape leaks? "
@@ -1858,19 +1858,19 @@ msgstr "[ _u_ ] Que faire si une bande de sexe fuit? "
 
 # game/Cell01_LY.rpy:1402 #-#-# translate crowdin QuestChap2_LySZ_ClothesQuest01_02_P3_59f35719:
 msgid "[_a_] I don't think the galaxy would never recover from that! Ahah!"
-msgstr "[ _a_ ] Je ne pense pas que la galaxie ne se rétablirait jamais de ça ! Ahah !"
+msgstr "[_a_] Je ne pense pas que la galaxie ne se rétablirait jamais de ça ! Ahah !"
 
 # game/Cell01_LY.rpy:1411 #-#-# translate crowdin QuestChap2_LySZ_ClothesQuest01_02_P4_aa2567bb:
 msgid "[_a_] Of course, on my private beach, surrounded by walls and barbed wire."
-msgstr "[ _a_ ] Bien sûr, sur ma plage privée, entouré de murs et de barbelés."
+msgstr "[_a_] Bien sûr, sur ma plage privée, entouré de murs et de barbelés."
 
 # game/Cell01_LY.rpy:1413 #-#-# translate crowdin QuestChap2_LySZ_ClothesQuest01_02_P4_1e351cb8:
 msgid "[_a_] And all my household staff had to be blindfolded. "
-msgstr "[ _a_ ] Et tout le personnel de mon ménage devait être les yeux bandés. "
+msgstr "[_a_] Et tout le personnel de mon ménage devait être les yeux bandés. "
 
 # game/Cell01_LY.rpy:1415 #-#-# translate crowdin QuestChap2_LySZ_ClothesQuest01_02_P4_6f253257:
 msgid "[_a_] On the other hand, it was much harder for them to serve me mojitos."
-msgstr "[ _a_ ] D'autre part, il était beaucoup plus difficile pour eux de me servir de mojitos."
+msgstr "[_a_] D'autre part, il était beaucoup plus difficile pour eux de me servir de mojitos."
 
 # game/Cell01_LY.rpy:1416 #-#-# translate crowdin QuestChap2_LySZ_ClothesQuest01_02_P4_3983eb8d:
 msgid "[_u_] You're making fun of me, right?"
@@ -1878,19 +1878,19 @@ msgstr "[ _u_ ] Tu me moque de moi, non?"
 
 # game/Cell01_LY.rpy:1418 #-#-# translate crowdin QuestChap2_LySZ_ClothesQuest01_02_P4_b42bf1bb:
 msgid "[_a_] Completely."
-msgstr "[ _a_ ] Complètement."
+msgstr "[_a_] Complètement."
 
 # game/Cell01_LY.rpy:1420 #-#-# translate crowdin QuestChap2_LySZ_ClothesQuest01_02_P4_b00aadca:
 msgid "[_a_] So... no, I've never been naked at the beach. "
-msgstr "[ _a_ ] Donc ... non, je n'ai jamais été nu à la plage. "
+msgstr "[_a_] Donc ... non, je n'ai jamais été nu à la plage. "
 
 # game/Cell01_LY.rpy:1430 #-#-# translate crowdin QuestChap2_LySZ_ClothesQuest01_02_P4_454b9d3f:
 msgid "[_a_] Frankly, if you don't want to wait, go and see if she's still in the showers. "
-msgstr "[ _a_ ] Franchement, si vous ne voulez pas attendre, allez voir si elle est toujours dans les douches. "
+msgstr "[_a_] Franchement, si vous ne voulez pas attendre, allez voir si elle est toujours dans les douches. "
 
 # game/Cell01_LY.rpy:1432 #-#-# translate crowdin QuestChap2_LySZ_ClothesQuest01_02_P4_dd22c4b9:
 msgid "[_a_] At worst you'll see a red butt!"
-msgstr "[ _a_ ] Au pire, vous verrez un cul rouge !"
+msgstr "[_a_] Au pire, vous verrez un cul rouge !"
 
 # game/Cell01_LY.rpy:1433 #-#-# translate crowdin QuestChap2_LySZ_ClothesQuest01_02_P4_45c3bea1:
 msgid "[_u_] Are you encouraging me to go see her so she can get out of the shower faster? "
