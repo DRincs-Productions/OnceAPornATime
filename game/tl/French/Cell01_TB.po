@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-03-24 21:35\n"
+"PO-Revision-Date: 2024-04-02 10:50\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_TB.rpy:29 #-#-# translate crowdin Cell01_TB_126a6d5f:
 msgid "[_tb_] I'll be there in a second."
@@ -1663,7 +1663,7 @@ msgstr " Pourquoi personne n'est venu sur cette planète avant moi? "
 
 # game/Cell01_TB.rpy:406
 msgid " What's this ''Gallery'' on the computer? "
-msgstr " Quelle est cette '' Galerie''sur l'ordinateur? "
+msgstr " Qu'est-ce que cette \"galerie\" sur l'ordinateur ? "
 
 # game/Cell01_TB.rpy:406
 msgid " That's all I wanted to know for now. "
