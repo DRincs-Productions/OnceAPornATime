@@ -10,43 +10,43 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-02-26 13:31\n"
+"PO-Revision-Date: 2024-04-02 09:51\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Scene2jm02.rpy:5 #-#-# translate crowdin Quest_JM_Favor_Feather1_03_f924725a:
 msgid "[_a_] Absolutely perfect."
-msgstr ""
+msgstr "[_a_] 绝对完美。"
 
 # game/Scene2jm02.rpy:7 #-#-# translate crowdin Quest_JM_Favor_Feather1_03_12808315:
 msgid "[_a_] Honestly, is there anything you can't find on this planet?"
-msgstr ""
+msgstr "[_a_] 老实说，有什么是你在这颗星球上找不到的吗？"
 
 # game/Scene2jm02.rpy:8 #-#-# translate crowdin Quest_JM_Favor_Feather1_03_d073ed6a:
 msgid "[_u_] A paid vacation, a written contract and a double bed in an employee's room"
-msgstr ""
+msgstr "[_u_] 带薪休假，书面合同和有双人床的员工房间。"
 
 # game/Scene2jm02.rpy:10 #-#-# translate crowdin Quest_JM_Favor_Feather1_03_3b00869f:
 msgid "[_a_] It's true that I too have a single bed... "
-msgstr ""
+msgstr "[_a_] 确实，我房间里也只有一张单人床... "
 
 # game/Scene2jm02.rpy:12 #-#-# translate crowdin Quest_JM_Favor_Feather1_03_18f332b8:
 msgid "[_a_] Maybe at the time, they were afraid of employees fucking each other. "
-msgstr ""
+msgstr "[_a_] 可能他们在装修的时候怕员工搞地下情。 "
 
 # game/Scene2jm02.rpy:13 #-#-# translate crowdin Quest_JM_Favor_Feather1_03_e67f7007:
 msgid "[_u_] Luckily, Emee has a giant bed in her ship. "
-msgstr ""
+msgstr "[_u_] 不过幸好，埃梅在她的床上有一张巨大的床。 "
 
 # game/Scene2jm02.rpy:15 #-#-# translate crowdin Quest_JM_Favor_Feather1_03_e017c15c:
 msgid "[_a_] Is that bragging, or an invitation? "
-msgstr ""
+msgstr "[_a_] 你这是在吹嘘，还是在邀请？ "
 
 # game/Scene2jm02.rpy:16 #-#-# translate crowdin Quest_JM_Favor_Feather1_03_d55a56e4:
 msgid "[_u_] I..."
-msgstr ""
+msgstr "[_u_] 我..."
 
 # game/Scene2jm02.rpy:18 #-#-# translate crowdin Quest_JM_Favor_Feather1_03_2f0a65e7:
 msgid "[_a_] Anyway... listen to me carefully..."
-msgstr ""
+msgstr "[_a_] 总之... 仔细听好我说的话..."
 
 # game/Scene2jm02.rpy:20 #-#-# translate crowdin Quest_JM_Favor_Feather1_03_f6980feb:
 msgid "[_a_] Here's what you have to do:"
