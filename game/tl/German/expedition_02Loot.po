@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2024-03-28 20:51\n"
+"PO-Revision-Date: 2024-04-02 08:00\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/expedition_02Loot.rpy:230 #-#-# translate crowdin Expedition_02_CHEST_94315d50:
 msgid "[_u_] It's some kind of locked chest... "
@@ -26,7 +26,7 @@ msgstr ""
 
 # game/expedition_02Loot.rpy:238 #-#-# translate crowdin EXPD_CHEST01_595302fd:
 msgid "''- PI (3 DIGITS) ''"
-msgstr ""
+msgstr "''-PI (3 ZIFFERN)\""
 
 # game/expedition_02Loot.rpy:246 #-#-# translate crowdin EXPD_CHEST01_6c737f2c:
 msgid "WRONG."
