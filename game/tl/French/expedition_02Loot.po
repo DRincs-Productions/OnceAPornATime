@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-03-19 16:09\n"
+"PO-Revision-Date: 2024-04-02 10:50\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/expedition_02Loot.rpy:230 #-#-# translate crowdin Expedition_02_CHEST_94315d50:
 msgid "[_u_] It's some kind of locked chest... "
@@ -42,7 +42,7 @@ msgstr "MAUVAIS."
 
 # game/expedition_02Loot.rpy:274 #-#-# translate crowdin EXPD_CHEST03_36db4aaa:
 msgid "''- GUESS I'LL ''"
-msgstr "\"-DEVINE I'LL\""
+msgstr "''- JE SUPPOSE QUE JE VAIS ''"
 
 # game/expedition_02Loot.rpy:282 #-#-# translate crowdin EXPD_CHEST03_6c737f2c:
 msgid "WRONG."
@@ -74,7 +74,7 @@ msgstr "MAUVAIS."
 
 # game/expedition_02Loot.rpy:346 #-#-# translate crowdin EXPD_CHEST07_1dc19184:
 msgid "''- IT'S LEVIOSA NOT LEVIOSAAAAA''"
-msgstr "''-IT'S LEVIOSA NOT LEVIOSAAAAA''"
+msgstr "''-C'EST LEVIOSA ET NON LEVIOSAAAAA''"
 
 # game/expedition_02Loot.rpy:357 #-#-# translate crowdin EXPD_CHEST07_6c737f2c:
 msgid "WRONG."
@@ -106,7 +106,7 @@ msgstr "MAUVAIS."
 
 # game/expedition_02Loot.rpy:424 #-#-# translate crowdin EXPD_CHEST11_e0fc9cfe:
 msgid "''- WINNER WINNER CHICKEN''"
-msgstr "''-POULET GAGNANT GAGNANT''"
+msgstr "''- POULET GAGNANT''"
 
 # game/expedition_02Loot.rpy:432 #-#-# translate crowdin EXPD_CHEST11_6c737f2c:
 msgid "WRONG."
@@ -246,7 +246,7 @@ msgstr "[_a_] Super !"
 
 # game/expedition_02Loot.rpy:816 #-#-# translate crowdin Expedition_02_QuestsLvl2_bcfa6146:
 msgid "[_a_] I think there's only one left. "
-msgstr "[ _a_ ] Je pense qu'il n'y a qu'une gauche. "
+msgstr "[_a_] Je pense qu'il n'y a qu'une gauche. "
 
 # game/expedition_02Loot.rpy:817 #-#-# translate crowdin Expedition_02_QuestsLvl2_6d15fede:
 msgid "[_u_] Okay, I'll see if I can find it. "
@@ -254,7 +254,7 @@ msgstr "[ _u_ ] Ok, je vais voir si je peux le trouver. "
 
 # game/expedition_02Loot.rpy:819 #-#-# translate crowdin Expedition_02_QuestsLvl2_f3bb4d31:
 msgid "[_a_] Merci [name]!"
-msgstr "[ _a_ ] Merci [ nom ] !"
+msgstr "[_a_] Merci [ nom ] !"
 
 # game/expedition_02Loot.rpy:839 #-#-# translate crowdin Expedition_02_QuestsLvl2_88834378:
 msgid "[_u_] And here's the last one!"
