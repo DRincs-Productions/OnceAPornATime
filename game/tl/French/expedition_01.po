@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-03-24 21:35\n"
+"PO-Revision-Date: 2024-04-02 10:50\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/expedition_01.rpy:72 #-#-# translate crowdin expedition_01lvl01_44b42dfd:
 msgid "The Drone have [ITEM_DRONE_EMERCELL01_UTILISATIONS] Emergency Energy Cell. ( [ITEM_DRONE_EMERCELL01] left in your inventory.) "
@@ -62,7 +62,7 @@ msgstr "[ _u_ ] Le Drone est arrivé !"
 
 # game/expedition_01.rpy:138 #-#-# translate crowdin Expedition_01_RANDOM_3c7ca7f8:
 msgid " The drone has no power left. "
-msgstr " Le drone n'a plus de pouvoir. "
+msgstr " Le drone n'a plus de puissance. "
 
 # game/expedition_01.rpy:140 #-#-# translate crowdin Expedition_01_RANDOM_69786a16:
 msgid " Do you want to use an Emergency Energy Cell ? ([ITEM_DRONE_EMERCELL01_UTILISATIONS] Emergency Energy Cell left) "
@@ -78,7 +78,7 @@ msgstr " COMMUNICATION PERDUE "
 
 # game/expedition_01.rpy:158 #-#-# translate crowdin Expedition_01_RANDOM_0215ef90:
 msgid " You're losing the drone inventory. ([MONEYLOOT] credits)"
-msgstr " Tu perds l'inventaire des drones. ([ MONEYLOOT ] crédits)"
+msgstr " Tu perds l'inventaire des drones. ([MONEYLOOT] crédits)"
 
 # game/expedition_01.rpy:169 #-#-# translate crowdin Expedition_01_RANDOM_0dd33ee6:
 msgid "It's a dead end! The Drone has to find a other way."
@@ -174,7 +174,7 @@ msgstr "[ _d_ ] == RECHERCHE DE LA ZONE ACTUELLE == "
 
 # game/expedition_01.rpy:310 #-#-# translate crowdin expedition_01_lvl1fouille_12381fc5:
 msgid " You found a {color=#ffc57a}TREASURE{/color}! [MINITEMP_TRESURELOOT] Credits ! "
-msgstr " Vous avez trouvé un { color=#ffc57a} TREASURE { /color } ! [ MINITEMP_TRESURELOOT ] Crédits ! "
+msgstr " Vous avez trouvé un {color=#ffc57a}TRÉSOR{/color}! [MINITEMP_TRESURELOOT] Credits ! "
 
 # game/expedition_01.rpy:314 #-#-# translate crowdin expedition_01_lvl1fouille_a6944b3f:
 msgid "[_u_]  Let's keep moving forward "
@@ -222,7 +222,7 @@ msgstr "[ _u_ ] Allons de l'avant "
 
 # game/expedition_01.rpy:388 #-#-# translate crowdin expedition_01_lvl1fouille_74b2b8a4:
 msgid " You found a Clothes Data!!"
-msgstr " Vous avez trouvé des données de vêtements ! !"
+msgstr " Vous avez trouvé un vêtement Data !!"
 
 # game/expedition_01.rpy:398 #-#-# translate crowdin expedition_01_lvl1fouille_7bfae60a:
 msgid " You found 12 Credits ! "
@@ -234,7 +234,7 @@ msgstr "[ _u_ ] Allons de l'avant "
 
 # game/expedition_01.rpy:408 #-#-# translate crowdin expedition_01_lvl1fouille_d88356fa:
 msgid " You found a CHARACTER DATA!!"
-msgstr " Vous avez trouvé un CARACTERE ! !"
+msgstr " Vous avez trouvé un DONNÉES SUR LES CARACTERES!!"
 
 # game/expedition_01.rpy:415 #-#-# translate crowdin expedition_01_lvl1fouille_a6944b3f_4:
 msgid "[_u_]  Let's keep moving forward "
@@ -258,7 +258,7 @@ msgstr "[ _u_ ] Allons de l'avant "
 
 # game/expedition_01.rpy:450 #-#-# translate crowdin expedition_01_lvl1fouille_LVL3basics_74b2b8a4:
 msgid " You found a Clothes Data!!"
-msgstr " Vous avez trouvé des données de vêtements ! !"
+msgstr " Vous avez trouvé un vêtement Data !!"
 
 # game/expedition_01.rpy:459 #-#-# translate crowdin expedition_01_lvl1fouille_LVL3basics_7bfae60a:
 msgid " You found 12 Credits ! "
@@ -270,7 +270,7 @@ msgstr "[ _u_ ] Allons de l'avant "
 
 # game/expedition_01.rpy:469 #-#-# translate crowdin expedition_01_lvl1fouille_LVL3basics_d88356fa:
 msgid " You found a CHARACTER DATA!!"
-msgstr " Vous avez trouvé un CARACTERE ! !"
+msgstr " Vous avez trouvé un DONNÉES SUR LES CARACTERES!!"
 
 # game/expedition_01.rpy:475 #-#-# translate crowdin expedition_01_lvl1fouille_LVL3basics_a6944b3f_2:
 msgid "[_u_]  Let's keep moving forward "
@@ -278,7 +278,7 @@ msgstr "[ _u_ ] Allons de l'avant "
 
 # game/expedition_01.rpy:486 #-#-# translate crowdin Expedition_01_Credits_160d5ee9:
 msgid " You found [MINITEMP_MONEYLOOT] Credits ! "
-msgstr " Vous avez trouvé [ MINITEMP_MONEYLOOT ] Crédits ! "
+msgstr " Vous avez trouvé [MINITEMP_MONEYLOOT] Crédits ! "
 
 # game/expedition_01.rpy:490 #-#-# translate crowdin Expedition_01_Credits_a6944b3f:
 msgid "[_u_]  Let's keep moving forward "
@@ -286,7 +286,7 @@ msgstr "[ _u_ ] Allons de l'avant "
 
 # game/expedition_01.rpy:497 #-#-# translate crowdin Expedition_01_Credits_160d5ee9_1:
 msgid " You found [MINITEMP_MONEYLOOT] Credits ! "
-msgstr " Vous avez trouvé [ MINITEMP_MONEYLOOT ] Crédits ! "
+msgstr " Vous avez trouvé [MINITEMP_MONEYLOOT] Crédits ! "
 
 # game/expedition_01.rpy:501 #-#-# translate crowdin Expedition_01_Credits_a6944b3f_1:
 msgid "[_u_]  Let's keep moving forward "
@@ -294,7 +294,7 @@ msgstr "[ _u_ ] Allons de l'avant "
 
 # game/expedition_01.rpy:508 #-#-# translate crowdin Expedition_01_Credits_160d5ee9_2:
 msgid " You found [MINITEMP_MONEYLOOT] Credits ! "
-msgstr " Vous avez trouvé [ MINITEMP_MONEYLOOT ] Crédits ! "
+msgstr " Vous avez trouvé [MINITEMP_MONEYLOOT] Crédits ! "
 
 # game/expedition_01.rpy:512 #-#-# translate crowdin Expedition_01_Credits_a6944b3f_2:
 msgid "[_u_]  Let's keep moving forward "
@@ -302,7 +302,7 @@ msgstr "[ _u_ ] Allons de l'avant "
 
 # game/expedition_01.rpy:519 #-#-# translate crowdin Expedition_01_Credits_160d5ee9_3:
 msgid " You found [MINITEMP_MONEYLOOT] Credits ! "
-msgstr " Vous avez trouvé [ MINITEMP_MONEYLOOT ] Crédits ! "
+msgstr " Vous avez trouvé [MINITEMP_MONEYLOOT] Crédits ! "
 
 # game/expedition_01.rpy:523 #-#-# translate crowdin Expedition_01_Credits_a6944b3f_3:
 msgid "[_u_]  Let's keep moving forward "
@@ -310,7 +310,7 @@ msgstr "[ _u_ ] Allons de l'avant "
 
 # game/expedition_01.rpy:530 #-#-# translate crowdin Expedition_01_Credits_160d5ee9_4:
 msgid " You found [MINITEMP_MONEYLOOT] Credits ! "
-msgstr " Vous avez trouvé [ MINITEMP_MONEYLOOT ] Crédits ! "
+msgstr " Vous avez trouvé [MINITEMP_MONEYLOOT] Crédits ! "
 
 # game/expedition_01.rpy:534 #-#-# translate crowdin Expedition_01_Credits_a6944b3f_4:
 msgid "[_u_]  Let's keep moving forward "
@@ -318,7 +318,7 @@ msgstr "[ _u_ ] Allons de l'avant "
 
 # game/expedition_01.rpy:545 #-#-# translate crowdin Expedition_01_BluePrints_793b8363:
 msgid " You found an {color=#ffc57a} Unique BluePrint of Clothes or Hairstyle {/color} "
-msgstr " Vous avez trouvé un { color=#ffc57a} unique BluePrint of Clothes ou Hairstyle { /color } "
+msgstr " Vous avez trouvé un {color=#ffc57a} Schéma unique d'un vêtement ou d'une coiffure {/color} "
 
 # game/expedition_01.rpy:548 #-#-# translate crowdin Expedition_01_BluePrints_a6944b3f:
 msgid "[_u_]  Let's keep moving forward "
@@ -326,7 +326,7 @@ msgstr "[ _u_ ] Allons de l'avant "
 
 # game/expedition_01.rpy:555 #-#-# translate crowdin Expedition_01_BluePrints_793b8363_1:
 msgid " You found an {color=#ffc57a} Unique BluePrint of Clothes or Hairstyle {/color} "
-msgstr " Vous avez trouvé un { color=#ffc57a} unique BluePrint of Clothes ou Hairstyle { /color } "
+msgstr " Vous avez trouvé un {color=#ffc57a} Schéma unique d'un vêtement ou d'une coiffure {/color} "
 
 # game/expedition_01.rpy:558 #-#-# translate crowdin Expedition_01_BluePrints_a6944b3f_1:
 msgid "[_u_]  Let's keep moving forward "
@@ -334,7 +334,7 @@ msgstr "[ _u_ ] Allons de l'avant "
 
 # game/expedition_01.rpy:565 #-#-# translate crowdin Expedition_01_BluePrints_793b8363_2:
 msgid " You found an {color=#ffc57a} Unique BluePrint of Clothes or Hairstyle {/color} "
-msgstr " Vous avez trouvé un { color=#ffc57a} unique BluePrint of Clothes ou Hairstyle { /color } "
+msgstr " Vous avez trouvé un {color=#ffc57a} Schéma unique d'un vêtement ou d'une coiffure {/color} "
 
 # game/expedition_01.rpy:568 #-#-# translate crowdin Expedition_01_BluePrints_a6944b3f_2:
 msgid "[_u_]  Let's keep moving forward "
@@ -342,7 +342,7 @@ msgstr "[ _u_ ] Allons de l'avant "
 
 # game/expedition_01.rpy:575 #-#-# translate crowdin Expedition_01_BluePrints_793b8363_3:
 msgid " You found an {color=#ffc57a} Unique BluePrint of Clothes or Hairstyle {/color} "
-msgstr " Vous avez trouvé un { color=#ffc57a} unique BluePrint of Clothes ou Hairstyle { /color } "
+msgstr " Vous avez trouvé un {color=#ffc57a} Schéma unique d'un vêtement ou d'une coiffure {/color} "
 
 # game/expedition_01.rpy:578 #-#-# translate crowdin Expedition_01_BluePrints_a6944b3f_3:
 msgid "[_u_]  Let's keep moving forward "
@@ -350,7 +350,7 @@ msgstr "[ _u_ ] Allons de l'avant "
 
 # game/expedition_01.rpy:585 #-#-# translate crowdin Expedition_01_BluePrints_793b8363_4:
 msgid " You found an {color=#ffc57a} Unique BluePrint of Clothes or Hairstyle {/color} "
-msgstr " Vous avez trouvé un { color=#ffc57a} unique BluePrint of Clothes ou Hairstyle { /color } "
+msgstr " Vous avez trouvé un {color=#ffc57a} Schéma unique d'un vêtement ou d'une coiffure {/color} "
 
 # game/expedition_01.rpy:588 #-#-# translate crowdin Expedition_01_BluePrints_a6944b3f_4:
 msgid "[_u_]  Let's keep moving forward "
@@ -358,7 +358,7 @@ msgstr "[ _u_ ] Allons de l'avant "
 
 # game/expedition_01.rpy:595 #-#-# translate crowdin Expedition_01_BluePrints_793b8363_5:
 msgid " You found an {color=#ffc57a} Unique BluePrint of Clothes or Hairstyle {/color} "
-msgstr " Vous avez trouvé un { color=#ffc57a} unique BluePrint of Clothes ou Hairstyle { /color } "
+msgstr " Vous avez trouvé un {color=#ffc57a} Schéma unique d'un vêtement ou d'une coiffure {/color} "
 
 # game/expedition_01.rpy:598 #-#-# translate crowdin Expedition_01_BluePrints_a6944b3f_5:
 msgid "[_u_]  Let's keep moving forward "
@@ -366,7 +366,7 @@ msgstr "[ _u_ ] Allons de l'avant "
 
 # game/expedition_01.rpy:605 #-#-# translate crowdin Expedition_01_BluePrints_793b8363_6:
 msgid " You found an {color=#ffc57a} Unique BluePrint of Clothes or Hairstyle {/color} "
-msgstr " Vous avez trouvé un { color=#ffc57a} unique BluePrint of Clothes ou Hairstyle { /color } "
+msgstr " Vous avez trouvé un {color=#ffc57a} Schéma unique d'un vêtement ou d'une coiffure {/color} "
 
 # game/expedition_01.rpy:608 #-#-# translate crowdin Expedition_01_BluePrints_a6944b3f_6:
 msgid "[_u_]  Let's keep moving forward "
@@ -398,7 +398,7 @@ msgstr "Vous ouvrez la poitrine et ..."
 
 # game/expedition_01.rpy:667 #-#-# translate crowdin Expedition_01_CHEST01_QUESTFAKE_d9709c78:
 msgid " You found a {color=#ffc57a}CHARACTER DATA{/color}!!"
-msgstr " Vous avez trouvé un { color=#ffc57a} CHARACTER DATA { /color } ! !"
+msgstr " Vous avez trouvé une {color=#ffc57a}DONNÉES SUR LES PERSONNAGES{/color}!!"
 
 # game/expedition_01.rpy:672 #-#-# translate crowdin Expedition_01_CHEST01_QUESTFAKE_6c737f2c:
 msgid "WRONG."
@@ -418,7 +418,7 @@ msgstr " Non merci !"
 
 # game/expedition_01.rpy:141
 msgid "([ITEM_DRONE_EMERCELL01_UTILISATIONS] left)"
-msgstr "([ITEM_DRONE_EMERCELL01_UTILISATIONS ] à gauche)"
+msgstr "([ITEM_DRONE_EMERCELL01_UTILISATIONS] à gauche)"
 
 # game/expedition_01.rpy:141
 msgid "Yes, use (1) Emergency Energy Cell"
