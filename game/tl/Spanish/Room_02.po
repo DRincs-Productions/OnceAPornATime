@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-04-02 00:48\n"
+"PO-Revision-Date: 2024-04-02 01:57\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Room_02.rpy:32 #-#-# translate crowdin room02_cuve01_5548a552:
 msgid " = THE CHARACTER IN CREATION WILL BE AVAILABLE IN {color=#40cbf9}[CHARA_CREA_PROCEED_DAYLEFT]{/color} DAYS ="
@@ -78,25 +78,25 @@ msgstr "=Administrar drones automáticos="
 
 # game/Room_02.rpy:91
 msgid "$Laboratory"
-msgstr "$Laboratory Laboratorio"
+msgstr "$Laboratorio"
 
 # game/Room_02.rpy:91
 msgid "$Artistic Division"
-msgstr ""
+msgstr "División $Artistica"
 
 # game/Room_02.rpy:91
 msgid "$Amelia's Office"
-msgstr ""
+msgstr "Oficina de $Amelia"
 
 # game/Room_02.rpy:91
 msgid "$Showers"
-msgstr ""
+msgstr "$Duchas"
 
 # game/Room_02.rpy:91
 msgid "$Outside"
-msgstr ""
+msgstr "$Outside Afuera"
 
 # game/Room_02.rpy:91
 msgid "$Return"
-msgstr ""
+msgstr "$Return Volver"
 
