@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-04-02 22:13\n"
+"PO-Revision-Date: 2024-04-02 23:12\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Quest_Rooms_Separate02.rpy:125 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_peruche_1ffa9899:
 msgid "[_u_] What are you doing here? "
@@ -1118,15 +1118,15 @@ msgstr "[_u_] Todos los personajes aquí son androides. "
 
 # game/Quest_Rooms_Separate02.rpy:1031 #-#-# translate crowdin Quest_LY_Favor_Boobs01_Amandine01_02_639669eb:
 msgid "[_ly_] Are you sure you're okay?.... You're not making any sense at all."
-msgstr ""
+msgstr "[_ly_] ¿Estás seguro de que estás bien?... No tienes ningún sentido."
 
 # game/Quest_Rooms_Separate02.rpy:1032 #-#-# translate crowdin Quest_LY_Favor_Boobs01_Amandine01_02_11779d95:
 msgid "[_u_] My boss is coming, she'll explain everything to you. "
-msgstr ""
+msgstr "[_u_] Mi jefe está viniendo, ella te explicará todo. "
 
 # game/Quest_Rooms_Separate02.rpy:1040 #-#-# translate crowdin Quest_LY_Favor_Boobs01_Amandine01_02_9150323c:
 msgid "[_tb_] Hi, my name is Tinker! "
-msgstr ""
+msgstr "[_tb_] Hola, mi nombre es Tinker! "
 
 # game/Quest_Rooms_Separate02.rpy:1041 #-#-# translate crowdin Quest_LY_Favor_Boobs01_Amandine01_02_66e8d81b:
 msgid "[_tb_] I'm the CEO++ of this park."
