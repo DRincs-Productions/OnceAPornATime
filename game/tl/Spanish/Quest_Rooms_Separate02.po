@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-04-02 19:35\n"
+"PO-Revision-Date: 2024-04-02 20:57\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Quest_Rooms_Separate02.rpy:125 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_peruche_1ffa9899:
 msgid "[_u_] What are you doing here? "
@@ -718,31 +718,31 @@ msgstr "[_ly_] Y no, fue la ex sultana la que me obligó a llevarlo. "
 
 # game/Quest_Rooms_Separate02.rpy:785 #-#-# translate crowdin Quest_LY_Favor_Face01_3e6808f0:
 msgid "[_ly_] Saying that ''It is an element of the traditional dress of the palace servant.'' "
-msgstr ""
+msgstr "[_ly_] Decir que '' Es un elemento del traje tradicional del sirviente del palacio.'' "
 
 # game/Quest_Rooms_Separate02.rpy:787 #-#-# translate crowdin Quest_LY_Favor_Face01_a30bd9cc:
 msgid "[_ly_] It's true that I don't need to wear this thing anymore... "
-msgstr ""
+msgstr "[_ly_] Es verdad que ya no necesito usar esta cosa... "
 
 # game/Quest_Rooms_Separate02.rpy:794 #-#-# translate crowdin Quest_LY_Favor_Face01_a9011549:
 msgid "[_ly_] So, do you see me better like this? "
-msgstr ""
+msgstr "[_ly_] Entonces, ¿me ves mejor así? "
 
 # game/Quest_Rooms_Separate02.rpy:795 #-#-# translate crowdin Quest_LY_Favor_Face01_937c5cad:
 msgid "[_u_] That's much better!"
-msgstr ""
+msgstr "[_u_] ¡Eso es mucho mejor!"
 
 # game/Quest_Rooms_Separate02.rpy:799 #-#-# translate crowdin Quest_LY_Favor_Face01_adc71105:
 msgid "[_ly_] Oh be quiet, you silly!"
-msgstr ""
+msgstr "[_ly_] ¡Oh, cállate, tonto!"
 
 # game/Quest_Rooms_Separate02.rpy:801 #-#-# translate crowdin Quest_LY_Favor_Face01_1e94cadd:
 msgid "[_ly_] Maybe you should put one on yourself, it might make you look better. "
-msgstr ""
+msgstr "[_ly_] Tal vez deberías ponerte uno, podría hacerte lucir mejor. "
 
 # game/Quest_Rooms_Separate02.rpy:802 #-#-# translate crowdin Quest_LY_Favor_Face01_1d36b916:
 msgid "[_u_] Nicely retorted."
-msgstr ""
+msgstr "[_u_] Bien contestado."
 
 # game/Quest_Rooms_Separate02.rpy:804 #-#-# translate crowdin Quest_LY_Favor_Face01_17d811c6:
 msgid "[_ly_] Eheh"
@@ -750,51 +750,51 @@ msgstr ""
 
 # game/Quest_Rooms_Separate02.rpy:807 #-#-# translate crowdin Quest_LY_Favor_Face01_535bb296:
 msgid "[_ly_] Aw, Thank you! That's so sweet."
-msgstr ""
+msgstr "[_ly_] ¡Oh Gracias! Eso es tan dulce."
 
 # game/Quest_Rooms_Separate02.rpy:809 #-#-# translate crowdin Quest_LY_Favor_Face01_56419d7d:
 msgid "[_ly_] I'm sure you're just happy to have stripped me a little more. "
-msgstr ""
+msgstr "[_ly_] Estoy segura de que estás feliz de haberme desnudado un poco más. "
 
 # game/Quest_Rooms_Separate02.rpy:812 #-#-# translate crowdin Quest_LY_Favor_Face01_464e7818:
 msgid "[_ly_] You silly little man. "
-msgstr ""
+msgstr "[_ly_] Oh hombrecito tonto. "
 
 # game/Quest_Rooms_Separate02.rpy:814 #-#-# translate crowdin Quest_LY_Favor_Face01_56016c7d:
 msgid "[_ly_] I love your sense of humor. "
-msgstr ""
+msgstr "[_ly_] Amo tu sentido del humor. "
 
 # game/Quest_Rooms_Separate02.rpy:816 #-#-# translate crowdin Quest_LY_Favor_Face01_4df598a6:
 msgid "[_u_] Can't wait to take off more of your clothes. "
-msgstr ""
+msgstr "[_u_] No puede esperar para quitarte más ropa. "
 
 # game/Quest_Rooms_Separate02.rpy:818 #-#-# translate crowdin Quest_LY_Favor_Face01_6c3d60af:
 msgid "[_ly_] You really are a straightforward type, I see."
-msgstr ""
+msgstr "[_ly_] Realmente eres un tipo sencillo, ya veo."
 
 # game/Quest_Rooms_Separate02.rpy:820 #-#-# translate crowdin Quest_LY_Favor_Face01_31e2b0ac:
 msgid "[_ly_] I'm sure there are plenty of beautiful girls in the capital waiting for this."
-msgstr ""
+msgstr "[_ly_] Estoy seguro de que hay muchas chicas hermosas en la capital esperando esto."
 
 # game/Quest_Rooms_Separate02.rpy:822 #-#-# translate crowdin Quest_LY_Favor_Face01_edfb663a:
 msgid "[_ly_] You should try with her. "
-msgstr ""
+msgstr "[_ly_] Deberías intentarlo con ella. "
 
 # game/Quest_Rooms_Separate02.rpy:824 #-#-# translate crowdin Quest_LY_Favor_Face01_a8467aa9:
 msgid "[_ly_]  I'll leave you here, I still have a lot of things to do."
-msgstr ""
+msgstr "[_ly_] Os dejo por aquí, todavía tengo muchas cosas que hacer."
 
 # game/Quest_Rooms_Separate02.rpy:826 #-#-# translate crowdin Quest_LY_Favor_Face01_0c28b5db:
 msgid "[_ly_] Have a nice day. "
-msgstr ""
+msgstr "[_ly_] Que tengas un buen día. "
 
 # game/Quest_Rooms_Separate02.rpy:844 #-#-# translate crowdin Quest_LY_Favor_Boobs01_a2c2c061:
 msgid "[_tb_] Take it easy, you don't want to mess it up now, do you?"
-msgstr ""
+msgstr "[_tb_] Tómatelo con calma, no querrás estropearlo ahora, ¿verdad?"
 
 # game/Quest_Rooms_Separate02.rpy:846 #-#-# translate crowdin Quest_LY_Favor_Boobs01_ad06671c:
 msgid "[_tb_] And yes, I know you, I know what you were going to say. "
-msgstr ""
+msgstr "[_tb_] Y sí, te conozco, sé lo que ibas a decir. "
 
 # game/Quest_Rooms_Separate02.rpy:852 #-#-# translate crowdin Quest_LY_Favor_Boobs01_7b1c1392:
 msgid "[_u_] ..."
@@ -802,19 +802,19 @@ msgstr "[_u_] ..."
 
 # game/Quest_Rooms_Separate02.rpy:856 #-#-# translate crowdin Quest_LY_Favor_Boobs01_d79c46e2:
 msgid "[_ly_] That's not a request you hear every day. "
-msgstr ""
+msgstr "[_ly_] Esa no es una petición que escuche todos los días. "
 
 # game/Quest_Rooms_Separate02.rpy:858 #-#-# translate crowdin Quest_LY_Favor_Boobs01_67103936:
 msgid "[_ly_] My breasts? Just that? "
-msgstr ""
+msgstr "[_ly_] ¿Mis pechos? ¿Solo eso? "
 
 # game/Quest_Rooms_Separate02.rpy:860 #-#-# translate crowdin Quest_LY_Favor_Boobs01_a2c9c7bc:
 msgid "[_ly_] Well, you're going to need more than just pretty words and easy moves, my good fellow."
-msgstr ""
+msgstr "[_ly_] Bueno, vas a necesitar algo más que palabras bonitas y movimientos sencillos, mi buen amigo."
 
 # game/Quest_Rooms_Separate02.rpy:861 #-#-# translate crowdin Quest_LY_Favor_Boobs01_e43a26e7:
 msgid "[_u_] I... uhm... "
-msgstr ""
+msgstr "[_u_] Yo... uhm... "
 
 # game/Quest_Rooms_Separate02.rpy:862 #-#-# translate crowdin Quest_LY_Favor_Boobs01_7e6dc08c:
 msgid "[_u_] What's on your mind? "
@@ -822,47 +822,47 @@ msgstr ""
 
 # game/Quest_Rooms_Separate02.rpy:864 #-#-# translate crowdin Quest_LY_Favor_Boobs01_510d142d:
 msgid "[_ly_] Mh... That's a good question..."
-msgstr ""
+msgstr "[_ly_] Mh... Esa es una buena pregunta..."
 
 # game/Quest_Rooms_Separate02.rpy:866 #-#-# translate crowdin Quest_LY_Favor_Boobs01_2671b163:
 msgid "[_ly_] I can ask whatever I want?"
-msgstr ""
+msgstr "[_ly_] Puedo preguntar lo que quiera?"
 
 # game/Quest_Rooms_Separate02.rpy:867 #-#-# translate crowdin Quest_LY_Favor_Boobs01_d160c6a9:
 msgid "[_u_] Well... I guess so."
-msgstr ""
+msgstr "[_u_] Bueno... Supongo que sí."
 
 # game/Quest_Rooms_Separate02.rpy:869 #-#-# translate crowdin Quest_LY_Favor_Boobs01_028aeb28:
 msgid "[_ly_] Okay, so I want you to... grant me three wishes."
-msgstr ""
+msgstr "[_ly_] Bien, entonces quiero que... me concedas tres deseos."
 
 # game/Quest_Rooms_Separate02.rpy:870 #-#-# translate crowdin Quest_LY_Favor_Boobs01_228f5ef2:
 msgid "[_u_] Three?"
-msgstr ""
+msgstr "[_u_] ¿Tres?"
 
 # game/Quest_Rooms_Separate02.rpy:872 #-#-# translate crowdin Quest_LY_Favor_Boobs01_5f5d797d:
 msgid "[_ly_] Yeah... I want... scraps of fabric. "
-msgstr ""
+msgstr "[_ly_] Sí... Yo quiero... restos de tela. "
 
 # game/Quest_Rooms_Separate02.rpy:874 #-#-# translate crowdin Quest_LY_Favor_Boobs01_c6557253:
 msgid "[_ly_] ( I want to make me a new dress. )"
-msgstr ""
+msgstr "[_ly_] (Quiero hacerme un vestido nuevo.)"
 
 # game/Quest_Rooms_Separate02.rpy:875 #-#-# translate crowdin Quest_LY_Favor_Boobs01_1217f1ec:
 msgid "[_u_] Okay, that's an easy one."
-msgstr ""
+msgstr "[_u_] Okay, eso es fácil."
 
 # game/Quest_Rooms_Separate02.rpy:877 #-#-# translate crowdin Quest_LY_Favor_Boobs01_960ecc27:
 msgid "[_ly_] And then... a hair pick."
-msgstr ""
+msgstr "[_ly_] Y luego... unas pinzas para el pelo."
 
 # game/Quest_Rooms_Separate02.rpy:879 #-#-# translate crowdin Quest_LY_Favor_Boobs01_cf0755d1:
 msgid "[_ly_] But not a vulgar wooden thing... "
-msgstr ""
+msgstr "[_ly_] Pero no una vulgar cosa de madera... "
 
 # game/Quest_Rooms_Separate02.rpy:881 #-#-# translate crowdin Quest_LY_Favor_Boobs01_a2c92e07:
 msgid "[_ly_] I want one worthy of a princess."
-msgstr ""
+msgstr "[_ly_] Quiero uno digno de una princesa."
 
 # game/Quest_Rooms_Separate02.rpy:882 #-#-# translate crowdin Quest_LY_Favor_Boobs01_7b1c1392_1:
 msgid "[_u_] ..."
@@ -870,15 +870,15 @@ msgstr "[_u_] ..."
 
 # game/Quest_Rooms_Separate02.rpy:883 #-#-# translate crowdin Quest_LY_Favor_Boobs01_fcfcda81:
 msgid "[_u_] Like in gold?"
-msgstr ""
+msgstr "[_u_] ¿Como en oro?"
 
 # game/Quest_Rooms_Separate02.rpy:885 #-#-# translate crowdin Quest_LY_Favor_Boobs01_132250f5:
 msgid "[_ly_] I was just thinking about a pretty metal one... But yes, I want a gold one. "
-msgstr ""
+msgstr "[_ly_] Estaba pensando en uno bonito de metal... Pero sí, quiero uno de oro. "
 
 # game/Quest_Rooms_Separate02.rpy:887 #-#-# translate crowdin Quest_LY_Favor_Boobs01_0a9cddff:
 msgid "[_ly_] And then the last one... well, we'll see. "
-msgstr ""
+msgstr "[_ly_] Y luego el último... bueno, ya veremos. "
 
 # game/Quest_Rooms_Separate02.rpy:888 #-#-# translate crowdin Quest_LY_Favor_Boobs01_b0ff36fe:
 msgid "[_u_] Gosh..."
