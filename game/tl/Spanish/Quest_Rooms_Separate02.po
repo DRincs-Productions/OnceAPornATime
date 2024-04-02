@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-03-16 22:11\n"
+"PO-Revision-Date: 2024-04-02 14:54\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Quest_Rooms_Separate02.rpy:125 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_peruche_1ffa9899:
 msgid "[_u_] What are you doing here? "
@@ -18,15 +18,15 @@ msgstr ""
 
 # game/Quest_Rooms_Separate02.rpy:132 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_peruche_6e86c132:
 msgid "[_u_] And he's gone."
-msgstr ""
+msgstr "[_u_] Y se ha ido."
 
 # game/Quest_Rooms_Separate02.rpy:133 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_peruche_64d0baac:
 msgid "[_u_] Will this thing come and spy on me every time I leave the headquarters now?"
-msgstr ""
+msgstr "[_u_] ¿Va a venir esta cosa y espiarme cada vez que salgo de la sede ahora?"
 
 # game/Quest_Rooms_Separate02.rpy:134 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_peruche_29380329:
 msgid "[_u_] Tinker? Do you know what this thing is?"
-msgstr ""
+msgstr "[_u_] Tinker? ¿Sabes lo que es esta cosa?"
 
 # game/Quest_Rooms_Separate02.rpy:135 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_peruche_7b1c1392:
 msgid "[_u_] ..."
@@ -34,7 +34,7 @@ msgstr "[_u_] ..."
 
 # game/Quest_Rooms_Separate02.rpy:136 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_peruche_22d1d18a:
 msgid "[_u_] Damn, the communications don't work here?"
-msgstr ""
+msgstr "[_u_] Maldición, ¿las comunicaciones no funcionan aquí?"
 
 # game/Quest_Rooms_Separate02.rpy:137 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_peruche_e7743dcf:
 msgid "[_u_] Great."
@@ -42,127 +42,127 @@ msgstr ""
 
 # game/Quest_Rooms_Separate02.rpy:138 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_peruche_3e232d1f:
 msgid "[_u_] Maybe it's just a curious bird after all."
-msgstr ""
+msgstr "[_u_] Tal vez es sólo un pájaro curioso después de todo."
 
 # game/Quest_Rooms_Separate02.rpy:140 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_peruche_72b3ec6b:
 msgid "[_u_] Or maybe he comes here to search for old crates. "
-msgstr ""
+msgstr "[_u_] O tal vez venga aquí para buscar cajas viejas. "
 
 # game/Quest_Rooms_Separate02.rpy:141 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_peruche_9e0af3f5:
 msgid "[_none01_] Actually, that's why I'm here. "
-msgstr ""
+msgstr "[_none01_] En realidad, es por eso que estoy aquí. "
 
 # game/Quest_Rooms_Separate02.rpy:148 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_peruche_cac0131c:
 msgid "[_u_] Greetings mysterious hooded stranger."
-msgstr ""
+msgstr "[_u_] Saludos misterioso desconocido encapuchado."
 
 # game/Quest_Rooms_Separate02.rpy:149 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_peruche_be2fddfb:
 msgid "[_u_] It's been a while since we've seen each other."
-msgstr ""
+msgstr "[_u_] Ha pasado un tiempo desde que nos hemos visto."
 
 # game/Quest_Rooms_Separate02.rpy:150 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_peruche_66d46f48:
 msgid "[_u_] Still don't want to take off your helmet? "
-msgstr ""
+msgstr "[_u_] ¿Todavía no quieres quitarte el casco? "
 
 # game/Quest_Rooms_Separate02.rpy:151 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_peruche_c8cc5239:
 msgid "[_none01_] No, thank you."
-msgstr ""
+msgstr "[_none01_] No, gracias."
 
 # game/Quest_Rooms_Separate02.rpy:152 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_peruche_fb45b273:
 msgid "[_u_] What are you doing there?"
-msgstr ""
+msgstr "[_u_] ¿Qué está haciendo ahí?"
 
 # game/Quest_Rooms_Separate02.rpy:153 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_peruche_97c2cc29:
 msgid "[_none01_] I've been coming here for a long time to get material."
-msgstr ""
+msgstr "[_none01_] He venido aquí durante mucho tiempo para conseguir material."
 
 # game/Quest_Rooms_Separate02.rpy:154 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_peruche_a750ad12:
 msgid "[_none01_] It's amazing how much stuff they've thrown in here."
-msgstr ""
+msgstr "[_none01_] Es increíble la cantidad de cosas que han lanzado aquí."
 
 # game/Quest_Rooms_Separate02.rpy:163 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_peruche_menu1_d41eb950:
 msgid "[_none01_] Everything that can be useful."
-msgstr ""
+msgstr "[_none01_] Todo lo que pueda ser útil."
 
 # game/Quest_Rooms_Separate02.rpy:164 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_peruche_menu1_e12e1bd3:
 msgid "[_none01_] But I don't think there is anything interesting left here."
-msgstr ""
+msgstr "[_none01_] Pero no creo que quede nada interesante aquí."
 
 # game/Quest_Rooms_Separate02.rpy:166 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_peruche_menu1_Pend_7cd89e93:
 msgid "[_none01_] There are still tools in this room if you want. "
-msgstr ""
+msgstr "[_none01_] Todavía hay herramientas en esta sala si lo desea. "
 
 # game/Quest_Rooms_Separate02.rpy:167 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_peruche_menu1_Pend_e276f20b:
 msgid "[_none01_] I think that's why you're here, right?"
-msgstr ""
+msgstr "[_none01_] Creo que es por eso que estás aquí, ¿verdad?"
 
 # game/Quest_Rooms_Separate02.rpy:168 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_peruche_menu1_Pend_2faa7718:
 msgid "[_u_] Is it possible to hide something from you? "
-msgstr ""
+msgstr "[_u_] ¿Es posible ocultarte algo de ti? "
 
 # game/Quest_Rooms_Separate02.rpy:169 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_peruche_menu1_Pend_3b4abb59:
 msgid "[_none01_] Not so much."
-msgstr ""
+msgstr "[_none01_] No tanto."
 
 # game/Quest_Rooms_Separate02.rpy:170 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_peruche_menu1_Pend_3f34b609:
 msgid "[_none01_] Good luck in your research, see you next time [name]. "
-msgstr ""
+msgstr "[_none01_] Buena suerte en tu investigación, hasta la próxima vez [nombre]. "
 
 # game/Quest_Rooms_Separate02.rpy:184 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_peruche_menu1_Pend_8f573310:
 msgid "[_none01_] And uh..."
-msgstr ""
+msgstr "[_none01_] Y uh..."
 
 # game/Quest_Rooms_Separate02.rpy:185 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_peruche_menu1_Pend_8427a593:
 msgid "[_none01_] I count on you to keep our little meeting between us."
-msgstr ""
+msgstr "[_none01_] Yo cuento contigo para mantener nuestra pequeña reunión entre nosotros."
 
 # game/Quest_Rooms_Separate02.rpy:199 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_peruche_menu1_P1_443f9a92:
 msgid "[_none01_] I still don't know if I can trust you. "
-msgstr ""
+msgstr "[_none01_] Todavía no sé si puedo confiar en ti. "
 
 # game/Quest_Rooms_Separate02.rpy:200 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_peruche_menu1_P1_feb664ac:
 msgid "[_u_] Even after so much time spying on me? "
-msgstr ""
+msgstr "[_u_] ¿Incluso después de tanto tiempo espiándome? "
 
 # game/Quest_Rooms_Separate02.rpy:201 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_peruche_menu1_P1_d50b80bf:
 msgid "[_u_] By the way, could you stop doing that? "
-msgstr ""
+msgstr "[_u_] Por cierto, ¿podrías dejar de hacer eso? "
 
 # game/Quest_Rooms_Separate02.rpy:202 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_peruche_menu1_P1_68575082:
 msgid "[_none01_] Sorry, but that's how I still haven't been caught yet."
-msgstr ""
+msgstr "[_none01_] Lo siento, pero así es como todavía no me han pillado."
 
 # game/Quest_Rooms_Separate02.rpy:211 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_peruche_menu1_P2_7349b6b5:
 msgid "[_none01_] Maybe."
-msgstr ""
+msgstr "[_none01_] Tal vez."
 
 # game/Quest_Rooms_Separate02.rpy:212 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_peruche_menu1_P2_7e80f67d:
 msgid "[_u_] So I take that as a yes."
-msgstr ""
+msgstr "[_u_] Así que lo interpreto como un sí."
 
 # game/Quest_Rooms_Separate02.rpy:213 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_peruche_menu1_P2_e0eec434:
 msgid "[_u_] Thanks for the key last time."
-msgstr ""
+msgstr "[_u_] Gracias por la llave de la última vez."
 
 # game/Quest_Rooms_Separate02.rpy:214 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_peruche_menu1_P2_1860e5c1:
 msgid "[_none01_] You're welcome. I was starting to feel a little sorry for you in that cell. "
-msgstr ""
+msgstr "[_none01_] De nada. Estaba empezando a sentir un poco de lástima por ti en esa celda. "
 
 # game/Quest_Rooms_Separate02.rpy:215 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_peruche_menu1_P2_2de3347a:
 msgid "[_u_] How did you... create this thing? "
-msgstr ""
+msgstr "[_u_] ¿Cómo... creaste esta cosa? "
 
 # game/Quest_Rooms_Separate02.rpy:216 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_peruche_menu1_P2_a5dbf9bb:
 msgid "[_none01_] Ahah, I'm not going to reveal everything now. "
-msgstr ""
+msgstr "[_none01_] Ahah, no voy a revelarlo todo ahora. "
 
 # game/Quest_Rooms_Separate02.rpy:217 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_peruche_menu1_P2_5587de91:
 msgid "[_none01_] Not yet."
-msgstr ""
+msgstr "[_none01_] Todavía no."
 
 # game/Quest_Rooms_Separate02.rpy:224 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_peruche_menu1_P2_9396abe9:
 msgid "[_none01_] That's a good question."
-msgstr ""
+msgstr "[_none01_] Esa es una buena pregunta."
 
 # game/Quest_Rooms_Separate02.rpy:225 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_peruche_menu1_P2_d8a5b86e:
 msgid "[_none01_] I'm not going to give you the solution but... "
