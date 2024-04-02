@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-03-24 21:35\n"
+"PO-Revision-Date: 2024-04-02 09:51\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_SW.rpy:309 #-#-# translate crowdin CHARA_SW_Menu01_8238495a:
 msgid "[_sw_]  ... "
@@ -15062,35 +15062,35 @@ msgstr " Changez vos vêtements "
 
 # game/Cell01_SW.rpy:342
 msgid " Show me your bra {image=heart01.png}{image=heart01.png}"
-msgstr " Montrez-moi votre soutien-gorge { image=heart01.png } { image=heart01.png }"
+msgstr " Montre-moi ton soutien-gorge {image=heart01.png}{image=heart01.png}"
 
 # game/Cell01_SW.rpy:342
 msgid " Show me your bra {image=heart02.png}{image=heart01.png}"
-msgstr " Montrez-moi votre soutien-gorge { image=heart02.png } { image=heart01.png }"
+msgstr " Montre-moi ton soutien-gorge {image=heart02.png}{image=heart01.png}"
 
 # game/Cell01_SW.rpy:342
 msgid " Show me your bra {image=heart02.png}{image=heart02.png}"
-msgstr " Montrez-moi votre soutien-gorge { image=heart02.png } { image=heart02.png }"
+msgstr " Montre-moi ton soutien-gorge {image=heart02.png}{image=heart02.png}"
 
 # game/Cell01_SW.rpy:342
 msgid " Show me your bra {image=heart03.png}{image=heart03.png}"
-msgstr " Montrez-moi votre soutien-gorge { image=heart03.png } { image=heart03.png }"
+msgstr " Montre-moi ton soutien-gorge {image=heart03.png}{image=heart03.png}"
 
 # game/Cell01_SW.rpy:342
 msgid " Show me your panties {image=heart01.png}{image=heart01.png}"
-msgstr " Montre-moi vos cultes { image=heart01.png } { image=heart01.png }"
+msgstr " Montre-moi ta culotte {image=heart01.png}{image=heart01.png}"
 
 # game/Cell01_SW.rpy:342
 msgid " Show me your panties {image=heart02.png}{image=heart01.png}"
-msgstr " Montre-moi vos cultes { image=heart02.png } { image=heart01.png }"
+msgstr " Montre-moi ta culotte {image=heart02.png}{image=heart01.png}"
 
 # game/Cell01_SW.rpy:342
 msgid " Show me your panties {image=heart02.png}{image=heart02.png}"
-msgstr " Montre-moi vos cultes { image=heart02.png } { image=heart02.png }"
+msgstr " Montre-moi ta culotte {image=heart02.png}{image=heart02.png}"
 
 # game/Cell01_SW.rpy:342
 msgid " Show me your panties {image=heart03.png}{image=heart03.png}"
-msgstr " Montre-moi vos cultes { image=heart03.png } { image=heart03.png }"
+msgstr " Montre-moi ta culotte {image=heart03.png}{image=heart03.png}"
 
 # game/Cell01_SW.rpy:342
 msgid " Give me your underwear. {image=heart05.png}"
@@ -15102,31 +15102,31 @@ msgstr " Montrez-moi vos seins {image=heart01.png}"
 
 # game/Cell01_SW.rpy:342
 msgid " Show me your pussy {image=heart01.png}"
-msgstr " Montrez-moi votre chatte { image=heart01.png }"
+msgstr " Montre-moi ta chatte {image=heart01.png}"
 
 # game/Cell01_SW.rpy:342
 msgid " Show me your boobs {image=heart01.png}{image=heart01.png}"
-msgstr " Montre-moi vos seins { image=heart01.png } { image=heart01.png }"
+msgstr " Montre-moi tes seins {image=heart01.png}{image=heart01.png}"
 
 # game/Cell01_SW.rpy:342
 msgid " Show me your boobs {image=heart02.png}{image=heart01.png}"
-msgstr " Montre-moi vos seins { image=heart02.png } { image=heart01.png }"
+msgstr " Montre-moi tes seins {image=heart02.png}{image=heart01.png}"
 
 # game/Cell01_SW.rpy:342
 msgid " Show me your boobs {image=heart02.png}{image=heart02.png}"
-msgstr " Montre-moi vos seins { image=heart02.png } { image=heart02.png }"
+msgstr " Montre-moi tes seins {image=heart02.png}{image=heart02.png}"
 
 # game/Cell01_SW.rpy:342
 msgid " Show me your pussy {image=heart01.png}{image=heart01.png}"
-msgstr " Montre-moi votre chatte { image=heart01.png } { image=heart01.png }"
+msgstr " Montre-moi ta chatte {image=heart01.png}{image=heart01.png}"
 
 # game/Cell01_SW.rpy:342
 msgid " Show me your pussy {image=heart02.png}{image=heart01.png}"
-msgstr " Montrez-moi votre chatte { image=heart02.png } { image=heart01.png }"
+msgstr " Montre-moi ta chatte {image=heart02.png}{image=heart01.png}"
 
 # game/Cell01_SW.rpy:342
 msgid " Show me your pussy {image=heart02.png}{image=heart02.png}"
-msgstr " Montrez-moi votre chatte { image=heart02.png } { image=heart02.png }"
+msgstr " Montre-moi ta chatte {image=heart02.png}{image=heart02.png}"
 
 # game/Cell01_SW.rpy:342
 msgid " Make a Strip {image=heart01.png}"
@@ -15382,7 +15382,7 @@ msgstr " Dérobe toi "
 
 # game/Cell01_SW.rpy:3207
 msgid " Suck my balls "
-msgstr " Sucre mes couilles "
+msgstr " Suce mes couilles "
 
 # game/Cell01_SW.rpy:3639
 msgid "Sorry, that's not what I wanted to say."
@@ -15758,7 +15758,7 @@ msgstr "Je crois que j'ai entendu le mot \"rouge\"."
 
 # game/Cell01_SW.rpy:8969
 msgid " Some wicked villains."
-msgstr " Certains méchants méchants."
+msgstr " Quelques méchants."
 
 # game/Cell01_SW.rpy:8969
 msgid " Some evil witches "
