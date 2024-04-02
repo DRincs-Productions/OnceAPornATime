@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-04-02 03:08\n"
+"PO-Revision-Date: 2024-04-02 04:21\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Room_01_Ordi.rpy:7 #-#-# translate crowdin room01_ordi01_In_f3a4608f:
 msgid "[_u_] Let's try to open that door first."
@@ -398,143 +398,143 @@ msgstr "{color=#7979}=Trucos :{color=#a0fc86}ON{/color}={/color}"
 
 # game/Room_01_Ordi.rpy:92
 msgid "{color=#d743c7}LASTS CUSTOM{/color} "
-msgstr ""
+msgstr "{color=#d743c7}ÚLTIMA PERSONALIZACION{/color} "
 
 # game/Room_01_Ordi.rpy:92
 msgid "{color=#d743c7}ALL CUSTOM{/color} "
-msgstr ""
+msgstr "{color=#d743c7}TODO PERSONALIZADO{/color} "
 
 # game/Room_01_Ordi.rpy:92
 msgid "default office_01_customs_p06_04UNLOCK = False"
-msgstr ""
+msgstr "oficina predeterminada_01_despacho_p06_04UNLOCK = Falso"
 
 # game/Room_01_Ordi.rpy:289
 msgid "== You have:{color=#a0fc86} [MONEY] Credits {/color}/{color=#a0fc86} [IMAGEDATA] Image Datas {/color}/{color=#3c96f2} [CLOTHEDATA] Clothes Data {/color}/{color=#f2923c} [CHARADATA] Character Datas {/color} /{color=#a0fc86} [ITEM_CLOTHESSCRAPS01] Clothes Scraps {/color} =="
-msgstr ""
+msgstr "== Tienes:{color=#a0fc86} [DINERO] Créditos {/color}/{color=#a0fc86} [IMAGEDATA] Datos de imagen {/color}/{color=#3c96f2} [CLOTHEDATA] Datos de ropa {/color}/ {color=#f2923c} [CHARADATA] Datos de personajes {/color} /{color=#a0fc86} [ITEM_CLOTHESSCRAPS01] Restos de ropa {/color} =="
 
 # game/Room_01_Ordi.rpy:289
 msgid "$=1= Clothes Data {color=#a0fc86}(75c){/color}"
-msgstr ""
+msgstr "$=1= Datos de ropa {color=#a0fc86}(75c){/color}"
 
 # game/Room_01_Ordi.rpy:289
 msgid "$=1= Character Data {color=#a0fc86}(505c){/color}"
-msgstr ""
+msgstr "$=1= Datos de personaje {color=#a0fc86}(505c){/color}"
 
 # game/Room_01_Ordi.rpy:289
 msgid "$=1= Drone Energy Boost 3AP (One-time use) {color=#a0fc86}(30c){/color}"
-msgstr ""
+msgstr "$=1= Aumento de energía del dron 3AP (Un solo uso) {color=#a0fc86}(30c){/color}"
 
 # game/Room_01_Ordi.rpy:289
 msgid "$=1= Drone Energy Boost 5AP (One-time use) {color=#a0fc86}(55c){/color}"
-msgstr ""
+msgstr "$=1= Aumento de energía del dron 5AP (Un solo uso) {color=#a0fc86}(55c){/color}"
 
 # game/Room_01_Ordi.rpy:289
 msgid "$=1= Clothes Scraps {color=#a0fc86}(20c){/color}"
-msgstr ""
+msgstr "$=1= Restos de ropa {color=#a0fc86}(20c){/color}"
 
 # game/Room_01_Ordi.rpy:371
 msgid "== You have:{color=#a0fc86} [MONEY] Credits {/color} =="
-msgstr ""
+msgstr "== Tienes:{color=#a0fc86} [DINERO] Créditos {/color} =="
 
 # game/Room_01_Ordi.rpy:371
 msgid "$=1= Apple candy {color=#a0fc86}(30c){/color}"
-msgstr ""
+msgstr "$=1= Caramelo de manzana {color=#a0fc86}(30c){/color}"
 
 # game/Room_01_Ordi.rpy:371
 msgid "$=1= Apple cider {color=#a0fc86}(50c){/color}"
-msgstr ""
+msgstr "$=1= Sidra de manzana {color=#a0fc86} (50c){/color}"
 
 # game/Room_01_Ordi.rpy:371
 msgid "$=1= Apple basket {color=#a0fc86}(22c){/color}"
-msgstr ""
+msgstr "$=1= Cesta de manzanas {color=#a0fc86}(22c){/color}"
 
 # game/Room_01_Ordi.rpy:371
 msgid "$=1= Cupid apples basket {color=#a0fc86}(36c){/color}"
-msgstr ""
+msgstr "$=1= Cesta de manzanas de cupido {color=#a0fc86}(36c){/color}"
 
 # game/Room_01_Ordi.rpy:431
 msgid "$=1= Drone Energy Boost 5AP (One-time use) {color=#a0fc86}(51c){/color}"
-msgstr ""
+msgstr "$=1= Aumento de energía del Dron 5AP (Un solo uso) {color=#a0fc86}(51c){/color}"
 
 # game/Room_01_Ordi.rpy:431
 msgid "$=1= Emergency Energy Cell (One-time use) {color=#a0fc86}(40c){/color}"
-msgstr ""
+msgstr "$=1= Celda de energía de emergencia (Un solo uso) {color=#a0fc86}(40c){/color}"
 
 # game/Room_01_Ordi.rpy:478
 msgid "$Office Coffee Machine {color=#a0fc86}(51c){/color}"
-msgstr ""
+msgstr "Cafetera de $Oficina {color=#a0fc86}(51c){/color}"
 
 # game/Room_01_Ordi.rpy:478
 msgid "$Office Orchid {color=#a0fc86}(42c){/color}"
-msgstr ""
+msgstr "Orquídea de $Oficina {color=#a0fc86} (42c) {/color}"
 
 # game/Room_01_Ordi.rpy:478
 msgid "$Office Lamp {color=#a0fc86}(35c){/color}"
-msgstr ""
+msgstr "Lámpara de $Oficina {color=#a0fc86}(35c){/color}"
 
 # game/Room_01_Ordi.rpy:478
 msgid "$Office Folders {color=#a0fc86}(20c){/color}"
-msgstr ""
+msgstr "Carpetas de $Oficina {color=#a0fc86}(20c){/color}"
 
 # game/Room_01_Ordi.rpy:478
 msgid "$Office Carpet {color=#a0fc86}(30c){/color}"
-msgstr ""
+msgstr "Alfombra de $Oficina {color=#a0fc86}(30c){/color}"
 
 # game/Room_01_Ordi.rpy:554
 msgid "{color=#b4f08f}={/color} {color=#ffc9a2}Quest images{/color} {color=#b4f08f}={/color}"
-msgstr ""
+msgstr "{color=#b4f08f}={/color} {color=#ffc9a2}Imágenes de misión{/color} {color=#b4f08f}={/color"
 
 # game/Room_01_Ordi.rpy:554
 msgid "{color=#b4f08f}={/color} {color=#da96ff}Character Affinity images{/color} {color=#b4f08f}={/color}"
-msgstr ""
+msgstr "{color=#b4f08f}={/color} {color=#da96ff}Imágenes de afinidad de personajes{/color} {color=#b4f08f}={/color}"
 
 # game/Room_01_Ordi.rpy:567
 msgid " {color=#ffc9a2}(SPY_ORIENTAL_BATH){/color} "
-msgstr ""
+msgstr " {color=#ffc9a2}(ESPIAR_BAÑO_ORIENTAL){/color} "
 
 # game/Room_01_Ordi.rpy:567
 msgid " {color=#ffc9a2}(SPY_ORIENTAL_BATH_02){/color} "
-msgstr ""
+msgstr " {color=#ffc9a2} (ESPIAR_BAÑO_ORIENTAL_02){/color} "
 
 # game/Room_01_Ordi.rpy:567
 msgid " {color=#636363}(_LOCK_){/color} "
-msgstr ""
+msgstr " {color=#636363} (_CERRAR_) {/color} "
 
 # game/Room_01_Ordi.rpy:567
 msgid " {color=#ffc9a2}(ORIENTAL_KISS){/color} "
-msgstr ""
+msgstr " {color=#ffc9a2}(BESO_ORIENTAL){/color} "
 
 # game/Room_01_Ordi.rpy:567
 msgid " {color=#ffc9a2}(THE_SULTANA){/color} "
-msgstr ""
+msgstr " {color=#ffc9a2}(LA_SULTANA){/color} "
 
 # game/Room_01_Ordi.rpy:567
 msgid " {color=#ffc9a2}(QIU){/color} "
-msgstr ""
+msgstr " {color=#ffc9a2}(QIU){/color} "
 
 # game/Room_01_Ordi.rpy:567
 msgid " {color=#ffc9a2}(DE-PRINCESSING){/color} "
-msgstr ""
+msgstr " {color=#ffc9a2}(DESPRINCESAMIENTO){/color} "
 
 # game/Room_01_Ordi.rpy:567
 msgid " {color=#ffc9a2}(PRINCESS_EMEE){/color} "
-msgstr ""
+msgstr " {color=#ffc9a2}(PRINCESA_EMEE){/color} "
 
 # game/Room_01_Ordi.rpy:567
 msgid " {color=#ffc9a2}(SUCCK){/color} "
-msgstr ""
+msgstr " {color=#ffc9a2}(CHUPAR){/color} "
 
 # game/Room_01_Ordi.rpy:567
 msgid " {color=#ffc9a2}(THE FEATHER'S AGONY){/color} "
-msgstr ""
+msgstr " {color=#ffc9a2} (LA AGONÍA DE LA PLUMA) {/color} "
 
 # game/Room_01_Ordi.rpy:567
 msgid " {color=#ffc9a2}(NOBLE BATH){/color} "
-msgstr ""
+msgstr " {color=#ffc9a2}(BAÑO NOBLE){/color} "
 
 # game/Room_01_Ordi.rpy:567
 msgid " {color=#ffc9a2}(THE GREAT UNICORN HORN){/color} "
-msgstr ""
+msgstr " {color=#ffc9a2}(EL GRAN CUERNO DE UNICORNIO){/color} "
 
 # game/Room_01_Ordi.rpy:664
 msgid " {color=#da96ff}(MELISSANDRE_01){/color} "
