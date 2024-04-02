@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2024-04-01 20:54\n"
+"PO-Revision-Date: 2024-04-02 08:00\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Intro01.rpy:64 #-#-# translate crowdin Intro01_93eeba4f:
 msgid "[_tb_] Greetings!"
@@ -122,83 +122,83 @@ msgstr "[_tb_] Die reichsten Menschen in der Galaxie sind gekommen, um all ihre 
 
 # game/Intro01.rpy:152 #-#-# translate crowdin Intro01_fb2a2b72:
 msgid "[_u_] Sounds like a very profitable business."
-msgstr ""
+msgstr "[_u_] Klingt wie ein sehr profitables Geschäft."
 
 # game/Intro01.rpy:154 #-#-# translate crowdin Intro01_aaf2f303:
 msgid "[_tb_] That's right."
-msgstr ""
+msgstr "[_tb_] Das stimmt."
 
 # game/Intro01.rpy:156 #-#-# translate crowdin Intro01_a316c95d:
 msgid "[_u_] You just reused the old animation you made. "
-msgstr ""
+msgstr "[_u_] Du hast einfach nur die alte Animation, die du gemacht hast, wiederverwendet. "
 
 # game/Intro01.rpy:158 #-#-# translate crowdin Intro01_de8f9949:
 msgid "[_tb_] No, I..."
-msgstr ""
+msgstr "[_tb_] Nein, ich..."
 
 # game/Intro01.rpy:161 #-#-# translate crowdin Intro01_015038e6:
 msgid "[_tb_] I added some stuff, okay?"
-msgstr ""
+msgstr "[_tb_] Ich habe ein paar Sachen hinzugefügt, ok?"
 
 # game/Intro01.rpy:164 #-#-# translate crowdin Intro01_bd256297:
 msgid "[_tb_] Anyway..."
-msgstr ""
+msgstr "[_tb_] Wie auch immer..."
 
 # game/Intro01.rpy:167 #-#-# translate crowdin Intro01_8c5a252d:
 msgid "[_tb_] But there was a problem."
-msgstr ""
+msgstr "[_tb_] Es gab jedoch ein Problem."
 
 # game/Intro01.rpy:170 #-#-# translate crowdin Intro01_d4801e40:
 msgid "[_tb_] People came mostly to fuck characters."
-msgstr ""
+msgstr "[_tb_] Die Leute kamen vor allem um die Charaktere zu ficken."
 
 # game/Intro01.rpy:173 #-#-# translate crowdin Intro01_04e1448c:
 msgid "[_tb_] And the androids were not designed for that. "
-msgstr ""
+msgstr "[_tb_] Und die Androiden wurden nicht dafür entwickelt. "
 
 # game/Intro01.rpy:178 #-#-# translate crowdin Intro01_322a9a18:
 msgid "[_tb_] So the park went bankrupt."
-msgstr ""
+msgstr "[_tb_] Also ist der Park bankrott gegangen."
 
 # game/Intro01.rpy:181 #-#-# translate crowdin Intro01_31d3bf7d:
 msgid "[_tb_] 200 years later..."
-msgstr ""
+msgstr "[_tb_] 200 Jahre später..."
 
 # game/Intro01.rpy:185 #-#-# translate crowdin Intro01_cfb37931:
 msgid "[_tb_] ...a random guy accidentally fell on the planet. "
-msgstr ""
+msgstr "[_tb_] ... fällt irgendein Typ aus Versehen auf den Planeten. "
 
 # game/Intro01.rpy:189 #-#-# translate crowdin Intro01_2287b036:
 msgid "[_tb_] (That's you.)"
-msgstr ""
+msgstr "[_tb_] (Das bist du)"
 
 # game/Intro01.rpy:192 #-#-# translate crowdin Intro01_73cb8344:
 msgid "[_tb_] He found me, freed me from my terrible fate,"
-msgstr ""
+msgstr "[_tb_] Er fand mich, befreite mich von meinem schrecklichen Schicksal,"
 
 # game/Intro01.rpy:196 #-#-# translate crowdin Intro01_fa62e877:
 msgid "[_tb_] And I said, ''Hey! Help me rebuild this planet!''"
-msgstr ""
+msgstr "[_tb_] Und ich sagte: \"Hey! Hilf mir diesen Planeten wieder aufzubauen!\""
 
 # game/Intro01.rpy:200 #-#-# translate crowdin Intro01_825d922b:
 msgid "[_tb_] ''You just have to corrupt some andoids and we'll reopen the park!''"
-msgstr ""
+msgstr "[_tb_] ''Du musst nur einige Androiden korrumpieren und wir werden den Park wieder öffnen!''"
 
 # game/Intro01.rpy:204 #-#-# translate crowdin Intro01_2a2f1f66:
 msgid "[_tb_] So there you go, he fucked a lot of androids."
-msgstr ""
+msgstr "[_tb_] Also fickte er eine Menge Androiden."
 
 # game/Intro01.rpy:208 #-#-# translate crowdin Intro01_ce8e7b2f:
 msgid "[_tb_] And then we hired new employees."
-msgstr ""
+msgstr "[_tb_] Und dann haben wir neue Mitarbeiter eingestellt."
 
 # game/Intro01.rpy:212 #-#-# translate crowdin Intro01_cde41a6c:
 msgid "[_tb_] And this guy got a little too comfortable, "
-msgstr ""
+msgstr "[_tb_] Und dieser Typ machte es sich ein bisschen zu bequem, "
 
 # game/Intro01.rpy:216 #-#-# translate crowdin Intro01_8482d6e0:
 msgid "[_tb_] Because I'm pretty sure he banged his colleagues. "
-msgstr ""
+msgstr "[_tb_] ich bin nämlich ziemlich sicher, dass er seine Kolleginnen gebumst hat. "
 
 # game/Intro01.rpy:218 #-#-# translate crowdin Intro01_59469fe4:
 msgid "[_u_] Really? "
@@ -206,23 +206,23 @@ msgstr ""
 
 # game/Intro01.rpy:220 #-#-# translate crowdin Intro01_7808bc18:
 msgid "[_tb_] Actually I don't know, they don't invite me to their parties. "
-msgstr ""
+msgstr "[_tb_] Allerdings weiß ich es nicht, weil sie mich nicht zu ihren Partys einladen. "
 
 # game/Intro01.rpy:222 #-#-# translate crowdin Intro01_b164a661:
 msgid "[_u_] Stop making things up, you don't know. "
-msgstr ""
+msgstr "[_u_] Hör auf dir Dinge auszudenken, die du nicht weißt. "
 
 # game/Intro01.rpy:224 #-#-# translate crowdin Intro01_4ce5e25d:
 msgid "[_tb_] I'm not an idiot."
-msgstr ""
+msgstr "[_tb_] Ich bin kein Idiot."
 
 # game/Intro01.rpy:227 #-#-# translate crowdin Intro01_f771ba21:
 msgid "[_tb_] I... "
-msgstr ""
+msgstr "[_tb_] Ich... "
 
 # game/Intro01.rpy:230 #-#-# translate crowdin Intro01_afa41641:
 msgid "[_tb_] Could you invite me to your next party?"
-msgstr ""
+msgstr "[_tb_] Könntest du mich zu eurer nächsten Party einladen?"
 
 # game/Intro01.rpy:231 #-#-# translate crowdin Intro01_7b1c1392_1:
 msgid "[_u_] ..."
@@ -230,35 +230,35 @@ msgstr "..."
 
 # game/Intro01.rpy:232 #-#-# translate crowdin Intro01_7cd082cc:
 msgid "[_u_] I'll think about it. "
-msgstr ""
+msgstr "[_u_] Ich denke darüber nach. "
 
 # game/Intro01.rpy:235 #-#-# translate crowdin Intro01_9cba9302:
 msgid "[_tb_] Mh."
-msgstr ""
+msgstr "[_tb_] Mh."
 
 # game/Intro01.rpy:242 #-#-# translate crowdin Intro01_ab7ab62c:
 msgid "[_tb_] Anyway, One month ago..."
-msgstr ""
+msgstr "[_tb_] Wie auch immer, vor einem Monat..."
 
 # game/Intro01.rpy:247 #-#-# translate crowdin Intro01_88e14bbe:
 msgid "[_tb_] I sent the guy on a mission."
-msgstr ""
+msgstr "[_tb_] Habe ich den Typen auf eine Mission geschickt."
 
 # game/Intro01.rpy:250 #-#-# translate crowdin Intro01_57bf35dc:
 msgid "[_tb_] A mission that would allow us to access a gigantic city, lost in the middle of the desert. "
-msgstr ""
+msgstr "[_tb_] Eine Mission, die uns den Zugang zu einer riesigen Stadt ermöglichen würde, verloren mitten in einer Wüste. "
 
 # game/Intro01.rpy:253 #-#-# translate crowdin Intro01_88c80c9f:
 msgid "[_tb_] And let's say that snow..."
-msgstr ""
+msgstr "[_tb_] Und sagen wir mal, dass Schnee..."
 
 # game/Intro01.rpy:257 #-#-# translate crowdin Intro01_8c3cc117:
 msgid "[_tb_] ...is almost a legend in these lands."
-msgstr ""
+msgstr "[_tb_] ...in diesen Landen fast eine Legende ist."
 
 # game/Intro01.rpy:447 #-#-# translate crowdin Prison01_key_a0d3f6b0:
 msgid "[_u_] Come on, you stupid lock... open up."
-msgstr ""
+msgstr "[_u_] Komm schon du blödes Schloss, öffne dich."
 
 # game/Intro01.rpy:448 #-#-# translate crowdin Prison01_key_7b1c1392:
 msgid "[_u_] ..."
@@ -266,7 +266,7 @@ msgstr "..."
 
 # game/Intro01.rpy:449 #-#-# translate crowdin Prison01_key_b39f0f28:
 msgid "[_u_] Open sesame?"
-msgstr ""
+msgstr "[_u_] Sesam öffne dich?"
 
 # game/Intro01.rpy:450 #-#-# translate crowdin Prison01_key_7b1c1392_1:
 msgid "[_u_] ..."
@@ -274,7 +274,7 @@ msgstr "..."
 
 # game/Intro01.rpy:451 #-#-# translate crowdin Prison01_key_22bf7668:
 msgid "[_u_] Please?"
-msgstr ""
+msgstr "[_u_] Bitte?"
 
 # game/Intro01.rpy:452 #-#-# translate crowdin Prison01_key_7b1c1392_2:
 msgid "[_u_] ..."
@@ -282,15 +282,15 @@ msgstr "..."
 
 # game/Intro01.rpy:453 #-#-# translate crowdin Prison01_key_efab4004:
 msgid "[_u_] Yeah... strangely, the 1000th time, it still doesn't work. "
-msgstr ""
+msgstr "[_u_] Ja... merkwürdigerweise funktioniert es beim 1000. Mal immer noch nicht. "
 
 # game/Intro01.rpy:457 #-#-# translate crowdin Prison01_key_93c13780:
 msgid "[_u_] Open sesame!"
-msgstr ""
+msgstr "[_u_] Sesam öffne dich!"
 
 # game/Intro01.rpy:464 #-#-# translate crowdin Prison01_key_6b4cbdc9:
 msgid "[_ly_] Hello."
-msgstr ""
+msgstr "[_ly_] Hallo."
 
 # game/Intro01.rpy:466 #-#-# translate crowdin Prison01_key_4bada43c:
 msgid "[_ly_] Je suis pas trop bonne?"
