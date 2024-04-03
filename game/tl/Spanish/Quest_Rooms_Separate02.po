@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-04-03 00:18\n"
+"PO-Revision-Date: 2024-04-03 01:14\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Quest_Rooms_Separate02.rpy:125 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_peruche_1ffa9899:
 msgid "[_u_] What are you doing here? "
@@ -1286,11 +1286,11 @@ msgstr "[_u_] Entonces, ¿cuál es el plan? "
 
 # game/Quest_Rooms_Separate02.rpy:1157 #-#-# translate crowdin Quest_A_SW_01_02_15210d99:
 msgid "[_u_] We don't need to corrupt her, do we?"
-msgstr ""
+msgstr "[_u_] No necesitamos corromperla, ¿verdad?"
 
 # game/Quest_Rooms_Separate02.rpy:1159 #-#-# translate crowdin Quest_A_SW_01_02_ff052336:
 msgid "[_a_] No, there's no need. Normally, it's already corrupted."
-msgstr ""
+msgstr "[_a_] No, no hay necesidad. Normalmente, ya está corrupta."
 
 # game/Quest_Rooms_Separate02.rpy:1161 #-#-# translate crowdin Quest_A_SW_01_02_512bbf16:
 msgid "[_a_] I just have to check that her character background has no inconsistencies... "
