@@ -10,15 +10,15 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2024-03-07 14:17\n"
+"PO-Revision-Date: 2024-04-03 12:48\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Room_01_Ordi.rpy:7 #-#-# translate crowdin room01_ordi01_In_f3a4608f:
 msgid "[_u_] Let's try to open that door first."
-msgstr ""
+msgstr "[_u_] Давайте сначала попробуем открыть эту дверь."
 
 # game/Room_01_Ordi.rpy:110 #-#-# translate crowdin room01_ordi01_In_ComputerMainMenu_ca788b67:
 msgid "Empty your mailbox before buying new items"
-msgstr ""
+msgstr "Очистите свой почтовый ящик перед покупкой новых товаров"
 
 # game/Room_01_Ordi.rpy:295 #-#-# translate crowdin room01_ordi01_achat_objets_b1e9a2b8:
 msgid " ==ERROR== You don't have enough money. "
