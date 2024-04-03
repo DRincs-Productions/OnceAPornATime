@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-04-03 16:32\n"
+"PO-Revision-Date: 2024-04-03 21:28\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Quest_Rooms_Separate02.rpy:125 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_peruche_1ffa9899:
 msgid "[_u_] What are you doing here? "
@@ -2370,15 +2370,15 @@ msgstr "[_sw_] Oh?"
 
 # game/Quest_Rooms_Separate02.rpy:1974 #-#-# translate crowdin Scene_SnowWhite01_8f3800af:
 msgid "[_a_] No need to look further."
-msgstr ""
+msgstr "[_a_] No hay necesidad de mirar más."
 
 # game/Quest_Rooms_Separate02.rpy:1977 #-#-# translate crowdin Scene_SnowWhite01_5f89057b:
 msgid "[_sw_] All I can see is that he's eating me with his eyes my... Dear."
-msgstr ""
+msgstr "[_sw_] Todo lo que puedo ver es que me está comiendo con los ojos mi... querido."
 
 # game/Quest_Rooms_Separate02.rpy:1980 #-#-# translate crowdin Scene_SnowWhite01_42e59389:
 msgid "[_a_] Humph..."
-msgstr ""
+msgstr "[_a_] Humph..."
 
 # game/Quest_Rooms_Separate02.rpy:1982 #-#-# translate crowdin Scene_SnowWhite01_008ec0d2:
 msgid "[_u_] What ?"
@@ -2390,11 +2390,11 @@ msgstr ""
 
 # game/Quest_Rooms_Separate02.rpy:1986 #-#-# translate crowdin Scene_SnowWhite01_41223793:
 msgid "[_u_] Don't put me into your little war, I'm staying neutral. "
-msgstr ""
+msgstr "[_u_] No me metas en tu pequeña guerra, me mantendré neutral. "
 
 # game/Quest_Rooms_Separate02.rpy:1988 #-#-# translate crowdin Scene_SnowWhite01_d15da2a0:
 msgid "[_a_] I didn't say anything, my sweet husband.~ "
-msgstr ""
+msgstr "[_a_] No dije nada, mi dulce esposo.~ "
 
 # game/Quest_Rooms_Separate02.rpy:1996 #-#-# translate crowdin Scene_SnowWhite01_e87081c4_1:
 msgid "[_sw_] Hmmm..."
@@ -2402,35 +2402,35 @@ msgstr "[_sw_] Hmmm..."
 
 # game/Quest_Rooms_Separate02.rpy:1998 #-#-# translate crowdin Scene_SnowWhite01_b0be59b7:
 msgid "[_a_] Look at you..."
-msgstr ""
+msgstr "[_a_] Mirate..."
 
 # game/Quest_Rooms_Separate02.rpy:2000 #-#-# translate crowdin Scene_SnowWhite01_242b3d89:
 msgid "[_a_] It seems you are enjoying this a bit too much."
-msgstr ""
+msgstr "[_a_] Parece que estás disfrutando de esto demasiado."
 
 # game/Quest_Rooms_Separate02.rpy:2002 #-#-# translate crowdin Scene_SnowWhite01_d3a4b3a8:
 msgid "[_a_] Dear husband, are you going to let her do this to me ?"
-msgstr ""
+msgstr "[_a_] Querido esposo, ¿vas a dejar que me haga esto ?"
 
 # game/Quest_Rooms_Separate02.rpy:2004 #-#-# translate crowdin Scene_SnowWhite01_16b420e5:
 msgid "[_sw_] Hmpphsssurlp !"
-msgstr ""
+msgstr "[_sw_] ¡Hmpphssurlp !"
 
 # game/Quest_Rooms_Separate02.rpy:2006 #-#-# translate crowdin Scene_SnowWhite01_4110987f:
 msgid "[_a_] Hehe, don't talk with your mouth full."
-msgstr ""
+msgstr "[_a_] Jeje, no hables con la boca llena."
 
 # game/Quest_Rooms_Separate02.rpy:2008 #-#-# translate crowdin Scene_SnowWhite01_38199292:
 msgid "[_a_] That isn't really polite of you, princess."
-msgstr ""
+msgstr "[_a_] Eso no es muy educado de tu parte, princesa."
 
 # game/Quest_Rooms_Separate02.rpy:2010 #-#-# translate crowdin Scene_SnowWhite01_e13e8c9d:
 msgid "[_a_] Maybe does she need a rectification by my husband ?"
-msgstr ""
+msgstr "[_a_] ¿Tal vez necesitas una rectificación por mi esposo?"
 
 # game/Quest_Rooms_Separate02.rpy:2012 #-#-# translate crowdin Scene_SnowWhite01_c34311b0:
 msgid "[_sw_] Hmmph !"
-msgstr ""
+msgstr "[_sw_] ¡Hmmph !"
 
 # game/Quest_Rooms_Separate02.rpy:2014 #-#-# translate crowdin Scene_SnowWhite01_e9c40f23:
 msgid "[_u_] Fuck..."
@@ -2438,35 +2438,35 @@ msgstr ""
 
 # game/Quest_Rooms_Separate02.rpy:2017 #-#-# translate crowdin Scene_SnowWhite01_008c14df:
 msgid "[_a_] See ? She's all cute and princessy again."
-msgstr ""
+msgstr "[_a_] Mira ? ella es toda linda y princesa de nuevo."
 
 # game/Quest_Rooms_Separate02.rpy:2019 #-#-# translate crowdin Scene_SnowWhite01_286192cb:
 msgid "[_sw_] Slrrrrphmm..."
-msgstr ""
+msgstr "[_sw_] Slrrrrrphm..."
 
 # game/Quest_Rooms_Separate02.rpy:2021 #-#-# translate crowdin Scene_SnowWhite01_efe55dcf:
 msgid "[_u_] With such doe eyes, how couldn't she..."
-msgstr ""
+msgstr "[_u_] Con esos ojos, cómo no podría ella..."
 
 # game/Quest_Rooms_Separate02.rpy:2023 #-#-# translate crowdin Scene_SnowWhite01_21682ebe:
 msgid "[_a_] You're not wrong, darling."
-msgstr ""
+msgstr "[_a_] No te equivoques, cariño."
 
 # game/Quest_Rooms_Separate02.rpy:2025 #-#-# translate crowdin Scene_SnowWhite01_4d0ac809:
 msgid "[_sw_] Hmmnnn..!"
-msgstr ""
+msgstr "¡[_sw_] Hmmnnn..!"
 
 # game/Quest_Rooms_Separate02.rpy:2027 #-#-# translate crowdin Scene_SnowWhite01_c7d3a537:
 msgid "[_sw_] Hmmnnsrrlp..!?"
-msgstr ""
+msgstr "¡[_sw_] Hmmnsrrlp..!?"
 
 # game/Quest_Rooms_Separate02.rpy:2029 #-#-# translate crowdin Scene_SnowWhite01_9762e85a:
 msgid "[_a_] I think you should go deeper, she's still doing unpolite stuff, honey."
-msgstr ""
+msgstr "[_a_] Creo que deberías ir más profundo, sigue haciendo cosas poco educadas, cariño."
 
 # game/Quest_Rooms_Separate02.rpy:2031 #-#-# translate crowdin Scene_SnowWhite01_daa916b0:
 msgid "[_u_] Of course darling, anything you say."
-msgstr ""
+msgstr "[_u_] Por supuesto cariño, cualquier cosa que digas."
 
 # game/Quest_Rooms_Separate02.rpy:2034 #-#-# translate crowdin Scene_SnowWhite01_0ae0514f:
 msgid "[_sw_] !!!"
@@ -2474,71 +2474,71 @@ msgstr ""
 
 # game/Quest_Rooms_Separate02.rpy:2036 #-#-# translate crowdin Scene_SnowWhite01_639626e7:
 msgid "[_u_] Deepthroating suits you well, Snow White."
-msgstr ""
+msgstr "[_u_] La garganta profunda sé siente bien, Blancanieves."
 
 # game/Quest_Rooms_Separate02.rpy:2038 #-#-# translate crowdin Scene_SnowWhite01_6ec58f90:
 msgid "[_a_] Oh yeah, you're right..."
-msgstr ""
+msgstr "[_a_] Oh, sí, tienes razón..."
 
 # game/Quest_Rooms_Separate02.rpy:2040 #-#-# translate crowdin Scene_SnowWhite01_644cbd04:
 msgid "[_u_] I'm sure it can suits you too, my dear wife."
-msgstr ""
+msgstr "[_u_] Estoy seguro de que también te puede gustar, mi querida esposa."
 
 # game/Quest_Rooms_Separate02.rpy:2042 #-#-# translate crowdin Scene_SnowWhite01_e837d01c:
 msgid "[_a_] I pass. I can't win against our princess..."
-msgstr ""
+msgstr "[_a_] Yo paso. No puedo ganar contra nuestra princesa..."
 
 # game/Quest_Rooms_Separate02.rpy:2044 #-#-# translate crowdin Scene_SnowWhite01_7e1f357c:
 msgid "[_sw_] Hmmnnn !~"
-msgstr ""
+msgstr "[_sw_] Hmmnnnn !~"
 
 # game/Quest_Rooms_Separate02.rpy:2046 #-#-# translate crowdin Scene_SnowWhite01_d6fc9c72:
 msgid "[_a_] Oh, I think she's trying to sing you something."
-msgstr ""
+msgstr "[_a_] Oh, creo que está tratando de cantarte algo."
 
 # game/Quest_Rooms_Separate02.rpy:2049 #-#-# translate crowdin Scene_SnowWhite01_8318a802:
 msgid "[_u_] She can try."
-msgstr ""
+msgstr "[_u_] Ella puede intentarlo."
 
 # game/Quest_Rooms_Separate02.rpy:2051 #-#-# translate crowdin Scene_SnowWhite01_54732e62:
 msgid "[_u_] Aaaah..."
-msgstr ""
+msgstr "[_u_] Aaaaah..."
 
 # game/Quest_Rooms_Separate02.rpy:2053 #-#-# translate crowdin Scene_SnowWhite01_c489f232:
 msgid "[_u_] With you too looking at me like that..."
-msgstr ""
+msgstr "[_u_] Contigo también mirándome así..."
 
 # game/Quest_Rooms_Separate02.rpy:2055 #-#-# translate crowdin Scene_SnowWhite01_638d0fd3:
 msgid "[_u_] I'm not going to last long."
-msgstr ""
+msgstr "[_u_] No voy a durar mucho tiempo."
 
 # game/Quest_Rooms_Separate02.rpy:2057 #-#-# translate crowdin Scene_SnowWhite01_986cc62b:
 msgid "[_sw_] Hmmnnn..?"
-msgstr ""
+msgstr "[_sw_] Hmmnnn..?"
 
 # game/Quest_Rooms_Separate02.rpy:2060 #-#-# translate crowdin Scene_SnowWhite01_b0bcfa86:
 msgid "[_a_] Oh my..."
-msgstr ""
+msgstr "[_a_] Oh mi..."
 
 # game/Quest_Rooms_Separate02.rpy:2062 #-#-# translate crowdin Scene_SnowWhite01_e93185f1:
 msgid "[_a_] She learns nothing..."
-msgstr ""
+msgstr "[_a_] Ella no aprende nada..."
 
 # game/Quest_Rooms_Separate02.rpy:2064 #-#-# translate crowdin Scene_SnowWhite01_e751c01e:
 msgid "[_a_] Maybe our princess is enjoying this moment as much as you..."
-msgstr ""
+msgstr "[_a_] Tal vez nuestra princesa esté disfrutando este momento tanto como tú..."
 
 # game/Quest_Rooms_Separate02.rpy:2066 #-#-# translate crowdin Scene_SnowWhite01_21a96b8f:
 msgid "[_a_] And as much as me."
-msgstr ""
+msgstr "[_a_] Y tanto como yo."
 
 # game/Quest_Rooms_Separate02.rpy:2068 #-#-# translate crowdin Scene_SnowWhite01_5da92964:
 msgid "[_a_] If you go faster and deeper, I'm sure she's going to accept the fact that we are married, my dear."
-msgstr ""
+msgstr "R[_a_] Si vas más rápido y más profundo, estoy seguro de que va a aceptar el hecho de que estamos casados, mi esposo."
 
 # game/Quest_Rooms_Separate02.rpy:2070 #-#-# translate crowdin Scene_SnowWhite01_1e6dd0c3:
 msgid "[_u_] Ahah, let's try that..."
-msgstr ""
+msgstr "[_u_] Ahah, intentemos eso..."
 
 # game/Quest_Rooms_Separate02.rpy:2072 #-#-# translate crowdin Scene_SnowWhite01_72b15a36:
 msgid "[_sw_] Hmmphhh !!"
@@ -2690,7 +2690,7 @@ msgstr ""
 
 # game/Quest_Rooms_Separate02.rpy:2216 #-#-# translate crowdin SnowWhite01_menu1_P2_54732e62:
 msgid "[_u_] Aaaah..."
-msgstr ""
+msgstr "[_u_] Aaaaah..."
 
 # game/Quest_Rooms_Separate02.rpy:2218 #-#-# translate crowdin SnowWhite01_menu1_P2_76ce3e68:
 msgid "[_u_] What a good deepthroat..."
