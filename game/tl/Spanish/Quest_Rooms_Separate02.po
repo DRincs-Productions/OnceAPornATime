@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-04-03 01:14\n"
+"PO-Revision-Date: 2024-04-03 02:22\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Quest_Rooms_Separate02.rpy:125 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_peruche_1ffa9899:
 msgid "[_u_] What are you doing here? "
@@ -1294,39 +1294,39 @@ msgstr "[_a_] No, no hay necesidad. Normalmente, ya está corrupta."
 
 # game/Quest_Rooms_Separate02.rpy:1161 #-#-# translate crowdin Quest_A_SW_01_02_512bbf16:
 msgid "[_a_] I just have to check that her character background has no inconsistencies... "
-msgstr ""
+msgstr "[_a_] Solo tengo que comprobar que los datos de su personaje no tienen inconsistencias... "
 
 # game/Quest_Rooms_Separate02.rpy:1163 #-#-# translate crowdin Quest_A_SW_01_02_6adcdf71:
 msgid "[_a_] ...See if she respects all her lore and I also need to test her improvisational skills."
-msgstr ""
+msgstr "[_a_] ...Vea si ella respeta toda su lore y también necesito probar sus habilidades de improvisación."
 
 # game/Quest_Rooms_Separate02.rpy:1165 #-#-# translate crowdin Quest_A_SW_01_02_0d85bd35:
 msgid "[_a_] If all goes well, we'll be able to set up the quests I've written and get the first visitors to play!"
-msgstr ""
+msgstr "[_a_] ¡Si todo va bien, vamos a ser capaces de establecer las misiones que he escrito y conseguir que los primeros visitantes jueguen!"
 
 # game/Quest_Rooms_Separate02.rpy:1166 #-#-# translate crowdin Quest_A_SW_01_02_3a41f774:
 msgid "[_u_] That's great!"
-msgstr ""
+msgstr "[_u_] ¡Eso es genial!"
 
 # game/Quest_Rooms_Separate02.rpy:1168 #-#-# translate crowdin Quest_A_SW_01_02_7be7ffcb:
 msgid "[_u_] So we just... ask her questions? "
-msgstr ""
+msgstr "[_u_] Entonces, nosotros sólo... ¿le hacemos preguntas? "
 
 # game/Quest_Rooms_Separate02.rpy:1170 #-#-# translate crowdin Quest_A_SW_01_02_46c6ab29:
 msgid "[_a_] That's right."
-msgstr ""
+msgstr "[_a_] Eso es correcto."
 
 # game/Quest_Rooms_Separate02.rpy:1172 #-#-# translate crowdin Quest_A_SW_01_02_b3097683:
 msgid "[_a_] Simple, isn't it? "
-msgstr ""
+msgstr "[_a_] Simple, ¿no? "
 
 # game/Quest_Rooms_Separate02.rpy:1173 #-#-# translate crowdin Quest_A_SW_01_02_6daa20bd:
 msgid "[_sw_] Hello?! "
-msgstr ""
+msgstr "[_sw_] Hola?! "
 
 # game/Quest_Rooms_Separate02.rpy:1175 #-#-# translate crowdin Quest_A_SW_01_02_f605fb3e:
 msgid "[_sw_] Is anyone here?!"
-msgstr ""
+msgstr "[_sw_] ¿Hay alguien aquí?!"
 
 # game/Quest_Rooms_Separate02.rpy:1177 #-#-# translate crowdin Quest_A_SW_01_02_51bbee7b:
 msgid "[_a_] God, I'm stressed!"
