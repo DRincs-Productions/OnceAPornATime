@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-04-03 03:36\n"
+"PO-Revision-Date: 2024-04-03 04:33\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Quest_Rooms_Separate02.rpy:125 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_peruche_1ffa9899:
 msgid "[_u_] What are you doing here? "
@@ -1742,63 +1742,63 @@ msgstr "[_sw_] Genial."
 
 # game/Quest_Rooms_Separate02.rpy:1493 #-#-# translate crowdin Quest_A_SW_01_03_menu1_END_f9330df6:
 msgid "[_sw_] Maybe I'll finally understand what [name] finds so interesting about you!"
-msgstr ""
+msgstr "[_sw_] ¡Tal vez finalmente entienda lo que [nombre] encuentra tan interesante sobre ti!"
 
 # game/Quest_Rooms_Separate02.rpy:1508 #-#-# translate crowdin Quest_A_SW_01_03_menu2_P1_80fad806:
 msgid "[_a_] I'd say it's blue. "
-msgstr ""
+msgstr "[_a_] Yo diría que es azul. "
 
 # game/Quest_Rooms_Separate02.rpy:1511 #-#-# translate crowdin Quest_A_SW_01_03_menu2_P1_e03c90c5:
 msgid "[_sw_] Pff... that's a poor choice. I choose red. "
-msgstr ""
+msgstr "[_sw_] Pff... esa es una mala elección. Yo elijo rojo. "
 
 # game/Quest_Rooms_Separate02.rpy:1519 #-#-# translate crowdin Quest_A_SW_01_03_menu2_P2_7e957c52:
 msgid "[_a_] The dog! I've always found corgis super cutes and..."
-msgstr ""
+msgstr "[_a_] ¡El perro! Siempre he encontrado a las corgis super lindas y..."
 
 # game/Quest_Rooms_Separate02.rpy:1522 #-#-# translate crowdin Quest_A_SW_01_03_menu2_P2_958d2f0a:
 msgid "[_sw_] Yes okay, we get the idea! I choose the Deer!"
-msgstr ""
+msgstr "[_sw_] Sí bien, ¡tenemos la idea! ¡Yo elijo los Venados!"
 
 # game/Quest_Rooms_Separate02.rpy:1535 #-#-# translate crowdin Quest_A_SW_01_03_menu2_END_ea3d7b08:
 msgid "[_sw_] Now, let's move on to more daring questions. "
-msgstr ""
+msgstr "[_sw_] Ahora, pasemos a preguntas más atrevidas. "
 
 # game/Quest_Rooms_Separate02.rpy:1537 #-#-# translate crowdin Quest_A_SW_01_03_menu2_END_1a24378b:
 msgid "[_a_] All right, that's fine with me."
-msgstr ""
+msgstr "[_a_] Muy bien, eso está bien conmigo."
 
 # game/Quest_Rooms_Separate02.rpy:1539 #-#-# translate crowdin Quest_A_SW_01_03_menu2_END_524f8d02:
 msgid "[_u_] Mh... well... let's see... "
-msgstr ""
+msgstr "[_u_] Mh... bueno... vamos a ver... "
 
 # game/Quest_Rooms_Separate02.rpy:1554 #-#-# translate crowdin Quest_A_SW_01_03_menu2_END_49116b66:
 msgid "[_sw_] Aaaaah! Now that's a more interesting question!"
-msgstr ""
+msgstr "¡Aaaaah! ¡Esa sí que es una pregunta más interesante!"
 
 # game/Quest_Rooms_Separate02.rpy:1556 #-#-# translate crowdin Quest_A_SW_01_03_menu2_END_cc7e6aba:
 msgid "[_sw_] So, little lady, what's your answer? "
-msgstr ""
+msgstr "[_sw_] Entonces, señorita, ¿cuál es tu respuesta? "
 
 # game/Quest_Rooms_Separate02.rpy:1558 #-#-# translate crowdin Quest_A_SW_01_03_menu2_END_bb08ef0e:
 msgid "[_a_] Oh well, I'd say... "
-msgstr ""
+msgstr "[_a_] Ah bueno, yo diría... "
 
 # game/Quest_Rooms_Separate02.rpy:1561 #-#-# translate crowdin Quest_A_SW_01_03_menu2_END_ef4ac3b4:
 msgid "[_a_] At least a good hundred or so!"
-msgstr ""
+msgstr "[_a_] ¡Por lo menos un buen centenar!"
 
 # game/Quest_Rooms_Separate02.rpy:1564 #-#-# translate crowdin Quest_A_SW_01_03_menu2_END_9ed4da81:
 msgid "[_a_] At least 10 or 20 times a day!"
-msgstr ""
+msgstr "[_a_] Por lo menos 10 o 20 veces al día!"
 
 # game/Quest_Rooms_Separate02.rpy:1567 #-#-# translate crowdin Quest_A_SW_01_03_menu2_END_2e47557e:
 msgid "[_a_] Oh, definitely doggy style. I love doggy style. "
-msgstr ""
+msgstr "[_a_] Oh, definitivamente estilo perrito. Me encanta el estilo perrito. "
 
 # game/Quest_Rooms_Separate02.rpy:1569 #-#-# translate crowdin Quest_A_SW_01_03_menu2_END_57e71dc9:
 msgid "[_a_] But like, tied up with leather ropes."
-msgstr ""
+msgstr "[_a_] Pero me gusta, atada con cuerdas de cuero."
 
 # game/Quest_Rooms_Separate02.rpy:1572 #-#-# translate crowdin Quest_A_SW_01_03_menu2_END_d6b21821:
 msgid "[_sw_] ..."
@@ -1806,7 +1806,7 @@ msgstr ""
 
 # game/Quest_Rooms_Separate02.rpy:1575 #-#-# translate crowdin Quest_A_SW_01_03_menu2_END_1f93e835:
 msgid "[_sw_] You're lying. "
-msgstr ""
+msgstr "[_sw_] Estás mintiendo. "
 
 # game/Quest_Rooms_Separate02.rpy:1577 #-#-# translate crowdin Quest_A_SW_01_03_menu2_END_7d54123a:
 msgid "[_a_] Mh?"
@@ -1814,15 +1814,15 @@ msgstr ""
 
 # game/Quest_Rooms_Separate02.rpy:1579 #-#-# translate crowdin Quest_A_SW_01_03_menu2_END_6f0ca78c:
 msgid "[_sw_] I know when a woman is lying. I can feel it. "
-msgstr ""
+msgstr "[_sw_] Sé cuando una mujer está mintiendo. Lo puedo sentir. "
 
 # game/Quest_Rooms_Separate02.rpy:1581 #-#-# translate crowdin Quest_A_SW_01_03_menu2_END_eb29e2a8:
 msgid "[_a_] I'm not..."
-msgstr ""
+msgstr "[_a_] no estoy..."
 
 # game/Quest_Rooms_Separate02.rpy:1583 #-#-# translate crowdin Quest_A_SW_01_03_menu2_END_c551d9f3:
 msgid "[_sw_] I grew up in a castle with a manipulative queen! I know what a lie is!"
-msgstr ""
+msgstr "[_sw_] ¡Crecí en un castillo con una reina manipuladora! ¡Sé lo que es una mentira!"
 
 # game/Quest_Rooms_Separate02.rpy:1585 #-#-# translate crowdin Quest_A_SW_01_03_menu2_END_02ecddd0:
 msgid "[_a_] I... "
@@ -1830,15 +1830,15 @@ msgstr ""
 
 # game/Quest_Rooms_Separate02.rpy:1587 #-#-# translate crowdin Quest_A_SW_01_03_menu2_END_59b1e469:
 msgid "[_sw_] Mh... if you're not even honest with me, there's no point in making a song about me!"
-msgstr ""
+msgstr "[_sw_] Mh... Si ni siquiera eres honesta conmigo, ¡no tiene sentido hacer una canción sobre mí!"
 
 # game/Quest_Rooms_Separate02.rpy:1589 #-#-# translate crowdin Quest_A_SW_01_03_menu2_END_9bd7a32f:
 msgid "[_sw_] And then... are you really a minstrel? "
-msgstr ""
+msgstr "[_sw_] Y entonces... ¿Realmente eres un juglar? "
 
 # game/Quest_Rooms_Separate02.rpy:1591 #-#-# translate crowdin Quest_A_SW_01_03_menu2_END_713bcc6b:
 msgid "[_a_] Yes, I... "
-msgstr ""
+msgstr "[_a_] Sí, yo... "
 
 # game/Quest_Rooms_Separate02.rpy:1593 #-#-# translate crowdin Quest_A_SW_01_03_menu2_END_4958b1e7:
 msgid "[_sw_] If you were one, you'd have to have a hat. Like with feathers and stuff. "
