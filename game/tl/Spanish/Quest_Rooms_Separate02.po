@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-04-04 04:30\n"
+"PO-Revision-Date: 2024-04-04 05:51\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Quest_Rooms_Separate02.rpy:125 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_peruche_1ffa9899:
 msgid "[_u_] What are you doing here? "
@@ -2798,161 +2798,161 @@ msgstr "{color=#797979}Es el pájaro tuyo?{/color} "
 
 # game/Quest_Rooms_Separate02.rpy:160
 msgid "{color=#f45fed}How can I prove I am trustworthy?{/color} "
-msgstr ""
+msgstr "{color=#f45fed}¿Cómo puedo demostrar que soy digno de confianza?{/color} "
 
 # game/Quest_Rooms_Separate02.rpy:298
 msgid "Do you find what you need? "
-msgstr ""
+msgstr "¿Encuentras lo que necesitabas? "
 
 # game/Quest_Rooms_Separate02.rpy:298
 msgid "{color=#3ad8ff}I found what I needed!{/color} "
-msgstr ""
+msgstr "{color=#3ad8ff}¡Encontré lo que necesitaba!{/color} "
 
 # game/Quest_Rooms_Separate02.rpy:356
 msgid "It could be the mysterious person. "
-msgstr ""
+msgstr "Podría ser la persona misteriosa. "
 
 # game/Quest_Rooms_Separate02.rpy:356
 msgid "What was there to steal? "
-msgstr ""
+msgstr "¿Qué había que robar? "
 
 # game/Quest_Rooms_Separate02.rpy:356
 msgid "Maybe some animals..."
-msgstr ""
+msgstr "Quizás algunos animales..."
 
 # game/Quest_Rooms_Separate02.rpy:648
 msgid "{color=#3ad8ff}I have everything you asked for!{/color}"
-msgstr ""
+msgstr "{color=#3ad8ff}¡Tengo todo lo que pedías!{/color}"
 
 # game/Quest_Rooms_Separate02.rpy:648
 msgid "Corruption"
-msgstr ""
+msgstr "Corrupción"
 
 # game/Quest_Rooms_Separate02.rpy:648
 msgid "{color=#636363}Would you like to change your clothes?{/color} {image=shirt02.png} "
-msgstr ""
+msgstr "{color=#636363}¿Quieres cambiar tu ropa?{/color} {image=shirt02.png} "
 
 # game/Quest_Rooms_Separate02.rpy:656
 msgid "{color=#3ad8ff}I need to know... Are you red everywhere?{/color} {image=heart01.png}"
-msgstr ""
+msgstr "{color=#3ad8ff}Necesito saber... ¿Estás rojo en todas partes?{/color} {image=heart01.png}"
 
 # game/Quest_Rooms_Separate02.rpy:656
 msgid "{color=#3ad8ff}I would like to know... Are you red everywhere?{/color} {image=heart02.png}"
-msgstr ""
+msgstr "{color=#3ad8ff}Me gustaría saber... ¿Estás rojo por todas partes?{/color} {image=heart02.png}"
 
 # game/Quest_Rooms_Separate02.rpy:656
 msgid "{color=#3ad8ff}I would love to see your face{/color} {image=heart01.png}"
-msgstr ""
+msgstr "{color=#3ad8ff}Me encantaría ver tu cara{/color} {image=heart01.png}"
 
 # game/Quest_Rooms_Separate02.rpy:656
 msgid "{color=#3ad8ff}I would love to see your face{/color} {image=heart02.png}"
-msgstr ""
+msgstr "{color=#3ad8ff}Me encantaría ver tu cara{/color} {image=heart02.png}"
 
 # game/Quest_Rooms_Separate02.rpy:656
 msgid "{color=#3ad8ff}Can you show me your boobs? {/color} {image=heart01.png}{image=heart01.png}"
-msgstr ""
+msgstr "{color=#3ad8ff}¿Puedes mostrarme tus tetas? {/color} {image=heart01.png}{image=heart01.png}"
 
 # game/Quest_Rooms_Separate02.rpy:656
 msgid "{color=#3ad8ff}Can you show me your boobs? {/color} {image=heart03.png}{image=heart01.png}"
-msgstr ""
+msgstr "{color=#3ad8ff}¿Puedes mostrarme tus tetas? {/color} {image=heart03.png}{image=heart01.png}"
 
 # game/Quest_Rooms_Separate02.rpy:796
 msgid "I didn't notice you were pretty before"
-msgstr ""
+msgstr "No me di cuenta de que eras bastante bonita antes"
 
 # game/Quest_Rooms_Separate02.rpy:796
 msgid "You have a pretty face."
-msgstr ""
+msgstr "Tienes una cara bonita."
 
 # game/Quest_Rooms_Separate02.rpy:796
 msgid "I had no idea your head was red. "
-msgstr ""
+msgstr "No tenía ni idea de que tu cabeza estuviera roja. "
 
 # game/Quest_Rooms_Separate02.rpy:1244
 msgid "I never said she was my wife"
-msgstr ""
+msgstr "Nunca dije que fuera mi esposa"
 
 # game/Quest_Rooms_Separate02.rpy:1244
 msgid "{color=#797979}I never said she was my wife{/color}"
-msgstr ""
+msgstr "{color=#797979}Nunca dije que fuera mi esposa{/color}"
 
 # game/Quest_Rooms_Separate02.rpy:1244
 msgid "Why are you so angry?"
-msgstr ""
+msgstr "¿Por qué estás tan enfadado?"
 
 # game/Quest_Rooms_Separate02.rpy:1244
 msgid "{color=#797979}Why are you so angry?{/color}"
-msgstr ""
+msgstr "{color=#797979}¿Por qué estás tan enojado?{/color}"
 
 # game/Quest_Rooms_Separate02.rpy:1244
 msgid "{color=#3ad8ff}Can we talk calmly?{/color}"
-msgstr ""
+msgstr "{color=#3ad8ff}¿Podemos hablar de calma?{/color}"
 
 # game/Quest_Rooms_Separate02.rpy:1445
 msgid "{color=#797979}What's your name?{/color}"
-msgstr ""
+msgstr "{color=#797979}¿Cuál es tu nombre?{/color}"
 
 # game/Quest_Rooms_Separate02.rpy:1445
 msgid "How old are you? "
-msgstr ""
+msgstr "¿Cuántos años tienes? "
 
 # game/Quest_Rooms_Separate02.rpy:1445
 msgid "{color=#797979}How old are you?{/color}"
-msgstr ""
+msgstr "{color=#797979}¿Cuántos años tienes?{/color}"
 
 # game/Quest_Rooms_Separate02.rpy:1445
 msgid "What do you do for a living?"
-msgstr ""
+msgstr "¿A qué te dedicas?"
 
 # game/Quest_Rooms_Separate02.rpy:1445
 msgid "{color=#797979}What do you do for a living?{/color}"
-msgstr ""
+msgstr "{color=#797979} ¿A qué te dedicas? {/color}"
 
 # game/Quest_Rooms_Separate02.rpy:1503
 msgid "What's your favourite color?"
-msgstr ""
+msgstr "¿Cuál es tu color favorito?"
 
 # game/Quest_Rooms_Separate02.rpy:1503
 msgid "{color=#797979}What's your favourite color?{/color}"
-msgstr ""
+msgstr "{color=#797979}¿Cuál es tu color favorito?{/color}"
 
 # game/Quest_Rooms_Separate02.rpy:1503
 msgid "What's your favourite animal?"
-msgstr ""
+msgstr "¿Cuál es tu animal favorito?"
 
 # game/Quest_Rooms_Separate02.rpy:1503
 msgid "{color=#797979}What's your favourite animal?{/color}"
-msgstr ""
+msgstr "{color=#797979}¿Cuál es tu animal favorito?{/color}"
 
 # game/Quest_Rooms_Separate02.rpy:1541
 msgid "How many men have you slept with? "
-msgstr ""
+msgstr "¿Con cuántos hombres te has acostado? "
 
 # game/Quest_Rooms_Separate02.rpy:1541
 msgid "How many times a day do you masturbate? "
-msgstr ""
+msgstr "¿Cuántas veces al día te masturbas? "
 
 # game/Quest_Rooms_Separate02.rpy:1541
 msgid "What's your favourite sexual position?"
-msgstr ""
+msgstr "¿Cuál es tu posición sexual favorita?"
 
 # game/Quest_Rooms_Separate02.rpy:1760
 msgid "All right, then. Show me your skills."
-msgstr ""
+msgstr "De acuerdo, entonces. Muéstrame tus habilidades."
 
 # game/Quest_Rooms_Separate02.rpy:1915
 msgid "*Positive ''Mh!''*"
-msgstr ""
+msgstr "*Positivo ''¡Mh!'*"
 
 # game/Quest_Rooms_Separate02.rpy:1915
 msgid "*Negative ''Mh!''*"
-msgstr ""
+msgstr "*Negativo ''¡Mh!'*"
 
 # game/Quest_Rooms_Separate02.rpy:2099
 msgid "Cum on her face"
-msgstr ""
+msgstr "Córrete en su cara"
 
 # game/Quest_Rooms_Separate02.rpy:2099
 msgid "Cum in her mouth"
-msgstr ""
+msgstr "Córrete en su boca"
 
