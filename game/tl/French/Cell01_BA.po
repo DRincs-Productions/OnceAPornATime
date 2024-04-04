@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-03-30 00:35\n"
+"PO-Revision-Date: 2024-04-04 21:50\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_BA.rpy:50 #-#-# translate crowdin CHARA_BA_Menu01_98aea068:
 msgid "[_ba_]  ... "
@@ -446,7 +446,7 @@ msgstr "[_ba_] Qu'est ce que je dois faire ? "
 
 # game/Cell01_BA.rpy:362 #-#-# translate crowdin Quest_BA_App01_01_a66d3af8:
 msgid "[_dj_] To fulfill this last wish, you'll have to..."
-msgstr "[Pour réaliser ce dernier souhait, vous devrez..."
+msgstr "[_dj_] Pour que j'exauce ton dernier vœu, tu devras..."
 
 # game/Cell01_BA.rpy:364 #-#-# translate crowdin Quest_BA_App01_01_1610f5d8:
 msgid "[_dj_] ...do whatever this man tells you. "
