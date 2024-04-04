@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-03-06 09:06\n"
+"PO-Revision-Date: 2024-04-04 05:51\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/expedition_02Loot.rpy:230 #-#-# translate crowdin Expedition_02_CHEST_94315d50:
 msgid "[_u_] It's some kind of locked chest... "
@@ -26,7 +26,7 @@ msgstr ""
 
 # game/expedition_02Loot.rpy:238 #-#-# translate crowdin EXPD_CHEST01_595302fd:
 msgid "''- PI (3 DIGITS) ''"
-msgstr ""
+msgstr "''-PI (3 DIGITOS) ''"
 
 # game/expedition_02Loot.rpy:246 #-#-# translate crowdin EXPD_CHEST01_6c737f2c:
 msgid "WRONG."
@@ -34,7 +34,7 @@ msgstr ""
 
 # game/expedition_02Loot.rpy:256 #-#-# translate crowdin EXPD_CHEST02_be2ee27a:
 msgid "''- THE ANTIC BOOK OF LOVE ''"
-msgstr ""
+msgstr "'- EL ANTIGUO LIBRE DEL AMOR ''"
 
 # game/expedition_02Loot.rpy:264 #-#-# translate crowdin EXPD_CHEST02_6c737f2c:
 msgid "WRONG."
@@ -42,7 +42,7 @@ msgstr ""
 
 # game/expedition_02Loot.rpy:274 #-#-# translate crowdin EXPD_CHEST03_36db4aaa:
 msgid "''- GUESS I'LL ''"
-msgstr ""
+msgstr "'- SUPONGO QUE LO HARE ''"
 
 # game/expedition_02Loot.rpy:282 #-#-# translate crowdin EXPD_CHEST03_6c737f2c:
 msgid "WRONG."
@@ -50,7 +50,7 @@ msgstr ""
 
 # game/expedition_02Loot.rpy:292 #-#-# translate crowdin EXPD_CHEST04_470694e4:
 msgid "''- MODERN PROBLEMS REQUIRE MODERN''"
-msgstr ""
+msgstr "''-LOS PROBLEMAS MODERNOS REQUIEREN SOLUCIONES MODERNAS ''"
 
 # game/expedition_02Loot.rpy:300 #-#-# translate crowdin EXPD_CHEST04_6c737f2c:
 msgid "WRONG."
@@ -58,7 +58,7 @@ msgstr ""
 
 # game/expedition_02Loot.rpy:310 #-#-# translate crowdin EXPD_CHEST05_48f5ce8b:
 msgid "''- ELEVEN IN ROMAN NUMERALS''"
-msgstr ""
+msgstr "'- ONCE EN NUMERALES ROMANOS''"
 
 # game/expedition_02Loot.rpy:318 #-#-# translate crowdin EXPD_CHEST05_6c737f2c:
 msgid "WRONG."
@@ -66,7 +66,7 @@ msgstr ""
 
 # game/expedition_02Loot.rpy:328 #-#-# translate crowdin EXPD_CHEST06_fc824a82:
 msgid "''- ROMEO AND ''"
-msgstr ""
+msgstr "'- ROMEO Y ''"
 
 # game/expedition_02Loot.rpy:336 #-#-# translate crowdin EXPD_CHEST06_6c737f2c:
 msgid "WRONG."
@@ -74,7 +74,7 @@ msgstr ""
 
 # game/expedition_02Loot.rpy:346 #-#-# translate crowdin EXPD_CHEST07_1dc19184:
 msgid "''- IT'S LEVIOSA NOT LEVIOSAAAAA''"
-msgstr ""
+msgstr "'- ES LEVIOSA NO LEVIOSAAAAAAAA''"
 
 # game/expedition_02Loot.rpy:357 #-#-# translate crowdin EXPD_CHEST07_6c737f2c:
 msgid "WRONG."
@@ -82,7 +82,7 @@ msgstr ""
 
 # game/expedition_02Loot.rpy:367 #-#-# translate crowdin EXPD_CHEST08_21026bd4:
 msgid "''- DO YOU KNOW DA''"
-msgstr ""
+msgstr "''- Conocer Día''"
 
 # game/expedition_02Loot.rpy:378 #-#-# translate crowdin EXPD_CHEST08_6c737f2c:
 msgid "WRONG."
@@ -90,7 +90,7 @@ msgstr ""
 
 # game/expedition_02Loot.rpy:388 #-#-# translate crowdin EXPD_CHEST09_d0fcd22b:
 msgid "''- SILVER FOR''"
-msgstr ""
+msgstr "''- PLATA PARA''"
 
 # game/expedition_02Loot.rpy:396 #-#-# translate crowdin EXPD_CHEST09_6c737f2c:
 msgid "WRONG."
@@ -98,7 +98,7 @@ msgstr ""
 
 # game/expedition_02Loot.rpy:406 #-#-# translate crowdin EXPD_CHEST10_3988ab30:
 msgid "''- SUCH BEAUTY MUCH WOW''"
-msgstr ""
+msgstr "'- SEMEJANTE BELLESA MUCHO FLOW''"
 
 # game/expedition_02Loot.rpy:414 #-#-# translate crowdin EXPD_CHEST10_6c737f2c:
 msgid "WRONG."
@@ -106,7 +106,7 @@ msgstr ""
 
 # game/expedition_02Loot.rpy:424 #-#-# translate crowdin EXPD_CHEST11_e0fc9cfe:
 msgid "''- WINNER WINNER CHICKEN''"
-msgstr ""
+msgstr "'- GANADOR, GANADOR GALLINA''"
 
 # game/expedition_02Loot.rpy:432 #-#-# translate crowdin EXPD_CHEST11_6c737f2c:
 msgid "WRONG."
@@ -114,7 +114,7 @@ msgstr ""
 
 # game/expedition_02Loot.rpy:442 #-#-# translate crowdin EXPD_CHEST12_08f3947b:
 msgid "''- I TOOK AN ARROW IN THE''"
-msgstr ""
+msgstr "''-TOMÉ UNA FLECHA EN EL''"
 
 # game/expedition_02Loot.rpy:450 #-#-# translate crowdin EXPD_CHEST12_6c737f2c:
 msgid "WRONG."
@@ -122,7 +122,7 @@ msgstr ""
 
 # game/expedition_02Loot.rpy:460 #-#-# translate crowdin EXPD_CHEST13_498bcb19:
 msgid "''- THIS VIDEO IS SPONSORED BY''"
-msgstr ""
+msgstr "''-ESTE VIDEO ES PATROCINADO POR''"
 
 # game/expedition_02Loot.rpy:471 #-#-# translate crowdin EXPD_CHEST13_6c737f2c:
 msgid "WRONG."
@@ -130,7 +130,7 @@ msgstr ""
 
 # game/expedition_02Loot.rpy:481 #-#-# translate crowdin EXPD_CHEST14_504dc833:
 msgid "''- THEYRE TAKING THE HOBBITS TO ''"
-msgstr ""
+msgstr "'- TOMANDO LOS HABITOS DE ''"
 
 # game/expedition_02Loot.rpy:489 #-#-# translate crowdin EXPD_CHEST14_6c737f2c:
 msgid "WRONG."
@@ -138,7 +138,7 @@ msgstr ""
 
 # game/expedition_02Loot.rpy:499 #-#-# translate crowdin EXPD_CHEST15_520398a7:
 msgid "''- A SOUL FOR A''"
-msgstr ""
+msgstr "''- UN ALMA POR UN''"
 
 # game/expedition_02Loot.rpy:507 #-#-# translate crowdin EXPD_CHEST15_6c737f2c:
 msgid "WRONG."
@@ -146,7 +146,7 @@ msgstr ""
 
 # game/expedition_02Loot.rpy:517 #-#-# translate crowdin EXPD_CHEST16_7afcc30c:
 msgid "''- HANS... GET ZE''"
-msgstr ""
+msgstr "''- SOLO... CONSIGUELOS''"
 
 # game/expedition_02Loot.rpy:525 #-#-# translate crowdin EXPD_CHEST16_6c737f2c:
 msgid "WRONG."
@@ -154,7 +154,7 @@ msgstr ""
 
 # game/expedition_02Loot.rpy:535 #-#-# translate crowdin EXPD_CHEST17_f42743b5:
 msgid "''- TOSS A COIN TO YOUR WITCHER OH VALLEY OF''"
-msgstr ""
+msgstr "''- LANZA UNA MONEDA A TU BRUJA DEL VALLE''"
 
 # game/expedition_02Loot.rpy:543 #-#-# translate crowdin EXPD_CHEST17_6c737f2c:
 msgid "WRONG."
@@ -162,71 +162,71 @@ msgstr ""
 
 # game/expedition_02Loot.rpy:701 #-#-# translate crowdin Expedition_02_ENDLOOT_6eecbab7:
 msgid "[_u_] Nice! Go give it to Lycoris, little drone!"
-msgstr ""
+msgstr "[_u_] ¡Genial! ¡Ve a dárselo a Lycoris, pequeño dron!"
 
 # game/expedition_02Loot.rpy:750 #-#-# translate crowdin Expedition_02_QuestsLvl2_d14161b0:
 msgid "[_u_] That's new."
-msgstr ""
+msgstr "[_u_] Eso es nuevo."
 
 # game/expedition_02Loot.rpy:751 #-#-# translate crowdin Expedition_02_QuestsLvl2_a34f93d7:
 msgid "[_u_] Why did you show me this? "
-msgstr ""
+msgstr "[_u_] ¿Por qué me mostraste esto? "
 
 # game/expedition_02Loot.rpy:752 #-#-# translate crowdin Expedition_02_QuestsLvl2_e54a7f0b:
 msgid "[_u_] Hey, Tinker! What have I found?"
-msgstr ""
+msgstr "[_u_] Hey, ¡Tinker! ¿Qué he encontrado?"
 
 # game/expedition_02Loot.rpy:754 #-#-# translate crowdin Expedition_02_QuestsLvl2_8efc9fd4:
 msgid "[_tb_] What do you say? "
-msgstr ""
+msgstr "[_tb_] ¿Qué dices? "
 
 # game/expedition_02Loot.rpy:756 #-#-# translate crowdin Expedition_02_QuestsLvl2_390d2465:
 msgid "[_tb_] Oh! This must surely be Outpost 23 in the ''Magic Forest'' area."
-msgstr ""
+msgstr "[_tb_] ¡Oh! Seguramente debe ser el puesto avanzado 23 en el área del ''Bosque Mágico''."
 
 # game/expedition_02Loot.rpy:758 #-#-# translate crowdin Expedition_02_QuestsLvl2_36102cb1:
 msgid "[_tb_] It is an observation post and a warehouse."
-msgstr ""
+msgstr "[_tb_] Es un puesto de observación y un almacén."
 
 # game/expedition_02Loot.rpy:760 #-#-# translate crowdin Expedition_02_QuestsLvl2_d0e658f7:
 msgid "[_tb_] Actualy... we used it to put everything we didn't know where to put... "
-msgstr ""
+msgstr "[_tb_] Realmente... lo usábamos para poner todo lo que no sabíamos dónde colocar... "
 
 # game/expedition_02Loot.rpy:761 #-#-# translate crowdin Expedition_02_QuestsLvl2_f6942f87:
 msgid "[_u_] Great, a garbage room. "
-msgstr ""
+msgstr "[_u_] Genial, una sala de basura. "
 
 # game/expedition_02Loot.rpy:762 #-#-# translate crowdin Expedition_02_QuestsLvl2_00fe4e2f:
 msgid "[_u_] Do you think there might be tools in there? "
-msgstr ""
+msgstr "[_u_] ¿Crees que podría haber herramientas allí? "
 
 # game/expedition_02Loot.rpy:764 #-#-# translate crowdin Expedition_02_QuestsLvl2_f012f2c2:
 msgid "[_tb_] Gosh, no Idea!"
-msgstr ""
+msgstr "[_tb_] Dios, ¡ni Idea!"
 
 # game/expedition_02Loot.rpy:766 #-#-# translate crowdin Expedition_02_QuestsLvl2_da3b6de0:
 msgid "[_tb_] I'll put a teleportation point there if you want to take a look."
-msgstr ""
+msgstr "[_tb_] Pondré un punto de teletransporte allí si quieres echarle un vistazo."
 
 # game/expedition_02Loot.rpy:783 #-#-# translate crowdin Expedition_02_QuestsLvl2_e0ab0c9c:
 msgid "[_u_] What is this thing doing here? "
-msgstr ""
+msgstr "[_u_] ¿Qué está haciendo esta cosa aquí? "
 
 # game/expedition_02Loot.rpy:784 #-#-# translate crowdin Expedition_02_QuestsLvl2_d82e7a6a:
 msgid "[_u_] It doesn't look old... "
-msgstr ""
+msgstr "[_u_] No parece antiguo... "
 
 # game/expedition_02Loot.rpy:785 #-#-# translate crowdin Expedition_02_QuestsLvl2_7faf4016:
 msgid "[_u_] In fact, it's brand new."
-msgstr ""
+msgstr "[_u_] De hecho, es totalmente nuevo."
 
 # game/expedition_02Loot.rpy:786 #-#-# translate crowdin Expedition_02_QuestsLvl2_cc565bd7:
 msgid "[_u_] And it's a luxury suitcase..."
-msgstr ""
+msgstr "[_u_] Y es una maleta de lujo..."
 
 # game/expedition_02Loot.rpy:787 #-#-# translate crowdin Expedition_02_QuestsLvl2_f73bb457:
 msgid "[_u_] Who could be rich enough to afford a suitcase like that? "
-msgstr ""
+msgstr "[_u_] ¿Quién podría ser lo suficientemente rico como para permitirse una maleta como esa? "
 
 # game/expedition_02Loot.rpy:788 #-#-# translate crowdin Expedition_02_QuestsLvl2_7b1c1392:
 msgid "[_u_] ..."
@@ -234,11 +234,11 @@ msgstr "[_u_] ..."
 
 # game/expedition_02Loot.rpy:804 #-#-# translate crowdin Expedition_02_QuestsLvl2_266e7731:
 msgid "[_u_] Hey, Amandine!"
-msgstr ""
+msgstr "[_u_] Hey, ¡Amandine!"
 
 # game/expedition_02Loot.rpy:805 #-#-# translate crowdin Expedition_02_QuestsLvl2_ffe2eb22:
 msgid "[_u_] I found another one of your luggage!"
-msgstr ""
+msgstr "¡[_u_] he encontrado otro de tu equipaje!"
 
 # game/expedition_02Loot.rpy:814 #-#-# translate crowdin Expedition_02_QuestsLvl2_93443bbf:
 msgid "[_a_] Great!"
@@ -246,19 +246,19 @@ msgstr ""
 
 # game/expedition_02Loot.rpy:816 #-#-# translate crowdin Expedition_02_QuestsLvl2_bcfa6146:
 msgid "[_a_] I think there's only one left. "
-msgstr ""
+msgstr "[_a_] creo que sólo queda uno. "
 
 # game/expedition_02Loot.rpy:817 #-#-# translate crowdin Expedition_02_QuestsLvl2_6d15fede:
 msgid "[_u_] Okay, I'll see if I can find it. "
-msgstr ""
+msgstr "[_u_] Vale, veré si puedo encontrarlo. "
 
 # game/expedition_02Loot.rpy:819 #-#-# translate crowdin Expedition_02_QuestsLvl2_f3bb4d31:
 msgid "[_a_] Merci [name]!"
-msgstr ""
+msgstr "[_a_] Merci [nombre]!"
 
 # game/expedition_02Loot.rpy:839 #-#-# translate crowdin Expedition_02_QuestsLvl2_88834378:
 msgid "[_u_] And here's the last one!"
-msgstr ""
+msgstr "[_u_] ¡Y aquí está el último!"
 
 # game/expedition_02Loot.rpy:840 #-#-# translate crowdin Expedition_02_QuestsLvl2_1b29416e:
 msgid "[_u_] Let's go see Amandine."
@@ -266,15 +266,15 @@ msgstr ""
 
 # game/expedition_02Loot.rpy:855 #-#-# translate crowdin Expedition_02_QuestsLvl2_a55158c7:
 msgid "[_u_] Wow... this is useless..."
-msgstr ""
+msgstr "[_u_] Vaya... esto es inútil..."
 
 # game/expedition_02Loot.rpy:856 #-#-# translate crowdin Expedition_02_QuestsLvl2_915dd1ae:
 msgid "[_u_] Melissandre? Can you do anything with a pair of broken wings? "
-msgstr ""
+msgstr "[_u_] Melisandre? ¿Se puede hacer algo con un par de alas rotas? "
 
 # game/expedition_02Loot.rpy:865 #-#-# translate crowdin Expedition_02_QuestsLvl2_6dcf64ee:
 msgid "[_ml_] No, it's useless. "
-msgstr ""
+msgstr "[_ml_] No, es inútil. "
 
 # game/expedition_02Loot.rpy:871 #-#-# translate crowdin Expedition_02_QuestsLvl2_181d9be5:
 msgid "[_u_] Yup..."
@@ -282,11 +282,11 @@ msgstr ""
 
 # game/expedition_02Loot.rpy:872 #-#-# translate crowdin Expedition_02_QuestsLvl2_c1222762:
 msgid "[_u_] Let's keep looking. "
-msgstr ""
+msgstr "[_u_] Sigamos buscando. "
 
 # game/expedition_02Loot.rpy:888 #-#-# translate crowdin Expedition_02_QuestsLvl3_2ac62fd7:
 msgid "[_u_] And here's the feather!"
-msgstr ""
+msgstr "[_u_] ¡Y aquí está la pluma!"
 
 # game/expedition_02Loot.rpy:889 #-#-# translate crowdin Expedition_02_QuestsLvl3_1b29416e:
 msgid "[_u_] Let's go see Amandine."
