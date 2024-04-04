@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-04-03 03:36\n"
+"PO-Revision-Date: 2024-04-04 00:37\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Scene2jm02.rpy:5 #-#-# translate crowdin Quest_JM_Favor_Feather1_03_f924725a:
 msgid "[_a_] Absolutely perfect."
@@ -478,31 +478,31 @@ msgstr "[_jm_] 我... "
 
 # game/Scene2jm02.rpy:624 #-#-# translate crowdin Quest_JM_Favor_Feather1_Corrupt1_PUn3_7565eb62:
 msgid "[_jm_] I guess it'll bring me some fresh air... you're right."
-msgstr ""
+msgstr "[_jm_] 我想那样可以让我呼吸到新鲜空气... 你说的有道理。"
 
 # game/Scene2jm02.rpy:628 #-#-# translate crowdin Quest_JM_Favor_Feather1_Corrupt1_END_396acca5:
 msgid "[_u_] Did she fall asleep like that? "
-msgstr ""
+msgstr "[_u_] 她是这样睡着的吗？ "
 
 # game/Scene2jm02.rpy:629 #-#-# translate crowdin Quest_JM_Favor_Feather1_Corrupt1_END_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Scene2jm02.rpy:630 #-#-# translate crowdin Quest_JM_Favor_Feather1_Corrupt1_END_e5141684:
 msgid "[_u_] She really just have an orgasm with her breasts alone..."
-msgstr ""
+msgstr "[_u_] 她真的只用一侧的奶子就性高潮了..."
 
 # game/Scene2jm02.rpy:631 #-#-# translate crowdin Quest_JM_Favor_Feather1_Corrupt1_END_0529a669:
 msgid "[_u_] Wow..."
-msgstr ""
+msgstr "[_u_] 哇哦..."
 
 # game/Scene2jm02.rpy:632 #-#-# translate crowdin Quest_JM_Favor_Feather1_Corrupt1_END_fb37c614:
 msgid "[_u_] She must be hot... maybe I should... undress her. "
-msgstr ""
+msgstr "[_u_] 她的身材一定很好... 也许我该... 给她宽衣解带。 "
 
 # game/Scene2jm02.rpy:633 #-#-# translate crowdin Quest_JM_Favor_Feather1_Corrupt1_END_7b1c1392_1:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Scene2jm02.rpy:641 #-#-# translate crowdin Quest_JM_Favor_Feather1_Corrupt1_END_1975ead9:
 msgid "[_u_] There, that's better."
@@ -958,11 +958,11 @@ msgstr ""
 
 # game/Scene2jm02.rpy:1196 #-#-# translate crowdin Quest_JM_Favor_Feather1_Corrupt2_PUn3_7565eb62:
 msgid "[_jm_] I guess it'll bring me some fresh air... you're right."
-msgstr ""
+msgstr "[_jm_] 我想那样可以让我呼吸到新鲜空气... 你说的有道理。"
 
 # game/Scene2jm02.rpy:1200 #-#-# translate crowdin Quest_JM_Favor_Feather1_Corrupt2_END_396acca5:
 msgid "[_u_] Did she fall asleep like that? "
-msgstr ""
+msgstr "[_u_] 她是这样睡着的吗？ "
 
 # game/Scene2jm02.rpy:1201 #-#-# translate crowdin Quest_JM_Favor_Feather1_Corrupt2_END_7b1c1392:
 msgid "[_u_] ..."
@@ -970,7 +970,7 @@ msgstr ""
 
 # game/Scene2jm02.rpy:1202 #-#-# translate crowdin Quest_JM_Favor_Feather1_Corrupt2_END_e5141684:
 msgid "[_u_] She really just have an orgasm with her breasts alone..."
-msgstr ""
+msgstr "[_u_] 她真的只用一侧的奶子就性高潮了..."
 
 # game/Scene2jm02.rpy:1203 #-#-# translate crowdin Quest_JM_Favor_Feather1_Corrupt2_END_0529a669:
 msgid "[_u_] Wow..."
@@ -978,7 +978,7 @@ msgstr ""
 
 # game/Scene2jm02.rpy:1204 #-#-# translate crowdin Quest_JM_Favor_Feather1_Corrupt2_END_fb37c614:
 msgid "[_u_] She must be hot... maybe I should... undress her. "
-msgstr ""
+msgstr "[_u_] 她的身材一定很好... 也许我该... 给她宽衣解带。 "
 
 # game/Scene2jm02.rpy:1205 #-#-# translate crowdin Quest_JM_Favor_Feather1_Corrupt2_END_7b1c1392_1:
 msgid "[_u_] ..."
