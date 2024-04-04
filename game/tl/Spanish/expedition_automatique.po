@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-02-26 09:13\n"
+"PO-Revision-Date: 2024-04-04 05:51\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/expedition_automatique.rpy:107 #-#-# translate crowdin Drone01_Panel_9ea2f78c:
 msgid " "
@@ -34,37 +34,37 @@ msgstr ""
 
 # §translate crowdin strings: #|#|# # game/expedition_automatique.rpy:225
 msgid "Fix the Drone {color=#a0fc86}(35c){/color}"
-msgstr ""
+msgstr "Arreglar el Dron {color=#a0fc86}(35c){/color}"
 
 # game/expedition_automatique.rpy:225
 msgid "RESURECTION {color=#a0fc86}(55c){/color}"
-msgstr ""
+msgstr "RESURRECCION {color=#a0fc86}(55c){/color}"
 
 # game/expedition_automatique.rpy:225
 msgid "Send Drone"
-msgstr ""
+msgstr "Enviar dron"
 
 # game/expedition_automatique.rpy:225
 msgid "Recall"
-msgstr ""
+msgstr "Retirar dron"
 
 # game/expedition_automatique.rpy:225
 msgid " =Back to the office= "
-msgstr ""
+msgstr " =Volver a la oficina= "
 
 # game/expedition_automatique.rpy:447
 msgid "Drone01 // Default Drone"
-msgstr ""
+msgstr "Drone01 // Dron predeterminado"
 
 # game/expedition_automatique.rpy:447
 msgid "Drone02 // Petal"
-msgstr ""
+msgstr "Drone02 // Petalo"
 
 # game/expedition_automatique.rpy:447
 msgid "Drone03 // GunPowder"
-msgstr ""
+msgstr "Drone03 // Pólvora"
 
 # game/expedition_automatique.rpy:447
 msgid "Drone04 // Cupidity "
-msgstr ""
+msgstr "Drone04 // Cupido "
 
