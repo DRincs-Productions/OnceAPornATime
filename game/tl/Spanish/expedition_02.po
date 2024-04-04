@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-04-04 18:49\n"
+"PO-Revision-Date: 2024-04-04 20:02\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/expedition_02.rpy:17 #-#-# translate crowdin expedition_02_5f2bfafc:
 msgid "[_u_] I don't need this drone at the moment. "
@@ -22,25 +22,25 @@ msgstr ""
 
 # §translate crowdin strings: #|#|# # game/expedition_02.rpy:71
 msgid "$Drone Energy Boost 3AP ([ITEM_DRONE_2APBOOST] left) "
-msgstr ""
+msgstr "$Drone Aumento de Energía 3AP ([DRON_TIENE_2IMPULSOS] izquierda) "
 
 # game/expedition_02.rpy:71
 msgid "$Drone Energy Boost 5AP ([ITEM_DRONE_5APBOOST] left) "
-msgstr ""
+msgstr "$Drone Aumento de Energía 5AP ([DRON_TIENE_5IMPULSOS] izquierda) "
 
 # game/expedition_02.rpy:71
 msgid "$No thanks !"
-msgstr ""
+msgstr "$No gracias!"
 
 # game/expedition_02.rpy:422
 msgid "$Search the area {color=#3797d1}=2AP={/color} "
-msgstr ""
+msgstr "$Buscar­ en la zona {color=#3797d1}=2AP={/color} "
 
 # game/expedition_02.rpy:422
 msgid "$Keep moving forward {color=#3797d1}=1AP={/color} (1-3 slots)"
-msgstr ""
+msgstr "$Seguir avanzando {color=#3797d1}=1AP={/color} (1-3 ranuras)"
 
 # game/expedition_02.rpy:422
 msgid "$Bring back the Drone {color=#3797d1}=1AP={/color}"
-msgstr ""
+msgstr "$Traer de vuelta el Dron {color=#3797d1}=1AP={/color}"
 
