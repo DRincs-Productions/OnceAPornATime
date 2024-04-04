@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-04-04 05:51\n"
+"PO-Revision-Date: 2024-04-04 18:49\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/expedition_02Loot.rpy:230 #-#-# translate crowdin Expedition_02_CHEST_94315d50:
 msgid "[_u_] It's some kind of locked chest... "
@@ -298,15 +298,15 @@ msgstr ""
 
 # game/expedition_02Loot.rpy:905 #-#-# translate crowdin Expedition_02_QuestsLvl3_5bb4b525:
 msgid "[_u_] I hope Lycoris manages to change this dress before Sherazade realizes it's gone. "
-msgstr ""
+msgstr "[_u_] Espero que Lycoris logre cambiar este vestido antes de que Sherazade se dé cuenta de que ya no esta. "
 
 # game/expedition_02Loot.rpy:920 #-#-# translate crowdin Expedition_02_QuestsLvl3_6aecdb4b:
 msgid "[_u_] That's better!"
-msgstr ""
+msgstr "[_u_] ¡Eso es mejor!"
 
 # game/expedition_02Loot.rpy:921 #-#-# translate crowdin Expedition_02_QuestsLvl3_aefc00b5:
 msgid "[_u_] Well, it wasn't that complicated. "
-msgstr ""
+msgstr "[_u_] Bueno, no fue tan complicado. "
 
 # game/expedition_02Loot.rpy:928 #-#-# translate crowdin Expedition_02_QuestsLvl3_0f07ccc4:
 msgid "[_u_] ?"
@@ -314,9 +314,9 @@ msgstr ""
 
 # game/expedition_02Loot.rpy:929 #-#-# translate crowdin Expedition_02_QuestsLvl3_0052d0cd:
 msgid "[_u_] There seems to be a message next to the wings... "
-msgstr ""
+msgstr "[_u_] Parece haber un mensaje junto a las alas... "
 
 # game/expedition_02Loot.rpy:930 #-#-# translate crowdin Expedition_02_QuestsLvl3_174883c1:
 msgid "[_u_] Let's get it all back. "
-msgstr ""
+msgstr "[_u_] Vamos a recuperarlo todo. "
 
