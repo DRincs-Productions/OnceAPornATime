@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-03-31 04:36\n"
+"PO-Revision-Date: 2024-04-05 06:29\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Scene2jm02.rpy:5 #-#-# translate crowdin Quest_JM_Favor_Feather1_03_f924725a:
 msgid "[_a_] Absolutely perfect."
@@ -1062,7 +1062,7 @@ msgstr "[_u_] Entendido, Tinker."
 
 # game/Scene2jm02.rpy:1290 #-#-# translate crowdin Quest_JM_Favor_Feather1_04_d0e42162:
 msgid "[_tb_] Melissandre tells me she's been working on a way to detect androids at a precise distance. "
-msgstr "[_tb_] Melisa me dice que ha estado trabajando en una manera de detectar los androides a una distancia precisa. "
+msgstr "[_tb_] Melissandre me dijo que ha estado trabajando en una manera de detectar los androides a una distancia precisa. "
 
 # game/Scene2jm02.rpy:1292 #-#-# translate crowdin Quest_JM_Favor_Feather1_04_c42f5794:
 msgid "[_tb_] Go and see if you can help her."
@@ -1074,7 +1074,7 @@ msgstr "[_u_] Entendido."
 
 # game/Scene2jm02.rpy:1295 #-#-# translate crowdin Quest_JM_Favor_Feather1_04_96ccccbd:
 msgid "[_tb_] And uh... Amandine? The feather was a good idea. "
-msgstr "[_tb_] Y uh... ¿Amelia? La pluma fue una buena idea. "
+msgstr "[_tb_] Y uh... ¿Amandine? La pluma fue una buena idea. "
 
 # game/Scene2jm02.rpy:1297 #-#-# translate crowdin Quest_JM_Favor_Feather1_04_b723624a:
 msgid "[_a_] Thanks a lot Boss! "
