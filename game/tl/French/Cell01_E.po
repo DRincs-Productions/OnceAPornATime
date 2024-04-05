@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-03-19 17:20\n"
+"PO-Revision-Date: 2024-04-05 13:02\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_E.rpy:71 #-#-# translate crowdin Cell01_E_QuestActivations_9ef65d05:
 msgid "[_u_] Whose ship is this? "
@@ -1242,7 +1242,7 @@ msgstr "[C'était un plaisir de vous rencontrer !"
 
 # game/Cell01_E.rpy:1341 #-#-# translate crowdin Emee_FirstAppChap2_menu1_P5_e804692b:
 msgid "[_a_] And if you have any questions about my book don't hesitate!"
-msgstr "[Et si vous avez des questions sur mon livre, n'hésitez pas !"
+msgstr "[_a_] Et si vous avez des questions sur mon livre, n'hésitez pas !"
 
 # game/Cell01_E.rpy:1343 #-#-# translate crowdin Emee_FirstAppChap2_menu1_P5_1a98eb2a:
 msgid "[_e_] Uh thank you very much I uh..."
