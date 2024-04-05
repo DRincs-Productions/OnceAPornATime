@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-04-02 22:13\n"
+"PO-Revision-Date: 2024-04-05 06:29\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Room_Showers.rpy:121 #-#-# translate crowdin ML_ShowerCams01_02_ec3b9bb7:
 msgid "[_u_] Meli?"
@@ -646,7 +646,7 @@ msgstr "¡Nos vemos pronto!"
 
 # game/Room_Showers.rpy:513
 msgid "Damn Lyco... you weren't lying..."
-msgstr "Maldito Lyco... no estabas mintiendo..."
+msgstr "Maldita Lyco... no estabas mintiendo..."
 
 # game/Room_Showers.rpy:513
 msgid "*Don't say anything*"
