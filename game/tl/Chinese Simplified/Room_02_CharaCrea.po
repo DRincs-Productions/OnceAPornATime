@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-03-26 16:04\n"
+"PO-Revision-Date: 2024-04-06 03:58\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Room_02_CharaCrea.rpy:10 #-#-# translate crowdin Room_02_CharaCrea_3d26d832:
 msgid "[_u_] No need to create anything yet. "
@@ -810,11 +810,11 @@ msgstr " {color=#3c96f2}={/color} {color=#3ad8ff}梅莉山大 // ''基本衣服'
 
 # game/Room_02_CharaCrea.rpy:177
 msgid " {color=#3c96f2}={/color} {color=#3ad8ff}Amandine // ''French Chemise'' // Variation{/color} {color=#3c96f2}={/color} "
-msgstr " {color=#3c96f2}={/color} {color=#3ad8ff}阿芒迪娜 // ''法式衬衫'' // Variation{/color} {color=#3c96f2}={/color} "
+msgstr " {color=#3c96f2}={/color} {color=#3ad8ff}阿曼丁 // ''法式衬衫'' // 改版{/color} {color=#3c96f2}={/color} "
 
 # game/Room_02_CharaCrea.rpy:177
 msgid " {color=#3c96f2}={/color} {color=#f45fed}Amandine // ''Minstrel Clothes''{/color} {color=#3c96f2}={/color} "
-msgstr " {color=#3c96f2}={/color} {color=#f45fed}阿芒迪娜 // ''吟游诗人衣服''{/color} {color=#3c96f2}={/color} "
+msgstr " {color=#3c96f2}={/color} {color=#f45fed}阿曼丁 // ''吟游诗人衣服''{/color} {color=#3c96f2}={/color} "
 
 # game/Room_02_CharaCrea.rpy:187
 msgid "{color=#3c96f2}([CLOTHEDATA]/2) Clothes Data {/color} and {color=#a0fc86} ([ITEM_CLOTHESSCRAPS01]/3) Clothes Scraps {color=#a0fc86}"
@@ -842,7 +842,7 @@ msgstr " {color=#3c96f2}={/color} 莉可莉丝 // ''公主发夹'' {color=#3c96f
 
 # game/Room_02_CharaCrea.rpy:952
 msgid " {color=#3c96f2}={/color} {color=#f45fed}Amandine // ''Minstrel Hat''{/color} {color=#3c96f2}={/color} "
-msgstr " {color=#3c96f2}={/color} {color=#f45fed}阿芒迪娜 // ''吟游诗人帽子''{/color} {color=#3c96f2}={/color} "
+msgstr " {color=#3c96f2}={/color} {color=#f45fed}阿曼丁 // ''吟游诗人帽子''{/color} {color=#3c96f2}={/color} "
 
 # game/Room_02_CharaCrea.rpy:994
 msgid "{color=#3c96f2}([CLOTHEDATA]/3) Clothes Data {/color} and {color=#a0fc86} ([ITEM_CLOTHESSCRAPS01]/3) Clothes Scraps {color=#a0fc86}"
