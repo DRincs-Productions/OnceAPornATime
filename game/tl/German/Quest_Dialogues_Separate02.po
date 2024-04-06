@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2024-04-02 08:00\n"
+"PO-Revision-Date: 2024-04-06 22:12\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Quest_Dialogues_Separate02.rpy:69 #-#-# translate crowdin Quest2_Room01Panel01screen_E_8240cba6:
 msgid "[_u_] Got it!"
@@ -2578,7 +2578,7 @@ msgstr ""
 
 # game/Quest_Dialogues_Separate02.rpy:2006 #-#-# translate crowdin QuestChap2_Jasmine01_menu01_P1_d1e4ca25:
 msgid "-----"
-msgstr ""
+msgstr "-----"
 
 # game/Quest_Dialogues_Separate02.rpy:2015 #-#-# translate crowdin QuestChap2_Jasmine01_04_85629024:
 msgid "[_tb_] So, you decided to take up the challenge? "
