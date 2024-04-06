@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-04-06 03:58\n"
+"PO-Revision-Date: 2024-04-06 08:38\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Scene2jm02.rpy:5 #-#-# translate crowdin Quest_JM_Favor_Feather1_03_f924725a:
 msgid "[_a_] Absolutely perfect."
@@ -1190,11 +1190,11 @@ msgstr "[_u_] 呃... 你是叫什么名字来着... "
 
 # game/Scene2jm02.rpy:1376 #-#-# translate crowdin Quest_JM_Favor_Feather1_04_02_4f72216d:
 msgid "[_scc_] Succk."
-msgstr ""
+msgstr "[_scc_] 苏可。"
 
 # game/Scene2jm02.rpy:1378 #-#-# translate crowdin Quest_JM_Favor_Feather1_04_02_6b29698f:
 msgid "[_scc_] Took you long enough to come and get me! I've been here for 30 minutes! "
-msgstr ""
+msgstr "[_scc_] 你花了这么长的时间才过来救我！我已经卡在这里半小时了！ "
 
 # game/Scene2jm02.rpy:1380 #-#-# translate crowdin Quest_JM_Favor_Feather1_04_02_80e5bea7:
 msgid "[_u_] I wasn't actually here for you at all... "
