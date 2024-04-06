@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-04-04 00:37\n"
+"PO-Revision-Date: 2024-04-06 02:26\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Scene2jm02.rpy:5 #-#-# translate crowdin Quest_JM_Favor_Feather1_03_f924725a:
 msgid "[_a_] Absolutely perfect."
@@ -506,31 +506,31 @@ msgstr "[_u_] ..."
 
 # game/Scene2jm02.rpy:641 #-#-# translate crowdin Quest_JM_Favor_Feather1_Corrupt1_END_1975ead9:
 msgid "[_u_] There, that's better."
-msgstr ""
+msgstr "[_u_] 好了，这样就好多了。"
 
 # game/Scene2jm02.rpy:650 #-#-# translate crowdin Quest_JM_Favor_Feather1_Corrupt1_END_bfaad367:
 msgid "[_a_] Why is she naked?"
-msgstr ""
+msgstr "[_a_] 为什么她会全裸着？"
 
 # game/Scene2jm02.rpy:651 #-#-# translate crowdin Quest_JM_Favor_Feather1_Corrupt1_END_7b1c1392_2:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Scene2jm02.rpy:652 #-#-# translate crowdin Quest_JM_Favor_Feather1_Corrupt1_END_33cdcf01:
 msgid "[_u_] She wanted to cool down."
-msgstr ""
+msgstr "[_u_] 她是想降温吧。"
 
 # game/Scene2jm02.rpy:654 #-#-# translate crowdin Quest_JM_Favor_Feather1_Corrupt1_END_c7cf805a:
 msgid "[_a_] Well, I guess my plan worked!"
-msgstr ""
+msgstr "[_a_] 嗯，我想我的计划奏效了！"
 
 # game/Scene2jm02.rpy:656 #-#-# translate crowdin Quest_JM_Favor_Feather1_Corrupt1_END_75c8afd7:
 msgid "[_a_] Come back to the headquarter and tomorrow, I promise, she'll fuck you over. "
-msgstr ""
+msgstr "[_a_] 快回来总部，我保证你明天就会被她上个欲仙欲死了。 "
 
 # game/Scene2jm02.rpy:657 #-#-# translate crowdin Quest_JM_Favor_Feather1_Corrupt1_END_a837bdd0:
 msgid "[_u_] Eheh... "
-msgstr ""
+msgstr "[_u_] 呃... "
 
 # game/Scene2jm02.rpy:676 #-#-# translate crowdin Quest_JM_Favor_Feather1_03CORRUPTION2_fc3411cf:
 msgid "[_jm_] Are you going to tell me what I'm doing on this bed? "
@@ -986,11 +986,11 @@ msgstr ""
 
 # game/Scene2jm02.rpy:1213 #-#-# translate crowdin Quest_JM_Favor_Feather1_Corrupt2_END_1975ead9:
 msgid "[_u_] There, that's better."
-msgstr ""
+msgstr "[_u_] 好了，这样就好多了。"
 
 # game/Scene2jm02.rpy:1222 #-#-# translate crowdin Quest_JM_Favor_Feather1_Corrupt2_END_bfaad367:
 msgid "[_a_] Why is she naked?"
-msgstr ""
+msgstr "[_a_] 为什么她会全裸着？"
 
 # game/Scene2jm02.rpy:1223 #-#-# translate crowdin Quest_JM_Favor_Feather1_Corrupt2_END_7b1c1392_2:
 msgid "[_u_] ..."
@@ -998,15 +998,15 @@ msgstr ""
 
 # game/Scene2jm02.rpy:1224 #-#-# translate crowdin Quest_JM_Favor_Feather1_Corrupt2_END_33cdcf01:
 msgid "[_u_] She wanted to cool down."
-msgstr ""
+msgstr "[_u_] 她是想降温吧。"
 
 # game/Scene2jm02.rpy:1226 #-#-# translate crowdin Quest_JM_Favor_Feather1_Corrupt2_END_c7cf805a:
 msgid "[_a_] Well, I guess my plan worked!"
-msgstr ""
+msgstr "[_a_] 嗯，我想我的计划奏效了！"
 
 # game/Scene2jm02.rpy:1228 #-#-# translate crowdin Quest_JM_Favor_Feather1_Corrupt2_END_75c8afd7:
 msgid "[_a_] Come back to the headquarter and tomorrow, I promise, she'll fuck you over. "
-msgstr ""
+msgstr "[_a_] 快回来总部，我保证你明天就会被她上个欲仙欲死了。 "
 
 # game/Scene2jm02.rpy:1229 #-#-# translate crowdin Quest_JM_Favor_Feather1_Corrupt2_END_a837bdd0:
 msgid "[_u_] Eheh... "
