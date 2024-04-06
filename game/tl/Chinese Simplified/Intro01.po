@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-03-17 09:20\n"
+"PO-Revision-Date: 2024-04-06 03:58\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Intro01.rpy:64 #-#-# translate crowdin Intro01_93eeba4f:
 msgid "[_tb_] Greetings!"
@@ -1522,7 +1522,7 @@ msgstr "[_ml_] 奇幻书作者？"
 
 # game/Intro01.rpy:1700 #-#-# translate crowdin GalleryImageQuest_Melissandre01_45386120:
 msgid "[_e_] Is this Amandine de Beauregard??"
-msgstr "[_e_] 是那位阿芒丁·德·博勒加尔吗？"
+msgstr "[_e_] 是那位阿曼丁·德·博勒加尔吗？"
 
 # game/Intro01.rpy:1707 #-#-# translate crowdin GalleryImageQuest_Melissandre01_e86c8d33:
 msgid "[_tb_] ...."
