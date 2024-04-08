@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2024-04-08 18:03\n"
+"PO-Revision-Date: 2024-04-08 19:01\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Quest_Dialogues_Separate02.rpy:69 #-#-# translate crowdin Quest2_Room01Panel01screen_E_8240cba6:
 msgid "[_u_] Got it!"
@@ -2422,7 +2422,7 @@ msgstr ""
 
 # game/Quest_Dialogues_Separate02.rpy:1895 #-#-# translate crowdin QuestChap2_Jasmine01_01_2c0b9bd8:
 msgid "[_u_] Uh..."
-msgstr ""
+msgstr "[_u_] Hm..."
 
 # game/Quest_Dialogues_Separate02.rpy:1896 #-#-# translate crowdin QuestChap2_Jasmine01_01_b04da323:
 msgid "[_u_] Come in?"
@@ -7145,7 +7145,7 @@ msgstr ""
 
 # game/Quest_Dialogues_Separate02.rpy:5286 #-#-# translate crowdin Ml_Ali_01_05_menu1_93adb657:
 msgid "[_u_] Yeah... "
-msgstr ""
+msgstr "[_am_] Ja... "
 
 # game/Quest_Dialogues_Separate02.rpy:5288 #-#-# translate crowdin Ml_Ali_01_05_menu1_849fd301:
 msgid "[_u_] It seems they had some particularly strange plans in mind. "
