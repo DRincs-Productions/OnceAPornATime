@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2024-03-25 22:15\n"
+"PO-Revision-Date: 2024-04-08 20:00\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Scene2jm02.rpy:5 #-#-# translate crowdin Quest_JM_Favor_Feather1_03_f924725a:
 msgid "[_a_] Absolutely perfect."
@@ -1242,7 +1242,7 @@ msgstr "[_u_] ..."
 
 # game/Scene2jm02.rpy:1396 #-#-# translate crowdin Quest_JM_Favor_Feather1_04_02_733695e2:
 msgid "[_u_] You want me to fuck you?"
-msgstr ""
+msgstr "[_u_] Хочешь, чтобы я тебя трахнул?"
 
 # game/Scene2jm02.rpy:1397 #-#-# translate crowdin Quest_JM_Favor_Feather1_04_02_6baf01fa:
 msgid "[_scc_] What?! It's just a suggestion!"
