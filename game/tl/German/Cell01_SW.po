@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2024-04-08 10:23\n"
+"PO-Revision-Date: 2024-04-08 19:01\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_SW.rpy:309 #-#-# translate crowdin CHARA_SW_Menu01_8238495a:
 msgid "[_sw_]  ... "
@@ -8982,7 +8982,7 @@ msgstr ""
 
 # game/Cell01_SW.rpy:7303 #-#-# translate crowdin Quest_SW_GOLDCOIN_06_adventure_93adb657:
 msgid "[_u_] Yeah... "
-msgstr ""
+msgstr "[_am_] Ja... "
 
 # game/Cell01_SW.rpy:7304 #-#-# translate crowdin Quest_SW_GOLDCOIN_06_adventure_dcc30c9e:
 msgid "[_u_] They're always with their boobs out or worse, completely naked."
@@ -14378,7 +14378,7 @@ msgstr ""
 
 # game/Cell01_SW.rpy:11138 #-#-# translate crowdin Quest_SW_MagicMirror04_2c0b9bd8:
 msgid "[_u_] Uh..."
-msgstr ""
+msgstr "[_u_] Hm..."
 
 # game/Cell01_SW.rpy:11139 #-#-# translate crowdin Quest_SW_MagicMirror04_d3d87735:
 msgid "[_u_] Maybe we can save us some time and do it now, right?"
