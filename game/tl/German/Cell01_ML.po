@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2024-04-08 18:03\n"
+"PO-Revision-Date: 2024-04-08 19:01\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_ML.rpy:73 #-#-# translate crowdin CHARA_ML_Menu01_b7639ffd:
 msgid "[_ml_] Yo."
@@ -566,7 +566,7 @@ msgstr ""
 
 # game/Cell01_ML.rpy:660 #-#-# translate crowdin QuestChap2_Amandine02_2_1_6ed1789e:
 msgid "[_u_] uh... "
-msgstr ""
+msgstr "[_tb_] Hm... "
 
 # game/Cell01_ML.rpy:662 #-#-# translate crowdin QuestChap2_Amandine02_2_1_2828e14b:
 msgid "[_ml_] And the thermal one, not the simple. "
