@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2024-03-25 23:18\n"
+"PO-Revision-Date: 2024-04-08 21:47\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Quest_Dialogues_Separate02.rpy:69 #-#-# translate crowdin Quest2_Room01Panel01screen_E_8240cba6:
 msgid "[_u_] Got it!"
@@ -6409,7 +6409,7 @@ msgstr ""
 
 # game/Quest_Dialogues_Separate02.rpy:4874 #-#-# translate crowdin GalleryImageQuest_Tinker03_6e86bbb4:
 msgid "[_u_] Roger."
-msgstr ""
+msgstr "[_u_] Принял."
 
 # game/Quest_Dialogues_Separate02.rpy:4878 #-#-# translate crowdin GalleryImageQuest_Tinker03_9f2ddc89:
 msgid "[_tb_] OooOOOH !!"
