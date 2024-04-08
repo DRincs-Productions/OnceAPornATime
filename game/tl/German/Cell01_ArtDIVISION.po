@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2024-04-08 12:10\n"
+"PO-Revision-Date: 2024-04-08 18:03\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_ArtDIVISION.rpy:151 #-#-# translate crowdin Cell01_ArtDIVISION_Menu01_ed0ef4ce:
 msgid "[_a_] Bonjour [name]!"
@@ -194,7 +194,7 @@ msgstr "[_a_] Und ich liebe den Ozean, also ist der Ausblick hier perfekt!"
 
 # game/Cell01_ArtDIVISION.rpy:465 #-#-# translate crowdin Quest2_A_Talk01_3c0bdeef:
 msgid "[_u_] Don't make me believe this."
-msgstr ""
+msgstr "[_u_] Zwing mich nicht das zu glauben."
 
 # game/Cell01_ArtDIVISION.rpy:467 #-#-# translate crowdin Quest2_A_Talk01_5c84ae8e:
 msgid "[_u_] You must be so rich with your books."
@@ -210,7 +210,7 @@ msgstr "[_u_] Und doch hast du diesen Stein mitten im Nirgendwo gewählt."
 
 # game/Cell01_ArtDIVISION.rpy:472 #-#-# translate crowdin Quest2_A_Talk01_19eadc94:
 msgid "[_u_] I mean... It's just... why?"
-msgstr ""
+msgstr "[_u_] Ich meine... Es ist nur... warum?"
 
 # game/Cell01_ArtDIVISION.rpy:473 #-#-# translate crowdin Quest2_A_Talk01_bb8e4b4e:
 msgid "[_a_] ..."
@@ -222,7 +222,7 @@ msgstr "[_a_] Zuerst... Es war eine Burg. Kein Herrenhaus. "
 
 # game/Cell01_ArtDIVISION.rpy:477 #-#-# translate crowdin Quest2_A_Talk01_0f59fa88:
 msgid "[_a_] And most importantly, it was."
-msgstr ""
+msgstr "[_a_] Und am wichtigsten, es war."
 
 # game/Cell01_ArtDIVISION.rpy:479 #-#-# translate crowdin Quest2_A_Talk01_f0c740ce:
 msgid "[_a_] I sold everything when I came here."
@@ -234,7 +234,7 @@ msgstr "[_u_] ?"
 
 # game/Cell01_ArtDIVISION.rpy:482 #-#-# translate crowdin Quest2_A_Talk01_ec6c75ec:
 msgid "[_a_] Let's talk about something else, shall we? "
-msgstr ""
+msgstr "[_a_] Lass uns über etwas anderes sprechen "
 
 # game/Cell01_ArtDIVISION.rpy:491 #-#-# translate crowdin Quest2_A_Talk02_2a9fddb6:
 msgid "[_a_] I uh... "
@@ -258,27 +258,27 @@ msgstr "..."
 
 # game/Cell01_ArtDIVISION.rpy:505 #-#-# translate crowdin Quest2_A_Talk02_33d9cd0e:
 msgid "[_a_] Would you like to get some fresh air with me? "
-msgstr ""
+msgstr "[_a_] Möchtest du etwas frische Luft schnappen? "
 
 # game/Cell01_ArtDIVISION.rpy:506 #-#-# translate crowdin Quest2_A_Talk02_01e1e878:
 msgid "[_u_] Sure, why not. "
-msgstr ""
+msgstr "[_u_] Klar, warum nicht. "
 
 # game/Cell01_ArtDIVISION.rpy:519 #-#-# translate crowdin Quest2_A_Talk02_4ed873da:
 msgid "[_a_] This place is really gorgeous."
-msgstr ""
+msgstr "[_a_] Wow, es ist ja echt schön hier."
 
 # game/Cell01_ArtDIVISION.rpy:520 #-#-# translate crowdin Quest2_A_Talk02_1b588e6b:
 msgid "[_u_] You think so?"
-msgstr ""
+msgstr "[_u_] Findest du?"
 
 # game/Cell01_ArtDIVISION.rpy:524 #-#-# translate crowdin Quest2_A_Talk02_c923f30f:
 msgid "[_a_] I mean... It is a ruin... "
-msgstr ""
+msgstr "[_a_] Nun ja... dieser Planet hat sicher schon besser Zeiten gesehen... "
 
 # game/Cell01_ArtDIVISION.rpy:525 #-#-# translate crowdin Quest2_A_Talk02_84b65d83:
 msgid "[_u_] And attrociously isolated."
-msgstr ""
+msgstr "[_u_] Und schrecklich abgelegen."
 
 # game/Cell01_ArtDIVISION.rpy:527 #-#-# translate crowdin Quest2_A_Talk02_b254d6e7:
 msgid "[_a_] Precisely. "
@@ -294,7 +294,7 @@ msgstr "[_a_] Um deine Frage von früher zu beantworten... "
 
 # game/Cell01_ArtDIVISION.rpy:533 #-#-# translate crowdin Quest2_A_Talk02_9a0c4fe1:
 msgid "[_a_] No, I'm not making any progress with my latest book. "
-msgstr ""
+msgstr "[_a_] Nein, ich komme leider nicht vorwärts mit meinem neusten Buch. "
 
 # game/Cell01_ArtDIVISION.rpy:535 #-#-# translate crowdin Quest2_A_Talk02_20d48f81:
 msgid "[_a_] In fact, I think it's even worse than that... "
@@ -310,7 +310,7 @@ msgstr "[_u_] Wow..."
 
 # game/Cell01_ArtDIVISION.rpy:538 #-#-# translate crowdin Quest2_A_Talk02_ef6d0da5:
 msgid "[_a_] Yes I know, quite an exclusive information I'm offering you here. "
-msgstr ""
+msgstr "[_a_] Ja, ich weiß, das ist ziemlich exklusive Info, die ich dir hier anbiete. "
 
 # game/Cell01_ArtDIVISION.rpy:539 #-#-# translate crowdin Quest2_A_Talk02_2d4bdace:
 msgid "[_a_] Actually, you see... I started my book series when I was still in college... "
@@ -372,15 +372,15 @@ msgstr "[_u_] Wow... "
 
 # game/Cell01_ArtDIVISION.rpy:588 #-#-# translate crowdin QuestChap2_Amandine02_02_22651ff2:
 msgid "[_u_] That's a big room."
-msgstr ""
+msgstr "[_u_] Das ist ein echt großes Zimmer."
 
 # game/Cell01_ArtDIVISION.rpy:590 #-#-# translate crowdin QuestChap2_Amandine02_02_fb1bc22c:
 msgid "[_u_] Amandine? "
-msgstr ""
+msgstr "[_u_] Amandine? "
 
 # game/Cell01_ArtDIVISION.rpy:591 #-#-# translate crowdin QuestChap2_Amandine02_02_ae5dfb89:
 msgid "[_u_] Anybody there?"
-msgstr ""
+msgstr "[_u_] Jemand da?"
 
 # game/Cell01_ArtDIVISION.rpy:592 #-#-# translate crowdin QuestChap2_Amandine02_02_7b1c1392:
 msgid "[_u_] ..."
@@ -388,15 +388,15 @@ msgstr "..."
 
 # game/Cell01_ArtDIVISION.rpy:593 #-#-# translate crowdin QuestChap2_Amandine02_02_d337807a:
 msgid "[_u_] Mh..."
-msgstr ""
+msgstr "[_tb_] Hm..."
 
 # game/Cell01_ArtDIVISION.rpy:594 #-#-# translate crowdin QuestChap2_Amandine02_02_811c578d:
 msgid "[_u_] Let's take a closer look at this room."
-msgstr ""
+msgstr "[_u_] Lass uns dieses Zimmer genauer anschauen."
 
 # game/Cell01_ArtDIVISION.rpy:651 #-#-# translate crowdin QuestChap2_Amandine02_02_ROOM_mug_6bc3b449:
 msgid "[_u_] the coffee is still hot."
-msgstr ""
+msgstr "[_u_] der Kaffee ist noch heiß."
 
 # game/Cell01_ArtDIVISION.rpy:652 #-#-# translate crowdin QuestChap2_Amandine02_02_ROOM_mug_621193b9:
 msgid "[_u_] Amandine must not be far."
@@ -4944,7 +4944,7 @@ msgstr ""
 
 # game/Cell01_ArtDIVISION.rpy:3709 #-#-# translate crowdin A_GoShower_OFFICE_01_fb1bc22c:
 msgid "[_u_] Amandine? "
-msgstr ""
+msgstr "[_u_] Amandine? "
 
 # game/Cell01_ArtDIVISION.rpy:3710 #-#-# translate crowdin A_GoShower_OFFICE_01_7b1c1392:
 msgid "[_u_] ..."
