@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2024-03-28 21:50\n"
+"PO-Revision-Date: 2024-04-08 10:23\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_SZ.rpy:87 #-#-# translate crowdin CHARA_SZ_Menu01_af6c6a0a:
 msgid "[_sz_]  ... "
@@ -170,7 +170,7 @@ msgstr ""
 
 # game/Cell01_SZ.rpy:314 #-#-# translate crowdin Quest_SZ_Favor_Cape03_07c612b3:
 msgid "[_u_] Well..."
-msgstr ""
+msgstr "[_u_] Nun ja..."
 
 # game/Cell01_SZ.rpy:318 #-#-# translate crowdin Quest_SZ_Favor_Cape03_d34c898c:
 msgid "[_sz_] There's no way that's going to happen."
@@ -3146,7 +3146,7 @@ msgstr ""
 
 # game/Cell01_SZ.rpy:2145 #-#-# translate crowdin Quest_SZ_Favor_Dos03_05d56d8e:
 msgid "[_tb_] ..."
-msgstr ""
+msgstr "[_tb_] ..."
 
 # game/Cell01_SZ.rpy:2146 #-#-# translate crowdin Quest_SZ_Favor_Dos03_aaeb5add:
 msgid "[_tb_] I didn't think about it. "
@@ -3154,7 +3154,7 @@ msgstr ""
 
 # game/Cell01_SZ.rpy:2147 #-#-# translate crowdin Quest_SZ_Favor_Dos03_b0ff36fe:
 msgid "[_u_] Gosh..."
-msgstr ""
+msgstr "[_u_] Gott..."
 
 # game/Cell01_SZ.rpy:2149 #-#-# translate crowdin Quest_SZ_Favor_Dos03_c142ca56:
 msgid "[_u_] I'll look for it with the drone, right? "
@@ -3974,7 +3974,7 @@ msgstr ""
 
 # game/Cell01_SZ.rpy:2738 #-#-# translate crowdin GalleryImageQuest_Lycoris01_05d56d8e:
 msgid "[_tb_] ..."
-msgstr ""
+msgstr "[_tb_] ..."
 
 # game/Cell01_SZ.rpy:2739 #-#-# translate crowdin GalleryImageQuest_Lycoris01_470dd860:
 msgid "[_tb_] No."
@@ -5314,7 +5314,7 @@ msgstr ""
 
 # game/Cell01_SZ.rpy:3679 #-#-# translate crowdin QuestChap2_LyStart_E_03_P1_menu2_P2_b0ff36fe:
 msgid "[_u_] Gosh..."
-msgstr ""
+msgstr "[_u_] Gott..."
 
 # game/Cell01_SZ.rpy:3681 #-#-# translate crowdin QuestChap2_LyStart_E_03_P1_menu2_P2_2ae39244:
 msgid "[_u_] I really hope there's some gorgeous women in this brothel."
