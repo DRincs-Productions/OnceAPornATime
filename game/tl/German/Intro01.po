@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2024-04-08 10:23\n"
+"PO-Revision-Date: 2024-04-08 18:03\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Intro01.rpy:64 #-#-# translate crowdin Intro01_93eeba4f:
 msgid "[_tb_] Greetings!"
@@ -1610,7 +1610,7 @@ msgstr ""
 
 # game/Intro01.rpy:1782 #-#-# translate crowdin GalleryImageQuest_Melissandre01_d337807a:
 msgid "[_u_] Mh..."
-msgstr ""
+msgstr "[_tb_] Hm..."
 
 # game/Intro01.rpy:1783 #-#-# translate crowdin GalleryImageQuest_Melissandre01_b6db975f:
 msgid "[_u_] Well, it's not like I have anything else to do. "
