@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2024-04-06 22:12\n"
+"PO-Revision-Date: 2024-04-08 10:23\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_E.rpy:71 #-#-# translate crowdin Cell01_E_QuestActivations_9ef65d05:
 msgid "[_u_] Whose ship is this? "
@@ -398,7 +398,7 @@ msgstr ""
 
 # game/Cell01_E.rpy:691 #-#-# translate crowdin Quest2_E_Talk02_b0ff36fe:
 msgid "[_u_] Gosh..."
-msgstr ""
+msgstr "[_u_] Gott..."
 
 # game/Cell01_E.rpy:693 #-#-# translate crowdin Quest2_E_Talk02_76bd31f7:
 msgid "[_e_] What? We are not going to wait for months again, are we? "
