@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2024-04-08 18:03\n"
+"PO-Revision-Date: 2024-04-08 19:01\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_JM.rpy:131 #-#-# translate crowdin CHARA_JM_Menu01_0eca5cd6:
 msgid "[_jm_] Hello to you... my [Quest_JM_NameMC]."
@@ -998,7 +998,7 @@ msgstr ""
 
 # game/Cell01_JM.rpy:925 #-#-# translate crowdin Quest_JM_Favor_HideNude_2c0b9bd8:
 msgid "[_u_] Uh..."
-msgstr ""
+msgstr "[_u_] Hm..."
 
 # game/Cell01_JM.rpy:926 #-#-# translate crowdin Quest_JM_Favor_HideNude_0a23c90a:
 msgid "[_u_] The only thing I see is a big mass of hair. "
@@ -3498,7 +3498,7 @@ msgstr "..."
 
 # game/Cell01_JM.rpy:2549 #-#-# translate crowdin Quest_JM_Favor_Unicorn2_2c0b9bd8:
 msgid "[_u_] Uh..."
-msgstr ""
+msgstr "[_u_] Hm..."
 
 # game/Cell01_JM.rpy:2551 #-#-# translate crowdin Quest_JM_Favor_Unicorn2_31a6062e:
 msgid "[_jm_] Go ahead, convince me."
@@ -4814,7 +4814,7 @@ msgstr ""
 
 # game/Cell01_JM.rpy:3753 #-#-# translate crowdin Quest_JM_Favor_Feather1_2c0b9bd8:
 msgid "[_u_] Uh..."
-msgstr ""
+msgstr "[_u_] Hm..."
 
 # game/Cell01_JM.rpy:3755 #-#-# translate crowdin Quest_JM_Favor_Feather1_d37c5fef:
 msgid "[_u_] Does it really matter which feather I use? "
@@ -4914,7 +4914,7 @@ msgstr ""
 
 # game/Cell01_JM.rpy:3808 #-#-# translate crowdin A_Jasmine_FeatherAgony_01_menu01_2c0b9bd8:
 msgid "[_u_] Uh..."
-msgstr ""
+msgstr "[_u_] Hm..."
 
 # game/Cell01_JM.rpy:3810 #-#-# translate crowdin A_Jasmine_FeatherAgony_01_menu01_dc344376:
 msgid "[_a_] I'm not judging! "
@@ -5670,7 +5670,7 @@ msgstr ""
 
 # game/Cell01_JM.rpy:4428 #-#-# translate crowdin QuestChap2_Jasmine01_07_2c0b9bd8:
 msgid "[_u_] Uh..."
-msgstr ""
+msgstr "[_u_] Hm..."
 
 # game/Cell01_JM.rpy:4429 #-#-# translate crowdin QuestChap2_Jasmine01_07_11de86d8:
 msgid "[_u_] I can find that..."
