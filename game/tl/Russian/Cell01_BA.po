@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2024-04-08 20:00\n"
+"PO-Revision-Date: 2024-04-08 21:47\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_BA.rpy:50 #-#-# translate crowdin CHARA_BA_Menu01_98aea068:
 msgid "[_ba_]  ... "
@@ -778,27 +778,27 @@ msgstr "[_dj_] О боже, да!!!"
 
 # game/Cell01_BA.rpy:568 #-#-# translate crowdin Ml_Ali_01_08_menu1_34785a39:
 msgid "[_dj_] Do we do it here?"
-msgstr ""
+msgstr "[_dj_] Сделаем это здесь?"
 
 # game/Cell01_BA.rpy:569 #-#-# translate crowdin Ml_Ali_01_08_menu1_e6ac5ec2:
 msgid "[_u_] Mh... isn't there somewhere better? "
-msgstr ""
+msgstr "[_u_] Мм... Разве нет места получше? "
 
 # game/Cell01_BA.rpy:571 #-#-# translate crowdin Ml_Ali_01_08_menu1_cd699045:
 msgid "[_dj_] In your bedroom? "
-msgstr ""
+msgstr "[_dj_] В твоей спальне? "
 
 # game/Cell01_BA.rpy:572 #-#-# translate crowdin Ml_Ali_01_08_menu1_cd47d549:
 msgid "[_u_] I have the worst room in the whole HQ... My bed ain't even big enough for me, girl. "
-msgstr ""
+msgstr "[_u_] У меня самая плохая комната во всей штаб-квартире... Моя кровать даже недостаточно велика для меня, детка. "
 
 # game/Cell01_BA.rpy:574 #-#-# translate crowdin Ml_Ali_01_08_menu1_22e7a3b0:
 msgid "[_dj_] Oh, I know. I've got the perfect place in mind... "
-msgstr ""
+msgstr "[_dj_] О, я знаю идеальное место... "
 
 # game/Cell01_BA.rpy:591 #-#-# translate crowdin Ml_Ali_01_08_menu1_bb19c423:
 msgid "[_dj_] I understand... Maybe that was a little too quick. "
-msgstr ""
+msgstr "[_dj_] Понимаю... Возможно, я поспешила. "
 
 # game/Cell01_BA.rpy:593 #-#-# translate crowdin Ml_Ali_01_08_menu1_e760f4c2:
 msgid "[_dj_] See you later [name]!"
@@ -810,107 +810,107 @@ msgstr "[_dj_] Привет!"
 
 # game/Cell01_BA.rpy:607 #-#-# translate crowdin GalleryImageQuest_Djin01_02dd136e:
 msgid "[_u_] Wow... A fuck above the city rooftops... "
-msgstr ""
+msgstr "[_u_] Вау... Секс над городскими крышами... "
 
 # game/Cell01_BA.rpy:609 #-#-# translate crowdin GalleryImageQuest_Djin01_fa7488bd:
 msgid "[_dj_] Yeah, I know... not bad, right? "
-msgstr ""
+msgstr "[_dj_] Да, я знаю... Неплохо, правда? "
 
 # game/Cell01_BA.rpy:610 #-#-# translate crowdin GalleryImageQuest_Djin01_e159d12e:
 msgid "[_u_] I'll make your screams of pleasure echo throughout the city."
-msgstr ""
+msgstr "[_u_] Я сделаю так, что твои крики наслаждения будут разноситься по всему городу."
 
 # game/Cell01_BA.rpy:612 #-#-# translate crowdin GalleryImageQuest_Djin01_3c4eae98:
 msgid "[_dj_] Hehe !"
-msgstr ""
+msgstr "[_dj_] Хехе!"
 
 # game/Cell01_BA.rpy:615 #-#-# translate crowdin GalleryImageQuest_Djin01_26362b12:
 msgid "[_dj_] What are we waiting for then ?"
-msgstr ""
+msgstr "[_dj_] Чего же мы ждем?"
 
 # game/Cell01_BA.rpy:617 #-#-# translate crowdin GalleryImageQuest_Djin01_e55cc2e9:
 msgid "[_dj_] Boy, I can see you weren't lying... you're hard as a rock."
-msgstr ""
+msgstr "[_dj_] Вижу ты не врал... Ты твердый как камень."
 
 # game/Cell01_BA.rpy:620 #-#-# translate crowdin GalleryImageQuest_Djin01_f0080833:
 msgid "[_dj_] Fuck, I can't wait!!"
-msgstr ""
+msgstr "[_dj_] Черт, не могу дождаться!!"
 
 # game/Cell01_BA.rpy:626 #-#-# translate crowdin GalleryImageQuest_Djin01_8fea9f07:
 msgid "[_dj_] Your dick is not a joke..."
-msgstr ""
+msgstr "[_dj_] Твой член - это не шутка..."
 
 # game/Cell01_BA.rpy:628 #-#-# translate crowdin GalleryImageQuest_Djin01_29169f3c:
 msgid "[_dj_] I was a virgin for so long, all of my body is burning..."
-msgstr ""
+msgstr "[_dj_] Я так долго была девственницей, что все мое тело горит..."
 
 # game/Cell01_BA.rpy:630 #-#-# translate crowdin GalleryImageQuest_Djin01_2a7c48ba:
 msgid "[_u_] Your virgin pussy feels good as fuck too."
-msgstr ""
+msgstr "[_u_] Твоя киска тоже очень хороша."
 
 # game/Cell01_BA.rpy:632 #-#-# translate crowdin GalleryImageQuest_Djin01_94e905ff:
 msgid "[_dj_] Hmmm..."
-msgstr ""
+msgstr "[_dj_] Хммм..."
 
 # game/Cell01_BA.rpy:634 #-#-# translate crowdin GalleryImageQuest_Djin01_ec39aa33:
 msgid "[_dj_] Do you think going deeper is an option ?"
-msgstr ""
+msgstr "[_dj_] Как думаешь, ты сможешь войти глубже?"
 
 # game/Cell01_BA.rpy:636 #-#-# translate crowdin GalleryImageQuest_Djin01_450b1e86:
 msgid "[_u_] I can, if you feel ready."
-msgstr ""
+msgstr "[_u_] Я могу, если будешь готова."
 
 # game/Cell01_BA.rpy:638 #-#-# translate crowdin GalleryImageQuest_Djin01_8d751557:
 msgid "[_dj_] Yay !"
-msgstr ""
+msgstr "[_dj_] Да!"
 
 # game/Cell01_BA.rpy:640 #-#-# translate crowdin GalleryImageQuest_Djin01_dd023583:
 msgid "[_dj_] I'm okay, you can fuck me harder !"
-msgstr ""
+msgstr "[_dj_] Я в порядке, можешь трахать меня сильнее!"
 
 # game/Cell01_BA.rpy:642 #-#-# translate crowdin GalleryImageQuest_Djin01_344a6033:
 msgid "[_u_] As you want."
-msgstr ""
+msgstr "[_u_] Как захочешь."
 
 # game/Cell01_BA.rpy:644 #-#-# translate crowdin GalleryImageQuest_Djin01_09194efe:
 msgid "[_dj_] OooOOh !"
-msgstr ""
+msgstr "[_dj_] Оооооо!"
 
 # game/Cell01_BA.rpy:646 #-#-# translate crowdin GalleryImageQuest_Djin01_d03d39c1:
 msgid "[_dj_] Thats..."
-msgstr ""
+msgstr "[_dj_] Это..."
 
 # game/Cell01_BA.rpy:648 #-#-# translate crowdin GalleryImageQuest_Djin01_fd7f9b7b:
 msgid "[_dj_] Interesting"
-msgstr ""
+msgstr "[_dj_] Интересно"
 
 # game/Cell01_BA.rpy:650 #-#-# translate crowdin GalleryImageQuest_Djin01_e40f7a91:
 msgid "[_dj_] Mmmfh... I..."
-msgstr ""
+msgstr "[_dj_] Мммм... Я..."
 
 # game/Cell01_BA.rpy:652 #-#-# translate crowdin GalleryImageQuest_Djin01_3560f8bc:
 msgid "[_dj_] Damn... this feeling is incredible!"
-msgstr ""
+msgstr "[_dj_] Черт... Это невероятное ощущает!"
 
 # game/Cell01_BA.rpy:654 #-#-# translate crowdin GalleryImageQuest_Djin01_fb2ef9a4:
 msgid "[_dj_] Hmmmmhhh!..."
-msgstr ""
+msgstr "[_dj_] Хммммм!..."
 
 # game/Cell01_BA.rpy:656 #-#-# translate crowdin GalleryImageQuest_Djin01_7056211d:
 msgid "[_dj_] Thank you !"
-msgstr ""
+msgstr "[_dj_] Спасибо!"
 
 # game/Cell01_BA.rpy:658 #-#-# translate crowdin GalleryImageQuest_Djin01_852a37f3:
 msgid "[_dj_] To be honest, I'm starting to regret not having sex sooner in my existence."
-msgstr ""
+msgstr "[_dj_] Честно говоря, я жалею о том, что не занималась сексом раньше в своей жизни."
 
 # game/Cell01_BA.rpy:660 #-#-# translate crowdin GalleryImageQuest_Djin01_40d4843d:
 msgid "[_dj_] But that's fine ! I can do this with you, so it's perfect !"
-msgstr ""
+msgstr "[_dj_] Но все нормально! Ведь я могу сделать это вместе с тобой, так что все замечательно!"
 
 # game/Cell01_BA.rpy:662 #-#-# translate crowdin GalleryImageQuest_Djin01_dd548db0:
 msgid "[_dj_] Don't start to get above oneself. I can see your mischievous little grin."
-msgstr ""
+msgstr "[_dj_] Не возомни о себе лишнего. Я вижу твою озорную ухмылку."
 
 # game/Cell01_BA.rpy:664 #-#-# translate crowdin GalleryImageQuest_Djin01_7b1c1392:
 msgid "[_u_] ..."
@@ -918,107 +918,107 @@ msgstr "[_u_] ..."
 
 # game/Cell01_BA.rpy:666 #-#-# translate crowdin GalleryImageQuest_Djin01_804ce4bb:
 msgid "[_dj_] Hehe ! I'm kidding !"
-msgstr ""
+msgstr "[_dj_] Хехе! Я шучу!"
 
 # game/Cell01_BA.rpy:668 #-#-# translate crowdin GalleryImageQuest_Djin01_9ff4b23e:
 msgid "[_dj_] You have all the right to receive praise."
-msgstr ""
+msgstr "[_dj_] Ты имеешь полное право на похвалу."
 
 # game/Cell01_BA.rpy:670 #-#-# translate crowdin GalleryImageQuest_Djin01_066a0507:
 msgid "[_dj_] You're mad talented with your dick."
-msgstr ""
+msgstr "[_dj_] Ты очень талантливо управляешься с членом."
 
 # game/Cell01_BA.rpy:672 #-#-# translate crowdin GalleryImageQuest_Djin01_b438454e:
 msgid "[_dj_] Hmmnn..."
-msgstr ""
+msgstr "[_dj_] Хммм..."
 
 # game/Cell01_BA.rpy:674 #-#-# translate crowdin GalleryImageQuest_Djin01_b8330c26:
 msgid "[_dj_] What about pushing things 'further'...?"
-msgstr ""
+msgstr "[_dj_] Как насчет того, чтобы продвинуться \"дальше\"...?"
 
 # game/Cell01_BA.rpy:676 #-#-# translate crowdin GalleryImageQuest_Djin01_0aa9c61f:
 msgid "[_dj_] I want to feel those little butterflies all the way to my tum tum."
-msgstr ""
+msgstr "[_dj_] Я хочу почувствовать бабочек в животе."
 
 # game/Cell01_BA.rpy:678 #-#-# translate crowdin GalleryImageQuest_Djin01_6e86bbb4:
 msgid "[_u_] Roger."
-msgstr ""
+msgstr "[_u_] Принял."
 
 # game/Cell01_BA.rpy:680 #-#-# translate crowdin GalleryImageQuest_Djin01_48517ab1:
 msgid "[_dj_] Aaaanh!"
-msgstr ""
+msgstr "[_dj_] Аааанх!"
 
 # game/Cell01_BA.rpy:682 #-#-# translate crowdin GalleryImageQuest_Djin01_3ea7b207:
 msgid "[_dj_] Fuck..."
-msgstr ""
+msgstr "[_dj_] Черт..."
 
 # game/Cell01_BA.rpy:684 #-#-# translate crowdin GalleryImageQuest_Djin01_b187c036:
 msgid "[_dj_] Oh, you got me melting in there !"
-msgstr ""
+msgstr "[_dj_] Ох, ты заставляешь меня растаять!"
 
 # game/Cell01_BA.rpy:686 #-#-# translate crowdin GalleryImageQuest_Djin01_e3b4e397:
 msgid "[_dj_] I'm happy to be able to realise one of my personnal wish..."
-msgstr ""
+msgstr "[_dj_] Я так рада, что смогла реализовать свое желание..."
 
 # game/Cell01_BA.rpy:688 #-#-# translate crowdin GalleryImageQuest_Djin01_22d4eee0:
 msgid "[_dj_] Getting railed by a big boy like you !"
-msgstr ""
+msgstr "[_dj_] Чтобы меня оттрахал такой большой мальчик как ты!"
 
 # game/Cell01_BA.rpy:690 #-#-# translate crowdin GalleryImageQuest_Djin01_a2200403:
 msgid "[_u_] I'm kind of your sex genie then ?"
-msgstr ""
+msgstr "[_u_] Значит, я своего рода твой сексуальный джин?"
 
 # game/Cell01_BA.rpy:692 #-#-# translate crowdin GalleryImageQuest_Djin01_fc66e49e:
 msgid "[_dj_] Oooh you much more than that..."
-msgstr ""
+msgstr "[_dj_] Ооо, ты намного лучше, чем он..."
 
 # game/Cell01_BA.rpy:694 #-#-# translate crowdin GalleryImageQuest_Djin01_15ac1daa:
 msgid "[_dj_] You're the chosen one to take MY genie purity... "
-msgstr ""
+msgstr "[_dj_] Ты избранный, чтобы забрать мою девственность... "
 
 # game/Cell01_BA.rpy:696 #-#-# translate crowdin GalleryImageQuest_Djin01_cea818cb:
 msgid "[_dj_] What an honor, right ?"
-msgstr ""
+msgstr "[_dj_] Какая честь, правда?"
 
 # game/Cell01_BA.rpy:698 #-#-# translate crowdin GalleryImageQuest_Djin01_bfad1311:
 msgid "[_u_] Yes. Truly an honor."
-msgstr ""
+msgstr "[_u_] Да. Это большая честь."
 
 # game/Cell01_BA.rpy:700 #-#-# translate crowdin GalleryImageQuest_Djin01_53b5020f:
 msgid "[_dj_] Awww How cute !"
-msgstr ""
+msgstr "[_dj_] Оуу Как мило!"
 
 # game/Cell01_BA.rpy:702 #-#-# translate crowdin GalleryImageQuest_Djin01_1e9246a4:
 msgid "[_dj_] I love playing little games like that with you."
-msgstr ""
+msgstr "[_dj_] Мне нравится играть с тобой в такие мини игры."
 
 # game/Cell01_BA.rpy:704 #-#-# translate crowdin GalleryImageQuest_Djin01_af0775e0:
 msgid "[_u_] We're two."
-msgstr ""
+msgstr "[_u_] Мне тоже."
 
 # game/Cell01_BA.rpy:706 #-#-# translate crowdin GalleryImageQuest_Djin01_075f175a:
 msgid "[_dj_] Ooooh..."
-msgstr ""
+msgstr "[_dj_] Оооо..."
 
 # game/Cell01_BA.rpy:708 #-#-# translate crowdin GalleryImageQuest_Djin01_b48d22bd:
 msgid "[_dj_] I can see that."
-msgstr ""
+msgstr "[_dj_] Я вижу."
 
 # game/Cell01_BA.rpy:710 #-#-# translate crowdin GalleryImageQuest_Djin01_3a34df02:
 msgid "[_dj_] I can feel your little you getting bigger inside me..."
-msgstr ""
+msgstr "[_dj_] Я чувствую, как ты становишься все больше и больше внутри меня..."
 
 # game/Cell01_BA.rpy:712 #-#-# translate crowdin GalleryImageQuest_Djin01_82ef03e8:
 msgid "[_dj_] You want to cum, right ?"
-msgstr ""
+msgstr "[_dj_] Ты хочешь кончить, да?"
 
 # game/Cell01_BA.rpy:714 #-#-# translate crowdin GalleryImageQuest_Djin01_75fc3b95:
 msgid "[_dj_] Don't look at me like that. I'm old enough to know when a boy wants something..."
-msgstr ""
+msgstr "[_dj_] Не смотри так на меня. Я достаточно взрослая, чтобы понимать, когда мальчик чего-то хочет..."
 
 # game/Cell01_BA.rpy:716 #-#-# translate crowdin GalleryImageQuest_Djin01_2a4c4e1b:
 msgid "[_dj_] Even as a virgin."
-msgstr ""
+msgstr "[_dj_] Даже будучи девственницей."
 
 # game/Cell01_BA.rpy:718 #-#-# translate crowdin GalleryImageQuest_Djin01_0529a669:
 msgid "[_u_] Wow..."
@@ -1026,15 +1026,15 @@ msgstr "[_u_] Вау..."
 
 # game/Cell01_BA.rpy:720 #-#-# translate crowdin GalleryImageQuest_Djin01_7059c23e:
 msgid "[_dj_] Ahah ! It was a joke !"
-msgstr ""
+msgstr "[_dj_] Ахах! Это была шутка!"
 
 # game/Cell01_BA.rpy:722 #-#-# translate crowdin GalleryImageQuest_Djin01_58549cab:
 msgid "[_dj_] Since I'm feeling hotter and hotter, I've assumed that you were too."
-msgstr ""
+msgstr "[_dj_] Поскольку мне все жарче и жарче, я решила, что тебе тоже."
 
 # game/Cell01_BA.rpy:724 #-#-# translate crowdin GalleryImageQuest_Djin01_2f78fe56:
 msgid "[_u_] You're strong."
-msgstr ""
+msgstr "[_u_] Ты сильная."
 
 # game/Cell01_BA.rpy:726 #-#-# translate crowdin GalleryImageQuest_Djin01_efe1beec:
 msgid "[_dj_] Thanks, I know."
@@ -1058,7 +1058,7 @@ msgstr "[_u_] Я больше не могу контролировать себ�
 
 # game/Cell01_BA.rpy:736 #-#-# translate crowdin GalleryImageQuest_Djin01_1e4f206c:
 msgid "[_dj_] Aww do as you want, I'm feeling really good too with your cock ramming me !"
-msgstr "[_dj_] Оу, делай что хочешь, мне тоже очень хорошо, когда твой член проникает в меня!"
+msgstr "[_dj_] Оу, делай что хочешь, мне тоже очень хорошо, когда ты проникаешь в меня!"
 
 # game/Cell01_BA.rpy:738 #-#-# translate crowdin GalleryImageQuest_Djin01_29985f3a:
 msgid "[_dj_] Yeeees !"
@@ -1130,7 +1130,7 @@ msgstr "Каково это - иметь тело? "
 
 # game/Cell01_BA.rpy:504
 msgid "You're so beautiful!"
-msgstr "Ты так красива!"
+msgstr "Ты такая красивая!"
 
 # game/Cell01_BA.rpy:504
 msgid "{color=#3ad8ff}So, have you planned anything?{/color}"
