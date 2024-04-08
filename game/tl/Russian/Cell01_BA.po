@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2024-03-25 22:14\n"
+"PO-Revision-Date: 2024-04-08 20:00\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_BA.rpy:50 #-#-# translate crowdin CHARA_BA_Menu01_98aea068:
 msgid "[_ba_]  ... "
@@ -626,7 +626,7 @@ msgstr "[_dj_] Как насчет того, чтобы телепортиров
 
 # game/Cell01_BA.rpy:468 #-#-# translate crowdin Ml_Ali_01_08_e45ea035:
 msgid "[_u_] Whenever you want, girl!"
-msgstr ""
+msgstr "[_u_] Когда захочешь, детка!"
 
 # game/Cell01_BA.rpy:482 #-#-# translate crowdin Ml_Ali_01_08_c84d982c:
 msgid "[_dj_] Hi there."
@@ -730,7 +730,7 @@ msgstr "[_dj_] Ох... точно..."
 
 # game/Cell01_BA.rpy:538 #-#-# translate crowdin Ml_Ali_01_08_menu1_d836ad0e:
 msgid "[_dj_] But anyway, I think it's pretty cool!"
-msgstr ""
+msgstr "[_dj_] Но в любом случае, думаю, она выглядит классно!"
 
 # game/Cell01_BA.rpy:544 #-#-# translate crowdin Ml_Ali_01_08_menu1_919d00df:
 msgid "[_dj_] Mh... "
@@ -746,15 +746,15 @@ msgstr "[_dj_] ...''личного удовольствия.'' "
 
 # game/Cell01_BA.rpy:550 #-#-# translate crowdin Ml_Ali_01_08_menu1_8ea7a729:
 msgid "[_dj_] So I was thinking... if you're up for it of course... "
-msgstr ""
+msgstr "[_dj_] И я подумала... если ты, конечно, готов к этому... "
 
 # game/Cell01_BA.rpy:551 #-#-# translate crowdin Ml_Ali_01_08_menu1_733695e2:
 msgid "[_u_] You want me to fuck you?"
-msgstr ""
+msgstr "[_u_] Хочешь, чтобы я тебя трахнул?"
 
 # game/Cell01_BA.rpy:553 #-#-# translate crowdin Ml_Ali_01_08_menu1_cb60c8da:
 msgid "[_dj_] That's the idea. "
-msgstr ""
+msgstr "[_dj_] Это идея. "
 
 # game/Cell01_BA.rpy:554 #-#-# translate crowdin Ml_Ali_01_08_menu1_b0ff36fe:
 msgid "[_u_] Gosh..."
@@ -762,19 +762,19 @@ msgstr "[_u_] Боже..."
 
 # game/Cell01_BA.rpy:555 #-#-# translate crowdin Ml_Ali_01_08_menu1_5546e67c:
 msgid "[_u_] I think this is the first time a virgin has offered to fuck someone so quickly. "
-msgstr ""
+msgstr "[_u_] Думаю, это первый раз, когда девственница так быстро предлагает ее трахнуть. "
 
 # game/Cell01_BA.rpy:557 #-#-# translate crowdin Ml_Ali_01_08_menu1_9c492b1c:
 msgid "[_dj_] Don't say that, you'll get me wet. "
-msgstr ""
+msgstr "[_dj_] Не говори так, ты заставляешь меня намокнуть. "
 
 # game/Cell01_BA.rpy:559 #-#-# translate crowdin Ml_Ali_01_08_menu1_58e97ac6:
 msgid "[_dj_] So... are you in? "
-msgstr ""
+msgstr "[_dj_] Итак... Ты согласен? "
 
 # game/Cell01_BA.rpy:566 #-#-# translate crowdin Ml_Ali_01_08_menu1_9fc7e4f0:
 msgid "[_dj_] Oh my god yes!!!"
-msgstr ""
+msgstr "[_dj_] О боже, да!!!"
 
 # game/Cell01_BA.rpy:568 #-#-# translate crowdin Ml_Ali_01_08_menu1_34785a39:
 msgid "[_dj_] Do we do it here?"
