@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2024-04-08 10:23\n"
+"PO-Revision-Date: 2024-04-08 12:10\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_AM.rpy:86 #-#-# translate crowdin CHARA_AM_Menu01_c781f953:
 msgid "[_am_] Hey!"
@@ -1618,7 +1618,7 @@ msgstr "[_am_] Ich hätte gerne Sex mit... einer magischen Kreatur. "
 
 # game/Cell01_AM.rpy:1490 #-#-# translate crowdin Quest_JM_Favor_Ask2_Amelia_94199dd3:
 msgid "[_am_] But not like a unicorn or anything... like... a mermaid or a sorceress or... "
-msgstr ""
+msgstr "[_am_] Aber nicht ein Einhorn oder so ... eher etwas wie... eine Meerjungfrau oder eine Zauberin oder.."
 
 # game/Cell01_AM.rpy:1491 #-#-# translate crowdin Quest_JM_Favor_Ask2_Amelia_1c8acf17:
 msgid "[_am_] ..."
@@ -1626,183 +1626,183 @@ msgstr "..."
 
 # game/Cell01_AM.rpy:1492 #-#-# translate crowdin Quest_JM_Favor_Ask2_Amelia_071ba4bc:
 msgid "[_u_] A fairy? "
-msgstr ""
+msgstr "[_u_] Eine Fee? "
 
 # game/Cell01_AM.rpy:1494 #-#-# translate crowdin Quest_JM_Favor_Ask2_Amelia_23061c62:
 msgid "[_am_] Yes! That's right!"
-msgstr ""
+msgstr "[_am_] Ja genau!"
 
 # game/Cell01_AM.rpy:1496 #-#-# translate crowdin Quest_JM_Favor_Ask2_Amelia_79b8122a:
 msgid "[_am_] A fairy, but like... very cool and badass."
-msgstr ""
+msgstr "[_am_] Eine Fee ... Aber eine coole Fee."
 
 # game/Cell01_AM.rpy:1498 #-#-# translate crowdin Quest_JM_Favor_Ask2_Amelia_33e41ea0:
 msgid "[_am_] Yeah... that'd be great..."
-msgstr ""
+msgstr "[_am_] Ja... das wäre toll..."
 
 # game/Cell01_AM.rpy:1499 #-#-# translate crowdin Quest_JM_Favor_Ask2_Amelia_067829ef:
 msgid "[_u_] Okay... "
-msgstr ""
+msgstr "[_u_] Okay... "
 
 # game/Cell01_AM.rpy:1501 #-#-# translate crowdin Quest_JM_Favor_Ask2_Amelia_9f17fcd5:
 msgid "[_am_] But uhm... Why are you asking me this question? "
-msgstr ""
+msgstr "[_am_] Aber, ähm... Warum fragst du mich das? "
 
 # game/Cell01_AM.rpy:1502 #-#-# translate crowdin Quest_JM_Favor_Ask2_Amelia_97e11651:
 msgid "[_u_] Oh uh... for work. "
-msgstr ""
+msgstr "[_u_] Oh äh... einfach so. "
 
 # game/Cell01_AM.rpy:1506 #-#-# translate crowdin Quest_JM_Favor_Ask2_Amelia_86b59053:
 msgid "[_u_] Ok great, only [Quest_JM_Favor_Ask2_Number] more employees to question."
-msgstr ""
+msgstr "[_u_] Ok großartig, nur noch [Quest_JM_Favor_Ask2_Number] Angestellte übrig."
 
 # game/Cell01_AM.rpy:1512 #-#-# translate crowdin Quest_JM_Favor_Ask2_Amelia_68531393:
 msgid "[_ly_] Do you need anything else?"
-msgstr ""
+msgstr "[_ly_] Brauchst du sonst noch was?"
 
 # §translate crowdin strings: #|#|# # game/Cell01_AM.rpy:89
 msgid "{color=#3ad8ff}What's your main sexual fantasy?{/color} "
-msgstr ""
+msgstr "{color=#3ad8ff} Was ist deine größte sexuelle Fantasie?{/color} "
 
 # game/Cell01_AM.rpy:89
 msgid "{color=#3ad8ff}I need the oriental dance book{/color} "
-msgstr ""
+msgstr "{color=#3ad8ff}Ich brauche ein Buch über orientalischen Tanz{/color} "
 
 # game/Cell01_AM.rpy:89
 msgid "{color=#3ad8ff}I have a new outfit for you{/color} "
-msgstr ""
+msgstr "{color=#3ad8ff}Ich habe ein neues Outfit für dich{/color} "
 
 # game/Cell01_AM.rpy:89
 msgid "{color=#3ad8ff}When do we start the job interviews?{/color} {image=heart07.png} "
-msgstr ""
+msgstr "{color=#3ad8ff}Wann sollten wir mit den Interviews beginnen?{/color} {image=heart07.png} "
 
 # game/Cell01_AM.rpy:89
 msgid "{color=#3ad8ff}Shall we start the first interview?{/color}"
-msgstr ""
+msgstr "{color=#3ad8ff} Wollen wir mit dem ersten Interview beginnen?{/color}"
 
 # game/Cell01_AM.rpy:89
 msgid "{color=#3ad8ff}Is the second candidate ready?{/color}"
-msgstr ""
+msgstr "{color=#3ad8ff} Ist die zweite Kandidatin bereit? {/color}"
 
 # game/Cell01_AM.rpy:89
 msgid "{color=#3ad8ff}Is the last candidate ready?{/color}"
-msgstr ""
+msgstr "{color=#3ad8ff}Ist die letzte Kandidatin bereit?{/color}"
 
 # game/Cell01_AM.rpy:89
 msgid "$Talk{image=exl01.png}"
-msgstr ""
+msgstr "?"
 
 # game/Cell01_AM.rpy:89
 msgid "$Talk"
-msgstr ""
+msgstr "?"
 
 # game/Cell01_AM.rpy:89
 msgid "{color=#636363}Would you like to change your clothes?{/color} {image=shirt02.png}"
-msgstr ""
+msgstr "{color=#636363}Willst du dich umziehen?{/color} {image=shirt02.png}"
 
 # game/Cell01_AM.rpy:89
 msgid "$Would you like to change your clothes? {image=shirt01.png}"
-msgstr ""
+msgstr "$Would willst du dich umziehen? {image=shirt01.png}"
 
 # game/Cell01_AM.rpy:89
 msgid "$Leave "
-msgstr ""
+msgstr "$Verlassen "
 
 # game/Cell01_AM.rpy:170
 msgid "$Change the Outfit "
-msgstr ""
+msgstr "$Umziehen"
 
 # game/Cell01_AM.rpy:170
 msgid "$Change the HairStyle "
-msgstr ""
+msgstr "$Frisur ändern"
 
 # game/Cell01_AM.rpy:170
 msgid "$Back"
-msgstr ""
+msgstr "$Zurück"
 
 # game/Cell01_AM.rpy:173
 msgid "$// Basic Secretary"
-msgstr ""
+msgstr "$// Einfache Sekretärin"
 
 # game/Cell01_AM.rpy:173
 msgid "$// Retro-Secretary"
-msgstr ""
+msgstr "$// Retro-Sekretärin"
 
 # game/Cell01_AM.rpy:173
 msgid "$// Vintage-Secretary"
-msgstr ""
+msgstr "$// Vintage-Sekretärin"
 
 # game/Cell01_AM.rpy:202
 msgid "$// Tied Hair"
-msgstr ""
+msgstr "$// Zusammengebundene Haare"
 
 # game/Cell01_AM.rpy:257
 msgid "What is your job here? {image=heart04.png}"
-msgstr ""
+msgstr "Was ist dein Job hier? {image=heart04.png}"
 
 # game/Cell01_AM.rpy:257
 msgid "Did Melissandre create this body for you? {image=heart04.png}"
-msgstr ""
+msgstr "Hat Melissandre diesen Körper für dich erschaffen? {image=heart04.png}"
 
 # game/Cell01_AM.rpy:257
 msgid "What have been your missions so far? {image=heart04.png}"
-msgstr ""
+msgstr "Was für Missionen hattest du so bis jetzt? {image=heart04.png}"
 
 # game/Cell01_AM.rpy:257
 msgid "So, how does it feel to have a body? {image=heart04.png}"
-msgstr ""
+msgstr "Wie fühlt es sich so an einen Körper zu haben? {image=heart04.png}"
 
 # game/Cell01_AM.rpy:257
 msgid "So, how does it feel to have a body? {image=heart06.png}"
-msgstr ""
+msgstr "Wie fühlt es sich so an einen Körper zu haben? {image=heart06.png}"
 
 # game/Cell01_AM.rpy:257
 msgid "{color=#636363}What is your job here? {/color}"
-msgstr ""
+msgstr "{color=#636363}Was ist dein Job hier? {/color}"
 
 # game/Cell01_AM.rpy:257
 msgid "{color=#636363}Did Melissandre create this body for you?{/color}"
-msgstr ""
+msgstr "{color=#636363}Hat Melissandre diesen Körper für dich erschaffen?{/color}"
 
 # game/Cell01_AM.rpy:257
 msgid "{color=#636363}What have been your missions so far?{/color}"
-msgstr ""
+msgstr "{color=#636363}Was für Missionen hattest du so bis jetzt?{/color}"
 
 # game/Cell01_AM.rpy:257
 msgid "{color=#636363}So, how does it feel to have a body?{/color}"
-msgstr ""
+msgstr "{color=#636363}Und, wie fühlt es sich so an einen Körper zu haben? {/color}"
 
 # game/Cell01_AM.rpy:383
 msgid "Would you like to bang Tinker? "
-msgstr ""
+msgstr "Willst du Tinker vögeln? "
 
 # game/Cell01_AM.rpy:383
 msgid "All comes to those who wait."
-msgstr ""
+msgstr "Die die warten, sollen bekommen."
 
 # game/Cell01_AM.rpy:565
 msgid "{color=#f2923c}I am ready{/color}"
-msgstr ""
+msgstr "{color=#f2923c}Ich bin bereit{/color}"
 
 # game/Cell01_AM.rpy:565
 msgid "Have you prepared any questions?"
-msgstr ""
+msgstr "Hast du Fragen vorbereitet?"
 
 # game/Cell01_AM.rpy:565
 msgid "Nice legs"
-msgstr ""
+msgstr "Schöne Beine!"
 
 # game/Cell01_AM.rpy:632
 msgid "It is top secret"
-msgstr ""
+msgstr "Es ist streng geheim"
 
 # game/Cell01_AM.rpy:632
 msgid "We are working on a theme park"
-msgstr ""
+msgstr "Wir arbeiten an einem Freizeitpark"
 
 # game/Cell01_AM.rpy:632
 msgid "We work in a planet-sized park with top-tier androids"
-msgstr ""
+msgstr "Wir arbeiten an einem Freizeitpark mit hochkomplexen Roboter, welcher sich über den ganzen Planeten streckt"
 
 # game/Cell01_AM.rpy:685
 msgid "What is your profession? "
