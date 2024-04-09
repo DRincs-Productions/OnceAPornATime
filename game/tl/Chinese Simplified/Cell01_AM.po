@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-03-03 12:59\n"
+"PO-Revision-Date: 2024-04-09 14:07\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_AM.rpy:86 #-#-# translate crowdin CHARA_AM_Menu01_c781f953:
 msgid "[_am_] Hey!"
@@ -42,91 +42,91 @@ msgstr "[_e_] 不，今天不行。"
 
 # game/Cell01_AM.rpy:166 #-#-# translate crowdin QuestChap2_Amelia01_01_menu01_P1_8ef1d7e6:
 msgid "[_e_] Yes, of course! It would be a pleasure!"
-msgstr ""
+msgstr "[_e_] 是的，当然可以！这我乐意至极！"
 
 # game/Cell01_AM.rpy:222 #-#-# translate crowdin Amelia_Change_HAIRS_259e399c:
 msgid "[_u_] See you later!"
-msgstr ""
+msgstr "[_u_] 再见了！"
 
 # game/Cell01_AM.rpy:225 #-#-# translate crowdin Amelia_Change_HAIRS_cb0294af:
 msgid "[_am_]  Yeah, Yeah ..."
-msgstr ""
+msgstr "[_am_]  好的，好的 ..."
 
 # game/Cell01_AM.rpy:228 #-#-# translate crowdin Amelia_Change_HAIRS_37ae3252:
 msgid "[_am_] See you later [name]! "
-msgstr ""
+msgstr "[_am_] 再见了，[name]！ "
 
 # game/Cell01_AM.rpy:298 #-#-# translate crowdin Quest2_AM_Talk01_a40954e9:
 msgid "[_am_] I am now officially Mrs. Bell's secretary. "
-msgstr ""
+msgstr "[_am_] 我现在是贝尔夫人的正式秘书了。 "
 
 # game/Cell01_AM.rpy:300 #-#-# translate crowdin Quest2_AM_Talk01_2c0be163:
 msgid "[_u_] You mean Tinker? "
-msgstr ""
+msgstr "[_u_] 你说的是小叮当？ "
 
 # game/Cell01_AM.rpy:302 #-#-# translate crowdin Quest2_AM_Talk01_001426f0:
 msgid "[_am_] Yes."
-msgstr ""
+msgstr "[_am_] 是的。"
 
 # game/Cell01_AM.rpy:304 #-#-# translate crowdin Quest2_AM_Talk01_5c67fb6e:
 msgid "[_am_] It's so nice to be so close to a woman like her... "
-msgstr ""
+msgstr "[_am_] 这真是天大的喜讯，能够陪伴在一个那么优秀的女人左右... "
 
 # game/Cell01_AM.rpy:306 #-#-# translate crowdin Quest2_AM_Talk01_46b5de3c:
 msgid "[_am_] So talented... So charismatic... "
-msgstr ""
+msgstr "[_am_] 她那么才华横溢... 魅力四射... "
 
 # game/Cell01_AM.rpy:308 #-#-# translate crowdin Quest2_AM_Talk01_948b4072:
 msgid "[_am_] So..."
-msgstr ""
+msgstr "[_am_] 所以..."
 
 # game/Cell01_AM.rpy:310 #-#-# translate crowdin Quest2_AM_Talk01_75fbc4b5:
 msgid "[_am_] Mh..."
-msgstr ""
+msgstr "[_am_] 嗯..."
 
 # game/Cell01_AM.rpy:311 #-#-# translate crowdin Quest2_AM_Talk01_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_AM.rpy:312 #-#-# translate crowdin Quest2_AM_Talk01_9a531964:
 msgid "[_u_] Amelia?"
-msgstr ""
+msgstr "[_u_] 阿米莉亚？"
 
 # game/Cell01_AM.rpy:314 #-#-# translate crowdin Quest2_AM_Talk01_2a6754c3:
 msgid "[_am_] Yes, so I take care of everything Madam wants."
-msgstr ""
+msgstr "[_am_] 是的，所以我会打理好夫人的一切事务。"
 
 # game/Cell01_AM.rpy:316 #-#-# translate crowdin Quest2_AM_Talk01_12cee515:
 msgid "[_am_] It can be administrative things, fixing a teleporter..."
-msgstr ""
+msgstr "[_am_] 可能会是管理事务，修复传送点..."
 
 # game/Cell01_AM.rpy:318 #-#-# translate crowdin Quest2_AM_Talk01_64b2ddc3:
 msgid "[_am_] Everything I can do."
-msgstr ""
+msgstr "[_am_] 我能做的一切事情。"
 
 # game/Cell01_AM.rpy:320 #-#-# translate crowdin Quest2_AM_Talk01_2874b111:
 msgid "[_u_] Yes... I feel like you're the perfect person to follow all her... weird and irrational orders."
-msgstr ""
+msgstr "[_u_] 嗯... 我感觉你是跟随她的最佳人选... 能接受她那怪异且荒缪的命令。"
 
 # game/Cell01_AM.rpy:322 #-#-# translate crowdin Quest2_AM_Talk01_e20418d5:
 msgid "[_am_] Thank you! I think so too!"
-msgstr ""
+msgstr "[_am_] 谢谢你！我也是这么觉得的！"
 
 # game/Cell01_AM.rpy:323 #-#-# translate crowdin Quest2_AM_Talk01_7b1c1392_1:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_AM.rpy:324 #-#-# translate crowdin Quest2_AM_Talk01_42baf11e:
 msgid "[_u_] Yup."
-msgstr ""
+msgstr "[_u_] 是啊。"
 
 # game/Cell01_AM.rpy:331 #-#-# translate crowdin Quest2_AM_Talk02_e87d508f:
 msgid "[_am_] Well, yes."
-msgstr ""
+msgstr "[_am_] 嗯，是的。"
 
 # game/Cell01_AM.rpy:333 #-#-# translate crowdin Quest2_AM_Talk02_bb5df54c:
 msgid "[_am_] I mean... not really. "
-msgstr ""
+msgstr "[_am_] 我是说... 并不尽然。 "
 
 # game/Cell01_AM.rpy:335 #-#-# translate crowdin Quest2_AM_Talk02_e71f109f:
 msgid "[_am_] In fact, she took as a model the former secretary that was on this planet back in the day. "
@@ -206,7 +206,7 @@ msgstr ""
 
 # game/Cell01_AM.rpy:382 #-#-# translate crowdin Quest2_AM_Talk03_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_AM.rpy:386 #-#-# translate crowdin Quest2_AM_Talk03_2a3da7fa:
 msgid "[_am_] I... "
@@ -270,7 +270,7 @@ msgstr ""
 
 # game/Cell01_AM.rpy:415 #-#-# translate crowdin Quest2_AM_Talk03_7b1c1392_1:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_AM.rpy:417 #-#-# translate crowdin Quest2_AM_Talk03_30549523:
 msgid "[_u_] I think we're both going to be good buddies."
@@ -350,11 +350,11 @@ msgstr ""
 
 # game/Cell01_AM.rpy:466 #-#-# translate crowdin Quest2_AM_Talk05_e87d508f:
 msgid "[_am_] Well, yes."
-msgstr ""
+msgstr "[_am_] 嗯，是的。"
 
 # game/Cell01_AM.rpy:468 #-#-# translate crowdin Quest2_AM_Talk05_bb5df54c:
 msgid "[_am_] I mean... not really. "
-msgstr ""
+msgstr "[_am_] 我是说... 并不尽然。 "
 
 # game/Cell01_AM.rpy:482 #-#-# translate crowdin Amelia_FirstAppChap2_c8807fc9:
 msgid "[_u_] Well, that's a nice view."
@@ -398,7 +398,7 @@ msgstr ""
 
 # game/Cell01_AM.rpy:500 #-#-# translate crowdin Amelia_FirstAppChap2_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_AM.rpy:501 #-#-# translate crowdin Amelia_FirstAppChap2_ca669573:
 msgid "[_u_] Oh... It was you."
@@ -454,7 +454,7 @@ msgstr ""
 
 # game/Cell01_AM.rpy:530 #-#-# translate crowdin QuestChap2_Amelia01_02_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_AM.rpy:532 #-#-# translate crowdin QuestChap2_Amelia01_02_f51f7cee:
 msgid "[_u_] And we have to worry about that or...?"
@@ -626,7 +626,7 @@ msgstr ""
 
 # game/Cell01_AM.rpy:659 #-#-# translate crowdin QuestChap2_Amelia01_04_menu01_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_AM.rpy:662 #-#-# translate crowdin QuestChap2_Amelia01_04_menu01_75713934:
 msgid "[_am_] Yeah.."
@@ -698,7 +698,7 @@ msgstr ""
 
 # game/Cell01_AM.rpy:719 #-#-# translate crowdin QuestChap2_Amelia01_04_menu02_P1_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_AM.rpy:721 #-#-# translate crowdin QuestChap2_Amelia01_04_menu02_P1_0c82bb78:
 msgid "[_u_] Yeah, let's say it fits."
@@ -734,7 +734,7 @@ msgstr ""
 
 # game/Cell01_AM.rpy:757 #-#-# translate crowdin QuestChap2_Amelia01_04_menu02_P3_75fbc4b5:
 msgid "[_am_] Mh..."
-msgstr ""
+msgstr "[_am_] 嗯..."
 
 # game/Cell01_AM.rpy:759 #-#-# translate crowdin QuestChap2_Amelia01_04_menu02_P3_1c8acf17:
 msgid "[_am_] ..."
@@ -746,7 +746,7 @@ msgstr ""
 
 # game/Cell01_AM.rpy:763 #-#-# translate crowdin QuestChap2_Amelia01_04_menu02_P3_9a531964:
 msgid "[_u_] Amelia?"
-msgstr ""
+msgstr "[_u_] 阿米莉亚？"
 
 # game/Cell01_AM.rpy:766 #-#-# translate crowdin QuestChap2_Amelia01_04_menu02_P3_2aeee63d:
 msgid "[_am_] What? I don't want to hire someone who wants to bang Tinker! It's normal!"
@@ -826,7 +826,7 @@ msgstr ""
 
 # game/Cell01_AM.rpy:825 #-#-# translate crowdin QuestChap2_Amelia01_04_menu02_P4_75fbc4b5:
 msgid "[_am_] Mh..."
-msgstr ""
+msgstr "[_am_] 嗯..."
 
 # game/Cell01_AM.rpy:828 #-#-# translate crowdin QuestChap2_Amelia01_04_menu02_P4_b37553dc:
 msgid "[_am_] I am not convinced. "
@@ -850,7 +850,7 @@ msgstr ""
 
 # game/Cell01_AM.rpy:844 #-#-# translate crowdin QuestChap2_Amelia01_04_menu02_P4_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_AM.rpy:846 #-#-# translate crowdin QuestChap2_Amelia01_04_menu02_P4_8d89a57c:
 msgid "[_val_] Is it good for you? "
@@ -1222,7 +1222,7 @@ msgstr ""
 
 # game/Cell01_AM.rpy:1140 #-#-# translate crowdin QuestChap2_Amelia01_06_menu02_P3_75fbc4b5:
 msgid "[_am_] Mh..."
-msgstr ""
+msgstr "[_am_] 嗯..."
 
 # game/Cell01_AM.rpy:1142 #-#-# translate crowdin QuestChap2_Amelia01_06_menu02_P3_9931e2c7:
 msgid "[_am_] See you tomorrow for our last interview."
@@ -1386,7 +1386,7 @@ msgstr ""
 
 # game/Cell01_AM.rpy:1281 #-#-# translate crowdin QuestChap2_Amelia01_08_menu01end_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_AM.rpy:1283 #-#-# translate crowdin QuestChap2_Amelia01_08_menu01end_1eb2621a:
 msgid "[_u_] Yup, that's right. "
