@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-03-03 12:59\n"
+"PO-Revision-Date: 2024-04-09 14:07\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_ArtDIVISION.rpy:151 #-#-# translate crowdin Cell01_ArtDIVISION_Menu01_ed0ef4ce:
 msgid "[_a_] Bonjour [name]!"
@@ -18,7 +18,7 @@ msgstr ""
 
 # game/Cell01_ArtDIVISION.rpy:179 #-#-# translate crowdin Cell01_ArtDIVISION_Charaselect_LY_259e399c:
 msgid "[_u_] See you later!"
-msgstr ""
+msgstr "[_u_] 再见了！"
 
 # game/Cell01_ArtDIVISION.rpy:181 #-#-# translate crowdin Cell01_ArtDIVISION_Charaselect_LY_d93ee3d6:
 msgid "[_ly_] See you [name]!"
@@ -26,7 +26,7 @@ msgstr ""
 
 # game/Cell01_ArtDIVISION.rpy:192 #-#-# translate crowdin Cell01_ArtDIVISION_Charaselect_A_259e399c:
 msgid "[_u_] See you later!"
-msgstr ""
+msgstr "[_u_] 再见了！"
 
 # game/Cell01_ArtDIVISION.rpy:194 #-#-# translate crowdin Cell01_ArtDIVISION_Charaselect_A_03428ad6:
 msgid "[_a_] See you soon [name]!"
@@ -50,7 +50,7 @@ msgstr ""
 
 # game/Cell01_ArtDIVISION.rpy:272 #-#-# translate crowdin CHARA_A_MenuChoice_259e399c:
 msgid "[_u_] See you later!"
-msgstr ""
+msgstr "[_u_] 再见了！"
 
 # game/Cell01_ArtDIVISION.rpy:274 #-#-# translate crowdin CHARA_A_MenuChoice_03428ad6:
 msgid "[_a_] See you soon [name]!"
@@ -384,7 +384,7 @@ msgstr ""
 
 # game/Cell01_ArtDIVISION.rpy:592 #-#-# translate crowdin QuestChap2_Amandine02_02_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_ArtDIVISION.rpy:593 #-#-# translate crowdin QuestChap2_Amandine02_02_d337807a:
 msgid "[_u_] Mh..."
@@ -424,7 +424,7 @@ msgstr ""
 
 # game/Cell01_ArtDIVISION.rpy:664 #-#-# translate crowdin QuestChap2_Amandine02_02_ROOM_mags_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_ArtDIVISION.rpy:665 #-#-# translate crowdin QuestChap2_Amandine02_02_ROOM_mags_c14f831e:
 msgid "[_u_] Let's see what's next..."
@@ -444,7 +444,7 @@ msgstr ""
 
 # game/Cell01_ArtDIVISION.rpy:672 #-#-# translate crowdin QuestChap2_Amandine02_02_ROOM_mags_7b1c1392_1:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_ArtDIVISION.rpy:673 #-#-# translate crowdin QuestChap2_Amandine02_02_ROOM_mags_12171671:
 msgid "[_u_] I wonder if she is in a relationship... "
@@ -460,7 +460,7 @@ msgstr ""
 
 # game/Cell01_ArtDIVISION.rpy:679 #-#-# translate crowdin QuestChap2_Amandine02_02_ROOM_mags_7b1c1392_2:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_ArtDIVISION.rpy:680 #-#-# translate crowdin QuestChap2_Amandine02_02_ROOM_mags_e5f825c6:
 msgid "[_u_] Such subtlety."
@@ -860,7 +860,7 @@ msgstr ""
 
 # game/Cell01_ArtDIVISION.rpy:928 #-#-# translate crowdin Quest_LY_Favor_Boobs01_Amandine_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_ArtDIVISION.rpy:930 #-#-# translate crowdin Quest_LY_Favor_Boobs01_Amandine_aece348e:
 msgid "[_a_] If it's Amelia, I think you're making a mistake, she's clearly not into you. "
@@ -1008,7 +1008,7 @@ msgstr ""
 
 # game/Cell01_ArtDIVISION.rpy:1061 #-#-# translate crowdin QuestChap2_LyStart_LY_01_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_ArtDIVISION.rpy:1062 #-#-# translate crowdin QuestChap2_LyStart_LY_01_f7978251:
 msgid "[_u_] What did she say?"
@@ -1056,7 +1056,7 @@ msgstr ""
 
 # game/Cell01_ArtDIVISION.rpy:1083 #-#-# translate crowdin QuestChap2_LyStart_LY_01_7b1c1392_1:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_ArtDIVISION.rpy:1084 #-#-# translate crowdin QuestChap2_LyStart_LY_01_28fc7c99:
 msgid "[_u_] Definitely."
@@ -1244,7 +1244,7 @@ msgstr ""
 
 # game/Cell01_ArtDIVISION.rpy:1193 #-#-# translate crowdin QuestChap2_LyStart_LY_02_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_ArtDIVISION.rpy:1194 #-#-# translate crowdin QuestChap2_LyStart_LY_02_51f406b8:
 msgid "[_u_] Noooo of course not."
@@ -1940,7 +1940,7 @@ msgstr ""
 
 # game/Cell01_ArtDIVISION.rpy:1670 #-#-# translate crowdin QuestChap2_LyStart_E_07_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_ArtDIVISION.rpy:1674 #-#-# translate crowdin QuestChap2_LyStart_E_07_95cc8630:
 msgid "[_ly_] So... you're going to turn this place into a harem, right? "
@@ -2152,7 +2152,7 @@ msgstr ""
 
 # game/Cell01_ArtDIVISION.rpy:1791 #-#-# translate crowdin GalleryImageQuest_Emee02_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_ArtDIVISION.rpy:1793 #-#-# translate crowdin GalleryImageQuest_Emee02_7e5be565:
 msgid "[_e_] What?"
@@ -2956,7 +2956,7 @@ msgstr ""
 
 # game/Cell01_ArtDIVISION.rpy:2329 #-#-# translate crowdin A_Betjm01_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_ArtDIVISION.rpy:2330 #-#-# translate crowdin A_Betjm01_3edde9fe:
 msgid "[_u_] Yes."
@@ -3560,7 +3560,7 @@ msgstr ""
 
 # game/Cell01_ArtDIVISION.rpy:2782 #-#-# translate crowdin Quest_A_SW_01_05_menu1_P1_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_ArtDIVISION.rpy:2784 #-#-# translate crowdin Quest_A_SW_01_05_menu1_P1_7b3aef92:
 msgid "[_a_] Don't look at me like that... yes I know, it must be the most French sentence of all time... "
@@ -3988,7 +3988,7 @@ msgstr ""
 
 # game/Cell01_ArtDIVISION.rpy:3074 #-#-# translate crowdin Quest_A_SW_01_05_menu3_P3_42baf11e:
 msgid "[_u_] Yup."
-msgstr ""
+msgstr "[_u_] 是啊。"
 
 # game/Cell01_ArtDIVISION.rpy:3076 #-#-# translate crowdin Quest_A_SW_01_05_menu3_P3_b0c5e588:
 msgid "[_a_] Okay, I said I'd answer everything..."
@@ -4096,7 +4096,7 @@ msgstr ""
 
 # game/Cell01_ArtDIVISION.rpy:3146 #-#-# translate crowdin Quest_A_SW_01_05_menu3_P2_menu1_P2_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_ArtDIVISION.rpy:3147 #-#-# translate crowdin Quest_A_SW_01_05_menu3_P2_menu1_P2_e942db36:
 msgid "[_u_] She's quite talented."
@@ -4776,7 +4776,7 @@ msgstr ""
 
 # game/Cell01_ArtDIVISION.rpy:3596 #-#-# translate crowdin A_React_shortOutfit_01_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_ArtDIVISION.rpy:3598 #-#-# translate crowdin A_React_shortOutfit_01_ca9bb66d:
 msgid "[_a_] Go ahead and speak up."
@@ -4948,7 +4948,7 @@ msgstr ""
 
 # game/Cell01_ArtDIVISION.rpy:3710 #-#-# translate crowdin A_GoShower_OFFICE_01_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Cell01_ArtDIVISION.rpy:3711 #-#-# translate crowdin A_GoShower_OFFICE_01_70db50bf:
 msgid "[_u_] Is she in the showers? At this hour? "
