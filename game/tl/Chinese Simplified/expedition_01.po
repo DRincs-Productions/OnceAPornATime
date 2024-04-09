@@ -10,15 +10,15 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-03-22 10:26\n"
+"PO-Revision-Date: 2024-04-09 14:08\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/expedition_01.rpy:72 #-#-# translate crowdin expedition_01lvl01_44b42dfd:
 msgid "The Drone have [ITEM_DRONE_EMERCELL01_UTILISATIONS] Emergency Energy Cell. ( [ITEM_DRONE_EMERCELL01] left in your inventory.) "
-msgstr ""
+msgstr "无人机拥有 [ITEM_DRONE_EMERCELL01_UTILISATIONS] 应急能量电池。 ( [ITEM_DRONE_EMERCELL01] 留在你的背包里。) "
 
 # game/expedition_01.rpy:76 #-#-# translate crowdin expedition_01lvl01_ab76970e:
 msgid "The Drone have [ITEM_DRONE_EMERCELL01_UTILISATIONS] Emergency Energy Cell. "
-msgstr ""
+msgstr "无人机拥有 [ITEM_DRONE_EMERCELL01_UTILISATIONS] 应急能量电池。 "
 
 # game/expedition_01.rpy:77 #-#-# translate crowdin expedition_01lvl01_275f7d87:
 msgid "Emergency Energy Cell allows your drone to recover if it runs out of power by giving it 2PA."
