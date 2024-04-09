@@ -10,31 +10,31 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2024-03-23 23:11\n"
+"PO-Revision-Date: 2024-04-09 09:08\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Room_Showers.rpy:121 #-#-# translate crowdin ML_ShowerCams01_02_ec3b9bb7:
 msgid "[_u_] Meli?"
-msgstr ""
+msgstr "[_u_] Meli?"
 
 # game/Room_Showers.rpy:122 #-#-# translate crowdin ML_ShowerCams01_02_4abce515:
 msgid "[_ml_] ---"
-msgstr ""
+msgstr "[_ml_] ---"
 
 # game/Room_Showers.rpy:134 #-#-# translate crowdin A_GoShower_6fe1abdc:
 msgid "[_u_] Hey? Anybody here?"
-msgstr ""
+msgstr "[_u_] Hallo? Jemand da?"
 
 # game/Room_Showers.rpy:136 #-#-# translate crowdin A_GoShower_0e192d24:
 msgid "[_a_] [name]?!!?"
-msgstr ""
+msgstr "[_a_] [name]?!!?"
 
 # game/Room_Showers.rpy:137 #-#-# translate crowdin A_GoShower_0f172136:
 msgid "[_a_] Just a second!!!"
-msgstr ""
+msgstr "[_a_] Eine Sekunde!!!"
 
 # game/Room_Showers.rpy:149 #-#-# translate crowdin A_GoShower_97ecd1a2:
 msgid "[_a_] ?!!"
-msgstr ""
+msgstr "[_a_] ?!!"
 
 # game/Room_Showers.rpy:151 #-#-# translate crowdin A_GoShower_98997faf:
 msgid "[_u_] Hey, there!"
