@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-04-06 09:33\n"
+"PO-Revision-Date: 2024-04-09 12:36\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Scene2jm02.rpy:5 #-#-# translate crowdin Quest_JM_Favor_Feather1_03_f924725a:
 msgid "[_a_] Absolutely perfect."
@@ -1446,55 +1446,55 @@ msgstr "[_scc_] ！！！！！！"
 
 # game/Scene2jm02.rpy:1566 #-#-# translate crowdin Quest_JM_Favor_Feather1_04_02_17d27e05:
 msgid "[_scc_] Holy shit... I didn't think you could fuck any harder... "
-msgstr ""
+msgstr "[_scc_] 天哪... 我没想到你还可以这么大力操我... "
 
 # game/Scene2jm02.rpy:1568 #-#-# translate crowdin Quest_JM_Favor_Feather1_04_02_710ae09c:
 msgid "[_scc_] This is so good!!!"
-msgstr ""
+msgstr "[_scc_] 这真是太爽了！！！"
 
 # game/Scene2jm02.rpy:1574 #-#-# translate crowdin Quest_JM_Favor_Feather1_04_02_b9e0f78f:
 msgid "[_scc_] hHoooO..."
-msgstr ""
+msgstr "[_scc_] 吼哦哦..."
 
 # game/Scene2jm02.rpy:1580 #-#-# translate crowdin Quest_JM_Favor_Feather1_04_02_d854f995:
 msgid "[_scc_] Ah fuck... my pussy.... "
-msgstr ""
+msgstr "[_scc_] 啊，我操... 我的小穴.... "
 
 # game/Scene2jm02.rpy:1586 #-#-# translate crowdin Quest_JM_Favor_Feather1_04_02_5de6865a:
 msgid "[_scc_] HAAAAAaaa!!"
-msgstr ""
+msgstr "[_scc_] 哈啊啊啊啊！！"
 
 # game/Scene2jm02.rpy:1592 #-#-# translate crowdin Quest_JM_Favor_Feather1_04_02_deab6bc2:
 msgid "[_scc_] FUCK!!!"
-msgstr ""
+msgstr "[_scc_] 法克！！！"
 
 # game/Scene2jm02.rpy:1598 #-#-# translate crowdin Quest_JM_Favor_Feather1_04_02_1550b0e4:
 msgid "[_scc_] !!!!"
-msgstr ""
+msgstr "[_scc_] ！！！！"
 
 # game/Scene2jm02.rpy:1607 #-#-# translate crowdin Scenesucck01_menu1_b4664780:
 msgid "[_scc_] Fuck... you still got some energy? "
-msgstr ""
+msgstr "[_scc_] 我去... 你还有力气操我？ "
 
 # game/Scene2jm02.rpy:1609 #-#-# translate crowdin Scenesucck01_menu1_20ed6060:
 msgid "[_scc_] Haaaaah...."
-msgstr ""
+msgstr "[_scc_] 哈啊哈啊...."
 
 # game/Scene2jm02.rpy:1611 #-#-# translate crowdin Scenesucck01_menu1_2a305381:
 msgid "[_scc_] Yeah!"
-msgstr ""
+msgstr "[_scc_] 耶斯！"
 
 # game/Scene2jm02.rpy:1613 #-#-# translate crowdin Scenesucck01_menu1_e82a50b0:
 msgid "[_scc_] More!!!"
-msgstr ""
+msgstr "[_scc_] 继续！！！"
 
 # game/Scene2jm02.rpy:1615 #-#-# translate crowdin Scenesucck01_menu1_b0c2f4e6:
 msgid "[_scc_] Haaa...."
-msgstr ""
+msgstr "[_scc_] 哈啊啊...."
 
 # game/Scene2jm02.rpy:1617 #-#-# translate crowdin Scenesucck01_menu1_293a61e8:
 msgid "[_scc_] I fucking love it!"
-msgstr ""
+msgstr "[_scc_] 我他妈的爱死这样了！"
 
 # game/Scene2jm02.rpy:1619 #-#-# translate crowdin Scenesucck01_menu1_f28f204d:
 msgid "[_scc_] !!!"
@@ -1502,39 +1502,39 @@ msgstr "[_scc_] ！！！"
 
 # game/Scene2jm02.rpy:1621 #-#-# translate crowdin Scenesucck01_menu1_2f4f8c89:
 msgid "[_scc_] Hoooo..."
-msgstr ""
+msgstr "[_scc_] 吼哦哦..."
 
 # game/Scene2jm02.rpy:1623 #-#-# translate crowdin Scenesucck01_menu1_23a43398:
 msgid "[_scc_] What strength you've got little guy..."
-msgstr ""
+msgstr "[_scc_] 你力气还挺大啊，小家伙..."
 
 # game/Scene2jm02.rpy:1625 #-#-# translate crowdin Scenesucck01_menu1_c690e0df:
 msgid "[_scc_] It's almost as if I'm being screwed over again by a minotaur... "
-msgstr ""
+msgstr "[_scc_] 这种感觉就像是我又被米诺陶草了... "
 
 # game/Scene2jm02.rpy:1627 #-#-# translate crowdin Scenesucck01_menu1_0be08404:
 msgid "[_scc_] Gosh... "
-msgstr ""
+msgstr "[_scc_] 天哪... "
 
 # game/Scene2jm02.rpy:1629 #-#-# translate crowdin Scenesucck01_menu1_0f5bd0a0:
 msgid "[_scc_] You're going to cum in me, aren't you? "
-msgstr ""
+msgstr "[_scc_] 你会射在我里面吧？ "
 
 # game/Scene2jm02.rpy:1631 #-#-# translate crowdin Scenesucck01_menu1_bc301b3b:
 msgid "[_scc_] Come on, just do it, don't be shy."
-msgstr ""
+msgstr "[_scc_] 来吧，尽情射吧，不要害羞。"
 
 # game/Scene2jm02.rpy:1633 #-#-# translate crowdin Scenesucck01_menu1_71b7d541:
 msgid "[_scc_] Fill me with semen!"
-msgstr ""
+msgstr "[_scc_] 用精液填满我的小穴！"
 
 # game/Scene2jm02.rpy:1641 #-#-# translate crowdin Scenesucck01_menu1_3bdf938d:
 msgid "[_u_] I'm going to cum!"
-msgstr ""
+msgstr "[_u_] 我要射了！"
 
 # game/Scene2jm02.rpy:1647 #-#-# translate crowdin Scenesucck01_menu1_f1f097db:
 msgid "[_scc_] !?"
-msgstr ""
+msgstr "[_scc_] ！？"
 
 # game/Scene2jm02.rpy:1652 #-#-# translate crowdin Scenesucck01_menu1_935d0977:
 msgid "[_scc_] !!!!!!"
@@ -1546,5 +1546,5 @@ msgstr ""
 
 # §translate crowdin strings: #|#|# # game/Scene2jm02.rpy:1601
 msgid "Keep fucking her"
-msgstr ""
+msgstr "继续操她"
 
