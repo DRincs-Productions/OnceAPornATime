@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2024-04-08 21:47\n"
+"PO-Revision-Date: 2024-04-09 14:07\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_BA.rpy:50 #-#-# translate crowdin CHARA_BA_Menu01_98aea068:
 msgid "[_ba_]  ... "
@@ -62,11 +62,11 @@ msgstr "[_ba_] ...Показать мою грудь?"
 
 # game/Cell01_BA.rpy:136 #-#-# translate crowdin Quest_BA_Favor_Boobs_01_6ee176e9:
 msgid "[_ba_] You're not making any sense. "
-msgstr "[_ba_] Это бессмыслица. "
+msgstr "[_ba_] Это бессмысленно. "
 
 # game/Cell01_BA.rpy:138 #-#-# translate crowdin Quest_BA_Favor_Boobs_01_fc00459a:
 msgid "[_ba_] I don't know what kind of imbecile would believe such nonsense. "
-msgstr "[_ba_] Я не знаю, какой идиот поверит в такую ​​чушь. "
+msgstr "[_ba_] Я не знаю, какой дегроид поверит в такую ​​чушь. "
 
 # game/Cell01_BA.rpy:139 #-#-# translate crowdin Quest_BA_Favor_Boobs_01_cc71eb9a:
 msgid "[_u_] Mh."
@@ -190,7 +190,7 @@ msgstr "[_u_] Госпожа Баба?"
 
 # game/Cell01_BA.rpy:223 #-#-# translate crowdin Quest_BA_App01_01_8fdb5164:
 msgid "[_ba_] I warn you, I don't appreciate nicknames. "
-msgstr "[_ba_] Предупреждаю, я мне не нравятся прозвища. "
+msgstr "[_ba_] Предупреждаю, мне не нравятся прозвища. "
 
 # game/Cell01_BA.rpy:225 #-#-# translate crowdin Quest_BA_App01_01_15d56340:
 msgid "[_ba_] Call me Ali-Baba or keep your mouth shut. "
@@ -238,7 +238,7 @@ msgstr "[_ba_] Или ты какой-то маг?"
 
 # game/Cell01_BA.rpy:244 #-#-# translate crowdin Quest_BA_App01_01_7385b207:
 msgid "[_u_] Indeed, it's something of a magic solution."
-msgstr "[_u_] Это что-то вроде волшебного решения."
+msgstr "[_u_] Скажем так это что-то волшебное."
 
 # game/Cell01_BA.rpy:246 #-#-# translate crowdin Quest_BA_App01_01_5f46ef61:
 msgid "[_ba_] Do you think I'm stupid? "
@@ -302,7 +302,7 @@ msgstr "[_u_] А что, если это правда? Что ты будешь 
 
 # game/Cell01_BA.rpy:278 #-#-# translate crowdin Quest_BA_App01_01_1f61ba70:
 msgid "[_ba_] You'll have escaped the desert - that's a good start, isn't it? "
-msgstr "[_ba_] Ты сбежишь из пустыни - это хорошее начало, не так ли? "
+msgstr "[_ba_] Тебя заберут из пустыни - это хорошее начало, не так ли? "
 
 # game/Cell01_BA.rpy:280 #-#-# translate crowdin Quest_BA_App01_01_52774167:
 msgid "[_ba_] So you think this thing is magic? "
@@ -506,7 +506,7 @@ msgstr "[_ba_] ..."
 
 # game/Cell01_BA.rpy:395 #-#-# translate crowdin Quest_BA_App01_01_88fbf8c4:
 msgid "[_u_] Don't worry, sweetheart, it's not my first time. "
-msgstr "[_u_] Не волнуйся, дорогуша, у меня это не впервой. "
+msgstr "[_u_] Не волнуйся, дорогуша, у меня это не впервые. "
 
 # game/Cell01_BA.rpy:397 #-#-# translate crowdin Quest_BA_App01_01_3d3d4435:
 msgid "[_ba_] Gosh... I hope this thing works... "
@@ -530,7 +530,7 @@ msgstr "[_ba_] Я никогда не шучу. "
 
 # game/Cell01_BA.rpy:405 #-#-# translate crowdin Quest_BA_App01_01_c38ef83e:
 msgid "[_u_] It makes no sense."
-msgstr ""
+msgstr "[_u_] Это не имеет смысла."
 
 # game/Cell01_BA.rpy:407 #-#-# translate crowdin Quest_BA_App01_01_5a83b267:
 msgid "[_ba_] I'll see you tomorrow [name]..."
@@ -586,11 +586,11 @@ msgstr "[_ba_] Хватит задавать мне такие глупые во
 
 # game/Cell01_BA.rpy:436 #-#-# translate crowdin Quest_BA_Ask01_c34b9092:
 msgid "[_ba_] Her throne will be mine. Period. "
-msgstr "[_ba_] Ее трон будет моим. Точка. "
+msgstr "[_ba_] Ее трон будет моим. И точка. "
 
 # game/Cell01_BA.rpy:446 #-#-# translate crowdin Ml_Ali_01_08_f446d2cf:
 msgid "[_u_] Anybody home? "
-msgstr ""
+msgstr "[_u_] Есть кто дома? "
 
 # game/Cell01_BA.rpy:448 #-#-# translate crowdin Ml_Ali_01_08_7b1c1392:
 msgid "[_u_] ..."
