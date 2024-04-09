@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2024-04-08 18:03\n"
+"PO-Revision-Date: 2024-04-09 07:12\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_LY.rpy:80 #-#-# translate crowdin Cell01_LY_QuestActivations_d1d09770:
 msgid "[_ly_] Hi cutie."
@@ -1898,7 +1898,7 @@ msgstr ""
 
 # game/Cell01_LY.rpy:1435 #-#-# translate crowdin QuestChap2_LySZ_ClothesQuest01_02_P4_210c06eb:
 msgid "[_a_] Yes."
-msgstr ""
+msgstr "[_a_] Ja."
 
 # game/Cell01_LY.rpy:1436 #-#-# translate crowdin QuestChap2_LySZ_ClothesQuest01_02_P4_bb76b34a:
 msgid "[_u_] Well... okay. See you later, Amandine. "
