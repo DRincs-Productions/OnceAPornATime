@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2024-04-08 19:01\n"
+"PO-Revision-Date: 2024-04-09 07:12\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Quest_Dialogues_Separate02.rpy:69 #-#-# translate crowdin Quest2_Room01Panel01screen_E_8240cba6:
 msgid "[_u_] Got it!"
@@ -7473,7 +7473,7 @@ msgstr ""
 
 # game/Quest_Dialogues_Separate02.rpy:5507 #-#-# translate crowdin Emee_Ali_01_02_menu1_210c06eb:
 msgid "[_a_] Yes."
-msgstr ""
+msgstr "[_a_] Ja."
 
 # game/Quest_Dialogues_Separate02.rpy:5509 #-#-# translate crowdin Emee_Ali_01_02_menu1_d506dff3:
 msgid "[_dj_] And... did you bring it here?"
