@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-03-24 08:08\n"
+"PO-Revision-Date: 2024-04-09 14:08\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Room_01_Ordi.rpy:7 #-#-# translate crowdin room01_ordi01_In_f3a4608f:
 msgid "[_u_] Let's try to open that door first."
@@ -458,7 +458,7 @@ msgstr "$=1= 无人机的能量助推器 5AP (只能用一次) {color=#a0fc86}(5
 
 # game/Room_01_Ordi.rpy:431
 msgid "$=1= Emergency Energy Cell (One-time use) {color=#a0fc86}(40c){/color}"
-msgstr "$=1= 紧急能量电池 (只能用一次) {color=#a0fc86}(40c){/color}"
+msgstr "$=1= 应急能量电池 (只能用一次) {color=#a0fc86}(40c){/color}"
 
 # game/Room_01_Ordi.rpy:478
 msgid "$Office Coffee Machine {color=#a0fc86}(51c){/color}"
