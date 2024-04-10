@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2024-04-10 15:30\n"
+"PO-Revision-Date: 2024-04-10 17:12\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Room_02_CharaCrea.rpy:10 #-#-# translate crowdin Room_02_CharaCrea_3d26d832:
 msgid "[_u_] No need to create anything yet. "
@@ -798,53 +798,53 @@ msgstr " {color=#797979}= Ликорис // ''Портниха'' ={/color} "
 
 # game/Room_02_CharaCrea.rpy:177
 msgid " {color=#f2923c}={/color} Lycoris // ''Harem Outfit'' {color=#f2923c}={/color} "
-msgstr ""
+msgstr " {color=#f2923c}={/color} Ликорис // ''Гаремный наряд'' {color=#f2923c}={/color} "
 
 # game/Room_02_CharaCrea.rpy:177
 msgid " {color=#f2923c}={/color} {color=#f45fed}Lycoris // ''Sexy Red Dress''{/color} {color=#f2923c}={/color} "
-msgstr ""
+msgstr " {color=#f2923c}={/color} {color=#f45fed} Ликорис // ''Сексуальное красное платье''{/color} {color=#f2923c}={/color} "
 
 # game/Room_02_CharaCrea.rpy:177
 msgid " {color=#3c96f2}={/color} {color=#3ad8ff}Melissandre // ''Basic Clothes'' // Variation{/color} {color=#3c96f2}={/color} "
-msgstr ""
+msgstr " {color=#3c96f2}={/color} {color=#3ad8ff}Мелиссандра // ''Базовая одежда'' // Вариация{/color} {color=#3c96f2}={/color} "
 
 # game/Room_02_CharaCrea.rpy:177
 msgid " {color=#3c96f2}={/color} {color=#3ad8ff}Amandine // ''French Chemise'' // Variation{/color} {color=#3c96f2}={/color} "
-msgstr ""
+msgstr " {size=-3}{color=#3c96f2}={/color} {color=#3ad8ff}Амандина // ''Французская сорочка'' // Вариация{/color} {color=#3c96f2}={/color}{/size} "
 
 # game/Room_02_CharaCrea.rpy:177
 msgid " {color=#3c96f2}={/color} {color=#f45fed}Amandine // ''Minstrel Clothes''{/color} {color=#3c96f2}={/color} "
-msgstr ""
+msgstr " {color=#3c96f2}={/color} Амандина // ''Одежда Менестреля'' {color=#3c96f2}={/color} "
 
 # game/Room_02_CharaCrea.rpy:187
 msgid "{color=#3c96f2}([CLOTHEDATA]/2) Clothes Data {/color} and {color=#a0fc86} ([ITEM_CLOTHESSCRAPS01]/3) Clothes Scraps {color=#a0fc86}"
-msgstr ""
+msgstr "{color=#3c96f2}([CLOTHEDATA]/2) Данные Одежды {/color} and {color=#a0fc86} ([ITEM_CLOTHESSCRAPS01]/3) Обрывки Одежды {color=#a0fc86}"
 
 # game/Room_02_CharaCrea.rpy:221
 msgid "{color=#3c96f2}([CLOTHEDATA]/2) Clothes Data {/color} and {color=#a0fc86} ([ITEM_CLOTHESSCRAPS01]/4) Clothes Scraps {color=#a0fc86}"
-msgstr ""
+msgstr "{color=#3c96f2}([CLOTHEDATA]/2) Данные Одежды {/color} and {color=#a0fc86} ([ITEM_CLOTHESSCRAPS01]/4) Обрывки Одежды {color=#a0fc86}"
 
 # game/Room_02_CharaCrea.rpy:456
 msgid "{color=#a0fc86} ([ITEM_CLOTHESSCRAPS01]/8) Clothes Scraps {color=#a0fc86}"
-msgstr ""
+msgstr "{color=#a0fc86} ([ITEM_CLOTHESSCRAPS01]/8) Обрывки Одежды {color=#a0fc86}"
 
 # game/Room_02_CharaCrea.rpy:813
 msgid "{color=#f2923c} ([CHARADATA]/2) Character Datas {/color}, {color=#3c96f2}([CLOTHEDATA]/2) Clothes Data {/color} and {color=#a0fc86} ([ITEM_CLOTHESSCRAPS01]/4) Clothes Scraps {color=#a0fc86}"
-msgstr ""
+msgstr "{color=#f2923c} ([CHARADATA]/2) Данные Персонажей {/color}, {color=#3c96f2}([CLOTHEDATA]/2) Данные Одежды {/color} и {color=#a0fc86} ([ITEM_CLOTHESSCRAPS01]/4) Обрывки Одежды {color=#a0fc86}"
 
 # game/Room_02_CharaCrea.rpy:952
 msgid " {color=#3c96f2}={/color} Tinker // ''Lycoris Hairstyle'' {color=#3c96f2}={/color} "
-msgstr ""
+msgstr " {color=#3c96f2}={/color} Тинкер // ''Прическа Ликорис'' {color=#3c96f2}={/color} "
 
 # game/Room_02_CharaCrea.rpy:952
 msgid " {color=#3c96f2}={/color} Lycoris // ''Princess Hair Pick'' {color=#3c96f2}={/color} "
-msgstr ""
+msgstr " {color=#3c96f2}={/color} Ликорис // ''Заколка Принцессы'' {color=#3c96f2}={/color} "
 
 # game/Room_02_CharaCrea.rpy:952
 msgid " {color=#3c96f2}={/color} {color=#f45fed}Amandine // ''Minstrel Hat''{/color} {color=#3c96f2}={/color} "
-msgstr ""
+msgstr " {color=#3c96f2}={/color} {color=#f45fed}Amandine // ''Шляпа менестреля''{/color} {color=#3c96f2}={/color} "
 
 # game/Room_02_CharaCrea.rpy:994
 msgid "{color=#3c96f2}([CLOTHEDATA]/3) Clothes Data {/color} and {color=#a0fc86} ([ITEM_CLOTHESSCRAPS01]/3) Clothes Scraps {color=#a0fc86}"
-msgstr ""
+msgstr "{color=#3c96f2}([CLOTHEDATA]/3) Данные Одежды {/color} and {color=#a0fc86} ([ITEM_CLOTHESSCRAPS01]/3) Обрывки Одежды {color=#a0fc86}"
 
