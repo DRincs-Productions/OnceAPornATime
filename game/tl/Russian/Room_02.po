@@ -10,93 +10,93 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2024-03-07 14:17\n"
+"PO-Revision-Date: 2024-04-10 18:20\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Room_02.rpy:32 #-#-# translate crowdin room02_cuve01_5548a552:
 msgid " = THE CHARACTER IN CREATION WILL BE AVAILABLE IN {color=#40cbf9}[CHARA_CREA_PROCEED_DAYLEFT]{/color} DAYS ="
-msgstr ""
+msgstr " = ПЕРСОНАЖ СОЗДАЕТСЯ И БУДЕТ ДОСТУПЕН ЧЕРЕЗ {color=#40cbf9}[CHARA_CREA_PROCEED_DAYLEFT]{/color} ДНЕЙ ="
 
 # game/Room_02.rpy:35 #-#-# translate crowdin room02_cuve01_77556add:
 msgid " = THE CLOTHES IN CREATION WILL BE AVAILABLE IN {color=#40cbf9}[CLOTHE_CREA_PROCEED_DAYLEFT]{/color} DAYS ="
-msgstr ""
+msgstr " = ОДЕЖДА СОЗДАЕТСЯ И БУДЕТ ДОСТУПНА ЧЕРЕЗ {color=#40cbf9}[CLOTHE_CREA_PROCEED_DAYLEFT]{/color} ДНЕЙ ="
 
 # game/Room_02.rpy:38 #-#-# translate crowdin room02_cuve01_ad56e3cc:
 msgid " = THE HAIR IN CREATION WILL BE AVAILABLE IN {color=#40cbf9}[HAIR_CREA_PROCEED_DAYLEFT]{/color} DAYS ="
-msgstr ""
+msgstr " = ПРИЧЕСКА СОЗДАЕТСЯ И БУДЕТ ДОСТУПНА ЧЕРЕЗ {color=#40cbf9}[HAIR_CREA_PROCEED_DAYLEFT]{/color} ДНЕЙ ="
 
 # game/Room_02.rpy:50 #-#-# translate crowdin room02_expedition01_menu01_c7ef097f:
 msgid "== DRONE UNAVAILABLE DURING THE NIGHT =="
-msgstr ""
+msgstr "== ДРОН НЕДОСТУПЕН НОЧЬЮ =="
 
 # game/Room_02.rpy:71 #-#-# translate crowdin room02_expedition01_menu01_c7ef097f_1:
 msgid "== DRONE UNAVAILABLE DURING THE NIGHT =="
-msgstr ""
+msgstr "== ДРОН НЕДОСТУПЕН НОЧЬЮ =="
 
 # game/Room_02.rpy:79 #-#-# translate crowdin room02_charadonne_6d4c8099:
 msgid "== UNAVAILABLE DURING THE NIGHT =="
-msgstr ""
+msgstr "== НЕДОСТУПНО НОЧЬЮ =="
 
 # game/Room_02.rpy:94 #-#-# translate crowdin room02_diretcell_5f1aa7f1:
 msgid "Melissandre is currently in the showers."
-msgstr ""
+msgstr "Мелиссандра сейчас в душе."
 
 # game/Room_02.rpy:104 #-#-# translate crowdin room02_diretcell_356ef1d3:
 msgid "You have already visited this place today "
-msgstr ""
+msgstr "Вы уже были здесь "
 
 # game/Room_02.rpy:107 #-#-# translate crowdin room02_diretcell_a116b8ba:
 msgid "You have already visited this place tonight "
-msgstr ""
+msgstr "Вы уже были здесь ночью "
 
 # game/Room_02.rpy:130 #-#-# translate crowdin room02_diretcell_356ef1d3_1:
 msgid "You have already visited this place today "
-msgstr ""
+msgstr "Вы уже были здесь "
 
 # game/Room_02.rpy:141 #-#-# translate crowdin room02_diretcell_18711c31:
 msgid "You have already visited this character today "
-msgstr ""
+msgstr "Вы уже были у этого персонажа "
 
 # game/Room_02.rpy:144 #-#-# translate crowdin room02_diretcell_9990099a:
 msgid "You have already visited this character tonight "
-msgstr ""
+msgstr "Вы уже были у этого персонажа ночью "
 
 # game/Room_02.rpy:153 #-#-# translate crowdin room02_diretcell_9a2f3415:
 msgid "[_u_] It's late, there must be no one there."
-msgstr ""
+msgstr "[_u_] Уже поздно, там никого нет."
 
 # game/Room_02.rpy:166 #-#-# translate crowdin room02_diretcell_cd938b39:
 msgid "It's useless to go out for the moment. "
-msgstr ""
+msgstr "Сейчас бесполезно выходить. "
 
 # §translate crowdin strings: #|#|# # game/Room_02.rpy:47
 msgid "=Drone expedition="
-msgstr ""
+msgstr "=Экспедиция дрона="
 
 # game/Room_02.rpy:47
 msgid "=Manage automatic drones="
-msgstr ""
+msgstr "=Управление автоматическими дронами="
 
 # game/Room_02.rpy:91
 msgid "$Laboratory"
-msgstr ""
+msgstr "$Laboratory"
 
 # game/Room_02.rpy:91
 msgid "$Artistic Division"
-msgstr ""
+msgstr "$Artistic Division"
 
 # game/Room_02.rpy:91
 msgid "$Amelia's Office"
-msgstr ""
+msgstr "$Amelia's Office"
 
 # game/Room_02.rpy:91
 msgid "$Showers"
-msgstr ""
+msgstr "$Showers"
 
 # game/Room_02.rpy:91
 msgid "$Outside"
-msgstr ""
+msgstr "$Outside"
 
 # game/Room_02.rpy:91
 msgid "$Return"
-msgstr ""
+msgstr "$Return"
 
