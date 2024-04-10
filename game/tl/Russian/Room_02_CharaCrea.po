@@ -10,115 +10,115 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2024-03-07 19:59\n"
+"PO-Revision-Date: 2024-04-10 07:38\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Room_02_CharaCrea.rpy:10 #-#-# translate crowdin Room_02_CharaCrea_3d26d832:
 msgid "[_u_] No need to create anything yet. "
-msgstr ""
+msgstr "[_u_] Пока не нужно ничего создавать. "
 
 # game/Room_02_CharaCrea.rpy:28 #-#-# translate crowdin Room_02_CharaCreamenu_e22217e3:
 msgid "This option is locked for now, continue the main quest to unlock it !"
-msgstr ""
+msgstr "Эта опция пока заблокирована, продолжайте основной квест, чтобы разблокировать ее!"
 
 # game/Room_02_CharaCrea.rpy:33 #-#-# translate crowdin Room_02_CharaCreamenu_e22217e3_1:
 msgid "This option is locked for now, continue the main quest to unlock it !"
-msgstr ""
+msgstr "Эта опция пока заблокирована, продолжайте основной квест, чтобы разблокировать ее!"
 
 # game/Room_02_CharaCrea.rpy:38 #-#-# translate crowdin Room_02_CharaCreamenu_e22217e3_2:
 msgid "This option is locked for now, continue the main quest to unlock it !"
-msgstr ""
+msgstr "Эта опция пока заблокирована, продолжайте основной квест, чтобы разблокировать ее!"
 
 # game/Room_02_CharaCrea.rpy:52 #-#-# translate crowdin Room_02_CharaCreamenu_CHARAMENU_7c82bca3:
 msgid "You must have these elements to create this character: {color=#f2923c}([CHARADATA]/2) Character Data {/color}"
-msgstr ""
+msgstr "Для создания этого персонажа необходимы следующие элементы: {color=#f2923c}([CHARADATA]/2) Character Data {/color}"
 
 # game/Room_02_CharaCrea.rpy:54 #-#-# translate crowdin Room_02_CharaCreamenu_CHARAMENU_fa5ea022:
 msgid " You don't have the elements to create this character ( You can find them in the store or with the drone expeditions )"
-msgstr ""
+msgstr " У вас нет элементов для создания этого персонажа ( Вы можете найти их в магазине или с помощью дрона )"
 
 # game/Room_02_CharaCrea.rpy:56 #-#-# translate crowdin Room_02_CharaCreamenu_CHARAMENU_74705b98:
 msgid " You have the elements to create this character "
-msgstr ""
+msgstr " У вас есть элементы для создания этого персонажа "
 
 # game/Room_02_CharaCrea.rpy:67 #-#-# translate crowdin Room_02_CharaCreamenu_CHARAMENU_45949492:
 msgid " = CREATION OF THE CURRENT CHARACTER = "
-msgstr ""
+msgstr " = СОЗДАНИЕ ТЕКУЩЕГО ПЕРСОНАЖА = "
 
 # game/Room_02_CharaCrea.rpy:77 #-#-# translate crowdin Room_02_CharaCreamenu_CHARAMENU_97d90dc3:
 msgid " = THIS CHARACTER WILL BE AVAILABLE IN [CHARA_CREA_PROCEED_DAYLEFT] DAYS ="
-msgstr ""
+msgstr " = ЭТОТ ПЕРСОНАЖ БУДЕТ ДОСТУПЕН В [CHARA_CREA_PROCEED_DAYLEFT] ДНЕЙ ="
 
 # game/Room_02_CharaCrea.rpy:84 #-#-# translate crowdin Room_02_CharaCreamenu_CHARAMENU_7c82bca3_1:
 msgid "You must have these elements to create this character: {color=#f2923c}([CHARADATA]/2) Character Data {/color}"
-msgstr ""
+msgstr "Для создания этого персонажа необходимы следующие элементы: {color=#f2923c}([CHARADATA]/2) Character Data {/color}"
 
 # game/Room_02_CharaCrea.rpy:86 #-#-# translate crowdin Room_02_CharaCreamenu_CHARAMENU_fa5ea022_1:
 msgid " You don't have the elements to create this character ( You can find them in the store or with the drone expeditions )"
-msgstr ""
+msgstr " У вас нет элементов для создания этого персонажа ( Вы можете найти их в магазине или с помощью дрона )"
 
 # game/Room_02_CharaCrea.rpy:88 #-#-# translate crowdin Room_02_CharaCreamenu_CHARAMENU_74705b98_1:
 msgid " You have the elements to create this character "
-msgstr ""
+msgstr " У вас есть элементы для создания этого персонажа "
 
 # game/Room_02_CharaCrea.rpy:99 #-#-# translate crowdin Room_02_CharaCreamenu_CHARAMENU_45949492_1:
 msgid " = CREATION OF THE CURRENT CHARACTER = "
-msgstr ""
+msgstr " = СОЗДАНИЕ ТЕКУЩЕГО ПЕРСОНАЖА = "
 
 # game/Room_02_CharaCrea.rpy:107 #-#-# translate crowdin Room_02_CharaCreamenu_CHARAMENU_97d90dc3_1:
 msgid " = THIS CHARACTER WILL BE AVAILABLE IN [CHARA_CREA_PROCEED_DAYLEFT] DAYS ="
-msgstr ""
+msgstr " = ЭТОТ ПЕРСОНАЖ БУДЕТ ДОСТУПЕН В [CHARA_CREA_PROCEED_DAYLEFT] ДНЕЙ ="
 
 # game/Room_02_CharaCrea.rpy:113 #-#-# translate crowdin Room_02_CharaCreamenu_CHARAMENU_20d68579:
 msgid "You must have these elements to create this character: {color=#f2923c}([CHARADATA]/3) Character Data {/color}"
-msgstr ""
+msgstr "Для создания этого персонажа необходимы следующие элементы: {color=#f2923c}([CHARADATA]/3) Данные Персонажей {/color}"
 
 # game/Room_02_CharaCrea.rpy:115 #-#-# translate crowdin Room_02_CharaCreamenu_CHARAMENU_fa5ea022_2:
 msgid " You don't have the elements to create this character ( You can find them in the store or with the drone expeditions )"
-msgstr ""
+msgstr " У вас нет элементов для создания этого персонажа ( Вы можете найти их в магазине или с помощью дрона )"
 
 # game/Room_02_CharaCrea.rpy:117 #-#-# translate crowdin Room_02_CharaCreamenu_CHARAMENU_74705b98_2:
 msgid " You have the elements to create this character "
-msgstr ""
+msgstr " У вас есть элементы для создания этого персонажа "
 
 # game/Room_02_CharaCrea.rpy:128 #-#-# translate crowdin Room_02_CharaCreamenu_CHARAMENU_45949492_2:
 msgid " = CREATION OF THE CURRENT CHARACTER = "
-msgstr ""
+msgstr " = СОЗДАНИЕ ТЕКУЩЕГО ПЕРСОНАЖА = "
 
 # game/Room_02_CharaCrea.rpy:136 #-#-# translate crowdin Room_02_CharaCreamenu_CHARAMENU_97d90dc3_2:
 msgid " = THIS CHARACTER WILL BE AVAILABLE IN [CHARA_CREA_PROCEED_DAYLEFT] DAYS ="
-msgstr ""
+msgstr " = ЭТОТ ПЕРСОНАЖ БУДЕТ ДОСТУПЕН В [CHARA_CREA_PROCEED_DAYLEFT] ДНЕЙ ="
 
 # game/Room_02_CharaCrea.rpy:142 #-#-# translate crowdin Room_02_CharaCreamenu_CHARAMENU_7c82bca3_2:
 msgid "You must have these elements to create this character: {color=#f2923c}([CHARADATA]/2) Character Data {/color}"
-msgstr ""
+msgstr "Для создания этого персонажа необходимы следующие элементы: {color=#f2923c}([CHARADATA]/2) Character Data {/color}"
 
 # game/Room_02_CharaCrea.rpy:144 #-#-# translate crowdin Room_02_CharaCreamenu_CHARAMENU_fa5ea022_3:
 msgid " You don't have the elements to create this character ( You can find them in the store or with the drone expeditions )"
-msgstr ""
+msgstr " У вас нет элементов для создания этого персонажа ( Вы можете найти их в магазине или с помощью дрона )"
 
 # game/Room_02_CharaCrea.rpy:146 #-#-# translate crowdin Room_02_CharaCreamenu_CHARAMENU_74705b98_3:
 msgid " You have the elements to create this character "
-msgstr ""
+msgstr " У вас есть элементы для создания этого персонажа "
 
 # game/Room_02_CharaCrea.rpy:157 #-#-# translate crowdin Room_02_CharaCreamenu_CHARAMENU_45949492_3:
 msgid " = CREATION OF THE CURRENT CHARACTER = "
-msgstr ""
+msgstr " = СОЗДАНИЕ ТЕКУЩЕГО ПЕРСОНАЖА = "
 
 # game/Room_02_CharaCrea.rpy:165 #-#-# translate crowdin Room_02_CharaCreamenu_CHARAMENU_97d90dc3_3:
 msgid " = THIS CHARACTER WILL BE AVAILABLE IN [CHARA_CREA_PROCEED_DAYLEFT] DAYS ="
-msgstr ""
+msgstr " = ЭТОТ ПЕРСОНАЖ БУДЕТ ДОСТУПЕН В [CHARA_CREA_PROCEED_DAYLEFT] ДНЕЙ ="
 
 # game/Room_02_CharaCrea.rpy:182 #-#-# translate crowdin Room_02_CharaCreamenu_CLOTHESMENU_a7dd5baa:
 msgid "You must have these elements to create this object: {color=#3c96f2}([CLOTHEDATA]/2) Clothes Data {/color} and {color=#a0fc86} ([ITEM_CLOTHESSCRAPS01]/3) Clothes Scraps {color=#a0fc86}"
-msgstr ""
+msgstr "Для создания этого персонажа необходимы следующие элементы: {color=#3c96f2}([CLOTHEDATA]/2) Данные Одежды {/color} и {color=#a0fc86} ([ITEM_CLOTHESSCRAPS01]/3) Обрывки Одежды {color=#a0fc86}"
 
 # game/Room_02_CharaCrea.rpy:184 #-#-# translate crowdin Room_02_CharaCreamenu_CLOTHESMENU_39dd9eaf:
 msgid " You don't have the elements to create this object ( You can find them in the store or with the drone expeditions )"
-msgstr ""
+msgstr " У вас нет элементов для создания этого объекта (Вы можете найти их в магазине или в экспедициях с дронами)"
 
 # game/Room_02_CharaCrea.rpy:186 #-#-# translate crowdin Room_02_CharaCreamenu_CLOTHESMENU_a6f2bb68:
 msgid " You have the elements to create this object "
-msgstr ""
+msgstr " У вас есть элементы для создания этого объекта "
 
 # game/Room_02_CharaCrea.rpy:197 #-#-# translate crowdin Room_02_CharaCreamenu_CLOTHESMENU_1cd72a52:
 msgid " = CREATION OF THE CURRENT CLOTHES = "
@@ -134,11 +134,11 @@ msgstr ""
 
 # game/Room_02_CharaCrea.rpy:218 #-#-# translate crowdin Room_02_CharaCreamenu_CLOTHESMENU_39dd9eaf_1:
 msgid " You don't have the elements to create this object ( You can find them in the store or with the drone expeditions )"
-msgstr ""
+msgstr " У вас нет элементов для создания этого объекта (Вы можете найти их в магазине или в экспедициях с дронами)"
 
 # game/Room_02_CharaCrea.rpy:220 #-#-# translate crowdin Room_02_CharaCreamenu_CLOTHESMENU_a6f2bb68_1:
 msgid " You have the elements to create this object "
-msgstr ""
+msgstr " У вас есть элементы для создания этого объекта "
 
 # game/Room_02_CharaCrea.rpy:231 #-#-# translate crowdin Room_02_CharaCreamenu_CLOTHESMENU_1cd72a52_1:
 msgid " = CREATION OF THE CURRENT CLOTHES = "
@@ -154,11 +154,11 @@ msgstr ""
 
 # game/Room_02_CharaCrea.rpy:252 #-#-# translate crowdin Room_02_CharaCreamenu_CLOTHESMENU_39dd9eaf_2:
 msgid " You don't have the elements to create this object ( You can find them in the store or with the drone expeditions )"
-msgstr ""
+msgstr " У вас нет элементов для создания этого объекта (Вы можете найти их в магазине или в экспедициях с дронами)"
 
 # game/Room_02_CharaCrea.rpy:254 #-#-# translate crowdin Room_02_CharaCreamenu_CLOTHESMENU_a6f2bb68_2:
 msgid " You have the elements to create this object "
-msgstr ""
+msgstr " У вас есть элементы для создания этого объекта "
 
 # game/Room_02_CharaCrea.rpy:265 #-#-# translate crowdin Room_02_CharaCreamenu_CLOTHESMENU_1cd72a52_2:
 msgid " = CREATION OF THE CURRENT CLOTHES = "
@@ -174,11 +174,11 @@ msgstr ""
 
 # game/Room_02_CharaCrea.rpy:286 #-#-# translate crowdin Room_02_CharaCreamenu_CLOTHESMENU_39dd9eaf_3:
 msgid " You don't have the elements to create this object ( You can find them in the store or with the drone expeditions )"
-msgstr ""
+msgstr " У вас нет элементов для создания этого объекта (Вы можете найти их в магазине или в экспедициях с дронами)"
 
 # game/Room_02_CharaCrea.rpy:288 #-#-# translate crowdin Room_02_CharaCreamenu_CLOTHESMENU_a6f2bb68_3:
 msgid " You have the elements to create this object "
-msgstr ""
+msgstr " У вас есть элементы для создания этого объекта "
 
 # game/Room_02_CharaCrea.rpy:299 #-#-# translate crowdin Room_02_CharaCreamenu_CLOTHESMENU_1cd72a52_3:
 msgid " = CREATION OF THE CURRENT CLOTHES = "
@@ -190,15 +190,15 @@ msgstr ""
 
 # game/Room_02_CharaCrea.rpy:318 #-#-# translate crowdin Room_02_CharaCreamenu_CLOTHESMENU_a7dd5baa_1:
 msgid "You must have these elements to create this object: {color=#3c96f2}([CLOTHEDATA]/2) Clothes Data {/color} and {color=#a0fc86} ([ITEM_CLOTHESSCRAPS01]/3) Clothes Scraps {color=#a0fc86}"
-msgstr ""
+msgstr "Для создания этого персонажа необходимы следующие элементы: {color=#3c96f2}([CLOTHEDATA]/2) Данные Одежды {/color} и {color=#a0fc86} ([ITEM_CLOTHESSCRAPS01]/3) Обрывки Одежды {color=#a0fc86}"
 
 # game/Room_02_CharaCrea.rpy:320 #-#-# translate crowdin Room_02_CharaCreamenu_CLOTHESMENU_39dd9eaf_4:
 msgid " You don't have the elements to create this object ( You can find them in the store or with the drone expeditions )"
-msgstr ""
+msgstr " У вас нет элементов для создания этого объекта (Вы можете найти их в магазине или в экспедициях с дронами)"
 
 # game/Room_02_CharaCrea.rpy:322 #-#-# translate crowdin Room_02_CharaCreamenu_CLOTHESMENU_a6f2bb68_4:
 msgid " You have the elements to create this object "
-msgstr ""
+msgstr " У вас есть элементы для создания этого объекта "
 
 # game/Room_02_CharaCrea.rpy:333 #-#-# translate crowdin Room_02_CharaCreamenu_CLOTHESMENU_1cd72a52_4:
 msgid " = CREATION OF THE CURRENT CLOTHES = "
@@ -210,15 +210,15 @@ msgstr ""
 
 # game/Room_02_CharaCrea.rpy:351 #-#-# translate crowdin Room_02_CharaCreamenu_CLOTHESMENU_a7dd5baa_2:
 msgid "You must have these elements to create this object: {color=#3c96f2}([CLOTHEDATA]/2) Clothes Data {/color} and {color=#a0fc86} ([ITEM_CLOTHESSCRAPS01]/3) Clothes Scraps {color=#a0fc86}"
-msgstr ""
+msgstr "Для создания этого персонажа необходимы следующие элементы: {color=#3c96f2}([CLOTHEDATA]/2) Данные Одежды {/color} и {color=#a0fc86} ([ITEM_CLOTHESSCRAPS01]/3) Обрывки Одежды {color=#a0fc86}"
 
 # game/Room_02_CharaCrea.rpy:353 #-#-# translate crowdin Room_02_CharaCreamenu_CLOTHESMENU_39dd9eaf_5:
 msgid " You don't have the elements to create this object ( You can find them in the store or with the drone expeditions )"
-msgstr ""
+msgstr " У вас нет элементов для создания этого объекта (Вы можете найти их в магазине или в экспедициях с дронами)"
 
 # game/Room_02_CharaCrea.rpy:355 #-#-# translate crowdin Room_02_CharaCreamenu_CLOTHESMENU_a6f2bb68_5:
 msgid " You have the elements to create this object "
-msgstr ""
+msgstr " У вас есть элементы для создания этого объекта "
 
 # game/Room_02_CharaCrea.rpy:366 #-#-# translate crowdin Room_02_CharaCreamenu_CLOTHESMENU_1cd72a52_5:
 msgid " = CREATION OF THE CURRENT CLOTHES = "
@@ -230,15 +230,15 @@ msgstr ""
 
 # game/Room_02_CharaCrea.rpy:384 #-#-# translate crowdin Room_02_CharaCreamenu_CLOTHESMENU_a7dd5baa_3:
 msgid "You must have these elements to create this object: {color=#3c96f2}([CLOTHEDATA]/2) Clothes Data {/color} and {color=#a0fc86} ([ITEM_CLOTHESSCRAPS01]/3) Clothes Scraps {color=#a0fc86}"
-msgstr ""
+msgstr "Для создания этого персонажа необходимы следующие элементы: {color=#3c96f2}([CLOTHEDATA]/2) Данные Одежды {/color} и {color=#a0fc86} ([ITEM_CLOTHESSCRAPS01]/3) Обрывки Одежды {color=#a0fc86}"
 
 # game/Room_02_CharaCrea.rpy:386 #-#-# translate crowdin Room_02_CharaCreamenu_CLOTHESMENU_39dd9eaf_6:
 msgid " You don't have the elements to create this object ( You can find them in the store or with the drone expeditions )"
-msgstr ""
+msgstr " У вас нет элементов для создания этого объекта (Вы можете найти их в магазине или в экспедициях с дронами)"
 
 # game/Room_02_CharaCrea.rpy:388 #-#-# translate crowdin Room_02_CharaCreamenu_CLOTHESMENU_a6f2bb68_6:
 msgid " You have the elements to create this object "
-msgstr ""
+msgstr " У вас есть элементы для создания этого объекта "
 
 # game/Room_02_CharaCrea.rpy:399 #-#-# translate crowdin Room_02_CharaCreamenu_CLOTHESMENU_1cd72a52_6:
 msgid " = CREATION OF THE CURRENT CLOTHES = "
@@ -250,15 +250,15 @@ msgstr ""
 
 # game/Room_02_CharaCrea.rpy:417 #-#-# translate crowdin Room_02_CharaCreamenu_CLOTHESMENU_a7dd5baa_4:
 msgid "You must have these elements to create this object: {color=#3c96f2}([CLOTHEDATA]/2) Clothes Data {/color} and {color=#a0fc86} ([ITEM_CLOTHESSCRAPS01]/3) Clothes Scraps {color=#a0fc86}"
-msgstr ""
+msgstr "Для создания этого персонажа необходимы следующие элементы: {color=#3c96f2}([CLOTHEDATA]/2) Данные Одежды {/color} и {color=#a0fc86} ([ITEM_CLOTHESSCRAPS01]/3) Обрывки Одежды {color=#a0fc86}"
 
 # game/Room_02_CharaCrea.rpy:419 #-#-# translate crowdin Room_02_CharaCreamenu_CLOTHESMENU_39dd9eaf_7:
 msgid " You don't have the elements to create this object ( You can find them in the store or with the drone expeditions )"
-msgstr ""
+msgstr " У вас нет элементов для создания этого объекта (Вы можете найти их в магазине или в экспедициях с дронами)"
 
 # game/Room_02_CharaCrea.rpy:421 #-#-# translate crowdin Room_02_CharaCreamenu_CLOTHESMENU_a6f2bb68_7:
 msgid " You have the elements to create this object "
-msgstr ""
+msgstr " У вас есть элементы для создания этого объекта "
 
 # game/Room_02_CharaCrea.rpy:432 #-#-# translate crowdin Room_02_CharaCreamenu_CLOTHESMENU_1cd72a52_7:
 msgid " = CREATION OF THE CURRENT CLOTHES = "
@@ -274,11 +274,11 @@ msgstr ""
 
 # game/Room_02_CharaCrea.rpy:453 #-#-# translate crowdin Room_02_CharaCreamenu_CLOTHESMENU_39dd9eaf_8:
 msgid " You don't have the elements to create this object ( You can find them in the store or with the drone expeditions )"
-msgstr ""
+msgstr " У вас нет элементов для создания этого объекта (Вы можете найти их в магазине или в экспедициях с дронами)"
 
 # game/Room_02_CharaCrea.rpy:455 #-#-# translate crowdin Room_02_CharaCreamenu_CLOTHESMENU_a6f2bb68_8:
 msgid " You have the elements to create this object "
-msgstr ""
+msgstr " У вас есть элементы для создания этого объекта "
 
 # game/Room_02_CharaCrea.rpy:466 #-#-# translate crowdin Room_02_CharaCreamenu_CLOTHESMENU_1cd72a52_8:
 msgid " = CREATION OF THE CURRENT CLOTHES = "
@@ -294,11 +294,11 @@ msgstr ""
 
 # game/Room_02_CharaCrea.rpy:485 #-#-# translate crowdin Room_02_CharaCreamenu_CLOTHESMENU_39dd9eaf_9:
 msgid " You don't have the elements to create this object ( You can find them in the store or with the drone expeditions )"
-msgstr ""
+msgstr " У вас нет элементов для создания этого объекта (Вы можете найти их в магазине или в экспедициях с дронами)"
 
 # game/Room_02_CharaCrea.rpy:487 #-#-# translate crowdin Room_02_CharaCreamenu_CLOTHESMENU_a6f2bb68_9:
 msgid " You have the elements to create this object "
-msgstr ""
+msgstr " У вас есть элементы для создания этого объекта "
 
 # game/Room_02_CharaCrea.rpy:498 #-#-# translate crowdin Room_02_CharaCreamenu_CLOTHESMENU_1cd72a52_9:
 msgid " = CREATION OF THE CURRENT CLOTHES = "
@@ -310,15 +310,15 @@ msgstr ""
 
 # game/Room_02_CharaCrea.rpy:516 #-#-# translate crowdin Room_02_CharaCreamenu_CLOTHESMENU_a7dd5baa_5:
 msgid "You must have these elements to create this object: {color=#3c96f2}([CLOTHEDATA]/2) Clothes Data {/color} and {color=#a0fc86} ([ITEM_CLOTHESSCRAPS01]/3) Clothes Scraps {color=#a0fc86}"
-msgstr ""
+msgstr "Для создания этого персонажа необходимы следующие элементы: {color=#3c96f2}([CLOTHEDATA]/2) Данные Одежды {/color} и {color=#a0fc86} ([ITEM_CLOTHESSCRAPS01]/3) Обрывки Одежды {color=#a0fc86}"
 
 # game/Room_02_CharaCrea.rpy:518 #-#-# translate crowdin Room_02_CharaCreamenu_CLOTHESMENU_39dd9eaf_10:
 msgid " You don't have the elements to create this object ( You can find them in the store or with the drone expeditions )"
-msgstr ""
+msgstr " У вас нет элементов для создания этого объекта (Вы можете найти их в магазине или в экспедициях с дронами)"
 
 # game/Room_02_CharaCrea.rpy:520 #-#-# translate crowdin Room_02_CharaCreamenu_CLOTHESMENU_a6f2bb68_10:
 msgid " You have the elements to create this object "
-msgstr ""
+msgstr " У вас есть элементы для создания этого объекта "
 
 # game/Room_02_CharaCrea.rpy:531 #-#-# translate crowdin Room_02_CharaCreamenu_CLOTHESMENU_1cd72a52_10:
 msgid " = CREATION OF THE CURRENT CLOTHES = "
@@ -330,15 +330,15 @@ msgstr ""
 
 # game/Room_02_CharaCrea.rpy:549 #-#-# translate crowdin Room_02_CharaCreamenu_CLOTHESMENU_a7dd5baa_6:
 msgid "You must have these elements to create this object: {color=#3c96f2}([CLOTHEDATA]/2) Clothes Data {/color} and {color=#a0fc86} ([ITEM_CLOTHESSCRAPS01]/3) Clothes Scraps {color=#a0fc86}"
-msgstr ""
+msgstr "Для создания этого персонажа необходимы следующие элементы: {color=#3c96f2}([CLOTHEDATA]/2) Данные Одежды {/color} и {color=#a0fc86} ([ITEM_CLOTHESSCRAPS01]/3) Обрывки Одежды {color=#a0fc86}"
 
 # game/Room_02_CharaCrea.rpy:551 #-#-# translate crowdin Room_02_CharaCreamenu_CLOTHESMENU_39dd9eaf_11:
 msgid " You don't have the elements to create this object ( You can find them in the store or with the drone expeditions )"
-msgstr ""
+msgstr " У вас нет элементов для создания этого объекта (Вы можете найти их в магазине или в экспедициях с дронами)"
 
 # game/Room_02_CharaCrea.rpy:553 #-#-# translate crowdin Room_02_CharaCreamenu_CLOTHESMENU_a6f2bb68_11:
 msgid " You have the elements to create this object "
-msgstr ""
+msgstr " У вас есть элементы для создания этого объекта "
 
 # game/Room_02_CharaCrea.rpy:564 #-#-# translate crowdin Room_02_CharaCreamenu_CLOTHESMENU_1cd72a52_11:
 msgid " = CREATION OF THE CURRENT CLOTHES = "
@@ -354,11 +354,11 @@ msgstr ""
 
 # game/Room_02_CharaCrea.rpy:585 #-#-# translate crowdin Room_02_CharaCreamenu_CLOTHESMENU_39dd9eaf_12:
 msgid " You don't have the elements to create this object ( You can find them in the store or with the drone expeditions )"
-msgstr ""
+msgstr " У вас нет элементов для создания этого объекта (Вы можете найти их в магазине или в экспедициях с дронами)"
 
 # game/Room_02_CharaCrea.rpy:587 #-#-# translate crowdin Room_02_CharaCreamenu_CLOTHESMENU_a6f2bb68_12:
 msgid " You have the elements to create this object "
-msgstr ""
+msgstr " У вас есть элементы для создания этого объекта "
 
 # game/Room_02_CharaCrea.rpy:598 #-#-# translate crowdin Room_02_CharaCreamenu_CLOTHESMENU_1cd72a52_12:
 msgid " = CREATION OF THE CURRENT CLOTHES = "
@@ -374,11 +374,11 @@ msgstr ""
 
 # game/Room_02_CharaCrea.rpy:618 #-#-# translate crowdin Room_02_CharaCreamenu_CLOTHESMENU_39dd9eaf_13:
 msgid " You don't have the elements to create this object ( You can find them in the store or with the drone expeditions )"
-msgstr ""
+msgstr " У вас нет элементов для создания этого объекта (Вы можете найти их в магазине или в экспедициях с дронами)"
 
 # game/Room_02_CharaCrea.rpy:620 #-#-# translate crowdin Room_02_CharaCreamenu_CLOTHESMENU_a6f2bb68_13:
 msgid " You have the elements to create this object "
-msgstr ""
+msgstr " У вас есть элементы для создания этого объекта "
 
 # game/Room_02_CharaCrea.rpy:631 #-#-# translate crowdin Room_02_CharaCreamenu_CLOTHESMENU_1cd72a52_13:
 msgid " = CREATION OF THE CURRENT CLOTHES = "
@@ -394,11 +394,11 @@ msgstr ""
 
 # game/Room_02_CharaCrea.rpy:651 #-#-# translate crowdin Room_02_CharaCreamenu_CLOTHESMENU_39dd9eaf_14:
 msgid " You don't have the elements to create this object ( You can find them in the store or with the drone expeditions )"
-msgstr ""
+msgstr " У вас нет элементов для создания этого объекта (Вы можете найти их в магазине или в экспедициях с дронами)"
 
 # game/Room_02_CharaCrea.rpy:653 #-#-# translate crowdin Room_02_CharaCreamenu_CLOTHESMENU_a6f2bb68_14:
 msgid " You have the elements to create this object "
-msgstr ""
+msgstr " У вас есть элементы для создания этого объекта "
 
 # game/Room_02_CharaCrea.rpy:664 #-#-# translate crowdin Room_02_CharaCreamenu_CLOTHESMENU_1cd72a52_14:
 msgid " = CREATION OF THE CURRENT CLOTHES = "
@@ -414,11 +414,11 @@ msgstr ""
 
 # game/Room_02_CharaCrea.rpy:685 #-#-# translate crowdin Room_02_CharaCreamenu_CLOTHESMENU_39dd9eaf_15:
 msgid " You don't have the elements to create this object ( You can find them in the store or with the drone expeditions )"
-msgstr ""
+msgstr " У вас нет элементов для создания этого объекта (Вы можете найти их в магазине или в экспедициях с дронами)"
 
 # game/Room_02_CharaCrea.rpy:687 #-#-# translate crowdin Room_02_CharaCreamenu_CLOTHESMENU_a6f2bb68_15:
 msgid " You have the elements to create this object "
-msgstr ""
+msgstr " У вас есть элементы для создания этого объекта "
 
 # game/Room_02_CharaCrea.rpy:698 #-#-# translate crowdin Room_02_CharaCreamenu_CLOTHESMENU_1cd72a52_15:
 msgid " = CREATION OF THE CURRENT CLOTHES = "
@@ -434,7 +434,7 @@ msgstr ""
 
 # game/Room_02_CharaCrea.rpy:720 #-#-# translate crowdin Room_02_CharaCreamenu_CLOTHESMENU_39dd9eaf_16:
 msgid " You don't have the elements to create this object ( You can find them in the store or with the drone expeditions )"
-msgstr ""
+msgstr " У вас нет элементов для создания этого объекта (Вы можете найти их в магазине или в экспедициях с дронами)"
 
 # game/Room_02_CharaCrea.rpy:721 #-#-# translate crowdin Room_02_CharaCreamenu_CLOTHESMENU_7b1c1392:
 msgid "[_u_] ..."
@@ -454,7 +454,7 @@ msgstr ""
 
 # game/Room_02_CharaCrea.rpy:728 #-#-# translate crowdin Room_02_CharaCreamenu_CLOTHESMENU_a6f2bb68_16:
 msgid " You have the elements to create this object "
-msgstr ""
+msgstr " У вас есть элементы для создания этого объекта "
 
 # game/Room_02_CharaCrea.rpy:730 #-#-# translate crowdin Room_02_CharaCreamenu_CLOTHESMENU_45d591e1:
 msgid "ERROR: The object can't be created."
@@ -474,11 +474,11 @@ msgstr ""
 
 # game/Room_02_CharaCrea.rpy:741 #-#-# translate crowdin Room_02_CharaCreamenu_CLOTHESMENU_39dd9eaf_17:
 msgid " You don't have the elements to create this object ( You can find them in the store or with the drone expeditions )"
-msgstr ""
+msgstr " У вас нет элементов для создания этого объекта (Вы можете найти их в магазине или в экспедициях с дронами)"
 
 # game/Room_02_CharaCrea.rpy:743 #-#-# translate crowdin Room_02_CharaCreamenu_CLOTHESMENU_a6f2bb68_17:
 msgid " You have the elements to create this object "
-msgstr ""
+msgstr " У вас есть элементы для создания этого объекта "
 
 # game/Room_02_CharaCrea.rpy:754 #-#-# translate crowdin Room_02_CharaCreamenu_CLOTHESMENU_1cd72a52_16:
 msgid " = CREATION OF THE CURRENT CLOTHES = "
@@ -494,11 +494,11 @@ msgstr ""
 
 # game/Room_02_CharaCrea.rpy:775 #-#-# translate crowdin Room_02_CharaCreamenu_CLOTHESMENU_39dd9eaf_18:
 msgid " You don't have the elements to create this object ( You can find them in the store or with the drone expeditions )"
-msgstr ""
+msgstr " У вас нет элементов для создания этого объекта (Вы можете найти их в магазине или в экспедициях с дронами)"
 
 # game/Room_02_CharaCrea.rpy:777 #-#-# translate crowdin Room_02_CharaCreamenu_CLOTHESMENU_a6f2bb68_18:
 msgid " You have the elements to create this object "
-msgstr ""
+msgstr " У вас есть элементы для создания этого объекта "
 
 # game/Room_02_CharaCrea.rpy:788 #-#-# translate crowdin Room_02_CharaCreamenu_CLOTHESMENU_1cd72a52_17:
 msgid " = CREATION OF THE CURRENT CLOTHES = "
@@ -514,11 +514,11 @@ msgstr ""
 
 # game/Room_02_CharaCrea.rpy:810 #-#-# translate crowdin Room_02_CharaCreamenu_CLOTHESMENU_39dd9eaf_19:
 msgid " You don't have the elements to create this object ( You can find them in the store or with the drone expeditions )"
-msgstr ""
+msgstr " У вас нет элементов для создания этого объекта (Вы можете найти их в магазине или в экспедициях с дронами)"
 
 # game/Room_02_CharaCrea.rpy:812 #-#-# translate crowdin Room_02_CharaCreamenu_CLOTHESMENU_a6f2bb68_19:
 msgid " You have the elements to create this object "
-msgstr ""
+msgstr " У вас есть элементы для создания этого объекта "
 
 # game/Room_02_CharaCrea.rpy:823 #-#-# translate crowdin Room_02_CharaCreamenu_CLOTHESMENU_1cd72a52_18:
 msgid " = CREATION OF THE CURRENT CLOTHES = "
@@ -534,11 +534,11 @@ msgstr ""
 
 # game/Room_02_CharaCrea.rpy:846 #-#-# translate crowdin Room_02_CharaCreamenu_CLOTHESMENU_39dd9eaf_20:
 msgid " You don't have the elements to create this object ( You can find them in the store or with the drone expeditions )"
-msgstr ""
+msgstr " У вас нет элементов для создания этого объекта (Вы можете найти их в магазине или в экспедициях с дронами)"
 
 # game/Room_02_CharaCrea.rpy:848 #-#-# translate crowdin Room_02_CharaCreamenu_CLOTHESMENU_a6f2bb68_20:
 msgid " You have the elements to create this object "
-msgstr ""
+msgstr " У вас есть элементы для создания этого объекта "
 
 # game/Room_02_CharaCrea.rpy:859 #-#-# translate crowdin Room_02_CharaCreamenu_CLOTHESMENU_1cd72a52_19:
 msgid " = CREATION OF THE CURRENT CLOTHES = "
@@ -554,11 +554,11 @@ msgstr ""
 
 # game/Room_02_CharaCrea.rpy:881 #-#-# translate crowdin Room_02_CharaCreamenu_CLOTHESMENU_39dd9eaf_21:
 msgid " You don't have the elements to create this object ( You can find them in the store or with the drone expeditions )"
-msgstr ""
+msgstr " У вас нет элементов для создания этого объекта (Вы можете найти их в магазине или в экспедициях с дронами)"
 
 # game/Room_02_CharaCrea.rpy:883 #-#-# translate crowdin Room_02_CharaCreamenu_CLOTHESMENU_a6f2bb68_21:
 msgid " You have the elements to create this object "
-msgstr ""
+msgstr " У вас есть элементы для создания этого объекта "
 
 # game/Room_02_CharaCrea.rpy:894 #-#-# translate crowdin Room_02_CharaCreamenu_CLOTHESMENU_1cd72a52_20:
 msgid " = CREATION OF THE CURRENT CLOTHES = "
@@ -574,11 +574,11 @@ msgstr ""
 
 # game/Room_02_CharaCrea.rpy:915 #-#-# translate crowdin Room_02_CharaCreamenu_CLOTHESMENU_39dd9eaf_22:
 msgid " You don't have the elements to create this object ( You can find them in the store or with the drone expeditions )"
-msgstr ""
+msgstr " У вас нет элементов для создания этого объекта (Вы можете найти их в магазине или в экспедициях с дронами)"
 
 # game/Room_02_CharaCrea.rpy:917 #-#-# translate crowdin Room_02_CharaCreamenu_CLOTHESMENU_a6f2bb68_22:
 msgid " You have the elements to create this object "
-msgstr ""
+msgstr " У вас есть элементы для создания этого объекта "
 
 # game/Room_02_CharaCrea.rpy:928 #-#-# translate crowdin Room_02_CharaCreamenu_CLOTHESMENU_1cd72a52_21:
 msgid " = CREATION OF THE CURRENT CLOTHES = "
@@ -590,15 +590,15 @@ msgstr ""
 
 # game/Room_02_CharaCrea.rpy:956 #-#-# translate crowdin Room_02_CharaCreamenu_HAIRSMENU_a7dd5baa:
 msgid "You must have these elements to create this object: {color=#3c96f2}([CLOTHEDATA]/2) Clothes Data {/color} and {color=#a0fc86} ([ITEM_CLOTHESSCRAPS01]/3) Clothes Scraps {color=#a0fc86}"
-msgstr ""
+msgstr "Для создания этого персонажа необходимы следующие элементы: {color=#3c96f2}([CLOTHEDATA]/2) Данные Одежды {/color} и {color=#a0fc86} ([ITEM_CLOTHESSCRAPS01]/3) Обрывки Одежды {color=#a0fc86}"
 
 # game/Room_02_CharaCrea.rpy:958 #-#-# translate crowdin Room_02_CharaCreamenu_HAIRSMENU_39dd9eaf:
 msgid " You don't have the elements to create this object ( You can find them in the store or with the drone expeditions )"
-msgstr ""
+msgstr " У вас нет элементов для создания этого объекта (Вы можете найти их в магазине или в экспедициях с дронами)"
 
 # game/Room_02_CharaCrea.rpy:960 #-#-# translate crowdin Room_02_CharaCreamenu_HAIRSMENU_a6f2bb68:
 msgid " You have the elements to create this object "
-msgstr ""
+msgstr " У вас есть элементы для создания этого объекта "
 
 # game/Room_02_CharaCrea.rpy:971 #-#-# translate crowdin Room_02_CharaCreamenu_HAIRSMENU_1cd72a52:
 msgid " = CREATION OF THE CURRENT CLOTHES = "
@@ -614,11 +614,11 @@ msgstr ""
 
 # game/Room_02_CharaCrea.rpy:991 #-#-# translate crowdin Room_02_CharaCreamenu_HAIRSMENU_39dd9eaf_1:
 msgid " You don't have the elements to create this object ( You can find them in the store or with the drone expeditions )"
-msgstr ""
+msgstr " У вас нет элементов для создания этого объекта (Вы можете найти их в магазине или в экспедициях с дронами)"
 
 # game/Room_02_CharaCrea.rpy:993 #-#-# translate crowdin Room_02_CharaCreamenu_HAIRSMENU_a6f2bb68_1:
 msgid " You have the elements to create this object "
-msgstr ""
+msgstr " У вас есть элементы для создания этого объекта "
 
 # game/Room_02_CharaCrea.rpy:1004 #-#-# translate crowdin Room_02_CharaCreamenu_HAIRSMENU_1cd72a52_1:
 msgid " = CREATION OF THE CURRENT CLOTHES = "
@@ -634,11 +634,11 @@ msgstr ""
 
 # game/Room_02_CharaCrea.rpy:1024 #-#-# translate crowdin Room_02_CharaCreamenu_HAIRSMENU_39dd9eaf_2:
 msgid " You don't have the elements to create this object ( You can find them in the store or with the drone expeditions )"
-msgstr ""
+msgstr " У вас нет элементов для создания этого объекта (Вы можете найти их в магазине или в экспедициях с дронами)"
 
 # game/Room_02_CharaCrea.rpy:1026 #-#-# translate crowdin Room_02_CharaCreamenu_HAIRSMENU_a6f2bb68_2:
 msgid " You have the elements to create this object "
-msgstr ""
+msgstr " У вас есть элементы для создания этого объекта "
 
 # game/Room_02_CharaCrea.rpy:1037 #-#-# translate crowdin Room_02_CharaCreamenu_HAIRSMENU_1cd72a52_2:
 msgid " = CREATION OF THE CURRENT CLOTHES = "
