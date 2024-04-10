@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2024-04-10 10:03\n"
+"PO-Revision-Date: 2024-04-10 15:30\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Room_02_CharaCrea.rpy:10 #-#-# translate crowdin Room_02_CharaCrea_3d26d832:
 msgid "[_u_] No need to create anything yet. "
@@ -270,7 +270,7 @@ msgstr " = ЭТА ОДЕЖДА БУДЕТ ДОСТУПНА ЧЕРЕЗ [CLOTHE_CR
 
 # game/Room_02_CharaCrea.rpy:451 #-#-# translate crowdin Room_02_CharaCreamenu_CLOTHESMENU_21cceada:
 msgid "You must have these elements to create this object: {color=#a0fc86} ([ITEM_CLOTHESSCRAPS01]/8) Clothes Scraps {color=#a0fc86}"
-msgstr "Для создания этой одежды необходимы следующие элементы: {color=#a0fc86} ([ITEM_CLOTHESSCRAPS01]/8) Обрывки Одежды {color=#a0fc86}"
+msgstr "Для создания этого объекта необходимы следующие элементы: {color=#3c96f2}([CLOTHEDATA]/2) Данные Одежды {/color} и {color=#a0fc86} ([ITEM_CLOTHESSCRAPS01]/3) Обрывки Одежды {color=#a0fc86}"
 
 # game/Room_02_CharaCrea.rpy:453 #-#-# translate crowdin Room_02_CharaCreamenu_CLOTHESMENU_39dd9eaf_8:
 msgid " You don't have the elements to create this object ( You can find them in the store or with the drone expeditions )"
@@ -290,7 +290,7 @@ msgstr " = ЭТА ОДЕЖДА БУДЕТ ДОСТУПНА ЧЕРЕЗ [CLOTHE_CR
 
 # game/Room_02_CharaCrea.rpy:483 #-#-# translate crowdin Room_02_CharaCreamenu_CLOTHESMENU_21cceada_1:
 msgid "You must have these elements to create this object: {color=#a0fc86} ([ITEM_CLOTHESSCRAPS01]/8) Clothes Scraps {color=#a0fc86}"
-msgstr "Для создания этой одежды необходимы следующие элементы: {color=#a0fc86} ([ITEM_CLOTHESSCRAPS01]/8) Обрывки Одежды {color=#a0fc86}"
+msgstr "Для создания этого объекта необходимы следующие элементы: {color=#3c96f2}([CLOTHEDATA]/2) Данные Одежды {/color} и {color=#a0fc86} ([ITEM_CLOTHESSCRAPS01]/3) Обрывки Одежды {color=#a0fc86}"
 
 # game/Room_02_CharaCrea.rpy:485 #-#-# translate crowdin Room_02_CharaCreamenu_CLOTHESMENU_39dd9eaf_9:
 msgid " You don't have the elements to create this object ( You can find them in the store or with the drone expeditions )"
