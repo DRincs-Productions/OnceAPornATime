@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-04-11 15:54\n"
+"PO-Revision-Date: 2024-04-11 21:24\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_BA.rpy:50 #-#-# translate crowdin CHARA_BA_Menu01_98aea068:
 msgid "[_ba_]  ... "
@@ -458,7 +458,7 @@ msgstr "[_ba_] QUOI ? C'est quoi cette condition de merde ? "
 
 # game/Cell01_BA.rpy:368 #-#-# translate crowdin Quest_BA_App01_01_13b73d7f:
 msgid "[_dj_] Do you question my word, mere mortal? "
-msgstr "[Mets-tu en doute ma parole, simple mortel ? "
+msgstr "[_dj_] Tu oses douter de moi, pauvre mortelle ? "
 
 # game/Cell01_BA.rpy:370 #-#-# translate crowdin Quest_BA_App01_01_7611efb4_2:
 msgid "[_ba_] ..."
