@@ -10,13 +10,13 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2024-03-07 14:17\n"
+"PO-Revision-Date: 2024-04-11 07:00\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/room01_donnee02.rpy:42 #-#-# translate crowdin room01_donneechara01_panel01_5fad2aac:
 msgid " = This is the corpution panel = "
-msgstr ""
+msgstr " = Это панель развращения = "
 
 # game/room01_donnee02.rpy:43 #-#-# translate crowdin room01_donneechara01_panel01_9ed64106:
 msgid " = All corruptible characters in this version of the game are available here. = "
-msgstr ""
+msgstr " = Все развращаемые персонажи в этой версии доступны здесь. = "
 
