@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2024-04-10 18:20\n"
+"PO-Revision-Date: 2024-04-11 17:01\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Room_01_Ordi.rpy:7 #-#-# translate crowdin room01_ordi01_In_f3a4608f:
 msgid "[_u_] Let's try to open that door first."
@@ -306,231 +306,231 @@ msgstr "Чит-коды не активированы. "
 
 # game/Room_01_Ordi.rpy:822 #-#-# translate crowdin room01_ordi01_Cheats_e23c02e7:
 msgid "Cheat codes are available after entering a Patreon code. (Check out the {a=https://www.patreon.com/Salty01_NSFW}{color=#fc9c63}Patreon page{/color}{/a} to find it.) =="
-msgstr "Чит-коды доступны после ввода кода Patreon. (Check out the {a=https://www.patreon.com/Salty01_NSFW}{color=#fc9c63}Patreon page{/color}{/a} to find it.) =="
+msgstr "Чит-коды доступны после ввода кода Patreon. (Чтобы найти их посетите {a=https://www.patreon.com/Salty01_NSFW}{color=#fc9c63}Patreon page{/color}{/a} to find it.) =="
 
 # game/Room_01_Ordi.rpy:827 #-#-# translate crowdin room01_ordi01_Cheats_a0257b10:
 msgid "== Cheat Codes: {color=#f2923c}ACTIVE{/color} =="
-msgstr ""
+msgstr "== Чит-коды: {color=#f2923c}АКТИВНЫ{/color} =="
 
 # game/Room_01_Ordi.rpy:854 #-#-# translate crowdin room01_ordi01_Cheats_67412914:
 msgid "You don't have any Cheat Points left. "
-msgstr ""
+msgstr "У вас не осталось чит-поинтов. "
 
 # game/Room_01_Ordi.rpy:860 #-#-# translate crowdin room01_ordi01_Cheats_eb9861b4:
 msgid "{color=#f2923c}== +800 Credits added! =={/color}"
-msgstr ""
+msgstr "{color=#f2923c}== Добавлены +800 Кредитов! =={/color}"
 
 # game/Room_01_Ordi.rpy:867 #-#-# translate crowdin room01_ordi01_Cheats_67412914_1:
 msgid "You don't have any Cheat Points left. "
-msgstr ""
+msgstr "У вас не осталось чит-поинтов. "
 
 # game/Room_01_Ordi.rpy:873 #-#-# translate crowdin room01_ordi01_Cheats_c575b770:
 msgid "{color=#f2923c}== +25 Clothes Scraps added! =={/color}"
-msgstr ""
+msgstr "{color=#f2923c}== Добавлено +25 Обрывков Одежды! =={/color}"
 
 # game/Room_01_Ordi.rpy:880 #-#-# translate crowdin room01_ordi01_Cheats_67412914_2:
 msgid "You don't have any Cheat Points left. "
-msgstr ""
+msgstr "У вас не осталось чит-поинтов. "
 
 # game/Room_01_Ordi.rpy:886 #-#-# translate crowdin room01_ordi01_Cheats_2688da9b:
 msgid "{color=#f2923c}== +10 Clothes Data added! =={/color}"
-msgstr ""
+msgstr "{color=#f2923c}== Добавлено +10 Данных Одежды! =={/color}"
 
 # game/Room_01_Ordi.rpy:893 #-#-# translate crowdin room01_ordi01_Cheats_67412914_3:
 msgid "You don't have any Cheat Points left. "
-msgstr ""
+msgstr "У вас не осталось чит-поинтов. "
 
 # game/Room_01_Ordi.rpy:899 #-#-# translate crowdin room01_ordi01_Cheats_1291862e:
 msgid "{color=#f2923c}== +2 Character Data added! =={/color}"
-msgstr ""
+msgstr "{color=#f2923c}== Добавлено +2 Данных Персонажей! =={/color}"
 
 # game/Room_01_Ordi.rpy:911 #-#-# translate crowdin room01_ordi01_Cheats_75f93969:
 msgid "Your character's name is now {color=#a0fc86}[name]{/color}."
-msgstr ""
+msgstr "Имя вашего персонажа теперь {color=#a0fc86}[name]{/color}."
 
 # game/Room_01_Ordi.rpy:917 #-#-# translate crowdin room01_ordi01_Cheats_67412914_4:
 msgid "You don't have any Cheat Points left. "
-msgstr ""
+msgstr "У вас не осталось чит-поинтов. "
 
 # game/Room_01_Ordi.rpy:926 #-#-# translate crowdin room01_ordi01_Cheats_75f93969_1:
 msgid "Your character's name is now {color=#a0fc86}[name]{/color}."
-msgstr ""
+msgstr "Имя вашего персонажа теперь {color=#a0fc86}[name]{/color}."
 
 # §translate crowdin strings: #|#|# # game/Room_01_Ordi.rpy:28
 msgid "{color=#3ad8ff}= Go on the Computer ={/color}"
-msgstr ""
+msgstr "{color=#3ad8ff}= Зайти в компьютер ={/color}"
 
 # game/Room_01_Ordi.rpy:28
 msgid "= Call Tinker Bell ="
-msgstr ""
+msgstr "= Позвать Тинкер Белл ="
 
 # game/Room_01_Ordi.rpy:28
 msgid "=Back to the office="
-msgstr ""
+msgstr "=Вернутся в офис="
 
 # game/Room_01_Ordi.rpy:92
 msgid "== You have:{color=#a0fc86} [MONEY] Credits {/color}/{color=#3c96f2} [CLOTHEDATA] Clothes Data {/color}/{color=#f2923c} [CHARADATA] Character Datas {/color} /{color=#a0fc86} [ITEM_CLOTHESSCRAPS01] Clothes Scraps {/color} =="
-msgstr ""
+msgstr "== У вас есть:{color=#a0fc86} [MONEY] Кредитов {/color}/{color=#3c96f2} [CLOTHEDATA] Данных одежды {/color}/{color=#f2923c} [CHARADATA] Данных Персонажей {/color} /{color=#a0fc86} [ITEM_CLOTHESSCRAPS01] Обрывков Одежды {/color} =="
 
 # game/Room_01_Ordi.rpy:92
 msgid "{color=#3ad8ff}=STORE={/color}"
-msgstr ""
+msgstr "{color=#3ad8ff}=МАГАЗИН={/color}"
 
 # game/Room_01_Ordi.rpy:92
 msgid "{color=#b4f08f}=Gallery={/color}"
-msgstr ""
+msgstr "{color=#b4f08f}=Галерея={/color}"
 
 # game/Room_01_Ordi.rpy:92
 msgid "{color=#ff9865}=Patreon Code={/color}"
-msgstr ""
+msgstr "{color=#ff9865}=Коды Патреон={/color}"
 
 # game/Room_01_Ordi.rpy:92
 msgid "{color=#3ad8ff}=Room Customization={/color}"
-msgstr ""
+msgstr "{color=#3ad8ff}=Персонализация Комнаты={/color}"
 
 # game/Room_01_Ordi.rpy:92
 msgid "{color=#797979}=Cheats :OFF={/color}"
-msgstr ""
+msgstr "{color=#797979}=Читы :ВЫКЛ={/color}"
 
 # game/Room_01_Ordi.rpy:92
 msgid "{color=#797979}=Cheats :{color=#a0fc86}ON{/color}={/color}"
-msgstr ""
+msgstr "{color=#797979}=Читы :{color=#a0fc86}ON{/color}={/color}"
 
 # game/Room_01_Ordi.rpy:92
 msgid "{color=#d743c7}LASTS CUSTOM{/color} "
-msgstr ""
+msgstr "{color=#d743c7}LASTS CUSTOM{/color} "
 
 # game/Room_01_Ordi.rpy:92
 msgid "{color=#d743c7}ALL CUSTOM{/color} "
-msgstr ""
+msgstr "{color=#d743c7}ALL CUSTOM{/color} "
 
 # game/Room_01_Ordi.rpy:92
 msgid "default office_01_customs_p06_04UNLOCK = False"
-msgstr ""
+msgstr "default office_01_customs_p06_04UNLOCK = False"
 
 # game/Room_01_Ordi.rpy:289
 msgid "== You have:{color=#a0fc86} [MONEY] Credits {/color}/{color=#a0fc86} [IMAGEDATA] Image Datas {/color}/{color=#3c96f2} [CLOTHEDATA] Clothes Data {/color}/{color=#f2923c} [CHARADATA] Character Datas {/color} /{color=#a0fc86} [ITEM_CLOTHESSCRAPS01] Clothes Scraps {/color} =="
-msgstr ""
+msgstr "== У вас есть:{color=#a0fc86} [MONEY] Кредитов {/color}/{color=#a0fc86} [IMAGEDATA] Данных Изображений {/color}/{color=#3c96f2} [CLOTHEDATA] Данны Одежды {/color}/{color=#f2923c} [CHARADATA] Данных Персонажей {/color} /{color=#a0fc86} [ITEM_CLOTHESSCRAPS01] Обрывков Одежды {/color} =="
 
 # game/Room_01_Ordi.rpy:289
 msgid "$=1= Clothes Data {color=#a0fc86}(75c){/color}"
-msgstr ""
+msgstr "$=1= Данные Одежды {color=#a0fc86}(75c){/color}"
 
 # game/Room_01_Ordi.rpy:289
 msgid "$=1= Character Data {color=#a0fc86}(505c){/color}"
-msgstr ""
+msgstr "$=1= Данные Персонажа {color=#a0fc86}(505c){/color}"
 
 # game/Room_01_Ordi.rpy:289
 msgid "$=1= Drone Energy Boost 3AP (One-time use) {color=#a0fc86}(30c){/color}"
-msgstr ""
+msgstr "$=1= Буст Энергии Дрона 3AP (One-time use) {color=#a0fc86}(30c){/color}"
 
 # game/Room_01_Ordi.rpy:289
 msgid "$=1= Drone Energy Boost 5AP (One-time use) {color=#a0fc86}(55c){/color}"
-msgstr ""
+msgstr "$=1= Буст Энергии Дрона 5AP (One-time use) {color=#a0fc86}(55c){/color}"
 
 # game/Room_01_Ordi.rpy:289
 msgid "$=1= Clothes Scraps {color=#a0fc86}(20c){/color}"
-msgstr ""
+msgstr "$=1= Обрывки Одежды {color=#a0fc86}(20c){/color}"
 
 # game/Room_01_Ordi.rpy:371
 msgid "== You have:{color=#a0fc86} [MONEY] Credits {/color} =="
-msgstr ""
+msgstr "== У вас:{color=#a0fc86} [MONEY] Кредитов {/color} =="
 
 # game/Room_01_Ordi.rpy:371
 msgid "$=1= Apple candy {color=#a0fc86}(30c){/color}"
-msgstr ""
+msgstr "$=1= Яблочная Конфета {color=#a0fc86}(30c){/color}"
 
 # game/Room_01_Ordi.rpy:371
 msgid "$=1= Apple cider {color=#a0fc86}(50c){/color}"
-msgstr ""
+msgstr "$=1= Яблочный Сидр {color=#a0fc86}(50c){/color}"
 
 # game/Room_01_Ordi.rpy:371
 msgid "$=1= Apple basket {color=#a0fc86}(22c){/color}"
-msgstr ""
+msgstr "$=1= Корзина с Яблоками {color=#a0fc86}(22c){/color}"
 
 # game/Room_01_Ordi.rpy:371
 msgid "$=1= Cupid apples basket {color=#a0fc86}(36c){/color}"
-msgstr ""
+msgstr "$=1= Корзина с Яблоками Купидона {color=#a0fc86}(36c){/color}"
 
 # game/Room_01_Ordi.rpy:431
 msgid "$=1= Drone Energy Boost 5AP (One-time use) {color=#a0fc86}(51c){/color}"
-msgstr ""
+msgstr "$=1= Буст Энергии Дрона 5AP (One-time use) {color=#a0fc86}(51c){/color}"
 
 # game/Room_01_Ordi.rpy:431
 msgid "$=1= Emergency Energy Cell (One-time use) {color=#a0fc86}(40c){/color}"
-msgstr ""
+msgstr "$=1= Аварийная Энерго-Ячейка (One-time use) {color=#a0fc86}(40c){/color}"
 
 # game/Room_01_Ordi.rpy:478
 msgid "$Office Coffee Machine {color=#a0fc86}(51c){/color}"
-msgstr ""
+msgstr "$Офисная Кофемашина {color=#a0fc86}(51c){/color}"
 
 # game/Room_01_Ordi.rpy:478
 msgid "$Office Orchid {color=#a0fc86}(42c){/color}"
-msgstr ""
+msgstr "$Офисная Орхидея {color=#a0fc86}(42c){/color}"
 
 # game/Room_01_Ordi.rpy:478
 msgid "$Office Lamp {color=#a0fc86}(35c){/color}"
-msgstr ""
+msgstr "$Офисная Лампа {color=#a0fc86}(35c){/color}"
 
 # game/Room_01_Ordi.rpy:478
 msgid "$Office Folders {color=#a0fc86}(20c){/color}"
-msgstr ""
+msgstr "$Офисные Папки {color=#a0fc86}(20c){/color}"
 
 # game/Room_01_Ordi.rpy:478
 msgid "$Office Carpet {color=#a0fc86}(30c){/color}"
-msgstr ""
+msgstr "$Офисный Ковер {color=#a0fc86}(30c){/color}"
 
 # game/Room_01_Ordi.rpy:554
 msgid "{color=#b4f08f}={/color} {color=#ffc9a2}Quest images{/color} {color=#b4f08f}={/color}"
-msgstr ""
+msgstr "{color=#b4f08f}={/color} {color=#ffc9a2}Изображения Квестов{/color} {color=#b4f08f}={/color}"
 
 # game/Room_01_Ordi.rpy:554
 msgid "{color=#b4f08f}={/color} {color=#da96ff}Character Affinity images{/color} {color=#b4f08f}={/color}"
-msgstr ""
+msgstr "{color=#b4f08f}={/color} {color=#da96ff}Character Affinity images{/color} {color=#b4f08f}={/color}"
 
 # game/Room_01_Ordi.rpy:567
 msgid " {color=#ffc9a2}(SPY_ORIENTAL_BATH){/color} "
-msgstr ""
+msgstr " {color=#ffc9a2}(ШПИОНСКАЯ_ВОСТОЧАНЯ_ВАННА){/color} "
 
 # game/Room_01_Ordi.rpy:567
 msgid " {color=#ffc9a2}(SPY_ORIENTAL_BATH_02){/color} "
-msgstr ""
+msgstr " {color=#ffc9a2}(ШПИОНСКАЯ_ВОСТОЧНАЯ_ВАННА_02){/color} "
 
 # game/Room_01_Ordi.rpy:567
 msgid " {color=#636363}(_LOCK_){/color} "
-msgstr ""
+msgstr " {color=#636363}(_ЗАМОК_){/color} "
 
 # game/Room_01_Ordi.rpy:567
 msgid " {color=#ffc9a2}(ORIENTAL_KISS){/color} "
-msgstr ""
+msgstr " {color=#ffc9a2}(ВОСТОЧНЫЙ_ПОЦЕЛУЙ){/color} "
 
 # game/Room_01_Ordi.rpy:567
 msgid " {color=#ffc9a2}(THE_SULTANA){/color} "
-msgstr ""
+msgstr " {color=#ffc9a2}(СУЛТАНША){/color} "
 
 # game/Room_01_Ordi.rpy:567
 msgid " {color=#ffc9a2}(QIU){/color} "
-msgstr ""
+msgstr " {color=#ffc9a2}(КУЙ){/color} "
 
 # game/Room_01_Ordi.rpy:567
 msgid " {color=#ffc9a2}(DE-PRINCESSING){/color} "
-msgstr ""
+msgstr " {color=#ffc9a2}(DE-PRINCESSING){/color} "
 
 # game/Room_01_Ordi.rpy:567
 msgid " {color=#ffc9a2}(PRINCESS_EMEE){/color} "
-msgstr ""
+msgstr " {color=#ffc9a2}(PRINCESS_EMEE){/color} "
 
 # game/Room_01_Ordi.rpy:567
 msgid " {color=#ffc9a2}(SUCCK){/color} "
-msgstr ""
+msgstr " {color=#ffc9a2}(SUCCK){/color} "
 
 # game/Room_01_Ordi.rpy:567
 msgid " {color=#ffc9a2}(THE FEATHER'S AGONY){/color} "
-msgstr ""
+msgstr " {color=#ffc9a2}(THE FEATHER'S AGONY){/color} "
 
 # game/Room_01_Ordi.rpy:567
 msgid " {color=#ffc9a2}(NOBLE BATH){/color} "
-msgstr ""
+msgstr " {color=#ffc9a2}(NOBLE BATH){/color} "
 
 # game/Room_01_Ordi.rpy:567
 msgid " {color=#ffc9a2}(THE GREAT UNICORN HORN){/color} "
