@@ -10,23 +10,23 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2024-03-25 21:06\n"
+"PO-Revision-Date: 2024-04-11 10:13\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Quest_Rooms_Separate02.rpy:125 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_peruche_1ffa9899:
 msgid "[_u_] What are you doing here? "
-msgstr ""
+msgstr "[_u_] Что ты здесь делаешь? "
 
 # game/Quest_Rooms_Separate02.rpy:132 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_peruche_6e86c132:
 msgid "[_u_] And he's gone."
-msgstr ""
+msgstr "[_u_] И она пропала."
 
 # game/Quest_Rooms_Separate02.rpy:133 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_peruche_64d0baac:
 msgid "[_u_] Will this thing come and spy on me every time I leave the headquarters now?"
-msgstr ""
+msgstr "[_u_] За мной что будут следить каждый раз, когда я выхожу из штаб-квартиры?"
 
 # game/Quest_Rooms_Separate02.rpy:134 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_peruche_29380329:
 msgid "[_u_] Tinker? Do you know what this thing is?"
-msgstr ""
+msgstr "[_u_] Тинкер? Ты знаешь, что это за штука?"
 
 # game/Quest_Rooms_Separate02.rpy:135 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_peruche_7b1c1392:
 msgid "[_u_] ..."
