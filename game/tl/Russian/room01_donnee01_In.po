@@ -10,25 +10,25 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2024-03-07 14:17\n"
+"PO-Revision-Date: 2024-04-11 10:13\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/room01_donnee01_In.rpy:37 #-#-# translate crowdin room01_donnee01_QuestsPanel_aac43b7d:
 msgid " = This is the quests panel = "
-msgstr ""
+msgstr " = Это панель квестов = "
 
 # game/room01_donnee01_In.rpy:38 #-#-# translate crowdin room01_donnee01_QuestsPanel_b1b10e17:
 msgid " = All the quests available in this version of the game are available here. = "
-msgstr ""
+msgstr " = Все квесты, доступные в этой версии игры, отображаются тут. = "
 
 # game/room01_donnee01_In.rpy:39 #-#-# translate crowdin room01_donnee01_QuestsPanel_285033ee:
 msgid " = You still have quests to complete as long as some remain unlocked. = "
-msgstr ""
+msgstr " = Если некоторые из них остаются разблокированными то у вас еще есть квесты которые необходимо выполнить. = "
 
 # §translate crowdin strings: #|#|# # game/room01_donnee01_In.rpy:21
 msgid "Quest Panel"
-msgstr ""
+msgstr "Панель Квестов"
 
 # game/room01_donnee01_In.rpy:21
 msgid "Gamepedia"
-msgstr ""
+msgstr "Геймопедия"
 
