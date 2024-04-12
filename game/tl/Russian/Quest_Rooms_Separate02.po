@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2024-04-12 10:05\n"
+"PO-Revision-Date: 2024-04-12 18:46\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Quest_Rooms_Separate02.rpy:125 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_peruche_1ffa9899:
 msgid "[_u_] What are you doing here? "
@@ -70,23 +70,23 @@ msgstr "[_none01_] Нет, спасибо."
 
 # game/Quest_Rooms_Separate02.rpy:152 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_peruche_fb45b273:
 msgid "[_u_] What are you doing there?"
-msgstr ""
+msgstr "[_u_] Что ты делаешь?"
 
 # game/Quest_Rooms_Separate02.rpy:153 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_peruche_97c2cc29:
 msgid "[_none01_] I've been coming here for a long time to get material."
-msgstr ""
+msgstr "[_none01_] Я уже давно хожу сюда за материалами."
 
 # game/Quest_Rooms_Separate02.rpy:154 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_peruche_a750ad12:
 msgid "[_none01_] It's amazing how much stuff they've thrown in here."
-msgstr ""
+msgstr "[_none01_] Удивительно, сколько всего они сюда напихали."
 
 # game/Quest_Rooms_Separate02.rpy:163 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_peruche_menu1_d41eb950:
 msgid "[_none01_] Everything that can be useful."
-msgstr ""
+msgstr "[_none01_] Все, что может быть полезным."
 
 # game/Quest_Rooms_Separate02.rpy:164 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_peruche_menu1_e12e1bd3:
 msgid "[_none01_] But I don't think there is anything interesting left here."
-msgstr ""
+msgstr "[_none01_] Но не думаю, что здесь осталось что-то интересное."
 
 # game/Quest_Rooms_Separate02.rpy:166 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_peruche_menu1_Pend_7cd89e93:
 msgid "[_none01_] There are still tools in this room if you want. "
@@ -94,7 +94,7 @@ msgstr ""
 
 # game/Quest_Rooms_Separate02.rpy:167 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_peruche_menu1_Pend_e276f20b:
 msgid "[_none01_] I think that's why you're here, right?"
-msgstr ""
+msgstr "[_none01_] Думаю, именно из-за них ты здесь, верно?"
 
 # game/Quest_Rooms_Separate02.rpy:168 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_peruche_menu1_Pend_2faa7718:
 msgid "[_u_] Is it possible to hide something from you? "
