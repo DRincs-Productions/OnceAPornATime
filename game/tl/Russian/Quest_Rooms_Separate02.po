@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2024-04-12 18:46\n"
+"PO-Revision-Date: 2024-04-12 19:45\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Quest_Rooms_Separate02.rpy:125 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_peruche_1ffa9899:
 msgid "[_u_] What are you doing here? "
@@ -90,27 +90,27 @@ msgstr "[_none01_] Но не думаю, что здесь осталось чт
 
 # game/Quest_Rooms_Separate02.rpy:166 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_peruche_menu1_Pend_7cd89e93:
 msgid "[_none01_] There are still tools in this room if you want. "
-msgstr ""
+msgstr "[_none01_] Здесь есть инструменты, бери если нужны. "
 
 # game/Quest_Rooms_Separate02.rpy:167 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_peruche_menu1_Pend_e276f20b:
 msgid "[_none01_] I think that's why you're here, right?"
-msgstr "[_none01_] Думаю, именно из-за них ты здесь, верно?"
+msgstr "[_none01_] Думаю, из-за них ты здесь, верно?"
 
 # game/Quest_Rooms_Separate02.rpy:168 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_peruche_menu1_Pend_2faa7718:
 msgid "[_u_] Is it possible to hide something from you? "
-msgstr ""
+msgstr "[_u_] Возможно ли что-то скрыть от тебя? "
 
 # game/Quest_Rooms_Separate02.rpy:169 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_peruche_menu1_Pend_3b4abb59:
 msgid "[_none01_] Not so much."
-msgstr ""
+msgstr "[_none01_] Почти ничего."
 
 # game/Quest_Rooms_Separate02.rpy:170 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_peruche_menu1_Pend_3f34b609:
 msgid "[_none01_] Good luck in your research, see you next time [name]. "
-msgstr ""
+msgstr "[_none01_] Удачи в исследованиях, увидимся в следующий раз. [name]. "
 
 # game/Quest_Rooms_Separate02.rpy:184 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_peruche_menu1_Pend_8f573310:
 msgid "[_none01_] And uh..."
-msgstr ""
+msgstr "[_none01_] И..."
 
 # game/Quest_Rooms_Separate02.rpy:185 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_peruche_menu1_Pend_8427a593:
 msgid "[_none01_] I count on you to keep our little meeting between us."
