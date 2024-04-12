@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2024-04-12 08:17\n"
+"PO-Revision-Date: 2024-04-12 10:05\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Quest_Rooms_Separate02.rpy:125 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_peruche_1ffa9899:
 msgid "[_u_] What are you doing here? "
@@ -66,7 +66,7 @@ msgstr "[_u_] Не хочешь снять шлем? "
 
 # game/Quest_Rooms_Separate02.rpy:151 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_peruche_c8cc5239:
 msgid "[_none01_] No, thank you."
-msgstr ""
+msgstr "[_none01_] Нет, спасибо."
 
 # game/Quest_Rooms_Separate02.rpy:152 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_peruche_fb45b273:
 msgid "[_u_] What are you doing there?"
