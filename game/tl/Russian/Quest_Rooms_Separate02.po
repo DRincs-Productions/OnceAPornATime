@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2024-04-11 10:13\n"
+"PO-Revision-Date: 2024-04-12 08:17\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Quest_Rooms_Separate02.rpy:125 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_peruche_1ffa9899:
 msgid "[_u_] What are you doing here? "
@@ -34,7 +34,7 @@ msgstr "[_u_] ..."
 
 # game/Quest_Rooms_Separate02.rpy:136 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_peruche_22d1d18a:
 msgid "[_u_] Damn, the communications don't work here?"
-msgstr ""
+msgstr "[_u_] Черт, здесь еще и связь не работает?"
 
 # game/Quest_Rooms_Separate02.rpy:137 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_peruche_e7743dcf:
 msgid "[_u_] Great."
@@ -42,27 +42,27 @@ msgstr "[_u_] Здорово."
 
 # game/Quest_Rooms_Separate02.rpy:138 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_peruche_3e232d1f:
 msgid "[_u_] Maybe it's just a curious bird after all."
-msgstr ""
+msgstr "[_u_] Может, это просто любопытная птица."
 
 # game/Quest_Rooms_Separate02.rpy:140 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_peruche_72b3ec6b:
 msgid "[_u_] Or maybe he comes here to search for old crates. "
-msgstr ""
+msgstr "[_u_] Или, она прилетает сюда искать старые ящики. "
 
 # game/Quest_Rooms_Separate02.rpy:141 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_peruche_9e0af3f5:
 msgid "[_none01_] Actually, that's why I'm here. "
-msgstr ""
+msgstr "[_none01_] Собственно, за этим я и здесь. "
 
 # game/Quest_Rooms_Separate02.rpy:148 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_peruche_cac0131c:
 msgid "[_u_] Greetings mysterious hooded stranger."
-msgstr ""
+msgstr "[_u_] Приветствую таинственного незнакомца в капюшоне."
 
 # game/Quest_Rooms_Separate02.rpy:149 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_peruche_be2fddfb:
 msgid "[_u_] It's been a while since we've seen each other."
-msgstr ""
+msgstr "[_u_] Давно не виделись."
 
 # game/Quest_Rooms_Separate02.rpy:150 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_peruche_66d46f48:
 msgid "[_u_] Still don't want to take off your helmet? "
-msgstr ""
+msgstr "[_u_] Не хочешь снять шлем? "
 
 # game/Quest_Rooms_Separate02.rpy:151 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_peruche_c8cc5239:
 msgid "[_none01_] No, thank you."
