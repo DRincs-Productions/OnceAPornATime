@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-04-16 08:32\n"
+"PO-Revision-Date: 2024-04-16 10:30\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_ArtDIVISION.rpy:151 #-#-# translate crowdin Cell01_ArtDIVISION_Menu01_ed0ef4ce:
 msgid "[_a_] Bonjour [name]!"
@@ -3608,7 +3608,7 @@ msgstr "[_a_] Oui... quelques uns."
 
 # game/Cell01_ArtDIVISION.rpy:2822 #-#-# translate crowdin Quest_A_SW_01_05_menu2_P3_0378a31d:
 msgid "[_a_] But clearly I wasn't the type to fuck like a rabbit after a few drinks like the others. "
-msgstr "[Mais il est clair que je n'étais pas du genre à baiser comme un lapin après quelques verres comme les autres. "
+msgstr "[_a_] Mais il est clair que je n'étais pas du genre à baiser comme un lapin après quelques verres comme les autres. "
 
 # game/Cell01_ArtDIVISION.rpy:2824 #-#-# translate crowdin Quest_A_SW_01_05_menu2_P3_83a32873:
 msgid "[_a_] Although... in hindsight... I probably should have. "
@@ -4012,7 +4012,7 @@ msgstr "[_a_] Melissandre est plutôt mignonne, je dois dire."
 
 # game/Cell01_ArtDIVISION.rpy:3086 #-#-# translate crowdin Quest_A_SW_01_05_menu3_P3_ad8bac96:
 msgid "[_a_] Besides, I've never slept with a goth. Sounds like fun. "
-msgstr "[De plus, je n'ai jamais couché avec une gothique. Ça a l'air sympa. "
+msgstr "[_a_] De plus, je n'ai jamais couché avec une gothique. Ça a l'air sympa. "
 
 # game/Cell01_ArtDIVISION.rpy:3088 #-#-# translate crowdin Quest_A_SW_01_05_menu3_P3_df44f842:
 msgid "[_a_] Lycoris...Mh... I see her more as a good friend."
@@ -4564,7 +4564,7 @@ msgstr "[_a_] Je pense que je dois m'occuper de Blanche-Neige tout seul."
 
 # game/Cell01_ArtDIVISION.rpy:3454 #-#-# translate crowdin Quest_A_SW_01_05_menu3_P9_1f95346d:
 msgid "[_a_] Besides, I think your presence makes her attrociously jealous, so maybe it's for the best!"
-msgstr "[D'ailleurs, je crois que ta présence la rend atrocement jalouse, alors c'est peut-être mieux ainsi !"
+msgstr "[_a_] D'ailleurs, je crois que ta présence la rend atrocement jalouse, alors c'est peut-être mieux ainsi !"
 
 # game/Cell01_ArtDIVISION.rpy:3456 #-#-# translate crowdin Quest_A_SW_01_05_menu3_P9_81a64318:
 msgid "[_u_]  As you feel, I'll be there if you need me of course. "
