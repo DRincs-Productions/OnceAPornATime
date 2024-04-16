@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-04-05 13:02\n"
+"PO-Revision-Date: 2024-04-16 08:32\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_ArtDIVISION.rpy:151 #-#-# translate crowdin Cell01_ArtDIVISION_Menu01_ed0ef4ce:
 msgid "[_a_] Bonjour [name]!"
@@ -584,7 +584,7 @@ msgstr "[_a_] Oui."
 
 # game/Cell01_ArtDIVISION.rpy:760 #-#-# translate crowdin QuestChap2_Amandine02_02_part2_bc2fbb1b:
 msgid "[_a_] Anyway, welcome to my workspace!"
-msgstr "[Quoi qu'il en soit, bienvenue dans mon espace de travail !"
+msgstr "[_a_] Quoi qu'il en soit, bienvenue dans mon espace de travail !"
 
 # game/Cell01_ArtDIVISION.rpy:762 #-#-# translate crowdin QuestChap2_Amandine02_02_part2_8a886d70:
 msgid "[_u_] This place is huge."
@@ -1380,7 +1380,7 @@ msgstr "[_a_] Oh. "
 
 # game/Cell01_ArtDIVISION.rpy:1288 #-#-# translate crowdin Quest_A_Item_Luggage01_01_9d94cb37:
 msgid "[_a_] Anyway, thank you so much for bringing it to me. "
-msgstr "[Quoi qu'il en soit, je vous remercie de m'en avoir fait part. "
+msgstr "[_a_] Quoi qu'il en soit, je vous remercie de m'en avoir fait part. "
 
 # game/Cell01_ArtDIVISION.rpy:1294 #-#-# translate crowdin Quest_A_Item_Luggage01_01_a985c941:
 msgid "[_a_] See you later!"
@@ -1676,7 +1676,7 @@ msgstr "[_a_] Faites attention au cuir. C'est joli, mais une fois taché, c'est 
 
 # game/Cell01_ArtDIVISION.rpy:1480 #-#-# translate crowdin Quest_A_Item_Luggage03_End_488056ba:
 msgid "[_a_] Anyway, thanks again for everything... "
-msgstr "[Quoi qu'il en soit, merci encore pour tout... "
+msgstr "[_a_] Quoi qu'il en soit, merci encore pour tout... "
 
 # game/Cell01_ArtDIVISION.rpy:1482 #-#-# translate crowdin Quest_A_Item_Luggage03_End_46f15ac0:
 msgid "[_a_] And if you're curious, I can show you my new outfits too!"
@@ -2860,7 +2860,7 @@ msgstr "[_a_] C'est bien."
 
 # game/Cell01_ArtDIVISION.rpy:2258 #-#-# translate crowdin Quest_JM_Favor_Ask2_Amandine_menu1_5c1541e1:
 msgid "[_a_] Anyway, yes, Guinevere... well... I'd like to fuck as Guinevere... "
-msgstr "[Quoi qu'il en soit, oui, Guenièvre... eh bien... J'aimerais baiser en tant que Guenièvre... "
+msgstr "[_a_] Quoi qu'il en soit, oui, Guenièvre... eh bien... J'aimerais baiser en tant que Guenièvre... "
 
 # game/Cell01_ArtDIVISION.rpy:2260 #-#-# translate crowdin Quest_JM_Favor_Ask2_Amandine_menu1_45f7645a:
 msgid "[_a_] ...and with a knight... "
@@ -3036,7 +3036,7 @@ msgstr "[_a_] Bonjour ! Qu'est-ce qu'il y a ? "
 
 # game/Cell01_ArtDIVISION.rpy:2386 #-#-# translate crowdin LY_Talk_Amandine_Dress04Variation_3359acc0:
 msgid "[_a_] Are you here to see Lycoris?"
-msgstr "[Vous venez voir Lycoris ?"
+msgstr "[_a_] Vous venez voir Lycoris ?"
 
 # game/Cell01_ArtDIVISION.rpy:2387 #-#-# translate crowdin LY_Talk_Amandine_Dress04Variation_25c2651f:
 msgid "[_u_] No, I was looking for you, mademoiselle!"
@@ -3148,7 +3148,7 @@ msgstr "[Vous savez quoi ? Je suis content d'avoir accepté de venir sur cette p
 
 # game/Cell01_ArtDIVISION.rpy:2463 #-#-# translate crowdin LY_Talk_Amandine_Dress04Variation_5a13a71f:
 msgid "[_a_] Anyway, thanks again for the clothing!"
-msgstr "[Quoi qu'il en soit, merci encore pour les vêtements !"
+msgstr "[_a_] Quoi qu'il en soit, merci encore pour les vêtements !"
 
 # game/Cell01_ArtDIVISION.rpy:2465 #-#-# translate crowdin LY_Talk_Amandine_Dress04Variation_a6b7b7d6:
 msgid "[_a_] Do you need anything else? "
@@ -3840,7 +3840,7 @@ msgstr "[Je vous taquine."
 
 # game/Cell01_ArtDIVISION.rpy:2959 #-#-# translate crowdin Quest_A_SW_01_05_menu2_P2_2af26eb9:
 msgid "[_a_] Anyway... go ahead, ask me whatever question you want. I'm all yours."
-msgstr "[Quoi qu'il en soit... allez-y, posez-moi toutes les questions que vous voulez. Je suis tout à vous."
+msgstr "[_a_] Quoi qu'il en soit... allez-y, posez-moi toutes les questions que vous voulez. Je suis tout à vous."
 
 # game/Cell01_ArtDIVISION.rpy:2981 #-#-# translate crowdin Quest_A_SW_01_05_menu3_P1_8a12c44f:
 msgid "[_a_] Oh. The famous question. "
@@ -3932,7 +3932,7 @@ msgstr "[Je pense que j'avais besoin de penser à autre chose. "
 
 # game/Cell01_ArtDIVISION.rpy:3032 #-#-# translate crowdin Quest_A_SW_01_05_menu3_P1_2c2f97fd:
 msgid "[_a_] Anyway, you finally have your answer... my book is on hiatus."
-msgstr "[Quoi qu'il en soit, vous avez enfin votre réponse... mon livre est en pause."
+msgstr "[_a_] Quoi qu'il en soit, vous avez enfin votre réponse... mon livre est en pause."
 
 # game/Cell01_ArtDIVISION.rpy:3042 #-#-# translate crowdin Quest_A_SW_01_05_menu3_P2_4fa148d9:
 msgid "[_a_] Why? Because I don't shower with you all? "
@@ -4052,7 +4052,7 @@ msgstr "[_a_] Mais pourquoi pas."
 
 # game/Cell01_ArtDIVISION.rpy:3116 #-#-# translate crowdin Quest_A_SW_01_05_menu3_P2_menu1_P1_41df4cc4:
 msgid "[_a_] And uh... you just showered?..."
-msgstr "[Et euh... tu viens de te doucher ?..."
+msgstr "[_a_] Et euh... tu viens de te doucher ?..."
 
 # game/Cell01_ArtDIVISION.rpy:3117 #-#-# translate crowdin Quest_A_SW_01_05_menu3_P2_menu1_P1_cbf6bbab:
 msgid "[_u_] Yes. We were just taking a shower. "
@@ -4068,7 +4068,7 @@ msgstr "[Mon Dieu... "
 
 # game/Cell01_ArtDIVISION.rpy:3132 #-#-# translate crowdin Quest_A_SW_01_05_menu3_P2_menu1_P2_f148e92e:
 msgid "[_a_] Are there any employees here you haven't slept with? "
-msgstr "[Y a-t-il des employés ici avec lesquels vous n'avez pas couché ? "
+msgstr "[_a_] Y a-t-il des employés ici avec lesquels vous n'avez pas couché ? "
 
 # game/Cell01_ArtDIVISION.rpy:3134 #-#-# translate crowdin Quest_A_SW_01_05_menu3_P2_menu1_P2_234ad93c:
 msgid "[_a_] Oh and then... actually, I understand you. "
@@ -4856,7 +4856,7 @@ msgstr "[_a_] Mh..."
 
 # game/Cell01_ArtDIVISION.rpy:3647 #-#-# translate crowdin A_React_shortOutfit_01_menu1_9da0928b:
 msgid "[_a_] And so... I also suppose that if by some strange coincidence..."
-msgstr "[Et donc... Je suppose aussi que si, par une étrange coïncidence..."
+msgstr "[_a_] Et donc... Je suppose aussi que si, par une étrange coïncidence..."
 
 # game/Cell01_ArtDIVISION.rpy:3649 #-#-# translate crowdin A_React_shortOutfit_01_menu1_fb3f2861:
 msgid "[_a_] ...another part of me revealed itself to you... "
