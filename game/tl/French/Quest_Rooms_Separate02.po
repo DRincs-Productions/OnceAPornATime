@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-04-02 10:50\n"
+"PO-Revision-Date: 2024-04-16 08:32\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Quest_Rooms_Separate02.rpy:125 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_peruche_1ffa9899:
 msgid "[_u_] What are you doing here? "
@@ -1538,7 +1538,7 @@ msgstr "[_a_] Il m'a dit que vous étiez la plus belle princesse du royaume ..."
 
 # game/Quest_Rooms_Separate02.rpy:1322 #-#-# translate crowdin Quest_A_SW_01_02_menu1_P2_44760ba0:
 msgid "[_a_] And that you deserved to have your name sung!"
-msgstr "[_a_] Et que vous mériez que votre nom soit chanté !"
+msgstr "[_a_] Et que vous méritez que votre nom soit chanté !"
 
 # game/Quest_Rooms_Separate02.rpy:1325 #-#-# translate crowdin Quest_A_SW_01_02_menu1_P2_c3b057fe:
 msgid "[_sw_] I uh... well thank you..."
@@ -2290,7 +2290,7 @@ msgstr "[_a_] Quoi ?"
 
 # game/Quest_Rooms_Separate02.rpy:1901 #-#-# translate crowdin Scene_SnowWhite01_255abe59:
 msgid "[_a_] Are you asking me to join you?... "
-msgstr "[_a_] Vous me demandez de vous rejoindre? ... "
+msgstr "[_a_] Vous me demandez de vous rejoindre?... "
 
 # game/Quest_Rooms_Separate02.rpy:1902 #-#-# translate crowdin Scene_SnowWhite01_cc71eb9a:
 msgid "[_u_] Mh."
