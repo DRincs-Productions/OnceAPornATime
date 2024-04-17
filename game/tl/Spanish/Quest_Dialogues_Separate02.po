@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-04-17 18:48\n"
+"PO-Revision-Date: 2024-04-17 20:15\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Quest_Dialogues_Separate02.rpy:69 #-#-# translate crowdin Quest2_Room01Panel01screen_E_8240cba6:
 msgid "[_u_] Got it!"
@@ -170,11 +170,11 @@ msgstr "[_a_d_] Wow."
 
 # game/Quest_Dialogues_Separate02.rpy:162 #-#-# translate crowdin Intro_Rooms_Amandine01_78d3599c:
 msgid "[_u_] Yeah, I know. And it's not the craziest thing on this planet."
-msgstr ""
+msgstr "[_u_] Sí, lo sé. Y no es lo más loco de este planeta."
 
 # game/Quest_Dialogues_Separate02.rpy:164 #-#-# translate crowdin Intro_Rooms_Amandine01_ca7d2394:
 msgid "[_u_] Believe me."
-msgstr ""
+msgstr "[_u_] Créeme."
 
 # game/Quest_Dialogues_Separate02.rpy:165 #-#-# translate crowdin Intro_Rooms_Amandine01_9abf69eb:
 msgid "[_tb_] I'm coming! I'm coming !"
