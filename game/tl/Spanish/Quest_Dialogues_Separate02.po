@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-04-17 01:47\n"
+"PO-Revision-Date: 2024-04-17 03:41\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Quest_Dialogues_Separate02.rpy:69 #-#-# translate crowdin Quest2_Room01Panel01screen_E_8240cba6:
 msgid "[_u_] Got it!"
@@ -66,87 +66,87 @@ msgstr ""
 
 # game/Quest_Dialogues_Separate02.rpy:110 #-#-# translate crowdin Intro_Rooms_Amandine01_90139d36:
 msgid "[_u_] Yes? Who is it?"
-msgstr ""
+msgstr "[_u_] Sí? ¿Quién es?"
 
 # game/Quest_Dialogues_Separate02.rpy:112 #-#-# translate crowdin Intro_Rooms_Amandine01_7ff00c3f:
 msgid "[_a_s_] Oh finally!"
-msgstr ""
+msgstr "[_a_s_] ¡Oh finalmente!"
 
 # game/Quest_Dialogues_Separate02.rpy:113 #-#-# translate crowdin Intro_Rooms_Amandine01_7d864aec:
 msgid "[_a_s_] Finally someone!!"
-msgstr ""
+msgstr "[_a_s_] Finalmente alguien!!"
 
 # game/Quest_Dialogues_Separate02.rpy:118 #-#-# translate crowdin Intro_Rooms_Amandine01_f8a5c46d:
 msgid "[_a_s_] Good morning my dear sir! Bonjour!"
-msgstr ""
+msgstr "[_a_s_] ¡Buenos días mi querido señor! ¡Bonjour!"
 
 # game/Quest_Dialogues_Separate02.rpy:120 #-#-# translate crowdin Intro_Rooms_Amandine01_f1718c83:
 msgid "[_a_s_] I've been trying to find someone here for an hour!"
-msgstr ""
+msgstr "[_a_s_] ¡He estado intentando encontrar a alguien aquí durante una hora!"
 
 # game/Quest_Dialogues_Separate02.rpy:122 #-#-# translate crowdin Intro_Rooms_Amandine01_04908f50:
 msgid "[_a_s_] You are not very good at welcoming visitors here! Ahah."
-msgstr ""
+msgstr "[_a_s_] ¡No eres muy bueno para dar la bienvenida a los visitantes aquí! Jajá."
 
 # game/Quest_Dialogues_Separate02.rpy:124 #-#-# translate crowdin Intro_Rooms_Amandine01_1036c194:
 msgid "[_u_] If you only knew how right you are."
-msgstr ""
+msgstr "[_u_] Si supieras cuanta razón tienes."
 
 # game/Quest_Dialogues_Separate02.rpy:126 #-#-# translate crowdin Intro_Rooms_Amandine01_556dd79a:
 msgid "[_a_s_] Excuse me but... do you work here?"
-msgstr ""
+msgstr "[_a_s_] Disculpe pero... ¿trabajas aquí?"
 
 # game/Quest_Dialogues_Separate02.rpy:127 #-#-# translate crowdin Intro_Rooms_Amandine01_b2755326:
 msgid "[_u_] Uh I... yes. I mean, I just got back from... "
-msgstr ""
+msgstr "[_u_] Eh yo... sí. Quiero decir, acabo de volver de... "
 
 # game/Quest_Dialogues_Separate02.rpy:129 #-#-# translate crowdin Intro_Rooms_Amandine01_934da0dc:
 msgid "[_u_] I mean, yes, I work here."
-msgstr ""
+msgstr "[_u_] Quiero decir, sí, trabajo aquí."
 
 # game/Quest_Dialogues_Separate02.rpy:131 #-#-# translate crowdin Intro_Rooms_Amandine01_b7308f18:
 msgid "[_a_s_] Oh, great!"
-msgstr ""
+msgstr "[_a_s_] ¡Oh, genial!"
 
 # game/Quest_Dialogues_Separate02.rpy:133 #-#-# translate crowdin Intro_Rooms_Amandine01_10a83752:
 msgid "[_a_s_] I am Amandine De Beauregard, very happy to meet you. "
-msgstr ""
+msgstr "[_a_s_] Yo soy Amandine De Beauregard, muy feliz de conocerte. "
 
 # game/Quest_Dialogues_Separate02.rpy:135 #-#-# translate crowdin Intro_Rooms_Amandine01_95606c4a:
 msgid "[_a_d_] Your employer has invited me to join your team, and work with you to rebuild your planet."
-msgstr ""
+msgstr "[_a_d_] Su empleador me ha invitado a unirme a su equipo, y trabajar con usted para reconstruir su planeta."
 
 # game/Quest_Dialogues_Separate02.rpy:139 #-#-# translate crowdin Intro_Rooms_Amandine01_727384b1:
 msgid "[_a_d_] I have written a few novels it's true."
-msgstr ""
+msgstr "[_a_d_] He escrito unas cuantas novelas es cierta."
 
 # game/Quest_Dialogues_Separate02.rpy:141 #-#-# translate crowdin Intro_Rooms_Amandine01_842bffd1:
 msgid "[_u_] Are you kidding? I don't know any other more famous in the whole galaxy!"
-msgstr ""
+msgstr "[_u_] ¿Está bromeando? ¡No conozco a ningún otro más famoso en toda la galaxia!"
 
 # game/Quest_Dialogues_Separate02.rpy:142 #-#-# translate crowdin Intro_Rooms_Amandine01_95834290:
 msgid "[_a_d_] You are too kind. "
-msgstr ""
+msgstr "[_a_d_] Tú eres demasiado amable. "
 
 # game/Quest_Dialogues_Separate02.rpy:145 #-#-# translate crowdin Intro_Rooms_Amandine01_e54e1893:
 msgid "[_a_d_] I hope I can be useful here."
-msgstr ""
+msgstr "[_a_d_] Espero poder ser útil aquí."
 
 # game/Quest_Dialogues_Separate02.rpy:148 #-#-# translate crowdin Intro_Rooms_Amandine01_3ef77f3d:
 msgid "[_a_d_] And uh... you are? "
-msgstr ""
+msgstr "[_a_d_] Y uh... ¿Tu eres? "
 
 # game/Quest_Dialogues_Separate02.rpy:149 #-#-# translate crowdin Intro_Rooms_Amandine01_8613a680:
 msgid "[_u_] Oh uh yes, pardon me."
-msgstr ""
+msgstr "[_u_] Oh ah sí, perdóname."
 
 # game/Quest_Dialogues_Separate02.rpy:151 #-#-# translate crowdin Intro_Rooms_Amandine01_79fefbd3:
 msgid "[_u_] I am [name], I am the second in command on this planet."
-msgstr ""
+msgstr "[_u_] Yo soy [nombre], soy el segundo al mando en este planeta."
 
 # game/Quest_Dialogues_Separate02.rpy:152 #-#-# translate crowdin Intro_Rooms_Amandine01_ef823ce4:
 msgid "[_u_] Tinker is the one in charge here."
-msgstr ""
+msgstr "[_u_] Tinker es la primera al mando aquí."
 
 # game/Quest_Dialogues_Separate02.rpy:154 #-#-# translate crowdin Intro_Rooms_Amandine01_66d0376f:
 msgid "[_a_d_] I had interviews through hologram with your boss... "
