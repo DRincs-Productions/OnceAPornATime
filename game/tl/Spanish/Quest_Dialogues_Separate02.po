@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-04-17 20:15\n"
+"PO-Revision-Date: 2024-04-17 21:26\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Quest_Dialogues_Separate02.rpy:69 #-#-# translate crowdin Quest2_Room01Panel01screen_E_8240cba6:
 msgid "[_u_] Got it!"
@@ -178,7 +178,7 @@ msgstr "[_u_] Créeme."
 
 # game/Quest_Dialogues_Separate02.rpy:165 #-#-# translate crowdin Intro_Rooms_Amandine01_9abf69eb:
 msgid "[_tb_] I'm coming! I'm coming !"
-msgstr ""
+msgstr "[_tb_] ¡Ya voy! ¡Ya voy!"
 
 # game/Quest_Dialogues_Separate02.rpy:169 #-#-# translate crowdin Intro_Rooms_Amandine01_71dda214:
 msgid "[_tb_] Sorry, we were fixing the... "
