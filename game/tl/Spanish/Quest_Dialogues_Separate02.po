@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-04-17 03:41\n"
+"PO-Revision-Date: 2024-04-17 18:48\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Quest_Dialogues_Separate02.rpy:69 #-#-# translate crowdin Quest2_Room01Panel01screen_E_8240cba6:
 msgid "[_u_] Got it!"
@@ -150,23 +150,23 @@ msgstr "[_u_] Tinker es la primera al mando aquí."
 
 # game/Quest_Dialogues_Separate02.rpy:154 #-#-# translate crowdin Intro_Rooms_Amandine01_66d0376f:
 msgid "[_a_d_] I had interviews through hologram with your boss... "
-msgstr ""
+msgstr "[_a_d_] tuve entrevistas a través del holograma con tu jefe... "
 
 # game/Quest_Dialogues_Separate02.rpy:156 #-#-# translate crowdin Intro_Rooms_Amandine01_72cbd707:
 msgid "[_a_d_] Is she really a... well I mean... "
-msgstr ""
+msgstr "[_a_d_] ¿Es ella realmente una... bueno quiero decir... "
 
 # game/Quest_Dialogues_Separate02.rpy:157 #-#-# translate crowdin Intro_Rooms_Amandine01_79f130e6:
 msgid "[_u_] A fairy? Yes."
-msgstr ""
+msgstr "[_u_] ¿Un hada? Sí."
 
 # game/Quest_Dialogues_Separate02.rpy:159 #-#-# translate crowdin Intro_Rooms_Amandine01_5485d8c0:
 msgid "[_u_] An Android fairy with a conscious AI from... uh... several hundred years old."
-msgstr ""
+msgstr "[_u_] Un hada Android con una IA consciente de... uh... varios cientos de años."
 
 # game/Quest_Dialogues_Separate02.rpy:161 #-#-# translate crowdin Intro_Rooms_Amandine01_494c8258:
 msgid "[_a_d_] Wow."
-msgstr ""
+msgstr "[_a_d_] Wow."
 
 # game/Quest_Dialogues_Separate02.rpy:162 #-#-# translate crowdin Intro_Rooms_Amandine01_78d3599c:
 msgid "[_u_] Yeah, I know. And it's not the craziest thing on this planet."
