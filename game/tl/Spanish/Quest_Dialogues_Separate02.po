@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-03-16 22:11\n"
+"PO-Revision-Date: 2024-04-17 01:47\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Quest_Dialogues_Separate02.rpy:69 #-#-# translate crowdin Quest2_Room01Panel01screen_E_8240cba6:
 msgid "[_u_] Got it!"
@@ -18,11 +18,11 @@ msgstr ""
 
 # game/Quest_Dialogues_Separate02.rpy:95 #-#-# translate crowdin Intro_Rooms_Amandine01_24a0b486:
 msgid "[_u_] Gosh, I missed this cold island."
-msgstr ""
+msgstr "[_u_] Dios, extrañaba esta isla fría."
 
 # game/Quest_Dialogues_Separate02.rpy:96 #-#-# translate crowdin Intro_Rooms_Amandine01_bf167f68:
 msgid "[_u_] I almost want to take a dip in the ocean to celebrate."
-msgstr ""
+msgstr "[_u_] Casi quiero darme un chapuzón en el océano para celebrarlo."
 
 # game/Quest_Dialogues_Separate02.rpy:97 #-#-# translate crowdin Intro_Rooms_Amandine01_7b1c1392:
 msgid "[_u_] ..."
@@ -30,11 +30,11 @@ msgstr "[_u_] ..."
 
 # game/Quest_Dialogues_Separate02.rpy:98 #-#-# translate crowdin Intro_Rooms_Amandine01_58eefc98:
 msgid "[_u_] Almost."
-msgstr ""
+msgstr "[_u_] Casi."
 
 # game/Quest_Dialogues_Separate02.rpy:100 #-#-# translate crowdin Intro_Rooms_Amandine01_7cbfe2df:
 msgid "[_u_] I hope that one day we will be able to turn this ruin into something."
-msgstr ""
+msgstr "[_u_] Espero que algún día podamos convertir esta ruina en algo."
 
 # game/Quest_Dialogues_Separate02.rpy:101 #-#-# translate crowdin Intro_Rooms_Amandine01_7b1c1392_1:
 msgid "[_u_] ..."
@@ -54,11 +54,11 @@ msgstr "[_u_] Dios..."
 
 # game/Quest_Dialogues_Separate02.rpy:106 #-#-# translate crowdin Intro_Rooms_Amandine01_8f92237e:
 msgid "[_u_] Where the fuck are you, Tinker?... "
-msgstr ""
+msgstr "[_u_] ¿Dónde te encuentras la mierda, ¿Tinker?... "
 
 # game/Quest_Dialogues_Separate02.rpy:108 #-#-# translate crowdin Intro_Rooms_Amandine01_981421be:
 msgid "[_a_s_] Excuse me? "
-msgstr ""
+msgstr "[_a_s_] ¿Disculpe? "
 
 # game/Quest_Dialogues_Separate02.rpy:109 #-#-# translate crowdin Intro_Rooms_Amandine01_0f07ccc4:
 msgid "[_u_] ?"
