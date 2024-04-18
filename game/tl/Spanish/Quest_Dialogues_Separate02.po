@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-04-17 21:26\n"
+"PO-Revision-Date: 2024-04-18 03:15\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Quest_Dialogues_Separate02.rpy:69 #-#-# translate crowdin Quest2_Room01Panel01screen_E_8240cba6:
 msgid "[_u_] Got it!"
@@ -182,7 +182,7 @@ msgstr "[_tb_] ¡Ya voy! ¡Ya voy!"
 
 # game/Quest_Dialogues_Separate02.rpy:169 #-#-# translate crowdin Intro_Rooms_Amandine01_71dda214:
 msgid "[_tb_] Sorry, we were fixing the... "
-msgstr ""
+msgstr "[_tb_] Lo siento, estábamos arreglando el... "
 
 # game/Quest_Dialogues_Separate02.rpy:171 #-#-# translate crowdin Intro_Rooms_Amandine01_05d56d8e:
 msgid "[_tb_] ..."
@@ -190,11 +190,11 @@ msgstr "[_tb_] ..."
 
 # game/Quest_Dialogues_Separate02.rpy:173 #-#-# translate crowdin Intro_Rooms_Amandine01_4e2940ca:
 msgid "[_tb_] Oh hello [name]."
-msgstr ""
+msgstr "[_tb_] Oh hola [nombre]."
 
 # game/Quest_Dialogues_Separate02.rpy:175 #-#-# translate crowdin Intro_Rooms_Amandine01_b7b58175:
 msgid "[_tb_] Anyway, welcome to our planet Miss De Beauregard!"
-msgstr ""
+msgstr "[_tb_] De todos modos, bienvenido a nuestro planeta Miss De Beauregard!"
 
 # game/Quest_Dialogues_Separate02.rpy:177 #-#-# translate crowdin Intro_Rooms_Amandine01_eefdab16:
 msgid "[_tb_] I hope your trip was not too long!"
