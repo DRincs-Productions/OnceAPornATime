@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-04-11 21:24\n"
+"PO-Revision-Date: 2024-04-20 20:34\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_BA.rpy:50 #-#-# translate crowdin CHARA_BA_Menu01_98aea068:
 msgid "[_ba_]  ... "
@@ -466,15 +466,15 @@ msgstr "[_ba_] ..."
 
 # game/Cell01_BA.rpy:372 #-#-# translate crowdin Quest_BA_App01_01_d52c27be:
 msgid "[_dj_] As long as your soul is pure, you won't have your wish!"
-msgstr "[Tant que ton âme est pure, tu n'auras pas ton souhait !"
+msgstr "[_dj_] Tant que ton âme restera pure, ton vœu ne sera pas exaucé !"
 
 # game/Cell01_BA.rpy:374 #-#-# translate crowdin Quest_BA_App01_01_75b99d16:
 msgid "[_dj_] {cps=100}{color=#ff2929} {font=BLKCHCRY.ttf} {size=35}-I Have Spoken!-{/size} {/font=BLKCHCRY.ttf} {/color}{/cps}"
-msgstr "[_dj_] {cps=100}{color=#ff2929} {font=BLKCHCRY.ttf} {size=35}-J'ai parlé!-{/size} {/font=BLKCHCRY.ttf} {/color}{/cps}"
+msgstr "[_dj_] J'ai parlé !"
 
 # game/Cell01_BA.rpy:383 #-#-# translate crowdin Quest_BA_App01_01_839f53aa:
 msgid "[_ba_] ?!"
-msgstr "[_ba_] ? !"
+msgstr "[_ba_] ?!"
 
 # game/Cell01_BA.rpy:385 #-#-# translate crowdin Quest_BA_App01_01_efde920a:
 msgid "[_ba_] Is this some kind of joke?!"
