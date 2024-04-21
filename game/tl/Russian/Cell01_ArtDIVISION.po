@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2024-03-25 23:18\n"
+"PO-Revision-Date: 2024-04-21 21:48\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_ArtDIVISION.rpy:151 #-#-# translate crowdin Cell01_ArtDIVISION_Menu01_ed0ef4ce:
 msgid "[_a_] Bonjour [name]!"
@@ -620,59 +620,59 @@ msgstr "[_a_] И просто ради интереса я попросила с
 
 # game/Cell01_ArtDIVISION.rpy:789 #-#-# translate crowdin QuestChap2_Amandine02_02_menuchoice1_P1_0b45af9f:
 msgid "[_a_] I didn't think it would really work I must admit."
-msgstr ""
+msgstr "Я не думал, что это действительно сработает, должен признаться."
 
 # game/Cell01_ArtDIVISION.rpy:790 #-#-# translate crowdin QuestChap2_Amandine02_02_menuchoice1_P1_9d7277c6:
 msgid "[_u_] Yeah... her little construction drones really work wonders."
-msgstr ""
+msgstr "Да... ее маленькие строительные дроны действительно творят чудеса."
 
 # game/Cell01_ArtDIVISION.rpy:792 #-#-# translate crowdin QuestChap2_Amandine02_02_menuchoice1_P1_b81040e2:
 msgid "[_a_] If I knew... I would have asked for a hot tub. "
-msgstr ""
+msgstr "Если бы я знал... я бы попросил гидромассажную ванну. "
 
 # game/Cell01_ArtDIVISION.rpy:794 #-#-# translate crowdin QuestChap2_Amandine02_02_menuchoice1_P1_a50e0cff:
 msgid "[_u_] Ahah we already had the idea with Emee, we want to make one as soon as possible. "
-msgstr ""
+msgstr "Ахаха, у нас уже была идея с Emee, мы хотим реализовать ее как можно скорее. "
 
 # game/Cell01_ArtDIVISION.rpy:796 #-#-# translate crowdin QuestChap2_Amandine02_02_menuchoice1_P1_e6a83a27:
 msgid "[_a_] Perfect!"
-msgstr ""
+msgstr "Прекрасно!"
 
 # game/Cell01_ArtDIVISION.rpy:798 #-#-# translate crowdin QuestChap2_Amandine02_02_menuchoice1_P1_91bca3a5:
 msgid "[_a_] You know how to enjoy life here!"
-msgstr ""
+msgstr "Здесь вы умеете наслаждаться жизнью!"
 
 # game/Cell01_ArtDIVISION.rpy:805 #-#-# translate crowdin QuestChap2_Amandine02_02_menuchoice1_P1_d766ce07:
 msgid "[_a_] See the big machine behind me?"
-msgstr ""
+msgstr "Видишь большую машину позади меня?"
 
 # game/Cell01_ArtDIVISION.rpy:807 #-#-# translate crowdin QuestChap2_Amandine02_02_menuchoice1_P1_950041d4:
 msgid "[_a_] I know it doesn't look like much, but..."
-msgstr ""
+msgstr "Я знаю, это выглядит не так уж и много, но..."
 
 # game/Cell01_ArtDIVISION.rpy:809 #-#-# translate crowdin QuestChap2_Amandine02_02_menuchoice1_P1_838d3ef9:
 msgid "[_a_] With this I will be able to create characters, give them quests for the player to follow, "
-msgstr ""
+msgstr "Благодаря этому я смогу создавать персонажей, давать им квесты, которые игрок будет выполнять, "
 
 # game/Cell01_ArtDIVISION.rpy:811 #-#-# translate crowdin QuestChap2_Amandine02_02_menuchoice1_P1_264436d3:
 msgid "[_a_] Create blueprints to make clothes, new hairstyles..."
-msgstr ""
+msgstr "Создавайте чертежи для изготовления одежды, новых причесок..."
 
 # game/Cell01_ArtDIVISION.rpy:813 #-#-# translate crowdin QuestChap2_Amandine02_02_menuchoice1_P1_6b742ab5:
 msgid "[_a_] And even send drones to create entire cities if I want!"
-msgstr ""
+msgstr "И даже отправлю дронов для создания целых городов, если захочу!"
 
 # game/Cell01_ArtDIVISION.rpy:815 #-#-# translate crowdin QuestChap2_Amandine02_02_menuchoice1_P1_46d3cfd8:
 msgid "[_u_] Just that?"
-msgstr ""
+msgstr "Что это?"
 
 # game/Cell01_ArtDIVISION.rpy:817 #-#-# translate crowdin QuestChap2_Amandine02_02_menuchoice1_P1_075db7c9:
 msgid "[_u_] And it also makes coffee?"
-msgstr ""
+msgstr "И еще он делает кофе?"
 
 # game/Cell01_ArtDIVISION.rpy:819 #-#-# translate crowdin QuestChap2_Amandine02_02_menuchoice1_P1_3b3c3baa:
 msgid "[_a_] I wish! Unfortunately, the coffee machine is in Melissandre's lab."
-msgstr ""
+msgstr "Если бы! К сожалению, кофемашина находится в лаборатории Мелиссандры."
 
 # game/Cell01_ArtDIVISION.rpy:821 #-#-# translate crowdin QuestChap2_Amandine02_02_menuchoice1_P1_7d817da5:
 msgid "[_a_] ...And it's really a pain to go there every time. "
@@ -752,7 +752,7 @@ msgstr ""
 
 # game/Cell01_ArtDIVISION.rpy:868 #-#-# translate crowdin QuestChap2_Amandine02_03_e6a83a27:
 msgid "[_a_] Perfect!"
-msgstr ""
+msgstr "Прекрасно!"
 
 # game/Cell01_ArtDIVISION.rpy:870 #-#-# translate crowdin QuestChap2_Amandine02_03_76cddbe0:
 msgid "[_a_] With a little luck I'll be able to fix my new best friend behind me."
