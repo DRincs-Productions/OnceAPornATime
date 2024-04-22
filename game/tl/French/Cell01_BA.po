@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-04-20 20:34\n"
+"PO-Revision-Date: 2024-04-22 17:40\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_BA.rpy:50 #-#-# translate crowdin CHARA_BA_Menu01_98aea068:
 msgid "[_ba_]  ... "
@@ -478,15 +478,15 @@ msgstr "[_ba_] ?!"
 
 # game/Cell01_BA.rpy:385 #-#-# translate crowdin Quest_BA_App01_01_efde920a:
 msgid "[_ba_] Is this some kind of joke?!"
-msgstr "[Est-ce que c'est une blague ?!"
+msgstr "[_ba_] Est-ce que c'est une blague ?!"
 
 # game/Cell01_BA.rpy:386 #-#-# translate crowdin Quest_BA_App01_01_3b497a54:
 msgid "[_u_] I don't think so."
-msgstr "[Je ne crois pas."
+msgstr "[_u_] Je ne pense pas."
 
 # game/Cell01_BA.rpy:388 #-#-# translate crowdin Quest_BA_App01_01_b7f05726:
 msgid "[_ba_] No way... I'm not going to... follow your instructions blindly until I get my wish?!"
-msgstr "[_ba_] Pas question... Je ne vais pas... suivre vos instructions aveuglément jusqu'à ce que j'obtienne ce que je souhaite !"
+msgstr "[_ba_] Hors de question... Je ne vais pas... t'obéir aveuglément jusqu'à ce que mon vœu soit exaucé ?!"
 
 # game/Cell01_BA.rpy:389 #-#-# translate crowdin Quest_BA_App01_01_5a52348b:
 msgid "[_u_] So the Queen of Thieves is afraid of some small, depraved sex act?"
