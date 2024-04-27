@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-04-22 17:40\n"
+"PO-Revision-Date: 2024-04-27 21:26\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_BA.rpy:50 #-#-# translate crowdin CHARA_BA_Menu01_98aea068:
 msgid "[_ba_]  ... "
@@ -490,11 +490,11 @@ msgstr "[_ba_] Hors de question... Je ne vais pas... t'obéir aveuglément jusqu
 
 # game/Cell01_BA.rpy:389 #-#-# translate crowdin Quest_BA_App01_01_5a52348b:
 msgid "[_u_] So the Queen of Thieves is afraid of some small, depraved sex act?"
-msgstr "[La reine des voleurs a donc peur d'un petit acte sexuel dépravé ?"
+msgstr "[_u_] Alors comme ça, la Reine des Voleurs a peur d'un petit acte sexuel dépravé ?"
 
 # game/Cell01_BA.rpy:391 #-#-# translate crowdin Quest_BA_App01_01_2d7039c9:
 msgid "[_ba_] That's not what I said."
-msgstr "[Ce n'est pas ce que j'ai dit."
+msgstr "[_ba_] Je n'ai pas dit ça."
 
 # game/Cell01_BA.rpy:392 #-#-# translate crowdin Quest_BA_App01_01_4e1ec6e2:
 msgid "[_u_] Great! Then it'll be a piece of cake for you!"
@@ -506,35 +506,35 @@ msgstr "[_ba_] ..."
 
 # game/Cell01_BA.rpy:395 #-#-# translate crowdin Quest_BA_App01_01_88fbf8c4:
 msgid "[_u_] Don't worry, sweetheart, it's not my first time. "
-msgstr "[Ne t'inquiète pas, chérie, ce n'est pas ma première fois. "
+msgstr "[_u_] Ne t'inquiète pas, chérie, j'ai l'habitude. "
 
 # game/Cell01_BA.rpy:397 #-#-# translate crowdin Quest_BA_App01_01_3d3d4435:
 msgid "[_ba_] Gosh... I hope this thing works... "
-msgstr "[_ba_] Bon sang... J'espère que ce truc va marcher... "
+msgstr "[_ba_] Bon sang... J'espère que ça va marcher... "
 
 # game/Cell01_BA.rpy:399 #-#-# translate crowdin Quest_BA_App01_01_21342620:
 msgid "[_ba_] Because if it doesn't work... I promise I'll leave you in the middle of the desert. "
-msgstr "[Parce que si ça ne marche pas... je te promets de te laisser au milieu du désert. "
+msgstr "[_ba_] Parce que sinon... Je te jure que je vais te laisser au milieu du désert. "
 
 # game/Cell01_BA.rpy:401 #-#-# translate crowdin Quest_BA_App01_01_d6e187ba:
 msgid "[_ba_] And this time I'm not kidding. "
-msgstr "[Et cette fois, je ne plaisante pas. "
+msgstr "[_ba_] Et cette fois, je ne rigole pas. "
 
 # game/Cell01_BA.rpy:402 #-#-# translate crowdin Quest_BA_App01_01_79336e4b:
 msgid "[_u_] Ah... because you were joking the first time? "
-msgstr "[Ah... parce que vous plaisantiez la première fois ? "
+msgstr "[_u_] Ah bon ? Tu rigolais la première fois ? "
 
 # game/Cell01_BA.rpy:404 #-#-# translate crowdin Quest_BA_App01_01_94a97619:
 msgid "[_ba_] I never joke. "
-msgstr "[Je ne plaisante jamais. "
+msgstr "[_ba_] Je ne rigole jamais. "
 
 # game/Cell01_BA.rpy:405 #-#-# translate crowdin Quest_BA_App01_01_c38ef83e:
 msgid "[_u_] It makes no sense."
-msgstr "[Cela n'a pas de sens."
+msgstr "[_u_] Ce que tu dis n'a aucun sens."
 
 # game/Cell01_BA.rpy:407 #-#-# translate crowdin Quest_BA_App01_01_5a83b267:
 msgid "[_ba_] I'll see you tomorrow [name]..."
-msgstr "[Je vous verrai demain [nom]..."
+msgstr "[_ba_] À demain, [name]..."
 
 # game/Cell01_BA.rpy:415 #-#-# translate crowdin Quest_BA_Ask01_5ae1c955:
 msgid "[_ba_] The question would be... why wouldn't I want to? "
