@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-04-27 21:26\n"
+"PO-Revision-Date: 2024-04-27 22:28\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_BA.rpy:50 #-#-# translate crowdin CHARA_BA_Menu01_98aea068:
 msgid "[_ba_]  ... "
@@ -538,11 +538,11 @@ msgstr "[_ba_] À demain, [name]..."
 
 # game/Cell01_BA.rpy:415 #-#-# translate crowdin Quest_BA_Ask01_5ae1c955:
 msgid "[_ba_] The question would be... why wouldn't I want to? "
-msgstr "[La question serait... pourquoi ne voudrais-je pas le faire ? "
+msgstr "[_ba_] La question est plutôt... pourquoi ne voudrais-je pas ? "
 
 # game/Cell01_BA.rpy:417 #-#-# translate crowdin Quest_BA_Ask01_a24a7e6b:
 msgid "[_ba_] Sherazade's tyranny must come to an end sooner or later."
-msgstr "[La tyrannie de Shéhérazade doit prendre fin tôt ou tard."
+msgstr "[_ba_] La tyrannie de Shéhérazade doit prendre fin tôt ou tard."
 
 # game/Cell01_BA.rpy:419 #-#-# translate crowdin Quest_BA_Ask01_fc81f237:
 msgid "[_ba_] And the sooner the better. Especially if it's me who ends up with my ass on her throne. "
