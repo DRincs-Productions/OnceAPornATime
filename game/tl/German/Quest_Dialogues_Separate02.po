@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2024-04-09 07:12\n"
+"PO-Revision-Date: 2024-04-28 18:49\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Quest_Dialogues_Separate02.rpy:69 #-#-# translate crowdin Quest2_Room01Panel01screen_E_8240cba6:
 msgid "[_u_] Got it!"
@@ -2566,7 +2566,7 @@ msgstr ""
 
 # game/Quest_Dialogues_Separate02.rpy:1989 #-#-# translate crowdin QuestChap2_Jasmine01_menu01_P1_bb98924d:
 msgid "[_u_] That's a good idea."
-msgstr ""
+msgstr "[_u_] Das ist eine gute Idee."
 
 # game/Quest_Dialogues_Separate02.rpy:1991 #-#-# translate crowdin QuestChap2_Jasmine01_menu01_P1_48e7f7b8:
 msgid "[_a_] Go see her whenever you're ready!"
