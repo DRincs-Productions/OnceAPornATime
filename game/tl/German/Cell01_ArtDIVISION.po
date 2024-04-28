@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2024-04-09 09:08\n"
+"PO-Revision-Date: 2024-04-28 18:48\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_ArtDIVISION.rpy:151 #-#-# translate crowdin Cell01_ArtDIVISION_Menu01_ed0ef4ce:
 msgid "[_a_] Bonjour [name]!"
@@ -744,11 +744,11 @@ msgstr "[_u_] Ich gebe dir Bescheid, sobald ich alles habe. "
 
 # game/Cell01_ArtDIVISION.rpy:858 #-#-# translate crowdin QuestChap2_Amandine02_02_menuchoice1_P1_bcebc41f:
 msgid "[_a_] Thank you so much [name]!"
-msgstr ""
+msgstr "[_a_] Vielen Dank, [Name]!"
 
 # game/Cell01_ArtDIVISION.rpy:860 #-#-# translate crowdin QuestChap2_Amandine02_02_menuchoice1_P1_2193ef30:
 msgid "[_u_] See you soon Amandine. "
-msgstr ""
+msgstr "[_u_] Bis bald, Amandine. "
 
 # game/Cell01_ArtDIVISION.rpy:868 #-#-# translate crowdin QuestChap2_Amandine02_03_e6a83a27:
 msgid "[_a_] Perfect!"
@@ -756,63 +756,63 @@ msgstr "[_a_] Perfekt!"
 
 # game/Cell01_ArtDIVISION.rpy:870 #-#-# translate crowdin QuestChap2_Amandine02_03_76cddbe0:
 msgid "[_a_] With a little luck I'll be able to fix my new best friend behind me."
-msgstr ""
+msgstr "[_a_] Mit etwas Glück werde ich meinen neuen besten Freund hinter mir reparieren können."
 
 # game/Cell01_ArtDIVISION.rpy:872 #-#-# translate crowdin QuestChap2_Amandine02_03_da3c2fe5:
 msgid "[_u_] Glad I could help you. "
-msgstr ""
+msgstr "[_u_] Freut mich, dass ich dir helfen konnte. "
 
 # game/Cell01_ArtDIVISION.rpy:873 #-#-# translate crowdin QuestChap2_Amandine02_03_6f9579c0:
 msgid "[_u_] I guess I'll just have to go try to corrupt sherazade. "
-msgstr ""
+msgstr "[_u_] Ich denke, dass ich wohl einfach versuchen muss Sherazade zu korrumpieren. "
 
 # game/Cell01_ArtDIVISION.rpy:875 #-#-# translate crowdin QuestChap2_Amandine02_03_f9695d8d:
 msgid "[_a_] I read a bit of her profile and It's not going to be easy."
-msgstr ""
+msgstr "[_a_] Ich habe ein wenig in ihrem Profil gelesen und es wird nicht einfach werden."
 
 # game/Cell01_ArtDIVISION.rpy:877 #-#-# translate crowdin QuestChap2_Amandine02_03_07416aa0:
 msgid "[_a_] I think it would be a good idea to corrupt someone less... difficult."
-msgstr ""
+msgstr "[_a_] Ich denke, es wäre eine gute Idee, jemanden zu korrumpieren, der weniger... schwierig ist."
 
 # game/Cell01_ArtDIVISION.rpy:878 #-#-# translate crowdin QuestChap2_Amandine02_03_9bb108d5:
 msgid "[_u_] Lycoris? "
-msgstr ""
+msgstr "[_u_] Lycoris? "
 
 # game/Cell01_ArtDIVISION.rpy:880 #-#-# translate crowdin QuestChap2_Amandine02_03_1566fb52:
 msgid "[_a_] Exactly. Corrupting Sherazade's servant could be very useful. "
-msgstr ""
+msgstr "[_a_] Genau. Sherazades Dienerin zu korrumpieren, könnte sehr nützlich sein. "
 
 # game/Cell01_ArtDIVISION.rpy:881 #-#-# translate crowdin QuestChap2_Amandine02_03_bb98924d:
 msgid "[_u_] That's a good idea."
-msgstr ""
+msgstr "[_u_] Das ist eine gute Idee."
 
 # game/Cell01_ArtDIVISION.rpy:882 #-#-# translate crowdin QuestChap2_Amandine02_03_c9c07022:
 msgid "[_u_] I will try to do that. "
-msgstr ""
+msgstr "[_u_] Das werde ich versuchen. "
 
 # game/Cell01_ArtDIVISION.rpy:884 #-#-# translate crowdin QuestChap2_Amandine02_03_e60a64cb:
 msgid "[_a_] One last thing... "
-msgstr ""
+msgstr "[_a_] Eine letzte Sache... "
 
 # game/Cell01_ArtDIVISION.rpy:886 #-#-# translate crowdin QuestChap2_Amandine02_03_53791f8f:
 msgid "[_a_] I have something for you. "
-msgstr ""
+msgstr "[_a_] Ich habe etwas für dich. "
 
 # game/Cell01_ArtDIVISION.rpy:888 #-#-# translate crowdin QuestChap2_Amandine02_03_91e22e1e:
 msgid "[_a_] Since we're going to be working together a lot, "
-msgstr ""
+msgstr "[_a_] Da wir viel zusammenarbeiten werden, "
 
 # game/Cell01_ArtDIVISION.rpy:890 #-#-# translate crowdin QuestChap2_Amandine02_03_960d921e:
 msgid "[_a_] I have set up a device in your office that shows our current corruptions and our progress. "
-msgstr ""
+msgstr "[_a_] habe ich in Ihrem Büro ein Gerät aufgestellt, das unsere aktuellen Korruptionen und unsere Fortschritte anzeigt. "
 
 # game/Cell01_ArtDIVISION.rpy:892 #-#-# translate crowdin QuestChap2_Amandine02_03_27effa5c:
 msgid "[_a_] It will help us a lot in our work I think. "
-msgstr ""
+msgstr "[_a_] Das wird uns bei unserer Arbeit sehr helfen, denke ich. "
 
 # game/Cell01_ArtDIVISION.rpy:896 #-#-# translate crowdin QuestChap2_Amandine02_03_9bf90afc:
 msgid "[_u_] That's really nice of you, thank you very much. "
-msgstr ""
+msgstr "[_u_] Das ist wirklich nett von dir, danke sehr. "
 
 # game/Cell01_ArtDIVISION.rpy:898 #-#-# translate crowdin QuestChap2_Amandine02_03_fce2140a:
 msgid "[_a_] You're welcome. I hope you will like it."
