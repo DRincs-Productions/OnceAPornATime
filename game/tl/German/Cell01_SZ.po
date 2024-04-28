@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2024-04-08 19:01\n"
+"PO-Revision-Date: 2024-04-28 18:48\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_SZ.rpy:87 #-#-# translate crowdin CHARA_SZ_Menu01_af6c6a0a:
 msgid "[_sz_]  ... "
@@ -234,7 +234,7 @@ msgstr ""
 
 # game/Cell01_SZ.rpy:364 #-#-# translate crowdin Quest_SZ_Favor_Cape03_bb98924d:
 msgid "[_u_] That's a good idea."
-msgstr ""
+msgstr "[_u_] Das ist eine gute Idee."
 
 # game/Cell01_SZ.rpy:366 #-#-# translate crowdin Quest_SZ_Favor_Cape03_25a649b8:
 msgid "[_a_] You're welcome!"
