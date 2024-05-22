@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-04-04 05:51\n"
+"PO-Revision-Date: 2024-05-22 17:05\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Quest_Rooms_Separate02.rpy:125 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_peruche_1ffa9899:
 msgid "[_u_] What are you doing here? "
@@ -206,7 +206,7 @@ msgstr "[_tb_] Te estoy enviando a alguien para ayudarte en tu noble misión, qu
 
 # game/Quest_Rooms_Separate02.rpy:247 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_peruche_menu1_P2_48c99239:
 msgid "[_u_] Why?"
-msgstr ""
+msgstr "[¿Por qué?"
 
 # game/Quest_Rooms_Separate02.rpy:265 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_peruche_menu1_P2_8997536c:
 msgid "[_ml_] Hello there."
