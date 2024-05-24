@@ -10,23 +10,23 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2024-03-11 17:45\n"
+"PO-Revision-Date: 2024-05-24 23:50\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Quest_Rooms_Separate02.rpy:125 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_peruche_1ffa9899:
 msgid "[_u_] What are you doing here? "
-msgstr ""
+msgstr "[_u_] Cosa stai facendo qui? "
 
 # game/Quest_Rooms_Separate02.rpy:132 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_peruche_6e86c132:
 msgid "[_u_] And he's gone."
-msgstr ""
+msgstr "[_u_] Ed è andato."
 
 # game/Quest_Rooms_Separate02.rpy:133 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_peruche_64d0baac:
 msgid "[_u_] Will this thing come and spy on me every time I leave the headquarters now?"
-msgstr ""
+msgstr "[_u_] Questa cosa verrà e mi spierà ogni volta che lascerò la sede adesso?"
 
 # game/Quest_Rooms_Separate02.rpy:134 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_peruche_29380329:
 msgid "[_u_] Tinker? Do you know what this thing is?"
-msgstr ""
+msgstr "[_u_] Tinker? Sai cos'è questa cosa?"
 
 # game/Quest_Rooms_Separate02.rpy:135 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_peruche_7b1c1392:
 msgid "[_u_] ..."
@@ -34,203 +34,203 @@ msgstr "[_u_] ..."
 
 # game/Quest_Rooms_Separate02.rpy:136 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_peruche_22d1d18a:
 msgid "[_u_] Damn, the communications don't work here?"
-msgstr ""
+msgstr "[_u_] Damn, le comunicazioni non funzionano qui?"
 
 # game/Quest_Rooms_Separate02.rpy:137 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_peruche_e7743dcf:
 msgid "[_u_] Great."
-msgstr ""
+msgstr "[_u_] Grande."
 
 # game/Quest_Rooms_Separate02.rpy:138 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_peruche_3e232d1f:
 msgid "[_u_] Maybe it's just a curious bird after all."
-msgstr ""
+msgstr "[_u_] Forse è solo un uccello curioso dopo tutto."
 
 # game/Quest_Rooms_Separate02.rpy:140 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_peruche_72b3ec6b:
 msgid "[_u_] Or maybe he comes here to search for old crates. "
-msgstr ""
+msgstr "[_u_] O forse viene qui per cercare vecchie casse. "
 
 # game/Quest_Rooms_Separate02.rpy:141 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_peruche_9e0af3f5:
 msgid "[_none01_] Actually, that's why I'm here. "
-msgstr ""
+msgstr "[_none01_] In realtà, ecco perché sono qui. "
 
 # game/Quest_Rooms_Separate02.rpy:148 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_peruche_cac0131c:
 msgid "[_u_] Greetings mysterious hooded stranger."
-msgstr ""
+msgstr "[_u_] Saluti misteriosi sconosciuti con cappuccio."
 
 # game/Quest_Rooms_Separate02.rpy:149 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_peruche_be2fddfb:
 msgid "[_u_] It's been a while since we've seen each other."
-msgstr ""
+msgstr "[_u_] È passato un po' da quando ci siamo visti a vicenda."
 
 # game/Quest_Rooms_Separate02.rpy:150 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_peruche_66d46f48:
 msgid "[_u_] Still don't want to take off your helmet? "
-msgstr ""
+msgstr "[_u_] Non vuoi ancora togliere il casco? "
 
 # game/Quest_Rooms_Separate02.rpy:151 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_peruche_c8cc5239:
 msgid "[_none01_] No, thank you."
-msgstr ""
+msgstr "[_none01_] No, grazie."
 
 # game/Quest_Rooms_Separate02.rpy:152 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_peruche_fb45b273:
 msgid "[_u_] What are you doing there?"
-msgstr ""
+msgstr "[_u_] Cosa stai facendo lì?"
 
 # game/Quest_Rooms_Separate02.rpy:153 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_peruche_97c2cc29:
 msgid "[_none01_] I've been coming here for a long time to get material."
-msgstr ""
+msgstr "[_none01_] Sono venuto qui da molto tempo per ottenere materiale."
 
 # game/Quest_Rooms_Separate02.rpy:154 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_peruche_a750ad12:
 msgid "[_none01_] It's amazing how much stuff they've thrown in here."
-msgstr ""
+msgstr "[_none01_] È incredibile quanta roba hanno gettato qui."
 
 # game/Quest_Rooms_Separate02.rpy:163 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_peruche_menu1_d41eb950:
 msgid "[_none01_] Everything that can be useful."
-msgstr ""
+msgstr "[_none01_] Tutto ciò che può essere utile."
 
 # game/Quest_Rooms_Separate02.rpy:164 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_peruche_menu1_e12e1bd3:
 msgid "[_none01_] But I don't think there is anything interesting left here."
-msgstr ""
+msgstr "[_none01_] Ma non credo che qui rimanga nulla di interessante."
 
 # game/Quest_Rooms_Separate02.rpy:166 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_peruche_menu1_Pend_7cd89e93:
 msgid "[_none01_] There are still tools in this room if you want. "
-msgstr ""
+msgstr "[_none01_] Ci sono ancora strumenti in questa stanza, se vuoi. "
 
 # game/Quest_Rooms_Separate02.rpy:167 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_peruche_menu1_Pend_e276f20b:
 msgid "[_none01_] I think that's why you're here, right?"
-msgstr ""
+msgstr "[_none01_] Penso che sia per questo che sei qui, giusto?"
 
 # game/Quest_Rooms_Separate02.rpy:168 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_peruche_menu1_Pend_2faa7718:
 msgid "[_u_] Is it possible to hide something from you? "
-msgstr ""
+msgstr "[_u_] È possibile nascondere qualcosa da te? "
 
 # game/Quest_Rooms_Separate02.rpy:169 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_peruche_menu1_Pend_3b4abb59:
 msgid "[_none01_] Not so much."
-msgstr ""
+msgstr "[_none01_] Non tanto."
 
 # game/Quest_Rooms_Separate02.rpy:170 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_peruche_menu1_Pend_3f34b609:
 msgid "[_none01_] Good luck in your research, see you next time [name]. "
-msgstr ""
+msgstr "[_none01_] Buona fortuna nella tua ricerca, ti vediamo la prossima volta [name]. "
 
 # game/Quest_Rooms_Separate02.rpy:184 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_peruche_menu1_Pend_8f573310:
 msgid "[_none01_] And uh..."
-msgstr ""
+msgstr "[_none01_] And uh..."
 
 # game/Quest_Rooms_Separate02.rpy:185 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_peruche_menu1_Pend_8427a593:
 msgid "[_none01_] I count on you to keep our little meeting between us."
-msgstr ""
+msgstr "[_none01_] conto su di voi per mantenere il nostro piccolo incontro tra noi."
 
 # game/Quest_Rooms_Separate02.rpy:199 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_peruche_menu1_P1_443f9a92:
 msgid "[_none01_] I still don't know if I can trust you. "
-msgstr ""
+msgstr "[_none01_] Non so ancora se posso fidarmi di te. "
 
 # game/Quest_Rooms_Separate02.rpy:200 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_peruche_menu1_P1_feb664ac:
 msgid "[_u_] Even after so much time spying on me? "
-msgstr ""
+msgstr "[_u_] Anche dopo così tanto tempo mi spia? "
 
 # game/Quest_Rooms_Separate02.rpy:201 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_peruche_menu1_P1_d50b80bf:
 msgid "[_u_] By the way, could you stop doing that? "
-msgstr ""
+msgstr "[_u_] A proposito, potresti smettere di farlo? "
 
 # game/Quest_Rooms_Separate02.rpy:202 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_peruche_menu1_P1_68575082:
 msgid "[_none01_] Sorry, but that's how I still haven't been caught yet."
-msgstr ""
+msgstr "[_none01_] Mi dispiace, ma è così che non sono ancora stato catturato."
 
 # game/Quest_Rooms_Separate02.rpy:211 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_peruche_menu1_P2_7349b6b5:
 msgid "[_none01_] Maybe."
-msgstr ""
+msgstr "[_none01_] Forse."
 
 # game/Quest_Rooms_Separate02.rpy:212 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_peruche_menu1_P2_7e80f67d:
 msgid "[_u_] So I take that as a yes."
-msgstr ""
+msgstr "[_u_] Così lo prendo come un sì."
 
 # game/Quest_Rooms_Separate02.rpy:213 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_peruche_menu1_P2_e0eec434:
 msgid "[_u_] Thanks for the key last time."
-msgstr ""
+msgstr "[_u_] Grazie per la chiave l'ultima volta."
 
 # game/Quest_Rooms_Separate02.rpy:214 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_peruche_menu1_P2_1860e5c1:
 msgid "[_none01_] You're welcome. I was starting to feel a little sorry for you in that cell. "
-msgstr ""
+msgstr "[_none01_] Sei il benvenuto. Stavo iniziando a sentirti un po' dispiaciuto per te in quella cella. "
 
 # game/Quest_Rooms_Separate02.rpy:215 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_peruche_menu1_P2_2de3347a:
 msgid "[_u_] How did you... create this thing? "
-msgstr ""
+msgstr "[_u_] Come hai creato... questa cosa? "
 
 # game/Quest_Rooms_Separate02.rpy:216 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_peruche_menu1_P2_a5dbf9bb:
 msgid "[_none01_] Ahah, I'm not going to reveal everything now. "
-msgstr ""
+msgstr "[_none01_] Ahah, non rivelerò tutto ora. "
 
 # game/Quest_Rooms_Separate02.rpy:217 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_peruche_menu1_P2_5587de91:
 msgid "[_none01_] Not yet."
-msgstr ""
+msgstr "[_none01_] Non ancora."
 
 # game/Quest_Rooms_Separate02.rpy:224 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_peruche_menu1_P2_9396abe9:
 msgid "[_none01_] That's a good question."
-msgstr ""
+msgstr "[_none01_] È una buona domanda."
 
 # game/Quest_Rooms_Separate02.rpy:225 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_peruche_menu1_P2_d8a5b86e:
 msgid "[_none01_] I'm not going to give you the solution but... "
-msgstr ""
+msgstr "[_none01_] Non ti darò la soluzione ma... "
 
 # game/Quest_Rooms_Separate02.rpy:226 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_peruche_menu1_P2_c29557bf:
 msgid "[_none01_] You will be challenged soon enough, I'm sure."
-msgstr ""
+msgstr "[_none01_] Sarai sfidato abbastanza presto, ne sono sicuro."
 
 # game/Quest_Rooms_Separate02.rpy:227 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_peruche_menu1_P2_8aa7684b:
 msgid "[_u_] And then you will finally show me your face?"
-msgstr ""
+msgstr "[_u_] E poi mi mostrerai finalmente il tuo viso?"
 
 # game/Quest_Rooms_Separate02.rpy:228 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_peruche_menu1_P2_bbc33561:
 msgid "[_none01_] Ahah, perhaps."
-msgstr ""
+msgstr "[_none01_] Ahah, forse."
 
 # game/Quest_Rooms_Separate02.rpy:238 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_peruche_menu1_P2_4b83895e:
 msgid "[_tb_] Hey [name]! Can you hear me? "
-msgstr ""
+msgstr "[_tb_] Ehi [name]! Riesci a sentirmi? "
 
 # game/Quest_Rooms_Separate02.rpy:239 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_peruche_menu1_P2_12d93735:
 msgid "[_u_] Yep, I'm here. "
-msgstr ""
+msgstr "[_u_] Yep, sono qui. "
 
 # game/Quest_Rooms_Separate02.rpy:241 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_peruche_menu1_P2_dd32ad9d:
 msgid "[_tb_] So, what is the state of the outpost? "
-msgstr ""
+msgstr "[_tb_] Quindi, qual è lo stato dell'avamposto? "
 
 # game/Quest_Rooms_Separate02.rpy:242 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_peruche_menu1_P2_aa5c41f1:
 msgid "[_u_] Well... it's a big dusty mess with garbage everywhere. "
-msgstr ""
+msgstr "[_u_] Bene... è un grande pasticcio polveroso con spazzatura ovunque. "
 
 # game/Quest_Rooms_Separate02.rpy:244 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_peruche_menu1_P2_f1c29b43:
 msgid "[_tb_] It hasn't changed a bit. Perfect."
-msgstr ""
+msgstr "[_tb_] Non è cambiato un po'. Perfetto."
 
 # game/Quest_Rooms_Separate02.rpy:246 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_peruche_menu1_P2_3fe7bfc3:
 msgid "[_tb_] I am sending you someone to help you in your noble quest, dear adventurer. "
-msgstr ""
+msgstr "[_tb_] Ti sto inviando qualcuno per aiutarti nella tua nobile missione, caro avventuriero. "
 
 # game/Quest_Rooms_Separate02.rpy:247 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_peruche_menu1_P2_48c99239:
 msgid "[_u_] Why?"
-msgstr ""
+msgstr "[_u_] Perché?"
 
 # game/Quest_Rooms_Separate02.rpy:265 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_peruche_menu1_P2_8997536c:
 msgid "[_ml_] Hello there."
-msgstr ""
+msgstr "[_ml_] Ciao lì."
 
 # game/Quest_Rooms_Separate02.rpy:266 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_peruche_menu1_P2_43eb0c9f:
 msgid "[_u_] What are you doing here?"
-msgstr ""
+msgstr "[_u_] Cosa stai facendo qui?"
 
 # game/Quest_Rooms_Separate02.rpy:268 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_peruche_menu1_P2_c937f144:
 msgid "[_ml_] I've been needing to come by here for a while. "
-msgstr ""
+msgstr "[_ml_] Ho bisogno di venire da qui per un po'. "
 
 # game/Quest_Rooms_Separate02.rpy:270 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_peruche_menu1_P2_f7a4684c:
 msgid "[_ml_] The big machine back there could be useful to us one day. "
-msgstr ""
+msgstr "[_ml_] La grande macchina potrebbe essere utile per noi un giorno. "
 
 # game/Quest_Rooms_Separate02.rpy:271 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_peruche_menu1_P2_6e0fca4b:
 msgid "[_u_] Why didn't you come earlier? "
-msgstr ""
+msgstr "[_u_] Perché non sei venuto prima? "
 
 # game/Quest_Rooms_Separate02.rpy:273 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_peruche_menu1_P2_a40e7f08:
 msgid "[_ml_] I wasn't really sure if the place was safe. "
-msgstr ""
+msgstr "[_ml_] Non ero sicuro se il posto fosse al sicuro. "
 
 # game/Quest_Rooms_Separate02.rpy:274 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_peruche_menu1_P2_7b1c1392:
 msgid "[_u_] ..."
@@ -238,247 +238,247 @@ msgstr "[_u_] ..."
 
 # game/Quest_Rooms_Separate02.rpy:276 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_peruche_menu1_P2_41e91fcf:
 msgid "[_ml_] Like... Flooded, or filled with giant insects, or crazy androids or... "
-msgstr ""
+msgstr "[_ml_] Come... Inondato, o riempito di insetti giganti, o androidi pazzi o... "
 
 # game/Quest_Rooms_Separate02.rpy:277 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_peruche_menu1_P2_ed6a577b:
 msgid "[_u_] I've got the idea."
-msgstr ""
+msgstr "[_u_] Ho l'idea."
 
 # game/Quest_Rooms_Separate02.rpy:279 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_peruche_menu1_P2_7b068cfa:
 msgid "[_ml_] Anyway, don't mind me, I just have a couple of things to look at. "
-msgstr ""
+msgstr "[_ml_] Comunque, non mi dispiace, ho solo un paio di cose da guardare. "
 
 # game/Quest_Rooms_Separate02.rpy:296 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_MELI_68d442e9:
 msgid "[_ml_] Yes?"
-msgstr ""
+msgstr "[_ml_] Sì?"
 
 # game/Quest_Rooms_Separate02.rpy:302 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_MELI_menu01_74920059:
 msgid "[_ml_] Yeah... but everything is in shambles here."
-msgstr ""
+msgstr "[_ml_] Yeah... ma tutto è in vergogna qui."
 
 # game/Quest_Rooms_Separate02.rpy:304 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_MELI_menu01_b22e06a6:
 msgid "[_ml_] It's going to take a while to fix this. "
-msgstr ""
+msgstr "[_ml_] Ci vorrà un po' di tempo per risolvere questo problema. "
 
 # game/Quest_Rooms_Separate02.rpy:308 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_MELI_menu01_3f127444:
 msgid "[_ml_] Great, I don't think I'll get any further today with what I have. "
-msgstr ""
+msgstr "[_ml_] Ottimo, non credo che oggi mi spingerò oltre con quello che ho. "
 
 # game/Quest_Rooms_Separate02.rpy:310 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_MELI_menu01_42b9de91:
 msgid "[_ml_] Are you ready to go? "
-msgstr ""
+msgstr "[_ml_] Sei pronto ad andare? "
 
 # game/Quest_Rooms_Separate02.rpy:311 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_MELI_menu01_e0a2a35b:
 msgid "[_u_] Yep, let's go."
-msgstr ""
+msgstr "[_u_] Yep, andiamo."
 
 # game/Quest_Rooms_Separate02.rpy:328 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_1_e768db67:
 msgid "[_u_] I hope I don't get stuck there one day."
-msgstr ""
+msgstr "[_u_] Spero di non rimanere bloccato lì un giorno."
 
 # game/Quest_Rooms_Separate02.rpy:331 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_1_d97a26d3:
 msgid "[_u_] Hey meli, what is this big thing? "
-msgstr ""
+msgstr "[_u_] Hey meli, che cosa è questa grande cosa? "
 
 # game/Quest_Rooms_Separate02.rpy:339 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_1_51959a78:
 msgid "[_ml_] A big machine that I would love to get working. "
-msgstr ""
+msgstr "[_ml_] Una grande macchina che mi piacerebbe lavorare. "
 
 # game/Quest_Rooms_Separate02.rpy:341 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_1_48639aca:
 msgid "[_ml_] It is a kind of... quarantine zone."
-msgstr ""
+msgstr "[_ml_] Si tratta di un tipo di... zona di quarantena."
 
 # game/Quest_Rooms_Separate02.rpy:343 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_1_8e508d33:
 msgid "[_ml_] It could be useful if there is any problem. "
-msgstr ""
+msgstr "[_ml_] Potrebbe essere utile se ci fosse qualche problema. "
 
 # game/Quest_Rooms_Separate02.rpy:344 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_1_47303522:
 msgid "[_u_] What kind of problem? "
-msgstr ""
+msgstr "[_u_] Che tipo di problema? "
 
 # game/Quest_Rooms_Separate02.rpy:346 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_1_83c2c5a8:
 msgid "[_ml_] Well, just in case an android goes berserk or someone illegally enters the planet."
-msgstr ""
+msgstr "[_ml_] Beh, nel caso in cui un android vada berserk o qualcuno entra illegalmente nel pianeta."
 
 # game/Quest_Rooms_Separate02.rpy:347 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_1_1b40a1ea:
 msgid "[_u_] Yeah, it's a prison cell. "
-msgstr ""
+msgstr "[_u_] Sì, è una cella di prigione. "
 
 # game/Quest_Rooms_Separate02.rpy:349 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_1_7a25b6ec:
 msgid "[_ml_] Yeah, pretty much."
-msgstr ""
+msgstr "[_ml_] Sì, piuttosto molto."
 
 # game/Quest_Rooms_Separate02.rpy:351 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_1_ecd80489:
 msgid "[_ml_] But if you put an android in it, you can reprogram it."
-msgstr ""
+msgstr "[_ml_] Ma se mettete un android in esso, potete riprogrammarlo."
 
 # game/Quest_Rooms_Separate02.rpy:353 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_1_f814e480:
 msgid "[_ml_] Anyway, I need this stuff. "
-msgstr ""
+msgstr "[_ml_] Comunque, ho bisogno di questa roba. "
 
 # game/Quest_Rooms_Separate02.rpy:355 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_1_c8627c16:
 msgid "[_ml_] But it seems that someone has vandalized it from the inside."
-msgstr ""
+msgstr "[_ml_] Ma sembra che qualcuno lo abbia vandalizzato dall'interno."
 
 # game/Quest_Rooms_Separate02.rpy:360 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_1_840090be:
 msgid "[_ml_] Who?"
-msgstr ""
+msgstr "[_ml_] Chi?"
 
 # game/Quest_Rooms_Separate02.rpy:361 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_1_0f2f5ab2:
 msgid "[_u_] Someone with a helmet and a hood on their head. "
-msgstr ""
+msgstr "[_u_] Qualcuno con un casco e un cappuccio sulla loro testa. "
 
 # game/Quest_Rooms_Separate02.rpy:362 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_1_7d63e489:
 msgid "[_u_] We don't know who it is but this person is spying on us. "
-msgstr ""
+msgstr "[_u_] Non sappiamo chi sia, ma questa persona ci sta spiando. "
 
 # game/Quest_Rooms_Separate02.rpy:364 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_1_c9b5addb:
 msgid "[_ml_] Great."
-msgstr ""
+msgstr "[_ml_] Grande."
 
 # game/Quest_Rooms_Separate02.rpy:368 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_1_fc43f07e:
 msgid "[_ml_] Well... the inner walls are made of lead alloy... "
-msgstr ""
+msgstr "[_ml_] Bene... le pareti interne sono fatte di lega di piombo... "
 
 # game/Quest_Rooms_Separate02.rpy:370 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_1_d2345cbd:
 msgid "[_ml_] It can be used to make a giant microwave... "
-msgstr ""
+msgstr "[_ml_] Può essere usato per realizzare un microonde gigante... "
 
 # game/Quest_Rooms_Separate02.rpy:372 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_1_a8c3cb61:
 msgid "[_u_] Or... "
-msgstr ""
+msgstr "[_u_] Oppure... "
 
 # game/Quest_Rooms_Separate02.rpy:373 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_1_2020a402:
 msgid "[_u_] A teleporter? "
-msgstr ""
+msgstr "[_u_] Un teletrasporto? "
 
 # game/Quest_Rooms_Separate02.rpy:375 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_1_2e9ea3c1:
 msgid "[_ml_] That's right."
-msgstr ""
+msgstr "[_ml_] È giusto."
 
 # game/Quest_Rooms_Separate02.rpy:378 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_1_d660a4f0:
 msgid "[_u_] Like super intelligent android rats? "
-msgstr ""
+msgstr "[_u_] Ti piacciono i ratti androidi super intelligenti? "
 
 # game/Quest_Rooms_Separate02.rpy:380 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_1_4cc4eee2:
 msgid "[_ml_] Skavens? "
-msgstr ""
+msgstr "[_ml_] Skavens? "
 
 # game/Quest_Rooms_Separate02.rpy:381 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_1_53768d9a:
 msgid "[_u_] You are a woman of culture."
-msgstr ""
+msgstr "[_u_] Sei una donna di cultura."
 
 # game/Quest_Rooms_Separate02.rpy:383 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_1_f3d3f76e:
 msgid "[_ml_] I know. "
-msgstr ""
+msgstr "[_ml_] lo so. "
 
 # game/Quest_Rooms_Separate02.rpy:386 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_1_ce8618b3:
 msgid "[_ml_] Anyway, I have to find a way to fix this."
-msgstr ""
+msgstr "[_ml_] In ogni caso, devo trovare un modo per risolvere questo problema."
 
 # game/Quest_Rooms_Separate02.rpy:391 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_2_74217f0b:
 msgid "[_u_] It says: ''Please do not enter the quarantine sphere, unless you want to get stuck there.'' "
-msgstr ""
+msgstr "[_u_] Dice: ''Per favore non inserire la sfera di quarantena, a meno che non si voglia rimanere bloccati.'' "
 
 # game/Quest_Rooms_Separate02.rpy:392 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_2_232dd767:
 msgid "[_u_] Well, thanks for the advice."
-msgstr ""
+msgstr "[_u_] Beh, grazie per il consiglio."
 
 # game/Quest_Rooms_Separate02.rpy:401 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_3_fb87f13b:
 msgid "[_u_] A chest... with a label. "
-msgstr ""
+msgstr "[_u_] Una cassa... con un'etichetta. "
 
 # game/Quest_Rooms_Separate02.rpy:402 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_3_2bd7485c:
 msgid "[_u_] ''Property of the CEO's Personal Secretary.''"
-msgstr ""
+msgstr "[_u_] 'Proprietà del Segretariato Personale del CEO''"
 
 # game/Quest_Rooms_Separate02.rpy:403 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_3_26b8e5b2:
 msgid "[_u_] Interesting."
-msgstr ""
+msgstr "[_u_] Interessante."
 
 # game/Quest_Rooms_Separate02.rpy:404 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_3_7b677cc3:
 msgid "[_u_] We would say it's a 3-digit code."
-msgstr ""
+msgstr "[_u_] Diremo che è un codice a 3 cifre."
 
 # game/Quest_Rooms_Separate02.rpy:408 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_3_b58ff097:
 msgid "[_u_] It worked!"
-msgstr ""
+msgstr "[_u_] ha funzionato!"
 
 # game/Quest_Rooms_Separate02.rpy:409 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_3_f565a534:
 msgid "[_u_] Let's see... "
-msgstr ""
+msgstr "[_u_] Vediamo... "
 
 # game/Quest_Rooms_Separate02.rpy:422 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_3_a4c90bf3:
 msgid "[_u_] Nope... it's apparently not that."
-msgstr ""
+msgstr "[_u_] Nope... apparentemente non è così."
 
 # game/Quest_Rooms_Separate02.rpy:423 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_3_2557cb08:
 msgid "[_u_] Maybe I'll find the code another time."
-msgstr ""
+msgstr "[_u_] Forse troverò il codice un'altra volta."
 
 # game/Quest_Rooms_Separate02.rpy:440 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_7_a5a4fbcc:
 msgid "[_u_] Meli seems to be busy on this thing. "
-msgstr ""
+msgstr "[_u_] Meli sembra essere occupato su questa cosa. "
 
 # game/Quest_Rooms_Separate02.rpy:441 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_7_d5b89562:
 msgid "[_u_] I think removing her from that computer would be like..."
-msgstr ""
+msgstr "[_u_] Penso che rimuoverla da quel computer sarebbe come..."
 
 # game/Quest_Rooms_Separate02.rpy:442 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_7_d6785564:
 msgid "[_u_] ...touching a dog's food bowl in the middle of his meal. "
-msgstr ""
+msgstr "[_u_] ...toccare la ciotola di cibo di un cane nel mezzo del suo pasto. "
 
 # game/Quest_Rooms_Separate02.rpy:443 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_7_ff223546:
 msgid "[_u_] Yep."
-msgstr ""
+msgstr "[_u_] Yep."
 
 # game/Quest_Rooms_Separate02.rpy:450 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_8_2a0d7b29:
 msgid "[_u_] Is this what a toolbox looks like? "
-msgstr ""
+msgstr "[_u_] È questo l'aspetto di un toolbox? "
 
 # game/Quest_Rooms_Separate02.rpy:451 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_8_400c636f:
 msgid "[_ml_] Do you really think I know every form of toolbox in the galaxy? "
-msgstr ""
+msgstr "[_ml_] Pensi davvero che conosco ogni forma di toolbox nella galassia? "
 
 # game/Quest_Rooms_Separate02.rpy:452 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_8_994204b7:
 msgid "[_u_] Anyway, this thing is locked. "
-msgstr ""
+msgstr "[_u_] Comunque, questa cosa è bloccata. "
 
 # game/Quest_Rooms_Separate02.rpy:454 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_8_d344c03e:
 msgid "[_u_] Does my key..."
-msgstr ""
+msgstr "[_u_] Fa la mia chiave..."
 
 # game/Quest_Rooms_Separate02.rpy:474 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_8_3d81d0be:
 msgid "[_u_] Perfect! This is exactly what I needed!"
-msgstr ""
+msgstr "[_u_] Perfetto! Questo è esattamente quello che mi serve!"
 
 # game/Quest_Rooms_Separate02.rpy:475 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_8_3a148f99:
 msgid "[_u_] I think I have enough tools for the entire headquarters."
-msgstr ""
+msgstr "[_u_] penso di avere abbastanza strumenti per l'intera sede."
 
 # game/Quest_Rooms_Separate02.rpy:487 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_8_3d81d0be_1:
 msgid "[_u_] Perfect! This is exactly what I needed!"
-msgstr ""
+msgstr "[_u_] Perfetto! Questo è esattamente quello che mi serve!"
 
 # game/Quest_Rooms_Separate02.rpy:488 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_8_216cedda:
 msgid "[_u_] There are missing tools but maybe Emee could have them."
-msgstr ""
+msgstr "[_u_] Ci sono strumenti mancanti, ma forse Emee potrebbe averli."
 
 # game/Quest_Rooms_Separate02.rpy:503 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_13_219a9363:
 msgid "[_u_] That must be the Magic Forest above. "
-msgstr ""
+msgstr "[_u_] Che deve essere la Foresta Magica sopra. "
 
 # game/Quest_Rooms_Separate02.rpy:504 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_13_57bbaf37:
 msgid "[_u_] It's been a long time since I've paid a visit to Snow White..."
-msgstr ""
+msgstr "[_u_] È da molto tempo che ho fatto visita a Snow White..."
 
 # game/Quest_Rooms_Separate02.rpy:515 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_BOXES_4f20f559:
 msgid "[_u_] Well, there's nothing left to do but search the piles of crates. "
-msgstr ""
+msgstr "[_u_] Beh, non c'è niente da fare se non cercare i mucchi di casse. "
 
 # game/Quest_Rooms_Separate02.rpy:516 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_BOXES_58e1d8f4:
 msgid "[_u_] Damn Tinker, you better come up with the most beautiful princess you have in store after this."
-msgstr ""
+msgstr "[_u_] Damn Tinker, è meglio venire con la principessa più bella che hai in serbo dopo questo."
 
 # game/Quest_Rooms_Separate02.rpy:517 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_BOXES_7b1c1392:
 msgid "[_u_] ..."
@@ -486,51 +486,51 @@ msgstr "[_u_] ..."
 
 # game/Quest_Rooms_Separate02.rpy:518 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_BOXES_27a55d89:
 msgid "[_u_] I did not sign up for this."
-msgstr ""
+msgstr "[_u_] non mi sono iscritto a questo."
 
 # game/Quest_Rooms_Separate02.rpy:525 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_BOXES_c11c52fb:
 msgid "[_tb_] You didn't actually sign anything."
-msgstr ""
+msgstr "[_tb_] In realtà non hai firmato nulla."
 
 # game/Quest_Rooms_Separate02.rpy:526 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_BOXES_e137e381:
 msgid "[_u_] Ah! So you could hear me!"
-msgstr ""
+msgstr "[_u_] Ah! Così potresti sentirmi!"
 
 # game/Quest_Rooms_Separate02.rpy:531 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_BOXES_b7a6e867:
 msgid "[_u_] So what's in this pile of... "
-msgstr ""
+msgstr "[_u_] Quindi cosa c'è in questo mucchio... "
 
 # game/Quest_Rooms_Separate02.rpy:532 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_BOXES_cbec7a37:
 msgid "[_u_] Oh!"
-msgstr ""
+msgstr "[_u_] Oh!"
 
 # game/Quest_Rooms_Separate02.rpy:533 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_BOXES_409aec20:
 msgid "[_u_] Credits!"
-msgstr ""
+msgstr "[_u_] Crediti!"
 
 # game/Quest_Rooms_Separate02.rpy:544 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_BOXES_665f5c5c:
 msgid "[_u_] Well... it's not that bad. "
-msgstr ""
+msgstr "[_u_] Bene... non è così male. "
 
 # game/Quest_Rooms_Separate02.rpy:545 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_BOXES_e0774629:
 msgid "[_u_] Let's find these tools elsewhere. "
-msgstr ""
+msgstr "[_u_] Troviamo questi strumenti altrove. "
 
 # game/Quest_Rooms_Separate02.rpy:550 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_BOXES_55bc06b1:
 msgid "[_u_] Let's try here..."
-msgstr ""
+msgstr "[_u_] Proviamo qui..."
 
 # game/Quest_Rooms_Separate02.rpy:551 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_BOXES_c2ba7083:
 msgid "[_u_] No... I don't think there's anything. "
-msgstr ""
+msgstr "[_u_] No... Non penso che ci sia niente. "
 
 # game/Quest_Rooms_Separate02.rpy:555 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_BOXES_c883267a:
 msgid "[_u_] Come to me the little tools!"
-msgstr ""
+msgstr "[_u_] Vieni da me i piccoli strumenti!"
 
 # game/Quest_Rooms_Separate02.rpy:556 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_BOXES_0181226d:
 msgid "[_u_] I know you're there!"
-msgstr ""
+msgstr "[_u_] Lo so che sei lì!"
 
 # game/Quest_Rooms_Separate02.rpy:557 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_BOXES_7b1c1392_1:
 msgid "[_u_] ..."
@@ -538,95 +538,95 @@ msgstr "[_u_] ..."
 
 # game/Quest_Rooms_Separate02.rpy:558 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_BOXES_38ab8d58:
 msgid "[_u_] No, nothing here. "
-msgstr ""
+msgstr "[_u_] No, niente qui. "
 
 # game/Quest_Rooms_Separate02.rpy:562 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_BOXES_09b90896:
 msgid "[_ml_] Do you find anything?"
-msgstr ""
+msgstr "[_ml_] Trovi qualcosa?"
 
 # game/Quest_Rooms_Separate02.rpy:563 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_BOXES_59414b99:
 msgid "[_u_] No! Nothing at all!"
-msgstr ""
+msgstr "[_u_] No! Niente affatto!"
 
 # game/Quest_Rooms_Separate02.rpy:567 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_BOXES_d69a03bc:
 msgid "[_u_] Ah! I've got something!"
-msgstr ""
+msgstr "[_u_] Ah! Ho qualcosa!"
 
 # game/Quest_Rooms_Separate02.rpy:576 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_BOXES_a9903f5c:
 msgid "[_u_] Okay, I have a key."
-msgstr ""
+msgstr "[_u_] Okay, ho una chiave."
 
 # game/Quest_Rooms_Separate02.rpy:590 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_BOXES_af747147:
 msgid "[_u_] This can be useful."
-msgstr ""
+msgstr "[_u_] Questo può essere utile."
 
 # game/Quest_Rooms_Separate02.rpy:603 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_BOXES_a850446a:
 msgid "[_u_] Perfect! I didn't come here for nothing!"
-msgstr ""
+msgstr "[_u_] Perfetto! Non sono venuto qui per niente!"
 
 # game/Quest_Rooms_Separate02.rpy:619 #-#-# translate crowdin QuestRoom2_Outpost23_RoomStart_83a21415:
 msgid "[_u_] So this is the famous outpost 23"
-msgstr ""
+msgstr "[_u_] Quindi questo è il famoso avamposto 23"
 
 # game/Quest_Rooms_Separate02.rpy:620 #-#-# translate crowdin QuestRoom2_Outpost23_RoomStart_5b33a91b:
 msgid "[_u_] This place almost deserves an archaeological excavation."
-msgstr ""
+msgstr "[_u_] Questo luogo merita quasi uno scavo archeologico."
 
 # game/Quest_Rooms_Separate02.rpy:621 #-#-# translate crowdin QuestRoom2_Outpost23_RoomStart_1fda3998:
 msgid "[_u_] I wonder what's in those boxes."
-msgstr ""
+msgstr "[_u_] Mi chiedo cosa sia in quelle scatole."
 
 # game/Quest_Rooms_Separate02.rpy:625 #-#-# translate crowdin QuestRoom2_Outpost23_RoomStart_0fe08d43:
 msgid "[_u_] ???"
-msgstr ""
+msgstr "[_u_] ???"
 
 # game/Quest_Rooms_Separate02.rpy:626 #-#-# translate crowdin QuestRoom2_Outpost23_RoomStart_bba767f0:
 msgid "[_u_] Is that..."
-msgstr ""
+msgstr "[_u_] È quello..."
 
 # game/Quest_Rooms_Separate02.rpy:645 #-#-# translate crowdin QuestChap2_Amandine02_06LYCO_210ca1f2:
 msgid "[_ly_] Hi [name]! "
-msgstr ""
+msgstr "[_ly_] Hi [name]! "
 
 # game/Quest_Rooms_Separate02.rpy:686 #-#-# translate crowdin CHARA_LY_MenuChoice_FAVORSFAKE_50acd7af:
 msgid "[_u_] See you later, ma'am."
-msgstr ""
+msgstr "[_u_] Ci vediamo più tardi, ma'am."
 
 # game/Quest_Rooms_Separate02.rpy:688 #-#-# translate crowdin CHARA_LY_MenuChoice_FAVORSFAKE_711e819c:
 msgid "[_ly_] See you soon [name]! "
-msgstr ""
+msgstr "[_ly_] Ci vediamo presto [name]! "
 
 # game/Quest_Rooms_Separate02.rpy:707 #-#-# translate crowdin Quest_LY_Favor_Red01_960e2d4b:
 msgid "[_ly_] What do you mean ''red everywhere'' ? "
-msgstr ""
+msgstr "[_ly_] Cosa significa 'rosso ovunque'? "
 
 # game/Quest_Rooms_Separate02.rpy:709 #-#-# translate crowdin Quest_LY_Favor_Red01_6fffb633:
 msgid "[_ly_] I think I remember you looking at me naked not so long ago. "
-msgstr ""
+msgstr "[_ly_] Penso di ricordarmi di avermi guardato nudo non molto tempo fa. "
 
 # game/Quest_Rooms_Separate02.rpy:710 #-#-# translate crowdin Quest_LY_Favor_Red01_ccc17f2f:
 msgid "[_u_] I didn't see everything. "
-msgstr ""
+msgstr "[_u_] non ho visto tutto. "
 
 # game/Quest_Rooms_Separate02.rpy:712 #-#-# translate crowdin Quest_LY_Favor_Red01_bcc40c47:
 msgid "[_ly_] Too bad for you!"
-msgstr ""
+msgstr "[_ly_] Peccato per te!"
 
 # game/Quest_Rooms_Separate02.rpy:714 #-#-# translate crowdin Quest_LY_Favor_Red01_7909a395:
 msgid "[_ly_] But... uh yes. "
-msgstr ""
+msgstr "[_ly_] Ma... uh sì. "
 
 # game/Quest_Rooms_Separate02.rpy:716 #-#-# translate crowdin Quest_LY_Favor_Red01_4c87996e:
 msgid "[_ly_] I mean, it makes sense to me..."
-msgstr ""
+msgstr "[_ly_] Voglio dire, ha senso per me..."
 
 # game/Quest_Rooms_Separate02.rpy:718 #-#-# translate crowdin Quest_LY_Favor_Red01_8c833e26:
 msgid "[_ly_] I don't think you have hidden areas that are like... green or blue? "
-msgstr ""
+msgstr "[_ly_] Non penso che tu abbia delle aree nascoste come... verdi o blu? "
 
 # game/Quest_Rooms_Separate02.rpy:720 #-#-# translate crowdin Quest_LY_Favor_Red01_0ad5c032:
 msgid "[_ly_] Am I wrong? "
-msgstr ""
+msgstr "[_ly_] Mi sbaglio? "
 
 # game/Quest_Rooms_Separate02.rpy:721 #-#-# translate crowdin Quest_LY_Favor_Red01_7b1c1392:
 msgid "[_u_] ..."
@@ -634,167 +634,167 @@ msgstr "[_u_] ..."
 
 # game/Quest_Rooms_Separate02.rpy:723 #-#-# translate crowdin Quest_LY_Favor_Red01_fcf72162:
 msgid "[_ly_] So yes, I have red breasts."
-msgstr ""
+msgstr "[_ly_] Così sì, ho seni rossi."
 
 # game/Quest_Rooms_Separate02.rpy:725 #-#-# translate crowdin Quest_LY_Favor_Red01_38ee6207:
 msgid "[_ly_] And no, they don't taste like strawberries. "
-msgstr ""
+msgstr "[_ly_] E no, non hanno un sapore di fragole. "
 
 # game/Quest_Rooms_Separate02.rpy:726 #-#-# translate crowdin Quest_LY_Favor_Red01_ab06b1d6:
 msgid "[_u_] I never thought so. "
-msgstr ""
+msgstr "[_u_] non ho mai pensato così. "
 
 # game/Quest_Rooms_Separate02.rpy:728 #-#-# translate crowdin Quest_LY_Favor_Red01_7f667c9d:
 msgid "[_ly_] That's what they all say. "
-msgstr ""
+msgstr "[_ly_] È quello che tutti dicono. "
 
 # game/Quest_Rooms_Separate02.rpy:730 #-#-# translate crowdin Quest_LY_Favor_Red01_dc67cca9:
 msgid "[_ly_] Well, I have to go, I have a lot of things to do. "
-msgstr ""
+msgstr "[_ly_] Beh, devo andare, ho molte cose da fare. "
 
 # game/Quest_Rooms_Separate02.rpy:732 #-#-# translate crowdin Quest_LY_Favor_Red01_bee5bde0:
 msgid "[_ly_] See you later [name]!"
-msgstr ""
+msgstr "[_ly_] Ci vediamo più tardi [name]!"
 
 # game/Quest_Rooms_Separate02.rpy:753 #-#-# translate crowdin Quest_LY_Favor_Endreaction01_df94bb63:
 msgid "[_tb_] She looks pretty cool."
-msgstr ""
+msgstr "[_tb_] Lei sembra piuttosto cool."
 
 # game/Quest_Rooms_Separate02.rpy:755 #-#-# translate crowdin Quest_LY_Favor_Endreaction01_7f7db69c:
 msgid "[_tb_] I think it must be one of the least prudish androids I've seen. "
-msgstr ""
+msgstr "[_tb_] Penso che debba essere uno degli androidi meno prudish che ho visto. "
 
 # game/Quest_Rooms_Separate02.rpy:757 #-#-# translate crowdin Quest_LY_Favor_Endreaction01_b6934525:
 msgid "[_u_] Good for me! I've had my fill of overly modest androids with... well... snow white... and..."
-msgstr ""
+msgstr "[_u_] Buono per me! Ho avuto il mio riempimento di androidi troppo modesti con... bene... bianco della neve... e... e... e..."
 
 # game/Quest_Rooms_Separate02.rpy:758 #-#-# translate crowdin Quest_LY_Favor_Endreaction01_d7321c02:
 msgid "[_u_] Actually all of them."
-msgstr ""
+msgstr "[_u_] In realtà tutti loro."
 
 # game/Quest_Rooms_Separate02.rpy:760 #-#-# translate crowdin Quest_LY_Favor_Endreaction01_213fd3ce:
 msgid "[_tb_] Maybe the androids in this area are less prudish."
-msgstr ""
+msgstr "[_tb_] Forse gli androidi in questa zona sono meno prupiatti."
 
 # game/Quest_Rooms_Separate02.rpy:761 #-#-# translate crowdin Quest_LY_Favor_Endreaction01_0c0dc1b9:
 msgid "[_u_] This is not the case with Sherazade. "
-msgstr ""
+msgstr "[_u_] Questo non è il caso di Sherazade. "
 
 # game/Quest_Rooms_Separate02.rpy:763 #-#-# translate crowdin Quest_LY_Favor_Endreaction01_94a9d9ec:
 msgid "[_tb_] Well then, enjoy it, she may be the only one!"
-msgstr ""
+msgstr "[_tb_] Beh, allora, goderla, lei può essere l'unica!"
 
 # game/Quest_Rooms_Separate02.rpy:765 #-#-# translate crowdin Quest_LY_Favor_Endreaction01_75c02748:
 msgid "[_tb_] Good work [name]!"
-msgstr ""
+msgstr "[_tb_] Buon lavoro [name]!"
 
 # game/Quest_Rooms_Separate02.rpy:773 #-#-# translate crowdin Quest_LY_Favor_Face01_cbe0d31d:
 msgid "[_ly_] What do you mean? "
-msgstr ""
+msgstr "[_ly_] Che cosa intendi? "
 
 # game/Quest_Rooms_Separate02.rpy:774 #-#-# translate crowdin Quest_LY_Favor_Face01_ccfea37c:
 msgid "[_u_] I mean without the veil."
-msgstr ""
+msgstr "[_u_] Intendo senza velo."
 
 # game/Quest_Rooms_Separate02.rpy:776 #-#-# translate crowdin Quest_LY_Favor_Face01_4c6e48be:
 msgid "[_ly_] Oh this thing! "
-msgstr ""
+msgstr "[_ly_] Oh questa cosa! "
 
 # game/Quest_Rooms_Separate02.rpy:778 #-#-# translate crowdin Quest_LY_Favor_Face01_3f82a68a:
 msgid "[_ly_] Gosh, I must have been wearing it for months... "
-msgstr ""
+msgstr "[_ly_] Gosh, devo averlo indossato da mesi... "
 
 # game/Quest_Rooms_Separate02.rpy:779 #-#-# translate crowdin Quest_LY_Favor_Face01_f5a6b175:
 msgid "[_u_] Haven't you always worn this? "
-msgstr ""
+msgstr "[_u_] Non hai sempre indossato questo? "
 
 # game/Quest_Rooms_Separate02.rpy:781 #-#-# translate crowdin Quest_LY_Favor_Face01_1e6b5c05:
 msgid "[_ly_] I am not from this area I remind you."
-msgstr ""
+msgstr "[_ly_] Io non vengo da questa zona vi ricordo."
 
 # game/Quest_Rooms_Separate02.rpy:783 #-#-# translate crowdin Quest_LY_Favor_Face01_222dcc03:
 msgid "[_ly_] And no, it was the former sultana who made me wear it. "
-msgstr ""
+msgstr "[_ly_] E no, fu l'ex sultana a farmi indossare. "
 
 # game/Quest_Rooms_Separate02.rpy:785 #-#-# translate crowdin Quest_LY_Favor_Face01_3e6808f0:
 msgid "[_ly_] Saying that ''It is an element of the traditional dress of the palace servant.'' "
-msgstr ""
+msgstr "[_ly_] Dicendo che '''È un elemento del vestito tradizionale del servo del palazzo.'' "
 
 # game/Quest_Rooms_Separate02.rpy:787 #-#-# translate crowdin Quest_LY_Favor_Face01_a30bd9cc:
 msgid "[_ly_] It's true that I don't need to wear this thing anymore... "
-msgstr ""
+msgstr "[_ly_] È vero che non ho più bisogno di indossare questa cosa... "
 
 # game/Quest_Rooms_Separate02.rpy:794 #-#-# translate crowdin Quest_LY_Favor_Face01_a9011549:
 msgid "[_ly_] So, do you see me better like this? "
-msgstr ""
+msgstr "[_ly_] Quindi, mi vedi meglio così? "
 
 # game/Quest_Rooms_Separate02.rpy:795 #-#-# translate crowdin Quest_LY_Favor_Face01_937c5cad:
 msgid "[_u_] That's much better!"
-msgstr ""
+msgstr "[_u_] È molto meglio!"
 
 # game/Quest_Rooms_Separate02.rpy:799 #-#-# translate crowdin Quest_LY_Favor_Face01_adc71105:
 msgid "[_ly_] Oh be quiet, you silly!"
-msgstr ""
+msgstr "[_ly_] Oh sii tranquillo, sei stupido!"
 
 # game/Quest_Rooms_Separate02.rpy:801 #-#-# translate crowdin Quest_LY_Favor_Face01_1e94cadd:
 msgid "[_ly_] Maybe you should put one on yourself, it might make you look better. "
-msgstr ""
+msgstr "[_ly_] Forse dovresti metterne uno su te stesso, potrebbe farti sembrare migliore. "
 
 # game/Quest_Rooms_Separate02.rpy:802 #-#-# translate crowdin Quest_LY_Favor_Face01_1d36b916:
 msgid "[_u_] Nicely retorted."
-msgstr ""
+msgstr "[_u_] Ben ritirato."
 
 # game/Quest_Rooms_Separate02.rpy:804 #-#-# translate crowdin Quest_LY_Favor_Face01_17d811c6:
 msgid "[_ly_] Eheh"
-msgstr ""
+msgstr "[_ly_] Eheh"
 
 # game/Quest_Rooms_Separate02.rpy:807 #-#-# translate crowdin Quest_LY_Favor_Face01_535bb296:
 msgid "[_ly_] Aw, Thank you! That's so sweet."
-msgstr ""
+msgstr "[_ly_] Aw, Grazie! È così dolce."
 
 # game/Quest_Rooms_Separate02.rpy:809 #-#-# translate crowdin Quest_LY_Favor_Face01_56419d7d:
 msgid "[_ly_] I'm sure you're just happy to have stripped me a little more. "
-msgstr ""
+msgstr "[_ly_] Sono sicuro che sei solo felice di avermi spogliato un po' di più. "
 
 # game/Quest_Rooms_Separate02.rpy:812 #-#-# translate crowdin Quest_LY_Favor_Face01_464e7818:
 msgid "[_ly_] You silly little man. "
-msgstr ""
+msgstr "[_ly_] Hai stupido piccolo uomo. "
 
 # game/Quest_Rooms_Separate02.rpy:814 #-#-# translate crowdin Quest_LY_Favor_Face01_56016c7d:
 msgid "[_ly_] I love your sense of humor. "
-msgstr ""
+msgstr "[_ly_] Io amo il tuo senso dell'umorismo. "
 
 # game/Quest_Rooms_Separate02.rpy:816 #-#-# translate crowdin Quest_LY_Favor_Face01_4df598a6:
 msgid "[_u_] Can't wait to take off more of your clothes. "
-msgstr ""
+msgstr "[_u_] Non vedo l'ora di togliere più vestiti. "
 
 # game/Quest_Rooms_Separate02.rpy:818 #-#-# translate crowdin Quest_LY_Favor_Face01_6c3d60af:
 msgid "[_ly_] You really are a straightforward type, I see."
-msgstr ""
+msgstr "[_ly_] Tu sei davvero un tipo semplice, vedi."
 
 # game/Quest_Rooms_Separate02.rpy:820 #-#-# translate crowdin Quest_LY_Favor_Face01_31e2b0ac:
 msgid "[_ly_] I'm sure there are plenty of beautiful girls in the capital waiting for this."
-msgstr ""
+msgstr "[_ly_] Sono sicuro che ci sono un sacco di belle ragazze nella capitale in attesa di questo."
 
 # game/Quest_Rooms_Separate02.rpy:822 #-#-# translate crowdin Quest_LY_Favor_Face01_edfb663a:
 msgid "[_ly_] You should try with her. "
-msgstr ""
+msgstr "[_ly_] Dovresti provare con lei. "
 
 # game/Quest_Rooms_Separate02.rpy:824 #-#-# translate crowdin Quest_LY_Favor_Face01_a8467aa9:
 msgid "[_ly_]  I'll leave you here, I still have a lot of things to do."
-msgstr ""
+msgstr "[_ly_]  Vi lascio qui, ho ancora tante cose da fare."
 
 # game/Quest_Rooms_Separate02.rpy:826 #-#-# translate crowdin Quest_LY_Favor_Face01_0c28b5db:
 msgid "[_ly_] Have a nice day. "
-msgstr ""
+msgstr "[_ly_] Fai una bella giornata. "
 
 # game/Quest_Rooms_Separate02.rpy:844 #-#-# translate crowdin Quest_LY_Favor_Boobs01_a2c2c061:
 msgid "[_tb_] Take it easy, you don't want to mess it up now, do you?"
-msgstr ""
+msgstr "[_tb_] Prendilo facile, non vuoi metterlo in confusione adesso, vero?"
 
 # game/Quest_Rooms_Separate02.rpy:846 #-#-# translate crowdin Quest_LY_Favor_Boobs01_ad06671c:
 msgid "[_tb_] And yes, I know you, I know what you were going to say. "
-msgstr ""
+msgstr "[_tb_] E sì, ti conosco, so quello che stavi per dire. "
 
 # game/Quest_Rooms_Separate02.rpy:852 #-#-# translate crowdin Quest_LY_Favor_Boobs01_7b1c1392:
 msgid "[_u_] ..."
@@ -802,67 +802,67 @@ msgstr "[_u_] ..."
 
 # game/Quest_Rooms_Separate02.rpy:856 #-#-# translate crowdin Quest_LY_Favor_Boobs01_d79c46e2:
 msgid "[_ly_] That's not a request you hear every day. "
-msgstr ""
+msgstr "[_ly_] Non è una richiesta che ascolti ogni giorno. "
 
 # game/Quest_Rooms_Separate02.rpy:858 #-#-# translate crowdin Quest_LY_Favor_Boobs01_67103936:
 msgid "[_ly_] My breasts? Just that? "
-msgstr ""
+msgstr "[_ly_] I miei seni? Proprio quello? "
 
 # game/Quest_Rooms_Separate02.rpy:860 #-#-# translate crowdin Quest_LY_Favor_Boobs01_a2c9c7bc:
 msgid "[_ly_] Well, you're going to need more than just pretty words and easy moves, my good fellow."
-msgstr ""
+msgstr "[_ly_] Beh, hai bisogno di più di semplici parole e semplici mosse, il mio buon compagno."
 
 # game/Quest_Rooms_Separate02.rpy:861 #-#-# translate crowdin Quest_LY_Favor_Boobs01_e43a26e7:
 msgid "[_u_] I... uhm... "
-msgstr ""
+msgstr "[_u_] I... uhm... "
 
 # game/Quest_Rooms_Separate02.rpy:862 #-#-# translate crowdin Quest_LY_Favor_Boobs01_7e6dc08c:
 msgid "[_u_] What's on your mind? "
-msgstr ""
+msgstr "[_u_] Che cosa hai in mente? "
 
 # game/Quest_Rooms_Separate02.rpy:864 #-#-# translate crowdin Quest_LY_Favor_Boobs01_510d142d:
 msgid "[_ly_] Mh... That's a good question..."
-msgstr ""
+msgstr "[_ly_] Mh... Questa è una buona domanda..."
 
 # game/Quest_Rooms_Separate02.rpy:866 #-#-# translate crowdin Quest_LY_Favor_Boobs01_2671b163:
 msgid "[_ly_] I can ask whatever I want?"
-msgstr ""
+msgstr "[_ly_] Posso chiedere quello che voglio?"
 
 # game/Quest_Rooms_Separate02.rpy:867 #-#-# translate crowdin Quest_LY_Favor_Boobs01_d160c6a9:
 msgid "[_u_] Well... I guess so."
-msgstr ""
+msgstr "[_u_] Beh... Immagino così."
 
 # game/Quest_Rooms_Separate02.rpy:869 #-#-# translate crowdin Quest_LY_Favor_Boobs01_028aeb28:
 msgid "[_ly_] Okay, so I want you to... grant me three wishes."
-msgstr ""
+msgstr "[_ly_] Okay, quindi voglio che tu sia... concedimi tre desideri."
 
 # game/Quest_Rooms_Separate02.rpy:870 #-#-# translate crowdin Quest_LY_Favor_Boobs01_228f5ef2:
 msgid "[_u_] Three?"
-msgstr ""
+msgstr "[_u_] Tre?"
 
 # game/Quest_Rooms_Separate02.rpy:872 #-#-# translate crowdin Quest_LY_Favor_Boobs01_5f5d797d:
 msgid "[_ly_] Yeah... I want... scraps of fabric. "
-msgstr ""
+msgstr "[_ly_] Sì... Io voglio... scarti di tessuto. "
 
 # game/Quest_Rooms_Separate02.rpy:874 #-#-# translate crowdin Quest_LY_Favor_Boobs01_c6557253:
 msgid "[_ly_] ( I want to make me a new dress. )"
-msgstr ""
+msgstr "[_ly_] ( Voglio farmi un nuovo vestito)"
 
 # game/Quest_Rooms_Separate02.rpy:875 #-#-# translate crowdin Quest_LY_Favor_Boobs01_1217f1ec:
 msgid "[_u_] Okay, that's an easy one."
-msgstr ""
+msgstr "[_u_] Okay, è facile."
 
 # game/Quest_Rooms_Separate02.rpy:877 #-#-# translate crowdin Quest_LY_Favor_Boobs01_960ecc27:
 msgid "[_ly_] And then... a hair pick."
-msgstr ""
+msgstr "[_ly_] E allora... una presa di capelli."
 
 # game/Quest_Rooms_Separate02.rpy:879 #-#-# translate crowdin Quest_LY_Favor_Boobs01_cf0755d1:
 msgid "[_ly_] But not a vulgar wooden thing... "
-msgstr ""
+msgstr "[_ly_] Ma non una cosa volgare di legno... "
 
 # game/Quest_Rooms_Separate02.rpy:881 #-#-# translate crowdin Quest_LY_Favor_Boobs01_a2c92e07:
 msgid "[_ly_] I want one worthy of a princess."
-msgstr ""
+msgstr "[_ly_] voglio uno degno di una principessa."
 
 # game/Quest_Rooms_Separate02.rpy:882 #-#-# translate crowdin Quest_LY_Favor_Boobs01_7b1c1392_1:
 msgid "[_u_] ..."
@@ -870,15 +870,15 @@ msgstr "[_u_] ..."
 
 # game/Quest_Rooms_Separate02.rpy:883 #-#-# translate crowdin Quest_LY_Favor_Boobs01_fcfcda81:
 msgid "[_u_] Like in gold?"
-msgstr ""
+msgstr "[_u_] Ti piace in oro?"
 
 # game/Quest_Rooms_Separate02.rpy:885 #-#-# translate crowdin Quest_LY_Favor_Boobs01_132250f5:
 msgid "[_ly_] I was just thinking about a pretty metal one... But yes, I want a gold one. "
-msgstr ""
+msgstr "[_ly_] Stavo solo pensando a un bel metallo... Ma sì, voglio un oro uno. "
 
 # game/Quest_Rooms_Separate02.rpy:887 #-#-# translate crowdin Quest_LY_Favor_Boobs01_0a9cddff:
 msgid "[_ly_] And then the last one... well, we'll see. "
-msgstr ""
+msgstr "[_ly_] E poi l'ultimo... beh, vedremo. "
 
 # game/Quest_Rooms_Separate02.rpy:888 #-#-# translate crowdin Quest_LY_Favor_Boobs01_b0ff36fe:
 msgid "[_u_] Gosh..."
@@ -886,275 +886,275 @@ msgstr "[_u_] Accidenti..."
 
 # game/Quest_Rooms_Separate02.rpy:890 #-#-# translate crowdin Quest_LY_Favor_Boobs01_e1df7b50:
 msgid "[_ly_] What? You asked for it!"
-msgstr ""
+msgstr "[_ly_] Cosa? Lo hai chiesto!"
 
 # game/Quest_Rooms_Separate02.rpy:891 #-#-# translate crowdin Quest_LY_Favor_Boobs01_ce1929b5:
 msgid "[_u_] And then you show me your breasts? "
-msgstr ""
+msgstr "[_u_] E poi mi mostri i tuoi seni? "
 
 # game/Quest_Rooms_Separate02.rpy:893 #-#-# translate crowdin Quest_LY_Favor_Boobs01_2a9e5986:
 msgid "[_ly_] Yes, sir. "
-msgstr ""
+msgstr "[_ly_] Sì, signore. "
 
 # game/Quest_Rooms_Separate02.rpy:894 #-#-# translate crowdin Quest_LY_Favor_Boobs01_b792bf32:
 msgid "[_u_] Okay, I'll write that down somewhere."
-msgstr ""
+msgstr "[_u_] Okay, lo scriverò da qualche parte."
 
 # game/Quest_Rooms_Separate02.rpy:904 #-#-# translate crowdin Quest_LY_Favor_Boobs01_1909126c:
 msgid "[_ly_] Happy to do business with you, pretty boy ~"
-msgstr ""
+msgstr "[_ly_] Felice di fare affari con te, bel ragazzo ~"
 
 # game/Quest_Rooms_Separate02.rpy:906 #-#-# translate crowdin Quest_LY_Favor_Boobs01_0d6e3bd3:
 msgid "[_ly_] See you later !"
-msgstr ""
+msgstr "[_ly_] Ci vediamo più tardi!"
 
 # game/Quest_Rooms_Separate02.rpy:917 #-#-# translate crowdin Quest_LY_Favor_Boobs01_838ca33b:
 msgid "[_u_] Ok... 10 scraps of clothing... and a golden hair pick... "
-msgstr ""
+msgstr "[_u_] Ok... 10 scarti di abbigliamento... e una selezione di capelli dorati... "
 
 # game/Quest_Rooms_Separate02.rpy:918 #-#-# translate crowdin Quest_LY_Favor_Boobs01_7799a5b6:
 msgid "[_u_] For clothes scraps that's easy... "
-msgstr ""
+msgstr "[_u_] Per gli scarti di vestiti è facile... "
 
 # game/Quest_Rooms_Separate02.rpy:919 #-#-# translate crowdin Quest_LY_Favor_Boobs01_a71af51f:
 msgid "[_u_] But for the hair pick..."
-msgstr ""
+msgstr "[_u_] Ma per la raccolta dei capelli..."
 
 # game/Quest_Rooms_Separate02.rpy:920 #-#-# translate crowdin Quest_LY_Favor_Boobs01_9266531d:
 msgid "[_u_] That's okay. I've seen worse requests. "
-msgstr ""
+msgstr "[_u_] Va bene. Ho visto le richieste peggiori. "
 
 # game/Quest_Rooms_Separate02.rpy:927 #-#-# translate crowdin Quest_LY_Favor_Boobs01_Amandine01_02_a4646ce0:
 msgid "[_ly_] Well, That was quick, sir!"
-msgstr ""
+msgstr "[_ly_] Beh, è stato veloce, signore!"
 
 # game/Quest_Rooms_Separate02.rpy:929 #-#-# translate crowdin Quest_LY_Favor_Boobs01_Amandine01_02_c0c4dc26:
 msgid "[_ly_] I am impressed."
-msgstr ""
+msgstr "[_ly_] sono impressionato."
 
 # game/Quest_Rooms_Separate02.rpy:931 #-#-# translate crowdin Quest_LY_Favor_Boobs01_Amandine01_02_2e367037:
 msgid "[_ly_] Let me see this hair pick!"
-msgstr ""
+msgstr "[_ly_] Lasciami vedere questa selezione di capelli!"
 
 # game/Quest_Rooms_Separate02.rpy:935 #-#-# translate crowdin Quest_LY_Favor_Boobs01_Amandine01_02_dc4be63a:
 msgid "[_ly_] WOW!"
-msgstr ""
+msgstr "[_ly_] WOW!"
 
 # game/Quest_Rooms_Separate02.rpy:936 #-#-# translate crowdin Quest_LY_Favor_Boobs01_Amandine01_02_d17b618a:
 msgid "[_ly_] How did you...??? "
-msgstr ""
+msgstr "[_ly_] Come hai fatto...??? "
 
 # game/Quest_Rooms_Separate02.rpy:943 #-#-# translate crowdin Quest_LY_Favor_Boobs01_Amandine01_02_e8598404:
 msgid "[_ly_] Where did you find this??"
-msgstr ""
+msgstr "[_ly_] Dove hai trovato questo??"
 
 # game/Quest_Rooms_Separate02.rpy:945 #-#-# translate crowdin Quest_LY_Favor_Boobs01_Amandine01_02_958a894e:
 msgid "[_ly_] Did you steal it from Sherazade's jewelry box?"
-msgstr ""
+msgstr "[_ly_] Lo hai rubato dalla scatola di gioielli di Sherazade?"
 
 # game/Quest_Rooms_Separate02.rpy:946 #-#-# translate crowdin Quest_LY_Favor_Boobs01_Amandine01_02_686ed000:
 msgid "[_u_] Uh, no."
-msgstr ""
+msgstr "[_u_] Uh, no."
 
 # game/Quest_Rooms_Separate02.rpy:948 #-#-# translate crowdin Quest_LY_Favor_Boobs01_Amandine01_02_e72abf5a:
 msgid "[_ly_] I don't believe it... it's really made of gold... "
-msgstr ""
+msgstr "[_ly_] Non ci credo... è davvero fatto di oro... "
 
 # game/Quest_Rooms_Separate02.rpy:950 #-#-# translate crowdin Quest_LY_Favor_Boobs01_Amandine01_02_ccc9ac3e:
 msgid "[_ly_] Well, you... you really impress me. "
-msgstr ""
+msgstr "[_ly_] Beh, tu... mi impressiona davvero. "
 
 # game/Quest_Rooms_Separate02.rpy:952 #-#-# translate crowdin Quest_LY_Favor_Boobs01_Amandine01_02_76a8e8f9:
 msgid "[_ly_] And I'm not easily impressed."
-msgstr ""
+msgstr "[_ly_] E non sono facilmente impressionato."
 
 # game/Quest_Rooms_Separate02.rpy:954 #-#-# translate crowdin Quest_LY_Favor_Boobs01_Amandine01_02_d60e9238:
 msgid "[_ly_] But now I am. "
-msgstr ""
+msgstr "[_ly_] Ma ora sono. "
 
 # game/Quest_Rooms_Separate02.rpy:955 #-#-# translate crowdin Quest_LY_Favor_Boobs01_Amandine01_02_f58cdcd5:
 msgid "[_u_] You're welcome. "
-msgstr ""
+msgstr "[_u_] Sei il benvenuto. "
 
 # game/Quest_Rooms_Separate02.rpy:957 #-#-# translate crowdin Quest_LY_Favor_Boobs01_Amandine01_02_8b82eb69:
 msgid "[_ly_] I didn't think my boobs were worth that much ahah "
-msgstr ""
+msgstr "[_ly_] Non pensavo che le mie tette valessero così tanto ahah "
 
 # game/Quest_Rooms_Separate02.rpy:958 #-#-# translate crowdin Quest_LY_Favor_Boobs01_Amandine01_02_c576ae63:
 msgid "[_u_] Speaking of which... "
-msgstr ""
+msgstr "[_u_] Parlando di cui... "
 
 # game/Quest_Rooms_Separate02.rpy:960 #-#-# translate crowdin Quest_LY_Favor_Boobs01_Amandine01_02_d6b93d8f:
 msgid "[_ly_] Easy."
-msgstr ""
+msgstr "[_ly_] Facile."
 
 # game/Quest_Rooms_Separate02.rpy:962 #-#-# translate crowdin Quest_LY_Favor_Boobs01_Amandine01_02_2c47f34c:
 msgid "[_ly_] I asked for three wishes, I only got two. "
-msgstr ""
+msgstr "[_ly_] Ho chiesto tre desideri, ne ho solo due. "
 
 # game/Quest_Rooms_Separate02.rpy:964 #-#-# translate crowdin Quest_LY_Favor_Boobs01_Amandine01_02_cbd5fb07:
 msgid "[_ly_] And for the last one... I want a date. "
-msgstr ""
+msgstr "[_ly_] E per l'ultimo... Voglio una data. "
 
 # game/Quest_Rooms_Separate02.rpy:966 #-#-# translate crowdin Quest_LY_Favor_Boobs01_Amandine01_02_ef5eb3dc:
 msgid "[_ly_] And a proper one. "
-msgstr ""
+msgstr "[_ly_] E uno giusto. "
 
 # game/Quest_Rooms_Separate02.rpy:967 #-#-# translate crowdin Quest_LY_Favor_Boobs01_Amandine01_02_59469fe4:
 msgid "[_u_] Really? "
-msgstr ""
+msgstr "[_u_] Davvero? "
 
 # game/Quest_Rooms_Separate02.rpy:969 #-#-# translate crowdin Quest_LY_Favor_Boobs01_Amandine01_02_205a9939:
 msgid "[_ly_] Yes."
-msgstr ""
+msgstr "[_ly_] Sì."
 
 # game/Quest_Rooms_Separate02.rpy:971 #-#-# translate crowdin Quest_LY_Favor_Boobs01_Amandine01_02_83dfa536:
 msgid "[_ly_] Where I come from it's normal to make a date before doing kinky stuff."
-msgstr ""
+msgstr "[_ly_] Da dove vengo è normale fare una data prima di fare cose viziose."
 
 # game/Quest_Rooms_Separate02.rpy:973 #-#-# translate crowdin Quest_LY_Favor_Boobs01_Amandine01_02_86231d6c:
 msgid "[_ly_] I'm not asking for a fancy restaurant but hey... "
-msgstr ""
+msgstr "[_ly_] Non sto chiedendo un ristorante elegante ma hey... "
 
 # game/Quest_Rooms_Separate02.rpy:976 #-#-# translate crowdin Quest_LY_Favor_Boobs01_Amandine01_02_51afc02e:
 msgid "[_ly_] Damn... if only we could find a good burger here... or sushis..."
-msgstr ""
+msgstr "[_ly_] Damn... se solo riuscissimo a trovare un buon hamburger qui... o sushis..."
 
 # game/Quest_Rooms_Separate02.rpy:977 #-#-# translate crowdin Quest_LY_Favor_Boobs01_Amandine01_02_5fcd9181:
 msgid "[_u_] Uhh..."
-msgstr ""
+msgstr "[_u_] Uhh..."
 
 # game/Quest_Rooms_Separate02.rpy:979 #-#-# translate crowdin Quest_LY_Favor_Boobs01_Amandine01_02_17536a65:
 msgid "[_u_] Wait what?"
-msgstr ""
+msgstr "[_u_] Aspetta cosa?"
 
 # game/Quest_Rooms_Separate02.rpy:981 #-#-# translate crowdin Quest_LY_Favor_Boobs01_Amandine01_02_e917b50a:
 msgid "[_ly_] Yes, sorry, you must not know what it is..."
-msgstr ""
+msgstr "[_ly_] Sì, mi dispiace, non devi sapere cos'è..."
 
 # game/Quest_Rooms_Separate02.rpy:983 #-#-# translate crowdin Quest_LY_Favor_Boobs01_Amandine01_02_c944b04b:
 msgid "[_ly_] A burger is a kind of bread with some... "
-msgstr ""
+msgstr "[_ly_] Un hamburger è una specie di pane con alcuni... "
 
 # game/Quest_Rooms_Separate02.rpy:984 #-#-# translate crowdin Quest_LY_Favor_Boobs01_Amandine01_02_681abe19:
 msgid "[_u_] Oh holy shit... how did I not see this earlier .... "
-msgstr ""
+msgstr "[_u_] Oh santa merda... come non ho visto questo in precedenza.... "
 
 # game/Quest_Rooms_Separate02.rpy:986 #-#-# translate crowdin Quest_LY_Favor_Boobs01_Amandine01_02_e3a3bde2:
 msgid "[_u_] Tinker?? Did you hear that???"
-msgstr ""
+msgstr "[_u_] Tinker?? Lo hai sentito???"
 
 # game/Quest_Rooms_Separate02.rpy:993 #-#-# translate crowdin Quest_LY_Favor_Boobs01_Amandine01_02_dc2d9d30:
 msgid "[_tb_] Yeah, I heard that."
-msgstr ""
+msgstr "[_tb_] Sì, l'ho sentito."
 
 # game/Quest_Rooms_Separate02.rpy:994 #-#-# translate crowdin Quest_LY_Favor_Boobs01_Amandine01_02_c8b80428:
 msgid "[_tb_] Ask her the question."
-msgstr ""
+msgstr "[_tb_] Le faccia la domanda."
 
 # game/Quest_Rooms_Separate02.rpy:996 #-#-# translate crowdin Quest_LY_Favor_Boobs01_Amandine01_02_03ef3ddc:
 msgid "[_ly_] What's a tinker?"
-msgstr ""
+msgstr "[_ly_] Che cos'è un tinker?"
 
 # game/Quest_Rooms_Separate02.rpy:997 #-#-# translate crowdin Quest_LY_Favor_Boobs01_Amandine01_02_9565c505:
 msgid "[_u_] Lycoris... "
-msgstr ""
+msgstr "[_u_] Lycoris... "
 
 # game/Quest_Rooms_Separate02.rpy:1001 #-#-# translate crowdin Quest_LY_Favor_Boobs01_Amandine01_02_ebba771b:
 msgid "[_ly_] Yes?"
-msgstr ""
+msgstr "[_ly_] Sì?"
 
 # game/Quest_Rooms_Separate02.rpy:1002 #-#-# translate crowdin Quest_LY_Favor_Boobs01_Amandine01_02_e1e2e030:
 msgid "[_u_] Are you an android? "
-msgstr ""
+msgstr "[_u_] Sei un androide? "
 
 # game/Quest_Rooms_Separate02.rpy:1004 #-#-# translate crowdin Quest_LY_Favor_Boobs01_Amandine01_02_307fe10d:
 msgid "[_ly_] Umm... "
-msgstr ""
+msgstr "[_ly_] Umm... "
 
 # game/Quest_Rooms_Separate02.rpy:1006 #-#-# translate crowdin Quest_LY_Favor_Boobs01_Amandine01_02_29408ff9:
 msgid "[_ly_] I don't think so. "
-msgstr ""
+msgstr "[_ly_] Io non penso così. "
 
 # game/Quest_Rooms_Separate02.rpy:1009 #-#-# translate crowdin Quest_LY_Favor_Boobs01_Amandine01_02_b2e005e0:
 msgid "[_u_] Oh, for fuck's sake. "
-msgstr ""
+msgstr "[_u_] Oh, per amore di scopata. "
 
 # game/Quest_Rooms_Separate02.rpy:1011 #-#-# translate crowdin Quest_LY_Favor_Boobs01_Amandine01_02_c237401b:
 msgid "[_tb_] I'll be there in a second. "
-msgstr ""
+msgstr "[_tb_] ci sarò tra un secondo. "
 
 # game/Quest_Rooms_Separate02.rpy:1017 #-#-# translate crowdin Quest_LY_Favor_Boobs01_Amandine01_02_0bf53b5e:
 msgid "[_ly_] Wait, how do you know what an android is? "
-msgstr ""
+msgstr "[_ly_] Aspetta, come sai cos'è un android? "
 
 # game/Quest_Rooms_Separate02.rpy:1019 #-#-# translate crowdin Quest_LY_Favor_Boobs01_Amandine01_02_82290fe2:
 msgid "[_ly_] Are you from space too? "
-msgstr ""
+msgstr "[_ly_] Sei anche tu dallo spazio? "
 
 # game/Quest_Rooms_Separate02.rpy:1020 #-#-# translate crowdin Quest_LY_Favor_Boobs01_Amandine01_02_5f3a12f1:
 msgid "[_u_] Oh my... You have no idea where you are... "
-msgstr ""
+msgstr "[_u_] Oh mio... Non hai idea di dove sei... "
 
 # game/Quest_Rooms_Separate02.rpy:1022 #-#-# translate crowdin Quest_LY_Favor_Boobs01_Amandine01_02_a0df49e7:
 msgid "[_u_] You are on a planet-sized amusement park."
-msgstr ""
+msgstr "[_u_] Sei su un parco divertimenti di dimensioni del pianeta."
 
 # game/Quest_Rooms_Separate02.rpy:1024 #-#-# translate crowdin Quest_LY_Favor_Boobs01_Amandine01_02_3eeb17d3:
 msgid "[_ly_] ..."
-msgstr ""
+msgstr "[_ly_] ..."
 
 # game/Quest_Rooms_Separate02.rpy:1026 #-#-# translate crowdin Quest_LY_Favor_Boobs01_Amandine01_02_5fb5f80a:
 msgid "[_ly_] Are you kidding me?"
-msgstr ""
+msgstr "[_ly_] Mi stai scherzando?"
 
 # game/Quest_Rooms_Separate02.rpy:1028 #-#-# translate crowdin Quest_LY_Favor_Boobs01_Amandine01_02_b3f190a9:
 msgid "[_ly_] Wait, I don't understand... "
-msgstr ""
+msgstr "[_ly_] Aspetta, non capisco... "
 
 # game/Quest_Rooms_Separate02.rpy:1029 #-#-# translate crowdin Quest_LY_Favor_Boobs01_Amandine01_02_abb2bdcf:
 msgid "[_u_] All the characters here are androids. "
-msgstr ""
+msgstr "[_u_] Tutti i caratteri qui sono androidi. "
 
 # game/Quest_Rooms_Separate02.rpy:1031 #-#-# translate crowdin Quest_LY_Favor_Boobs01_Amandine01_02_639669eb:
 msgid "[_ly_] Are you sure you're okay?.... You're not making any sense at all."
-msgstr ""
+msgstr "[_ly_] Sei sicuro che stai bene?.... Non hai alcun senso."
 
 # game/Quest_Rooms_Separate02.rpy:1032 #-#-# translate crowdin Quest_LY_Favor_Boobs01_Amandine01_02_11779d95:
 msgid "[_u_] My boss is coming, she'll explain everything to you. "
-msgstr ""
+msgstr "[_u_] Il mio capo sta arrivando, ti spiegherà tutto. "
 
 # game/Quest_Rooms_Separate02.rpy:1040 #-#-# translate crowdin Quest_LY_Favor_Boobs01_Amandine01_02_9150323c:
 msgid "[_tb_] Hi, my name is Tinker! "
-msgstr ""
+msgstr "[_tb_] Ciao, mi chiamo Tinker! "
 
 # game/Quest_Rooms_Separate02.rpy:1041 #-#-# translate crowdin Quest_LY_Favor_Boobs01_Amandine01_02_66e8d81b:
 msgid "[_tb_] I'm the CEO++ of this park."
-msgstr ""
+msgstr "[_tb_] Sono il CEO++ di questo parco."
 
 # game/Quest_Rooms_Separate02.rpy:1043 #-#-# translate crowdin Quest_LY_Favor_Boobs01_Amandine01_02_3eeb17d3_1:
 msgid "[_ly_] ..."
-msgstr ""
+msgstr "[_ly_] ..."
 
 # game/Quest_Rooms_Separate02.rpy:1045 #-#-# translate crowdin Quest_LY_Favor_Boobs01_Amandine01_02_3eeb17d3_2:
 msgid "[_ly_] ..."
-msgstr ""
+msgstr "[_ly_] ..."
 
 # game/Quest_Rooms_Separate02.rpy:1046 #-#-# translate crowdin Quest_LY_Favor_Boobs01_Amandine01_02_27fe214e:
 msgid "[_ly_] Oh boy... my head is spinning..."
-msgstr ""
+msgstr "[_ly_] Oh ragazzo... la mia testa è filando..."
 
 # game/Quest_Rooms_Separate02.rpy:1047 #-#-# translate crowdin Quest_LY_Favor_Boobs01_Amandine01_02_ecb7a9de:
 msgid "[_ly_] I..."
-msgstr ""
+msgstr "[_ly_] I..."
 
 # game/Quest_Rooms_Separate02.rpy:1055 #-#-# translate crowdin Quest_LY_Favor_Boobs01_Amandine01_02_9b76023a:
 msgid "[_tb_] ?"
-msgstr ""
+msgstr "[_tb_] ?"
 
 # game/Quest_Rooms_Separate02.rpy:1057 #-#-# translate crowdin Quest_LY_Favor_Boobs01_Amandine01_02_7bcd8998:
 msgid "[_tb_] Maybe we should have told her more gently. "
-msgstr ""
+msgstr "[_tb_] Forse avremmo dovuto dirle più delicatamente. "
 
 # game/Quest_Rooms_Separate02.rpy:1058 #-#-# translate crowdin Quest_LY_Favor_Boobs01_Amandine01_02_42baf11e:
 msgid "[_u_] Yup."
@@ -1162,271 +1162,271 @@ msgstr "[_u_] Yup."
 
 # game/Quest_Rooms_Separate02.rpy:1060 #-#-# translate crowdin Quest_LY_Favor_Boobs01_Amandine01_02_28a5fec7:
 msgid "[_tb_] Let's take her back to the headquarter."
-msgstr ""
+msgstr "[_tb_] La riportiamo alla sede."
 
 # game/Quest_Rooms_Separate02.rpy:1070 #-#-# translate crowdin Quest_LY_Favor_Boobs01_Amandine01_02_8da2e607:
 msgid "[_a_] That's crazy..."
-msgstr ""
+msgstr "[_a_] È pazzo..."
 
 # game/Quest_Rooms_Separate02.rpy:1072 #-#-# translate crowdin Quest_LY_Favor_Boobs01_Amandine01_02_cd5e0381:
 msgid "[_a_] And she had been there for months?"
-msgstr ""
+msgstr "[_a_] Ed era lì da mesi?"
 
 # game/Quest_Rooms_Separate02.rpy:1073 #-#-# translate crowdin Quest_LY_Favor_Boobs01_Amandine01_02_ff223546:
 msgid "[_u_] Yep."
-msgstr ""
+msgstr "[_u_] Yep."
 
 # game/Quest_Rooms_Separate02.rpy:1075 #-#-# translate crowdin Quest_LY_Favor_Boobs01_Amandine01_02_42951f1a:
 msgid "[_u_] Apparently her ship crashed in the desert..."
-msgstr ""
+msgstr "[_u_] Apparentemente la sua nave si è schiantata nel deserto..."
 
 # game/Quest_Rooms_Separate02.rpy:1077 #-#-# translate crowdin Quest_LY_Favor_Boobs01_Amandine01_02_6239d298:
 msgid "[_a_] Damn."
-msgstr ""
+msgstr "[_a_] Dannazione."
 
 # game/Quest_Rooms_Separate02.rpy:1078 #-#-# translate crowdin Quest_LY_Favor_Boobs01_Amandine01_02_3d29468b:
 msgid "[_u_] Tinker is giving her a tour of the headquarters... And then we'll see."
-msgstr ""
+msgstr "[_u_] Tinker le sta dando un tour della sede... E poi vedremo."
 
 # game/Quest_Rooms_Separate02.rpy:1080 #-#-# translate crowdin Quest_LY_Favor_Boobs01_Amandine01_02_0cde6e0d:
 msgid "[_a_] Does this happen often here?"
-msgstr ""
+msgstr "[_a_] Questo accade spesso qui?"
 
 # game/Quest_Rooms_Separate02.rpy:1081 #-#-# translate crowdin Quest_LY_Favor_Boobs01_Amandine01_02_d7c3ea57:
 msgid "[_u_] Nope."
-msgstr ""
+msgstr "[_u_] Nope."
 
 # game/Quest_Rooms_Separate02.rpy:1083 #-#-# translate crowdin Quest_LY_Favor_Boobs01_Amandine01_02_79b1a779:
 msgid "[_a_] Well... anyway, now... we have no plans..."
-msgstr ""
+msgstr "[_a_] Beh, comunque... ora... non abbiamo piani..."
 
 # game/Quest_Rooms_Separate02.rpy:1084 #-#-# translate crowdin Quest_LY_Favor_Boobs01_Amandine01_02_dd8100ae:
 msgid "[_u_] It's true... do you have any idea who we could corrupt now? "
-msgstr ""
+msgstr "[_u_] È vero... hai qualche idea su chi potremmo corrompere adesso? "
 
 # game/Quest_Rooms_Separate02.rpy:1086 #-#-# translate crowdin Quest_LY_Favor_Boobs01_Amandine01_02_89c543c2:
 msgid "[_a_] I might have an idea..."
-msgstr ""
+msgstr "[_a_] Potrei avere un'idea..."
 
 # game/Quest_Rooms_Separate02.rpy:1088 #-#-# translate crowdin Quest_LY_Favor_Boobs01_Amandine01_02_5c6b763b:
 msgid "[_a_] I saw in the archives of the area that there were other princesses in the oriental palace."
-msgstr ""
+msgstr "[_a_] Ho visto negli archivi della zona che c'erano altre principesse nel palazzo orientale."
 
 # game/Quest_Rooms_Separate02.rpy:1090 #-#-# translate crowdin Quest_LY_Favor_Boobs01_Amandine01_02_9580345b:
 msgid "[_a_] There are some good candidates... but I think we could focus on one in particular."
-msgstr ""
+msgstr "[_a_] Ci sono dei buoni candidati... ma penso che potremmo concentrarci su uno in particolare."
 
 # game/Quest_Rooms_Separate02.rpy:1091 #-#-# translate crowdin Quest_LY_Favor_Boobs01_Amandine01_02_2ab4a480:
 msgid "[_u_] What is her name?"
-msgstr ""
+msgstr "[_u_] Qual è il suo nome?"
 
 # game/Quest_Rooms_Separate02.rpy:1093 #-#-# translate crowdin Quest_LY_Favor_Boobs01_Amandine01_02_f4647cea:
 msgid "[_a_] Jasmine."
-msgstr ""
+msgstr "[_a_] Gelsomino."
 
 # game/Quest_Rooms_Separate02.rpy:1112 #-#-# translate crowdin Quest_A_SW_Room_aa4514db:
 msgid "No interactions are available at this time."
-msgstr ""
+msgstr "Nessuna interazione è disponibile in questo momento."
 
 # game/Quest_Rooms_Separate02.rpy:1123 #-#-# translate crowdin Quest_A_SW_01_02_f03364d0:
 msgid "[_u_] Wow... "
-msgstr ""
+msgstr "[_u_] Wow... "
 
 # game/Quest_Rooms_Separate02.rpy:1124 #-#-# translate crowdin Quest_A_SW_01_02_c57ac80e:
 msgid "[_u_] It's been so long since I've been back here..."
-msgstr ""
+msgstr "[_u_] È passato così tanto tempo da essere tornato qui..."
 
 # game/Quest_Rooms_Separate02.rpy:1125 #-#-# translate crowdin Quest_A_SW_01_02_4f8bdb96:
 msgid "[_u_] Nothing has changed a bit. "
-msgstr ""
+msgstr "[_u_] Niente è cambiato un po'. "
 
 # game/Quest_Rooms_Separate02.rpy:1137 #-#-# translate crowdin Quest_A_SW_01_02_079fb96e:
 msgid "[_a_] So this is the famous... ''Magic Forest''?"
-msgstr ""
+msgstr "[_a_] Quindi questa è la famosa... ''Foresta Magica''?"
 
 # game/Quest_Rooms_Separate02.rpy:1139 #-#-# translate crowdin Quest_A_SW_01_02_ed180dda:
 msgid "[_a_] It's quite pretty. "
-msgstr ""
+msgstr "[_a_] È abbastanza carino. "
 
 # game/Quest_Rooms_Separate02.rpy:1142 #-#-# translate crowdin Quest_A_SW_01_02_d7b3f5be:
 msgid "[_u_] You put your old clothes back on? "
-msgstr ""
+msgstr "[_u_] Hai riposto i vecchi vestiti? "
 
 # game/Quest_Rooms_Separate02.rpy:1144 #-#-# translate crowdin Quest_A_SW_01_02_e5d2a1cd:
 msgid "[_a_] Yes... I thought it would fit in well with the atmosphere of this place."
-msgstr ""
+msgstr "[_a_] Sì... Ho pensato che sarebbe stato bene con l'atmosfera di questo luogo."
 
 # game/Quest_Rooms_Separate02.rpy:1146 #-#-# translate crowdin Quest_A_SW_01_02_2197fc2b:
 msgid "[_a_] Was it a bad idea?"
-msgstr ""
+msgstr "[_a_] Era una cattiva idea?"
 
 # game/Quest_Rooms_Separate02.rpy:1147 #-#-# translate crowdin Quest_A_SW_01_02_6d007310:
 msgid "[_u_] Oh no, don't worry, do as you feel!"
-msgstr ""
+msgstr "[_u_] Oh no, non ti preoccupare, fai come ti senti!"
 
 # game/Quest_Rooms_Separate02.rpy:1149 #-#-# translate crowdin Quest_A_SW_01_02_61cdc7e8:
 msgid "[_a_] And this is the home of the famous Snow White... "
-msgstr ""
+msgstr "[_a_] E questa è la casa del famoso Bianco della Neve... "
 
 # game/Quest_Rooms_Separate02.rpy:1151 #-#-# translate crowdin Quest_A_SW_01_02_32755e55:
 msgid "[_a_] It's crazy, I can't believe I'm actually going to meet a character from a fairy tale... "
-msgstr ""
+msgstr "[_a_] È pazzo, non riesco a credere che in realtà incontrerò un personaggio di una fiaba... "
 
 # game/Quest_Rooms_Separate02.rpy:1153 #-#-# translate crowdin Quest_A_SW_01_02_6dfba5d3:
 msgid "[_u_] Oh, don't worry, she won't bite. "
-msgstr ""
+msgstr "[_u_] Oh, non ti preoccupare, lei non morderà. "
 
 # game/Quest_Rooms_Separate02.rpy:1155 #-#-# translate crowdin Quest_A_SW_01_02_cdfcb4e6:
 msgid "[_u_] And she's usually just friendly."
-msgstr ""
+msgstr "[_u_] E di solito è solo amichevole."
 
 # game/Quest_Rooms_Separate02.rpy:1156 #-#-# translate crowdin Quest_A_SW_01_02_67f8d550:
 msgid "[_u_] So what's the plan? "
-msgstr ""
+msgstr "[_u_] Qual è il piano? "
 
 # game/Quest_Rooms_Separate02.rpy:1157 #-#-# translate crowdin Quest_A_SW_01_02_15210d99:
 msgid "[_u_] We don't need to corrupt her, do we?"
-msgstr ""
+msgstr "[_u_] Non abbiamo bisogno di corromperla, vero?"
 
 # game/Quest_Rooms_Separate02.rpy:1159 #-#-# translate crowdin Quest_A_SW_01_02_ff052336:
 msgid "[_a_] No, there's no need. Normally, it's already corrupted."
-msgstr ""
+msgstr "[_a_] No, non c'è bisogno. Normalmente, è già danneggiato."
 
 # game/Quest_Rooms_Separate02.rpy:1161 #-#-# translate crowdin Quest_A_SW_01_02_512bbf16:
 msgid "[_a_] I just have to check that her character background has no inconsistencies... "
-msgstr ""
+msgstr "[_a_] Devo solo controllare che lo sfondo del suo personaggio non abbia incoerenze... "
 
 # game/Quest_Rooms_Separate02.rpy:1163 #-#-# translate crowdin Quest_A_SW_01_02_6adcdf71:
 msgid "[_a_] ...See if she respects all her lore and I also need to test her improvisational skills."
-msgstr ""
+msgstr "[_a_] ...Vedi se rispetta tutto il suo lore e ho anche bisogno di testare le sue abilità improvvisative."
 
 # game/Quest_Rooms_Separate02.rpy:1165 #-#-# translate crowdin Quest_A_SW_01_02_0d85bd35:
 msgid "[_a_] If all goes well, we'll be able to set up the quests I've written and get the first visitors to play!"
-msgstr ""
+msgstr "[_a_] Se tutto va bene, saremo in grado di impostare le missioni che ho scritto e ottenere i primi visitatori a giocare!"
 
 # game/Quest_Rooms_Separate02.rpy:1166 #-#-# translate crowdin Quest_A_SW_01_02_3a41f774:
 msgid "[_u_] That's great!"
-msgstr ""
+msgstr "[_u_] È fantastico!"
 
 # game/Quest_Rooms_Separate02.rpy:1168 #-#-# translate crowdin Quest_A_SW_01_02_7be7ffcb:
 msgid "[_u_] So we just... ask her questions? "
-msgstr ""
+msgstr "[_u_] Quindi solo... poniamo le sue domande? "
 
 # game/Quest_Rooms_Separate02.rpy:1170 #-#-# translate crowdin Quest_A_SW_01_02_46c6ab29:
 msgid "[_a_] That's right."
-msgstr ""
+msgstr "[_a_] È giusto."
 
 # game/Quest_Rooms_Separate02.rpy:1172 #-#-# translate crowdin Quest_A_SW_01_02_b3097683:
 msgid "[_a_] Simple, isn't it? "
-msgstr ""
+msgstr "[_a_] Semplice, vero? "
 
 # game/Quest_Rooms_Separate02.rpy:1173 #-#-# translate crowdin Quest_A_SW_01_02_6daa20bd:
 msgid "[_sw_] Hello?! "
-msgstr ""
+msgstr "[_sw_] Ciao?! "
 
 # game/Quest_Rooms_Separate02.rpy:1175 #-#-# translate crowdin Quest_A_SW_01_02_f605fb3e:
 msgid "[_sw_] Is anyone here?!"
-msgstr ""
+msgstr "[_sw_] C'è qualcuno qui?!"
 
 # game/Quest_Rooms_Separate02.rpy:1177 #-#-# translate crowdin Quest_A_SW_01_02_51bbee7b:
 msgid "[_a_] God, I'm stressed!"
-msgstr ""
+msgstr "[_a_] Dio, sono stressato!"
 
 # game/Quest_Rooms_Separate02.rpy:1179 #-#-# translate crowdin Quest_A_SW_01_02_94cba5ab:
 msgid "[_u_] Don't worry, it'll be fine. "
-msgstr ""
+msgstr "[_u_] Non ti preoccupare, andrà bene. "
 
 # game/Quest_Rooms_Separate02.rpy:1189 #-#-# translate crowdin Quest_A_SW_01_02_f250a455:
 msgid "[_sw_] Huntsman?!? "
-msgstr ""
+msgstr "[_sw_] Huntsman?!? "
 
 # game/Quest_Rooms_Separate02.rpy:1191 #-#-# translate crowdin Quest_A_SW_01_02_fdbd8b61:
 msgid "[_sw_] Dear Lord, it's been so long since I've seen you!"
-msgstr ""
+msgstr "[_sw_] Caro Signore, è passato così tanto tempo da averti visto!"
 
 # game/Quest_Rooms_Separate02.rpy:1193 #-#-# translate crowdin Quest_A_SW_01_02_e2282df3:
 msgid "[_sw_] I..."
-msgstr ""
+msgstr "[_sw_] I..."
 
 # game/Quest_Rooms_Separate02.rpy:1194 #-#-# translate crowdin Quest_A_SW_01_02_d6b21821:
 msgid "[_sw_] ..."
-msgstr ""
+msgstr "[_sw_] ..."
 
 # game/Quest_Rooms_Separate02.rpy:1196 #-#-# translate crowdin Quest_A_SW_01_02_f9ae3a19:
 msgid "[_sw_] Who's the Goldilocks?"
-msgstr ""
+msgstr "[_sw_] Chi sono i Goldilock?"
 
 # game/Quest_Rooms_Separate02.rpy:1198 #-#-# translate crowdin Quest_A_SW_01_02_2bb3ec0c:
 msgid "[_a_] Hello Princess Snow White!"
-msgstr ""
+msgstr "[_a_] Ciao Principessa Biancaneve!"
 
 # game/Quest_Rooms_Separate02.rpy:1201 #-#-# translate crowdin Quest_A_SW_01_02_bf3f6a66:
 msgid "[_a_] Very pleased to meet you, I'm Amandine and... "
-msgstr ""
+msgstr "[_a_] Molto felice di incontrarti, sono Amandine e... "
 
 # game/Quest_Rooms_Separate02.rpy:1203 #-#-# translate crowdin Quest_A_SW_01_02_3584388a:
 msgid "[_sw_] Is she your wife? "
-msgstr ""
+msgstr "[_sw_] È sua moglie? "
 
 # game/Quest_Rooms_Separate02.rpy:1205 #-#-# translate crowdin Quest_A_SW_01_02_fdf95341:
 msgid "[_sw_] You... you married her? "
-msgstr ""
+msgstr "[_sw_] Tu... la hai sposata? "
 
 # game/Quest_Rooms_Separate02.rpy:1207 #-#-# translate crowdin Quest_A_SW_01_02_d5ded9f1:
 msgid "[_a_] I'm just..."
-msgstr ""
+msgstr "[_a_] Sono solo..."
 
 # game/Quest_Rooms_Separate02.rpy:1210 #-#-# translate crowdin Quest_A_SW_01_02_3273cfdb:
 msgid "[_sw_] Is that why you've been gone so long?"
-msgstr ""
+msgstr "[_sw_] È per questo che siete andati così a lungo?"
 
 # game/Quest_Rooms_Separate02.rpy:1212 #-#-# translate crowdin Quest_A_SW_01_02_c0508b0f:
 msgid "[_sw_]  I can't believe it... you married someone else... "
-msgstr ""
+msgstr "[_sw_]  non riesco a crederci... hai sposato qualcun altro... "
 
 # game/Quest_Rooms_Separate02.rpy:1215 #-#-# translate crowdin Quest_A_SW_01_02_0b3a6bb9:
 msgid "[_sw_] And what are you?"
-msgstr ""
+msgstr "[_sw_] E che cosa sei?"
 
 # game/Quest_Rooms_Separate02.rpy:1217 #-#-# translate crowdin Quest_A_SW_01_02_b9a21410:
 msgid "[_sw_] A princess? Or something like that? "
-msgstr ""
+msgstr "[_sw_] Una principessa? O qualcosa del genere? "
 
 # game/Quest_Rooms_Separate02.rpy:1220 #-#-# translate crowdin Quest_A_SW_01_02_63c180e9:
 msgid "[_sw_] I mean... I don't know what kind of princess would wear pants... "
-msgstr ""
+msgstr "[_sw_] Voglio dire... Non so che tipo di principessa indosserebbe... "
 
 # game/Quest_Rooms_Separate02.rpy:1222 #-#-# translate crowdin Quest_A_SW_01_02_02ecddd0:
 msgid "[_a_] I... "
-msgstr ""
+msgstr "[_a_] I... "
 
 # game/Quest_Rooms_Separate02.rpy:1224 #-#-# translate crowdin Quest_A_SW_01_02_6b3c3e08:
 msgid "[_a_] I'm a writer, actually. "
-msgstr ""
+msgstr "[_a_] sono uno scrittore, in realtà. "
 
 # game/Quest_Rooms_Separate02.rpy:1226 #-#-# translate crowdin Quest_A_SW_01_02_d6b21821_1:
 msgid "[_sw_] ..."
-msgstr ""
+msgstr "[_sw_] ..."
 
 # game/Quest_Rooms_Separate02.rpy:1228 #-#-# translate crowdin Quest_A_SW_01_02_450915a6:
 msgid "[_sw_] What?"
-msgstr ""
+msgstr "[_sw_] Cosa?"
 
 # game/Quest_Rooms_Separate02.rpy:1230 #-#-# translate crowdin Quest_A_SW_01_02_61316504:
 msgid "[_sw_] You married... a troubadour? A minstrel?! "
-msgstr ""
+msgstr "[_sw_] Ti sei sposato... un troubadour? Un minstrel?! "
 
 # game/Quest_Rooms_Separate02.rpy:1233 #-#-# translate crowdin Quest_A_SW_01_02_f426db32:
 msgid "[_sw_] I just can't believe it..."
-msgstr ""
+msgstr "[_sw_] non riesco proprio a crederci..."
 
 # game/Quest_Rooms_Separate02.rpy:1234 #-#-# translate crowdin Quest_A_SW_01_02_2b1f943c:
 msgid "[_a_] Er... "
-msgstr ""
+msgstr "[_a_] Er... "
 
 # game/Quest_Rooms_Separate02.rpy:1237 #-#-# translate crowdin Quest_A_SW_01_02_7fce5acd:
 msgid "[_sw_] And what? Why are you bringing her to me? "
-msgstr ""
+msgstr "[_sw_] E cosa? Perché mi stai portando da lei? "
 
 # game/Quest_Rooms_Separate02.rpy:1238 #-#-# translate crowdin Quest_A_SW_01_02_7b1c1392:
 msgid "[_u_] ..."
@@ -1434,23 +1434,23 @@ msgstr "[_u_] ..."
 
 # game/Quest_Rooms_Separate02.rpy:1250 #-#-# translate crowdin Quest_A_SW_01_02_menu1_P1_c2892256:
 msgid "[_sw_] No need, I'm not stupid you know? "
-msgstr ""
+msgstr "[_sw_] Non c'è bisogno, non sono stupido che sa? "
 
 # game/Quest_Rooms_Separate02.rpy:1252 #-#-# translate crowdin Quest_A_SW_01_02_menu1_P1_d6810279:
 msgid "[_sw_] I always knew you had a thing for blondes."
-msgstr ""
+msgstr "[_sw_] Ho sempre saputo che avevi qualcosa per le bionde."
 
 # game/Quest_Rooms_Separate02.rpy:1254 #-#-# translate crowdin Quest_A_SW_01_02_menu1_P1_34210284:
 msgid "[_u_] You're making things up."
-msgstr ""
+msgstr "[_u_] stai facendo le cose."
 
 # game/Quest_Rooms_Separate02.rpy:1256 #-#-# translate crowdin Quest_A_SW_01_02_menu1_P1_e740dfbb:
 msgid "[_sw_] You had the most beautiful black-haired woman in the whole kingdom all to yourself..."
-msgstr ""
+msgstr "[_sw_] Avevi la più bella donna dai capelli neri in tutto il regno tutto a te stesso..."
 
 # game/Quest_Rooms_Separate02.rpy:1259 #-#-# translate crowdin Quest_A_SW_01_02_menu1_P1_993d6c4f:
 msgid "[_sw_] If you haven't chosen me, it's because you have no taste, that's all. "
-msgstr ""
+msgstr "[_sw_] Se non mi hai scelto, è perché non hai gusto, è tutto. "
 
 # game/Quest_Rooms_Separate02.rpy:1261 #-#-# translate crowdin Quest_A_SW_01_02_menu1_P1_7b1c1392:
 msgid "[_u_] ..."
@@ -1458,647 +1458,647 @@ msgstr "[_u_] ..."
 
 # game/Quest_Rooms_Separate02.rpy:1262 #-#-# translate crowdin Quest_A_SW_01_02_menu1_P1_23526222:
 msgid "[_u_] Do you really call yourself the most beautiful woman in... "
-msgstr ""
+msgstr "[_u_] Ti chiami davvero la donna più bella in... "
 
 # game/Quest_Rooms_Separate02.rpy:1264 #-#-# translate crowdin Quest_A_SW_01_02_menu1_P1_049a13bd:
 msgid "[_sw_] ?!"
-msgstr ""
+msgstr "[_sw_] ?!"
 
 # game/Quest_Rooms_Separate02.rpy:1266 #-#-# translate crowdin Quest_A_SW_01_02_menu1_P1_396648ab:
 msgid "[_u_] Ok! Ok! As you wish. "
-msgstr ""
+msgstr "[_u_] Ok! Ok! Come vuoi. "
 
 # game/Quest_Rooms_Separate02.rpy:1276 #-#-# translate crowdin Quest_A_SW_01_02_menu1_P2_3e9b8da3:
 msgid "[_sw_] I'm not angry."
-msgstr ""
+msgstr "[_sw_] non sono arrabbiata."
 
 # game/Quest_Rooms_Separate02.rpy:1279 #-#-# translate crowdin Quest_A_SW_01_02_menu1_P2_0324d835:
 msgid "[_sw_] If in fact, Yes I am."
-msgstr ""
+msgstr "[_sw_] Se infatti sì, sono."
 
 # game/Quest_Rooms_Separate02.rpy:1282 #-#-# translate crowdin Quest_A_SW_01_02_menu1_P2_72216dd5:
 msgid "[_sw_] I'm angry to see that you have absolutely no taste in women. "
-msgstr ""
+msgstr "[_sw_] Sono arrabbiato per vedere che non hai assolutamente gusto nelle donne. "
 
 # game/Quest_Rooms_Separate02.rpy:1284 #-#-# translate crowdin Quest_A_SW_01_02_menu1_P2_52600eb3:
 msgid "[_sw_] No offense, Goldilocks. "
-msgstr ""
+msgstr "[_sw_] Nessuna offesa, Goldilocks. "
 
 # game/Quest_Rooms_Separate02.rpy:1286 #-#-# translate crowdin Quest_A_SW_01_02_menu1_P2_bb8e4b4e:
 msgid "[_a_] ..."
-msgstr ""
+msgstr "[_a_] ..."
 
 # game/Quest_Rooms_Separate02.rpy:1296 #-#-# translate crowdin Quest_A_SW_01_02_menu1_P2_4b0e7f04:
 msgid "[_sw_] I'm super calm."
-msgstr ""
+msgstr "[_sw_] Sono super calma."
 
 # game/Quest_Rooms_Separate02.rpy:1299 #-#-# translate crowdin Quest_A_SW_01_02_menu1_P2_b66c6a50:
 msgid "[_sw_] And what are you doing here? "
-msgstr ""
+msgstr "[_sw_] E cosa stai facendo qui? "
 
 # game/Quest_Rooms_Separate02.rpy:1301 #-#-# translate crowdin Quest_A_SW_01_02_menu1_P2_5c72ddd3:
 msgid "[_sw_] You're a strange man to bring your wife to me, you know that? "
-msgstr ""
+msgstr "[_sw_] Sei un uomo strano per portare tua moglie a me, lo sai? "
 
 # game/Quest_Rooms_Separate02.rpy:1303 #-#-# translate crowdin Quest_A_SW_01_02_menu1_P2_db4cbd5d:
 msgid "[_u_] She's not my... "
-msgstr ""
+msgstr "[_u_] Lei non è mia... "
 
 # game/Quest_Rooms_Separate02.rpy:1305 #-#-# translate crowdin Quest_A_SW_01_02_menu1_P2_40376dc3:
 msgid "[_a_] Very well, yes I admit I'm his wife. "
-msgstr ""
+msgstr "[_a_] Molto bene, sì, ammetto che sono sua moglie. "
 
 # game/Quest_Rooms_Separate02.rpy:1307 #-#-# translate crowdin Quest_A_SW_01_02_menu1_P2_da3b43c4:
 msgid "[_u_] Huh? "
-msgstr ""
+msgstr "[_u_] Huh? "
 
 # game/Quest_Rooms_Separate02.rpy:1309 #-#-# translate crowdin Quest_A_SW_01_02_menu1_P2_59ff3a6f:
 msgid "[_sw_] There you go, you see, it's not difficult!"
-msgstr ""
+msgstr "[_sw_] Ecco, vedete, non è difficile!"
 
 # game/Quest_Rooms_Separate02.rpy:1311 #-#-# translate crowdin Quest_A_SW_01_02_menu1_P2_35ab36cb:
 msgid "[_a_] And he brought me here so that... well... "
-msgstr ""
+msgstr "[_a_] E mi ha portato qui così... bene... "
 
 # game/Quest_Rooms_Separate02.rpy:1314 #-#-# translate crowdin Quest_A_SW_01_02_menu1_P2_23118407:
 msgid "[_a_] So I can write a song about you! "
-msgstr ""
+msgstr "[_a_] Così posso scrivere una canzone su di te! "
 
 # game/Quest_Rooms_Separate02.rpy:1316 #-#-# translate crowdin Quest_A_SW_01_02_menu1_P2_cf38e9e3:
 msgid "[_sw_] ?"
-msgstr ""
+msgstr "[_sw_] ?"
 
 # game/Quest_Rooms_Separate02.rpy:1318 #-#-# translate crowdin Quest_A_SW_01_02_menu1_P2_6b5aff54:
 msgid "[_sw_] Well, that's unusual..."
-msgstr ""
+msgstr "[_sw_] Beh, è insolito..."
 
 # game/Quest_Rooms_Separate02.rpy:1319 #-#-# translate crowdin Quest_A_SW_01_02_menu1_P2_11eeb31d:
 msgid "[_a_] He told me you were the most beautiful princess in the whole kingdom..."
-msgstr ""
+msgstr "[_a_] Mi disse che tu eri la principessa più bella di tutto il regno..."
 
 # game/Quest_Rooms_Separate02.rpy:1322 #-#-# translate crowdin Quest_A_SW_01_02_menu1_P2_44760ba0:
 msgid "[_a_] And that you deserved to have your name sung!"
-msgstr ""
+msgstr "[_a_] E che ti sei meritato di avere il tuo nome cantato!"
 
 # game/Quest_Rooms_Separate02.rpy:1325 #-#-# translate crowdin Quest_A_SW_01_02_menu1_P2_c3b057fe:
 msgid "[_sw_] I uh... well thank you..."
-msgstr ""
+msgstr "[_sw_] I uh... bene... grazie..."
 
 # game/Quest_Rooms_Separate02.rpy:1327 #-#-# translate crowdin Quest_A_SW_01_02_menu1_P2_be574bbb:
 msgid "[_sw_] If you really want to, then uh... "
-msgstr ""
+msgstr "[_sw_] Se vuoi davvero, allora uh... "
 
 # game/Quest_Rooms_Separate02.rpy:1329 #-#-# translate crowdin Quest_A_SW_01_02_menu1_P2_f5fc4c48:
 msgid "[_a_] All I need now is... ask you some questions about yourself!"
-msgstr ""
+msgstr "[_a_] Tutto quello di cui ho bisogno ora è... farti qualche domanda su te stesso!"
 
 # game/Quest_Rooms_Separate02.rpy:1331 #-#-# translate crowdin Quest_A_SW_01_02_menu1_P2_cf38e9e3_1:
 msgid "[_sw_] ?"
-msgstr ""
+msgstr "[_sw_] ?"
 
 # game/Quest_Rooms_Separate02.rpy:1333 #-#-# translate crowdin Quest_A_SW_01_02_menu1_P2_b60d239e:
 msgid "[_a_] To write about you properly, I need to know you. "
-msgstr ""
+msgstr "[_a_] Per scrivere su di te correttamente, ho bisogno di conoscerti. "
 
 # game/Quest_Rooms_Separate02.rpy:1335 #-#-# translate crowdin Quest_A_SW_01_02_menu1_P2_d8be3278:
 msgid "[_sw_] That makes sense."
-msgstr ""
+msgstr "[_sw_] Che ha senso."
 
 # game/Quest_Rooms_Separate02.rpy:1337 #-#-# translate crowdin Quest_A_SW_01_02_menu1_P2_d8781136:
 msgid "[_a_] If you like... maybe we can come back tomorrow."
-msgstr ""
+msgstr "[_a_] Se ti piace... forse possiamo tornare domani."
 
 # game/Quest_Rooms_Separate02.rpy:1339 #-#-# translate crowdin Quest_A_SW_01_02_menu1_P2_6b7c3b22:
 msgid "[_sw_] Yes... sure. "
-msgstr ""
+msgstr "[_sw_] Sì... sicuro. "
 
 # game/Quest_Rooms_Separate02.rpy:1340 #-#-# translate crowdin Quest_A_SW_01_02_menu1_P2_d2209233:
 msgid "[_sw_] Until tomorrow then."
-msgstr ""
+msgstr "[_sw_] Fino a domani allora."
 
 # game/Quest_Rooms_Separate02.rpy:1343 #-#-# translate crowdin Quest_A_SW_01_02_menu1_P2_d6b21821:
 msgid "[_sw_] ..."
-msgstr ""
+msgstr "[_sw_] ..."
 
 # game/Quest_Rooms_Separate02.rpy:1345 #-#-# translate crowdin Quest_A_SW_01_02_menu1_P2_6699da25:
 msgid "[_sw_] You really do have strange tastes... "
-msgstr ""
+msgstr "[_sw_] Hai davvero dei gusti strani... "
 
 # game/Quest_Rooms_Separate02.rpy:1350 #-#-# translate crowdin Quest_A_SW_01_02_menu1_P2_56302d7f:
 msgid "[_sw_] He chose a minstrel over a princess... what kind of world is this? "
-msgstr ""
+msgstr "[_sw_] Ha scelto un minstrel sopra una principessa... che tipo di mondo è questo? "
 
 # game/Quest_Rooms_Separate02.rpy:1352 #-#-# translate crowdin Quest_A_SW_01_02_menu1_P2_bb8e4b4e_1:
 msgid "[_a_] ..."
-msgstr ""
+msgstr "[_a_] ..."
 
 # game/Quest_Rooms_Separate02.rpy:1354 #-#-# translate crowdin Quest_A_SW_01_02_menu1_P2_d50974be:
 msgid "[_a_] She sounds lovely."
-msgstr ""
+msgstr "[_a_] Suona bella."
 
 # game/Quest_Rooms_Separate02.rpy:1356 #-#-# translate crowdin Quest_A_SW_01_02_menu1_P2_b44a62a9:
 msgid "[_a_] I didn't expect to see a jealous Snow White, but... it's pretty funny. "
-msgstr ""
+msgstr "[_a_] non mi aspettavo di vedere un geloso bianco neve, ma... è abbastanza divertente. "
 
 # game/Quest_Rooms_Separate02.rpy:1358 #-#-# translate crowdin Quest_A_SW_01_02_menu1_P2_36f96d6a:
 msgid "[_a_] It's going to be more interesting than expected."
-msgstr ""
+msgstr "[_a_] Sarà più interessante del previsto."
 
 # game/Quest_Rooms_Separate02.rpy:1359 #-#-# translate crowdin Quest_A_SW_01_02_menu1_P2_1b11717e:
 msgid "[_u_] So... you're my wife now? "
-msgstr ""
+msgstr "[_u_] Quindi... sei mia moglie ora? "
 
 # game/Quest_Rooms_Separate02.rpy:1362 #-#-# translate crowdin Quest_A_SW_01_02_menu1_P2_6c5b02c5:
 msgid "[_a_] What? She didn't seem to want to move on, so... "
-msgstr ""
+msgstr "[_a_] Cosa? Lei non sembrava voler andare avanti, così... "
 
 # game/Quest_Rooms_Separate02.rpy:1364 #-#-# translate crowdin Quest_A_SW_01_02_menu1_P2_d7f595cd:
 msgid "[_a_] I thought I'd follow her story!"
-msgstr ""
+msgstr "[_a_] pensavo che avrei seguito la sua storia!"
 
 # game/Quest_Rooms_Separate02.rpy:1366 #-#-# translate crowdin Quest_A_SW_01_02_menu1_P2_d51e24d7:
 msgid "[_a_] And then... it's pretty funny."
-msgstr ""
+msgstr "[_a_] E allora... è abbastanza divertente."
 
 # game/Quest_Rooms_Separate02.rpy:1368 #-#-# translate crowdin Quest_A_SW_01_02_menu1_P2_a88756c5:
 msgid "[_a_] ''[name] De Beauregard''... It suits you. "
-msgstr ""
+msgstr "[_a_] ''[name] De Beauregard'... Ti va bene. "
 
 # game/Quest_Rooms_Separate02.rpy:1369 #-#-# translate crowdin Quest_A_SW_01_02_menu1_P2_d0554903:
 msgid "[_u_] Really? I'm the one who took your last name? "
-msgstr ""
+msgstr "[_u_] Davvero? Sono colui che ha preso il tuo cognome? "
 
 # game/Quest_Rooms_Separate02.rpy:1371 #-#-# translate crowdin Quest_A_SW_01_02_menu1_P2_ff434bef:
 msgid "[_a_] Yep. Too late, it's done now."
-msgstr ""
+msgstr "[_a_] Yep. Troppo tardi, è fatto ora."
 
 # game/Quest_Rooms_Separate02.rpy:1372 #-#-# translate crowdin Quest_A_SW_01_02_menu1_P2_f31c5072:
 msgid "[_u_] Damn."
-msgstr ""
+msgstr "[_u_] Dannazione."
 
 # game/Quest_Rooms_Separate02.rpy:1374 #-#-# translate crowdin Quest_A_SW_01_02_menu1_P2_c4d71f90:
 msgid "[_a_] Let's meet back here tomorrow at the same time. Is that okay with you? "
-msgstr ""
+msgstr "[_a_] Incontriamoci qui domani allo stesso tempo. Va bene con te? "
 
 # game/Quest_Rooms_Separate02.rpy:1375 #-#-# translate crowdin Quest_A_SW_01_02_menu1_P2_0843481e:
 msgid "[_u_] As you wish, dear wife."
-msgstr ""
+msgstr "[_u_] Come vuoi, cara moglie."
 
 # game/Quest_Rooms_Separate02.rpy:1377 #-#-# translate crowdin Quest_A_SW_01_02_menu1_P2_81fe94a5:
 msgid "[_a_] Perfect. "
-msgstr ""
+msgstr "[_a_] Perfetto. "
 
 # game/Quest_Rooms_Separate02.rpy:1408 #-#-# translate crowdin Quest_A_SW_01_03_6758fada:
 msgid "[_a_] Hi there!"
-msgstr ""
+msgstr "[_a_] Ciao!"
 
 # game/Quest_Rooms_Separate02.rpy:1409 #-#-# translate crowdin Quest_A_SW_01_03_c11e14e1:
 msgid "[_u_] So, what's the plan today? "
-msgstr ""
+msgstr "[_u_] Quindi, qual è il piano oggi? "
 
 # game/Quest_Rooms_Separate02.rpy:1411 #-#-# translate crowdin Quest_A_SW_01_03_3d27822c:
 msgid "[_a_] Let's ask her a few simple questions and see if everything fits together."
-msgstr ""
+msgstr "[_a_] Facciamo alcune semplici domande e vediamo se tutto si adatta insieme."
 
 # game/Quest_Rooms_Separate02.rpy:1413 #-#-# translate crowdin Quest_A_SW_01_03_59a2a001:
 msgid "[_a_] Like her name, age... simple stuff!"
-msgstr ""
+msgstr "[_a_] Come il suo nome, età... roba semplice!"
 
 # game/Quest_Rooms_Separate02.rpy:1415 #-#-# translate crowdin Quest_A_SW_01_03_aa60143d:
 msgid "[_a_] And we'll get to the more complicated stuff later. "
-msgstr ""
+msgstr "[_a_] E arriveremo alle cose più complicate più tardi. "
 
 # game/Quest_Rooms_Separate02.rpy:1417 #-#-# translate crowdin Quest_A_SW_01_03_3008fd17:
 msgid "[_u_] Sounds simple. "
-msgstr ""
+msgstr "[_u_] Suona semplice. "
 
 # game/Quest_Rooms_Separate02.rpy:1418 #-#-# translate crowdin Quest_A_SW_01_03_9653b41d:
 msgid "[_sw_] You again? "
-msgstr ""
+msgstr "[_sw_] Di nuovo? "
 
 # game/Quest_Rooms_Separate02.rpy:1422 #-#-# translate crowdin Quest_A_SW_01_03_fc2f7fc3:
 msgid "[_sw_] Have you finished writing my song? "
-msgstr ""
+msgstr "[_sw_] Hai finito di scrivere la mia canzone? "
 
 # game/Quest_Rooms_Separate02.rpy:1425 #-#-# translate crowdin Quest_A_SW_01_03_ff691bf5:
 msgid "[_a_] Not really. We need to ask you a few questions first. "
-msgstr ""
+msgstr "[_a_] Non davvero. Abbiamo bisogno di farti alcune domande prima. "
 
 # game/Quest_Rooms_Separate02.rpy:1427 #-#-# translate crowdin Quest_A_SW_01_03_3484b653:
 msgid "[_a_] Just to find out more about you. "
-msgstr ""
+msgstr "[_a_] Solo per saperne di più su di te. "
 
 # game/Quest_Rooms_Separate02.rpy:1429 #-#-# translate crowdin Quest_A_SW_01_03_1785b078:
 msgid "[_sw_] Meh..."
-msgstr ""
+msgstr "[_sw_] Meh..."
 
 # game/Quest_Rooms_Separate02.rpy:1431 #-#-# translate crowdin Quest_A_SW_01_03_df99f5c1:
 msgid "[_sw_] Doesn't sound like much fun."
-msgstr ""
+msgstr "[_sw_] Non sembra molto divertente."
 
 # game/Quest_Rooms_Separate02.rpy:1433 #-#-# translate crowdin Quest_A_SW_01_03_b0901833:
 msgid "[_sw_] Very well... Go on... What do you want to know? "
-msgstr ""
+msgstr "[_sw_] Molto bene... Vai su... Cosa vuoi sapere? "
 
 # game/Quest_Rooms_Separate02.rpy:1451 #-#-# translate crowdin Quest_A_SW_01_03_P1_2eabb15c:
 msgid "[_sw_] Really? "
-msgstr ""
+msgstr "[_sw_] Davvero? "
 
 # game/Quest_Rooms_Separate02.rpy:1453 #-#-# translate crowdin Quest_A_SW_01_03_P1_44437468:
 msgid "[_sw_] My god... it's going to take forever if you only ask such futile questions. "
-msgstr ""
+msgstr "[_sw_] Mio dio... ci vorrà per sempre se farai solo domande così inutili. "
 
 # game/Quest_Rooms_Separate02.rpy:1455 #-#-# translate crowdin Quest_A_SW_01_03_P1_b28e0c76:
 msgid "[_sw_] My name is Snow White."
-msgstr ""
+msgstr "[_sw_] Il mio nome è bianco neve."
 
 # game/Quest_Rooms_Separate02.rpy:1465 #-#-# translate crowdin Quest_A_SW_01_03_P2_5257476b:
 msgid "[_sw_] I am 21 years old"
-msgstr ""
+msgstr "[_sw_] Ho 21 anni"
 
 # game/Quest_Rooms_Separate02.rpy:1474 #-#-# translate crowdin Quest_A_SW_01_03_P3_ec98fed6:
 msgid "[_sw_] ... I'm a Princess. "
-msgstr ""
+msgstr "[_sw_] ... sono una principessa. "
 
 # game/Quest_Rooms_Separate02.rpy:1481 #-#-# translate crowdin Quest_A_SW_01_03_menu1_END_c8f7b09e:
 msgid "[_sw_] Okay, it's boring as hell. "
-msgstr ""
+msgstr "[_sw_] Okay, è noioso come l'inferno. "
 
 # game/Quest_Rooms_Separate02.rpy:1483 #-#-# translate crowdin Quest_A_SW_01_03_menu1_END_e30c9386:
 msgid "[_sw_] How about spicing things up a bit? "
-msgstr ""
+msgstr "[_sw_] Che ne dici di speziare un po 'le cose? "
 
 # game/Quest_Rooms_Separate02.rpy:1486 #-#-# translate crowdin Quest_A_SW_01_03_menu1_END_fd6ef31e:
 msgid "[_sw_] For every question you ask me, Amandine will answer them first. "
-msgstr ""
+msgstr "[_sw_] Per ogni domanda che mi poni, Amandine risponderà loro prima. "
 
 # game/Quest_Rooms_Separate02.rpy:1488 #-#-# translate crowdin Quest_A_SW_01_03_menu1_END_4543e4f8:
 msgid "[_a_] That's fine with me. "
-msgstr ""
+msgstr "[_a_] Va bene con me. "
 
 # game/Quest_Rooms_Separate02.rpy:1491 #-#-# translate crowdin Quest_A_SW_01_03_menu1_END_bad6600a:
 msgid "[_sw_] Great."
-msgstr ""
+msgstr "[_sw_] Grande."
 
 # game/Quest_Rooms_Separate02.rpy:1493 #-#-# translate crowdin Quest_A_SW_01_03_menu1_END_f9330df6:
 msgid "[_sw_] Maybe I'll finally understand what [name] finds so interesting about you!"
-msgstr ""
+msgstr "[_sw_] Forse capirò finalmente cosa [name] trova così interessante su di te!"
 
 # game/Quest_Rooms_Separate02.rpy:1508 #-#-# translate crowdin Quest_A_SW_01_03_menu2_P1_80fad806:
 msgid "[_a_] I'd say it's blue. "
-msgstr ""
+msgstr "[_a_] direi che è blu. "
 
 # game/Quest_Rooms_Separate02.rpy:1511 #-#-# translate crowdin Quest_A_SW_01_03_menu2_P1_e03c90c5:
 msgid "[_sw_] Pff... that's a poor choice. I choose red. "
-msgstr ""
+msgstr "[_sw_] Pff... è una scelta povera. Ho scelto il rosso. "
 
 # game/Quest_Rooms_Separate02.rpy:1519 #-#-# translate crowdin Quest_A_SW_01_03_menu2_P2_7e957c52:
 msgid "[_a_] The dog! I've always found corgis super cutes and..."
-msgstr ""
+msgstr "[_a_] Il cane! Ho sempre trovato corgis super cutes e..."
 
 # game/Quest_Rooms_Separate02.rpy:1522 #-#-# translate crowdin Quest_A_SW_01_03_menu2_P2_958d2f0a:
 msgid "[_sw_] Yes okay, we get the idea! I choose the Deer!"
-msgstr ""
+msgstr "[_sw_] Sì bene, otteniamo l'idea! Ho scelto il cervi!"
 
 # game/Quest_Rooms_Separate02.rpy:1535 #-#-# translate crowdin Quest_A_SW_01_03_menu2_END_ea3d7b08:
 msgid "[_sw_] Now, let's move on to more daring questions. "
-msgstr ""
+msgstr "[_sw_] Ora, passiamo a domande più audaci. "
 
 # game/Quest_Rooms_Separate02.rpy:1537 #-#-# translate crowdin Quest_A_SW_01_03_menu2_END_1a24378b:
 msgid "[_a_] All right, that's fine with me."
-msgstr ""
+msgstr "[_a_] Va bene, va bene con me."
 
 # game/Quest_Rooms_Separate02.rpy:1539 #-#-# translate crowdin Quest_A_SW_01_03_menu2_END_524f8d02:
 msgid "[_u_] Mh... well... let's see... "
-msgstr ""
+msgstr "[_u_] Mh... beh, vediamo... "
 
 # game/Quest_Rooms_Separate02.rpy:1554 #-#-# translate crowdin Quest_A_SW_01_03_menu2_END_49116b66:
 msgid "[_sw_] Aaaaah! Now that's a more interesting question!"
-msgstr ""
+msgstr "[_sw_] Aaaaah! Ora è una domanda più interessante!"
 
 # game/Quest_Rooms_Separate02.rpy:1556 #-#-# translate crowdin Quest_A_SW_01_03_menu2_END_cc7e6aba:
 msgid "[_sw_] So, little lady, what's your answer? "
-msgstr ""
+msgstr "[_sw_] Quindi, piccola signora, qual è la tua risposta? "
 
 # game/Quest_Rooms_Separate02.rpy:1558 #-#-# translate crowdin Quest_A_SW_01_03_menu2_END_bb08ef0e:
 msgid "[_a_] Oh well, I'd say... "
-msgstr ""
+msgstr "[_a_] Oh bene, direi che... "
 
 # game/Quest_Rooms_Separate02.rpy:1561 #-#-# translate crowdin Quest_A_SW_01_03_menu2_END_ef4ac3b4:
 msgid "[_a_] At least a good hundred or so!"
-msgstr ""
+msgstr "[_a_] Almeno un buon centinaio!"
 
 # game/Quest_Rooms_Separate02.rpy:1564 #-#-# translate crowdin Quest_A_SW_01_03_menu2_END_9ed4da81:
 msgid "[_a_] At least 10 or 20 times a day!"
-msgstr ""
+msgstr "[_a_] Almeno 10 o 20 volte al giorno!"
 
 # game/Quest_Rooms_Separate02.rpy:1567 #-#-# translate crowdin Quest_A_SW_01_03_menu2_END_2e47557e:
 msgid "[_a_] Oh, definitely doggy style. I love doggy style. "
-msgstr ""
+msgstr "[_a_] Oh, decisamente alla pecorina. Amo la doggy style. "
 
 # game/Quest_Rooms_Separate02.rpy:1569 #-#-# translate crowdin Quest_A_SW_01_03_menu2_END_57e71dc9:
 msgid "[_a_] But like, tied up with leather ropes."
-msgstr ""
+msgstr "[_a_] Ma come, legato con corde di cuoio."
 
 # game/Quest_Rooms_Separate02.rpy:1572 #-#-# translate crowdin Quest_A_SW_01_03_menu2_END_d6b21821:
 msgid "[_sw_] ..."
-msgstr ""
+msgstr "[_sw_] ..."
 
 # game/Quest_Rooms_Separate02.rpy:1575 #-#-# translate crowdin Quest_A_SW_01_03_menu2_END_1f93e835:
 msgid "[_sw_] You're lying. "
-msgstr ""
+msgstr "[_sw_] sta mentendo. "
 
 # game/Quest_Rooms_Separate02.rpy:1577 #-#-# translate crowdin Quest_A_SW_01_03_menu2_END_7d54123a:
 msgid "[_a_] Mh?"
-msgstr ""
+msgstr "[_a_] Mh?"
 
 # game/Quest_Rooms_Separate02.rpy:1579 #-#-# translate crowdin Quest_A_SW_01_03_menu2_END_6f0ca78c:
 msgid "[_sw_] I know when a woman is lying. I can feel it. "
-msgstr ""
+msgstr "[_sw_] So quando una donna sta mentendo. Posso sentirlo. "
 
 # game/Quest_Rooms_Separate02.rpy:1581 #-#-# translate crowdin Quest_A_SW_01_03_menu2_END_eb29e2a8:
 msgid "[_a_] I'm not..."
-msgstr ""
+msgstr "[_a_] Non sono..."
 
 # game/Quest_Rooms_Separate02.rpy:1583 #-#-# translate crowdin Quest_A_SW_01_03_menu2_END_c551d9f3:
 msgid "[_sw_] I grew up in a castle with a manipulative queen! I know what a lie is!"
-msgstr ""
+msgstr "[_sw_] Sono cresciuto in un castello con una regina manipolativa! So cos'è una bugia!"
 
 # game/Quest_Rooms_Separate02.rpy:1585 #-#-# translate crowdin Quest_A_SW_01_03_menu2_END_02ecddd0:
 msgid "[_a_] I... "
-msgstr ""
+msgstr "[_a_] I... "
 
 # game/Quest_Rooms_Separate02.rpy:1587 #-#-# translate crowdin Quest_A_SW_01_03_menu2_END_59b1e469:
 msgid "[_sw_] Mh... if you're not even honest with me, there's no point in making a song about me!"
-msgstr ""
+msgstr "[_sw_] Mh... se non sei nemmeno onesto con me, non ha senso fare una canzone su di me!"
 
 # game/Quest_Rooms_Separate02.rpy:1589 #-#-# translate crowdin Quest_A_SW_01_03_menu2_END_9bd7a32f:
 msgid "[_sw_] And then... are you really a minstrel? "
-msgstr ""
+msgstr "[_sw_] E allora... sei davvero un minstrel? "
 
 # game/Quest_Rooms_Separate02.rpy:1591 #-#-# translate crowdin Quest_A_SW_01_03_menu2_END_713bcc6b:
 msgid "[_a_] Yes, I... "
-msgstr ""
+msgstr "[_a_] Sì, I... "
 
 # game/Quest_Rooms_Separate02.rpy:1593 #-#-# translate crowdin Quest_A_SW_01_03_menu2_END_4958b1e7:
 msgid "[_sw_] If you were one, you'd have to have a hat. Like with feathers and stuff. "
-msgstr ""
+msgstr "[_sw_] Se fossi uno, dovresti avere un cappello. Come con le piume e le cose. "
 
 # game/Quest_Rooms_Separate02.rpy:1595 #-#-# translate crowdin Quest_A_SW_01_03_menu2_END_b0a3a36a:
 msgid "[_sw_] It's all very suspicious. "
-msgstr ""
+msgstr "[_sw_] È tutto molto sospetto. "
 
 # game/Quest_Rooms_Separate02.rpy:1598 #-#-# translate crowdin Quest_A_SW_01_03_menu2_END_11e961d7:
 msgid "[_sw_] A lying woman isn't worthy of writing a song about me!"
-msgstr ""
+msgstr "[_sw_] Una donna sdraiata non merita di scrivere una canzone su di me!"
 
 # game/Quest_Rooms_Separate02.rpy:1603 #-#-# translate crowdin Quest_A_SW_01_03_menu2_END_bb8e4b4e:
 msgid "[_a_] ..."
-msgstr ""
+msgstr "[_a_] ..."
 
 # game/Quest_Rooms_Separate02.rpy:1605 #-#-# translate crowdin Quest_A_SW_01_03_menu2_END_359613ab:
 msgid "[_a_] Now that's strange... "
-msgstr ""
+msgstr "[_a_] Ora è strano... "
 
 # game/Quest_Rooms_Separate02.rpy:1608 #-#-# translate crowdin Quest_A_SW_01_03_menu2_END_93d88e69:
 msgid "[_a_] She saw right through my first lie... "
-msgstr ""
+msgstr "[_a_] Ha visto proprio attraverso la mia prima menzogna... "
 
 # game/Quest_Rooms_Separate02.rpy:1610 #-#-# translate crowdin Quest_A_SW_01_03_menu2_END_3d408fb2:
 msgid "[_a_] Hey, Melissandre!"
-msgstr ""
+msgstr "[_a_] Hey, Melissandre!"
 
 # game/Quest_Rooms_Separate02.rpy:1619 #-#-# translate crowdin Quest_A_SW_01_03_menu2_END_949a8dd0:
 msgid "[_ml_] Yup?"
-msgstr ""
+msgstr "[_ml_] Yup?"
 
 # game/Quest_Rooms_Separate02.rpy:1621 #-#-# translate crowdin Quest_A_SW_01_03_menu2_END_886d8b84:
 msgid "[_a_] Can you check Snow White's ''thought detection' level? "
-msgstr ""
+msgstr "[_a_] Riesci a controllare il livello ''rilevamento pensiero' del bianco della neve'? "
 
 # game/Quest_Rooms_Separate02.rpy:1623 #-#-# translate crowdin Quest_A_SW_01_03_menu2_END_faca0a04:
 msgid "[_ml_] Yeah, of course!"
-msgstr ""
+msgstr "[_ml_] Sì, ovviamente!"
 
 # game/Quest_Rooms_Separate02.rpy:1625 #-#-# translate crowdin Quest_A_SW_01_03_menu2_END_69a963b9:
 msgid "[_ml_] So let's see... Dexterity... Emotional... Intelligence... "
-msgstr ""
+msgstr "[_ml_] Quindi vediamo... Dexterity... Emotional... Intelligence... "
 
 # game/Quest_Rooms_Separate02.rpy:1628 #-#-# translate crowdin Quest_A_SW_01_03_menu2_END_9237397c:
 msgid "[_ml_] Ah, that's odd..."
-msgstr ""
+msgstr "[_ml_] Ah, è strano..."
 
 # game/Quest_Rooms_Separate02.rpy:1630 #-#-# translate crowdin Quest_A_SW_01_03_menu2_END_85b501b6:
 msgid "[_ml_] Her thought detection is 9/10!"
-msgstr ""
+msgstr "[_ml_] Il suo rilevamento del pensiero è 9/10!"
 
 # game/Quest_Rooms_Separate02.rpy:1632 #-#-# translate crowdin Quest_A_SW_01_03_menu2_END_6dbcac30:
 msgid "[_ml_] It doesn't make any sense... Looks like someone changed the values of this android to... "
-msgstr ""
+msgstr "[_ml_] Non ha alcun senso... Sembra che qualcuno abbia cambiato i valori di questo android a... "
 
 # game/Quest_Rooms_Separate02.rpy:1634 #-#-# translate crowdin Quest_A_SW_01_03_menu2_END_d812a353:
 msgid "[_a_] ...Turn her into a lie detector? "
-msgstr ""
+msgstr "[_a_] ... trasformala in un rivelatore di bugie? "
 
 # game/Quest_Rooms_Separate02.rpy:1636 #-#-# translate crowdin Quest_A_SW_01_03_menu2_END_ac5bb0cf:
 msgid "[_ml_] Yep."
-msgstr ""
+msgstr "[_ml_] Yep."
 
 # game/Quest_Rooms_Separate02.rpy:1638 #-#-# translate crowdin Quest_A_SW_01_03_menu2_END_adfbaafa:
 msgid "[_ml_] But on top of that, the parameters are locked..."
-msgstr ""
+msgstr "[_ml_] Ma in cima a quello, i parametri sono bloccati..."
 
 # game/Quest_Rooms_Separate02.rpy:1640 #-#-# translate crowdin Quest_A_SW_01_03_menu2_END_ce8bc21f:
 msgid "[_ml_] Even if it seems to be quite experimental... This isn't amateur work."
-msgstr ""
+msgstr "[_ml_] Anche se sembra essere abbastanza sperimentale... Questo non è lavoro dilettante."
 
 # game/Quest_Rooms_Separate02.rpy:1642 #-#-# translate crowdin Quest_A_SW_01_03_menu2_END_fdb34999:
 msgid "[_ml_] And I have no idea how to remove this."
-msgstr ""
+msgstr "[_ml_] E non ho idea di come rimuovere questo."
 
 # game/Quest_Rooms_Separate02.rpy:1644 #-#-# translate crowdin Quest_A_SW_01_03_menu2_END_bb8e4b4e_1:
 msgid "[_a_] ..."
-msgstr ""
+msgstr "[_a_] ..."
 
 # game/Quest_Rooms_Separate02.rpy:1646 #-#-# translate crowdin Quest_A_SW_01_03_menu2_END_d1adf163:
 msgid "[_ml_] Don't look at me like that, I'm originally just an intern! I don't know how everything works!"
-msgstr ""
+msgstr "[_ml_] Non mi guardi così, in origine sono solo uno stagista! Non so come funziona tutto!"
 
 # game/Quest_Rooms_Separate02.rpy:1653 #-#-# translate crowdin Quest_A_SW_01_03_menu2_END_af43aead:
 msgid "[_a_] Gosh..."
-msgstr ""
+msgstr "[_a_] Gosh..."
 
 # game/Quest_Rooms_Separate02.rpy:1657 #-#-# translate crowdin Quest_A_SW_01_03_menu2_END_ecadc167:
 msgid "[_a_] Okay, we've got a problem... "
-msgstr ""
+msgstr "[_a_] Okay, abbiamo un problema... "
 
 # game/Quest_Rooms_Separate02.rpy:1658 #-#-# translate crowdin Quest_A_SW_01_03_menu2_END_3b39df6c:
 msgid "[_u_] What? What's the matter? "
-msgstr ""
+msgstr "[_u_] Cosa? Qual è la questione? "
 
 # game/Quest_Rooms_Separate02.rpy:1660 #-#-# translate crowdin Quest_A_SW_01_03_menu2_END_44e9379b:
 msgid "[_a_] I... I'm not going to be able to keep up the Snow White work. "
-msgstr ""
+msgstr "[_a_] Io... Non sarò in grado di mantenere il lavoro della neve bianca. "
 
 # game/Quest_Rooms_Separate02.rpy:1661 #-#-# translate crowdin Quest_A_SW_01_03_menu2_END_59469fe4:
 msgid "[_u_] Really? "
-msgstr ""
+msgstr "[_u_] Davvero? "
 
 # game/Quest_Rooms_Separate02.rpy:1663 #-#-# translate crowdin Quest_A_SW_01_03_menu2_END_c17ecf83:
 msgid "[_a_] I'm not like you... I... I never talk about my life like that!"
-msgstr ""
+msgstr "[_a_] Non sono come te... io non parlo mai della mia vita così!"
 
 # game/Quest_Rooms_Separate02.rpy:1665 #-#-# translate crowdin Quest_A_SW_01_03_menu2_END_ec4cfbe7:
 msgid "[_a_] And especially not my sex life... "
-msgstr ""
+msgstr "[_a_] E soprattutto non la mia vita sessuale... "
 
 # game/Quest_Rooms_Separate02.rpy:1667 #-#-# translate crowdin Quest_A_SW_01_03_menu2_END_9688feab:
 msgid "[_u_] You mean you didn't really sleep with 100 men? "
-msgstr ""
+msgstr "[_u_] Vuoi dire che non hai davvero dormito con 100 uomini? "
 
 # game/Quest_Rooms_Separate02.rpy:1669 #-#-# translate crowdin Quest_A_SW_01_03_menu2_END_86beedff:
 msgid "[_a_] I haven't enjoyed life as much as you, my dear."
-msgstr ""
+msgstr "[_a_] Non mi è piaciuta la vita tanto quanto te, mia cara."
 
 # game/Quest_Rooms_Separate02.rpy:1671 #-#-# translate crowdin Quest_A_SW_01_03_menu2_END_70a2daa3:
 msgid "[_u_] You mean you don't spend your days masturbating?! "
-msgstr ""
+msgstr "[_u_] Vuoi dire che non trascorri le tue giornate a masturbarsi?! "
 
 # game/Quest_Rooms_Separate02.rpy:1673 #-#-# translate crowdin Quest_A_SW_01_03_menu2_END_ff5a79f6:
 msgid "[_u_] That's very disappointing. "
-msgstr ""
+msgstr "[_u_] È molto deludente. "
 
 # game/Quest_Rooms_Separate02.rpy:1675 #-#-# translate crowdin Quest_A_SW_01_03_menu2_END_3eb2c2a8:
 msgid "[_a_] Strangely enough, no."
-msgstr ""
+msgstr "[_a_] Stranamente, no."
 
 # game/Quest_Rooms_Separate02.rpy:1677 #-#-# translate crowdin Quest_A_SW_01_03_menu2_END_4128eb52:
 msgid "[_u_] What a disappointment. I had already planned to give you leather cords for your birthday. "
-msgstr ""
+msgstr "[_u_] Che delusione. Avevo già pianificato di darti delle corde di cuoio per il tuo compleanno. "
 
 # game/Quest_Rooms_Separate02.rpy:1679 #-#-# translate crowdin Quest_A_SW_01_03_menu2_END_926f46ca:
 msgid "[_a_] Choose a book, it's often a safe bet with me."
-msgstr ""
+msgstr "[_a_] Scegli un libro, è spesso una scommessa sicura con me."
 
 # game/Quest_Rooms_Separate02.rpy:1680 #-#-# translate crowdin Quest_A_SW_01_03_menu2_END_76621713:
 msgid "[_u_] So.. do you want me to finish the job with Snow White alone? "
-msgstr ""
+msgstr "[_u_] So.. vuoi che io finisca il lavoro con Snow White da solo? "
 
 # game/Quest_Rooms_Separate02.rpy:1682 #-#-# translate crowdin Quest_A_SW_01_03_menu2_END_2ac0d700:
 msgid "[_a_] No!"
-msgstr ""
+msgstr "[_a_] No!"
 
 # game/Quest_Rooms_Separate02.rpy:1684 #-#-# translate crowdin Quest_A_SW_01_03_menu2_END_02ecddd0_1:
 msgid "[_a_] I... "
-msgstr ""
+msgstr "[_a_] I... "
 
 # game/Quest_Rooms_Separate02.rpy:1686 #-#-# translate crowdin Quest_A_SW_01_03_menu2_END_1f010964:
 msgid "[_a_] Gosh... I don't know!"
-msgstr ""
+msgstr "[_a_] Gosh... Non lo so!"
 
 # game/Quest_Rooms_Separate02.rpy:1688 #-#-# translate crowdin Quest_A_SW_01_03_menu2_END_d26a2ff2:
 msgid "[_a_] Well, just give me a little time. I'll think about it. "
-msgstr ""
+msgstr "[_a_] Beh, mi dia un po' di tempo. Ci penserò. "
 
 # game/Quest_Rooms_Separate02.rpy:1690 #-#-# translate crowdin Quest_A_SW_01_03_menu2_END_5397c759:
 msgid "[_a_] I'll see you later, [name]."
-msgstr ""
+msgstr "[_a_] Ti vedrò più tardi, [name]."
 
 # game/Quest_Rooms_Separate02.rpy:1694 #-#-# translate crowdin Quest_A_SW_01_03_menu2_END_1ba55f4e:
 msgid "[_a_] Ah, and... go to Lycoris as soon as you can. "
-msgstr ""
+msgstr "[_a_] Ah, e... vai a Lycoris il più presto possibile. "
 
 # game/Quest_Rooms_Separate02.rpy:1696 #-#-# translate crowdin Quest_A_SW_01_03_menu2_END_7e2e39c4:
 msgid "[_a_] I'm going to need a minstrel hat."
-msgstr ""
+msgstr "[_a_] Avrò bisogno di un cappello minstrel."
 
 # game/Quest_Rooms_Separate02.rpy:1697 #-#-# translate crowdin Quest_A_SW_01_03_menu2_END_1a7732c4:
 msgid "[_u_] Don't worry, I'll take care of that!"
-msgstr ""
+msgstr "[_u_] Non ti preoccupare, mi prenderò cura di questo!"
 
 # game/Quest_Rooms_Separate02.rpy:1699 #-#-# translate crowdin Quest_A_SW_01_03_menu2_END_c72b5e4f:
 msgid "[_a_] Thanks!"
-msgstr ""
+msgstr "[_a_] Grazie!"
 
 # game/Quest_Rooms_Separate02.rpy:1715 #-#-# translate crowdin Quest_A_SW_01_08_2f1796d0:
 msgid "[_sw_] Huntsman!"
-msgstr ""
+msgstr "[_sw_] Huntsman!"
 
 # game/Quest_Rooms_Separate02.rpy:1718 #-#-# translate crowdin Quest_A_SW_01_08_63c628da:
 msgid "[_sw_] Your wife is a very strange person, you know? "
-msgstr ""
+msgstr "[_sw_] Tua moglie è una persona molto strana, sa? "
 
 # game/Quest_Rooms_Separate02.rpy:1719 #-#-# translate crowdin Quest_A_SW_01_08_41ebce59:
 msgid "[_u_] My..."
-msgstr ""
+msgstr "[_u_] Mio..."
 
 # game/Quest_Rooms_Separate02.rpy:1721 #-#-# translate crowdin Quest_A_SW_01_08_dd653a45:
 msgid "[_u_] Oh yes! Amandine!"
-msgstr ""
+msgstr "[_u_] Oh sì! Amandine!"
 
 # game/Quest_Rooms_Separate02.rpy:1723 #-#-# translate crowdin Quest_A_SW_01_08_48b96ab7:
 msgid "[_sw_] Yes... your wife."
-msgstr ""
+msgstr "[_sw_] Sì... tua moglie."
 
 # game/Quest_Rooms_Separate02.rpy:1725 #-#-# translate crowdin Quest_A_SW_01_08_94659059:
 msgid "[_sw_] We talked a lot and..."
-msgstr ""
+msgstr "[_sw_] Abbiamo parlato molto e..."
 
 # game/Quest_Rooms_Separate02.rpy:1727 #-#-# translate crowdin Quest_A_SW_01_08_596b2509:
 msgid "[_sw_] She told me quite a lot about herself... "
-msgstr ""
+msgstr "[_sw_] Lei mi ha detto un bel po' di se stessa... "
 
 # game/Quest_Rooms_Separate02.rpy:1729 #-#-# translate crowdin Quest_A_SW_01_08_5889e1de:
 msgid "[_sw_] I'm not sure she told me everything, I must admit... "
-msgstr ""
+msgstr "[_sw_] Non sono sicuro che mi abbia detto tutto, devo ammettere... "
 
 # game/Quest_Rooms_Separate02.rpy:1731 #-#-# translate crowdin Quest_A_SW_01_08_a891daab:
 msgid "[_sw_] But I understood enough to see that you don't have much... well... "
-msgstr ""
+msgstr "[_sw_] Ma ho capito abbastanza per vedere che non avete molto... beh, "
 
 # game/Quest_Rooms_Separate02.rpy:1733 #-#-# translate crowdin Quest_A_SW_01_08_a43a051f:
 msgid "[_sw_] ''Doing things''."
-msgstr ""
+msgstr "[_sw_] ''Fare le cose''."
 
 # game/Quest_Rooms_Separate02.rpy:1735 #-#-# translate crowdin Quest_A_SW_01_08_8a95479e:
 msgid "[_sw_] It's strange, isn't it, a woman who's only slept with other women? "
-msgstr ""
+msgstr "[_sw_] È strano, non è forse una donna che ha dormito solo con altre donne? "
 
 # game/Quest_Rooms_Separate02.rpy:1736 #-#-# translate crowdin Quest_A_SW_01_08_df64cff6:
 msgid "[_u_] Wow... you really are old-fashioned. "
-msgstr ""
+msgstr "[_u_] Wow... sei davvero vecchio stile. "
 
 # game/Quest_Rooms_Separate02.rpy:1738 #-#-# translate crowdin Quest_A_SW_01_08_e0786b96:
 msgid "[_u_] And I'll have you know that you've already masturbated with your evil double once. Have you forgotten? "
-msgstr ""
+msgstr "[_u_] E lo sapete che una volta hai già masturbato con il tuo male doppio. Hai dimenticato? "
 
 # game/Quest_Rooms_Separate02.rpy:1740 #-#-# translate crowdin Quest_A_SW_01_08_e3ab8bb4:
 msgid "[_sw_] Yeah... I try not to think about it too much... "
-msgstr ""
+msgstr "[_sw_] Sì... Cerco di non pensarci troppo... "
 
 # game/Quest_Rooms_Separate02.rpy:1742 #-#-# translate crowdin Quest_A_SW_01_08_c1111e3f:
 msgid "[_sw_] Anyway... "
-msgstr ""
+msgstr "[_sw_] Comunque... "
 
 # game/Quest_Rooms_Separate02.rpy:1744 #-#-# translate crowdin Quest_A_SW_01_08_ec2d871f:
 msgid "[_sw_] Doesn't it bother you that your wife never... well... "
-msgstr ""
+msgstr "[_sw_] Non ti infastidisce che tua moglie mai... bene... "
 
 # game/Quest_Rooms_Separate02.rpy:1746 #-#-# translate crowdin Quest_A_SW_01_08_c7ed78b9:
 msgid "[_sw_] ...Never taken proper care of your male attribute? "
-msgstr ""
+msgstr "[_sw_] ... Non hai mai preso cura del tuo attributo maschile? "
 
 # game/Quest_Rooms_Separate02.rpy:1747 #-#-# translate crowdin Quest_A_SW_01_08_bb5410aa:
 msgid "[_u_] ...Hum..."
-msgstr ""
+msgstr "[_u_] ...Hum..."
 
 # game/Quest_Rooms_Separate02.rpy:1749 #-#-# translate crowdin Quest_A_SW_01_08_e6fdf9be:
 msgid "[_sw_] Because if I were you... the only thing I'd be thinking about right now... "
-msgstr ""
+msgstr "[_sw_] Perché se fossi tu... l'unica cosa che avrei pensato adesso... "
 
 # game/Quest_Rooms_Separate02.rpy:1751 #-#-# translate crowdin Quest_A_SW_01_08_5c837e65:
 msgid "[_sw_] ...is putting my dick in the mouth of a pretty princess."
-msgstr ""
+msgstr "[_sw_] ...sta mettendo il mio cazzo nella bocca di una bella principessa."
 
 # game/Quest_Rooms_Separate02.rpy:1752 #-#-# translate crowdin Quest_A_SW_01_08_7b1c1392:
 msgid "[_u_] ..."
@@ -2106,79 +2106,79 @@ msgstr "[_u_] ..."
 
 # game/Quest_Rooms_Separate02.rpy:1754 #-#-# translate crowdin Quest_A_SW_01_08_0754d094:
 msgid "[_sw_] I'm just saying."
-msgstr ""
+msgstr "[_sw_] sto solo dicendo."
 
 # game/Quest_Rooms_Separate02.rpy:1755 #-#-# translate crowdin Quest_A_SW_01_08_2179717b:
 msgid "[_u_] What? You want to suck me?"
-msgstr ""
+msgstr "[_u_] Cosa? Mi vuoi succhiare?"
 
 # game/Quest_Rooms_Separate02.rpy:1757 #-#-# translate crowdin Quest_A_SW_01_08_9e5da4a9:
 msgid "[_sw_] You bet I do..."
-msgstr ""
+msgstr "[_sw_] Scommetti che faccio..."
 
 # game/Quest_Rooms_Separate02.rpy:1759 #-#-# translate crowdin Quest_A_SW_01_08_534a862b:
 msgid "[_sw_] I'm going to make you regret not choosing me as your wife. "
-msgstr ""
+msgstr "[_sw_] Ti farò rimpiangere di non scegliermi come tua moglie. "
 
 # game/Quest_Rooms_Separate02.rpy:1766 #-#-# translate crowdin Quest_A_SW_01_08_fdb5edcf:
 msgid "[_sw_] What do you mean, no thanks?"
-msgstr ""
+msgstr "[_sw_] Che cosa intendi, niente grazie?"
 
 # game/Quest_Rooms_Separate02.rpy:1768 #-#-# translate crowdin Quest_A_SW_01_08_8dbd9974:
 msgid "[_sw_] You refuse me?!"
-msgstr ""
+msgstr "[_sw_] Mi rifiuti?!"
 
 # game/Quest_Rooms_Separate02.rpy:1770 #-#-# translate crowdin Quest_A_SW_01_08_79b84e65:
 msgid "[_sw_] Impossible... "
-msgstr ""
+msgstr "[_sw_] Impossibile... "
 
 # game/Quest_Rooms_Separate02.rpy:1772 #-#-# translate crowdin Quest_A_SW_01_08_eef04b46:
 msgid "[_u_] Well... I guess we can say she works. "
-msgstr ""
+msgstr "[_u_] Bene... Immagino che possiamo dire che lei lavora. "
 
 # game/Quest_Rooms_Separate02.rpy:1779 #-#-# translate crowdin Quest_A_SW_01_08_a778b557:
 msgid "[_tb_] If I were you, I would have accepted the blowjob... "
-msgstr ""
+msgstr "[_tb_] Se fossi in te, avrei accettato il pompino... "
 
 # game/Quest_Rooms_Separate02.rpy:1781 #-#-# translate crowdin Quest_A_SW_01_08_5935f219:
 msgid "[_tb_] But indeed, everything seems to work!"
-msgstr ""
+msgstr "[_tb_] Ma tutto sembra funzionare!"
 
 # game/Quest_Rooms_Separate02.rpy:1783 #-#-# translate crowdin Quest_A_SW_01_08_8c990bbb:
 msgid "[_tb_] Congratulations... our first visitor-ready character is finished!"
-msgstr ""
+msgstr "[_tb_] Congratulazioni... il nostro primo personaggio pronto per il visitatore è finito!"
 
 # game/Quest_Rooms_Separate02.rpy:1785 #-#-# translate crowdin Quest_A_SW_01_08_4510ad23:
 msgid "[_tb_] Now... we just have to figure out... well, how to get visitors... "
-msgstr ""
+msgstr "[_tb_] Now... dobbiamo solo capire... beh, come ottenere visitatori... "
 
 # game/Quest_Rooms_Separate02.rpy:1787 #-#-# translate crowdin Quest_A_SW_01_08_9341a461:
 msgid "[_tb_] But that's another story!"
-msgstr ""
+msgstr "[_tb_] Ma questa è un'altra storia!"
 
 # game/Quest_Rooms_Separate02.rpy:1789 #-#-# translate crowdin Quest_A_SW_01_08_ffd86ca0:
 msgid "[_tb_] Good job [name]!"
-msgstr ""
+msgstr "[_tb_] Buon lavoro [name]!"
 
 # game/Quest_Rooms_Separate02.rpy:1802 #-#-# translate crowdin Quest_A_SW_01_08_55c3dc97:
 msgid "[_sw_] I knew you wouldn't resist me."
-msgstr ""
+msgstr "[_sw_] Sapevo che non mi avresti resistito."
 
 # game/Quest_Rooms_Separate02.rpy:1825 #-#-# translate crowdin Scene_SnowWhite01_8647a4d4:
 msgid "[_sw_] What a nice weather to be outside."
-msgstr ""
+msgstr "[_sw_] Che bel tempo per stare fuori."
 
 # game/Quest_Rooms_Separate02.rpy:1827 #-#-# translate crowdin Scene_SnowWhite01_702d62b7:
 msgid "[_sw_] Birds are chirping..."
-msgstr ""
+msgstr "[_sw_] Gli uccelli stanno cinguettando..."
 
 # game/Quest_Rooms_Separate02.rpy:1829 #-#-# translate crowdin Scene_SnowWhite01_9b2f4640:
 msgid "[_sw_] Flowers are smelling so good..."
-msgstr ""
+msgstr "[_sw_] I fiori hanno un odore così buono..."
 
 # game/Quest_Rooms_Separate02.rpy:1831 #-#-# translate crowdin Scene_SnowWhite01_e3e49e55:
 msgid "[_sw_] It makes me want to do a picnic."
-msgstr ""
+msgstr "[_sw_] Mi fa volere fare un picnic."
 
 # game/Quest_Rooms_Separate02.rpy:1833 #-#-# translate crowdin Scene_SnowWhite01_7b1c1392:
 msgid "[_u_] ..."
@@ -2186,179 +2186,179 @@ msgstr "[_u_] ..."
 
 # game/Quest_Rooms_Separate02.rpy:1836 #-#-# translate crowdin Scene_SnowWhite01_a84e5fdd:
 msgid "[_sw_] And by that, I mean proving to you that I can be a better wife than yours."
-msgstr ""
+msgstr "[_sw_] E con ciò intendo dimostrarvi che posso essere una moglie migliore della vostra."
 
 # game/Quest_Rooms_Separate02.rpy:1838 #-#-# translate crowdin Scene_SnowWhite01_c1294853:
 msgid "[_u_] Prove it to me then."
-msgstr ""
+msgstr "[_u_] Dimmi a quel momento."
 
 # game/Quest_Rooms_Separate02.rpy:1841 #-#-# translate crowdin Scene_SnowWhite01_5c8e51ab:
 msgid "[_sw_] Anything you say..."
-msgstr ""
+msgstr "[_sw_] Tutto quello che dici..."
 
 # game/Quest_Rooms_Separate02.rpy:1844 #-#-# translate crowdin Scene_SnowWhite01_d6b21821:
 msgid "[_sw_] ..."
-msgstr ""
+msgstr "[_sw_] ..."
 
 # game/Quest_Rooms_Separate02.rpy:1851 #-#-# translate crowdin Scene_SnowWhite01_5a817192:
 msgid "[_sw_] Hm..."
-msgstr ""
+msgstr "[_sw_] Hm..."
 
 # game/Quest_Rooms_Separate02.rpy:1853 #-#-# translate crowdin Scene_SnowWhite01_d6b21821_1:
 msgid "[_sw_] ..."
-msgstr ""
+msgstr "[_sw_] ..."
 
 # game/Quest_Rooms_Separate02.rpy:1855 #-#-# translate crowdin Scene_SnowWhite01_c9054ec5:
 msgid "[_sw_] Hnnn..~"
-msgstr ""
+msgstr "[_sw_] Hnnn..~"
 
 # game/Quest_Rooms_Separate02.rpy:1857 #-#-# translate crowdin Scene_SnowWhite01_deef61fe:
 msgid "[_u_] Are you going to prove me your love with that ?"
-msgstr ""
+msgstr "[_u_] Mi dimostrerai il tuo amore con quello?"
 
 # game/Quest_Rooms_Separate02.rpy:1859 #-#-# translate crowdin Scene_SnowWhite01_66672ec9:
 msgid "[_u_] you need to do more if you want me to believe your words, princess."
-msgstr ""
+msgstr "[_u_] devi fare di più se vuoi che io creda alle tue parole, principessa."
 
 # game/Quest_Rooms_Separate02.rpy:1861 #-#-# translate crowdin Scene_SnowWhite01_d6b21821_2:
 msgid "[_sw_] ..."
-msgstr ""
+msgstr "[_sw_] ..."
 
 # game/Quest_Rooms_Separate02.rpy:1863 #-#-# translate crowdin Scene_SnowWhite01_2c356922:
 msgid "[_sw_] Hnnn..?"
-msgstr ""
+msgstr "[_sw_] Hnnn..?"
 
 # game/Quest_Rooms_Separate02.rpy:1865 #-#-# translate crowdin Scene_SnowWhite01_e87081c4:
 msgid "[_sw_] Hmmm..."
-msgstr ""
+msgstr "[_sw_] Hmmm..."
 
 # game/Quest_Rooms_Separate02.rpy:1867 #-#-# translate crowdin Scene_SnowWhite01_2409246e:
 msgid "[_u_] You can look at me like that, I'm not taking my words back..."
-msgstr ""
+msgstr "[_u_] Puoi guardarmi così, non sto riprendendo le mie parole..."
 
 # game/Quest_Rooms_Separate02.rpy:1869 #-#-# translate crowdin Scene_SnowWhite01_acf6d59e:
 msgid "[_sw_] Nhhh..."
-msgstr ""
+msgstr "[_sw_] Nhhh..."
 
 # game/Quest_Rooms_Separate02.rpy:1871 #-#-# translate crowdin Scene_SnowWhite01_ce639f43:
 msgid "[_sw_] !!"
-msgstr ""
+msgstr "[_sw_] !!"
 
 # game/Quest_Rooms_Separate02.rpy:1873 #-#-# translate crowdin Scene_SnowWhite01_64e94fa6:
 msgid "[_u_] What ? Do you really need to think this hard ?"
-msgstr ""
+msgstr "[_u_] Cosa? Hai davvero bisogno di pensare così duramente?"
 
 # game/Quest_Rooms_Separate02.rpy:1875 #-#-# translate crowdin Scene_SnowWhite01_9983b488:
 msgid "[_u_] You just have to please me even more..."
-msgstr ""
+msgstr "[_u_] Devi solo farmi piacere ancora di più..."
 
 # game/Quest_Rooms_Separate02.rpy:1885 #-#-# translate crowdin Scene_SnowWhite01_d1af11ee:
 msgid "[_a_] Hey there! I was just checking to see if you had time to.... "
-msgstr ""
+msgstr "[_a_] Ehi lì! Stavo solo controllando per vedere se avevi tempo a.... "
 
 # game/Quest_Rooms_Separate02.rpy:1887 #-#-# translate crowdin Scene_SnowWhite01_bb8e4b4e:
 msgid "[_a_] ..."
-msgstr ""
+msgstr "[_a_] ..."
 
 # game/Quest_Rooms_Separate02.rpy:1889 #-#-# translate crowdin Scene_SnowWhite01_a43b830c:
 msgid "[_a_] Are you getting your dick sucked by Snow White?"
-msgstr ""
+msgstr "[_a_] Stai ottenendo il tuo cazzo succhiato da Biancaneve?"
 
 # game/Quest_Rooms_Separate02.rpy:1890 #-#-# translate crowdin Scene_SnowWhite01_3f600a99:
 msgid "[_u_] Mh!"
-msgstr ""
+msgstr "[_u_] Mh!"
 
 # game/Quest_Rooms_Separate02.rpy:1892 #-#-# translate crowdin Scene_SnowWhite01_b65b5218:
 msgid "[_a_] God... you're just impossible!"
-msgstr ""
+msgstr "[_a_] Dio... sei semplicemente impossibile!"
 
 # game/Quest_Rooms_Separate02.rpy:1894 #-#-# translate crowdin Scene_SnowWhite01_bb8e4b4e_1:
 msgid "[_a_] ..."
-msgstr ""
+msgstr "[_a_] ..."
 
 # game/Quest_Rooms_Separate02.rpy:1896 #-#-# translate crowdin Scene_SnowWhite01_be50303e:
 msgid "[_a_] Well... I'll let you have your fun!"
-msgstr ""
+msgstr "[_a_] Bene... Ti lascerò divertirti!"
 
 # game/Quest_Rooms_Separate02.rpy:1897 #-#-# translate crowdin Scene_SnowWhite01_600ef940:
 msgid "[_u_] Mh?"
-msgstr ""
+msgstr "[_u_] Mh?"
 
 # game/Quest_Rooms_Separate02.rpy:1899 #-#-# translate crowdin Scene_SnowWhite01_419d5750:
 msgid "[_a_] What?"
-msgstr ""
+msgstr "[_a_] Cosa?"
 
 # game/Quest_Rooms_Separate02.rpy:1901 #-#-# translate crowdin Scene_SnowWhite01_255abe59:
 msgid "[_a_] Are you asking me to join you?... "
-msgstr ""
+msgstr "[_a_] Mi stai chiedendo di unirmi a te?... "
 
 # game/Quest_Rooms_Separate02.rpy:1902 #-#-# translate crowdin Scene_SnowWhite01_cc71eb9a:
 msgid "[_u_] Mh."
-msgstr ""
+msgstr "[_u_] Mh."
 
 # game/Quest_Rooms_Separate02.rpy:1904 #-#-# translate crowdin Scene_SnowWhite01_775efc98:
 msgid "[_a_] Like... you want me to watch you get sucked up closer?"
-msgstr ""
+msgstr "[_a_] Mi piace... vuoi che ti guardi più da vicino?"
 
 # game/Quest_Rooms_Separate02.rpy:1905 #-#-# translate crowdin Scene_SnowWhite01_3f600a99_1:
 msgid "[_u_] Mh!"
-msgstr ""
+msgstr "[_u_] Mh!"
 
 # game/Quest_Rooms_Separate02.rpy:1907 #-#-# translate crowdin Scene_SnowWhite01_6469b0ad:
 msgid "[_a_] That's... an interesting proposition... "
-msgstr ""
+msgstr "[_a_] Questo... una proposta interessante... "
 
 # game/Quest_Rooms_Separate02.rpy:1909 #-#-# translate crowdin Scene_SnowWhite01_44e6b779:
 msgid "[_a_] I..."
-msgstr ""
+msgstr "[_a_] I..."
 
 # game/Quest_Rooms_Separate02.rpy:1911 #-#-# translate crowdin Scene_SnowWhite01_bb8e4b4e_2:
 msgid "[_a_] ..."
-msgstr ""
+msgstr "[_a_] ..."
 
 # game/Quest_Rooms_Separate02.rpy:1913 #-#-# translate crowdin Scene_SnowWhite01_1dcaa108:
 msgid "[_a_] Would you really be up for it? "
-msgstr ""
+msgstr "[_a_] Saresti davvero in grado di farlo? "
 
 # game/Quest_Rooms_Separate02.rpy:1921 #-#-# translate crowdin Scene_SnowWhite01_6503a32e:
 msgid "[_a_] Nah, I don't think I'm ready for that kind of thing!"
-msgstr ""
+msgstr "[_a_] Nah, non penso di essere pronto per quel tipo di cosa!"
 
 # game/Quest_Rooms_Separate02.rpy:1923 #-#-# translate crowdin Scene_SnowWhite01_3b41cddc:
 msgid "[_a_] Have fun with her!"
-msgstr ""
+msgstr "[_a_] Divertiti con lei!"
 
 # game/Quest_Rooms_Separate02.rpy:1926 #-#-# translate crowdin Scene_SnowWhite01_bb8e4b4e_3:
 msgid "[_a_] ..."
-msgstr ""
+msgstr "[_a_] ..."
 
 # game/Quest_Rooms_Separate02.rpy:1928 #-#-# translate crowdin Scene_SnowWhite01_1ac02418:
 msgid "[_a_] Ok, I'm in!"
-msgstr ""
+msgstr "[_a_] Ok, sono dentro!"
 
 # game/Quest_Rooms_Separate02.rpy:1954 #-#-# translate crowdin Scene_SnowWhite01_f2889689:
 msgid "[_a_] So, are you having fun without me?"
-msgstr ""
+msgstr "[_a_] Allora, ti stai divertendo senza di me?"
 
 # game/Quest_Rooms_Separate02.rpy:1957 #-#-# translate crowdin Scene_SnowWhite01_bf1c6665:
 msgid "[_a_] Are you taking care of my husband without my permission? "
-msgstr ""
+msgstr "[_a_] Ti stai prendendo cura di mio marito senza il mio permesso? "
 
 # game/Quest_Rooms_Separate02.rpy:1959 #-#-# translate crowdin Scene_SnowWhite01_242eb1ca:
 msgid "[_sw_] Are you maybe feeling threatened by my presence ?"
-msgstr ""
+msgstr "[_sw_] Ti senti forse minacciato dalla mia presenza?"
 
 # game/Quest_Rooms_Separate02.rpy:1962 #-#-# translate crowdin Scene_SnowWhite01_8cf2cec8:
 msgid "[_a_] Not at all, dear Snow White."
-msgstr ""
+msgstr "[_a_] Niente affatto, caro Bianco della Neve."
 
 # game/Quest_Rooms_Separate02.rpy:1965 #-#-# translate crowdin Scene_SnowWhite01_44a73597:
 msgid "[_sw_] What ? How ! I am a princess !"
-msgstr ""
+msgstr "[_sw_] What ? How ! I am a princess !"
 
 # game/Quest_Rooms_Separate02.rpy:1967 #-#-# translate crowdin Scene_SnowWhite01_6ff8ef8e:
 msgid "[_a_] Just look at him."
-msgstr ""
+msgstr "[_a_] Lo guarda e basta."
 
 # game/Quest_Rooms_Separate02.rpy:1969 #-#-# translate crowdin Scene_SnowWhite01_7b1c1392_1:
 msgid "[_u_] ..."
@@ -2366,303 +2366,303 @@ msgstr "[_u_] ..."
 
 # game/Quest_Rooms_Separate02.rpy:1972 #-#-# translate crowdin Scene_SnowWhite01_4ed2cdc1:
 msgid "[_sw_] Oh ?"
-msgstr ""
+msgstr "[_sw_] Oh ?"
 
 # game/Quest_Rooms_Separate02.rpy:1974 #-#-# translate crowdin Scene_SnowWhite01_8f3800af:
 msgid "[_a_] No need to look further."
-msgstr ""
+msgstr "[_a_] Non c'è bisogno di guardare oltre."
 
 # game/Quest_Rooms_Separate02.rpy:1977 #-#-# translate crowdin Scene_SnowWhite01_5f89057b:
 msgid "[_sw_] All I can see is that he's eating me with his eyes my... Dear."
-msgstr ""
+msgstr "[_sw_] Tutto quello che posso vedere è che mi sta mangiando con i suoi occhi..."
 
 # game/Quest_Rooms_Separate02.rpy:1980 #-#-# translate crowdin Scene_SnowWhite01_42e59389:
 msgid "[_a_] Humph..."
-msgstr ""
+msgstr "[_a_] Humph..."
 
 # game/Quest_Rooms_Separate02.rpy:1982 #-#-# translate crowdin Scene_SnowWhite01_008ec0d2:
 msgid "[_u_] What ?"
-msgstr ""
+msgstr "[_u_] Che Cosa ?"
 
 # game/Quest_Rooms_Separate02.rpy:1984 #-#-# translate crowdin Scene_SnowWhite01_bb8e4b4e_4:
 msgid "[_a_] ..."
-msgstr ""
+msgstr "[_a_] ..."
 
 # game/Quest_Rooms_Separate02.rpy:1986 #-#-# translate crowdin Scene_SnowWhite01_41223793:
 msgid "[_u_] Don't put me into your little war, I'm staying neutral. "
-msgstr ""
+msgstr "[_u_] Non mettetemi nella vostra piccola guerra, rimango neutrale. "
 
 # game/Quest_Rooms_Separate02.rpy:1988 #-#-# translate crowdin Scene_SnowWhite01_d15da2a0:
 msgid "[_a_] I didn't say anything, my sweet husband.~ "
-msgstr ""
+msgstr "[_a_] Non ho detto niente, il mio dolce marito.~ "
 
 # game/Quest_Rooms_Separate02.rpy:1996 #-#-# translate crowdin Scene_SnowWhite01_e87081c4_1:
 msgid "[_sw_] Hmmm..."
-msgstr ""
+msgstr "[_sw_] Hmmm..."
 
 # game/Quest_Rooms_Separate02.rpy:1998 #-#-# translate crowdin Scene_SnowWhite01_b0be59b7:
 msgid "[_a_] Look at you..."
-msgstr ""
+msgstr "[_a_] Guardate..."
 
 # game/Quest_Rooms_Separate02.rpy:2000 #-#-# translate crowdin Scene_SnowWhite01_242b3d89:
 msgid "[_a_] It seems you are enjoying this a bit too much."
-msgstr ""
+msgstr "[_a_] Sembra che ti stia godendo un po' troppo."
 
 # game/Quest_Rooms_Separate02.rpy:2002 #-#-# translate crowdin Scene_SnowWhite01_d3a4b3a8:
 msgid "[_a_] Dear husband, are you going to let her do this to me ?"
-msgstr ""
+msgstr "[_a_] Caro marito, la lascerete fare questo a me?"
 
 # game/Quest_Rooms_Separate02.rpy:2004 #-#-# translate crowdin Scene_SnowWhite01_16b420e5:
 msgid "[_sw_] Hmpphsssurlp !"
-msgstr ""
+msgstr "[_sw_] Hmpphsssurlp !"
 
 # game/Quest_Rooms_Separate02.rpy:2006 #-#-# translate crowdin Scene_SnowWhite01_4110987f:
 msgid "[_a_] Hehe, don't talk with your mouth full."
-msgstr ""
+msgstr "[_a_] Hehe, non parlare con la bocca piena."
 
 # game/Quest_Rooms_Separate02.rpy:2008 #-#-# translate crowdin Scene_SnowWhite01_38199292:
 msgid "[_a_] That isn't really polite of you, princess."
-msgstr ""
+msgstr "[_a_] Questo non è davvero educato di te, principessa."
 
 # game/Quest_Rooms_Separate02.rpy:2010 #-#-# translate crowdin Scene_SnowWhite01_e13e8c9d:
 msgid "[_a_] Maybe does she need a rectification by my husband ?"
-msgstr ""
+msgstr "[_a_] Forse ha bisogno di una correzione da parte di mio marito?"
 
 # game/Quest_Rooms_Separate02.rpy:2012 #-#-# translate crowdin Scene_SnowWhite01_c34311b0:
 msgid "[_sw_] Hmmph !"
-msgstr ""
+msgstr "[_sw_] Hmmph !"
 
 # game/Quest_Rooms_Separate02.rpy:2014 #-#-# translate crowdin Scene_SnowWhite01_e9c40f23:
 msgid "[_u_] Fuck..."
-msgstr ""
+msgstr "[_u_] Fuck..."
 
 # game/Quest_Rooms_Separate02.rpy:2017 #-#-# translate crowdin Scene_SnowWhite01_008c14df:
 msgid "[_a_] See ? She's all cute and princessy again."
-msgstr ""
+msgstr "[_a_] Vedi ? Lei è di nuovo carino e principessia."
 
 # game/Quest_Rooms_Separate02.rpy:2019 #-#-# translate crowdin Scene_SnowWhite01_286192cb:
 msgid "[_sw_] Slrrrrphmm..."
-msgstr ""
+msgstr "[_sw_] Slrrrrphmm..."
 
 # game/Quest_Rooms_Separate02.rpy:2021 #-#-# translate crowdin Scene_SnowWhite01_efe55dcf:
 msgid "[_u_] With such doe eyes, how couldn't she..."
-msgstr ""
+msgstr "[_u_] Con tali occhi doe, come non potrebbe..."
 
 # game/Quest_Rooms_Separate02.rpy:2023 #-#-# translate crowdin Scene_SnowWhite01_21682ebe:
 msgid "[_a_] You're not wrong, darling."
-msgstr ""
+msgstr "[_a_] Non hai torto, tesoro."
 
 # game/Quest_Rooms_Separate02.rpy:2025 #-#-# translate crowdin Scene_SnowWhite01_4d0ac809:
 msgid "[_sw_] Hmmnnn..!"
-msgstr ""
+msgstr "[_sw_] Hmmnnnn..!"
 
 # game/Quest_Rooms_Separate02.rpy:2027 #-#-# translate crowdin Scene_SnowWhite01_c7d3a537:
 msgid "[_sw_] Hmmnnsrrlp..!?"
-msgstr ""
+msgstr "[_sw_] Hmmnnsrrrlp..!?"
 
 # game/Quest_Rooms_Separate02.rpy:2029 #-#-# translate crowdin Scene_SnowWhite01_9762e85a:
 msgid "[_a_] I think you should go deeper, she's still doing unpolite stuff, honey."
-msgstr ""
+msgstr "[_a_] Penso che si dovrebbe andare più in profondità, lei sta ancora facendo roba maleducata, miele."
 
 # game/Quest_Rooms_Separate02.rpy:2031 #-#-# translate crowdin Scene_SnowWhite01_daa916b0:
 msgid "[_u_] Of course darling, anything you say."
-msgstr ""
+msgstr "[_u_] Naturalmente tesoro, tutto quello che dici."
 
 # game/Quest_Rooms_Separate02.rpy:2034 #-#-# translate crowdin Scene_SnowWhite01_0ae0514f:
 msgid "[_sw_] !!!"
-msgstr ""
+msgstr "[_sw_] !!!"
 
 # game/Quest_Rooms_Separate02.rpy:2036 #-#-# translate crowdin Scene_SnowWhite01_639626e7:
 msgid "[_u_] Deepthroating suits you well, Snow White."
-msgstr ""
+msgstr "[_u_] Deepthroating si adatta bene, Biancaneve."
 
 # game/Quest_Rooms_Separate02.rpy:2038 #-#-# translate crowdin Scene_SnowWhite01_6ec58f90:
 msgid "[_a_] Oh yeah, you're right..."
-msgstr ""
+msgstr "[_a_] Oh sì, hai ragione..."
 
 # game/Quest_Rooms_Separate02.rpy:2040 #-#-# translate crowdin Scene_SnowWhite01_644cbd04:
 msgid "[_u_] I'm sure it can suits you too, my dear wife."
-msgstr ""
+msgstr "[_u_] Sono sicuro che anche a te può piacere, mia cara moglie."
 
 # game/Quest_Rooms_Separate02.rpy:2042 #-#-# translate crowdin Scene_SnowWhite01_e837d01c:
 msgid "[_a_] I pass. I can't win against our princess..."
-msgstr ""
+msgstr "[_a_] passo. Non posso vincere contro la nostra principessa..."
 
 # game/Quest_Rooms_Separate02.rpy:2044 #-#-# translate crowdin Scene_SnowWhite01_7e1f357c:
 msgid "[_sw_] Hmmnnn !~"
-msgstr ""
+msgstr "[_sw_] Hmmnnn !~"
 
 # game/Quest_Rooms_Separate02.rpy:2046 #-#-# translate crowdin Scene_SnowWhite01_d6fc9c72:
 msgid "[_a_] Oh, I think she's trying to sing you something."
-msgstr ""
+msgstr "[_a_] Oh, penso che stia cercando di cantarti qualcosa."
 
 # game/Quest_Rooms_Separate02.rpy:2049 #-#-# translate crowdin Scene_SnowWhite01_8318a802:
 msgid "[_u_] She can try."
-msgstr ""
+msgstr "[_u_] Lei riesce a provare."
 
 # game/Quest_Rooms_Separate02.rpy:2051 #-#-# translate crowdin Scene_SnowWhite01_54732e62:
 msgid "[_u_] Aaaah..."
-msgstr ""
+msgstr "[_u_] Aaaah..."
 
 # game/Quest_Rooms_Separate02.rpy:2053 #-#-# translate crowdin Scene_SnowWhite01_c489f232:
 msgid "[_u_] With you too looking at me like that..."
-msgstr ""
+msgstr "[_u_] Con te anche guardandomi così..."
 
 # game/Quest_Rooms_Separate02.rpy:2055 #-#-# translate crowdin Scene_SnowWhite01_638d0fd3:
 msgid "[_u_] I'm not going to last long."
-msgstr ""
+msgstr "[_u_] non durerò a lungo."
 
 # game/Quest_Rooms_Separate02.rpy:2057 #-#-# translate crowdin Scene_SnowWhite01_986cc62b:
 msgid "[_sw_] Hmmnnn..?"
-msgstr ""
+msgstr "[_sw_] Hmmnnnn..?"
 
 # game/Quest_Rooms_Separate02.rpy:2060 #-#-# translate crowdin Scene_SnowWhite01_b0bcfa86:
 msgid "[_a_] Oh my..."
-msgstr ""
+msgstr "[_a_] Oh my..."
 
 # game/Quest_Rooms_Separate02.rpy:2062 #-#-# translate crowdin Scene_SnowWhite01_e93185f1:
 msgid "[_a_] She learns nothing..."
-msgstr ""
+msgstr "[_a_] Lei non impara niente..."
 
 # game/Quest_Rooms_Separate02.rpy:2064 #-#-# translate crowdin Scene_SnowWhite01_e751c01e:
 msgid "[_a_] Maybe our princess is enjoying this moment as much as you..."
-msgstr ""
+msgstr "[_a_] Forse la nostra principessa sta godendo questo momento tanto quanto te..."
 
 # game/Quest_Rooms_Separate02.rpy:2066 #-#-# translate crowdin Scene_SnowWhite01_21a96b8f:
 msgid "[_a_] And as much as me."
-msgstr ""
+msgstr "[_a_] E tanto quanto me."
 
 # game/Quest_Rooms_Separate02.rpy:2068 #-#-# translate crowdin Scene_SnowWhite01_5da92964:
 msgid "[_a_] If you go faster and deeper, I'm sure she's going to accept the fact that we are married, my dear."
-msgstr ""
+msgstr "[_a_] Se andate più velocemente e più in profondità, sono sicuro che accetterà il fatto che siamo sposati, mia cara."
 
 # game/Quest_Rooms_Separate02.rpy:2070 #-#-# translate crowdin Scene_SnowWhite01_1e6dd0c3:
 msgid "[_u_] Ahah, let's try that..."
-msgstr ""
+msgstr "[_u_] Ahah, proviamo quello..."
 
 # game/Quest_Rooms_Separate02.rpy:2072 #-#-# translate crowdin Scene_SnowWhite01_72b15a36:
 msgid "[_sw_] Hmmphhh !!"
-msgstr ""
+msgstr "[_sw_] Hmmphhh !!"
 
 # game/Quest_Rooms_Separate02.rpy:2074 #-#-# translate crowdin Scene_SnowWhite01_d6dcefa0:
 msgid "[_a_] Oh ?"
-msgstr ""
+msgstr "[_a_] Oh ?"
 
 # game/Quest_Rooms_Separate02.rpy:2076 #-#-# translate crowdin Scene_SnowWhite01_c85f519d:
 msgid "[_a_] Sounds like someone who is getting less and less jealous..."
-msgstr ""
+msgstr "[_a_] Suona come qualcuno che sta diventando sempre meno geloso..."
 
 # game/Quest_Rooms_Separate02.rpy:2078 #-#-# translate crowdin Scene_SnowWhite01_31092168:
 msgid "[_sw_] Hnnn !..."
-msgstr ""
+msgstr "[_sw_] Hnnn !..."
 
 # game/Quest_Rooms_Separate02.rpy:2080 #-#-# translate crowdin Scene_SnowWhite01_68309f9a:
 msgid "[_a_] Do you hear that honey ?"
-msgstr ""
+msgstr "[_a_] Senti quel miele ?"
 
 # game/Quest_Rooms_Separate02.rpy:2082 #-#-# translate crowdin Scene_SnowWhite01_4096d076:
 msgid "[_a_] I think she wants your juice..."
-msgstr ""
+msgstr "[_a_] Penso che lei voglia il tuo succo..."
 
 # game/Quest_Rooms_Separate02.rpy:2084 #-#-# translate crowdin Scene_SnowWhite01_e9ebac3d:
 msgid "[_sw_] Hmnnnn..."
-msgstr ""
+msgstr "[_sw_] Hmnnnn..."
 
 # game/Quest_Rooms_Separate02.rpy:2086 #-#-# translate crowdin Scene_SnowWhite01_8ac8757a:
 msgid "[_u_] Hmmm... Asked so courtly..."
-msgstr ""
+msgstr "[_u_] Hmmm... Chiesto così cortesemente..."
 
 # game/Quest_Rooms_Separate02.rpy:2088 #-#-# translate crowdin Scene_SnowWhite01_55caebc4:
 msgid "[_u_] And with those two beautiful faces..."
-msgstr ""
+msgstr "[_u_] E con questi due bellissimi volti..."
 
 # game/Quest_Rooms_Separate02.rpy:2090 #-#-# translate crowdin Scene_SnowWhite01_046a6c66:
 msgid "[_a_] You're too kind..."
-msgstr ""
+msgstr "[_a_] Sei troppo gentile..."
 
 # game/Quest_Rooms_Separate02.rpy:2092 #-#-# translate crowdin Scene_SnowWhite01_ac2e6811:
 msgid "[_sw_] Shrrrlp..."
-msgstr ""
+msgstr "[_sw_] Shrrrlp..."
 
 # game/Quest_Rooms_Separate02.rpy:2094 #-#-# translate crowdin Scene_SnowWhite01_f96d8c31:
 msgid "[_a_] Come on darling... She's waiting to take it all..."
-msgstr ""
+msgstr "[_a_] Vieni a darling... Lei sta aspettando di prenderlo tutto..."
 
 # game/Quest_Rooms_Separate02.rpy:2096 #-#-# translate crowdin Scene_SnowWhite01_149e3166:
 msgid "[_a_] Don't make our princess wait..."
-msgstr ""
+msgstr "[_a_] Non fate aspettare la nostra principessa..."
 
 # game/Quest_Rooms_Separate02.rpy:2125 #-#-# translate crowdin Scene_SnowWhite01_8a940b85:
 msgid "[_a_] Do I... have a cum droplet on my nose? "
-msgstr ""
+msgstr "[_a_] Ho una gocciolina di sperma sul mio naso? "
 
 # game/Quest_Rooms_Separate02.rpy:2126 #-#-# translate crowdin Scene_SnowWhite01_7e07177f:
 msgid "[_u_] ... Oops."
-msgstr ""
+msgstr "[_u_] ... Oops."
 
 # game/Quest_Rooms_Separate02.rpy:2128 #-#-# translate crowdin Scene_SnowWhite01_627038db:
 msgid "[_sw_] Fuck... I love being covered..."
-msgstr ""
+msgstr "[_sw_] Fuck... Mi piace essere coperto..."
 
 # game/Quest_Rooms_Separate02.rpy:2155 #-#-# translate crowdin Scene_SnowWhite01_e23c4989:
 msgid "[_a_] Damn... and she swallows it all!"
-msgstr ""
+msgstr "[_a_] Dannazione... e lei inghiottisce tutto!"
 
 # game/Quest_Rooms_Separate02.rpy:2157 #-#-# translate crowdin Scene_SnowWhite01_1649a958:
 msgid "[_sw_] That's so tasty..."
-msgstr ""
+msgstr "[_sw_] È così gustoso..."
 
 # game/Quest_Rooms_Separate02.rpy:2161 #-#-# translate crowdin Scene_SnowWhite01_70fb0bfc:
 msgid "[_a_] I understand... this is a private moment!"
-msgstr ""
+msgstr "[_a_] Capisco... questo è un momento privato!"
 
 # game/Quest_Rooms_Separate02.rpy:2163 #-#-# translate crowdin Scene_SnowWhite01_14cd8ce1:
 msgid "[_a_] Well, have fun with your princess!"
-msgstr ""
+msgstr "[_a_] Beh, divertiti con la tua principessa!"
 
 # game/Quest_Rooms_Separate02.rpy:2172 #-#-# translate crowdin SnowWhite01_menu1_P2_0fc3bb7e:
 msgid "[_u_] Come on princess, show me your tits. "
-msgstr ""
+msgstr "[_u_] Vieni alla principessa, mostrami le tue tette. "
 
 # game/Quest_Rooms_Separate02.rpy:2173 #-#-# translate crowdin SnowWhite01_menu1_P2_f77031cb:
 msgid "[_u_] I'm not going to get my dick sucked without looking at a pair of tits, am I? "
-msgstr ""
+msgstr "[_u_] Non farò succhiare il mio cazzo senza guardare un paio di tette, vero? "
 
 # game/Quest_Rooms_Separate02.rpy:2185 #-#-# translate crowdin SnowWhite01_menu1_P2_b485fc1b:
 msgid "[_u_] Annh..."
-msgstr ""
+msgstr "[_u_] Annh..."
 
 # game/Quest_Rooms_Separate02.rpy:2187 #-#-# translate crowdin SnowWhite01_menu1_P2_7d96c61b:
 msgid "[_sw_] Hmnn ?.."
-msgstr ""
+msgstr "[_sw_] Hmnn ?.."
 
 # game/Quest_Rooms_Separate02.rpy:2189 #-#-# translate crowdin SnowWhite01_menu1_P2_33926a53:
 msgid "[_u_] Seeing you with my dick in your mouth is very arousing."
-msgstr ""
+msgstr "[_u_] vederti con il mio cazzo in bocca è molto eccitante."
 
 # game/Quest_Rooms_Separate02.rpy:2191 #-#-# translate crowdin SnowWhite01_menu1_P2_e3a0c58c:
 msgid "[_sw_] Srrlphhhm.."
-msgstr ""
+msgstr "[_sw_] Srrlphhhm.."
 
 # game/Quest_Rooms_Separate02.rpy:2193 #-#-# translate crowdin SnowWhite01_menu1_P2_d6b21821:
 msgid "[_sw_] ..."
-msgstr ""
+msgstr "[_sw_] ..."
 
 # game/Quest_Rooms_Separate02.rpy:2195 #-#-# translate crowdin SnowWhite01_menu1_P2_82382bb2:
 msgid "[_u_] Your red lips are even more beautiful when they are blowjobing me..."
-msgstr ""
+msgstr "[_u_] Le tue labbra rosse sono ancora più belle quando mi pompino..."
 
 # game/Quest_Rooms_Separate02.rpy:2197 #-#-# translate crowdin SnowWhite01_menu1_P2_ee0723fa:
 msgid "[_sw_] Hmmmn hmm..!"
-msgstr ""
+msgstr "[_sw_] Hmmmn hmm..!"
 
 # game/Quest_Rooms_Separate02.rpy:2199 #-#-# translate crowdin SnowWhite01_menu1_P2_94e22a16:
 msgid "[_u_] I wonder how they would look like if I go further..."
-msgstr ""
+msgstr "[_u_] Mi chiedo come sembrerebbero se andassi oltre..."
 
 # game/Quest_Rooms_Separate02.rpy:2201 #-#-# translate crowdin SnowWhite01_menu1_P2_8e815602:
 msgid "[_sw_] Hmmmshrrrlp..~"
-msgstr ""
+msgstr "[_sw_] Hmmmshrrrrlp..~"
 
 # game/Quest_Rooms_Separate02.rpy:2203 #-#-# translate crowdin SnowWhite01_menu1_P2_7b1c1392:
 msgid "[_u_] ..."
@@ -2670,75 +2670,75 @@ msgstr "[_u_] ..."
 
 # game/Quest_Rooms_Separate02.rpy:2205 #-#-# translate crowdin SnowWhite01_menu1_P2_3e3c2016:
 msgid "[_u_] Fuck yes..."
-msgstr ""
+msgstr "[_u_] Cazzo sì..."
 
 # game/Quest_Rooms_Separate02.rpy:2207 #-#-# translate crowdin SnowWhite01_menu1_P2_c2d2de21:
 msgid "[_u_] You're enjoying this as much as I am..."
-msgstr ""
+msgstr "[_u_] Ti stai divertendo tanto quanto lo sono..."
 
 # game/Quest_Rooms_Separate02.rpy:2209 #-#-# translate crowdin SnowWhite01_menu1_P2_e87081c4:
 msgid "[_sw_] Hmmm..."
-msgstr ""
+msgstr "[_sw_] Hmmm..."
 
 # game/Quest_Rooms_Separate02.rpy:2211 #-#-# translate crowdin SnowWhite01_menu1_P2_8dc45036:
 msgid "[_u_] It makes me want to..."
-msgstr ""
+msgstr "[_u_] Mi fa volere..."
 
 # game/Quest_Rooms_Separate02.rpy:2214 #-#-# translate crowdin SnowWhite01_menu1_P2_dc47d21e:
 msgid "[_sw_] Hmmmgh..!"
-msgstr ""
+msgstr "[_sw_] Hmmmgh..!"
 
 # game/Quest_Rooms_Separate02.rpy:2216 #-#-# translate crowdin SnowWhite01_menu1_P2_54732e62:
 msgid "[_u_] Aaaah..."
-msgstr ""
+msgstr "[_u_] Aaaah..."
 
 # game/Quest_Rooms_Separate02.rpy:2218 #-#-# translate crowdin SnowWhite01_menu1_P2_76ce3e68:
 msgid "[_u_] What a good deepthroat..."
-msgstr ""
+msgstr "[_u_] Che bella gola profonda..."
 
 # game/Quest_Rooms_Separate02.rpy:2220 #-#-# translate crowdin SnowWhite01_menu1_P2_589e1235:
 msgid "[_sw_] Shmmph.."
-msgstr ""
+msgstr "[_sw_] Shmmph.."
 
 # game/Quest_Rooms_Separate02.rpy:2222 #-#-# translate crowdin SnowWhite01_menu1_P2_d6b21821_1:
 msgid "[_sw_] ..."
-msgstr ""
+msgstr "[_sw_] ..."
 
 # game/Quest_Rooms_Separate02.rpy:2224 #-#-# translate crowdin SnowWhite01_menu1_P2_de34998e:
 msgid "[_u_] Ready to go further princess ?"
-msgstr ""
+msgstr "[_u_] Pronto ad andare oltre principessa?"
 
 # game/Quest_Rooms_Separate02.rpy:2226 #-#-# translate crowdin SnowWhite01_menu1_P2_95934924:
 msgid "[_u_] Hmmm hmmm !"
-msgstr ""
+msgstr "[_u_] Hmmm hmmm !"
 
 # game/Quest_Rooms_Separate02.rpy:2228 #-#-# translate crowdin SnowWhite01_menu1_P2_20bde7d1:
 msgid "[_sw_] ..!"
-msgstr ""
+msgstr "[_sw_] ..!"
 
 # game/Quest_Rooms_Separate02.rpy:2230 #-#-# translate crowdin SnowWhite01_menu1_P2_a0929473:
 msgid "[_sw_] Hmmggh.."
-msgstr ""
+msgstr "[_sw_] Hmmggh.."
 
 # game/Quest_Rooms_Separate02.rpy:2232 #-#-# translate crowdin SnowWhite01_menu1_P2_ac2e6811:
 msgid "[_sw_] Shrrrlp..."
-msgstr ""
+msgstr "[_sw_] Shrrrlp..."
 
 # game/Quest_Rooms_Separate02.rpy:2234 #-#-# translate crowdin SnowWhite01_menu1_P2_200b3a84:
 msgid "[_u_] Getting used to it, uh ?"
-msgstr ""
+msgstr "[_u_] Ti abitui, uh ?"
 
 # game/Quest_Rooms_Separate02.rpy:2236 #-#-# translate crowdin SnowWhite01_menu1_P2_f45dc266:
 msgid "[_sw_] Hmmmshlp.."
-msgstr ""
+msgstr "[_sw_] Hmmmshlp.."
 
 # game/Quest_Rooms_Separate02.rpy:2238 #-#-# translate crowdin SnowWhite01_menu1_P2_c17c5fae:
 msgid "[_u_] Hmmm... Yeah..."
-msgstr ""
+msgstr "[_u_] Hmmm... Sì..."
 
 # game/Quest_Rooms_Separate02.rpy:2240 #-#-# translate crowdin SnowWhite01_menu1_P2_c1c34ddf:
 msgid "[_sw_] Hmmnnn..."
-msgstr ""
+msgstr "[_sw_] Hmmnnn..."
 
 # game/Quest_Rooms_Separate02.rpy:2242 #-#-# translate crowdin SnowWhite01_menu1_P2_7b1c1392_1:
 msgid "[_u_] ..."
@@ -2746,213 +2746,213 @@ msgstr "[_u_] ..."
 
 # game/Quest_Rooms_Separate02.rpy:2244 #-#-# translate crowdin SnowWhite01_menu1_P2_b883e0c6:
 msgid "[_sw_] ...Hmm ?"
-msgstr ""
+msgstr "[_sw_] ...Hmm ?"
 
 # game/Quest_Rooms_Separate02.rpy:2247 #-#-# translate crowdin SnowWhite01_menu1_P2_23981dfb:
 msgid "[_u_] Annh !"
-msgstr ""
+msgstr "[_u_] Annh !"
 
 # game/Quest_Rooms_Separate02.rpy:2249 #-#-# translate crowdin SnowWhite01_menu1_P2_0ae0514f:
 msgid "[_sw_] !!!"
-msgstr ""
+msgstr "[_sw_] !!!"
 
 # game/Quest_Rooms_Separate02.rpy:2251 #-#-# translate crowdin SnowWhite01_menu1_P2_27d6f9ed:
 msgid "[_sw_] Hmmm..! Nnnnhg..!"
-msgstr ""
+msgstr "[_sw_] Hmmm..! Nnnnhg..!"
 
 # game/Quest_Rooms_Separate02.rpy:2253 #-#-# translate crowdin SnowWhite01_menu1_P2_bfaee94f:
 msgid "[_u_] Yes... You're fucking good..!"
-msgstr ""
+msgstr "[_u_] Sì... Stai scopando bene..!"
 
 # game/Quest_Rooms_Separate02.rpy:2255 #-#-# translate crowdin SnowWhite01_menu1_P2_06a96eb5:
 msgid "[_sw_] Hmmnnn..!~"
-msgstr ""
+msgstr "[_sw_] Hmmnnnn..!~"
 
 # game/Quest_Rooms_Separate02.rpy:2286 #-#-# translate crowdin SnowWhite01_menu1_P2_7b6e4e37:
 msgid "[_sw_] Damn... I missed this. "
-msgstr ""
+msgstr "[_sw_] Dannazione... Ho perso questo. "
 
 # game/Quest_Rooms_Separate02.rpy:2314 #-#-# translate crowdin SnowWhite01_menu1_P2_99c8e64f:
 msgid "[_sw_] Aaaah... I missed this. "
-msgstr ""
+msgstr "[_sw_] Aaaah... Mi è mancato questo. "
 
 # §translate crowdin strings: #|#|# # game/Quest_Rooms_Separate02.rpy:160
 msgid "{color=#f2923c}What are you looking for here?{/color}"
-msgstr ""
+msgstr "{color=#f2923c}Cosa stai cercando qui?{/color}"
 
 # game/Quest_Rooms_Separate02.rpy:160
 msgid "Will you ever tell me who you are? "
-msgstr ""
+msgstr "Mi dirai mai chi sei? "
 
 # game/Quest_Rooms_Separate02.rpy:160
 msgid "{color=#797979}Will you ever tell me who you are?{/color} "
-msgstr ""
+msgstr "{color=#797979}Mi dirai mai chi sei? {/color} "
 
 # game/Quest_Rooms_Separate02.rpy:160
 msgid "Is the bird yours?"
-msgstr ""
+msgstr "L'uccello è suo?"
 
 # game/Quest_Rooms_Separate02.rpy:160
 msgid "{color=#797979}Is the bird yours?{/color} "
-msgstr ""
+msgstr "{color=#797979}L'uccello è tuo?{/color} "
 
 # game/Quest_Rooms_Separate02.rpy:160
 msgid "{color=#f45fed}How can I prove I am trustworthy?{/color} "
-msgstr ""
+msgstr "{color=#f45fed}Come posso dimostrare di essere affidabile?{/color} "
 
 # game/Quest_Rooms_Separate02.rpy:298
 msgid "Do you find what you need? "
-msgstr ""
+msgstr "Tu trovi quello che ti serve? "
 
 # game/Quest_Rooms_Separate02.rpy:298
 msgid "{color=#3ad8ff}I found what I needed!{/color} "
-msgstr ""
+msgstr "{color=#3ad8ff}Ho trovato quello che mi serve!{/color} "
 
 # game/Quest_Rooms_Separate02.rpy:356
 msgid "It could be the mysterious person. "
-msgstr ""
+msgstr "Potrebbe essere la persona misteriosa. "
 
 # game/Quest_Rooms_Separate02.rpy:356
 msgid "What was there to steal? "
-msgstr ""
+msgstr "Cosa c'era da rubare? "
 
 # game/Quest_Rooms_Separate02.rpy:356
 msgid "Maybe some animals..."
-msgstr ""
+msgstr "Forse alcuni animali..."
 
 # game/Quest_Rooms_Separate02.rpy:648
 msgid "{color=#3ad8ff}I have everything you asked for!{/color}"
-msgstr ""
+msgstr "{color=#3ad8ff}Ho tutto quello che hai chiesto!{/color}"
 
 # game/Quest_Rooms_Separate02.rpy:648
 msgid "Corruption"
-msgstr ""
+msgstr "Corruzione"
 
 # game/Quest_Rooms_Separate02.rpy:648
 msgid "{color=#636363}Would you like to change your clothes?{/color} {image=shirt02.png} "
-msgstr ""
+msgstr "{color=#636363}Vuoi cambiare i tuoi vestiti?{/color} {image=shirt02.png} "
 
 # game/Quest_Rooms_Separate02.rpy:656
 msgid "{color=#3ad8ff}I need to know... Are you red everywhere?{/color} {image=heart01.png}"
-msgstr ""
+msgstr "{color=#3ad8ff}Devo saperlo... Sei rosso ovunque?{/color} {image=heart01.png}"
 
 # game/Quest_Rooms_Separate02.rpy:656
 msgid "{color=#3ad8ff}I would like to know... Are you red everywhere?{/color} {image=heart02.png}"
-msgstr ""
+msgstr "{color=#3ad8ff}Vorrei saperlo... Sei rosso ovunque?{/color} {image=heart02.png}"
 
 # game/Quest_Rooms_Separate02.rpy:656
 msgid "{color=#3ad8ff}I would love to see your face{/color} {image=heart01.png}"
-msgstr ""
+msgstr "{color=#3ad8ff}Mi piacerebbe vedere la tua faccia{/color} {image=heart01.png}"
 
 # game/Quest_Rooms_Separate02.rpy:656
 msgid "{color=#3ad8ff}I would love to see your face{/color} {image=heart02.png}"
-msgstr ""
+msgstr "{color=#3ad8ff}Mi piacerebbe vedere la tua faccia{/color} {image=heart02.png}"
 
 # game/Quest_Rooms_Separate02.rpy:656
 msgid "{color=#3ad8ff}Can you show me your boobs? {/color} {image=heart01.png}{image=heart01.png}"
-msgstr ""
+msgstr "{color=#3ad8ff}Puoi mostrarmi le tue tette? {/color} {image=heart01.png}{image=heart01.png}"
 
 # game/Quest_Rooms_Separate02.rpy:656
 msgid "{color=#3ad8ff}Can you show me your boobs? {/color} {image=heart03.png}{image=heart01.png}"
-msgstr ""
+msgstr "{color=#3ad8ff}Puoi mostrarmi le tue tette? {/color} {image=heart03.png}{image=heart01.png}"
 
 # game/Quest_Rooms_Separate02.rpy:796
 msgid "I didn't notice you were pretty before"
-msgstr ""
+msgstr "Non mi sono accorta che eri piuttosto prima"
 
 # game/Quest_Rooms_Separate02.rpy:796
 msgid "You have a pretty face."
-msgstr ""
+msgstr "Hai una bella faccia."
 
 # game/Quest_Rooms_Separate02.rpy:796
 msgid "I had no idea your head was red. "
-msgstr ""
+msgstr "Non avevo idea che la sua testa fosse rossa. "
 
 # game/Quest_Rooms_Separate02.rpy:1244
 msgid "I never said she was my wife"
-msgstr ""
+msgstr "Non ho mai detto che era mia moglie"
 
 # game/Quest_Rooms_Separate02.rpy:1244
 msgid "{color=#797979}I never said she was my wife{/color}"
-msgstr ""
+msgstr "{color=#797979}Non ho mai detto che era mia moglie{/color}"
 
 # game/Quest_Rooms_Separate02.rpy:1244
 msgid "Why are you so angry?"
-msgstr ""
+msgstr "Perché siete così arrabbiati?"
 
 # game/Quest_Rooms_Separate02.rpy:1244
 msgid "{color=#797979}Why are you so angry?{/color}"
-msgstr ""
+msgstr "{color=#797979}Perché sei così arrabbiato?{/color}"
 
 # game/Quest_Rooms_Separate02.rpy:1244
 msgid "{color=#3ad8ff}Can we talk calmly?{/color}"
-msgstr ""
+msgstr "{color=#3ad8ff}Possiamo parlare tranquillamente?{/color}"
 
 # game/Quest_Rooms_Separate02.rpy:1445
 msgid "{color=#797979}What's your name?{/color}"
-msgstr ""
+msgstr "{color=#797979}Qual è il tuo nome?{/color}"
 
 # game/Quest_Rooms_Separate02.rpy:1445
 msgid "How old are you? "
-msgstr ""
+msgstr "Quanti anni hai? "
 
 # game/Quest_Rooms_Separate02.rpy:1445
 msgid "{color=#797979}How old are you?{/color}"
-msgstr ""
+msgstr "{color=#797979}Quanti anni ha?{/color}"
 
 # game/Quest_Rooms_Separate02.rpy:1445
 msgid "What do you do for a living?"
-msgstr ""
+msgstr "Cosa fai per vivere?"
 
 # game/Quest_Rooms_Separate02.rpy:1445
 msgid "{color=#797979}What do you do for a living?{/color}"
-msgstr ""
+msgstr "{color=#797979}Cosa fai per vivere?{/color}"
 
 # game/Quest_Rooms_Separate02.rpy:1503
 msgid "What's your favourite color?"
-msgstr ""
+msgstr "Qual è il tuo colore preferito?"
 
 # game/Quest_Rooms_Separate02.rpy:1503
 msgid "{color=#797979}What's your favourite color?{/color}"
-msgstr ""
+msgstr "{color=#797979}Qual è il tuo colore preferito?{/color}"
 
 # game/Quest_Rooms_Separate02.rpy:1503
 msgid "What's your favourite animal?"
-msgstr ""
+msgstr "Qual è il tuo animale preferito?"
 
 # game/Quest_Rooms_Separate02.rpy:1503
 msgid "{color=#797979}What's your favourite animal?{/color}"
-msgstr ""
+msgstr "{color=#797979}Qual è il tuo animale preferito?{/color}"
 
 # game/Quest_Rooms_Separate02.rpy:1541
 msgid "How many men have you slept with? "
-msgstr ""
+msgstr "Con quanti uomini hai dormito? "
 
 # game/Quest_Rooms_Separate02.rpy:1541
 msgid "How many times a day do you masturbate? "
-msgstr ""
+msgstr "Quante volte al giorno si masturba? "
 
 # game/Quest_Rooms_Separate02.rpy:1541
 msgid "What's your favourite sexual position?"
-msgstr ""
+msgstr "Qual è la tua posizione sessuale preferita?"
 
 # game/Quest_Rooms_Separate02.rpy:1760
 msgid "All right, then. Show me your skills."
-msgstr ""
+msgstr "Va bene, allora. Mostrami le tue abilità."
 
 # game/Quest_Rooms_Separate02.rpy:1915
 msgid "*Positive ''Mh!''*"
-msgstr ""
+msgstr "*Positivo ''Mh!''*"
 
 # game/Quest_Rooms_Separate02.rpy:1915
 msgid "*Negative ''Mh!''*"
-msgstr ""
+msgstr "*Negativo ''Mh!''*"
 
 # game/Quest_Rooms_Separate02.rpy:2099
 msgid "Cum on her face"
-msgstr ""
+msgstr "Sperma sul suo viso"
 
 # game/Quest_Rooms_Separate02.rpy:2099
 msgid "Cum in her mouth"
-msgstr ""
+msgstr "Sperma in bocca"
 
