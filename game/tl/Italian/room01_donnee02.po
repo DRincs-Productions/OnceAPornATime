@@ -10,13 +10,13 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2024-02-26 09:13\n"
+"PO-Revision-Date: 2024-05-24 23:50\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/room01_donnee02.rpy:42 #-#-# translate crowdin room01_donneechara01_panel01_5fad2aac:
 msgid " = This is the corpution panel = "
-msgstr ""
+msgstr " = Questo è il pannello di corpuzione = "
 
 # game/room01_donnee02.rpy:43 #-#-# translate crowdin room01_donneechara01_panel01_9ed64106:
 msgid " = All corruptible characters in this version of the game are available here. = "
-msgstr ""
+msgstr " = Tutti i personaggi corruttibili in questa versione del gioco sono disponibili qui. = "
 
