@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-04-02 10:50\n"
+"PO-Revision-Date: 2024-05-24 23:49\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/expedition_02Loot.rpy:230 #-#-# translate crowdin Expedition_02_CHEST_94315d50:
 msgid "[_u_] It's some kind of locked chest... "
@@ -230,7 +230,7 @@ msgstr "[ _u_ ] Qui pourrait être assez riche pour se permettre une valise comm
 
 # game/expedition_02Loot.rpy:788 #-#-# translate crowdin Expedition_02_QuestsLvl2_7b1c1392:
 msgid "[_u_] ..."
-msgstr "..."
+msgstr "[_u_]..."
 
 # game/expedition_02Loot.rpy:804 #-#-# translate crowdin Expedition_02_QuestsLvl2_266e7731:
 msgid "[_u_] Hey, Amandine!"
