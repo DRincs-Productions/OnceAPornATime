@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2024-02-26 09:12\n"
+"PO-Revision-Date: 2024-05-24 23:50\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # §translate crowdin strings: #|#|# # game/WorkArea.rpy:13
 msgid "EMEE_Scene02"
-msgstr ""
+msgstr "EMEE_Scene02"
 
