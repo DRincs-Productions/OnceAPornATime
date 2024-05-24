@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-04-05 13:02\n"
+"PO-Revision-Date: 2024-05-24 23:49\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_E.rpy:71 #-#-# translate crowdin Cell01_E_QuestActivations_9ef65d05:
 msgid "[_u_] Whose ship is this? "
@@ -182,7 +182,7 @@ msgstr "[_am_] Non. Pas aujourd'hui."
 
 # game/Cell01_E.rpy:438 #-#-# translate crowdin CHARA_E_Shop_MenuChoice_SELL_8ef1d7e6:
 msgid "[_e_] Yes, of course! It would be a pleasure!"
-msgstr "Oui, bien sûr! Ça serait un plaisir!"
+msgstr "[_e_] Oui, bien sûr ! Ça sera avec plaisir !"
 
 # game/Cell01_E.rpy:515 #-#-# translate crowdin Emee_Change_HAIRS_eeffea44:
 msgid "[_u_] Goodbye, ma'am!"
@@ -986,7 +986,7 @@ msgstr "[Oh mais oui, il y a Amelia !"
 
 # game/Cell01_E.rpy:1144 #-#-# translate crowdin Emee_FirstAppChap2_menu1_P3_9a531964:
 msgid "[_u_] Amelia?"
-msgstr "Amelia?"
+msgstr "[_u_] Amelia?"
 
 # game/Cell01_E.rpy:1146 #-#-# translate crowdin Emee_FirstAppChap2_menu1_P3_b9c70bd3:
 msgid "[_e_] Yeah! That's uh... Do you remember the old AI in my ship? "
@@ -1110,7 +1110,7 @@ msgstr "[Non."
 
 # game/Cell01_E.rpy:1240 #-#-# translate crowdin Emee_FirstAppChap2_menu1_P5_7b1c1392:
 msgid "[_u_] ..."
-msgstr "..."
+msgstr "[_u_]..."
 
 # game/Cell01_E.rpy:1241 #-#-# translate crowdin Emee_FirstAppChap2_menu1_P5_11d105e9:
 msgid "[_u_] We should find a way to talk to each other without being spied on. "
@@ -1322,7 +1322,7 @@ msgstr "[_u_] Jolies pantoufles. "
 
 # game/Cell01_E.rpy:1418 #-#-# translate crowdin Emee_Dress02_React_7b1c1392:
 msgid "[_u_] ..."
-msgstr "..."
+msgstr "[_u_]..."
 
 # game/Cell01_E.rpy:1419 #-#-# translate crowdin Emee_Dress02_React_95ceee2e:
 msgid "[_u_] They are very pointed... "
@@ -1714,7 +1714,7 @@ msgstr "[_u_] Vraiment ? "
 
 # game/Cell01_E.rpy:1668 #-#-# translate crowdin E_Talk_FirstTimeBookJasmine_7b1c1392:
 msgid "[_u_] ..."
-msgstr "..."
+msgstr "[_u_]..."
 
 # game/Cell01_E.rpy:1674 #-#-# translate crowdin E_Talk_FirstTimeBookJasmine_a56ac343:
 msgid "[_e_] I did not find it, I bought it... "
@@ -2618,7 +2618,7 @@ msgstr "[_u_] ''Sésame ouvre-toi!''"
 
 # game/Cell01_E.rpy:2217 #-#-# translate crowdin Emee_Ali_01_01_next01_7b1c1392:
 msgid "[_u_] ..."
-msgstr "..."
+msgstr "[_u_]..."
 
 # game/Cell01_E.rpy:2218 #-#-# translate crowdin Emee_Ali_01_01_next01_786f2b5e:
 msgid "[_u_] That's funny. I thought it would work."
