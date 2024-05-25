@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2024-05-24 23:50\n"
+"PO-Revision-Date: 2024-05-25 00:46\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Room_01_Ordi.rpy:7 #-#-# translate crowdin room01_ordi01_In_f3a4608f:
 msgid "[_u_] Let's try to open that door first."
@@ -625,7 +625,10 @@ msgid "{size=20}== {color=#797979}Cheat codes are currently{/color} {color=#f292
 "== You have : {color=#a0fc86}[CHEATPOINTS]{/color} Cheat Points (CP) ==\n"
 "{size=20}== You have:{color=#a0fc86} [MONEY] Credits {/color}/{color=#a0fc86} [IMAGEDATA] Image Datas {/color}/{color=#3c96f2} [CLOTHEDATA] Clothes Data {/color}/{color=#f2923c} [CHARADATA] Character Datas {/color} =={/size}\n"
 "=="
-msgstr ""
+msgstr "{size=20}== {color=#797979}I cheat code sono attualmente{/color} {color=#f2923c}ATTIVO{/color} =={/size}\n"
+"== Hai : {color=#a0fc86}[CHEATPOINTS]{/color} Cheat Points (CP) ==\n"
+"{size=20}== Hai:{color=#a0fc86} [MONEY] Credits {/color}/{color=#a0fc86} [IMAGEDATA] Image Datas {/color}/{color=#3c96f2} [CLOTHEDATA] Clothes Data {/color}/{color=#f2923c} [CHARADATA] Character Datas {/color} =={/size}\n"
+"=="
 
 # game/Room_01_Ordi.rpy:847
 msgid "== +800 {color=#a0fc86}Credits{/color} == {color=#a0fc86}1CP{/color}"
