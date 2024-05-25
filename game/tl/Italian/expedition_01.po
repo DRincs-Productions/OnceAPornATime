@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2024-05-24 23:50\n"
+"PO-Revision-Date: 2024-05-25 00:46\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/expedition_01.rpy:72 #-#-# translate crowdin expedition_01lvl01_44b42dfd:
 msgid "The Drone have [ITEM_DRONE_EMERCELL01_UTILISATIONS] Emergency Energy Cell. ( [ITEM_DRONE_EMERCELL01] left in your inventory.) "
@@ -66,7 +66,7 @@ msgstr " Il drone non ha più potere. "
 
 # game/expedition_01.rpy:140 #-#-# translate crowdin Expedition_01_RANDOM_69786a16:
 msgid " Do you want to use an Emergency Energy Cell ? ([ITEM_DRONE_EMERCELL01_UTILISATIONS] Emergency Energy Cell left) "
-msgstr ""
+msgstr " Vuoi utilizzare una cella energetica di emergenza ? ([ITEM_DRONE_EMERCELL01_UTILISATIONS] Cella energetica di emergenza a sinistra) "
 
 # game/expedition_01.rpy:151 #-#-# translate crowdin Expedition_01_RANDOM_5d1d2551:
 msgid " Drone AP set to: {color=#3797d1}[PA_DRONE01]{/color} AP. ([ITEM_DRONE_EMERCELL01_UTILISATIONS] Emergency Energy Cell left)"
