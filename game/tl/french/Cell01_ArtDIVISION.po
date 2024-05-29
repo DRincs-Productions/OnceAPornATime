@@ -5313,7 +5313,6 @@ msgstr "C'est donc pour cela que vous êtes ici ? "
 # game/Cell01_ArtDIVISION.rpy:546
 msgid ""
 msgstr ""
-""
 
 # game/Cell01_ArtDIVISION.rpy:731
 msgid "It looks fun to be so famous"

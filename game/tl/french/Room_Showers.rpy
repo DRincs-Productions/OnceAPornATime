@@ -16,7 +16,7 @@ translate french ML_ShowerCams01_02_4abce515:
 translate french A_GoShower_6fe1abdc:
 
     # u "Hey? Anybody here?"
-    "[ _u_ ] Hey? Quelqu'un ici?"
+    "[ _u_ ] Hey? Y'a quelqu'un?"
 
 # game/Room_Showers.rpy:136
 translate french A_GoShower_0e192d24:
@@ -46,7 +46,7 @@ translate french A_GoShower_98997faf:
 translate french A_GoShower_2754a868:
 
     # a "What are you doing here? "
-    a "Que faites-vous ici? "
+    a "Qu'est-ce que tu fais là "
 
 # game/Room_Showers.rpy:154
 translate french A_GoShower_70c0677a:
@@ -82,13 +82,13 @@ translate french A_GoShower_1a37392a:
 translate french A_GoShower_menu1_b6de8553:
 
     # a "Yep! I figured this was the best way to start my personal self-corruption phase."
-    a "Yep ! Je me suis dit que c'était la meilleure façon de commencer ma propre phase personnelle de corruption."
+    a "Yep ! Je me suis dit que c'était la meilleure manière de commencer ma phase de corruption personnelle"
 
 # game/Room_Showers.rpy:169
 translate french A_GoShower_menu1_f6957375:
 
     # a "God... I really am a princess to be corrupted. "
-    a "Dieu ... Je suis vraiment une princesse corrompues. "
+    a "Mon Dieu... Je suis vraiment une princesse qui va être corrompue. "
 
 # game/Room_Showers.rpy:171
 translate french A_GoShower_menu1_d94295c6:
@@ -106,43 +106,43 @@ translate french A_GoShower_menu1_2fa13f80:
 translate french A_GoShower_menu1_fc82be4d:
 
     # a "Well, yes... I ran into Amelia's big tits on the way here. "
-    a "Eh bien, oui ... J'ai couru dans les grandes seins d'Amelia sur le chemin ici. "
+    a "Eh bien, oui ... J'ai vu les énormes seins d'Amelia en venant ici."
 
 # game/Room_Showers.rpy:180
 translate french A_GoShower_menu1_4be91d13:
 
     # a "But she was going out... so I showered alone."
-    a "Mais elle sortait ... alors je me suis présenté seul."
+    a "Mais elle sortait de là... donc je me suis douchée toute seule"
 
 # game/Room_Showers.rpy:181
 translate french A_GoShower_menu1_0180c08b:
 
     # u "You should have called me, I would have gladly accompanied you. "
-    "[ _u_ ] Tu aurais dû m'appeler, j'aurais volontiers accompagné. "
+    "[ _u_ ] Tu aurais dû m'appeler, je t'aurais volontiers accompagné. "
 
 # game/Room_Showers.rpy:183
 translate french A_GoShower_menu1_1c5b1942:
 
     # a "I prefer to leave it to chance and wait to see if anyone comes here at the same time as me."
-    a "Je préfère la laisser au hasard et attendre de voir si quelqu'un vient ici en même temps que moi."
+    a "Je préfère laisser la chance faire et voir si quelqu'un allait venir en même temps que moi."
 
 # game/Room_Showers.rpy:185
 translate french A_GoShower_menu1_33ae40b2:
 
     # a "It adds a little spice to the experience. "
-    a "Cela ajoute un peu d'épices à l'expérience. "
+    a "Ça ajoute un peu de piment à tout ça."
 
 # game/Room_Showers.rpy:186
 translate french A_GoShower_menu1_e61f257b:
 
     # u "I confirm... You may have exibitionist tendencies. "
-    "[ _u_ ] Je confirme ... Vous avez peut-être des tendances exibitionnistes. "
+    "[ _u_ ] Je confirme ... Tu as peut-être des tendances exibitionnistes. "
 
 # game/Room_Showers.rpy:188
 translate french A_GoShower_menu1_b1fac8ad:
 
     # a "Oh? You might be right!"
-    a "Oh? Vous avez peut-être raison !"
+    a "Oh? Peut-être, tu dois avoir raison!"
 
 # game/Room_Showers.rpy:191
 translate french A_GoShower_menu1_8a5d69d6:
@@ -160,7 +160,7 @@ translate french A_GoShower_menu1_e1695301:
 translate french A_GoShower_menu1_7c18f4d4:
 
     # a "No worries, see you later [name]!"
-    a "No inquiétude, see you later [ nom ] !"
+    a "Pas de soucis, à plus tard [name] !"
 
 # game/Room_Showers.rpy:205
 translate french A_GoShower_menu1_002186e8:
@@ -196,25 +196,25 @@ translate french A_GoShower_menu1_b5b56be9:
 translate french A_GoShower_menu1_15ed6840:
 
     # a "God... I'll never get rid of this damn modesty. "
-    a "Dieu ... Je ne me débarrinerai jamais de cette putain de modestie. "
+    a "Mon dieu... Je pense que je ne me débarasserai jamais de cette foutue pudeur..."
 
 # game/Room_Showers.rpy:216
 translate french A_GoShower_menu1_a833a0c7:
 
     # a "I can't just... like... get naked that easy... "
-    a "Je ne peux pas ... comme ... être nu aussi facile ... "
+    a "Je ne peux pas... juste ... être nue aussi facilement ... "
 
 # game/Room_Showers.rpy:218
 translate french A_GoShower_menu1_c0b3f998:
 
     # a "Can you imagine me? Stripping naked and acting like nothing happened? "
-    a "Pouvez-vous m'imaginer? Viser nu et agir comme rien ne s'est passé? "
+    a "Est-ce que tu peux m'imaginer ça? Se déshabiller et faire comme si de rien était?"
 
 # game/Room_Showers.rpy:220
 translate french A_GoShower_menu1_a2b9c518:
 
     # a "That's just impossible!"
-    a "C'est tout simplement impossible !"
+    a "C'est juste impossible !"
 
 # game/Room_Showers.rpy:221
 translate french A_GoShower_menu1_3723b6f2:
@@ -226,13 +226,13 @@ translate french A_GoShower_menu1_3723b6f2:
 translate french A_GoShower_menu1_96ef4124:
 
     # ly "Is there anyone here?"
-    "[ _ly_ ] Y a-t-il quelqu'un ici?"
+    "[ _ly_ ] Y'a quelqu'un?"
 
 # game/Room_Showers.rpy:231
 translate french A_GoShower_menu1_56f46b70:
 
     # ly "Hi, you two!"
-    "[ _ly_ ] Bonjour, vous deux !"
+    "[ _ly_ ] Hello vous deux !"
 
 # game/Room_Showers.rpy:233
 translate french A_GoShower_menu1_bbda9952:
@@ -244,7 +244,7 @@ translate french A_GoShower_menu1_bbda9952:
 translate french A_GoShower_menu1_1de40c75:
 
     # ly "What are you doing? "
-    "[ _ly_ ] Que faites-vous? "
+    "[ _ly_ ] Qu'est-ce que vous faites?"
 
 # game/Room_Showers.rpy:238
 translate french A_GoShower_menu1_0deb8a50:
@@ -262,7 +262,7 @@ translate french A_GoShower_menu1_7b1c1392:
 translate french A_GoShower_menu1_fedf98e5:
 
     # u "Damn girls... I'm so jealous of your towels."
-    "[ _u_ ] Les filles ... Je suis si jaloux de tes serviettes."
+    "[ _u_ ] Wow les filles... Je voudrais tellement être à la place de vos serviettes... (ou)\n[ _u_ ] Wow les filles... Je voudrais tellement vous voir sans serviettes..."
 
 # game/Room_Showers.rpy:242
 translate french A_GoShower_menu1_97ce97dc:
@@ -274,31 +274,31 @@ translate french A_GoShower_menu1_97ce97dc:
 translate french A_GoShower_menu1_7fdbab78:
 
     # ly "You were talking about towels? "
-    "[ _ly_ ] Vous parlions de serviettes? "
+    "[ _ly_ ] Vous étiez en train de parler de serviettes? "
 
 # game/Room_Showers.rpy:249
 translate french A_GoShower_menu1_3a025327:
 
     # ly "Don't you want to talk about something else?"
-    "[ _ly_ ] Ne voulez-vous pas parler d'autre chose?"
+    "[ _ly_ ] Tu veux parler d'autres choses?"
 
 # game/Room_Showers.rpy:258
 translate french A_GoShower_menu1_c26cab6a:
 
     # ly "I don't know, like... "
-    "[ _ly_ ] Je ne sais pas, comme ... "
+    "[ _ly_ ] Je sais pas, par exemple ... "
 
 # game/Room_Showers.rpy:262
 translate french A_GoShower_menu1_c52eb593:
 
     # ly "...I think everything is more interesting than talking about towels. "
-    "[ _ly_ ] ...Je pense que tout est plus intéressant que de parler des serviettes. "
+    "[ _ly_ ] ...Je pense que parler de serviettes est moins intéressant que n'importe quel autre sujet de conversation."
 
 # game/Room_Showers.rpy:264
 translate french A_GoShower_menu1_44e52acc:
 
     # ly "Like... the weather outside... "
-    "[ _ly_ ] Comme ... le temps dehors ... "
+    "[ _ly_ ] Comme ... le temps qu'il fait dehors ... "
 
 # game/Room_Showers.rpy:266
 translate french A_GoShower_menu1_92c477a5:
@@ -340,13 +340,13 @@ translate french A_GoShower_menu1_15a865b6:
 translate french A_GoShower_menu1_31a94636:
 
     # ly "Shouldn't I? "
-    "[ _ly_ ] Ne devrais-je pas? "
+    ly "Je ne devrais pas? "
 
 # game/Room_Showers.rpy:282
 translate french A_GoShower_menu1_4a5d1120:
 
     # ly "I mean... We're in a shower room... I'm not going to wash with my clothes on..."
-    "[ _ly_ ] Je veux dire ... Nous sommes dans une salle de douche ... Je ne vais pas me laver avec mes vêtements ..."
+    "[ _ly_ ] Je veux dire ... On est dans une douche ... Je ne vais pas me laver avec mes vêtements ..."
 
 # game/Room_Showers.rpy:285
 translate french A_GoShower_menu1_74417676:

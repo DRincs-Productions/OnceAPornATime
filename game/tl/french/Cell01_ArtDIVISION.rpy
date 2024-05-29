@@ -7874,8 +7874,12 @@ translate french strings:
     old "So that's why you're here? "
     new "C'est donc pour cela que vous êtes ici ? "
 
-# game/Cell01_ArtDIVISION.rpy:546
+    # game/Cell01_ArtDIVISION.rpy:546
+    old ""
+    new ""
 
+    # game/Cell01_ArtDIVISION.rpy:731
+    old "It looks fun to be so famous"
     new "C'est amusant d'être aussi célèbre"
 
     # game/Cell01_ArtDIVISION.rpy:731
