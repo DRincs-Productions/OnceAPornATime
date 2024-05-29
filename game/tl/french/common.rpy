@@ -85,9 +85,9 @@ translate french strings:
     old "Enable"
     new "Active"
 
-    # renpy/common/00accessibility.rpy:186
-    old "Disable"
-    new "Désactivé"
+    # # renpy/common/00accessibility.rpy:186
+    # old "Disable"
+    # new "Désactivé"
 
     # renpy/common/00accessibility.rpy:193
     old "Self-Voicing"
@@ -117,9 +117,9 @@ translate french strings:
     old "The options on this menu are intended to improve accessibility. They may not work with all games, and some combinations of options may render the game unplayable. This is not an issue with the game or engine. For the best results when changing fonts, try to keep the text size the same as it originally was."
     new "Les options de ce menu ont pour objectif d'augmenter l'accessibilité. Elles peuvent ne pas fonctionner sur tous les jeux, et certaines combinations d'options peuvent rendre le jeu injouable. Le problème ne vient pas du jeu ou du moteur. Pour de meilleurs résultats en changeant la police, essayez de maintenir le texte de la même taille qu'avant."
 
-    # renpy/common/00accessibility.rpy:229
-    old "Return"
-    new "Retour"
+    # # renpy/common/00accessibility.rpy:229
+    # old "Return"
+    # new "Retour"
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Monday"
@@ -301,17 +301,17 @@ translate french strings:
     old "File page [text]"
     new "Page [text]"
 
-    # renpy/common/00action_file.rpy:639
-    old "Page {}"
-    new "Page {}"
+    # # renpy/common/00action_file.rpy:639
+    # old "Page {}"
+    # new "Page {}"
 
-    # renpy/common/00action_file.rpy:639
-    old "Automatic saves"
-    new "Sauvegardes automatiques"
+    # # renpy/common/00action_file.rpy:639
+    # old "Automatic saves"
+    # new "Sauvegardes automatiques"
 
-    # renpy/common/00action_file.rpy:639
-    old "Quick saves"
-    new "Sauvegardes rapides"
+    # # renpy/common/00action_file.rpy:639
+    # old "Quick saves"
+    # new "Sauvegardes rapides"
 
     # renpy/common/00action_file.rpy:780
     old "Next file page."
@@ -781,9 +781,9 @@ translate french strings:
     old "Proceed"
     new "Continuer"
 
-    # renpy/common/00compat.rpy:371
-    old "Fullscreen"
-    new "Plein écran"
+    # # renpy/common/00compat.rpy:371
+    # old "Fullscreen"
+    # new "Plein écran"
 
     # renpy/common/00gallery.rpy:627
     old "Image [index] of [count] locked."
@@ -801,9 +801,9 @@ translate french strings:
     old "slideshow"
     new "diaporama"
 
-    # renpy/common/00gallery.rpy:650
-    old "return"
-    new "retour"
+    # # renpy/common/00gallery.rpy:650
+    # old "Return"
+    # new "retour"
 
     # renpy/common/00gltest.rpy:89
     old "Renderer"
@@ -837,17 +837,17 @@ translate french strings:
     old "Force GLES2 Renderer"
     new "Forcer le moteur de rendu GLES2"
 
-    # renpy/common/00gltest.rpy:132
-    old "Gamepad"
-    new "Manette"
+    # # renpy/common/00gltest.rpy:132
+    # old "Gamepad"
+    # new "Manette"
 
     # renpy/common/00gltest.rpy:136
     old "Enable (No Blocklist)"
     new "Activer (Sans Blocklist)"
 
-    # renpy/common/00gltest.rpy:150
-    old "Calibrate"
-    new "Calibrage"
+    # # renpy/common/00gltest.rpy:150
+    # old "Calibrate"
+    # new "Calibrage"
 
     # renpy/common/00gltest.rpy:159
     old "Powersave"
@@ -877,9 +877,9 @@ translate french strings:
     old "Changes will take effect the next time this program is run."
     new "Les changements prendront effet au prochain démarrage du programme."
 
-    # renpy/common/00gltest.rpy:214
-    old "Quit"
-    new "Quitter"
+    # # renpy/common/00gltest.rpy:214
+    # old "Quit"
+    # new "Quitter"
 
     # renpy/common/00gltest.rpy:242
     old "Performance Warning"
@@ -1017,231 +1017,231 @@ translate french strings:
     old "Parsing the script failed."
     new "L’analyse du script a échoué."
 
-    # renpy/common/_developer/developer.rpym:38
-    old "Developer Menu"
-    new "Menu du développeur"
+    # # renpy/common/_developer/developer.rpym:38
+    # old "Developer Menu"
+    # new "Menu du développeur"
 
-    # renpy/common/_developer/developer.rpym:43
-    old "Interactive Director (D)"
-    new "Réalisateur interactif (D)"
+    # # renpy/common/_developer/developer.rpym:43
+    # old "Interactive Director (D)"
+    # new "Réalisateur interactif (D)"
 
-    # renpy/common/_developer/developer.rpym:45
-    old "Reload Game (Shift+R)"
-    new "Recharger la partie (Maj+R)"
+    # # renpy/common/_developer/developer.rpym:45
+    # old "Reload Game (Shift+R)"
+    # new "Recharger la partie (Maj+R)"
 
-    # renpy/common/_developer/developer.rpym:47
-    old "Console (Shift+O)"
-    new "Console (Maj+O)"
+    # # renpy/common/_developer/developer.rpym:47
+    # old "Console (Shift+O)"
+    # new "Console (Maj+O)"
 
-    # renpy/common/_developer/developer.rpym:49
-    old "Variable Viewer"
-    new "Visualisateur de variable"
+    # # renpy/common/_developer/developer.rpym:49
+    # old "Variable Viewer"
+    # new "Visualisateur de variable"
 
-    # renpy/common/_developer/developer.rpym:51
-    old "Image Location Picker"
-    new "Sélecteur d’emplacement d’images"
+    # # renpy/common/_developer/developer.rpym:51
+    # old "Image Location Picker"
+    # new "Sélecteur d’emplacement d’images"
 
-    # renpy/common/_developer/developer.rpym:53
-    old "Filename List"
-    new "Liste des noms de fichiers"
+    # # renpy/common/_developer/developer.rpym:53
+    # old "Filename List"
+    # new "Liste des noms de fichiers"
 
-    # renpy/common/_developer/developer.rpym:57
-    old "Show Image Load Log (F4)"
-    new "Montrer le log ne chargement des images (F4)"
+    # # renpy/common/_developer/developer.rpym:57
+    # old "Show Image Load Log (F4)"
+    # new "Montrer le log ne chargement des images (F4)"
 
-    # renpy/common/_developer/developer.rpym:60
-    old "Hide Image Load Log (F4)"
-    new "Masquer le log de chargement des images (F4)"
+    # # renpy/common/_developer/developer.rpym:60
+    # old "Hide Image Load Log (F4)"
+    # new "Masquer le log de chargement des images (F4)"
 
-    # renpy/common/_developer/developer.rpym:63
-    old "Image Attributes"
-    new "Attributs d'image"
+    # # renpy/common/_developer/developer.rpym:63
+    # old "Image Attributes"
+    # new "Attributs d'image"
 
-    # renpy/common/_developer/developer.rpym:90
-    old "[name] [attributes] (hidden)"
-    new "[name] [attributes] (masqué)"
+    # # renpy/common/_developer/developer.rpym:90
+    # old "[name] [attributes] (hidden)"
+    # new "[name] [attributes] (masqué)"
 
-    # renpy/common/_developer/developer.rpym:94
-    old "[name] [attributes]"
-    new "[name] [attributes]"
+    # # renpy/common/_developer/developer.rpym:94
+    # old "[name] [attributes]"
+    # new "[name] [attributes]"
 
-    # renpy/common/_developer/developer.rpym:143
-    old "Nothing to inspect."
-    new "Rien à inspecter."
+    # # renpy/common/_developer/developer.rpym:143
+    # old "Nothing to inspect."
+    # new "Rien à inspecter."
 
-    # renpy/common/_developer/developer.rpym:154
-    old "Hide deleted"
-    new "Masquer les supprimés"
+    # # renpy/common/_developer/developer.rpym:154
+    # old "Hide deleted"
+    # new "Masquer les supprimés"
 
-    # renpy/common/_developer/developer.rpym:154
-    old "Show deleted"
-    new "Montrer les supprimés"
+    # # renpy/common/_developer/developer.rpym:154
+    # old "Show deleted"
+    # new "Montrer les supprimés"
 
-    # renpy/common/_developer/developer.rpym:278
-    old "Return to the developer menu"
-    new "Retourner au menu de développeur"
+    # # renpy/common/_developer/developer.rpym:278
+    # old "Return to the developer menu"
+    # new "Retourner au menu de développeur"
 
-    # renpy/common/_developer/developer.rpym:443
-    old "Rectangle: %r"
-    new "Rectangle : %r"
+    # # renpy/common/_developer/developer.rpym:443
+    # old "Rectangle: %r"
+    # new "Rectangle : %r"
 
-    # renpy/common/_developer/developer.rpym:448
-    old "Mouse position: %r"
-    new "Position de la souris : %r"
+    # # renpy/common/_developer/developer.rpym:448
+    # old "Mouse position: %r"
+    # new "Position de la souris : %r"
 
-    # renpy/common/_developer/developer.rpym:453
-    old "Right-click or escape to quit."
-    new "Clic droit ou « Echap » pour quitter."
+    # # renpy/common/_developer/developer.rpym:453
+    # old "Right-click or escape to quit."
+    # new "Clic droit ou « Echap » pour quitter."
 
-    # renpy/common/_developer/developer.rpym:485
-    old "Rectangle copied to clipboard."
-    new "Rectangle copié dans le presse-papier."
+    # # renpy/common/_developer/developer.rpym:485
+    # old "Rectangle copied to clipboard."
+    # new "Rectangle copié dans le presse-papier."
 
-    # renpy/common/_developer/developer.rpym:488
-    old "Position copied to clipboard."
-    new "Position copiée dans le presse-papier."
+    # # renpy/common/_developer/developer.rpym:488
+    # old "Position copied to clipboard."
+    # new "Position copiée dans le presse-papier."
 
-    # renpy/common/_developer/developer.rpym:506
-    old "Type to filter: "
-    new "Écrire pour filtrer : "
+    # # renpy/common/_developer/developer.rpym:506
+    # old "Type to filter: "
+    # new "Écrire pour filtrer : "
 
-    # renpy/common/_developer/developer.rpym:633
-    old "Textures: [tex_count] ([tex_size_mb:.1f] MB)"
-    new "Textures : [tex_count] ([tex_size_mb:.1f] MB)"
+    # # renpy/common/_developer/developer.rpym:633
+    # old "Textures: [tex_count] ([tex_size_mb:.1f] MB)"
+    # new "Textures : [tex_count] ([tex_size_mb:.1f] MB)"
 
-    # renpy/common/_developer/developer.rpym:637
-    old "Image cache: [cache_pct:.1f]% ([cache_size_mb:.1f] MB)"
-    new "Cache d'images : [cache_pct:.1f]% ([cache_size_mb:.1f] MB)"
+    # # renpy/common/_developer/developer.rpym:637
+    # old "Image cache: [cache_pct:.1f]% ([cache_size_mb:.1f] MB)"
+    # new "Cache d'images : [cache_pct:.1f]% ([cache_size_mb:.1f] MB)"
 
-    # renpy/common/_developer/developer.rpym:647
-    old "✔ "
-    new "✔ "
+    # # renpy/common/_developer/developer.rpym:647
+    # old "✔ "
+    # new "✔ "
 
-    # renpy/common/_developer/developer.rpym:650
-    old "✘ "
-    new "✘ "
+    # # renpy/common/_developer/developer.rpym:650
+    # old "✘ "
+    # new "✘ "
 
-    # renpy/common/_developer/developer.rpym:655
-    old "\n{color=#cfc}✔ predicted image (good){/color}\n{color=#fcc}✘ unpredicted image (bad){/color}\n{color=#fff}Drag to move.{/color}"
-    new "\n{color=#cfc}✔ image prédite (bon){/color}\n{color=#fcc}✘ image prédite (mauvais){/color}\n{color=#fff}Glissez pour bouger.{/color}"
+    # # renpy/common/_developer/developer.rpym:655
+    # old "\n{color=#cfc}✔ predicted image (good){/color}\n{color=#fcc}✘ unpredicted image (bad){/color}\n{color=#fff}Drag to move.{/color}"
+    # new "\n{color=#cfc}✔ image prédite (bon){/color}\n{color=#fcc}✘ image prédite (mauvais){/color}\n{color=#fff}Glissez pour bouger.{/color}"
 
-    # renpy/common/_developer/inspector.rpym:38
-    old "Displayable Inspector"
-    new "Inspecteur de displayables"
+    # # renpy/common/_developer/inspector.rpym:38
+    # old "Displayable Inspector"
+    # new "Inspecteur de displayables"
 
-    # renpy/common/_developer/inspector.rpym:61
-    old "Size"
-    new "Taille"
+    # # renpy/common/_developer/inspector.rpym:61
+    # old "Size"
+    # new "Taille"
 
-    # renpy/common/_developer/inspector.rpym:65
-    old "Style"
-    new "Style"
+    # # renpy/common/_developer/inspector.rpym:65
+    # old "Style"
+    # new "Style"
 
-    # renpy/common/_developer/inspector.rpym:71
-    old "Location"
-    new "Localisation"
+    # # renpy/common/_developer/inspector.rpym:71
+    # old "Location"
+    # new "Localisation"
 
-    # renpy/common/_developer/inspector.rpym:122
-    old "Inspecting Styles of [displayable_name!q]"
-    new "Inspection des styles de [displayable_name!q]"
+    # # renpy/common/_developer/inspector.rpym:122
+    # old "Inspecting Styles of [displayable_name!q]"
+    # new "Inspection des styles de [displayable_name!q]"
 
-    # renpy/common/_developer/inspector.rpym:139
-    old "displayable:"
-    new "displayable :"
+    # # renpy/common/_developer/inspector.rpym:139
+    # old "displayable:"
+    # new "displayable :"
 
-    # renpy/common/_developer/inspector.rpym:145
-    old "        (no properties affect the displayable)"
-    new "        (Aucune propriété ne s'applique au displayable)"
+    # # renpy/common/_developer/inspector.rpym:145
+    # old "        (no properties affect the displayable)"
+    # new "        (Aucune propriété ne s'applique au displayable)"
 
-    # renpy/common/_developer/inspector.rpym:147
-    old "        (default properties omitted)"
-    new "        (Propriétés par défaut omises)"
+    # # renpy/common/_developer/inspector.rpym:147
+    # old "        (default properties omitted)"
+    # new "        (Propriétés par défaut omises)"
 
-    # renpy/common/_developer/inspector.rpym:185
-    old "<repr() failed>"
-    new "<repr() échoué>"
+    # # renpy/common/_developer/inspector.rpym:185
+    # old "<repr() failed>"
+    # new "<repr() échoué>"
 
-    # renpy/common/00console.rpy:524
-    old "Press <esc> to exit console. Type help for help.\n"
-    new "Appuyez sur Échap pour quitter la console. Écrivez help pour afficher l’aide.\n"
+    # # renpy/common/00console.rpy:524
+    # old "Press <esc> to exit console. Type help for help.\n"
+    # new "Appuyez sur Échap pour quitter la console. Écrivez help pour afficher l’aide.\n"
 
-    # renpy/common/00console.rpy:528
-    old "Ren'Py script enabled."
-    new "Script Ren’Py activé."
+    # # renpy/common/00console.rpy:528
+    # old "Ren'Py script enabled."
+    # new "Script Ren’Py activé."
 
-    # renpy/common/00console.rpy:530
-    old "Ren'Py script disabled."
-    new "Script Ren'Py désactivé."
+    # # renpy/common/00console.rpy:530
+    # old "Ren'Py script disabled."
+    # new "Script Ren'Py désactivé."
 
-    # renpy/common/00console.rpy:779
-    old "help: show this help"
-    new "aide : afficher cette aide"
+    # # renpy/common/00console.rpy:779
+    # old "help: show this help"
+    # new "aide : afficher cette aide"
 
-    # renpy/common/00console.rpy:784
-    old "commands:\n"
-    new "commandes :\n"
+    # # renpy/common/00console.rpy:784
+    # old "commands:\n"
+    # new "commandes :\n"
 
-    # renpy/common/00console.rpy:794
-    old " <renpy script statement>: run the statement\n"
-    new " <renpy script statement> : exécuter cette déclaration\n"
+    # # renpy/common/00console.rpy:794
+    # old " <renpy script statement>: run the statement\n"
+    # new " <renpy script statement> : exécuter cette déclaration\n"
 
-    # renpy/common/00console.rpy:796
-    old " <python expression or statement>: run the expression or statement"
-    new " <expression ou instruction python> : exécuter cette expression ou cette instruction"
+    # # renpy/common/00console.rpy:796
+    # old " <python expression or statement>: run the expression or statement"
+    # new " <expression ou instruction python> : exécuter cette expression ou cette instruction"
 
-    # renpy/common/00console.rpy:804
-    old "clear: clear the console history"
-    new "clear : effacer l’historique de la console"
+    # # renpy/common/00console.rpy:804
+    # old "clear: clear the console history"
+    # new "clear : effacer l’historique de la console"
 
-    # renpy/common/00console.rpy:808
-    old "exit: exit the console"
-    new "exit : quitter la console"
+    # # renpy/common/00console.rpy:808
+    # old "exit: exit the console"
+    # new "exit : quitter la console"
 
-    # renpy/common/00console.rpy:816
-    old "stack: print the return stack"
-    new "stack : affiche la pile de retour"
+    # # renpy/common/00console.rpy:816
+    # old "stack: print the return stack"
+    # new "stack : affiche la pile de retour"
 
-    # renpy/common/00console.rpy:838
-    old "load <slot>: loads the game from slot"
-    new "load <slot> : charger la partie de cet emplacement"
+    # # renpy/common/00console.rpy:838
+    # old "load <slot>: loads the game from slot"
+    # new "load <slot> : charger la partie de cet emplacement"
 
-    # renpy/common/00console.rpy:851
-    old "save <slot>: saves the game in slot"
-    new "save <slot> : sauvegarder la partie dans cet emplacement "
+    # # renpy/common/00console.rpy:851
+    # old "save <slot>: saves the game in slot"
+    # new "save <slot> : sauvegarder la partie dans cet emplacement "
 
-    # renpy/common/00console.rpy:862
-    old "reload: reloads the game, refreshing the scripts"
-    new "reload: recharge le jeu, rafraîchit les scripts"
+    # # renpy/common/00console.rpy:862
+    # old "reload: reloads the game, refreshing the scripts"
+    # new "reload: recharge le jeu, rafraîchit les scripts"
 
-    # renpy/common/00console.rpy:870
-    old "watch <expression>: watch a python expression\n watch short: makes the representation of traced expressions short (default)\n watch long: makes the representation of traced expressions as is"
-    new "watch <expression> : surveille une expression python\n watch short : raccourcit la représentation des expressions (par défaut)\n watch long : affiche la totalité des expressions surveillées"
+    # # renpy/common/00console.rpy:870
+    # old "watch <expression>: watch a python expression\n watch short: makes the representation of traced expressions short (default)\n watch long: makes the representation of traced expressions as is"
+    # new "watch <expression> : surveille une expression python\n watch short : raccourcit la représentation des expressions (par défaut)\n watch long : affiche la totalité des expressions surveillées"
 
-    # renpy/common/00console.rpy:907
-    old "unwatch <expression>: stop watching an expression"
-    new "unwatch <expression> : arrêter la surveillance d’une expression Python"
+    # # renpy/common/00console.rpy:907
+    # old "unwatch <expression>: stop watching an expression"
+    # new "unwatch <expression> : arrêter la surveillance d’une expression Python"
 
-    # renpy/common/00console.rpy:953
-    old "unwatchall: stop watching all expressions"
-    new "unwatchall: arrêter de surveiller toutes les expressions"
+    # # renpy/common/00console.rpy:953
+    # old "unwatchall: stop watching all expressions"
+    # new "unwatchall: arrêter de surveiller toutes les expressions"
 
-    # renpy/common/00console.rpy:974
-    old "jump <label>: jumps to label"
-    new "jump <label> : saute jusqu’au label"
+    # # renpy/common/00console.rpy:974
+    # old "jump <label>: jumps to label"
+    # new "jump <label> : saute jusqu’au label"
 
-    # renpy/common/00console.rpy:990
-    old "short: Shorten the representation of objects on the console (default)."
-    new "short: Raccourcit la représentation des objets sur la console (par défaut)."
+    # # renpy/common/00console.rpy:990
+    # old "short: Shorten the representation of objects on the console (default)."
+    # new "short: Raccourcit la représentation des objets sur la console (par défaut)."
 
-    # renpy/common/00console.rpy:994
-    old "long: Print the full representation of objects on the console."
-    new "long: Affiche la representation entière des objets dans la console."
+    # # renpy/common/00console.rpy:994
+    # old "long: Print the full representation of objects on the console."
+    # new "long: Affiche la representation entière des objets dans la console."
 
-    # renpy/common/00console.rpy:998
-    old "escape: Enables escaping of unicode symbols in unicode strings."
-    new "escape: Active l'échappage des symboles unicode dans les chaînes de caractères unicode."
+    # # renpy/common/00console.rpy:998
+    # old "escape: Enables escaping of unicode symbols in unicode strings."
+    # new "escape: Active l'échappage des symboles unicode dans les chaînes de caractères unicode."
 
-    # renpy/common/00console.rpy:1002
-    old "unescape: Disables escaping of unicode symbols in unicode strings and print it as is (default)."
-    new "unescape: Désactive l'échappage des symboles unicode dans les chaînes de caractères unicode et les affiche telles quelles (par défaut)."
+    # # renpy/common/00console.rpy:1002
+    # old "unescape: Disables escaping of unicode symbols in unicode strings and print it as is (default)."
+    # new "unescape: Désactive l'échappage des symboles unicode dans les chaînes de caractères unicode et les affiche telles quelles (par défaut)."
 
