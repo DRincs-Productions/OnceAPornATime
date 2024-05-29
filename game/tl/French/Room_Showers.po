@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-05-28 23:26\n"
+"PO-Revision-Date: 2024-05-29 00:42\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Room_Showers.rpy:121 #-#-# translate crowdin ML_ShowerCams01_02_ec3b9bb7:
 msgid "[_u_] Meli?"
@@ -42,7 +42,7 @@ msgstr "[ _u_ ] Hé, là !"
 
 # game/Room_Showers.rpy:153 #-#-# translate crowdin A_GoShower_2754a868:
 msgid "[_a_] What are you doing here? "
-msgstr "[_a_] Que faites-vous ici? "
+msgstr "[_a_] Qu'est-ce que tu fais là "
 
 # game/Room_Showers.rpy:154 #-#-# translate crowdin A_GoShower_70c0677a:
 msgid "[_u_] Well, I saw you weren't in your office, so... "
@@ -66,11 +66,11 @@ msgstr "[_a_] Quel genre de vous."
 
 # game/Room_Showers.rpy:167 #-#-# translate crowdin A_GoShower_menu1_b6de8553:
 msgid "[_a_] Yep! I figured this was the best way to start my personal self-corruption phase."
-msgstr "[_a_] Yep ! Je me suis dit que c'était la meilleure façon de commencer ma propre phase personnelle de corruption."
+msgstr "[_a_] Yep ! Je me suis dit que c'était la meilleure manière de commencer ma phase de corruption personnelle"
 
 # game/Room_Showers.rpy:169 #-#-# translate crowdin A_GoShower_menu1_f6957375:
 msgid "[_a_] God... I really am a princess to be corrupted. "
-msgstr "[_a_] Dieu ... Je suis vraiment une princesse corrompues. "
+msgstr "[_a_] Mon Dieu... Je suis vraiment une princesse qui va être corrompue. "
 
 # game/Room_Showers.rpy:171 #-#-# translate crowdin A_GoShower_menu1_d94295c6:
 msgid "[_a_] How ironic. "
@@ -82,31 +82,31 @@ msgstr "[_a_] Non, pas encore."
 
 # game/Room_Showers.rpy:178 #-#-# translate crowdin A_GoShower_menu1_fc82be4d:
 msgid "[_a_] Well, yes... I ran into Amelia's big tits on the way here. "
-msgstr "[_a_] Eh bien, oui ... J'ai couru dans les grandes seins d'Amelia sur le chemin ici. "
+msgstr "[_a_] Eh bien, oui ... J'ai vu les énormes seins d'Amelia en venant ici."
 
 # game/Room_Showers.rpy:180 #-#-# translate crowdin A_GoShower_menu1_4be91d13:
 msgid "[_a_] But she was going out... so I showered alone."
-msgstr "[_a_] Mais elle sortait ... alors je me suis présenté seul."
+msgstr "[_a_] Mais elle sortait de là... donc je me suis douchée toute seule"
 
 # game/Room_Showers.rpy:181 #-#-# translate crowdin A_GoShower_menu1_0180c08b:
 msgid "[_u_] You should have called me, I would have gladly accompanied you. "
-msgstr "[ _u_ ] Tu aurais dû m'appeler, j'aurais volontiers accompagné. "
+msgstr "[ _u_ ] Tu aurais dû m'appeler, je t'aurais volontiers accompagné. "
 
 # game/Room_Showers.rpy:183 #-#-# translate crowdin A_GoShower_menu1_1c5b1942:
 msgid "[_a_] I prefer to leave it to chance and wait to see if anyone comes here at the same time as me."
-msgstr "[_a_] Je préfère la laisser au hasard et attendre de voir si quelqu'un vient ici en même temps que moi."
+msgstr "[_a_] Je préfère laisser la chance faire et voir si quelqu'un allait venir en même temps que moi."
 
 # game/Room_Showers.rpy:185 #-#-# translate crowdin A_GoShower_menu1_33ae40b2:
 msgid "[_a_] It adds a little spice to the experience. "
-msgstr "[_a_] Cela ajoute un peu d'épices à l'expérience. "
+msgstr "[_a_] Ça ajoute un peu de piment à tout ça."
 
 # game/Room_Showers.rpy:186 #-#-# translate crowdin A_GoShower_menu1_e61f257b:
 msgid "[_u_] I confirm... You may have exibitionist tendencies. "
-msgstr "[ _u_ ] Je confirme ... Vous avez peut-être des tendances exibitionnistes. "
+msgstr "[ _u_ ] Je confirme ... Tu as peut-être des tendances exibitionnistes. "
 
 # game/Room_Showers.rpy:188 #-#-# translate crowdin A_GoShower_menu1_b1fac8ad:
 msgid "[_a_] Oh? You might be right!"
-msgstr "[_a_] Oh? Vous avez peut-être raison !"
+msgstr "[_a_] Oh? Peut-être, tu dois avoir raison!"
 
 # game/Room_Showers.rpy:191 #-#-# translate crowdin A_GoShower_menu1_8a5d69d6:
 msgid "[_a_] An exibitionist who doesn't dare show herself."
@@ -118,7 +118,7 @@ msgstr "[_a_] Une autre ironie à ajouter à ma liste. "
 
 # game/Room_Showers.rpy:201 #-#-# translate crowdin A_GoShower_menu1_7c18f4d4:
 msgid "[_a_] No worries, see you later [name]!"
-msgstr "[_a_] No inquiétude, see you later [ nom ] !"
+msgstr "[_a_]Pas de soucis, à plus tard [name] !"
 
 # game/Room_Showers.rpy:205 #-#-# translate crowdin A_GoShower_menu1_002186e8:
 msgid "[_a_] ?!"
@@ -142,19 +142,19 @@ msgstr "[ _u_ ] Aucune idée. Tu es dans une douche, c'est normal d'être nu."
 
 # game/Room_Showers.rpy:214 #-#-# translate crowdin A_GoShower_menu1_15ed6840:
 msgid "[_a_] God... I'll never get rid of this damn modesty. "
-msgstr "[_a_] Dieu ... Je ne me débarrinerai jamais de cette putain de modestie. "
+msgstr "[_a_] Mon dieu... Je pense que je ne me débarasserai jamais de cette foutue pudeur..."
 
 # game/Room_Showers.rpy:216 #-#-# translate crowdin A_GoShower_menu1_a833a0c7:
 msgid "[_a_] I can't just... like... get naked that easy... "
-msgstr "[_a_] Je ne peux pas ... comme ... être nu aussi facile ... "
+msgstr "[_a_] Je ne peux pas... juste ... être nue aussi facilement ... "
 
 # game/Room_Showers.rpy:218 #-#-# translate crowdin A_GoShower_menu1_c0b3f998:
 msgid "[_a_] Can you imagine me? Stripping naked and acting like nothing happened? "
-msgstr "[_a_] Pouvez-vous m'imaginer? Viser nu et agir comme rien ne s'est passé? "
+msgstr "[_a_] Est-ce que tu peux m'imaginer ça? Se déshabiller et faire comme si de rien était?"
 
 # game/Room_Showers.rpy:220 #-#-# translate crowdin A_GoShower_menu1_a2b9c518:
 msgid "[_a_] That's just impossible!"
-msgstr "[_a_] C'est tout simplement impossible !"
+msgstr "[_a_] C'est juste impossible !"
 
 # game/Room_Showers.rpy:221 #-#-# translate crowdin A_GoShower_menu1_3723b6f2:
 msgid "[_ly_] Hello?"
@@ -162,11 +162,11 @@ msgstr "[ _ly_ ] Bonjour?"
 
 # game/Room_Showers.rpy:223 #-#-# translate crowdin A_GoShower_menu1_96ef4124:
 msgid "[_ly_] Is there anyone here?"
-msgstr "[ _ly_ ] Y a-t-il quelqu'un ici?"
+msgstr "[ _ly_ ] Y'a quelqu'un?"
 
 # game/Room_Showers.rpy:231 #-#-# translate crowdin A_GoShower_menu1_56f46b70:
 msgid "[_ly_] Hi, you two!"
-msgstr "[ _ly_ ] Bonjour, vous deux !"
+msgstr "[ _ly_ ] Hello vous deux !"
 
 # game/Room_Showers.rpy:233 #-#-# translate crowdin A_GoShower_menu1_bbda9952:
 msgid "[_a_] Hi!!"
@@ -174,7 +174,7 @@ msgstr "[_a_] Salut ! !"
 
 # game/Room_Showers.rpy:236 #-#-# translate crowdin A_GoShower_menu1_1de40c75:
 msgid "[_ly_] What are you doing? "
-msgstr "[ _ly_ ] Que faites-vous? "
+msgstr "[ _ly_ ] Qu'est-ce que vous faites?"
 
 # game/Room_Showers.rpy:238 #-#-# translate crowdin A_GoShower_menu1_0deb8a50:
 msgid "[_u_] We were talking about... uh..."
@@ -186,7 +186,8 @@ msgstr "[_u_]..."
 
 # game/Room_Showers.rpy:240 #-#-# translate crowdin A_GoShower_menu1_fedf98e5:
 msgid "[_u_] Damn girls... I'm so jealous of your towels."
-msgstr "[ _u_ ] Les filles ... Je suis si jaloux de tes serviettes."
+msgstr "[ _u_ ] Wow les filles... Je voudrais tellement être à la place de vos serviettes... (ou)\n"
+"[ _u_ ] Wow les filles... Je voudrais tellement vous voir sans serviettes..."
 
 # game/Room_Showers.rpy:242 #-#-# translate crowdin A_GoShower_menu1_97ce97dc:
 msgid "[_a_] I'm sorry, but I don't have any others silk towels. "
@@ -194,23 +195,23 @@ msgstr "[_a_] Je suis désolé, mais je n'ai pas d'autres serviettes en soie. "
 
 # game/Room_Showers.rpy:245 #-#-# translate crowdin A_GoShower_menu1_7fdbab78:
 msgid "[_ly_] You were talking about towels? "
-msgstr "[ _ly_ ] Vous parlions de serviettes? "
+msgstr "[ _ly_ ] Vous étiez en train de parler de serviettes? "
 
 # game/Room_Showers.rpy:249 #-#-# translate crowdin A_GoShower_menu1_3a025327:
 msgid "[_ly_] Don't you want to talk about something else?"
-msgstr "[ _ly_ ] Ne voulez-vous pas parler d'autre chose?"
+msgstr "[ _ly_ ] Tu veux parler d'autres choses?"
 
 # game/Room_Showers.rpy:258 #-#-# translate crowdin A_GoShower_menu1_c26cab6a:
 msgid "[_ly_] I don't know, like... "
-msgstr "[ _ly_ ] Je ne sais pas, comme ... "
+msgstr "[ _ly_ ] Je sais pas, par exemple ... "
 
 # game/Room_Showers.rpy:262 #-#-# translate crowdin A_GoShower_menu1_c52eb593:
 msgid "[_ly_] ...I think everything is more interesting than talking about towels. "
-msgstr "[ _ly_ ] ...Je pense que tout est plus intéressant que de parler des serviettes. "
+msgstr "[ _ly_ ] ...Je pense que parler de serviettes est moins intéressant que n'importe quel autre sujet de conversation."
 
 # game/Room_Showers.rpy:264 #-#-# translate crowdin A_GoShower_menu1_44e52acc:
 msgid "[_ly_] Like... the weather outside... "
-msgstr "[ _ly_ ] Comme ... le temps dehors ... "
+msgstr "[ _ly_ ] Comme ... le temps qu'il fait dehors ... "
 
 # game/Room_Showers.rpy:266 #-#-# translate crowdin A_GoShower_menu1_92c477a5:
 msgid "[_ly_] Oh! Do you also have a kind of little green parrot that follows you everywhere?! "
@@ -238,11 +239,11 @@ msgstr "[ _ly_ ] Eh bien ... Je ne sais pas ... "
 
 # game/Room_Showers.rpy:280 #-#-# translate crowdin A_GoShower_menu1_31a94636:
 msgid "[_ly_] Shouldn't I? "
-msgstr "[ _ly_ ] Ne devrais-je pas? "
+msgstr "[_ly_] Je ne devrais pas? "
 
 # game/Room_Showers.rpy:282 #-#-# translate crowdin A_GoShower_menu1_4a5d1120:
 msgid "[_ly_] I mean... We're in a shower room... I'm not going to wash with my clothes on..."
-msgstr "[ _ly_ ] Je veux dire ... Nous sommes dans une salle de douche ... Je ne vais pas me laver avec mes vêtements ..."
+msgstr "[ _ly_ ] Je veux dire ... On est dans une douche ... Je ne vais pas me laver avec mes vêtements ..."
 
 # game/Room_Showers.rpy:285 #-#-# translate crowdin A_GoShower_menu1_74417676:
 msgid "[_a_] No, I mean in terms of modesty."
