@@ -7874,8 +7874,8 @@ translate italian strings:
     old "So that's why you're here? "
     new "Ecco perché sei qui? "
 
-# game/Cell01_ArtDIVISION.rpy:546
-
+    # game/Cell01_ArtDIVISION.rpy:546
+    old "It looks fun to be so famous"
     new "Sembra divertente essere così famoso"
 
     # game/Cell01_ArtDIVISION.rpy:731
