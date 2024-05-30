@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Hebrew\n"
 "Language: he_IL\n"
-"PO-Revision-Date: 2024-05-30 20:16\n"
+"PO-Revision-Date: 2024-05-30 21:15\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_AM.rpy:86 #-#-# translate crowdin CHARA_AM_Menu01_c781f953:
 msgid "[_am_] Hey!"
@@ -390,11 +390,11 @@ msgstr "[_u_] כבר ראיתי יותר גרוע. "
 
 # game/Cell01_AM.rpy:497 #-#-# translate crowdin Amelia_FirstAppChap2_0a9d10ac:
 msgid "[_am_] When I arrived, the place was filled with boxes and old things. "
-msgstr ""
+msgstr "[_am_] כשהגעתי, המקום היה מלא קופסאות ודברים ישנים. "
 
 # game/Cell01_AM.rpy:499 #-#-# translate crowdin Amelia_FirstAppChap2_70f97b1a:
 msgid "[_am_] Mrs.Bell told me to put everything in your place, thanks for taking care of it. "
-msgstr ""
+msgstr "[_am_] גברת בל אמרה לי לשים הכל במקום שלך, תודה שאתה מטפל בזה. "
 
 # game/Cell01_AM.rpy:500 #-#-# translate crowdin Amelia_FirstAppChap2_7b1c1392:
 msgid "[_u_] ..."
@@ -402,19 +402,19 @@ msgstr "[_u_] ..."
 
 # game/Cell01_AM.rpy:501 #-#-# translate crowdin Amelia_FirstAppChap2_ca669573:
 msgid "[_u_] Oh... It was you."
-msgstr ""
+msgstr "[_u_] אה... זה היית את."
 
 # game/Cell01_AM.rpy:503 #-#-# translate crowdin Amelia_FirstAppChap2_a8a8d5ce:
 msgid "[_u_] You could have thrown this away yourself. "
-msgstr ""
+msgstr "[_u_] היית יכולה לזרוק את כל הדברים האלה בעצמך. "
 
 # game/Cell01_AM.rpy:505 #-#-# translate crowdin Amelia_FirstAppChap2_a9b7eb31:
 msgid "[_am_] That's what I thought, but I didn't want to question Mrs. Bell's orders... "
-msgstr ""
+msgstr "[_am_] זה מה שאני חשבתי, אבל לא רציתי לפקפק בהוראות של גברת בל... "
 
 # game/Cell01_AM.rpy:507 #-#-# translate crowdin Amelia_FirstAppChap2_decb9b24:
 msgid "[_am_] She is so wise and smart. I'm sure she knows what she's doing!"
-msgstr ""
+msgstr "[_am_] היא כל כך חכמה ונבונה. אני בטוחה שהיא יודעת מה היא עושה!"
 
 # game/Cell01_AM.rpy:509 #-#-# translate crowdin Amelia_FirstAppChap2_ad2a90bc:
 msgid "[_am_] Mh... what a stunning boss she is."
