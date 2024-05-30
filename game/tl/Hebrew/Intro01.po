@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Hebrew\n"
 "Language: he_IL\n"
-"PO-Revision-Date: 2024-05-26 09:29\n"
+"PO-Revision-Date: 2024-05-30 19:05\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Intro01.rpy:64 #-#-# translate crowdin Intro01_93eeba4f:
 msgid "[_tb_] Greetings!"
@@ -58,7 +58,7 @@ msgstr ""
 
 # game/Intro01.rpy:99 #-#-# translate crowdin Intro01_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Intro01.rpy:100 #-#-# translate crowdin Intro01_6be92765:
 msgid "[_u_] Is this really necessary?"
@@ -226,7 +226,7 @@ msgstr ""
 
 # game/Intro01.rpy:231 #-#-# translate crowdin Intro01_7b1c1392_1:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Intro01.rpy:232 #-#-# translate crowdin Intro01_7cd082cc:
 msgid "[_u_] I'll think about it. "
@@ -262,7 +262,7 @@ msgstr ""
 
 # game/Intro01.rpy:448 #-#-# translate crowdin Prison01_key_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Intro01.rpy:449 #-#-# translate crowdin Prison01_key_b39f0f28:
 msgid "[_u_] Open sesame?"
@@ -270,7 +270,7 @@ msgstr ""
 
 # game/Intro01.rpy:450 #-#-# translate crowdin Prison01_key_7b1c1392_1:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Intro01.rpy:451 #-#-# translate crowdin Prison01_key_22bf7668:
 msgid "[_u_] Please?"
@@ -278,7 +278,7 @@ msgstr ""
 
 # game/Intro01.rpy:452 #-#-# translate crowdin Prison01_key_7b1c1392_2:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Intro01.rpy:453 #-#-# translate crowdin Prison01_key_efab4004:
 msgid "[_u_] Yeah... strangely, the 1000th time, it still doesn't work. "
@@ -342,7 +342,7 @@ msgstr ""
 
 # game/Intro01.rpy:502 #-#-# translate crowdin Prison01_wind_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Intro01.rpy:503 #-#-# translate crowdin Prison01_wind_22b6afda:
 msgid "[_u_] If this thing really starts talking to me... "
@@ -354,7 +354,7 @@ msgstr ""
 
 # game/Intro01.rpy:506 #-#-# translate crowdin Prison01_wind_7b1c1392_1:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Intro01.rpy:531 #-#-# translate crowdin Prison01_wind_5d543128:
 msgid "[_u_] What the hell was that?????"
@@ -386,7 +386,7 @@ msgstr ""
 
 # game/Intro01.rpy:579 #-#-# translate crowdin Prison01_wind_7b1c1392_2:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Intro01.rpy:587 #-#-# translate crowdin Prison01_wind_553a72e8:
 msgid "[_u_] I really feel like this bird is spying on me... "
@@ -394,7 +394,7 @@ msgstr ""
 
 # game/Intro01.rpy:588 #-#-# translate crowdin Prison01_wind_7b1c1392_3:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Intro01.rpy:589 #-#-# translate crowdin Prison01_wind_8781e767:
 msgid "[_u_] ... I think I'm going crazy. "
@@ -406,7 +406,7 @@ msgstr ""
 
 # game/Intro01.rpy:594 #-#-# translate crowdin Prison01_wind_7b1c1392_4:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Intro01.rpy:595 #-#-# translate crowdin Prison01_wind_14a2aa5c:
 msgid "[_u_] Yep, everyone is naked and dancing in the streets!"
@@ -422,7 +422,7 @@ msgstr ""
 
 # game/Intro01.rpy:621 #-#-# translate crowdin Prison01_wind_7b1c1392_5:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Intro01.rpy:622 #-#-# translate crowdin Prison01_wind_b0570d60:
 msgid "[_u_] I really should have tried to disguise myself before coming there."
@@ -438,7 +438,7 @@ msgstr ""
 
 # game/Intro01.rpy:647 #-#-# translate crowdin Prison01_grid_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Intro01.rpy:648 #-#-# translate crowdin Prison01_grid_7def6bde:
 msgid "[_u_] Lycoris?"
@@ -454,7 +454,7 @@ msgstr ""
 
 # game/Intro01.rpy:660 #-#-# translate crowdin Prison01_grid_7b1c1392_1:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Intro01.rpy:661 #-#-# translate crowdin Prison01_grid_7def6bde_1:
 msgid "[_u_] Lycoris?"
@@ -462,7 +462,7 @@ msgstr ""
 
 # game/Intro01.rpy:662 #-#-# translate crowdin Prison01_grid_7b1c1392_2:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Intro01.rpy:686 #-#-# translate crowdin SceneSherazade01_e4160979:
 msgid "[_u_] It looks like there's someone in the back of the room... "
@@ -510,7 +510,7 @@ msgstr ""
 
 # game/Intro01.rpy:791 #-#-# translate crowdin GalleryImageQuest_Shera01_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Intro01.rpy:792 #-#-# translate crowdin GalleryImageQuest_Shera01_c6f53f8f:
 msgid "[_u_] Plus I'm super hungry. "
@@ -522,7 +522,7 @@ msgstr ""
 
 # game/Intro01.rpy:797 #-#-# translate crowdin GalleryImageQuest_Shera01_7b1c1392_1:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Intro01.rpy:798 #-#-# translate crowdin GalleryImageQuest_Shera01_753e09df:
 msgid "[_u_] ...If it's a broom closet on the other side of this wall, I'm gonna lose my mind. "
@@ -570,7 +570,7 @@ msgstr ""
 
 # game/Intro01.rpy:845 #-#-# translate crowdin Prison01_LycoApp01_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Intro01.rpy:846 #-#-# translate crowdin Prison01_LycoApp01_4da1833a:
 msgid "[_u_] Is it the same thing as the previous 30 times? "
@@ -678,7 +678,7 @@ msgstr ""
 
 # game/Intro01.rpy:924 #-#-# translate crowdin Prison01_LycoApp01_menu1_p2_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Intro01.rpy:926 #-#-# translate crowdin Prison01_LycoApp01_menu1_p2_abeff63f:
 msgid "[_ly_] Do you have a plan? "
@@ -702,7 +702,7 @@ msgstr ""
 
 # game/Intro01.rpy:945 #-#-# translate crowdin Prison01_LycoApp01_menu1_p3_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Intro01.rpy:947 #-#-# translate crowdin Prison01_LycoApp01_menu1_p3_f47ba419:
 msgid "[_ly_] Don't worry, I won't tell."
@@ -710,7 +710,7 @@ msgstr ""
 
 # game/Intro01.rpy:949 #-#-# translate crowdin Prison01_LycoApp01_menu1_p3_7b1c1392_1:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Intro01.rpy:950 #-#-# translate crowdin Prison01_LycoApp01_menu1_p3_ee01f9b9:
 msgid "[_u_] Thanks."
@@ -982,7 +982,7 @@ msgstr ""
 
 # game/Intro01.rpy:1237 #-#-# translate crowdin LycoPrison_menu01_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Intro01.rpy:1240 #-#-# translate crowdin LycoPrison_menu01_26f67099:
 msgid "[_ly_] Hello again, Mr. Prisoner. "
@@ -1038,7 +1038,7 @@ msgstr ""
 
 # game/Intro01.rpy:1272 #-#-# translate crowdin LycoPrison_menu01_01_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Intro01.rpy:1274 #-#-# translate crowdin LycoPrison_menu01_01_70af0d81:
 msgid "[_ly_] I will come back tomorrow, I promise. "
@@ -1062,7 +1062,7 @@ msgstr ""
 
 # game/Intro01.rpy:1297 #-#-# translate crowdin LycoPrison_menu01_01_7b1c1392_1:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Intro01.rpy:1298 #-#-# translate crowdin LycoPrison_menu01_01_73d004ea:
 msgid "[_u_] Can I see your boobs?"
@@ -1126,7 +1126,7 @@ msgstr ""
 
 # game/Intro01.rpy:1326 #-#-# translate crowdin LycoPrison_menu01_01_7b1c1392_2:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Intro01.rpy:1327 #-#-# translate crowdin LycoPrison_menu01_01_b2d62b57:
 msgid "[_u_] ... It sounds like a good idea actually. "
@@ -1154,7 +1154,7 @@ msgstr ""
 
 # game/Intro01.rpy:1344 #-#-# translate crowdin LycoPrison_menu01_01_7b1c1392_3:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Intro01.rpy:1345 #-#-# translate crowdin LycoPrison_menu01_01_d5770a1e:
 msgid "[_u_] If I can get back."
@@ -1186,7 +1186,7 @@ msgstr ""
 
 # game/Intro01.rpy:1367 #-#-# translate crowdin LycoPrison_menu01_01_7b1c1392_4:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Intro01.rpy:1368 #-#-# translate crowdin LycoPrison_menu01_01_892c559d:
 msgid "[_u_] I hope so."
@@ -1270,7 +1270,7 @@ msgstr ""
 
 # game/Intro01.rpy:1429 #-#-# translate crowdin SheIntro01_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Intro01.rpy:1430 #-#-# translate crowdin SheIntro01_697f6746:
 msgid "[_u_] Tinker could have given me more details before sending me here. "
@@ -1698,7 +1698,7 @@ msgstr ""
 
 # game/Intro01.rpy:1847 #-#-# translate crowdin Intro_PrisonEnd_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Intro01.rpy:1848 #-#-# translate crowdin Intro_PrisonEnd_330f028b:
 msgid "[_u_] Don't you know a little magic? "
@@ -1810,7 +1810,7 @@ msgstr ""
 
 # game/Intro01.rpy:1953 #-#-# translate crowdin Intro_PrisonEnd_menu01_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Intro01.rpy:1954 #-#-# translate crowdin Intro_PrisonEnd_menu01_cc71eb9a:
 msgid "[_u_] Mh."
@@ -1830,7 +1830,7 @@ msgstr ""
 
 # game/Intro01.rpy:1965 #-#-# translate crowdin Intro_PrisonEnd_menu01_7b1c1392_1:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Intro01.rpy:1967 #-#-# translate crowdin Intro_PrisonEnd_menu01_c15cc554:
 msgid "[_ly_] Everyone has their own version."
@@ -1886,7 +1886,7 @@ msgstr ""
 
 # game/Intro01.rpy:1988 #-#-# translate crowdin Intro_PrisonEnd_menu01_7b1c1392_2:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Intro01.rpy:1990 #-#-# translate crowdin Intro_PrisonEnd_menu01_d569dc25:
 msgid "[_ly_] Oh, don't make that face, you can handle it all by yourself, big boy. "
@@ -1938,7 +1938,7 @@ msgstr ""
 
 # game/Intro01.rpy:2020 #-#-# translate crowdin Intro_PrisonEnd_menu01_7b1c1392_3:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Intro01.rpy:2021 #-#-# translate crowdin Intro_PrisonEnd_menu01_7def6bde:
 msgid "[_u_] Lycoris?"
@@ -1946,7 +1946,7 @@ msgstr ""
 
 # game/Intro01.rpy:2022 #-#-# translate crowdin Intro_PrisonEnd_menu01_7b1c1392_4:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Intro01.rpy:2023 #-#-# translate crowdin Intro_PrisonEnd_menu01_e6f175da:
 msgid "[_u_] Pff... what a wimp."
@@ -1982,7 +1982,7 @@ msgstr ""
 
 # game/Intro01.rpy:2054 #-#-# translate crowdin IntroDjinlampe_01continue_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Intro01.rpy:2055 #-#-# translate crowdin IntroDjinlampe_01continue_1e197253:
 msgid "[_u_] Just a little more..."
@@ -2218,7 +2218,7 @@ msgstr ""
 
 # game/Intro01.rpy:2276 #-#-# translate crowdin IntroDjinlampe_menu01_P3_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Intro01.rpy:2278 #-#-# translate crowdin IntroDjinlampe_menu01_P3_0570b33c:
 msgid "[_dj_] I'm just teasing. "
@@ -2362,7 +2362,7 @@ msgstr ""
 
 # game/Intro01.rpy:2388 #-#-# translate crowdin IntroDjinlampe_menu01end_7b1c1392:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Intro01.rpy:2389 #-#-# translate crowdin IntroDjinlampe_menu01end_5cdafb34:
 msgid "[_u_] Hello? Is there anyone here? "
@@ -2370,7 +2370,7 @@ msgstr ""
 
 # game/Intro01.rpy:2390 #-#-# translate crowdin IntroDjinlampe_menu01end_7b1c1392_1:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Intro01.rpy:2391 #-#-# translate crowdin IntroDjinlampe_menu01end_5017c907:
 msgid "[_u_] Tinker?"
@@ -2378,7 +2378,7 @@ msgstr ""
 
 # game/Intro01.rpy:2392 #-#-# translate crowdin IntroDjinlampe_menu01end_7b1c1392_2:
 msgid "[_u_] ..."
-msgstr ""
+msgstr "[_u_] ..."
 
 # game/Intro01.rpy:2398 #-#-# translate crowdin IntroDjinlampe_menu01end_d7434e9b:
 msgid "[_u_] What is this mess?"
