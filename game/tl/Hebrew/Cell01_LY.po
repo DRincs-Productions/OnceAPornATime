@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Hebrew\n"
 "Language: he_IL\n"
-"PO-Revision-Date: 2024-05-30 19:05\n"
+"PO-Revision-Date: 2024-05-31 08:13\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_LY.rpy:80 #-#-# translate crowdin Cell01_LY_QuestActivations_d1d09770:
 msgid "[_ly_] Hi cutie."
@@ -3362,7 +3362,7 @@ msgstr ""
 
 # game/Cell01_LY.rpy:2558 #-#-# translate crowdin LY_LastQuest_01_02_ffd3fd1b:
 msgid "[_u_] Wow."
-msgstr ""
+msgstr "[_u_] וואו."
 
 # game/Cell01_LY.rpy:2559 #-#-# translate crowdin LY_LastQuest_01_02_3eeb17d3:
 msgid "[_ly_] ..."
