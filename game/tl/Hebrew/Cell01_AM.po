@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Hebrew\n"
 "Language: he_IL\n"
-"PO-Revision-Date: 2024-05-31 08:13\n"
+"PO-Revision-Date: 2024-05-31 10:20\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_AM.rpy:86 #-#-# translate crowdin CHARA_AM_Menu01_c781f953:
 msgid "[_am_] Hey!"
@@ -462,55 +462,55 @@ msgstr "[_u_] ואנחנו צריכים לדאוג בגלל זה או...?"
 
 # game/Cell01_AM.rpy:534 #-#-# translate crowdin QuestChap2_Amelia01_02_e77384c2:
 msgid "[_am_] I don't know, this planet is pretty hard to find."
-msgstr ""
+msgstr "[_am_] אני לא יודעת, די קשה למצוא את הכוכב הזה."
 
 # game/Cell01_AM.rpy:536 #-#-# translate crowdin QuestChap2_Amelia01_02_64f588c2:
 msgid "[_am_] She may have got lost."
-msgstr ""
+msgstr "[_am_] אולי היא הלכה לאיבוד."
 
 # game/Cell01_AM.rpy:537 #-#-# translate crowdin QuestChap2_Amelia01_02_33716101:
 msgid "[_u_] I'll check with Tinker if she knows anything about it."
-msgstr ""
+msgstr "[_u_] אני אבדוק עם טינקר אם היא יודעת משהו לגבי זה."
 
 # game/Cell01_AM.rpy:539 #-#-# translate crowdin QuestChap2_Amelia01_02_dea55823:
 msgid "[_am_] Good idea! Mrs. Bell is surely aware of something!"
-msgstr ""
+msgstr "[_am_] רעיון טוב! גברת בל בטח מודעת למשהו!"
 
 # game/Cell01_AM.rpy:548 #-#-# translate crowdin QuestChap2_Amelia01_04_e2ecd9ec:
 msgid "[_u_] Amelia? "
-msgstr ""
+msgstr "[_u_] אמיליה? "
 
 # game/Cell01_AM.rpy:549 #-#-# translate crowdin QuestChap2_Amelia01_04_7957a012:
 msgid "[_am_] Hey! I'm over here!"
-msgstr ""
+msgstr "[_am_] הי! אני כאן!"
 
 # game/Cell01_AM.rpy:556 #-#-# translate crowdin QuestChap2_Amelia01_04_b00e4dcd:
 msgid "[_u_] Nice place to do an interview."
-msgstr ""
+msgstr "[_u_] מקום נחמד לראיון."
 
 # game/Cell01_AM.rpy:558 #-#-# translate crowdin QuestChap2_Amelia01_04_d276f0a6:
 msgid "[_am_] That's what I thought!"
-msgstr ""
+msgstr "[_am_] זה מה שחשבתי!"
 
 # game/Cell01_AM.rpy:560 #-#-# translate crowdin QuestChap2_Amelia01_04_ad672983:
 msgid "[_am_] Our first candidate should be here in a few minutes."
-msgstr ""
+msgstr "[_am_] המועמדת הראשונה שלנו אמורה להגיע לכאן בעוד כמה דקות."
 
 # game/Cell01_AM.rpy:562 #-#-# translate crowdin QuestChap2_Amelia01_04_42e07b2e:
 msgid "[_am_] Are you ready? "
-msgstr ""
+msgstr "[_am_] אתה מוכן? "
 
 # game/Cell01_AM.rpy:568 #-#-# translate crowdin QuestChap2_Amelia01_04_menu01_b1f2aecd:
 msgid "[_u_] Tinker gave me the requirements she wanted."
-msgstr ""
+msgstr "[_u_] טינקר נתנה לי את הדרישות שהיא רוצה."
 
 # game/Cell01_AM.rpy:570 #-#-# translate crowdin QuestChap2_Amelia01_04_menu01_8f71a5be:
 msgid "[_u_] Basically, we just need to not hire psychopaths, or really weird people."
-msgstr ""
+msgstr "[_u_] בתכלס, אנחנו צריכים לא לקבל פסיכוטים, או אנשים מוזרים מאוד."
 
 # game/Cell01_AM.rpy:572 #-#-# translate crowdin QuestChap2_Amelia01_04_menu01_aa7620ef:
 msgid "[_am_] Oh...and what does it look like?"
-msgstr ""
+msgstr "[_am_] אה... ואיך זה נראה?"
 
 # game/Cell01_AM.rpy:573 #-#-# translate crowdin QuestChap2_Amelia01_04_menu01_4c94615d:
 msgid "[_u_] uh... let's say it's the kind of person you don't want to have as a colleague. "
