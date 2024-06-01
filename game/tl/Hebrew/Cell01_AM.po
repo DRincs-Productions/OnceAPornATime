@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Hebrew\n"
 "Language: he_IL\n"
-"PO-Revision-Date: 2024-05-31 10:20\n"
+"PO-Revision-Date: 2024-06-01 15:47\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_AM.rpy:86 #-#-# translate crowdin CHARA_AM_Menu01_c781f953:
 msgid "[_am_] Hey!"
@@ -514,15 +514,15 @@ msgstr "[_am_] אה... ואיך זה נראה?"
 
 # game/Cell01_AM.rpy:573 #-#-# translate crowdin QuestChap2_Amelia01_04_menu01_4c94615d:
 msgid "[_u_] uh... let's say it's the kind of person you don't want to have as a colleague. "
-msgstr ""
+msgstr "[_u_] אה... בואי נגיד שזה סוג של האדם שאתה לא רוצה לעבוד איתו. "
 
 # game/Cell01_AM.rpy:575 #-#-# translate crowdin QuestChap2_Amelia01_04_menu01_4c50dcb5:
 msgid "[_am_] Sounds simple."
-msgstr ""
+msgstr "[_am_] נשמע פשוט."
 
 # game/Cell01_AM.rpy:580 #-#-# translate crowdin QuestChap2_Amelia01_04_menu01_aae9bd3b:
 msgid "[_am_] Yes! Plenty!"
-msgstr ""
+msgstr "[_am_] כן! הרבה!"
 
 # game/Cell01_AM.rpy:582 #-#-# translate crowdin QuestChap2_Amelia01_04_menu01_d4acfc9c:
 msgid "[_am_] I have over 250 questions per candidate."
