@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-06-10 22:26\n"
+"PO-Revision-Date: 2024-06-10 23:30\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Intro01.rpy:64 #-#-# translate crowdin Intro01_93eeba4f:
 msgid "[_tb_] Greetings!"
@@ -210,7 +210,7 @@ msgstr "[ _tb_ ] En fait, je ne sais pas, ils ne m'invitent pas à leurs fêtes.
 
 # game/Intro01.rpy:222 #-#-# translate crowdin Intro01_b164a661:
 msgid "[_u_] Stop making things up, you don't know. "
-msgstr "[ _u_ ] Arrête d'unventer, tu n'en sais rien. "
+msgstr "[ _u_ ] Arrête d'inventer, tu n'en sais rien. "
 
 # game/Intro01.rpy:224 #-#-# translate crowdin Intro01_4ce5e25d:
 msgid "[_tb_] I'm not an idiot."
@@ -222,7 +222,7 @@ msgstr "[ _tb_ ] Je. .. "
 
 # game/Intro01.rpy:230 #-#-# translate crowdin Intro01_afa41641:
 msgid "[_tb_] Could you invite me to your next party?"
-msgstr "[ _tb_ ] Pourriez-vous m'inviter à votre prochaine fête?"
+msgstr "[ _tb_ ] Tu pourras m'inviter à votre prochaine fête?"
 
 # game/Intro01.rpy:231 #-#-# translate crowdin Intro01_7b1c1392_1:
 msgid "[_u_] ..."
