@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2024-05-06 20:29\n"
+"PO-Revision-Date: 2024-06-18 16:26\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_JM.rpy:131 #-#-# translate crowdin CHARA_JM_Menu01_0eca5cd6:
 msgid "[_jm_] Hello to you... my [Quest_JM_NameMC]."
@@ -3234,7 +3234,7 @@ msgstr ""
 
 # game/Cell01_JM.rpy:2407 #-#-# translate crowdin Quest_JM_Favor_Unicorn1_menu1_P3_93443bbf:
 msgid "[_a_] Great!"
-msgstr ""
+msgstr "[_a_] Großartig!"
 
 # game/Cell01_JM.rpy:2409 #-#-# translate crowdin Quest_JM_Favor_Unicorn1_menu1_P3_c6c05de7:
 msgid "[_a_] And if that doesn't work, we can always try something more traditional."
@@ -3274,7 +3274,7 @@ msgstr ""
 
 # game/Cell01_JM.rpy:2427 #-#-# translate crowdin Quest_JM_Favor_Unicorn1_menu1_P3_93443bbf_1:
 msgid "[_a_] Great!"
-msgstr ""
+msgstr "[_a_] Großartig!"
 
 # game/Cell01_JM.rpy:2430 #-#-# translate crowdin Quest_JM_Favor_Unicorn1_menu1_P3_db788754:
 msgid "[_a_] Gosh, I really love the oriental ambiance... it's so refined."
@@ -5222,7 +5222,7 @@ msgstr ""
 
 # game/Cell01_JM.rpy:4057 #-#-# translate crowdin QuestChap2_Jasmine01_03_menu01_P1_93443bbf:
 msgid "[_a_] Great!"
-msgstr ""
+msgstr "[_a_] Großartig!"
 
 # game/Cell01_JM.rpy:4060 #-#-# translate crowdin QuestChap2_Jasmine01_03_menu01_P1_cd208a19:
 msgid "[_tb_] Glad to see motivated employees."
@@ -5238,7 +5238,7 @@ msgstr ""
 
 # game/Cell01_JM.rpy:4074 #-#-# translate crowdin QuestChap2_Jasmine01_03_menu01_P1_fcd9b97b:
 msgid "[_a_] I will unlock Jasmine's creation. "
-msgstr ""
+msgstr "[_a_] Ich werde die Kreation Jasmine freischalten. "
 
 # game/Cell01_JM.rpy:4076 #-#-# translate crowdin QuestChap2_Jasmine01_03_menu01_P1_7ab69e63:
 msgid "[_a_] Go take care of this in your android creation device in your office as soon as possible!"
