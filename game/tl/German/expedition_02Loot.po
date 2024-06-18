@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2024-04-02 08:00\n"
+"PO-Revision-Date: 2024-06-18 16:26\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/expedition_02Loot.rpy:230 #-#-# translate crowdin Expedition_02_CHEST_94315d50:
 msgid "[_u_] It's some kind of locked chest... "
@@ -242,7 +242,7 @@ msgstr ""
 
 # game/expedition_02Loot.rpy:814 #-#-# translate crowdin Expedition_02_QuestsLvl2_93443bbf:
 msgid "[_a_] Great!"
-msgstr ""
+msgstr "[_a_] Großartig!"
 
 # game/expedition_02Loot.rpy:816 #-#-# translate crowdin Expedition_02_QuestsLvl2_bcfa6146:
 msgid "[_a_] I think there's only one left. "
