@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2024-05-06 20:29\n"
+"PO-Revision-Date: 2024-06-18 14:43\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_ArtDIVISION.rpy:151 #-#-# translate crowdin Cell01_ArtDIVISION_Menu01_ed0ef4ce:
 msgid "[_a_] Bonjour [name]!"
@@ -888,15 +888,15 @@ msgstr ""
 
 # game/Cell01_ArtDIVISION.rpy:941 #-#-# translate crowdin Quest_LY_Favor_Boobs01_Amandine_2277004e:
 msgid "[_a_] ...I can't control myself. "
-msgstr ""
+msgstr "[_a_] ...Ich kann mich nicht kontrollieren. "
 
 # game/Cell01_ArtDIVISION.rpy:943 #-#-# translate crowdin Quest_LY_Favor_Boobs01_Amandine_b70c2e79:
 msgid "[_a_] So, you need something made of gold? "
-msgstr ""
+msgstr "[_a_] Du brauchst also etwas, das aus Gold besteht? "
 
 # game/Cell01_ArtDIVISION.rpy:944 #-#-# translate crowdin Quest_LY_Favor_Boobs01_Amandine_f42e32c2:
 msgid "[_u_] Yeah, a gold hair pick. Something a bit flashy and pretty."
-msgstr ""
+msgstr "Ja, eine goldene Haarnadel. Etwas Auffälliges und Hübsches."
 
 # game/Cell01_ArtDIVISION.rpy:946 #-#-# translate crowdin Quest_LY_Favor_Boobs01_Amandine_2e1f01e4:
 msgid "[_u_] It is to negotiate a pair of boobs. "
