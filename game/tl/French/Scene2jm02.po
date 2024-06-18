@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-05-24 23:49\n"
+"PO-Revision-Date: 2024-06-18 20:30\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Scene2jm02.rpy:5 #-#-# translate crowdin Quest_JM_Favor_Feather1_03_f924725a:
 msgid "[_a_] Absolutely perfect."
@@ -18,7 +18,7 @@ msgstr "[_a_] Absolument parfait."
 
 # game/Scene2jm02.rpy:7 #-#-# translate crowdin Quest_JM_Favor_Feather1_03_12808315:
 msgid "[_a_] Honestly, is there anything you can't find on this planet?"
-msgstr "[_a_] Honnêtement, y a-on quelque chose que vous ne trouvez pas sur cette planète?"
+msgstr "[_a_] Honnêtement, y a-t-il quelque chose que tu ne peux pas trouver sur cette planète ?"
 
 # game/Scene2jm02.rpy:8 #-#-# translate crowdin Quest_JM_Favor_Feather1_03_d073ed6a:
 msgid "[_u_] A paid vacation, a written contract and a double bed in an employee's room"
