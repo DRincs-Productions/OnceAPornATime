@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2024-06-18 14:43\n"
+"PO-Revision-Date: 2024-06-18 16:26\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_ArtDIVISION.rpy:151 #-#-# translate crowdin Cell01_ArtDIVISION_Menu01_ed0ef4ce:
 msgid "[_a_] Bonjour [name]!"
@@ -896,43 +896,43 @@ msgstr "[_a_] Du brauchst also etwas, das aus Gold besteht? "
 
 # game/Cell01_ArtDIVISION.rpy:944 #-#-# translate crowdin Quest_LY_Favor_Boobs01_Amandine_f42e32c2:
 msgid "[_u_] Yeah, a gold hair pick. Something a bit flashy and pretty."
-msgstr "Ja, eine goldene Haarnadel. Etwas Auffälliges und Hübsches."
+msgstr "[_u_] Ja, eine goldene Haarnadel. Etwas Auffälliges und Hübsches."
 
 # game/Cell01_ArtDIVISION.rpy:946 #-#-# translate crowdin Quest_LY_Favor_Boobs01_Amandine_2e1f01e4:
 msgid "[_u_] It is to negotiate a pair of boobs. "
-msgstr ""
+msgstr "[_u_] Es geht um die Verhandlung über ein Paar Brüste. "
 
 # game/Cell01_ArtDIVISION.rpy:948 #-#-# translate crowdin Quest_LY_Favor_Boobs01_Amandine_6ff25df7:
 msgid "[_a_] It makes sense."
-msgstr ""
+msgstr "[_a_] Das macht Sinn."
 
 # game/Cell01_ArtDIVISION.rpy:950 #-#-# translate crowdin Quest_LY_Favor_Boobs01_Amandine_ac026bb0:
 msgid "[_a_] Well great! This will be a great exercise for me."
-msgstr ""
+msgstr "[_a_] Na super! Das wird eine tolle Übung für mich."
 
 # game/Cell01_ArtDIVISION.rpy:952 #-#-# translate crowdin Quest_LY_Favor_Boobs01_Amandine_7244564d:
 msgid "[_a_] The hair pick blueprint should be available in your creator machine very soon."
-msgstr ""
+msgstr "[_a_] Die Haarnadel-Blaupause sollte in Kürze in Deinem 3D-Drucker verfügbar sein."
 
 # game/Cell01_ArtDIVISION.rpy:953 #-#-# translate crowdin Quest_LY_Favor_Boobs01_Amandine_5b9ca6ea:
 msgid "[_u_] Great, thank you very much."
-msgstr ""
+msgstr "[_u_] Super, vielen Dank."
 
 # game/Cell01_ArtDIVISION.rpy:955 #-#-# translate crowdin Quest_LY_Favor_Boobs01_Amandine_80a47796:
 msgid "[_a_] You're welcome, that's my job!"
-msgstr ""
+msgstr "[_a_] Gern geschehen, das ist mein Job!"
 
 # game/Cell01_ArtDIVISION.rpy:957 #-#-# translate crowdin Quest_LY_Favor_Boobs01_Amandine_9da9b525:
 msgid "[_a_] If you need something else, don't hesitate!"
-msgstr ""
+msgstr "[_a_] Wenn Du etwas anderes brauchst, zöger nicht es mir zu sagen!"
 
 # game/Cell01_ArtDIVISION.rpy:997 #-#-# translate crowdin A_TalkCreateJasmine_01_93443bbf:
 msgid "[_a_] Great!"
-msgstr ""
+msgstr "[_a_] Großartig!"
 
 # game/Cell01_ArtDIVISION.rpy:999 #-#-# translate crowdin A_TalkCreateJasmine_01_fcd9b97b:
 msgid "[_a_] I will unlock Jasmine's creation. "
-msgstr ""
+msgstr "[_a_] Ich werde die Kreation Jasmine freischalten. "
 
 # game/Cell01_ArtDIVISION.rpy:1001 #-#-# translate crowdin A_TalkCreateJasmine_01_7ab69e63:
 msgid "[_a_] Go take care of this in your android creation device in your office as soon as possible!"
