@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2024-06-18 16:26\n"
+"PO-Revision-Date: 2024-06-19 14:04\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_JM.rpy:131 #-#-# translate crowdin CHARA_JM_Menu01_0eca5cd6:
 msgid "[_jm_] Hello to you... my [Quest_JM_NameMC]."
@@ -5242,11 +5242,11 @@ msgstr "[_a_] Ich werde die Kreation Jasmine freischalten. "
 
 # game/Cell01_JM.rpy:4076 #-#-# translate crowdin QuestChap2_Jasmine01_03_menu01_P1_7ab69e63:
 msgid "[_a_] Go take care of this in your android creation device in your office as soon as possible!"
-msgstr ""
+msgstr "[_a_] Kümmern Dich so schnell wie möglich auf Deinem Android-Erstellungsgerät im Büro darum!"
 
 # game/Cell01_JM.rpy:4078 #-#-# translate crowdin QuestChap2_Jasmine01_03_menu01_P1_a985c941:
 msgid "[_a_] See you later!"
-msgstr ""
+msgstr "[_scc_] Bis später!"
 
 # game/Cell01_JM.rpy:4097 #-#-# translate crowdin QuestChap2_Jasmine01_03_menu01_P1_aeb8f902:
 msgid "[_tb_] Since when do you take your time to think? "
