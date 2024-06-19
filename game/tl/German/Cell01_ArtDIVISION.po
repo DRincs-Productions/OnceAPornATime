@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2024-06-19 14:04\n"
+"PO-Revision-Date: 2024-06-19 16:03\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_ArtDIVISION.rpy:151 #-#-# translate crowdin Cell01_ArtDIVISION_Menu01_ed0ef4ce:
 msgid "[_a_] Bonjour [name]!"
@@ -952,15 +952,15 @@ msgstr "[_am_] Hey! [name]!"
 
 # game/Cell01_ArtDIVISION.rpy:1031 #-#-# translate crowdin QuestChap2_LyStart_LY_01_cf8c2953:
 msgid "[_ly_] It's nice to see you finally showered. "
-msgstr ""
+msgstr "[_ly_] Es ist schön, dass du endlich geduscht bist. "
 
 # game/Cell01_ArtDIVISION.rpy:1032 #-#-# translate crowdin QuestChap2_LyStart_LY_01_7fe11fe0:
 msgid "[_ly_] It suits you."
-msgstr ""
+msgstr "[_ly_] Es steht dir."
 
 # game/Cell01_ArtDIVISION.rpy:1033 #-#-# translate crowdin QuestChap2_LyStart_LY_01_35a6e3e2:
 msgid "[_u_] Hi Lyco."
-msgstr ""
+msgstr "[_u_] Hallo Lyco."
 
 # game/Cell01_ArtDIVISION.rpy:1035 #-#-# translate crowdin QuestChap2_LyStart_LY_01_737dcb4e:
 msgid "[_u_] Sorry about what happened back there... I really believed you were an android. "
