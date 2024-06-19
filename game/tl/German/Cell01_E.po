@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2024-04-08 18:03\n"
+"PO-Revision-Date: 2024-06-19 14:04\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_E.rpy:71 #-#-# translate crowdin Cell01_E_QuestActivations_9ef65d05:
 msgid "[_u_] Whose ship is this? "
@@ -202,7 +202,7 @@ msgstr ""
 
 # game/Cell01_E.rpy:546 #-#-# translate crowdin E_RandomBasicDials_D01_f446d2cf:
 msgid "[_u_] Anybody home? "
-msgstr ""
+msgstr "[Ist jemand zu Hause? "
 
 # game/Cell01_E.rpy:547 #-#-# translate crowdin E_RandomBasicDials_D01_5aafca21:
 msgid "[_eia_] Excuse me, sir, but madame is currently on the planet... "
