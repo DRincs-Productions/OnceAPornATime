@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2024-06-18 16:26\n"
+"PO-Revision-Date: 2024-06-19 14:04\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_ArtDIVISION.rpy:151 #-#-# translate crowdin Cell01_ArtDIVISION_Menu01_ed0ef4ce:
 msgid "[_a_] Bonjour [name]!"
@@ -884,7 +884,7 @@ msgstr "[_a_] Oh. "
 
 # game/Cell01_ArtDIVISION.rpy:939 #-#-# translate crowdin Quest_LY_Favor_Boobs01_Amandine_f6c59e82:
 msgid "[_a_] Sorry, whenever there is a bit of gossip or romance..."
-msgstr ""
+msgstr "[_a_] Tut mir leid, aber immer wenn es um Klatsch und Romantik geht..."
 
 # game/Cell01_ArtDIVISION.rpy:941 #-#-# translate crowdin Quest_LY_Favor_Boobs01_Amandine_2277004e:
 msgid "[_a_] ...I can't control myself. "
@@ -936,19 +936,19 @@ msgstr "[_a_] Ich werde die Kreation Jasmine freischalten. "
 
 # game/Cell01_ArtDIVISION.rpy:1001 #-#-# translate crowdin A_TalkCreateJasmine_01_7ab69e63:
 msgid "[_a_] Go take care of this in your android creation device in your office as soon as possible!"
-msgstr ""
+msgstr "[_a_] Kümmern Dich so schnell wie möglich auf Deinem Android-Erstellungsgerät im Büro darum!"
 
 # game/Cell01_ArtDIVISION.rpy:1003 #-#-# translate crowdin A_TalkCreateJasmine_01_a985c941:
 msgid "[_a_] See you later!"
-msgstr ""
+msgstr "[_scc_] Bis später!"
 
 # game/Cell01_ArtDIVISION.rpy:1015 #-#-# translate crowdin QuestChap2_LyStart_LY_01_f446d2cf:
 msgid "[_u_] Anybody home? "
-msgstr ""
+msgstr "[Ist jemand zu Hause? "
 
 # game/Cell01_ArtDIVISION.rpy:1017 #-#-# translate crowdin QuestChap2_LyStart_LY_01_e97c92a7:
 msgid "[_ly_] Hey! [name]!"
-msgstr ""
+msgstr "[_am_] Hey! [name]!"
 
 # game/Cell01_ArtDIVISION.rpy:1031 #-#-# translate crowdin QuestChap2_LyStart_LY_01_cf8c2953:
 msgid "[_ly_] It's nice to see you finally showered. "
@@ -1384,7 +1384,7 @@ msgstr ""
 
 # game/Cell01_ArtDIVISION.rpy:1294 #-#-# translate crowdin Quest_A_Item_Luggage01_01_a985c941:
 msgid "[_a_] See you later!"
-msgstr ""
+msgstr "[_scc_] Bis später!"
 
 # game/Cell01_ArtDIVISION.rpy:1298 #-#-# translate crowdin Quest_A_Item_Luggage01_01_69386f34:
 msgid "[_a_] Yeah, I came here with just what my ship could carry... "
@@ -3176,7 +3176,7 @@ msgstr ""
 
 # game/Cell01_ArtDIVISION.rpy:2489 #-#-# translate crowdin Quest_A_SW_01_e97c92a7:
 msgid "[_ly_] Hey! [name]!"
-msgstr ""
+msgstr "[_am_] Hey! [name]!"
 
 # game/Cell01_ArtDIVISION.rpy:2497 #-#-# translate crowdin Quest_A_SW_01_265d6908:
 msgid "[_ly_] Amandine agreed to be my model and try on clothes for me!"
