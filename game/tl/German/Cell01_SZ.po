@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2024-06-20 17:23\n"
+"PO-Revision-Date: 2024-06-20 18:43\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_SZ.rpy:87 #-#-# translate crowdin CHARA_SZ_Menu01_af6c6a0a:
 msgid "[_sz_]  ... "
@@ -1466,7 +1466,7 @@ msgstr ""
 
 # game/Cell01_SZ.rpy:1125 #-#-# translate crowdin Quest_SZ_Favor_Dress_01_58730418:
 msgid "[_a_] Exactly!"
-msgstr ""
+msgstr "[_u_] Genau!"
 
 # game/Cell01_SZ.rpy:1127 #-#-# translate crowdin Quest_SZ_Favor_Dress_01_d1fb6623:
 msgid "[_a_] Why can't I ever see big boobs? "
@@ -1518,7 +1518,7 @@ msgstr ""
 
 # game/Cell01_SZ.rpy:1152 #-#-# translate crowdin Quest2_A_Talk03_b8b51e7f:
 msgid "[_a_] Is that so?"
-msgstr ""
+msgstr "[_a_] Ist das so?"
 
 # game/Cell01_SZ.rpy:1153 #-#-# translate crowdin Quest2_A_Talk03_c50562a7:
 msgid "[_u_] Just lift up your blouse and... BOOM!"
@@ -1862,7 +1862,7 @@ msgstr ""
 
 # game/Cell01_SZ.rpy:1383 #-#-# translate crowdin Quest_SZ_Favor_Dress_01_menu1_P3_493f4f14:
 msgid "[_a_] Mh..."
-msgstr ""
+msgstr "Mhm..."
 
 # game/Cell01_SZ.rpy:1385 #-#-# translate crowdin Quest_SZ_Favor_Dress_01_menu1_P3_949c7fbf:
 msgid "[_a_] We should tell her to dress a little more like her people... and... "
@@ -7098,7 +7098,7 @@ msgstr ""
 
 # game/Cell01_SZ.rpy:4790 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_07_menu1_P4_b8b51e7f:
 msgid "[_a_] Is that so?"
-msgstr ""
+msgstr "[_a_] Ist das so?"
 
 # game/Cell01_SZ.rpy:4792 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_07_menu1_P4_d86c1b01:
 msgid "[_a_] If it's a tradition, then I guess I have no choice but to join in!"
