@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2024-04-08 19:01\n"
+"PO-Revision-Date: 2024-06-20 17:23\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Intro01.rpy:64 #-#-# translate crowdin Intro01_93eeba4f:
 msgid "[_tb_] Greetings!"
@@ -1030,7 +1030,7 @@ msgstr ""
 
 # game/Intro01.rpy:1269 #-#-# translate crowdin LycoPrison_menu01_01_06afe233:
 msgid "[_ly_] Mh..."
-msgstr ""
+msgstr "[_tb_] Hm..."
 
 # game/Intro01.rpy:1271 #-#-# translate crowdin LycoPrison_menu01_01_6b63d8dc:
 msgid "[_ly_] Yeah that could do it. "
