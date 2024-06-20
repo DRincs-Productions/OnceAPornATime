@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2024-04-28 19:49\n"
+"PO-Revision-Date: 2024-06-20 17:23\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_SW.rpy:309 #-#-# translate crowdin CHARA_SW_Menu01_8238495a:
 msgid "[_sw_]  ... "
@@ -14038,7 +14038,7 @@ msgstr ""
 
 # game/Cell01_SW.rpy:10944 #-#-# translate crowdin Quest_SW_MagicMirrorOutfits_6e3d920f:
 msgid "[_u_] Yeah..."
-msgstr ""
+msgstr "[_am_] Ja..."
 
 # game/Cell01_SW.rpy:10947 #-#-# translate crowdin Quest_SW_MagicMirrorOutfits_30874995:
 msgid "[_u_] Do you still have that tiara I gave you?"
