@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2024-04-09 09:08\n"
+"PO-Revision-Date: 2024-06-20 18:43\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Room_Showers.rpy:121 #-#-# translate crowdin ML_ShowerCams01_02_ec3b9bb7:
 msgid "[_u_] Meli?"
@@ -442,7 +442,7 @@ msgstr ""
 
 # game/Room_Showers.rpy:407 #-#-# translate crowdin A_GoShower_menu1_493f4f14:
 msgid "[_a_] Mh..."
-msgstr ""
+msgstr "Mhm..."
 
 # game/Room_Showers.rpy:409 #-#-# translate crowdin A_GoShower_menu1_9597dd09:
 msgid "[_a_] Okay, then."
