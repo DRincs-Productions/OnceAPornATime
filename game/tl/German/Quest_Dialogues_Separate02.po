@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2024-06-20 17:23\n"
+"PO-Revision-Date: 2024-06-20 18:43\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Quest_Dialogues_Separate02.rpy:69 #-#-# translate crowdin Quest2_Room01Panel01screen_E_8240cba6:
 msgid "[_u_] Got it!"
@@ -594,7 +594,7 @@ msgstr ""
 
 # game/Quest_Dialogues_Separate02.rpy:428 #-#-# translate crowdin QuestChap2_Amandine01_02_493f4f14:
 msgid "[_a_] Mh..."
-msgstr ""
+msgstr "Mhm..."
 
 # game/Quest_Dialogues_Separate02.rpy:430 #-#-# translate crowdin QuestChap2_Amandine01_02_228ac338:
 msgid "[_a_] I think I found a solution."
@@ -2530,7 +2530,7 @@ msgstr ""
 
 # game/Quest_Dialogues_Separate02.rpy:1964 #-#-# translate crowdin QuestChap2_Jasmine01_menu01_P1_493f4f14:
 msgid "[_a_] Mh..."
-msgstr ""
+msgstr "Mhm..."
 
 # game/Quest_Dialogues_Separate02.rpy:1966 #-#-# translate crowdin QuestChap2_Jasmine01_menu01_P1_eac750cf:
 msgid "[_a_] Maybe I'm the one who will need a corruption actually ahah"
