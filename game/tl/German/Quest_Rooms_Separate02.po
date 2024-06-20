@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2024-04-08 10:23\n"
+"PO-Revision-Date: 2024-06-20 18:43\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Quest_Rooms_Separate02.rpy:125 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_peruche_1ffa9899:
 msgid "[_u_] What are you doing here? "
@@ -1398,7 +1398,7 @@ msgstr ""
 
 # game/Quest_Rooms_Separate02.rpy:1222 #-#-# translate crowdin Quest_A_SW_01_02_02ecddd0:
 msgid "[_a_] I... "
-msgstr ""
+msgstr "[_a_] Ich... "
 
 # game/Quest_Rooms_Separate02.rpy:1224 #-#-# translate crowdin Quest_A_SW_01_02_6b3c3e08:
 msgid "[_a_] I'm a writer, actually. "
@@ -1826,7 +1826,7 @@ msgstr ""
 
 # game/Quest_Rooms_Separate02.rpy:1585 #-#-# translate crowdin Quest_A_SW_01_03_menu2_END_02ecddd0:
 msgid "[_a_] I... "
-msgstr ""
+msgstr "[_a_] Ich... "
 
 # game/Quest_Rooms_Separate02.rpy:1587 #-#-# translate crowdin Quest_A_SW_01_03_menu2_END_59b1e469:
 msgid "[_sw_] Mh... if you're not even honest with me, there's no point in making a song about me!"
@@ -1990,7 +1990,7 @@ msgstr ""
 
 # game/Quest_Rooms_Separate02.rpy:1684 #-#-# translate crowdin Quest_A_SW_01_03_menu2_END_02ecddd0_1:
 msgid "[_a_] I... "
-msgstr ""
+msgstr "[_a_] Ich... "
 
 # game/Quest_Rooms_Separate02.rpy:1686 #-#-# translate crowdin Quest_A_SW_01_03_menu2_END_1f010964:
 msgid "[_a_] Gosh... I don't know!"
