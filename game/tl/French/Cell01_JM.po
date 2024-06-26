@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-05-24 13:59\n"
+"PO-Revision-Date: 2024-06-26 15:01\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_JM.rpy:131 #-#-# translate crowdin CHARA_JM_Menu01_0eca5cd6:
 msgid "[_jm_] Hello to you... my [Quest_JM_NameMC]."
@@ -3170,7 +3170,7 @@ msgstr "[_a_] ..."
 
 # game/Cell01_JM.rpy:2368 #-#-# translate crowdin Quest_JM_Favor_Unicorn1_menu1_P3_618f8d59:
 msgid "[_a_] Can you imagine if Jasmine licked that thing after Sherazade put it in her... "
-msgstr "[Imaginez que Jasmine lèche ce truc après que Sherazade l'ait mis dans son... "
+msgstr "[_a_] Imaginez que Jasmine lèche ce truc après que Sherazade l'ait mis dans son... "
 
 # game/Cell01_JM.rpy:2369 #-#-# translate crowdin Quest_JM_Favor_Unicorn1_menu1_P3_7e787c1a:
 msgid "[_u_] Oh fuck, that's hard..."
@@ -4834,7 +4834,7 @@ msgstr "[_u_]..."
 
 # game/Cell01_JM.rpy:3762 #-#-# translate crowdin Quest_JM_Favor_Feather1_d6cde512:
 msgid "[_a_] Do you want to fuck her or not? "
-msgstr "[Tu veux la baiser ou pas ? "
+msgstr "[_a_] Tu veux la baiser ou pas ? "
 
 # game/Cell01_JM.rpy:3763 #-#-# translate crowdin Quest_JM_Favor_Feather1_3edde9fe:
 msgid "[_u_] Yes."
@@ -5086,7 +5086,7 @@ msgstr "[_u_] Que ça marche ou pas, je sens que je vais m'amuser. "
 
 # game/Cell01_JM.rpy:3922 #-#-# translate crowdin A_Jasmine_FeatherAgony_01_menu01_simple_16686357:
 msgid "[_a_] But no cheating, okay? "
-msgstr "[Mais pas de tricherie, d'accord ? "
+msgstr "[_a_] Mais pas de tricherie, d'accord ? "
 
 # game/Cell01_JM.rpy:3923 #-#-# translate crowdin A_Jasmine_FeatherAgony_01_menu01_simple_832de068:
 msgid "[_u_] No cheating."
@@ -5258,7 +5258,7 @@ msgstr "[Je deviens plus sage chaque jour. "
 
 # game/Cell01_JM.rpy:4104 #-#-# translate crowdin QuestChap2_Jasmine01_03_menu01_P1_935acda2:
 msgid "[_a_] Come and see me when you have made your decision!"
-msgstr "[Venez me voir quand vous aurez pris votre décision !"
+msgstr "[_a_] Venez me voir quand vous aurez pris votre décision !"
 
 # game/Cell01_JM.rpy:4106 #-#-# translate crowdin QuestChap2_Jasmine01_03_menu01_P1_3cfb964a:
 msgid "[_a_] See you later , [name]!"
