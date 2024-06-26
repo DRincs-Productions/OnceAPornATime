@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-06-10 23:30\n"
+"PO-Revision-Date: 2024-06-26 15:01\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Quest_Dialogues_Separate02.rpy:69 #-#-# translate crowdin Quest2_Room01Panel01screen_E_8240cba6:
 msgid "[_u_] Got it!"
@@ -678,7 +678,7 @@ msgstr "[ _u_ ] Oh oui ... c'était les drones de Melissandre."
 
 # game/Quest_Dialogues_Separate02.rpy:479 #-#-# translate crowdin QuestChap2_Amandine01_02_8d63e2d3:
 msgid "[_a_] Crazy story."
-msgstr "[_a_] L'histoire de Crazy."
+msgstr "[_a_] Une histoire de fous."
 
 # game/Quest_Dialogues_Separate02.rpy:481 #-#-# translate crowdin QuestChap2_Amandine01_02_aa26425f:
 msgid "[_a_] Well, keep me informed of the progress of the situation in the Orient area. "
@@ -2466,7 +2466,7 @@ msgstr "[_a_] ... C'est amusant de participer de loin !"
 
 # game/Quest_Dialogues_Separate02.rpy:1935 #-#-# translate crowdin QuestChap2_Jasmine01_menu01_P1_5b9823ca:
 msgid "[_a_] Corrupting an android? "
-msgstr "[_a_] Corruptage d'un androïde? "
+msgstr "[_a_] Corrompre un androïde ? "
 
 # game/Quest_Dialogues_Separate02.rpy:1937 #-#-# translate crowdin QuestChap2_Jasmine01_menu01_P1_e18610b3:
 msgid "[_a_] It looks like fun but..."
@@ -2526,7 +2526,7 @@ msgstr "[_a_] C'est plus dur qu'il ne l'est. "
 
 # game/Quest_Dialogues_Separate02.rpy:1962 #-#-# translate crowdin QuestChap2_Jasmine01_menu01_P1_30b4da88:
 msgid "[_a_] But yeah... I admit that it looks pretty... ''interesting'' to corrupt an android... "
-msgstr "[_a_] Mais oui ... J'admets qu'il semble joli ... '' intéressant''pour corrompu un androïde ... "
+msgstr "[_a_] Mais oui ... J'admets qu'il semble joli ... '' intéressant'' pour corrompu un androïde ... "
 
 # game/Quest_Dialogues_Separate02.rpy:1964 #-#-# translate crowdin QuestChap2_Jasmine01_menu01_P1_493f4f14:
 msgid "[_a_] Mh..."
@@ -7501,7 +7501,7 @@ msgstr "[ _dj_ ] Votre chambre est-elle ainsi?"
 
 # game/Quest_Dialogues_Separate02.rpy:5521 #-#-# translate crowdin Emee_Ali_01_02_menu1_d83c5cf7:
 msgid "[_a_] Come back!!"
-msgstr "[_a_] Revenez ! !"
+msgstr "[_a_] Revenez !!"
 
 # game/Quest_Dialogues_Separate02.rpy:5523 #-#-# translate crowdin Emee_Ali_01_02_menu1_7b1c1392:
 msgid "[_u_] ..."
