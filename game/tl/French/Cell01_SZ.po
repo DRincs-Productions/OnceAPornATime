@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-05-24 13:59\n"
+"PO-Revision-Date: 2024-06-26 15:01\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_SZ.rpy:87 #-#-# translate crowdin CHARA_SZ_Menu01_af6c6a0a:
 msgid "[_sz_]  ... "
@@ -1754,7 +1754,7 @@ msgstr "[_a_] Est-ce que ... ça s'est passé avant? "
 
 # game/Cell01_SZ.rpy:1310 #-#-# translate crowdin Quest_SZ_Favor_Dress_01_menu1_P3_bedfba68:
 msgid "[_a_] But, don't force yourself to answer me if you don't want to!!"
-msgstr "[_a_] Mais, ne vous forcez pas à me répondre si vous ne le voulez pas !"
+msgstr "[_a_] Mais, ne vous forcez pas à me répondre si vous ne le voulez pas !!"
 
 # game/Cell01_SZ.rpy:1312 #-#-# translate crowdin Quest_SZ_Favor_Dress_01_menu1_P3_0d6b565e:
 msgid "[_a_] I'm just curious. "
@@ -4554,7 +4554,7 @@ msgstr "[_a_] Allez, montrez-moi ce que vous pouvez faire. "
 
 # game/Cell01_SZ.rpy:3162 #-#-# translate crowdin QuestChap2_Jasmine01_02_af6eaa53:
 msgid "[_a_] Corrupt this girl!"
-msgstr "[_a_] Corrupt cette fille !"
+msgstr "[_a_] Corrompre cette fille !"
 
 # game/Cell01_SZ.rpy:3168 #-#-# translate crowdin QuestChap2_Jasmine01_02_7b1c1392_4:
 msgid "[_u_] ..."
