@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-05-24 23:49\n"
+"PO-Revision-Date: 2024-06-26 15:01\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Quest_Rooms_Separate02.rpy:125 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_peruche_1ffa9899:
 msgid "[_u_] What are you doing here? "
@@ -1182,7 +1182,7 @@ msgstr "[ _u_ ] Apparemment, son bateau s'est écrasé dans le désert ..."
 
 # game/Quest_Rooms_Separate02.rpy:1077 #-#-# translate crowdin Quest_LY_Favor_Boobs01_Amandine01_02_6239d298:
 msgid "[_a_] Damn."
-msgstr "[_a_] Damn."
+msgstr "[_a_] Bon sang."
 
 # game/Quest_Rooms_Separate02.rpy:1078 #-#-# translate crowdin Quest_LY_Favor_Boobs01_Amandine01_02_3d29468b:
 msgid "[_u_] Tinker is giving her a tour of the headquarters... And then we'll see."
@@ -2594,7 +2594,7 @@ msgstr "[_a_] Ne faites pas notre princesse attendre ..."
 
 # game/Quest_Rooms_Separate02.rpy:2125 #-#-# translate crowdin Scene_SnowWhite01_8a940b85:
 msgid "[_a_] Do I... have a cum droplet on my nose? "
-msgstr "[_a_] Do I. .. have a cum droplet on my nose? "
+msgstr "[_a_] Est-ce que j'ai... une goutte de sperme sur le nez ? "
 
 # game/Quest_Rooms_Separate02.rpy:2126 #-#-# translate crowdin Scene_SnowWhite01_7e07177f:
 msgid "[_u_] ... Oops."
@@ -2606,7 +2606,7 @@ msgstr "[ _sw_ ] Fuck ... J'adore être couvert ..."
 
 # game/Quest_Rooms_Separate02.rpy:2155 #-#-# translate crowdin Scene_SnowWhite01_e23c4989:
 msgid "[_a_] Damn... and she swallows it all!"
-msgstr "[_a_] Damn ... et elle a tout avalé !"
+msgstr "[_a_] Bon sang... et elle a tout avalé !"
 
 # game/Quest_Rooms_Separate02.rpy:2157 #-#-# translate crowdin Scene_SnowWhite01_1649a958:
 msgid "[_sw_] That's so tasty..."
