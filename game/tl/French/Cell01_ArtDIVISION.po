@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-05-24 13:59\n"
+"PO-Revision-Date: 2024-06-26 15:01\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_ArtDIVISION.rpy:151 #-#-# translate crowdin Cell01_ArtDIVISION_Menu01_ed0ef4ce:
 msgid "[_a_] Bonjour [name]!"
@@ -110,7 +110,7 @@ msgstr "[_a_] Oui, je sais, j'ai l'air un peu arrogant en posant cette question.
 
 # game/Cell01_ArtDIVISION.rpy:378 #-#-# translate crowdin CHARA_A_MenuTalk_FirstTime_0bccd93d:
 msgid "[_a_] But I... I need to know. "
-msgstr "[Mais je... J'ai besoin de savoir. "
+msgstr "[_a_] Mais je... J'ai besoin de savoir. "
 
 # game/Cell01_ArtDIVISION.rpy:382 #-#-# translate crowdin CHARA_A_MenuTalk_FirstTime_7891e355:
 msgid "[_a_] Oh."
@@ -3092,7 +3092,7 @@ msgstr "[Je crois que c'est seulement la deuxième ou troisième fois de ma vie 
 
 # game/Cell01_ArtDIVISION.rpy:2421 #-#-# translate crowdin LY_Talk_Amandine_Dress04Variation_af4afce4:
 msgid "[_a_] Do I look okay?"
-msgstr "[Est-ce que j'ai l'air bien ?"
+msgstr "[_a_] Est-ce que j'ai l'air bien ?"
 
 # game/Cell01_ArtDIVISION.rpy:2426 #-#-# translate crowdin LY_Talk_Amandine_Dress04Variation_ca0858f5:
 msgid "[_a_] That's very kind of you. "
@@ -3340,7 +3340,7 @@ msgstr "[_u_] Au contraire, notre objectif ou..."
 
 # game/Cell01_ArtDIVISION.rpy:2594 #-#-# translate crowdin Quest_A_SW_01_07820e8e:
 msgid "[_a_] But instead of killing... we make her fuckable. "
-msgstr "[Mais au lieu de tuer... on la rend baisable. "
+msgstr "[_a_] Mais au lieu de tuer... on la rend baisable. "
 
 # game/Cell01_ArtDIVISION.rpy:2596 #-#-# translate crowdin Quest_A_SW_01_87042742:
 msgid "[_u_] You're a poet."
@@ -3696,7 +3696,7 @@ msgstr "[_a_] Exactement."
 
 # game/Cell01_ArtDIVISION.rpy:2874 #-#-# translate crowdin Quest_A_SW_01_05_menu2_P2_327a9c80:
 msgid "[_a_] But on the other hand... I'm not going to stay here long if I can't do my job... "
-msgstr "[Mais d'un autre côté... Je ne vais pas rester longtemps ici si je ne peux pas faire mon travail... "
+msgstr "[_a_] Mais d'un autre côté... Je ne vais pas rester longtemps ici si je ne peux pas faire mon travail... "
 
 # game/Cell01_ArtDIVISION.rpy:2876 #-#-# translate crowdin Quest_A_SW_01_05_menu2_P2_d21a2f9a:
 msgid "[_a_] And our little... mind-reading problem with Snow White is blocking my progress. "
@@ -4316,7 +4316,7 @@ msgstr "[_a_] Les personnes avec lesquelles j'ai eu une relation. "
 
 # game/Cell01_ArtDIVISION.rpy:3291 #-#-# translate crowdin Quest_A_SW_01_05_menu3_P6_f9dca387:
 msgid "[_a_] But... honestly... I don't want to care anymore. "
-msgstr "[Mais... honnêtement... Je ne veux plus m'en soucier. "
+msgstr "[_a_] Mais... honnêtement... Je ne veux plus m'en soucier. "
 
 # game/Cell01_ArtDIVISION.rpy:3293 #-#-# translate crowdin Quest_A_SW_01_05_menu3_P6_962245db:
 msgid "[_a_] Having to hide my body all the time because a paparazzi might take a picture of me... I have to stop with this. "
@@ -4536,7 +4536,7 @@ msgstr "[_a_] C'est une journée pleine de premières. "
 
 # game/Cell01_ArtDIVISION.rpy:3438 #-#-# translate crowdin Quest_A_SW_01_05_menu3_P9_57295f21:
 msgid "[_a_] But... you don't tell anyone, right?"
-msgstr "[Mais... vous ne le dites à personne, n'est-ce pas ?"
+msgstr "[_a_] Mais... vous ne le dites à personne, n'est-ce pas ?"
 
 # game/Cell01_ArtDIVISION.rpy:3440 #-#-# translate crowdin Quest_A_SW_01_05_menu3_P9_76a37405:
 msgid "[_a_] I mean..."
