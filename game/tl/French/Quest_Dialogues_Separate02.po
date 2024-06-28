@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-06-26 15:01\n"
+"PO-Revision-Date: 2024-06-28 22:46\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Quest_Dialogues_Separate02.rpy:69 #-#-# translate crowdin Quest2_Room01Panel01screen_E_8240cba6:
 msgid "[_u_] Got it!"
@@ -74,7 +74,7 @@ msgstr "[ _a_s_ ] Oh, enfin !"
 
 # game/Quest_Dialogues_Separate02.rpy:113 #-#-# translate crowdin Intro_Rooms_Amandine01_7d864aec:
 msgid "[_a_s_] Finally someone!!"
-msgstr "[ _a_s_ ] Enfin quelqu'un ! !"
+msgstr "[ _a_s_ ] Enfin il y a quelqu'un ! !"
 
 # game/Quest_Dialogues_Separate02.rpy:118 #-#-# translate crowdin Intro_Rooms_Amandine01_f8a5c46d:
 msgid "[_a_s_] Good morning my dear sir! Bonjour!"
@@ -98,7 +98,7 @@ msgstr "[ _a_s_ ] Excusez-moi, mais ... est-ce que vous travaillez ici?"
 
 # game/Quest_Dialogues_Separate02.rpy:127 #-#-# translate crowdin Intro_Rooms_Amandine01_b2755326:
 msgid "[_u_] Uh I... yes. I mean, I just got back from... "
-msgstr "[ _u_ ] Uh je. .. oui. Je veux dire, je viens de rentrer de ... "
+msgstr "[ _u_ ] Euh je. .. oui. Je veux dire, je viens de rentrer de ... "
 
 # game/Quest_Dialogues_Separate02.rpy:129 #-#-# translate crowdin Intro_Rooms_Amandine01_934da0dc:
 msgid "[_u_] I mean, yes, I work here."
@@ -122,7 +122,7 @@ msgstr "[ _a_d_ ] J'ai écrit quelques romans c'est vrai."
 
 # game/Quest_Dialogues_Separate02.rpy:141 #-#-# translate crowdin Intro_Rooms_Amandine01_842bffd1:
 msgid "[_u_] Are you kidding? I don't know any other more famous in the whole galaxy!"
-msgstr "[ _u_ ] Vous plaisantez? Je ne connais pas d'auteur plus célèbre que vous dans toute la galaxie !"
+msgstr "[ _u_ ] Vous plaisantez? Je ne connais pas d'auteur plus connu que vous dans toute la galaxie !"
 
 # game/Quest_Dialogues_Separate02.rpy:142 #-#-# translate crowdin Intro_Rooms_Amandine01_95834290:
 msgid "[_a_d_] You are too kind. "
@@ -170,7 +170,7 @@ msgstr "[ _a_d_ ] Wow."
 
 # game/Quest_Dialogues_Separate02.rpy:162 #-#-# translate crowdin Intro_Rooms_Amandine01_78d3599c:
 msgid "[_u_] Yeah, I know. And it's not the craziest thing on this planet."
-msgstr "[ _u_ ] Ouais, je sais. Et ce n'est pas la chose la plus folle que l'on ait vu sur cette planète."
+msgstr "[ _u_ ] Ouais, je sais. Et c'est loin d'être la chose la plus bizarre ici."
 
 # game/Quest_Dialogues_Separate02.rpy:164 #-#-# translate crowdin Intro_Rooms_Amandine01_ca7d2394:
 msgid "[_u_] Believe me."
@@ -182,7 +182,7 @@ msgstr "[ _tb_ ] J'arrive! J'arrive!"
 
 # game/Quest_Dialogues_Separate02.rpy:169 #-#-# translate crowdin Intro_Rooms_Amandine01_71dda214:
 msgid "[_tb_] Sorry, we were fixing the... "
-msgstr "[ _tb_ ] Désolé, nous étions en train de réparer le..."
+msgstr "[ _tb_ ] Désolée, nous avons réparé le ... "
 
 # game/Quest_Dialogues_Separate02.rpy:171 #-#-# translate crowdin Intro_Rooms_Amandine01_05d56d8e:
 msgid "[_tb_] ..."
