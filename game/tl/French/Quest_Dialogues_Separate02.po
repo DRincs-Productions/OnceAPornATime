@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-06-28 22:46\n"
+"PO-Revision-Date: 2024-06-29 00:23\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Quest_Dialogues_Separate02.rpy:69 #-#-# translate crowdin Quest2_Room01Panel01screen_E_8240cba6:
 msgid "[_u_] Got it!"
@@ -214,7 +214,7 @@ msgstr "[ _tb_ ] Oui?"
 
 # game/Quest_Dialogues_Separate02.rpy:184 #-#-# translate crowdin Intro_Rooms_Amandine01_0441ea09:
 msgid "[_u_] Don't you think you're missing something here? "
-msgstr "[ _u_ ] Tu n'as pas l'impression que tu oublies quelque chose? "
+msgstr "[ _u_ ] Tu n'as pas l'impression d'oublier quelque chose? "
 
 # game/Quest_Dialogues_Separate02.rpy:187 #-#-# translate crowdin Intro_Rooms_Amandine01_9ff47697:
 msgid "[_tb_] Oh yes!"
@@ -426,7 +426,7 @@ msgstr "[ _tb_ ] C'est marrant ça. On va devoir s'en occuper. "
 
 # game/Quest_Dialogues_Separate02.rpy:314 #-#-# translate crowdin Intro_Rooms_BED01_menu01_P3_9f4db459:
 msgid "[_u_] And I saw that the old magesty of the place is held prisoner in these quarters."
-msgstr "[ _u_ ] Et j'ai vu que l'ancien magouté de l'endroit est détenu dans ces quartiers."
+msgstr "[ _u_ ] Et j'ai vu que l'ancienne gouvernante de l'endroit était détenue dans ces quartiers."
 
 # game/Quest_Dialogues_Separate02.rpy:316 #-#-# translate crowdin Intro_Rooms_BED01_menu01_P3_dfbcf263:
 msgid "[_tb_] Sherazade?"
@@ -438,11 +438,11 @@ msgstr "[ _u_ ] Ooooh donc c'est elle."
 
 # game/Quest_Dialogues_Separate02.rpy:319 #-#-# translate crowdin Intro_Rooms_BED01_menu01_P3_337e11f1:
 msgid "[_tb_] Dressed in blue, tall with a nice body and long black hair? "
-msgstr "[ _tb_ ] Vêtu en bleu, grand avec un joli corps et de longs cheveux noirs? "
+msgstr "[ _tb_ ] Habillée en bleu, grand avec un corps de dingue et de longs cheveux noirs? "
 
 # game/Quest_Dialogues_Separate02.rpy:320 #-#-# translate crowdin Intro_Rooms_BED01_menu01_P3_8dc1ad7a:
 msgid "[_u_] Yeah, that's her."
-msgstr "[ _u_ ] Ouais, c'est elle."
+msgstr "[ _u_ ] Ouais, c'est bien elle."
 
 # game/Quest_Dialogues_Separate02.rpy:322 #-#-# translate crowdin Intro_Rooms_BED01_menu01_P3_f76f9e6a:
 msgid "[_tb_] It is one of the most important androids of the entire southern continent."
@@ -450,7 +450,7 @@ msgstr "[ _tb_ ] C'est l'un des androïdes les plus importants de tout le contin
 
 # game/Quest_Dialogues_Separate02.rpy:324 #-#-# translate crowdin Intro_Rooms_BED01_menu01_P3_04467da1:
 msgid "[_tb_] We should start by taking care of her."
-msgstr "[ _tb_ ] Nous devrions commencer par prendre soin d'elle."
+msgstr "[ _tb_ ] On devrait commencer par s'occuper d'elle."
 
 # game/Quest_Dialogues_Separate02.rpy:332 #-#-# translate crowdin Intro_Rooms_BED01_menu01_P4_86c22b19:
 msgid "[_tb_] No idea who it is."
@@ -466,11 +466,11 @@ msgstr "[ _tb_ ] Elle ne doit pas venir de ce continent. "
 
 # game/Quest_Dialogues_Separate02.rpy:337 #-#-# translate crowdin Intro_Rooms_BED01_menu01_P4_b4727478:
 msgid "[_tb_] Another android that explored the planet. In 200 years it is predictable."
-msgstr "[ _tb_ ] Un autre androïde qui a exploré la planète. En 200 ans, c'est prévisible."
+msgstr "[ _tb_ ] Un autre androïde qui a exploré la planète. En 200 ans, c'est normal."
 
 # game/Quest_Dialogues_Separate02.rpy:339 #-#-# translate crowdin Intro_Rooms_BED01_menu01_P4_ea194a34:
 msgid "[_tb_] It might be nice to find out where she came from."
-msgstr "[ _tb_ ] C'est peut-être bien de savoir d'où elle vient."
+msgstr "[ _tb_ ] Ça serait bien de savoir d'où elle vient."
 
 # game/Quest_Dialogues_Separate02.rpy:341 #-#-# translate crowdin Intro_Rooms_BED01_menu01_P4_6447b168:
 msgid "[_tb_] I keep that in mind."
@@ -486,7 +486,7 @@ msgstr "[ _u_ ] Ah oui, j'ai vu Djin, c'est elle qui m'a téléporté ici. "
 
 # game/Quest_Dialogues_Separate02.rpy:350 #-#-# translate crowdin Intro_Rooms_BED01_menu01_P4_69eeaa51:
 msgid "[_tb_] Ohhh so cool I love this chick."
-msgstr "[ _tb_ ] Ohhh si cool j'aime ce poussin."
+msgstr "[ _tb_ ] Ohhh si cool j'aime cette meuf."
 
 # game/Quest_Dialogues_Separate02.rpy:352 #-#-# translate crowdin Intro_Rooms_BED01_menu01_P4_6a9fa26f:
 msgid "[_tb_] I need to prepare something for her."
@@ -494,7 +494,7 @@ msgstr "[ _tb_ ] J'ai besoin de préparer quelque chose pour elle."
 
 # game/Quest_Dialogues_Separate02.rpy:354 #-#-# translate crowdin Intro_Rooms_BED01_menu01_P4_aa0e070b:
 msgid "[_tb_] Anyway, take your time to settle in, and go see Emee as soon as you can. "
-msgstr "[ _tb_ ] De toute façon, prenez votre temps pour vous installer, et allez voir Emee dès que vous le pouvez. "
+msgstr "[ _tb_ ] En tout cas, prends ton temps pour t'installer, et va voir Emee dès que tu peux."
 
 # game/Quest_Dialogues_Separate02.rpy:356 #-#-# translate crowdin Intro_Rooms_BED01_menu01_P4_c5884e8e:
 msgid "[_tb_] She is parked on the spaceport outside now. "
@@ -502,23 +502,23 @@ msgstr "[ _tb_ ] Elle est garée sur le port spatial à l'extérieur. "
 
 # game/Quest_Dialogues_Separate02.rpy:358 #-#-# translate crowdin Intro_Rooms_BED01_menu01_P4_83a0412c:
 msgid "[_tb_] See you later [name]. And, welcome home."
-msgstr "[ _tb_ ] Voir plus tard [ nom ], et bienvenue à la maison."
+msgstr "[ _tb_ ] Voir plus tard [ nom ], et bon retour à la maison."
 
 # game/Quest_Dialogues_Separate02.rpy:369 #-#-# translate crowdin QuestChap2_Amandine01_01_6cdcbfb0:
 msgid "[_u_] It's good to wake up in something other than a cell. "
-msgstr "[ _u_ ] Il est bon de se réveiller dans quelque chose d'autre qu'une cellule. "
+msgstr "[ _u_ ] C'est bien de se réveiller autre par que dans une prison. "
 
 # game/Quest_Dialogues_Separate02.rpy:378 #-#-# translate crowdin QuestChap2_Amandine01_01_dcf20116:
 msgid "[_a_] Hey! Can you hear me? "
-msgstr "[_a_] Hé ! Peux-tu m'entendre? "
+msgstr "[_a_] Hé ! Tu m'entends?"
 
 # game/Quest_Dialogues_Separate02.rpy:380 #-#-# translate crowdin QuestChap2_Amandine01_01_9771862e:
 msgid "[_a_] I'm not sure if it works..."
-msgstr "[_a_] Je ne suis pas sûr que ça marche ..."
+msgstr "[_a_] Je sais pas si ça marche ..."
 
 # game/Quest_Dialogues_Separate02.rpy:381 #-#-# translate crowdin QuestChap2_Amandine01_01_c7c67d11:
 msgid "[_u_] I can hear you loud and clear!"
-msgstr "[ _u_ ] Je peux vous entendre haut et fort !"
+msgstr "[ _u_ ] Je t'entends 5/5 !"
 
 # game/Quest_Dialogues_Separate02.rpy:383 #-#-# translate crowdin QuestChap2_Amandine01_01_2b4bc695:
 msgid "[_a_] Aaah great! "
@@ -526,15 +526,15 @@ msgstr "[_a_] Aaah super ! "
 
 # game/Quest_Dialogues_Separate02.rpy:385 #-#-# translate crowdin QuestChap2_Amandine01_01_f488d849:
 msgid "[_a_] Thanks Melissandre, it works!"
-msgstr "[_a_] Merci Melissandre, ça marche !"
+msgstr "[_a_] Merci Melissandre, ça fonctionne !"
 
 # game/Quest_Dialogues_Separate02.rpy:386 #-#-# translate crowdin QuestChap2_Amandine01_01_ea20e1e3:
 msgid "[_ml_] You're welcome!"
-msgstr "[ _ml_ ] Vous êtes les bienvenus !"
+msgstr "[ _ml_ ] De rien !"
 
 # game/Quest_Dialogues_Separate02.rpy:388 #-#-# translate crowdin QuestChap2_Amandine01_01_cf2073d4:
 msgid "[_a_] So, [name], are you ready for our little meeting? "
-msgstr "[_a_] Alors, [ nom ], êtes-vous prêt pour notre petite réunion? "
+msgstr "[_a_] Alors, [ nom ], est-ce que tu es prêt pour notre petite réunion? "
 
 # game/Quest_Dialogues_Separate02.rpy:389 #-#-# translate crowdin QuestChap2_Amandine01_01_12922bb6:
 msgid "[_u_] Yep, you want me to come to your quarters? Or shall we do this in my office? "
