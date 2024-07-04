@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-07-04 08:40\n"
+"PO-Revision-Date: 2024-07-04 10:42\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_AM.rpy:86 #-#-# translate crowdin CHARA_AM_Menu01_c781f953:
 msgid "[_am_] Hey!"
@@ -262,11 +262,11 @@ msgstr "[_u_] 那还有就是... 我不知道我们在那里... 就是... 肉体
 
 # game/Cell01_AM.rpy:412 #-#-# translate crowdin Quest2_AM_Talk03_4b5b8110:
 msgid "[_am_] It would be interesting to see if that could... do it..."
-msgstr ""
+msgstr "[_am_] 要是能见证到这种奇妙搭配... 那可就太有趣..."
 
 # game/Cell01_AM.rpy:414 #-#-# translate crowdin Quest2_AM_Talk03_35fd3f4a:
 msgid "[_am_] So exciting..."
-msgstr ""
+msgstr "[_am_] 太刺激了..."
 
 # game/Cell01_AM.rpy:415 #-#-# translate crowdin Quest2_AM_Talk03_7b1c1392_1:
 msgid "[_u_] ..."
@@ -274,71 +274,71 @@ msgstr "[_u_] ..."
 
 # game/Cell01_AM.rpy:417 #-#-# translate crowdin Quest2_AM_Talk03_30549523:
 msgid "[_u_] I think we're both going to be good buddies."
-msgstr ""
+msgstr "[_u_] 我想我们会处得很来的。"
 
 # game/Cell01_AM.rpy:419 #-#-# translate crowdin Quest2_AM_Talk03_4aef165f:
 msgid "[_am_] So cool!"
-msgstr ""
+msgstr "[_am_] 太棒了！"
 
 # game/Cell01_AM.rpy:426 #-#-# translate crowdin Quest2_AM_Talk04_a54d56c3:
 msgid "[_am_] What a curious man you are. "
-msgstr ""
+msgstr "[_am_] 你是个求知欲浓厚的人。 "
 
 # game/Cell01_AM.rpy:431 #-#-# translate crowdin Quest2_AM_Talk04_5431f053:
 msgid "[_am_] That's hot. "
-msgstr ""
+msgstr "[_am_] 这太火辣了。 "
 
 # game/Cell01_AM.rpy:433 #-#-# translate crowdin Quest2_AM_Talk04_7573b0d3:
 msgid "[_am_] Like... It's amazing to be in something so hot... "
-msgstr ""
+msgstr "[_am_] 就比如说... 能接触到这么火辣的身体真是太好了... "
 
 # game/Cell01_AM.rpy:435 #-#-# translate crowdin Quest2_AM_Talk04_a4e42ee0:
 msgid "[_am_] And it's soft..."
-msgstr ""
+msgstr "[_am_] 而且还很柔软..."
 
 # game/Cell01_AM.rpy:437 #-#-# translate crowdin Quest2_AM_Talk04_e2052bbf:
 msgid "[_am_] And it bounces back when I jump. It's amazing. "
-msgstr ""
+msgstr "[_am_] 我手一移开，它就跟着回弹起来。这真是太奇妙了。 "
 
 # game/Cell01_AM.rpy:439 #-#-# translate crowdin Quest2_AM_Talk04_4323bdf1:
 msgid "[_am_] And then it has so many... interactivity. "
-msgstr ""
+msgstr "[_am_] 而且它还有很多的... 交互功能。 "
 
 # game/Cell01_AM.rpy:441 #-#-# translate crowdin Quest2_AM_Talk04_0239da9b:
 msgid "[_am_] So many things to do with this... thing!"
-msgstr ""
+msgstr "[_am_] 能用它来做很多很多的... 事情！"
 
 # game/Cell01_AM.rpy:443 #-#-# translate crowdin Quest2_AM_Talk04_3d188bf4:
 msgid "[_am_] I still have to get used to it. "
-msgstr ""
+msgstr "[_am_] 我还是得慢慢适应一下。 "
 
 # game/Cell01_AM.rpy:444 #-#-# translate crowdin Quest2_AM_Talk04_6e899504:
 msgid "[_u_] I think you will get used to it very quickly. "
-msgstr ""
+msgstr "[_u_] 我想你很快就会适应了。 "
 
 # game/Cell01_AM.rpy:446 #-#-# translate crowdin Quest2_AM_Talk04_a427fe26:
 msgid "[_u_] And then I can help you if you want. "
-msgstr ""
+msgstr "[_u_] 如果你愿意的话，我可以来帮你。 "
 
 # game/Cell01_AM.rpy:448 #-#-# translate crowdin Quest2_AM_Talk04_62c5d4ff:
 msgid "[_am_] Help me? Help me how?"
-msgstr ""
+msgstr "[_am_] 帮我？怎么帮我？"
 
 # game/Cell01_AM.rpy:450 #-#-# translate crowdin Quest2_AM_Talk04_15c1be97:
 msgid "[_am_] Ohhh you mean... "
-msgstr ""
+msgstr "[_am_] 哦哦，你是说... "
 
 # game/Cell01_AM.rpy:452 #-#-# translate crowdin Quest2_AM_Talk04_1a6fd5d2:
 msgid "[_am_] Like, with sex. "
-msgstr ""
+msgstr "[_am_] 比如，用性教我。 "
 
 # game/Cell01_AM.rpy:454 #-#-# translate crowdin Quest2_AM_Talk04_41451aa4:
 msgid "[_am_] Yeah..."
-msgstr ""
+msgstr "[_am_] 没错..."
 
 # game/Cell01_AM.rpy:456 #-#-# translate crowdin Quest2_AM_Talk04_ade3a3cc:
 msgid "[_am_] Yeah uh, I mean. Why not. We'll see. "
-msgstr ""
+msgstr "[_am_] 没错，呃，我是说，为什么不呢。让我们拭目以待吧。 "
 
 # game/Cell01_AM.rpy:458 #-#-# translate crowdin Quest2_AM_Talk04_1c8acf17:
 msgid "[_am_] ..."
@@ -346,7 +346,7 @@ msgstr "[_am_] ..."
 
 # game/Cell01_AM.rpy:460 #-#-# translate crowdin Quest2_AM_Talk04_ed2ea6fc:
 msgid "[_am_] Too bad we can't fly. It would be fun to fly."
-msgstr ""
+msgstr "[_am_] 可惜我们不能飞起来，不然那样一定会很有趣。"
 
 # game/Cell01_AM.rpy:466 #-#-# translate crowdin Quest2_AM_Talk05_e87d508f:
 msgid "[_am_] Well, yes."
