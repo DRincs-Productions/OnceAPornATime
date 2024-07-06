@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-07-04 10:42\n"
+"PO-Revision-Date: 2024-07-06 21:47\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_AM.rpy:86 #-#-# translate crowdin CHARA_AM_Menu01_c781f953:
 msgid "[_am_] Hey!"
@@ -358,43 +358,43 @@ msgstr "[_am_] 我是说... 并不尽然。 "
 
 # game/Cell01_AM.rpy:482 #-#-# translate crowdin Amelia_FirstAppChap2_c8807fc9:
 msgid "[_u_] Well, that's a nice view."
-msgstr ""
+msgstr "[_u_] 哇，这里的风景不错啊。"
 
 # game/Cell01_AM.rpy:483 #-#-# translate crowdin Amelia_FirstAppChap2_89ec64ce:
 msgid "[_u_] I hope this is the right office."
-msgstr ""
+msgstr "[_u_] 希望我没有走错办公室。"
 
 # game/Cell01_AM.rpy:485 #-#-# translate crowdin Amelia_FirstAppChap2_3e3065ff:
 msgid "[_u_] Amelia? Are you here? "
-msgstr ""
+msgstr "[_u_] 阿米莉亚？你在这吗？ "
 
 # game/Cell01_AM.rpy:486 #-#-# translate crowdin Amelia_FirstAppChap2_a0941fb6:
 msgid "[_am_] Hey! [name]!"
-msgstr ""
+msgstr "[_am_] 嘿！[name]！"
 
 # game/Cell01_AM.rpy:490 #-#-# translate crowdin Amelia_FirstAppChap2_4326c71a:
 msgid "[_am_] So happy to see you here!"
-msgstr ""
+msgstr "[_am_] 很高兴能在这见到你！"
 
 # game/Cell01_AM.rpy:492 #-#-# translate crowdin Amelia_FirstAppChap2_97e7004c:
 msgid "[_am_] Welcome to my office!"
-msgstr ""
+msgstr "[_am_] 欢迎来到我的办公室！"
 
 # game/Cell01_AM.rpy:494 #-#-# translate crowdin Amelia_FirstAppChap2_f639b17d:
 msgid "[_am_] You'll excuse me, it's still a bit messy here."
-msgstr ""
+msgstr "[_am_] 请谅解一下，这里还是有点乱糟糟的。"
 
 # game/Cell01_AM.rpy:495 #-#-# translate crowdin Amelia_FirstAppChap2_0e61f0e0:
 msgid "[_u_] I've seen worse. "
-msgstr ""
+msgstr "[_u_] 我见过更乱的。 "
 
 # game/Cell01_AM.rpy:497 #-#-# translate crowdin Amelia_FirstAppChap2_0a9d10ac:
 msgid "[_am_] When I arrived, the place was filled with boxes and old things. "
-msgstr ""
+msgstr "[_am_] 我来的时候，这房间里就堆满了盒子和旧东西。 "
 
 # game/Cell01_AM.rpy:499 #-#-# translate crowdin Amelia_FirstAppChap2_70f97b1a:
 msgid "[_am_] Mrs.Bell told me to put everything in your place, thanks for taking care of it. "
-msgstr ""
+msgstr "[_am_] 贝尔夫人让我把东西都放在你那里，谢谢你帮我保管。 "
 
 # game/Cell01_AM.rpy:500 #-#-# translate crowdin Amelia_FirstAppChap2_7b1c1392:
 msgid "[_u_] ..."
