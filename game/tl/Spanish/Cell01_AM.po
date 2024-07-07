@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-06-16 21:18\n"
+"PO-Revision-Date: 2024-07-07 14:31\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_AM.rpy:86 #-#-# translate crowdin CHARA_AM_Menu01_c781f953:
 msgid "[_am_] Hey!"
@@ -1518,7 +1518,7 @@ msgstr "[_dj_] ¡Nos vemos [name]!"
 
 # game/Cell01_AM.rpy:1386 #-#-# translate crowdin QuestChap2_Amelia01_08_menu01end_610cc6f5:
 msgid "[_u_] Okay, let's finish this interview. "
-msgstr ""
+msgstr "[_u_] Bien, terminemos esta entrevista. "
 
 # game/Cell01_AM.rpy:1405 #-#-# translate crowdin GalleryImageQuest_Amelia01_1a9def3b:
 msgid "[_am_] You are really not modest... that's for sure..."
