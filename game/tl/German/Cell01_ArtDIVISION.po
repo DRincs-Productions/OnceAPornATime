@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2024-06-20 18:43\n"
+"PO-Revision-Date: 2024-07-19 11:08\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_ArtDIVISION.rpy:151 #-#-# translate crowdin Cell01_ArtDIVISION_Menu01_ed0ef4ce:
 msgid "[_a_] Bonjour [name]!"
@@ -1176,23 +1176,23 @@ msgstr "[_a_] Oh! [Name]!"
 
 # game/Cell01_ArtDIVISION.rpy:1160 #-#-# translate crowdin QuestChap2_LyStart_LY_02_42c77882:
 msgid "[_a_] We're trying to fix a few problems with our creation machine."
-msgstr ""
+msgstr "[_a_] Wir versuchen, ein paar Probleme mit unserem 3D Drucker zu beheben."
 
 # game/Cell01_ArtDIVISION.rpy:1162 #-#-# translate crowdin QuestChap2_LyStart_LY_02_54c9eaad:
 msgid "[_a_] What's new for you?"
-msgstr ""
+msgstr "[_a_] Was ist neu für dich?"
 
 # game/Cell01_ArtDIVISION.rpy:1163 #-#-# translate crowdin QuestChap2_LyStart_LY_02_d4494e96:
 msgid "[_u_] I've come to see Lyco, I think the blueprint she gave me has a problem."
-msgstr ""
+msgstr "[_u_] Ich bin zu Lyco gegangen. Ich glaube, der Bauplan, den sie mir gegeben hat, ist fehlerhaft."
 
 # game/Cell01_ArtDIVISION.rpy:1166 #-#-# translate crowdin QuestChap2_LyStart_LY_02_ffff980b:
 msgid "[_ly_] The blueprint doesn't work?"
-msgstr ""
+msgstr "[_ly_] Die Blaupause funktioniert nicht?"
 
 # game/Cell01_ArtDIVISION.rpy:1167 #-#-# translate crowdin QuestChap2_LyStart_LY_02_3de10f5c:
 msgid "[_u_] Er... There's a tiny stain on your tank top."
-msgstr ""
+msgstr "[_u_] Ähm… Da ist ein kleiner Fleck auf deinem Tanktop."
 
 # game/Cell01_ArtDIVISION.rpy:1169 #-#-# translate crowdin QuestChap2_LyStart_LY_02_4ef0a6ef:
 msgid "[_ly_] Yeah... I think I've pierced the nanocreative ink reservoir. "
