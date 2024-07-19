@@ -10,175 +10,175 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2024-06-19 14:04\n"
+"PO-Revision-Date: 2024-07-19 14:07\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_BA.rpy:50 #-#-# translate crowdin CHARA_BA_Menu01_98aea068:
 msgid "[_ba_]  ... "
-msgstr ""
+msgstr "[_ba_] ... "
 
 # game/Cell01_BA.rpy:53 #-#-# translate crowdin CHARA_BA_Menu01_658d3e7b:
 msgid "[_ba_]  Oh, not you again..."
-msgstr ""
+msgstr "[_ba_] Oh, nicht schon wieder du..."
 
 # game/Cell01_BA.rpy:61 #-#-# translate crowdin CHARA_BA_Menu01_68a0dc42:
 msgid "[_ba_] Greetings [name]. "
-msgstr ""
+msgstr "[_ba_] Grüße [Name]. "
 
 # game/Cell01_BA.rpy:68 #-#-# translate crowdin CHARA_BA_MenuChoice_ee462d5f:
 msgid "AVAILABLE AT THE UPCOMING UPDATE"
-msgstr ""
+msgstr "VERFÜGBAR BEIM KOMMENDEN UPDATE"
 
 # game/Cell01_BA.rpy:96 #-#-# translate crowdin CHARA_BA_MenuChoice_FAVORS2_ee462d5f:
 msgid "AVAILABLE AT THE UPCOMING UPDATE"
-msgstr ""
+msgstr "VERFÜGBAR BEIM KOMMENDEN UPDATE"
 
 # game/Cell01_BA.rpy:105 #-#-# translate crowdin CHARA_BA_MenuChoice_FAVORS2_6d7b7b4a:
 msgid "[_u_] See you later."
-msgstr ""
+msgstr "[_u_] Bis später."
 
 # game/Cell01_BA.rpy:107 #-#-# translate crowdin CHARA_BA_MenuChoice_FAVORS2_3dfd4a8f:
 msgid "[_sz_] Yeah, see ya."
-msgstr ""
+msgstr "[_sz_] Ja, bis dann."
 
 # game/Cell01_BA.rpy:127 #-#-# translate crowdin Quest_BA_Favor_Boobs_01_44976c9b:
 msgid "[_ba_] That I show you... what?"
-msgstr ""
+msgstr "[_ba_] Dass ich dir... was zeige?"
 
 # game/Cell01_BA.rpy:129 #-#-# translate crowdin Quest_BA_Favor_Boobs_01_0232476c:
 msgid "[_ba_] Why would I do that? "
-msgstr ""
+msgstr "[_ba_] Warum sollte ich das tun? "
 
 # game/Cell01_BA.rpy:130 #-#-# translate crowdin Quest_BA_Favor_Boobs_01_9a9841bf:
 msgid "[_u_] To make you sexually debauched. To be able to make your wish to the Djin. "
-msgstr ""
+msgstr "[_u_] Um dich sexuell verdorben zu machen. Um dem Dschinn deine Wünsche mitteilen zu können. "
 
 # game/Cell01_BA.rpy:132 #-#-# translate crowdin Quest_BA_Favor_Boobs_01_f7106acc:
 msgid "[_ba_] And really... you think the best way to achieve this is for me to..."
-msgstr ""
+msgstr "[_ba_] Und wirklich... Du meinst, der beste Weg, dies zu erreichen, wäre, wenn ich..."
 
 # game/Cell01_BA.rpy:134 #-#-# translate crowdin Quest_BA_Favor_Boobs_01_809c1fc3:
 msgid "[_ba_] ...show my breasts?"
-msgstr ""
+msgstr "[_ba_] ...meine Brüste zeigen?"
 
 # game/Cell01_BA.rpy:136 #-#-# translate crowdin Quest_BA_Favor_Boobs_01_6ee176e9:
 msgid "[_ba_] You're not making any sense. "
-msgstr ""
+msgstr "[_ba_] Das ergibt keinen Sinn. "
 
 # game/Cell01_BA.rpy:138 #-#-# translate crowdin Quest_BA_Favor_Boobs_01_fc00459a:
 msgid "[_ba_] I don't know what kind of imbecile would believe such nonsense. "
-msgstr ""
+msgstr "[_ba_] Ich weiß nicht, was für ein Idiot so einen Unsinn glauben würde. "
 
 # game/Cell01_BA.rpy:139 #-#-# translate crowdin Quest_BA_Favor_Boobs_01_cc71eb9a:
 msgid "[_u_] Mh."
-msgstr ""
+msgstr "[_tb_] Hm."
 
 # game/Cell01_BA.rpy:140 #-#-# translate crowdin Quest_BA_Favor_Boobs_01_fea7915a:
 msgid "[_u_] Got a problem with nudity?"
-msgstr ""
+msgstr "[_u_] Hast du ein Problem mit Nacktheit?"
 
 # game/Cell01_BA.rpy:142 #-#-# translate crowdin Quest_BA_Favor_Boobs_01_0036ca5c:
 msgid "[_ba_] Absolutely not. "
-msgstr ""
+msgstr "[_ba_] Auf keinen Fall. "
 
 # game/Cell01_BA.rpy:143 #-#-# translate crowdin Quest_BA_Favor_Boobs_01_15376318:
 msgid "[_u_] Because when I see you reluctant to show your own breasts... "
-msgstr ""
+msgstr "[_u_] Denn wenn ich sehe, dass du dich sträubst, deine eigenen Brüste zu zeigen... "
 
 # game/Cell01_BA.rpy:145 #-#-# translate crowdin Quest_BA_Favor_Boobs_01_3204983f:
 msgid "[_u_] You'd think the queen of thieves was also the queen of modesty. "
-msgstr ""
+msgstr "[_u_] Man könnte meinen, die Königin der Diebe wäre auch die Königin der Bescheidenheit. "
 
 # game/Cell01_BA.rpy:147 #-#-# translate crowdin Quest_BA_Favor_Boobs_01_7611efb4:
 msgid "[_ba_] ..."
-msgstr ""
+msgstr "[_ba_] ..."
 
 # game/Cell01_BA.rpy:149 #-#-# translate crowdin Quest_BA_Favor_Boobs_01_d9f0a406:
 msgid "[_ba_] You're lucky I need you to be a sultana."
-msgstr ""
+msgstr "[_ba_] Du hast Glück, dass ich dich als Sultana brauche."
 
 # game/Cell01_BA.rpy:151 #-#-# translate crowdin Quest_BA_Favor_Boobs_01_ca549b72:
 msgid "[_ba_] Otherwise you'd already have had your tongue cut out and... "
-msgstr ""
+msgstr "[_ba_] Sonst hätte man dir schon die Zunge herausgeschnitten und... "
 
 # game/Cell01_BA.rpy:152 #-#-# translate crowdin Quest_BA_Favor_Boobs_01_08840377:
 msgid "[_u_] ...and thrown into the desert. Yes, I know. "
-msgstr ""
+msgstr "[_u_] ...und in die Wüste geworfen. Ja, ich weiß. "
 
 # game/Cell01_BA.rpy:154 #-#-# translate crowdin Quest_BA_Favor_Boobs_01_2e2af925:
 msgid "[_ba_] Mhf..."
-msgstr ""
+msgstr "[_ba_] Mhf..."
 
 # game/Cell01_BA.rpy:155 #-#-# translate crowdin Quest_BA_Favor_Boobs_01_6bd09af9:
 msgid "[_u_] So... why don't you show me your breasts? "
-msgstr ""
+msgstr "[_u_] Also... warum zeigst du mir nicht deine Brüste? "
 
 # game/Cell01_BA.rpy:157 #-#-# translate crowdin Quest_BA_Favor_Boobs_01_e671fb7b:
 msgid "[_ba_] You don't deserve to see my fabulous breasts. "
-msgstr ""
+msgstr "[_ba_] Du verdienst es nicht, meine tollen Brüste zu sehen. "
 
 # game/Cell01_BA.rpy:159 #-#-# translate crowdin Quest_BA_Favor_Boobs_01_6b946cf7:
 msgid "[_ba_] I am, after all, a future sultana."
-msgstr ""
+msgstr "[_ba_] Schließlich bin ich eine zukünftige Sultana."
 
 # game/Cell01_BA.rpy:161 #-#-# translate crowdin Quest_BA_Favor_Boobs_01_b34f3d5e:
 msgid "[_ba_] The breasts of a sultana are one of the most sacred things in this kingdom. "
-msgstr ""
+msgstr "[_ba_] Die Brüste einer Sultana sind eines der heiligsten Dinge in diesem Königreich. "
 
 # game/Cell01_BA.rpy:163 #-#-# translate crowdin Quest_BA_Favor_Boobs_01_961c5d93:
 msgid "[_ba_] Let someone like you see them... Mh... it would be punishable by death. "
-msgstr ""
+msgstr "[_ba_] Lass jemanden wie dich sie sehen... Mh... das würde mit dem Tod bestraft werden. "
 
 # game/Cell01_BA.rpy:164 #-#-# translate crowdin Quest_BA_Favor_Boobs_01_626e5ff9:
 msgid "[_u_] Except that you'll never be a sultana if I don't see some breasts... "
-msgstr ""
+msgstr "[_u_] Außer, dass du nie eine Sultana wirst, wenn ich keine Brüste sehe... "
 
 # game/Cell01_BA.rpy:166 #-#-# translate crowdin Quest_BA_Favor_Boobs_01_b1c0176c:
 msgid "[_ba_] I definitely don't like the way you talk."
-msgstr ""
+msgstr "[_ba_] Mir gefällt die Art, wie du sprichst, überhaupt nicht."
 
 # game/Cell01_BA.rpy:168 #-#-# translate crowdin Quest_BA_Favor_Boobs_01_5d640317:
 msgid "[_ba_] What have I done to the gods to deserve this?"
-msgstr ""
+msgstr "[_ba_] Was habe ich den Göttern angetan, um das zu verdienen?"
 
 # game/Cell01_BA.rpy:170 #-#-# translate crowdin Quest_BA_Favor_Boobs_01_5f4525c1:
 msgid "[_ba_] Mhr..."
-msgstr ""
+msgstr "[_ba_] Mhr..."
 
 # game/Cell01_BA.rpy:173 #-#-# translate crowdin Quest_BA_Favor_Boobs_01_5735afcb:
 msgid "[_ba_] Come back later, you little pervert."
-msgstr ""
+msgstr "[_ba_] Komm später wieder, du kleiner Perverser."
 
 # game/Cell01_BA.rpy:175 #-#-# translate crowdin Quest_BA_Favor_Boobs_01_e7743dcf:
 msgid "[_u_] Great."
-msgstr ""
+msgstr "[_a_] Großartig."
 
 # game/Cell01_BA.rpy:176 #-#-# translate crowdin Quest_BA_Favor_Boobs_01_06a4f055:
 msgid "[_u_] Tinker... I'm really asking you as a favor... Is it possible to have a simple corruption one day? "
-msgstr ""
+msgstr "[_u_] Tinker... ich bitte dich wirklich um einen Gefallen... Ist es möglich, eines Tages eine einfache Korruption zu Bekommen? "
 
 # game/Cell01_BA.rpy:184 #-#-# translate crowdin Quest_BA_Favor_Boobs_01_9db7b342:
 msgid "[_tb_] Hey, man, if that was the case, I wouldn't need you."
-msgstr ""
+msgstr "[_tb_] Verdammt, wenn das der Fall wäre, bräuchte ich dich nicht."
 
 # game/Cell01_BA.rpy:186 #-#-# translate crowdin Quest_BA_Favor_Boobs_01_967f49fe:
 msgid "[_u_] Really? I thought you hired me for my incredible charm. "
-msgstr ""
+msgstr "[_u_] Wirklich? Ich dachte, du hättest mich wegen meines unglaublichen Charmes eingestellt. "
 
 # game/Cell01_BA.rpy:188 #-#-# translate crowdin Quest_BA_Favor_Boobs_01_7d4d6de6:
 msgid "[_tb_] A few more chats with her and I'm sure you'll be fucking her!"
-msgstr ""
+msgstr "[_tb_] Noch ein paar Unterhaltungen mit ihr und ich bin sicher, du wirst sie ficken!"
 
 # game/Cell01_BA.rpy:189 #-#-# translate crowdin Quest_BA_Favor_Boobs_01_aeba7780:
 msgid "[_u_] Want to bet on something? "
-msgstr ""
+msgstr "[_u_] Möchten Du um etwas wetten? "
 
 # game/Cell01_BA.rpy:191 #-#-# translate crowdin Quest_BA_Favor_Boobs_01_24b6d96a:
 msgid "[_tb_] Absolutely not."
-msgstr ""
+msgstr "[_tb_] Auf keinen Fall."
 
 # game/Cell01_BA.rpy:212 #-#-# translate crowdin Quest_BA_App01_01_033285f3:
 msgid "[_u_] Hello? Mrs Ali? "
-msgstr ""
+msgstr "[_u_] Hallo? Frau Ali? "
 
 # game/Cell01_BA.rpy:214 #-#-# translate crowdin Quest_BA_App01_01_7b1c1392:
 msgid "[_u_] ..."
@@ -186,39 +186,39 @@ msgstr "..."
 
 # game/Cell01_BA.rpy:215 #-#-# translate crowdin Quest_BA_App01_01_20ecf295:
 msgid "[_u_] Mrs Baba?"
-msgstr ""
+msgstr "[_u_] Frau Baba?"
 
 # game/Cell01_BA.rpy:223 #-#-# translate crowdin Quest_BA_App01_01_8fdb5164:
 msgid "[_ba_] I warn you, I don't appreciate nicknames. "
-msgstr ""
+msgstr "[_ba_] Ich warne Dich, ich mag keine Spitznamen. "
 
 # game/Cell01_BA.rpy:225 #-#-# translate crowdin Quest_BA_App01_01_15d56340:
 msgid "[_ba_] Call me Ali-Baba or keep your mouth shut. "
-msgstr ""
+msgstr "[_ba_] Nenn mich Ali-Baba oder halt die Fresse. "
 
 # game/Cell01_BA.rpy:227 #-#-# translate crowdin Quest_BA_App01_01_d772eeb4:
 msgid "[_ba_] ...Or you can call me ''Queen of Thieves''. "
-msgstr ""
+msgstr "[_ba_] …Oder du kannst mich „Königin der Diebe“ nennen. "
 
 # game/Cell01_BA.rpy:229 #-#-# translate crowdin Quest_BA_App01_01_94233455:
 msgid "[_ba_] It's a title I particularly appreciate. "
-msgstr ""
+msgstr "[_ba_] Das ist ein Titel, den ich besonders schätze. "
 
 # game/Cell01_BA.rpy:230 #-#-# translate crowdin Quest_BA_App01_01_1257cdc6:
 msgid "[_u_] Yeah... I'm not a fan of Titles... let's go for Ali-Baba. "
-msgstr ""
+msgstr "[_u_] Ja... ich bin kein Fan von Titeln... lass uns Ali Baba nehmen. "
 
 # game/Cell01_BA.rpy:232 #-#-# translate crowdin Quest_BA_App01_01_7496e3b5:
 msgid "[_ba_] Are you going to talk about titles and names for much longer, or shall we get down to business? "
-msgstr ""
+msgstr "[_ba_] Wirst du noch viel länger über Titel und Namen reden, oder sollen wir gleich zur Sache kommen? "
 
 # game/Cell01_BA.rpy:233 #-#-# translate crowdin Quest_BA_App01_01_c896d450:
 msgid "[_u_] All right... if you want to talk about serious things... let's talk about serious things."
-msgstr ""
+msgstr "[_u_] Also gut... wenn Du über ernste Dinge reden willst... dann lass uns über ernste Dinge reden."
 
 # game/Cell01_BA.rpy:235 #-#-# translate crowdin Quest_BA_App01_01_714f5f70:
 msgid "[_u_] I've figured out how to make you a Sultana. "
-msgstr ""
+msgstr "[_u_] Ich habe herausgefunden, wie ich aus dir eine Sultana machen kann. "
 
 # game/Cell01_BA.rpy:237 #-#-# translate crowdin Quest_BA_App01_01_c7a0113c:
 msgid "[_ba_] Oh, really?"
@@ -290,7 +290,7 @@ msgstr ""
 
 # game/Cell01_BA.rpy:273 #-#-# translate crowdin Quest_BA_App01_01_7611efb4:
 msgid "[_ba_] ..."
-msgstr ""
+msgstr "[_ba_] ..."
 
 # game/Cell01_BA.rpy:275 #-#-# translate crowdin Quest_BA_App01_01_921abd65:
 msgid "[_ba_] I can't decide whether to give you a taste of my sword, or leave you in the middle of the desert. "
@@ -326,7 +326,7 @@ msgstr ""
 
 # game/Cell01_BA.rpy:297 #-#-# translate crowdin Quest_BA_App01_01_7611efb4_1:
 msgid "[_ba_] ..."
-msgstr ""
+msgstr "[_ba_] ..."
 
 # game/Cell01_BA.rpy:300 #-#-# translate crowdin Quest_BA_App01_01_c0ed89e7:
 msgid "[_ba_] That's pretty cool."
@@ -434,15 +434,15 @@ msgstr ""
 
 # game/Cell01_BA.rpy:356 #-#-# translate crowdin Quest_BA_App01_01_11c85d96:
 msgid "[_ba_] What?!"
-msgstr ""
+msgstr "[_ba_] Was?!"
 
 # game/Cell01_BA.rpy:358 #-#-# translate crowdin Quest_BA_App01_01_6d07bb58:
 msgid "[_ba_] I... mh... "
-msgstr ""
+msgstr "[_ba_] I... mh... "
 
 # game/Cell01_BA.rpy:360 #-#-# translate crowdin Quest_BA_App01_01_6765fc92:
 msgid "[_ba_] What should I do? "
-msgstr ""
+msgstr "[_ba_] Was soll ich tun? "
 
 # game/Cell01_BA.rpy:362 #-#-# translate crowdin Quest_BA_App01_01_a66d3af8:
 msgid "[_dj_] To fulfill this last wish, you'll have to..."
@@ -462,7 +462,7 @@ msgstr ""
 
 # game/Cell01_BA.rpy:370 #-#-# translate crowdin Quest_BA_App01_01_7611efb4_2:
 msgid "[_ba_] ..."
-msgstr ""
+msgstr "[_ba_] ..."
 
 # game/Cell01_BA.rpy:372 #-#-# translate crowdin Quest_BA_App01_01_d52c27be:
 msgid "[_dj_] As long as your soul is pure, you won't have your wish!"
@@ -502,7 +502,7 @@ msgstr ""
 
 # game/Cell01_BA.rpy:394 #-#-# translate crowdin Quest_BA_App01_01_7611efb4_3:
 msgid "[_ba_] ..."
-msgstr ""
+msgstr "[_ba_] ..."
 
 # game/Cell01_BA.rpy:395 #-#-# translate crowdin Quest_BA_App01_01_88fbf8c4:
 msgid "[_u_] Don't worry, sweetheart, it's not my first time. "
