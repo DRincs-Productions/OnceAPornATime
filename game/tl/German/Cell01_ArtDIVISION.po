@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2024-07-19 12:38\n"
+"PO-Revision-Date: 2024-07-19 14:07\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_ArtDIVISION.rpy:151 #-#-# translate crowdin Cell01_ArtDIVISION_Menu01_ed0ef4ce:
 msgid "[_a_] Bonjour [name]!"
@@ -1360,19 +1360,19 @@ msgstr "[_u_] Mitten im Wald. Meine Drohne hat es aufgenommen."
 
 # game/Cell01_ArtDIVISION.rpy:1274 #-#-# translate crowdin Quest_A_Item_Luggage01_01_ff61290f:
 msgid "[_a_] Gosh... never trust robotic movers."
-msgstr ""
+msgstr "[_a_] Meine Güte… vertraue niemals Umzugsrobotern."
 
 # game/Cell01_ArtDIVISION.rpy:1275 #-#-# translate crowdin Quest_A_Item_Luggage01_01_5ecdf34d:
 msgid "[_u_] Don't worry, here it is. "
-msgstr ""
+msgstr "[_u_] Keine Sorge, hier ist es. "
 
 # game/Cell01_ArtDIVISION.rpy:1283 #-#-# translate crowdin Quest_A_Item_Luggage01_01_43309d2e:
 msgid "[_a_] How did you know it was mine? "
-msgstr ""
+msgstr "[_a_] Woher wusstest du, dass es meins ist? "
 
 # game/Cell01_ArtDIVISION.rpy:1284 #-#-# translate crowdin Quest_A_Item_Luggage01_01_23005707:
 msgid "[_u_] Well... I don't know many people who would have such a luxurious suitcase around here. "
-msgstr ""
+msgstr "[_u_] Also... ich kenne hier nicht viele Leute, die einen so luxuriösen Koffer besitzen. "
 
 # game/Cell01_ArtDIVISION.rpy:1286 #-#-# translate crowdin Quest_A_Item_Luggage01_01_3801eb80:
 msgid "[_a_] Oh. "
@@ -1380,7 +1380,7 @@ msgstr "[_a_] Oh. "
 
 # game/Cell01_ArtDIVISION.rpy:1288 #-#-# translate crowdin Quest_A_Item_Luggage01_01_9d94cb37:
 msgid "[_a_] Anyway, thank you so much for bringing it to me. "
-msgstr ""
+msgstr "[_a_] Wie dem auch sei, vielen Dank, dass du es mir gebracht hast. "
 
 # game/Cell01_ArtDIVISION.rpy:1294 #-#-# translate crowdin Quest_A_Item_Luggage01_01_a985c941:
 msgid "[_a_] See you later!"
@@ -1568,27 +1568,27 @@ msgstr "[_a_] Ich hoffe aber auch, dass Du neben der Arbeit hier noch andere Din
 
 # game/Cell01_ArtDIVISION.rpy:1408 #-#-# translate crowdin Quest_A_Item_Luggage01_01_menu1_P2_09a1956d:
 msgid "[_a_] It would be nice to be able to relax a bit more from time to time. "
-msgstr ""
+msgstr "[_a_] Es wäre schön, ab und zu etwas mehr entspannen zu können. "
 
 # game/Cell01_ArtDIVISION.rpy:1410 #-#-# translate crowdin Quest_A_Item_Luggage01_01_menu1_P2_0a073ddc:
 msgid "[_a_] If you're up for it, of course."
-msgstr ""
+msgstr "[_a_] Wenn du Lust hast, natürlich."
 
 # game/Cell01_ArtDIVISION.rpy:1413 #-#-# translate crowdin Quest_A_Item_Luggage01_01_menu1_P2_19da9302:
 msgid "[_a_] Totally."
-msgstr ""
+msgstr "[_a_] Absolut."
 
 # game/Cell01_ArtDIVISION.rpy:1415 #-#-# translate crowdin Quest_A_Item_Luggage01_01_menu1_P2_74189984:
 msgid "[_a_] This woman is clearly passionate about her work. "
-msgstr ""
+msgstr "[_a_] Diese Frau ist offensichtlich mit Leidenschaft bei der Arbeit. "
 
 # game/Cell01_ArtDIVISION.rpy:1417 #-#-# translate crowdin Quest_A_Item_Luggage01_01_menu1_P2_7dab8b66:
 msgid "[_a_] Which is great, but it's always a challenge to work with that kind of person."
-msgstr ""
+msgstr "[_a_] Das ist großartig, aber es ist immer eine Herausforderung, mit solchen Menschen zu arbeiten."
 
 # game/Cell01_ArtDIVISION.rpy:1419 #-#-# translate crowdin Quest_A_Item_Luggage01_01_menu1_P2_e285615a:
 msgid "[_a_] And of course, I hope we'll continue to work together, my dear [name]. "
-msgstr ""
+msgstr "[_a_] Und natürlich hoffe ich, dass wir weiterhin zusammenarbeiten werden, mein lieber [Name]. "
 
 # game/Cell01_ArtDIVISION.rpy:1420 #-#-# translate crowdin Quest_A_Item_Luggage01_01_menu1_P2_056dc0b5:
 msgid "[_u_] I hope so too."
