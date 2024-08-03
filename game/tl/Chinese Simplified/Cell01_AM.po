@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-07-06 23:32\n"
+"PO-Revision-Date: 2024-08-03 20:46\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_AM.rpy:86 #-#-# translate crowdin CHARA_AM_Menu01_c781f953:
 msgid "[_am_] Hey!"
@@ -426,31 +426,31 @@ msgstr "[_am_] ..."
 
 # game/Cell01_AM.rpy:511 #-#-# translate crowdin Amelia_FirstAppChap2_ffd3fd1b:
 msgid "[_u_] Wow."
-msgstr ""
+msgstr "[_u_] 哇哦。"
 
 # game/Cell01_AM.rpy:512 #-#-# translate crowdin Amelia_FirstAppChap2_b8769a60:
 msgid "[_u_] Uh... yeah sure..."
-msgstr ""
+msgstr "[_u_] 嗯... 是的，没错..."
 
 # game/Cell01_AM.rpy:514 #-#-# translate crowdin Amelia_FirstAppChap2_6046d3cd:
 msgid "[_am_] Anyway."
-msgstr ""
+msgstr "[_am_] 总之。"
 
 # game/Cell01_AM.rpy:516 #-#-# translate crowdin Amelia_FirstAppChap2_246969af:
 msgid "[_am_] Did you want something? "
-msgstr ""
+msgstr "[_am_] 你想要什么吗？ "
 
 # game/Cell01_AM.rpy:525 #-#-# translate crowdin QuestChap2_Amelia01_02_71c3cc96:
 msgid "[_am_] We will start as soon as the first candidate is here!"
-msgstr ""
+msgstr "[_am_] 等第一位候选人过来，我们就马上开始行动！"
 
 # game/Cell01_AM.rpy:527 #-#-# translate crowdin QuestChap2_Amelia01_02_d575abcf:
 msgid "[_u_] And when is that candidate due to arrive?"
-msgstr ""
+msgstr "[_u_] 那候选人什么时候会过来？"
 
 # game/Cell01_AM.rpy:529 #-#-# translate crowdin QuestChap2_Amelia01_02_d4da763b:
 msgid "[_am_] She was supposed to be here yesterday. "
-msgstr ""
+msgstr "[_am_] 她昨天就应该过来了。 "
 
 # game/Cell01_AM.rpy:530 #-#-# translate crowdin QuestChap2_Amelia01_02_7b1c1392:
 msgid "[_u_] ..."
@@ -458,27 +458,27 @@ msgstr "[_u_] ..."
 
 # game/Cell01_AM.rpy:532 #-#-# translate crowdin QuestChap2_Amelia01_02_f51f7cee:
 msgid "[_u_] And we have to worry about that or...?"
-msgstr ""
+msgstr "[_u_] 我们是要担心人的去向，还是...？"
 
 # game/Cell01_AM.rpy:534 #-#-# translate crowdin QuestChap2_Amelia01_02_e77384c2:
 msgid "[_am_] I don't know, this planet is pretty hard to find."
-msgstr ""
+msgstr "[_am_] 我不知道，在这颗星球上很难找人的。"
 
 # game/Cell01_AM.rpy:536 #-#-# translate crowdin QuestChap2_Amelia01_02_64f588c2:
 msgid "[_am_] She may have got lost."
-msgstr ""
+msgstr "[_am_] 她可能是迷路了。"
 
 # game/Cell01_AM.rpy:537 #-#-# translate crowdin QuestChap2_Amelia01_02_33716101:
 msgid "[_u_] I'll check with Tinker if she knows anything about it."
-msgstr ""
+msgstr "[_u_] 我去问下小叮当，看看她对这件事是否知情。"
 
 # game/Cell01_AM.rpy:539 #-#-# translate crowdin QuestChap2_Amelia01_02_dea55823:
 msgid "[_am_] Good idea! Mrs. Bell is surely aware of something!"
-msgstr ""
+msgstr "[_am_] 好主意！贝尔夫人肯定知道点什么！"
 
 # game/Cell01_AM.rpy:548 #-#-# translate crowdin QuestChap2_Amelia01_04_e2ecd9ec:
 msgid "[_u_] Amelia? "
-msgstr ""
+msgstr "[_u_] 阿米莉亚？ "
 
 # game/Cell01_AM.rpy:549 #-#-# translate crowdin QuestChap2_Amelia01_04_7957a012:
 msgid "[_am_] Hey! I'm over here!"
