@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-06-16 21:18\n"
+"PO-Revision-Date: 2024-08-19 23:43\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_ML.rpy:73 #-#-# translate crowdin CHARA_ML_Menu01_b7639ffd:
 msgid "[_ml_] Yo."
@@ -1330,7 +1330,7 @@ msgstr ""
 
 # game/Cell01_ML.rpy:1257 #-#-# translate crowdin Quest_JM_Favor_Ask2_Meli_86b59053:
 msgid "[_u_] Ok great, only [Quest_JM_Favor_Ask2_Number] more employees to question."
-msgstr ""
+msgstr "[_u_] Ok genial, sólo [Quest_JM_Favor_Ask2_Number] empleadas más por interrogar."
 
 # game/Cell01_ML.rpy:1263 #-#-# translate crowdin Quest_JM_Favor_Ask2_Meli_f332ab9b:
 msgid "[_ml_] Do you need anything else? "
@@ -1474,7 +1474,7 @@ msgstr ""
 
 # game/Cell01_ML.rpy:1371 #-#-# translate crowdin ML_Melissandre_Dress02REACTION_46698d44:
 msgid "[_u_] Exactly."
-msgstr ""
+msgstr "[_u_] Exacto."
 
 # game/Cell01_ML.rpy:1373 #-#-# translate crowdin ML_Melissandre_Dress02REACTION_02459f7b:
 msgid "[_ml_] Well... this chick is really good."
