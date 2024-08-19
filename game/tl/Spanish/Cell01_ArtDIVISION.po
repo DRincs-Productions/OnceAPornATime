@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-03-16 22:11\n"
+"PO-Revision-Date: 2024-08-19 23:43\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_ArtDIVISION.rpy:151 #-#-# translate crowdin Cell01_ArtDIVISION_Menu01_ed0ef4ce:
 msgid "[_a_] Bonjour [name]!"
@@ -70,7 +70,7 @@ msgstr "[_u_] Oye, perdona mi curiosidad, pero tengo una pregunta..."
 
 # game/Cell01_ArtDIVISION.rpy:360 #-#-# translate crowdin CHARA_A_MenuTalk_FirstTime_03fafe5d:
 msgid "[_a_] Ahah yes I was expecting you to be curious ahah"
-msgstr ""
+msgstr "[_a_] Ahah si, esperaba que fueses curioso ahah"
 
 # game/Cell01_ArtDIVISION.rpy:362 #-#-# translate crowdin CHARA_A_MenuTalk_FirstTime_ae134974:
 msgid "[_a_] But I understand you. "
@@ -2920,7 +2920,7 @@ msgstr ""
 
 # game/Cell01_ArtDIVISION.rpy:2306 #-#-# translate crowdin Quest_JM_Favor_Ask2_Amandine_menu2_P2e_86b59053:
 msgid "[_u_] Ok great, only [Quest_JM_Favor_Ask2_Number] more employees to question."
-msgstr ""
+msgstr "[_u_] Ok genial, sólo [Quest_JM_Favor_Ask2_Number] empleadas más por interrogar."
 
 # game/Cell01_ArtDIVISION.rpy:2312 #-#-# translate crowdin Quest_JM_Favor_Ask2_Amandine_menu2_P2e_9ba43681:
 msgid "[_a_] Do you need anything else?"
