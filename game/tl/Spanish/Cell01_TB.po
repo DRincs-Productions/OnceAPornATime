@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-06-16 19:47\n"
+"PO-Revision-Date: 2024-08-19 23:43\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_TB.rpy:29 #-#-# translate crowdin Cell01_TB_126a6d5f:
 msgid "[_tb_] I'll be there in a second."
@@ -1183,7 +1183,7 @@ msgstr ""
 
 # game/Cell01_TB.rpy:1064 #-#-# translate crowdin Quest_JM_Favor_Ask2_Tinker_86b59053:
 msgid "[_u_] Ok great, only [Quest_JM_Favor_Ask2_Number] more employees to question."
-msgstr ""
+msgstr "[_u_] Ok genial, sólo [Quest_JM_Favor_Ask2_Number] empleadas más por interrogar."
 
 # game/Cell01_TB.rpy:1070 #-#-# translate crowdin Quest_JM_Favor_Ask2_Tinker_fcffa929:
 msgid "[_tb_] Do you need anything else?"
