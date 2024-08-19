@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-07-07 14:31\n"
+"PO-Revision-Date: 2024-08-19 22:27\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_AM.rpy:86 #-#-# translate crowdin CHARA_AM_Menu01_c781f953:
 msgid "[_am_] Hey!"
@@ -1522,19 +1522,19 @@ msgstr "[_u_] Bien, terminemos esta entrevista. "
 
 # game/Cell01_AM.rpy:1405 #-#-# translate crowdin GalleryImageQuest_Amelia01_1a9def3b:
 msgid "[_am_] You are really not modest... that's for sure..."
-msgstr ""
+msgstr "[_am_] No eres vergonzosa por lo que veo... eso seguro..."
 
 # game/Cell01_AM.rpy:1407 #-#-# translate crowdin GalleryImageQuest_Amelia01_ce56162f:
 msgid "[_u_] Amelia? Are you kidding me? "
-msgstr ""
+msgstr "[_u_] ¿Amelia? ¿Me tomas el pelo? "
 
 # game/Cell01_AM.rpy:1409 #-#-# translate crowdin GalleryImageQuest_Amelia01_03d572b2:
 msgid "[_am_] [name]?!?"
-msgstr ""
+msgstr "[_am_] ¿¡¿[name]?!?"
 
 # game/Cell01_AM.rpy:1411 #-#-# translate crowdin GalleryImageQuest_Amelia01_375ceb6f:
 msgid "[_am_] You came back faster than I thought!"
-msgstr ""
+msgstr "[_am_] ¡Has vuelto más rápido de lo que pensaba!"
 
 # game/Cell01_AM.rpy:1413 #-#-# translate crowdin GalleryImageQuest_Amelia01_09b647a9:
 msgid "[_am_] Well, I think we'll stop the interview here. "
