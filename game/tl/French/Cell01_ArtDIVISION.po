@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-06-26 15:01\n"
+"PO-Revision-Date: 2024-09-04 15:58\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_ArtDIVISION.rpy:151 #-#-# translate crowdin Cell01_ArtDIVISION_Menu01_ed0ef4ce:
 msgid "[_a_] Bonjour [name]!"
@@ -3408,7 +3408,7 @@ msgstr "[_a_] Eh bien... puisque Blanche-Neige semble lire dans les pensées mai
 
 # game/Cell01_ArtDIVISION.rpy:2648 #-#-# translate crowdin Quest_A_SW_01_05_9c945437:
 msgid "[_a_] Either fix her... or... stop lying in her presence. "
-msgstr "[Soit vous la réparez... soit vous arrêtez de mentir en sa présence. "
+msgstr "[_a_] Soit vous la réparez... soit vous arrêtez de mentir en sa présence. "
 
 # game/Cell01_ArtDIVISION.rpy:2650 #-#-# translate crowdin Quest_A_SW_01_05_651605a7:
 msgid "[_a_] And... I asked Melissandre... she doesn't seem to be able to remove Snow White's new powers. "
@@ -4232,7 +4232,7 @@ msgstr "[Eh bien... Je suppose qu'elle ne voulait pas vous mettre dans l'embarra
 
 # game/Cell01_ArtDIVISION.rpy:3235 #-#-# translate crowdin Quest_A_SW_01_05_menu3_P4_9edb2883:
 msgid "[_a_] Even after her ex left her for me? "
-msgstr "[Même après que son ex l'ait quittée pour moi ? "
+msgstr "[_a_] Même après que son ex l'ait quittée pour moi ? "
 
 # game/Cell01_ArtDIVISION.rpy:3237 #-#-# translate crowdin Quest_A_SW_01_05_menu3_P4_8137f6f2:
 msgid "[_a_] My God... That Emee is really adorable... I should talk to her. "
@@ -4848,7 +4848,7 @@ msgstr "[_a_] Désolé de vous avoir dérangé. "
 
 # game/Cell01_ArtDIVISION.rpy:3641 #-#-# translate crowdin A_React_shortOutfit_01_menu1_3b30a3a1:
 msgid "[_a_] Don't you dare change the subject, young man. "
-msgstr "[Ne vous avisez pas de changer de sujet, jeune homme. "
+msgstr "[_a_] Ne vous avisez pas de changer de sujet, jeune homme. "
 
 # game/Cell01_ArtDIVISION.rpy:3645 #-#-# translate crowdin A_React_shortOutfit_01_menu1_493f4f14:
 msgid "[_a_] Mh..."
