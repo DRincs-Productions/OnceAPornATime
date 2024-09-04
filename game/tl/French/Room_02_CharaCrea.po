@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-05-24 23:49\n"
+"PO-Revision-Date: 2024-09-04 14:27\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Room_02_CharaCrea.rpy:10 #-#-# translate crowdin Room_02_CharaCrea_3d26d832:
 msgid "[_u_] No need to create anything yet. "
@@ -726,7 +726,7 @@ msgstr "{ color=#a0fc86} Vous avez: { /color } { color=#3c96f2} [ CLOTHEDATA ] C
 
 # game/Room_02_CharaCrea.rpy:177
 msgid " {color=#3c96f2}={/color} Emee // ''Oriental Dress'' {color=#3c96f2}={/color} "
-msgstr " { color=#3c96f2} = { /color } Emee // '' Oriental Dress''{ color=#3c96f2} = { /color } "
+msgstr " {color=#3c96f2}={/color} Emee // ''Robe orientale'' {color=#3c96f2}={/color} "
 
 # game/Room_02_CharaCrea.rpy:177
 msgid " {color=#f2923c}={/color} Emee // ''Harem Outfit'' {color=#f2923c}={/color} "
@@ -770,7 +770,7 @@ msgstr " {color=#3c96f2}={/color} Amelia // ''Rétro-secrétaire'' {color=#3c96f
 
 # game/Room_02_CharaCrea.rpy:177
 msgid " {color=#3c96f2}={/color} Amelia // ''Vintage-Secretary'' {color=#3c96f2}={/color} "
-msgstr " { color=#3c96f2} = { /color } Amelia // '' Vintage-Secretary''{ color=#3c96f2} = { /color } "
+msgstr " {color=#3c96f2}={/color} Amelia // ''Vintage-Secrétaire'' {color=#3c96f2}={/color} "
 
 # game/Room_02_CharaCrea.rpy:177
 msgid " {color=#3c96f2}={/color} Jasmine // ''Dance Dress'' {color=#3c96f2}={/color} "
