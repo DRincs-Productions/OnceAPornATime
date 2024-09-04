@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-06-26 15:01\n"
+"PO-Revision-Date: 2024-09-04 14:27\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Quest_Rooms_Separate02.rpy:125 #-#-# translate crowdin QuestRoom2_Outpost23_01_ROOM_peruche_1ffa9899:
 msgid "[_u_] What are you doing here? "
@@ -1298,7 +1298,7 @@ msgstr "[_a_] Je dois juste vérifier que son fond de personnage n'a pas d'incoh
 
 # game/Quest_Rooms_Separate02.rpy:1163 #-#-# translate crowdin Quest_A_SW_01_02_6adcdf71:
 msgid "[_a_] ...See if she respects all her lore and I also need to test her improvisational skills."
-msgstr "[_a_] ... voir si elle respecte toute sa lore et j'ai aussi besoin de tester ses talents d'improvisateur."
+msgstr "[_a_] ...Il faut voir si elle respecte toutes ses connaissances et je dois aussi tester ses capacités d'improvisation."
 
 # game/Quest_Rooms_Separate02.rpy:1165 #-#-# translate crowdin Quest_A_SW_01_02_0d85bd35:
 msgid "[_a_] If all goes well, we'll be able to set up the quests I've written and get the first visitors to play!"
