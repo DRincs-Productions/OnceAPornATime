@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-08-19 23:43\n"
+"PO-Revision-Date: 2024-09-25 23:06\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_ArtDIVISION.rpy:151 #-#-# translate crowdin Cell01_ArtDIVISION_Menu01_ed0ef4ce:
 msgid "[_a_] Bonjour [name]!"
@@ -74,15 +74,15 @@ msgstr "[_a_] Ahah si, esperaba que fueses curioso ahah"
 
 # game/Cell01_ArtDIVISION.rpy:362 #-#-# translate crowdin CHARA_A_MenuTalk_FirstTime_ae134974:
 msgid "[_a_] But I understand you. "
-msgstr ""
+msgstr "[_a_] Pero te entiendo. "
 
 # game/Cell01_ArtDIVISION.rpy:364 #-#-# translate crowdin CHARA_A_MenuTalk_FirstTime_397e1faa:
 msgid "[_a_] If I had a colleague with her face on magazines that landed on such an isolated planet... "
-msgstr ""
+msgstr "[_a_] Si tuviera un colega con su rostro en revistas que aterrizara en un planeta tan aislado... "
 
 # game/Cell01_ArtDIVISION.rpy:366 #-#-# translate crowdin CHARA_A_MenuTalk_FirstTime_8a42adfe:
 msgid "[_a_] I'll be surprised too."
-msgstr ""
+msgstr "[_a_] Yo también me sorprendería."
 
 # game/Cell01_ArtDIVISION.rpy:367 #-#-# translate crowdin CHARA_A_MenuTalk_FirstTime_8f5edc43:
 msgid "[_u_] Yeah... that's kind of the idea."
