@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-09-25 23:06\n"
+"PO-Revision-Date: 2024-09-26 00:47\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_ArtDIVISION.rpy:151 #-#-# translate crowdin Cell01_ArtDIVISION_Menu01_ed0ef4ce:
 msgid "[_a_] Bonjour [name]!"
@@ -86,19 +86,19 @@ msgstr "[_a_] Yo también me sorprendería."
 
 # game/Cell01_ArtDIVISION.rpy:367 #-#-# translate crowdin CHARA_A_MenuTalk_FirstTime_8f5edc43:
 msgid "[_u_] Yeah... that's kind of the idea."
-msgstr ""
+msgstr "[_u_] Sí... esa sería la idea."
 
 # game/Cell01_ArtDIVISION.rpy:369 #-#-# translate crowdin CHARA_A_MenuTalk_FirstTime_6c200ad5:
 msgid "[_a_] Actually... it's me who has a question for you:"
-msgstr ""
+msgstr "[_a_] De hecho... yo soy quien tiene una pregunta para ti:"
 
 # game/Cell01_ArtDIVISION.rpy:371 #-#-# translate crowdin CHARA_A_MenuTalk_FirstTime_a9f611ef:
 msgid "[_a_] Have you..."
-msgstr ""
+msgstr "[_a_] ¿Has..."
 
 # game/Cell01_ArtDIVISION.rpy:373 #-#-# translate crowdin CHARA_A_MenuTalk_FirstTime_0bf52c31:
 msgid "[_a_] Have you read my book?"
-msgstr ""
+msgstr "[_a_] ¿Has leído mi libro?"
 
 # game/Cell01_ArtDIVISION.rpy:374 #-#-# translate crowdin CHARA_A_MenuTalk_FirstTime_3ff79084:
 msgid "[_u_] Hm..."
@@ -106,11 +106,11 @@ msgstr ""
 
 # game/Cell01_ArtDIVISION.rpy:376 #-#-# translate crowdin CHARA_A_MenuTalk_FirstTime_7df87e9c:
 msgid "[_a_] Yes I know, I sound a little arrogant asking this question. "
-msgstr ""
+msgstr "[_a_] Sí, lo sé, parezco un poco arrogante al hacer esta pregunta. "
 
 # game/Cell01_ArtDIVISION.rpy:378 #-#-# translate crowdin CHARA_A_MenuTalk_FirstTime_0bccd93d:
 msgid "[_a_] But I... I need to know. "
-msgstr ""
+msgstr "[_a_] Pero... necesito saberlo. "
 
 # game/Cell01_ArtDIVISION.rpy:382 #-#-# translate crowdin CHARA_A_MenuTalk_FirstTime_7891e355:
 msgid "[_a_] Oh."
@@ -118,59 +118,59 @@ msgstr ""
 
 # game/Cell01_ArtDIVISION.rpy:384 #-#-# translate crowdin CHARA_A_MenuTalk_FirstTime_2995e8a2:
 msgid "[_a_] Gosh, even here everyone knows who I am then?"
-msgstr ""
+msgstr "[_a_] Dios, ¿incluso aquí todo el mundo sabe quién soy entonces?"
 
 # game/Cell01_ArtDIVISION.rpy:385 #-#-# translate crowdin CHARA_A_MenuTalk_FirstTime_87588947:
 msgid "[_u_] Hey, we're not that isolated from the rest of the galaxy."
-msgstr ""
+msgstr "[_u_] Oye, no estamos tan aislados del resto de la galaxia."
 
 # game/Cell01_ArtDIVISION.rpy:387 #-#-# translate crowdin CHARA_A_MenuTalk_FirstTime_bb8e4b4e:
 msgid "[_a_] ..."
-msgstr ""
+msgstr "[_a_] ..."
 
 # game/Cell01_ArtDIVISION.rpy:389 #-#-# translate crowdin CHARA_A_MenuTalk_FirstTime_12537536:
 msgid "[_a_] When my ship arrived in your solar system, the GPS was repeating in a loop: ''Please turn around.''"
-msgstr ""
+msgstr "[_a_] Cuando mi nave llegó a tu sistema solar, el GPS repetía en bucle: ''Por favor, dé la vuelta.''"
 
 # game/Cell01_ArtDIVISION.rpy:390 #-#-# translate crowdin CHARA_A_MenuTalk_FirstTime_e9e2362b:
 msgid "[_u_] Okay, maybe we're a little bit isolated."
-msgstr ""
+msgstr "[_u_] Vale, quizás estemos un poco aislados."
 
 # game/Cell01_ArtDIVISION.rpy:394 #-#-# translate crowdin CHARA_A_MenuTalk_FirstTime_bc12b925:
 msgid "[_u_] And she also made Melissandre read it I think. "
-msgstr ""
+msgstr "[_u_] Y también hizo que Melissandre lo leyera creo. "
 
 # game/Cell01_ArtDIVISION.rpy:396 #-#-# translate crowdin CHARA_A_MenuTalk_FirstTime_b8ead22f:
 msgid "[_u_] In fact, I think she recommends it to everyone she meets. "
-msgstr ""
+msgstr "[_u_] De hecho, creo que ella se lo recomienda a todo el mundo que conoce. "
 
 # game/Cell01_ArtDIVISION.rpy:398 #-#-# translate crowdin CHARA_A_MenuTalk_FirstTime_feaa82af:
 msgid "[_a_] Well, I should probably go thank her!"
-msgstr ""
+msgstr "[_a_] Bueno, ¡probablemente debería darle las gracias!"
 
 # game/Cell01_ArtDIVISION.rpy:400 #-#-# translate crowdin CHARA_A_MenuTalk_FirstTime_88158ac8:
 msgid "[_u_] Be careful, if you get too close to her, she could have a heart attack. "
-msgstr ""
+msgstr "[_u_] Ten cuidado, si te acercas demasiado a ella, podría darle un ataque al corazón. "
 
 # game/Cell01_ArtDIVISION.rpy:402 #-#-# translate crowdin CHARA_A_MenuTalk_FirstTime_3952de86:
 msgid "[_a_] Oh my god, I hope not!"
-msgstr ""
+msgstr "[_a_] ¡Oh Dios mío, espero que no!"
 
 # game/Cell01_ArtDIVISION.rpy:405 #-#-# translate crowdin CHARA_A_MenuTalk_FirstTime_3d1e1636:
 msgid "[_a_] But for real... it's so strange... "
-msgstr ""
+msgstr "[_a_] Pero de verdad... es tan raro... "
 
 # game/Cell01_ArtDIVISION.rpy:407 #-#-# translate crowdin CHARA_A_MenuTalk_FirstTime_95001edc:
 msgid "[_a_] There is surely no place in the whole galaxy where nobody knows me anymore..."
-msgstr ""
+msgstr "[_a_] Seguramente no hay lugar en toda la galaxia donde ya nadie me conozca..."
 
 # game/Cell01_ArtDIVISION.rpy:409 #-#-# translate crowdin CHARA_A_MenuTalk_FirstTime_e04b951a:
 msgid "[_a_] It's unreal."
-msgstr ""
+msgstr "[_a_] Es irreal."
 
 # game/Cell01_ArtDIVISION.rpy:412 #-#-# translate crowdin CHARA_A_MenuTalk_FirstTime_ad8217f9:
 msgid "[_a_] Anyway, I digress. What did you want to say? "
-msgstr ""
+msgstr "[_a_] De igual forma, estoy divagando. ¿Qué querías decir? "
 
 # game/Cell01_ArtDIVISION.rpy:456 #-#-# translate crowdin Quest2_A_Talk01_bea5cf7c:
 msgid "[_u_] I mean, not that I'm... well, that we're not happy that you're here. "
@@ -214,7 +214,7 @@ msgstr ""
 
 # game/Cell01_ArtDIVISION.rpy:473 #-#-# translate crowdin Quest2_A_Talk01_bb8e4b4e:
 msgid "[_a_] ..."
-msgstr ""
+msgstr "[_a_] ..."
 
 # game/Cell01_ArtDIVISION.rpy:475 #-#-# translate crowdin Quest2_A_Talk01_35ba0608:
 msgid "[_a_] First... It was a castle. Not a manor. "
@@ -254,7 +254,7 @@ msgstr ""
 
 # game/Cell01_ArtDIVISION.rpy:503 #-#-# translate crowdin Quest2_A_Talk02_bb8e4b4e:
 msgid "[_a_] ..."
-msgstr ""
+msgstr "[_a_] ..."
 
 # game/Cell01_ArtDIVISION.rpy:505 #-#-# translate crowdin Quest2_A_Talk02_33d9cd0e:
 msgid "[_a_] Would you like to get some fresh air with me? "
@@ -1240,7 +1240,7 @@ msgstr ""
 
 # game/Cell01_ArtDIVISION.rpy:1192 #-#-# translate crowdin QuestChap2_LyStart_LY_02_bb8e4b4e:
 msgid "[_a_] ..."
-msgstr ""
+msgstr "[_a_] ..."
 
 # game/Cell01_ArtDIVISION.rpy:1193 #-#-# translate crowdin QuestChap2_LyStart_LY_02_7b1c1392:
 msgid "[_u_] ..."
@@ -2812,7 +2812,7 @@ msgstr ""
 
 # game/Cell01_ArtDIVISION.rpy:2236 #-#-# translate crowdin Quest_JM_Favor_Ask2_Amandine_menu1_bb8e4b4e:
 msgid "[_a_] ..."
-msgstr ""
+msgstr "[_a_] ..."
 
 # game/Cell01_ArtDIVISION.rpy:2238 #-#-# translate crowdin Quest_JM_Favor_Ask2_Amandine_menu1_3eff4155:
 msgid "[_a_]  Yes. Okay, maybe I've already fulfilled that fantasy..."
@@ -3276,7 +3276,7 @@ msgstr ""
 
 # game/Cell01_ArtDIVISION.rpy:2562 #-#-# translate crowdin Quest_A_SW_01_bb8e4b4e:
 msgid "[_a_] ..."
-msgstr ""
+msgstr "[_a_] ..."
 
 # game/Cell01_ArtDIVISION.rpy:2564 #-#-# translate crowdin Quest_A_SW_01_4e070516:
 msgid "[_a_] Are you trying to make me blush? "
@@ -3428,7 +3428,7 @@ msgstr ""
 
 # game/Cell01_ArtDIVISION.rpy:2656 #-#-# translate crowdin Quest_A_SW_01_05_bb8e4b4e:
 msgid "[_a_] ..."
-msgstr ""
+msgstr "[_a_] ..."
 
 # game/Cell01_ArtDIVISION.rpy:2668 #-#-# translate crowdin Quest_A_SW_01_05_menu1_6184bf61:
 msgid "[_a_] No, not for now."
@@ -3708,7 +3708,7 @@ msgstr ""
 
 # game/Cell01_ArtDIVISION.rpy:2879 #-#-# translate crowdin Quest_A_SW_01_05_menu2_P2_bb8e4b4e:
 msgid "[_a_] ..."
-msgstr ""
+msgstr "[_a_] ..."
 
 # game/Cell01_ArtDIVISION.rpy:2881 #-#-# translate crowdin Quest_A_SW_01_05_menu2_P2_02ecddd0:
 msgid "[_a_] I... "
@@ -3896,7 +3896,7 @@ msgstr ""
 
 # game/Cell01_ArtDIVISION.rpy:3012 #-#-# translate crowdin Quest_A_SW_01_05_menu3_P1_bb8e4b4e:
 msgid "[_a_] ..."
-msgstr ""
+msgstr "[_a_] ..."
 
 # game/Cell01_ArtDIVISION.rpy:3014 #-#-# translate crowdin Quest_A_SW_01_05_menu3_P1_b90e069e:
 msgid "[_a_] I expected more compassion from you, I must admit. "
@@ -3972,7 +3972,7 @@ msgstr ""
 
 # game/Cell01_ArtDIVISION.rpy:3065 #-#-# translate crowdin Quest_A_SW_01_05_menu3_P3_bb8e4b4e:
 msgid "[_a_] ..."
-msgstr ""
+msgstr "[_a_] ..."
 
 # game/Cell01_ArtDIVISION.rpy:3067 #-#-# translate crowdin Quest_A_SW_01_05_menu3_P3_5da5f2f4:
 msgid "[_a_] Damn... You really have no mercy with your questions! "
@@ -4080,7 +4080,7 @@ msgstr ""
 
 # game/Cell01_ArtDIVISION.rpy:3138 #-#-# translate crowdin Quest_A_SW_01_05_menu3_P2_menu1_P2_bb8e4b4e:
 msgid "[_a_] ..."
-msgstr ""
+msgstr "[_a_] ..."
 
 # game/Cell01_ArtDIVISION.rpy:3140 #-#-# translate crowdin Quest_A_SW_01_05_menu3_P2_menu1_P2_e8d1252f:
 msgid "[_a_] And uh... how was her blowjob game? "
@@ -4264,7 +4264,7 @@ msgstr ""
 
 # game/Cell01_ArtDIVISION.rpy:3259 #-#-# translate crowdin Quest_A_SW_01_05_menu3_P5_bb8e4b4e:
 msgid "[_a_] ..."
-msgstr ""
+msgstr "[_a_] ..."
 
 # game/Cell01_ArtDIVISION.rpy:3261 #-#-# translate crowdin Quest_A_SW_01_05_menu3_P5_6fa0f722:
 msgid "[_a_] I've only been in relationships with women. "
@@ -4496,7 +4496,7 @@ msgstr ""
 
 # game/Cell01_ArtDIVISION.rpy:3415 #-#-# translate crowdin Quest_A_SW_01_05_menu3_P9_bb8e4b4e:
 msgid "[_a_] ..."
-msgstr ""
+msgstr "[_a_] ..."
 
 # game/Cell01_ArtDIVISION.rpy:3417 #-#-# translate crowdin Quest_A_SW_01_05_menu3_P9_cb6a2233:
 msgid "[_a_] Well... "
@@ -4756,7 +4756,7 @@ msgstr ""
 
 # game/Cell01_ArtDIVISION.rpy:3588 #-#-# translate crowdin A_React_shortOutfit_01_bb8e4b4e:
 msgid "[_a_] ..."
-msgstr ""
+msgstr "[_a_] ..."
 
 # game/Cell01_ArtDIVISION.rpy:3590 #-#-# translate crowdin A_React_shortOutfit_01_2d71ccc5:
 msgid "[_a_] You really think I have such a common pair of legs?"
