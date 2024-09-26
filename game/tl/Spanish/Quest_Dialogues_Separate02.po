@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-06-16 21:18\n"
+"PO-Revision-Date: 2024-09-26 00:47\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Quest_Dialogues_Separate02.rpy:69 #-#-# translate crowdin Quest2_Room01Panel01screen_E_8240cba6:
 msgid "[_u_] Got it!"
@@ -3925,7 +3925,7 @@ msgstr ""
 
 # game/Quest_Dialogues_Separate02.rpy:2997 #-#-# translate crowdin QuestChap2_LyStart_E_04_menu2_P3_bb8e4b4e:
 msgid "[_a_] ..."
-msgstr ""
+msgstr "[_a_] ..."
 
 # game/Quest_Dialogues_Separate02.rpy:3000 #-#-# translate crowdin QuestChap2_LyStart_E_04_menu2_P3_e6bdf68e:
 msgid "[_a_] Nah, I think she just wants to make clothes. "
