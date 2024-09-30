@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-09-26 00:47\n"
+"PO-Revision-Date: 2024-09-30 01:56\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_ArtDIVISION.rpy:151 #-#-# translate crowdin Cell01_ArtDIVISION_Menu01_ed0ef4ce:
 msgid "[_a_] Bonjour [name]!"
@@ -174,7 +174,7 @@ msgstr "[_a_] De igual forma, estoy divagando. ¿Qué querías decir? "
 
 # game/Cell01_ArtDIVISION.rpy:456 #-#-# translate crowdin Quest2_A_Talk01_bea5cf7c:
 msgid "[_u_] I mean, not that I'm... well, that we're not happy that you're here. "
-msgstr ""
+msgstr "."
 
 # game/Cell01_ArtDIVISION.rpy:457 #-#-# translate crowdin Quest2_A_Talk01_40a8d5aa:
 msgid "[_u_] Quite the contrary."
