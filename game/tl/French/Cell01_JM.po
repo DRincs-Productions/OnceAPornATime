@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-06-26 15:01\n"
+"PO-Revision-Date: 2024-12-04 10:33\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_JM.rpy:131 #-#-# translate crowdin CHARA_JM_Menu01_0eca5cd6:
 msgid "[_jm_] Hello to you... my [Quest_JM_NameMC]."
@@ -2450,7 +2450,7 @@ msgstr "[_a_] Oui... J'aimerais que vous essayiez quelque chose... "
 
 # game/Cell01_JM.rpy:1799 #-#-# translate crowdin Quest_JM_Favor_AskBlow_221ac987:
 msgid "[_a_] Have you ever tried asking her what she likes sexually?"
-msgstr "[Avez-vous déjà essayé de lui demander ce qu'elle aime sexuellement ?"
+msgstr "[_a_] Avez-vous déjà essayé de lui demander ce qu'elle aime sexuellement ?"
 
 # game/Cell01_JM.rpy:1800 #-#-# translate crowdin Quest_JM_Favor_AskBlow_24f0a2e8:
 msgid "[_u_] Hm... "
@@ -2466,7 +2466,7 @@ msgstr "[_a_] Elle est peut-être assez corrompue pour que cela fonctionne."
 
 # game/Cell01_JM.rpy:1806 #-#-# translate crowdin Quest_JM_Favor_AskBlow_d8f34b71:
 msgid "[_a_] Gosh, I feel like I'm helping a buddy pick up a chick in college!"
-msgstr "[J'ai l'impression d'aider un copain à draguer une fille à l'université !"
+msgstr "[_a_] J'ai l'impression d'aider un copain à draguer une fille à l'université !"
 
 # game/Cell01_JM.rpy:1807 #-#-# translate crowdin Quest_JM_Favor_AskBlow_33bd84fd:
 msgid "[_u_] If I'd had a buddy like you to help me get laid in college, I'd have hooked up with my whole class. "
@@ -4778,7 +4778,7 @@ msgstr "[_jm_] ? !!..."
 
 # game/Cell01_JM.rpy:3733 #-#-# translate crowdin Quest_JM_Favor_Feather1_7d03823f:
 msgid "[_a_] Hey! I need to talk to you first!"
-msgstr "[Je dois d'abord vous parler !"
+msgstr "[_a_] Je dois d'abord vous parler !"
 
 # game/Cell01_JM.rpy:3739 #-#-# translate crowdin Quest_JM_Favor_Feather1_4f19562e:
 msgid "[_jm_] No, what is it? That looks interesting!"
