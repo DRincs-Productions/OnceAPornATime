@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-05-29 00:42\n"
+"PO-Revision-Date: 2024-12-04 10:33\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Room_Showers.rpy:121 #-#-# translate crowdin ML_ShowerCams01_02_ec3b9bb7:
 msgid "[_u_] Meli?"
@@ -142,7 +142,7 @@ msgstr "[ _u_ ] Aucune idée. Tu es dans une douche, c'est normal d'être nu."
 
 # game/Room_Showers.rpy:214 #-#-# translate crowdin A_GoShower_menu1_15ed6840:
 msgid "[_a_] God... I'll never get rid of this damn modesty. "
-msgstr "[_a_] Mon dieu... Je pense que je ne me débarasserai jamais de cette foutue pudeur..."
+msgstr "[_a_] Mon dieu... Je pense que je ne me débarasserai jamais de cette foutue pudeur. "
 
 # game/Room_Showers.rpy:216 #-#-# translate crowdin A_GoShower_menu1_a833a0c7:
 msgid "[_a_] I can't just... like... get naked that easy... "
