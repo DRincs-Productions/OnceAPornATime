@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-09-04 15:58\n"
+"PO-Revision-Date: 2024-12-04 10:33\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_ArtDIVISION.rpy:151 #-#-# translate crowdin Cell01_ArtDIVISION_Menu01_ed0ef4ce:
 msgid "[_a_] Bonjour [name]!"
@@ -94,11 +94,11 @@ msgstr "[_a_] En fait... c'est moi qui ai une question à vous poser :"
 
 # game/Cell01_ArtDIVISION.rpy:371 #-#-# translate crowdin CHARA_A_MenuTalk_FirstTime_a9f611ef:
 msgid "[_a_] Have you..."
-msgstr "[Avez-vous..."
+msgstr "[_a_] Avez-vous..."
 
 # game/Cell01_ArtDIVISION.rpy:373 #-#-# translate crowdin CHARA_A_MenuTalk_FirstTime_0bf52c31:
 msgid "[_a_] Have you read my book?"
-msgstr "[Avez-vous lu mon livre ?"
+msgstr "[_a_] Avez-vous lu mon livre ?"
 
 # game/Cell01_ArtDIVISION.rpy:374 #-#-# translate crowdin CHARA_A_MenuTalk_FirstTime_3ff79084:
 msgid "[_u_] Hm..."
@@ -1484,7 +1484,7 @@ msgstr "[_a_] Quoi qu'il en soit... oui, c'est arrivé vite."
 
 # game/Cell01_ArtDIVISION.rpy:1359 #-#-# translate crowdin Quest_A_Item_Luggage01_01_menu1_P2_9091a705:
 msgid "[_a_] Every time I coughed in public, it ended up on a magazine cover. "
-msgstr "[Chaque fois que je toussais en public, cela se retrouvait sur la couverture d'un magazine. "
+msgstr "[_a_] Chaque fois que je toussais en public, cela se retrouvait sur la couverture d'un magazine. "
 
 # game/Cell01_ArtDIVISION.rpy:1361 #-#-# translate crowdin Quest_A_Item_Luggage01_01_menu1_P2_bf72a4b2:
 msgid "[_a_] Even after several years without a new book, I thought it would settle down, but... "
@@ -1640,7 +1640,7 @@ msgstr "[_a_] Merveilleux !"
 
 # game/Cell01_ArtDIVISION.rpy:1463 #-#-# translate crowdin Quest_A_Item_Luggage03_End_1f4bf93d:
 msgid "[_a_] Finally I can breathe a little."
-msgstr "[Je peux enfin respirer un peu."
+msgstr "[_a_] Je peux enfin respirer un peu."
 
 # game/Cell01_ArtDIVISION.rpy:1465 #-#-# translate crowdin Quest_A_Item_Luggage03_End_368ea2d0:
 msgid "[_a_] I've had this problem on my mind for a while now..."
@@ -3352,7 +3352,7 @@ msgstr "[_a_] Le plus grand écrivain de la galaxie, mec."
 
 # game/Cell01_ArtDIVISION.rpy:2600 #-#-# translate crowdin Quest_A_SW_01_3e438f79:
 msgid "[_a_] Gosh, It's hard to breathe in this thing... maybe this thing is a little too tight... "
-msgstr "[C'est difficile de respirer dans ce truc... peut-être que ce truc est un peu trop serré... "
+msgstr "[_a_] C'est difficile de respirer dans ce truc... peut-être que ce truc est un peu trop serré... "
 
 # game/Cell01_ArtDIVISION.rpy:2602 #-#-# translate crowdin Quest_A_SW_01_fdb52368:
 msgid "[_a_] Wait... let's see... if I take a deep breath... "
@@ -3380,7 +3380,7 @@ msgstr "[J'ai compris !"
 
 # game/Cell01_ArtDIVISION.rpy:2618 #-#-# translate crowdin Quest_A_SW_01_Fail01_89872e9c:
 msgid "[_a_] Hey Lyco! Your thing's the wrong size!"
-msgstr "[Hey Lyco ! Ton truc n'est pas de la bonne taille !"
+msgstr "[_a_] Hey Lyco ! Ton truc n'est pas de la bonne taille !"
 
 # game/Cell01_ArtDIVISION.rpy:2619 #-#-# translate crowdin Quest_A_SW_01_Fail01_5071c485:
 msgid "[_ly_] No, really? "
@@ -4544,7 +4544,7 @@ msgstr "[Je veux dire..."
 
 # game/Cell01_ArtDIVISION.rpy:3442 #-#-# translate crowdin Quest_A_SW_01_05_menu3_P9_4d1c8448:
 msgid "[_a_] Gosh, I've got to stop hiding!"
-msgstr "[Il faut que j'arrête de me cacher !"
+msgstr "[_a_] Il faut que j'arrête de me cacher !"
 
 # game/Cell01_ArtDIVISION.rpy:3444 #-#-# translate crowdin Quest_A_SW_01_05_menu3_P9_36491c93:
 msgid "[_a_] Say whatever you want to whomever you want."
@@ -4572,7 +4572,7 @@ msgstr "[Comme vous le sentez, je serai là si vous avez besoin de moi, bien sû
 
 # game/Cell01_ArtDIVISION.rpy:3458 #-#-# translate crowdin Quest_A_SW_01_05_menu3_P9_fef4dd9d:
 msgid "[_a_] Great."
-msgstr "[_a_] Grand."
+msgstr "[_a_] Super."
 
 # game/Cell01_ArtDIVISION.rpy:3460 #-#-# translate crowdin Quest_A_SW_01_05_menu3_P9_434c2a44:
 msgid "[_a_] Shall we go?"
@@ -4900,7 +4900,7 @@ msgstr "[_a_] Heureux de l'entendre."
 
 # game/Cell01_ArtDIVISION.rpy:3670 #-#-# translate crowdin A_React_shortOutfit_01_menu1_fef4dd9d:
 msgid "[_a_] Great."
-msgstr "[_a_] Grand."
+msgstr "[_a_] Super."
 
 # game/Cell01_ArtDIVISION.rpy:3673 #-#-# translate crowdin A_React_shortOutfit_01_menu1_728d1366:
 msgid "[_a_] Yeah... me too. Same."
