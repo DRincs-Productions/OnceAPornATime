@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-12-04 10:33\n"
+"PO-Revision-Date: 2024-12-04 13:10\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_ArtDIVISION.rpy:151 #-#-# translate crowdin Cell01_ArtDIVISION_Menu01_ed0ef4ce:
 msgid "[_a_] Bonjour [name]!"
@@ -1368,7 +1368,7 @@ msgstr "[Ne vous inquiétez pas, le voici. "
 
 # game/Cell01_ArtDIVISION.rpy:1283 #-#-# translate crowdin Quest_A_Item_Luggage01_01_43309d2e:
 msgid "[_a_] How did you know it was mine? "
-msgstr "[Comment avez-vous su que c'était le mien ? "
+msgstr "[_a_] Comment avez-vous su que c'était le mien ? "
 
 # game/Cell01_ArtDIVISION.rpy:1284 #-#-# translate crowdin Quest_A_Item_Luggage01_01_23005707:
 msgid "[_u_] Well... I don't know many people who would have such a luxurious suitcase around here. "
@@ -3516,7 +3516,7 @@ msgstr "[Je crois que j'étais encore à l'université !"
 
 # game/Cell01_ArtDIVISION.rpy:2753 #-#-# translate crowdin Quest_A_SW_01_05_menu1_P1_43453971:
 msgid "[_a_] I almost feel like I'm going to hear a school bell in a few moments. "
-msgstr "[J'ai presque l'impression que je vais entendre la cloche de l'école dans quelques instants. "
+msgstr "[_a_] J'ai presque l'impression que je vais entendre la cloche de l'école dans quelques instants. "
 
 # game/Cell01_ArtDIVISION.rpy:2762 #-#-# translate crowdin Quest_A_SW_01_05_menu1_P1_33911274:
 msgid "[_a_] Actually... my time at college wasn't very normal..."
