@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-05-24 23:49\n"
+"PO-Revision-Date: 2024-12-05 15:26\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_E.rpy:71 #-#-# translate crowdin Cell01_E_QuestActivations_9ef65d05:
 msgid "[_u_] Whose ship is this? "
@@ -1278,7 +1278,7 @@ msgstr "[_a_] Je n'ai pas l'habitude, je me montre rarement en public ahah "
 
 # game/Cell01_E.rpy:1366 #-#-# translate crowdin Emee_FirstAppChap2_menu1_P5_9bae57ff:
 msgid "[_a_] I hope I didn't scare her too much. "
-msgstr "[J'espère que je ne l'ai pas trop effrayée. "
+msgstr "[_a_] J'espère que je ne l'ai pas trop effrayée. "
 
 # game/Cell01_E.rpy:1367 #-#-# translate crowdin Emee_FirstAppChap2_menu1_P5_ea794a28:
 msgid "[_u_] I'm sure she'll recover."
@@ -2746,7 +2746,7 @@ msgstr "[_a_] J'adore ce personnage !"
 
 # game/Cell01_E.rpy:2306 #-#-# translate crowdin Emee_Ali_01_01_next01_803ba9cc:
 msgid "[_a_] I wasn't expecting this at all!"
-msgstr "[Je ne m'attendais pas du tout à cela !"
+msgstr "[_a_] Je ne m'attendais pas du tout à cela !"
 
 # game/Cell01_E.rpy:2308 #-#-# translate crowdin Emee_Ali_01_01_next01_7efb2380:
 msgid "[_a_] She and Sherazade really should meet one day."
@@ -2830,7 +2830,7 @@ msgstr "[Je le croirai quand je le verrai. "
 
 # game/Cell01_E.rpy:2340 #-#-# translate crowdin Emee_Ali_01_01_next01_2e20329a:
 msgid "[_a_] See you later [name]!"
-msgstr "[À plus tard [nom] !]"
+msgstr "[_a_] À plus tard [name] !"
 
 # §translate crowdin strings: #|#|# # game/Cell01_E.rpy:110
 msgid "{color=#3ad8ff}So, what's the plan for this brothel? {/color}"
