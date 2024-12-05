@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-12-05 15:26\n"
+"PO-Revision-Date: 2024-12-05 17:19\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_E.rpy:71 #-#-# translate crowdin Cell01_E_QuestActivations_9ef65d05:
 msgid "[_u_] Whose ship is this? "
@@ -1154,15 +1154,15 @@ msgstr "[Et surtout, écrivez les quêtes et les histoires que nos futurs visite
 
 # game/Cell01_E.rpy:1276 #-#-# translate crowdin Emee_FirstAppChap2_menu1_P5_db7910de:
 msgid "[_a_d_] Nice to meet you Emee."
-msgstr "[Enchanté de vous rencontrer, Emee."
+msgstr "[_a_d_] Enchanté de vous rencontrer, Emee."
 
 # game/Cell01_E.rpy:1280 #-#-# translate crowdin Emee_FirstAppChap2_menu1_P5_361c32d1:
 msgid "[_a_d_] Tinker told me about your work here. You two have a very... "
-msgstr "[Tinker m'a parlé de votre travail ici. Vous avez tous les deux un très... "
+msgstr "[_a_d_] Tinker m'a parlé de votre travail ici. Vous avez tous les deux un très... "
 
 # game/Cell01_E.rpy:1283 #-#-# translate crowdin Emee_FirstAppChap2_menu1_P5_56fe4df2:
 msgid "[_a_d_] A very intriguing profession, we might say."
-msgstr "[Une profession très intrigante, pourrait-on dire."
+msgstr "[_a_d_] Une profession très intrigante, pourrait-on dire."
 
 # game/Cell01_E.rpy:1286 #-#-# translate crowdin Emee_FirstAppChap2_menu1_P5_709e44d4:
 msgid "[_e_] It's sure that it's not very usual, but I promise, we don't bite!"
@@ -1174,7 +1174,7 @@ msgstr "[Enchanté de vous rencontrer, Mme De Beauregard."
 
 # game/Cell01_E.rpy:1291 #-#-# translate crowdin Emee_FirstAppChap2_menu1_P5_aadc837c:
 msgid "[_a_d_] No formalities, call me Amandine."
-msgstr "[Pas de formalités, appelez-moi Amandine."
+msgstr "[_a_d_] Pas de formalités, appelez-moi Amandine."
 
 # game/Cell01_E.rpy:1294 #-#-# translate crowdin Emee_FirstAppChap2_menu1_P5_1f8c5c1a:
 msgid "[_tb_] Do you know that Emee is your biggest fan? "
@@ -1262,7 +1262,7 @@ msgstr "[_e_] Mon Dieu... Je suis si bête..."
 
 # game/Cell01_E.rpy:1359 #-#-# translate crowdin Emee_FirstAppChap2_menu1_P5_c8ab7cee:
 msgid "[_a_] Is she okay? "
-msgstr "[Elle va bien ? "
+msgstr "[_a_] Elle va bien ? "
 
 # game/Cell01_E.rpy:1360 #-#-# translate crowdin Emee_FirstAppChap2_menu1_P5_8aeafe90:
 msgid "[_u_] I think she's just a little intimidated."
@@ -1298,7 +1298,7 @@ msgstr "[Oh oui, bien sûr, s'il vous plaît."
 
 # game/Cell01_E.rpy:1374 #-#-# translate crowdin Emee_FirstAppChap2_menu1_P5_4772d118:
 msgid "[_a_] Thanks a lot, see you tomorrow [name]!"
-msgstr "[Merci beaucoup, à demain [nom] !]"
+msgstr "[_a_] Merci beaucoup, à demain [name] !"
 
 # game/Cell01_E.rpy:1398 #-#-# translate crowdin Emee_Dress02_React_fd7d3d5c:
 msgid "[_e_] Ooohhh so cool!"
@@ -2822,7 +2822,7 @@ msgstr "[_a_] Je vais parler à Djin et élaborer un plan avec elle. "
 
 # game/Cell01_E.rpy:2337 #-#-# translate crowdin Emee_Ali_01_01_next01_3a81a506:
 msgid "[_a_] With a bit of luck! Their corruption will be over in no time!"
-msgstr "[Avec un peu de chance ! Leur corruption sera vite terminée !"
+msgstr "[_a_] Avec un peu de chance ! Leur corruption sera vite terminée !"
 
 # game/Cell01_E.rpy:2338 #-#-# translate crowdin Emee_Ali_01_01_next01_26d63b05:
 msgid "[_u_] I'll believe it when I see it. "
