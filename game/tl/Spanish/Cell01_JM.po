@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-09-26 00:47\n"
+"PO-Revision-Date: 2024-12-05 23:10\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_JM.rpy:131 #-#-# translate crowdin CHARA_JM_Menu01_0eca5cd6:
 msgid "[_jm_] Hello to you... my [Quest_JM_NameMC]."
@@ -2210,7 +2210,7 @@ msgstr ""
 
 # game/Cell01_JM.rpy:1667 #-#-# translate crowdin Quest_JM_Favor_Boobs02_0f07ccc4:
 msgid "[_u_] ?"
-msgstr ""
+msgstr "[_u_] ?"
 
 # game/Cell01_JM.rpy:1668 #-#-# translate crowdin Quest_JM_Favor_Boobs02_cd11695c:
 msgid "[_u_] Want to know if your breasts are fine? "
@@ -3046,7 +3046,7 @@ msgstr ""
 
 # game/Cell01_JM.rpy:2284 #-#-# translate crowdin Quest_JM_Favor_Unicorn1_0f07ccc4:
 msgid "[_u_] ?"
-msgstr ""
+msgstr "[_u_] ?"
 
 # game/Cell01_JM.rpy:2286 #-#-# translate crowdin Quest_JM_Favor_Unicorn1_6197578d:
 msgid "[_a_] I just thought it was the perfect time to check out the place!"
@@ -4482,7 +4482,7 @@ msgstr ""
 
 # game/Cell01_JM.rpy:3410 #-#-# translate crowdin Quest_JM_Favor_Slap1_screen03_REACTIONS_OVER8_0f07ccc4:
 msgid "[_u_] ?"
-msgstr ""
+msgstr "[_u_] ?"
 
 # game/Cell01_JM.rpy:3413 #-#-# translate crowdin Quest_JM_Favor_Slap1_screen03_REACTIONS_OVER8_6c0c2891:
 msgid "[_jm_] HAa.."
@@ -4986,7 +4986,7 @@ msgstr ""
 
 # game/Cell01_JM.rpy:3863 #-#-# translate crowdin A_Jasmine_FeatherAgony_01_menu02_P1_44e6b779:
 msgid "[_a_] I..."
-msgstr ""
+msgstr "[_a_] Yo..."
 
 # game/Cell01_JM.rpy:3865 #-#-# translate crowdin A_Jasmine_FeatherAgony_01_menu02_P1_86bd5ef4:
 msgid "[_a_] Anyway... no. "
