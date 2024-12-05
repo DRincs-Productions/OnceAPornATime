@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-05-22 17:05\n"
+"PO-Revision-Date: 2024-12-05 23:10\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Intro01.rpy:64 #-#-# translate crowdin Intro01_93eeba4f:
 msgid "[_tb_] Greetings!"
@@ -1722,7 +1722,7 @@ msgstr ""
 
 # game/Intro01.rpy:1867 #-#-# translate crowdin Intro_PrisonEnd_0f07ccc4:
 msgid "[_u_] ?"
-msgstr ""
+msgstr "[_u_] ?"
 
 # game/Intro01.rpy:1874 #-#-# translate crowdin Intro_PrisonEnd_295c1ee4:
 msgid "[_ly_] Um... thank you?"
@@ -2190,7 +2190,7 @@ msgstr ""
 
 # game/Intro01.rpy:2258 #-#-# translate crowdin IntroDjinlampe_menu01_P2_0f07ccc4:
 msgid "[_u_] ?"
-msgstr ""
+msgstr "[_u_] ?"
 
 # game/Intro01.rpy:2260 #-#-# translate crowdin IntroDjinlampe_menu01_P2_4fbd6001:
 msgid "[_dj_] This is the deal that was offered to me by the former boss:"
