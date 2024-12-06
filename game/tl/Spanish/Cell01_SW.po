@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-12-05 23:10\n"
+"PO-Revision-Date: 2024-12-06 00:09\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_SW.rpy:309 #-#-# translate crowdin CHARA_SW_Menu01_8238495a:
 msgid "[_sw_]  ... "
@@ -12442,7 +12442,7 @@ msgstr ""
 
 # game/Cell01_SW.rpy:9876 #-#-# translate crowdin QuestPatreon04_p2_f03364d0:
 msgid "[_u_] Wow... "
-msgstr ""
+msgstr "[_u_] Guau... "
 
 # game/Cell01_SW.rpy:9878 #-#-# translate crowdin QuestPatreon04_p2_227dd906:
 msgid "[_u_] And now you both end up in... android fairy bodies? The chances were pretty small..."
