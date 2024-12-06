@@ -1,0 +1,63 @@
+msgid ""
+msgstr ""
+" You receive: \n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Crowdin-Project: once-a-porn-a-time\n"
+"X-Crowdin-Project-ID: 651436\n"
+"X-Crowdin-Language: fr\n"
+"X-Crowdin-File: /main/game/tl/crowdin/Room_01_Colis.po\n"
+"X-Crowdin-File-ID: 12928\n"
+"Project-Id-Version: once-a-porn-a-time\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: French\n"
+"Language: fr_FR\n"
+"PO-Revision-Date: 2024-03-19 16:10\n"
+
+# TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Room_01_Colis.rpy:2 #-#-# translate crowdin Room01_ColisArrived_033b8e73:
+msgid " You receive: "
+msgstr " Vous recevez : "
+
+# game/Room_01_Colis.rpy:7 #-#-# translate crowdin Room01_ColisArrived_4b2aeaa1:
+msgid "([COLIS_OBJECT_01]) Apple Basket !"
+msgstr "([COLIS_OBJECT_01]) Panier de pommes !"
+
+# game/Room_01_Colis.rpy:15 #-#-# translate crowdin Room01_ColisArrived_255304ca:
+msgid "([COLIS_OBJECT_02]) Drone Energy Boost 3AP !"
+msgstr "([COLIS_OBJECT_02]) Boost d'énergie de drone 3AP !"
+
+# game/Room_01_Colis.rpy:16 #-#-# translate crowdin Room01_ColisArrived_0b9127ea:
+msgid " Use the Drone device to use your boost !"
+msgstr " Utilise l'appareil Drone pour utiliser ton boost !"
+
+# game/Room_01_Colis.rpy:24 #-#-# translate crowdin Room01_ColisArrived_7edf4b2e:
+msgid "([COLIS_OBJECT_03]) Clothes Scrap !"
+msgstr "([COLIS_OBJECT_03]) Débris de vêtements !"
+
+# game/Room_01_Colis.rpy:32 #-#-# translate crowdin Room01_ColisArrived_d0965dde:
+msgid "([COLIS_OBJECT_04]) Apple Candy !"
+msgstr "([COLIS_OBJECT_04]) Bonbons à la pomme !"
+
+# game/Room_01_Colis.rpy:40 #-#-# translate crowdin Room01_ColisArrived_4bdff54e:
+msgid "([COLIS_OBJECT_05]) Apple Cider !"
+msgstr "([COLIS_OBJECT_05]) Cidre de pomme !"
+
+# game/Room_01_Colis.rpy:48 #-#-# translate crowdin Room01_ColisArrived_8a7a6261:
+msgid "([COLIS_OBJECT_06]) Big Old-Fashioned Cookbook !"
+msgstr "([COLIS_OBJECT_06]) Un grand livre de cuisine à l'ancienne !"
+
+# game/Room_01_Colis.rpy:56 #-#-# translate crowdin Room01_ColisArrived_4acc7f39:
+msgid "([COLIS_OBJECT_07]) Cupid apple basket !"
+msgstr "([COLIS_OBJECT_07]) Panier de pommes Cupidon !"
+
+# game/Room_01_Colis.rpy:64 #-#-# translate crowdin Room01_ColisArrived_636c2261:
+msgid "([COLIS_OBJECT_08]) Drone Energy Boost 5AP !"
+msgstr "([COLIS_OBJECT_08]) Boost d'énergie de drone 5AP !"
+
+# game/Room_01_Colis.rpy:65 #-#-# translate crowdin Room01_ColisArrived_0b9127ea_1:
+msgid " Use the Drone device to use your boost !"
+msgstr " Utilise l'appareil Drone pour utiliser ton boost !"
+
+# game/Room_01_Colis.rpy:73 #-#-# translate crowdin Room01_ColisArrived_2dd7a7ae:
+msgid "([COLIS_OBJECT_09]) Emergency Energy Cell !"
+msgstr "([COLIS_OBJECT_09]) Cellule d'énergie d'urgence !"
+

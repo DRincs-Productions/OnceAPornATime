@@ -1,0 +1,246 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: once-a-porn-a-time\n"
+"X-Crowdin-Project-ID: 651436\n"
+"X-Crowdin-Language: zh-CN\n"
+"X-Crowdin-File: /main/game/tl/crowdin/script.po\n"
+"X-Crowdin-File-ID: 12964\n"
+"Project-Id-Version: once-a-porn-a-time\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Chinese Simplified\n"
+"Language: zh_CN\n"
+"PO-Revision-Date: 2024-03-18 03:13\n"
+
+# TODO: Translation updated at 2024-02-22 14:14 #|#|# # §translate crowdin strings: #|#|# # game/script.rpy:935
+msgid "Changelog"
+msgstr "更新日志"
+
+# game/script.rpy:940
+msgid "Changelog [config.version!t]\n"
+msgstr "更新日志 [config.version!t]\n"
+
+# game/script.rpy:946
+msgid "{size=20}{color=#797979}02/2023{/color}{/size}"
+msgstr "{size=20}{color=#797979}02/2023{/color}{/size}"
+
+# game/script.rpy:947
+msgid "-Main Quest"
+msgstr "-主线任务"
+
+# game/script.rpy:948
+msgid "-Characters Quests"
+msgstr "-角色任务"
+
+# game/script.rpy:949
+msgid "-Bugfix"
+msgstr "-修复Bug"
+
+# game/script.rpy:951
+msgid "{size=20}{color=#797979}12/2023{/color}{/size}"
+msgstr "{size=20}{color=#797979}12/2023{/color}{/size}"
+
+# game/script.rpy:952
+msgid "-Small update"
+msgstr "-小更新"
+
+# game/script.rpy:956
+msgid "{size=20}{color=#797979}11/2023{/color}{/size}"
+msgstr "{size=20}{color=#797979}11/2023{/color}{/size}"
+
+# game/script.rpy:957
+msgid "-BugFix"
+msgstr "-修复Bug"
+
+# game/script.rpy:960
+msgid "-New Main Quest"
+msgstr "-新的主线任务"
+
+# game/script.rpy:962
+msgid "-New Characters"
+msgstr "-新的角色"
+
+# game/script.rpy:963
+msgid "-Lots of New Clothes"
+msgstr "-很多新的服装"
+
+# game/script.rpy:965
+msgid "{size=20}{color=#797979}10/2023{/color}{/size}"
+msgstr "{size=20}{color=#797979}10/2023{/color}{/size}"
+
+# game/script.rpy:966
+msgid "-New Patreon Quest"
+msgstr "-新的Patreon任务"
+
+# game/script.rpy:967
+msgid "-New Clothes"
+msgstr "-新的服装"
+
+# game/script.rpy:969
+msgid "{size=20}{color=#797979}08/2023{/color}{/size}"
+msgstr "{size=20}{color=#797979}08/2023{/color}{/size}"
+
+# game/script.rpy:970
+msgid "-Office Customs"
+msgstr "-官方服装"
+
+# game/script.rpy:973
+msgid "{size=20}{color=#797979}07/2023{/color}{/size}"
+msgstr "{size=20}{color=#797979}07/2023{/color}{/size}"
+
+# game/script.rpy:978
+msgid "{size=20}{color=#797979}04/2023{/color}{/size}"
+msgstr "{size=20}{color=#797979}04/2023{/color}{/size}"
+
+# game/script.rpy:979
+msgid "-Jasmine Patreon Quest Corruption"
+msgstr "-茉莉Patreon恶堕任务"
+
+# game/script.rpy:983
+msgid "02/2023"
+msgstr "02/2023"
+
+# game/script.rpy:987
+msgid "{size=20}{color=#797979}01/2023{/color}{/size}"
+msgstr "{size=20}{color=#797979}01/2023{/color}{/size}"
+
+# game/script.rpy:988
+msgid "-First Patreon Quest"
+msgstr "-第一个Patreon任务"
+
+# game/script.rpy:990
+msgid "- New Clothes"
+msgstr "- 新的服装"
+
+# game/script.rpy:992
+msgid "{size=20}{color=#797979}11/2022{/color}{/size}"
+msgstr "{size=20}{color=#797979}11/2022{/color}{/size}"
+
+# game/script.rpy:993
+msgid "- Sultana quest"
+msgstr "- 苏丹娜任务"
+
+# game/script.rpy:994
+msgid "- Sherazade Corruption"
+msgstr "- 山鲁佐德恶堕"
+
+# game/script.rpy:995
+msgid "- Character Romance progression"
+msgstr "- 角色的好感进度"
+
+# game/script.rpy:998
+msgid "{size=20}{color=#797979}09/2022{/color}{/size}"
+msgstr "{size=20}{color=#797979}09/2022{/color}{/size}"
+
+# game/script.rpy:999
+msgid "-First Update, Introduction."
+msgstr "-首次更新，序章。"
+
+# game/script.rpy:1003
+msgid "Creator : Salty01 "
+msgstr "创作者 : Salty01 "
+
+# game/script.rpy:1004
+msgid "PATREON PAGE : https://www.patreon.com/Salty01_NSFW "
+msgstr "PATREON 页面 : https://www.patreon.com/Salty01_NSFW "
+
+# game/script.rpy:1133
+msgid "Data Chelou"
+msgstr "修改数据"
+
+# game/script.rpy:1134
+msgid "Chest Melissandre"
+msgstr "梅莉山大的胸部"
+
+# game/script.rpy:1135
+msgid "Boule Magique"
+msgstr "魔术球"
+
+# game/script.rpy:1137
+msgid "Old Book"
+msgstr "旧书"
+
+# game/script.rpy:1139
+msgid "Spoon"
+msgstr "勺子"
+
+# game/script.rpy:1140
+msgid "Orders for Djin"
+msgstr "神灵的要求"
+
+# game/script.rpy:1141
+msgid "Magic Lamp"
+msgstr "神灯"
+
+# game/script.rpy:1142
+msgid "Silver Box"
+msgstr "银盒"
+
+# game/script.rpy:1143
+msgid "Secretary Password"
+msgstr "密码"
+
+# game/script.rpy:1144
+msgid "Recruitment Checklist"
+msgstr "招聘清单"
+
+# game/script.rpy:1145
+msgid "Tool List"
+msgstr "工具列表"
+
+# game/script.rpy:1146
+msgid "Incomplete Tool Box"
+msgstr "不完整的工具箱"
+
+# game/script.rpy:1147
+msgid "Complete Tool Box"
+msgstr "完整的工具箱"
+
+# game/script.rpy:1148
+msgid "Electronic Key"
+msgstr "电子钥匙"
+
+# game/script.rpy:1149
+msgid "Lyco Request List"
+msgstr "莉可的请求列表"
+
+# game/script.rpy:1150
+msgid "Dance Book Vol.I"
+msgstr "舞蹈书 第一卷"
+
+# game/script.rpy:1151
+msgid "Dance Book Vol.II"
+msgstr "舞蹈书 第二卷"
+
+# game/script.rpy:1152
+msgid "Dance Book Vol.III"
+msgstr "舞蹈书 第三卷"
+
+# game/script.rpy:1153
+msgid "Sherazade Orders"
+msgstr "山鲁佐德的要求"
+
+# game/script.rpy:1154
+msgid "Oasis Heart Drawn"
+msgstr "绿洲之心的画"
+
+# game/script.rpy:1155
+msgid "Undefined Luggage"
+msgstr "不明确的行李"
+
+# game/script.rpy:1156
+msgid "List of Sex Fantasies"
+msgstr "性幻想的列表"
+
+# game/script.rpy:1157
+msgid "White Peacock feather"
+msgstr "白孔雀羽毛"
+
+# game/script.rpy:1158
+msgid "Sherazade Garment"
+msgstr "山鲁佐德的服装"
+
+# game/script.rpy:1159
+msgid "Little Horn"
+msgstr "小角"
+

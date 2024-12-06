@@ -1,0 +1,4342 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=4; plural=((n%10==1 && n%100!=11) ? 0 : ((n%10 >= 2 && n%10 <=4 && (n%100 < 12 || n%100 > 14)) ? 1 : ((n%10 == 0 || (n%10 >= 5 && n%10 <=9)) || (n%100 >= 11 && n%100 <= 14)) ? 2 : 3));\n"
+"X-Crowdin-Project: once-a-porn-a-time\n"
+"X-Crowdin-Project-ID: 651436\n"
+"X-Crowdin-Language: ru\n"
+"X-Crowdin-File: /main/game/tl/crowdin/Cell01_LY.po\n"
+"X-Crowdin-File-ID: 12906\n"
+"Project-Id-Version: once-a-porn-a-time\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Russian\n"
+"Language: ru_RU\n"
+"PO-Revision-Date: 2024-03-25 22:15\n"
+
+# TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_LY.rpy:80 #-#-# translate crowdin Cell01_LY_QuestActivations_d1d09770:
+msgid "[_ly_] Hi cutie."
+msgstr ""
+
+# game/Cell01_LY.rpy:86 #-#-# translate crowdin Cell01_LY_QuestActivations_6665ab88:
+msgid "[_ly_] Hi [name]!"
+msgstr ""
+
+# game/Cell01_LY.rpy:133 #-#-# translate crowdin CHARA_LY_MenuChoice_259e399c:
+msgid "[_u_] See you later!"
+msgstr "[_u_] Увидимся позже!"
+
+# game/Cell01_LY.rpy:135 #-#-# translate crowdin CHARA_LY_MenuChoice_d93ee3d6:
+msgid "[_ly_] See you [name]!"
+msgstr "[_ly_] Увидимся позже, [name]!"
+
+# game/Cell01_LY.rpy:155 #-#-# translate crowdin LY_OutfitsRetakePanel_3495856c:
+msgid "[_ly_] Ah yes! Melissandre asked me to make a lighter version of her outfit!"
+msgstr ""
+
+# game/Cell01_LY.rpy:157 #-#-# translate crowdin LY_OutfitsRetakePanel_17e93c2a:
+msgid "[_ly_] The pressure's on! I don't really know her..."
+msgstr ""
+
+# game/Cell01_LY.rpy:158 #-#-# translate crowdin LY_OutfitsRetakePanel_a47e417e:
+msgid "[_u_] As long as you don't add bright colors to her clothes... everything will be fine!"
+msgstr ""
+
+# game/Cell01_LY.rpy:160 #-#-# translate crowdin LY_OutfitsRetakePanel_8867323d:
+msgid "[_ly_] Ah! that's a good thing to know!"
+msgstr ""
+
+# game/Cell01_LY.rpy:162 #-#-# translate crowdin LY_OutfitsRetakePanel_9b0c8ce8:
+msgid "[_ly_] The new blueprint should be in the machine in no time!"
+msgstr ""
+
+# game/Cell01_LY.rpy:164 #-#-# translate crowdin LY_OutfitsRetakePanel_a5ff9445:
+msgid "[_ly_] Anything else? "
+msgstr ""
+
+# game/Cell01_LY.rpy:172 #-#-# translate crowdin LY_OutfitsRetakePanel_369a9618:
+msgid "[_ly_] Oh yes! A light outfit for Emee... "
+msgstr ""
+
+# game/Cell01_LY.rpy:174 #-#-# translate crowdin LY_OutfitsRetakePanel_63b017d6:
+msgid "[_ly_] I think everyone was surprised by the summer here! "
+msgstr ""
+
+# game/Cell01_LY.rpy:176 #-#-# translate crowdin LY_OutfitsRetakePanel_edd3ad8d:
+msgid "[_ly_] Everyone's asking for lighter outfits! ahah !"
+msgstr ""
+
+# game/Cell01_LY.rpy:178 #-#-# translate crowdin LY_OutfitsRetakePanel_6ecdca5c:
+msgid "[_ly_] I don't know about you, but I like it."
+msgstr ""
+
+# game/Cell01_LY.rpy:180 #-#-# translate crowdin LY_OutfitsRetakePanel_9b0c8ce8_1:
+msgid "[_ly_] The new blueprint should be in the machine in no time!"
+msgstr ""
+
+# game/Cell01_LY.rpy:182 #-#-# translate crowdin LY_OutfitsRetakePanel_a5ff9445_1:
+msgid "[_ly_] Anything else? "
+msgstr ""
+
+# game/Cell01_LY.rpy:193 #-#-# translate crowdin LY_OutfitsRetakePanel_75892221:
+msgid "[_ly_] Oh! This one's a little... special. "
+msgstr ""
+
+# game/Cell01_LY.rpy:195 #-#-# translate crowdin LY_OutfitsRetakePanel_62390987:
+msgid "[_ly_] During a conversation, Amandine mentioned her desire for more casual clothes... "
+msgstr ""
+
+# game/Cell01_LY.rpy:197 #-#-# translate crowdin LY_OutfitsRetakePanel_903ee490:
+msgid "[_ly_] But all the while keeping her style of clothing!"
+msgstr ""
+
+# game/Cell01_LY.rpy:199 #-#-# translate crowdin LY_OutfitsRetakePanel_e76215e8:
+msgid "[_ly_] That's an interesting challenge, isn't it?"
+msgstr ""
+
+# game/Cell01_LY.rpy:201 #-#-# translate crowdin LY_OutfitsRetakePanel_529ee59a:
+msgid "[_ly_] Anyway, I think I can do it. "
+msgstr ""
+
+# game/Cell01_LY.rpy:203 #-#-# translate crowdin LY_OutfitsRetakePanel_9b0c8ce8_2:
+msgid "[_ly_] The new blueprint should be in the machine in no time!"
+msgstr ""
+
+# game/Cell01_LY.rpy:205 #-#-# translate crowdin LY_OutfitsRetakePanel_266c9cf3:
+msgid "[_ly_] Need anything else? "
+msgstr ""
+
+# game/Cell01_LY.rpy:214 #-#-# translate crowdin LY_OutfitsRetakePanel_5847b7d3:
+msgid "[_ly_] All right! I'll see what I can do!"
+msgstr ""
+
+# game/Cell01_LY.rpy:216 #-#-# translate crowdin LY_OutfitsRetakePanel_9b0c8ce8_3:
+msgid "[_ly_] The new blueprint should be in the machine in no time!"
+msgstr ""
+
+# game/Cell01_LY.rpy:218 #-#-# translate crowdin LY_OutfitsRetakePanel_65e7735b:
+msgid "[_ly_] Do you need anything else? "
+msgstr ""
+
+# game/Cell01_LY.rpy:226 #-#-# translate crowdin LY_OutfitsRetakePanel_419956a5:
+msgid "[_ly_] We're reworking the classic outfit?"
+msgstr ""
+
+# game/Cell01_LY.rpy:228 #-#-# translate crowdin LY_OutfitsRetakePanel_cc94756d:
+msgid "[_ly_] That's a lot of responsibility! Eheh!"
+msgstr ""
+
+# game/Cell01_LY.rpy:230 #-#-# translate crowdin LY_OutfitsRetakePanel_95bba6b7:
+msgid "[_ly_] I really hope the boss will like it!"
+msgstr ""
+
+# game/Cell01_LY.rpy:231 #-#-# translate crowdin LY_OutfitsRetakePanel_810ffceb:
+msgid "[_u_] Don't worry Lycoris, you're a pro!"
+msgstr ""
+
+# game/Cell01_LY.rpy:233 #-#-# translate crowdin LY_OutfitsRetakePanel_bbdd1d67:
+msgid "[_ly_] Thanks! The new blueprint should be in the machine in no time!"
+msgstr ""
+
+# game/Cell01_LY.rpy:235 #-#-# translate crowdin LY_OutfitsRetakePanel_65e7735b_1:
+msgid "[_ly_] Do you need anything else? "
+msgstr ""
+
+# game/Cell01_LY.rpy:247 #-#-# translate crowdin CHARA_LY_ChangeClothesPanel_8a15c002:
+msgid "[_ly_] No. Not today."
+msgstr ""
+
+# game/Cell01_LY.rpy:250 #-#-# translate crowdin CHARA_LY_ChangeClothesPanel_de91a645:
+msgid "[_ly_] Of course!"
+msgstr ""
+
+# game/Cell01_LY.rpy:368 #-#-# translate crowdin CHARA_LY_MenuTalk_FirstTime_ff578c78:
+msgid "[_u_] Hey, I wanted to ask you something..."
+msgstr ""
+
+# game/Cell01_LY.rpy:370 #-#-# translate crowdin CHARA_LY_MenuTalk_FirstTime_862657a8:
+msgid "[_ly_] You want a new outfit, right?"
+msgstr ""
+
+# game/Cell01_LY.rpy:371 #-#-# translate crowdin CHARA_LY_MenuTalk_FirstTime_3271aff9:
+msgid "[_u_] What? Uh, no, I wasn't thinking that. "
+msgstr ""
+
+# game/Cell01_LY.rpy:373 #-#-# translate crowdin CHARA_LY_MenuTalk_FirstTime_33909b29:
+msgid "[_ly_] Really?"
+msgstr ""
+
+# game/Cell01_LY.rpy:375 #-#-# translate crowdin CHARA_LY_MenuTalk_FirstTime_fec92528:
+msgid "[_ly_] Because... I could make you something nice to wear... like... "
+msgstr ""
+
+# game/Cell01_LY.rpy:377 #-#-# translate crowdin CHARA_LY_MenuTalk_FirstTime_77936f8e:
+msgid "[_ly_] Maybe a nice blue suit... with beautiful bird motifs? "
+msgstr ""
+
+# game/Cell01_LY.rpy:379 #-#-# translate crowdin CHARA_LY_MenuTalk_FirstTime_1836f002:
+msgid "[_ly_] Or... I know! Bright yellow and a touch of pink!"
+msgstr ""
+
+# game/Cell01_LY.rpy:380 #-#-# translate crowdin CHARA_LY_MenuTalk_FirstTime_7eaf99f9:
+msgid "[_u_] Hum..."
+msgstr ""
+
+# game/Cell01_LY.rpy:382 #-#-# translate crowdin CHARA_LY_MenuTalk_FirstTime_28116c39:
+msgid "[_ly_] What? something even more extravagant?! "
+msgstr ""
+
+# game/Cell01_LY.rpy:384 #-#-# translate crowdin CHARA_LY_MenuTalk_FirstTime_3659754c:
+msgid "[_ly_] That would be daring... "
+msgstr ""
+
+# game/Cell01_LY.rpy:385 #-#-# translate crowdin CHARA_LY_MenuTalk_FirstTime_06d1ef4e:
+msgid "[_u_] I... I'll stick to my usual look if you don't mind. "
+msgstr ""
+
+# game/Cell01_LY.rpy:387 #-#-# translate crowdin CHARA_LY_MenuTalk_FirstTime_36fd6fb7:
+msgid "[_ly_] Mh... I'll get you to change your mind one day. "
+msgstr ""
+
+# game/Cell01_LY.rpy:389 #-#-# translate crowdin CHARA_LY_MenuTalk_FirstTime_25aea2d3:
+msgid "[_ly_] I can promise you that."
+msgstr ""
+
+# game/Cell01_LY.rpy:391 #-#-# translate crowdin CHARA_LY_MenuTalk_FirstTime_ce596836:
+msgid "[_ly_] Anyway, what did you want to ask? "
+msgstr ""
+
+# game/Cell01_LY.rpy:429 #-#-# translate crowdin Quest2_LY_Talk01_435135c8:
+msgid "[_u_] It's not too difficult to adapt?"
+msgstr ""
+
+# game/Cell01_LY.rpy:431 #-#-# translate crowdin Quest2_LY_Talk01_1d0ce374:
+msgid "[_ly_] With a working environment like this?? "
+msgstr ""
+
+# game/Cell01_LY.rpy:433 #-#-# translate crowdin Quest2_LY_Talk01_465142ac:
+msgid "[_ly_] Absolutely not! This place is incredible! "
+msgstr ""
+
+# game/Cell01_LY.rpy:435 #-#-# translate crowdin Quest2_LY_Talk01_d7006ae5:
+msgid "[_ly_] Is this an art nouveau glass roof?"
+msgstr ""
+
+# game/Cell01_LY.rpy:436 #-#-# translate crowdin Quest2_LY_Talk01_e5466339:
+msgid "[_u_] Um... probably."
+msgstr ""
+
+# game/Cell01_LY.rpy:438 #-#-# translate crowdin Quest2_LY_Talk01_c1fdfdd9:
+msgid "[_ly_] My human art history classes are a little dated, but I think it is!"
+msgstr ""
+
+# game/Cell01_LY.rpy:439 #-#-# translate crowdin Quest2_LY_Talk01_5aab94b5:
+msgid "[_u_] I think it was Amandine who came up with the idea. "
+msgstr ""
+
+# game/Cell01_LY.rpy:441 #-#-# translate crowdin Quest2_LY_Talk01_8a99c107:
+msgid "[_ly_] Further proof of her good taste. "
+msgstr ""
+
+# game/Cell01_LY.rpy:443 #-#-# translate crowdin Quest2_LY_Talk01_e04fdefe:
+msgid "[_ly_] So she's kind of in charge of the stories here, right? "
+msgstr ""
+
+# game/Cell01_LY.rpy:444 #-#-# translate crowdin Quest2_LY_Talk01_53f296aa:
+msgid "[_u_] Exactly. Considering her accomplishments, she's surely the best person in the galaxy for the job. "
+msgstr ""
+
+# game/Cell01_LY.rpy:446 #-#-# translate crowdin Quest2_LY_Talk01_84957edf:
+msgid "[_ly_] Her... accomplishments?"
+msgstr ""
+
+# game/Cell01_LY.rpy:447 #-#-# translate crowdin Quest2_LY_Talk01_1e79b2e3:
+msgid "[_u_] Well, yes... her book."
+msgstr ""
+
+# game/Cell01_LY.rpy:449 #-#-# translate crowdin Quest2_LY_Talk01_d6415a8a:
+msgid "[_ly_] Oh... I didn't know she was a real writer!"
+msgstr ""
+
+# game/Cell01_LY.rpy:451 #-#-# translate crowdin Quest2_LY_Talk01_25ec9cd4:
+msgid "[_ly_] She's a bit of a ''Amandine de Beauregard'', isn't she? Ahah! "
+msgstr ""
+
+# game/Cell01_LY.rpy:452 #-#-# translate crowdin Quest2_LY_Talk01_7b1c1392:
+msgid "[_u_] ..."
+msgstr "[_u_] ..."
+
+# game/Cell01_LY.rpy:454 #-#-# translate crowdin Quest2_LY_Talk01_7b649b32:
+msgid "[_ly_] What?"
+msgstr ""
+
+# game/Cell01_LY.rpy:456 #-#-# translate crowdin Quest2_LY_Talk01_f178aebd:
+msgid "[_ly_] Wait... you're not going to tell me..."
+msgstr ""
+
+# game/Cell01_LY.rpy:458 #-#-# translate crowdin Quest2_LY_Talk01_2e73a63a:
+msgid "[_ly_] It's not ''HER'', is it? "
+msgstr ""
+
+# game/Cell01_LY.rpy:459 #-#-# translate crowdin Quest2_LY_Talk01_905e728a:
+msgid "[_u_] Well... Yes it is."
+msgstr ""
+
+# game/Cell01_LY.rpy:461 #-#-# translate crowdin Quest2_LY_Talk01_3eeb17d3:
+msgid "[_ly_] ..."
+msgstr ""
+
+# game/Cell01_LY.rpy:463 #-#-# translate crowdin Quest2_LY_Talk01_fb07b688:
+msgid "[_ly_] Okay... I was already under pressure, but now it's worse. "
+msgstr ""
+
+# game/Cell01_LY.rpy:468 #-#-# translate crowdin Quest2_LY_Talk01_1b7d55eb:
+msgid "[_ly_] Thank you for being so kind..."
+msgstr ""
+
+# game/Cell01_LY.rpy:470 #-#-# translate crowdin Quest2_LY_Talk01_f39d3a00:
+msgid "[_ly_] I can't wait to prove myself to everyone. I'll feel better afterwards. "
+msgstr ""
+
+# game/Cell01_LY.rpy:474 #-#-# translate crowdin Quest2_LY_Talk01_236a683f:
+msgid "[_ly_] Really? "
+msgstr ""
+
+# game/Cell01_LY.rpy:475 #-#-# translate crowdin Quest2_LY_Talk01_5afc66a5:
+msgid "[_u_] Yeah, you could do a support group with Emee, she's struggling too. "
+msgstr ""
+
+# game/Cell01_LY.rpy:479 #-#-# translate crowdin Quest2_LY_Talk01_f42bb481:
+msgid "[_ly_] Oh, I know! It's a reference to a human myth!"
+msgstr ""
+
+# game/Cell01_LY.rpy:481 #-#-# translate crowdin Quest2_LY_Talk01_ad3b4b55:
+msgid "[_ly_] I'm so proud, I haven't forgotten everything!"
+msgstr ""
+
+# game/Cell01_LY.rpy:482 #-#-# translate crowdin Quest2_LY_Talk01_4a527e41:
+msgid "[_u_] Eheh, that'll certainly come in handy here."
+msgstr ""
+
+# game/Cell01_LY.rpy:495 #-#-# translate crowdin Quest2_LY_Talk02_755f7690:
+msgid "[_ly_] I have a few outfits and blueprints to create for Tinker. "
+msgstr ""
+
+# game/Cell01_LY.rpy:497 #-#-# translate crowdin Quest2_LY_Talk02_a4a7cbf1:
+msgid "[_ly_] When I told her that I could create absolutely anything she wanted... well... "
+msgstr ""
+
+# game/Cell01_LY.rpy:499 #-#-# translate crowdin Quest2_LY_Talk02_a00096f1:
+msgid "[_ly_] Let's just say I didn't have to tell her twice to get a stack of orders!"
+msgstr ""
+
+# game/Cell01_LY.rpy:501 #-#-# translate crowdin Quest2_LY_Talk02_729a8907:
+msgid "[_u_] Like... how many do you have? "
+msgstr ""
+
+# game/Cell01_LY.rpy:503 #-#-# translate crowdin Quest2_LY_Talk02_29d0611a:
+msgid "[_ly_] Dozens."
+msgstr ""
+
+# game/Cell01_LY.rpy:505 #-#-# translate crowdin Quest2_LY_Talk02_824672db:
+msgid "[_ly_] And I'm a bit afraid of messing up the measurements, I must admit. "
+msgstr ""
+
+# game/Cell01_LY.rpy:507 #-#-# translate crowdin Quest2_LY_Talk02_47891ffa:
+msgid "[_ly_] I'm not really used to your human measurements... I'm still confused ahah "
+msgstr ""
+
+# game/Cell01_LY.rpy:509 #-#-# translate crowdin Quest2_LY_Talk02_2efca0b6:
+msgid "[_ly_] Well, at least you don't have horns... so, It's much easier to make hats."
+msgstr ""
+
+# game/Cell01_LY.rpy:511 #-#-# translate crowdin Quest2_LY_Talk02_93cd6275:
+msgid "[_ly_] Yeah... You're cute with your little round heads."
+msgstr ""
+
+# game/Cell01_LY.rpy:512 #-#-# translate crowdin Quest2_LY_Talk02_7b1c1392:
+msgid "[_u_] ..."
+msgstr "[_u_] ..."
+
+# game/Cell01_LY.rpy:513 #-#-# translate crowdin Quest2_LY_Talk02_ee01f9b9:
+msgid "[_u_] Thanks."
+msgstr ""
+
+# game/Cell01_LY.rpy:515 #-#-# translate crowdin Quest2_LY_Talk02_ab8f5df7:
+msgid "[_ly_] Anyway, uh yeah, I made a typical Aok dress blueprint for Tinker..."
+msgstr ""
+
+# game/Cell01_LY.rpy:516 #-#-# translate crowdin Quest2_LY_Talk02_cef82f2e:
+msgid "[_u_] ''Aok''?"
+msgstr ""
+
+# game/Cell01_LY.rpy:518 #-#-# translate crowdin Quest2_LY_Talk02_06085bae:
+msgid "[_ly_] That's the name of my race."
+msgstr ""
+
+# game/Cell01_LY.rpy:520 #-#-# translate crowdin Quest2_LY_Talk02_b9446253:
+msgid "[_ly_] I could tell you more about it later if you like!"
+msgstr ""
+
+# game/Cell01_LY.rpy:521 #-#-# translate crowdin Quest2_LY_Talk02_723f6aca:
+msgid "[_u_] I'd love to."
+msgstr ""
+
+# game/Cell01_LY.rpy:523 #-#-# translate crowdin Quest2_LY_Talk02_ce9cd165:
+msgid "[_ly_] Anyway, I'm sorry to ask you this but... could you take care of making it? "
+msgstr ""
+
+# game/Cell01_LY.rpy:525 #-#-# translate crowdin Quest2_LY_Talk02_5f3ad434:
+msgid "[_ly_] I still have a lot to do... so uh... "
+msgstr ""
+
+# game/Cell01_LY.rpy:526 #-#-# translate crowdin Quest2_LY_Talk02_ca40187b:
+msgid "[_u_] Don't worry, I'll take care of it."
+msgstr ""
+
+# game/Cell01_LY.rpy:528 #-#-# translate crowdin Quest2_LY_Talk02_ff72d9dc:
+msgid "[_ly_] Great! The plan for this dress and haircut should be available in your machine. "
+msgstr ""
+
+# game/Cell01_LY.rpy:530 #-#-# translate crowdin Quest2_LY_Talk02_b6178a35:
+msgid "[_ly_] You can give both to Tinker as soon as both are finished!"
+msgstr ""
+
+# game/Cell01_LY.rpy:532 #-#-# translate crowdin Quest2_LY_Talk02_6e40322e:
+msgid "[_ly_] And thanks [name], that's sweet of you."
+msgstr ""
+
+# game/Cell01_LY.rpy:541 #-#-# translate crowdin Quest2_LY_Talk03_a64d524d:
+msgid "[_ly_] Well, I'm human, why? "
+msgstr ""
+
+# game/Cell01_LY.rpy:542 #-#-# translate crowdin Quest2_LY_Talk03_7b1c1392:
+msgid "[_u_] ..."
+msgstr "[_u_] ..."
+
+# game/Cell01_LY.rpy:544 #-#-# translate crowdin Quest2_LY_Talk03_8e6b6c83:
+msgid "[_ly_] Sorry, I'm just teasing! Eheh..."
+msgstr ""
+
+# game/Cell01_LY.rpy:546 #-#-# translate crowdin Quest2_LY_Talk03_7cb22c36:
+msgid "[_ly_] Ahah I'm often asked that question."
+msgstr ""
+
+# game/Cell01_LY.rpy:548 #-#-# translate crowdin Quest2_LY_Talk03_fd6e5f5a:
+msgid "[_ly_] Especially you humans, you're not too used to red-skinned and horned people from what I understand!"
+msgstr ""
+
+# game/Cell01_LY.rpy:549 #-#-# translate crowdin Quest2_LY_Talk03_81353301:
+msgid "[_u_] Not really, honestly. "
+msgstr ""
+
+# game/Cell01_LY.rpy:551 #-#-# translate crowdin Quest2_LY_Talk03_4ff57eb6:
+msgid "[_ly_] I'm an Oraks."
+msgstr ""
+
+# game/Cell01_LY.rpy:553 #-#-# translate crowdin Quest2_LY_Talk03_6446646f:
+msgid "[_ly_] A small race of nomadic people from a remote corner of the galaxy."
+msgstr ""
+
+# game/Cell01_LY.rpy:555 #-#-# translate crowdin Quest2_LY_Talk03_5353a9e1:
+msgid "[_ly_] Anyway, I'm not going to give you a history lesson, but... yeah, we're not very well known. "
+msgstr ""
+
+# game/Cell01_LY.rpy:557 #-#-# translate crowdin Quest2_LY_Talk03_c5b6e782:
+msgid "[_ly_] Although... since Amandine wrote about us in her fantasy book... we have become slightly more popular!"
+msgstr ""
+
+# game/Cell01_LY.rpy:559 #-#-# translate crowdin Quest2_LY_Talk03_24dd4212:
+msgid "[_ly_] And yes, we all have horns."
+msgstr ""
+
+# game/Cell01_LY.rpy:561 #-#-# translate crowdin Quest2_LY_Talk03_cfe8f919:
+msgid "[_ly_] And of course, the longer your horns, the more beautiful you are. "
+msgstr ""
+
+# game/Cell01_LY.rpy:562 #-#-# translate crowdin Quest2_LY_Talk03_e8aa08a2:
+msgid "[_u_] So you're considered pretty for your people's tastes, right? "
+msgstr ""
+
+# game/Cell01_LY.rpy:564 #-#-# translate crowdin Quest2_LY_Talk03_1c5ef6af:
+msgid "[_ly_] I also hope to be considered pretty for human tastes, I must confess. "
+msgstr ""
+
+# game/Cell01_LY.rpy:565 #-#-# translate crowdin Quest2_LY_Talk03_3eeb17d3:
+msgid "[_ly_] ..."
+msgstr ""
+
+# game/Cell01_LY.rpy:567 #-#-# translate crowdin Quest2_LY_Talk03_c226ff63:
+msgid "[_ly_] Mh?"
+msgstr ""
+
+# game/Cell01_LY.rpy:575 #-#-# translate crowdin Quest2_LY_Talk03_menu01_6dd40f6c:
+msgid "[_ly_] Mh."
+msgstr ""
+
+# game/Cell01_LY.rpy:577 #-#-# translate crowdin Quest2_LY_Talk03_menu01_ce7081e7:
+msgid "[_ly_] Don't try to dodge the question..."
+msgstr ""
+
+# game/Cell01_LY.rpy:579 #-#-# translate crowdin Quest2_LY_Talk03_menu01_702c0ae5:
+msgid "[_ly_] do you think I'm pretty? "
+msgstr ""
+
+# game/Cell01_LY.rpy:583 #-#-# translate crowdin Quest2_LY_Talk03_menu01_fccfeb49:
+msgid "[_ly_] Thank you."
+msgstr ""
+
+# game/Cell01_LY.rpy:584 #-#-# translate crowdin Quest2_LY_Talk03_menu01_3eeb17d3:
+msgid "[_ly_] ..."
+msgstr ""
+
+# game/Cell01_LY.rpy:586 #-#-# translate crowdin Quest2_LY_Talk03_menu01_186020b4:
+msgid "[_ly_] How sweet."
+msgstr ""
+
+# game/Cell01_LY.rpy:589 #-#-# translate crowdin Quest2_LY_Talk03_menu01_3963ae74:
+msgid "[_ly_] Mhrf."
+msgstr ""
+
+# game/Cell01_LY.rpy:591 #-#-# translate crowdin Quest2_LY_Talk03_menu01_35ad11cb:
+msgid "[_ly_] Better than nothing, I guess."
+msgstr ""
+
+# game/Cell01_LY.rpy:594 #-#-# translate crowdin Quest2_LY_Talk03_menu01_ca75355b:
+msgid "[_ly_] Aww..."
+msgstr ""
+
+# game/Cell01_LY.rpy:596 #-#-# translate crowdin Quest2_LY_Talk03_menu01_cf1b5520:
+msgid "[_ly_] That's so sweet. "
+msgstr ""
+
+# game/Cell01_LY.rpy:599 #-#-# translate crowdin Quest2_LY_Talk03_menu01_6646f38b:
+msgid "[_ly_] Anyway, did you need anything else?"
+msgstr ""
+
+# game/Cell01_LY.rpy:606 #-#-# translate crowdin Quest2_LY_Talk04_42c7bef5:
+msgid "[_ly_] You curious little man..."
+msgstr ""
+
+# game/Cell01_LY.rpy:608 #-#-# translate crowdin Quest2_LY_Talk04_76718472:
+msgid "[_ly_] Let's talk about this another time."
+msgstr ""
+
+# game/Cell01_LY.rpy:616 #-#-# translate crowdin Quest2_LY_Talk04_8c1a97fb:
+msgid "[_ly_] Since what?"
+msgstr ""
+
+# game/Cell01_LY.rpy:618 #-#-# translate crowdin Quest2_LY_Talk04_280b78c9:
+msgid "[_ly_] Oh! since I had..."
+msgstr ""
+
+# game/Cell01_LY.rpy:620 #-#-# translate crowdin Quest2_LY_Talk04_442687a4:
+msgid "[_ly_] ...''the sex''. "
+msgstr ""
+
+# game/Cell01_LY.rpy:622 #-#-# translate crowdin Quest2_LY_Talk04_768c8e44:
+msgid "[_ly_] That's what you're talking about, right? "
+msgstr ""
+
+# game/Cell01_LY.rpy:624 #-#-# translate crowdin Quest2_LY_Talk04_0f7bf379:
+msgid "[_ly_] Or maybe I really am a big pervert. "
+msgstr ""
+
+# game/Cell01_LY.rpy:625 #-#-# translate crowdin Quest2_LY_Talk04_41bc03fb:
+msgid "[_u_] Yes, I'm talking about sex. "
+msgstr ""
+
+# game/Cell01_LY.rpy:627 #-#-# translate crowdin Quest2_LY_Talk04_0c216dfa:
+msgid "[_ly_] Nice."
+msgstr ""
+
+# game/Cell01_LY.rpy:629 #-#-# translate crowdin Quest2_LY_Talk04_a8ff0314:
+msgid "[_ly_] Uh yeah, even before I crashed on this planet, I hadn't done anything for a while... "
+msgstr ""
+
+# game/Cell01_LY.rpy:631 #-#-# translate crowdin Quest2_LY_Talk04_56e2dcd5:
+msgid "[_ly_] And then I lost my vibrator... and then... "
+msgstr ""
+
+# game/Cell01_LY.rpy:633 #-#-# translate crowdin Quest2_LY_Talk04_eb0eafe4:
+msgid "[_ly_] Gosh... everyone at the palace was such a prude..."
+msgstr ""
+
+# game/Cell01_LY.rpy:635 #-#-# translate crowdin Quest2_LY_Talk04_79e2241b:
+msgid "[_ly_] It really was hell!"
+msgstr ""
+
+# game/Cell01_LY.rpy:637 #-#-# translate crowdin Quest2_LY_Talk04_fddbbe34:
+msgid "[_ly_] Because well... I usually like to have fun..."
+msgstr ""
+
+# game/Cell01_LY.rpy:639 #-#-# translate crowdin Quest2_LY_Talk04_139f671a:
+msgid "[_ly_] And here I find myself in a nunnery... that looks like a temple of eroticism!? "
+msgstr ""
+
+# game/Cell01_LY.rpy:641 #-#-# translate crowdin Quest2_LY_Talk04_f82e7197:
+msgid "[_ly_] It was FRU-STRA-TING."
+msgstr ""
+
+# game/Cell01_LY.rpy:642 #-#-# translate crowdin Quest2_LY_Talk04_139fc202:
+msgid "[_u_] And so, nothing really happened?"
+msgstr ""
+
+# game/Cell01_LY.rpy:644 #-#-# translate crowdin Quest2_LY_Talk04_9bd49b0e:
+msgid "[_u_] Not even a little something? "
+msgstr ""
+
+# game/Cell01_LY.rpy:646 #-#-# translate crowdin Quest2_LY_Talk04_f4ab98b4:
+msgid "[_ly_] Nothing."
+msgstr ""
+
+# game/Cell01_LY.rpy:648 #-#-# translate crowdin Quest2_LY_Talk04_7862b3a9:
+msgid "[_ly_] Oh yes! I saw Sherazade naked!"
+msgstr ""
+
+# game/Cell01_LY.rpy:649 #-#-# translate crowdin Quest2_LY_Talk04_ca6a36d1:
+msgid "[_u_] Nan... really? "
+msgstr ""
+
+# game/Cell01_LY.rpy:651 #-#-# translate crowdin Quest2_LY_Talk04_2c318416:
+msgid "[_ly_] Yeah... her big, huge boobs..."
+msgstr ""
+
+# game/Cell01_LY.rpy:653 #-#-# translate crowdin Quest2_LY_Talk04_d7dc0679:
+msgid "[_ly_] They look like... like two giant, smooth lemons... but like really hot. "
+msgstr ""
+
+# game/Cell01_LY.rpy:655 #-#-# translate crowdin Quest2_LY_Talk04_570a721e:
+msgid "[_ly_] I wanted so badly to put my head between her two big boobies... "
+msgstr ""
+
+# game/Cell01_LY.rpy:657 #-#-# translate crowdin Quest2_LY_Talk04_142359ef:
+msgid "[_ly_] I must have masturbated for at least a week thinking about it."
+msgstr ""
+
+# game/Cell01_LY.rpy:658 #-#-# translate crowdin Quest2_LY_Talk04_8ae15364:
+msgid "[_u_] Quite a thrilling vision indeed."
+msgstr ""
+
+# game/Cell01_LY.rpy:660 #-#-# translate crowdin Quest2_LY_Talk04_a7dff1c5:
+msgid "[_ly_] Yeah... "
+msgstr ""
+
+# game/Cell01_LY.rpy:662 #-#-# translate crowdin Quest2_LY_Talk04_cedc680b:
+msgid "[_ly_] Uh... you mean Sherazade's breasts? "
+msgstr ""
+
+# game/Cell01_LY.rpy:666 #-#-# translate crowdin Quest2_LY_Talk04_31cb6946:
+msgid "[_ly_] Hey... stop it! "
+msgstr ""
+
+# game/Cell01_LY.rpy:668 #-#-# translate crowdin Quest2_LY_Talk04_767a98d2:
+msgid "[_ly_] You're gonna make me blush. "
+msgstr ""
+
+# game/Cell01_LY.rpy:670 #-#-# translate crowdin Quest2_LY_Talk04_500b8847:
+msgid "[_ly_] Plus I look like nothing when I jerk off."
+msgstr ""
+
+# game/Cell01_LY.rpy:671 #-#-# translate crowdin Quest2_LY_Talk04_7b1c1392:
+msgid "[_u_] ..."
+msgstr "[_u_] ..."
+
+# game/Cell01_LY.rpy:673 #-#-# translate crowdin Quest2_LY_Talk04_4437b386:
+msgid "[_ly_] My hair's a mess and I'm making funny faces. "
+msgstr ""
+
+# game/Cell01_LY.rpy:674 #-#-# translate crowdin Quest2_LY_Talk04_02b41ced:
+msgid "[_u_] Are you trying to make me hard or something?"
+msgstr ""
+
+# game/Cell01_LY.rpy:676 #-#-# translate crowdin Quest2_LY_Talk04_00f64cff:
+msgid "[_ly_] You're just saying that because you haven't seen me do it yet!"
+msgstr ""
+
+# game/Cell01_LY.rpy:677 #-#-# translate crowdin Quest2_LY_Talk04_7b1c1392_1:
+msgid "[_u_] ..."
+msgstr "[_u_] ..."
+
+# game/Cell01_LY.rpy:678 #-#-# translate crowdin Quest2_LY_Talk04_6c3c53b8:
+msgid "[_u_] Yet?"
+msgstr ""
+
+# game/Cell01_LY.rpy:680 #-#-# translate crowdin Quest2_LY_Talk04_b700f638:
+msgid "[_ly_] Uh... in a manner of speaking."
+msgstr ""
+
+# game/Cell01_LY.rpy:682 #-#-# translate crowdin Quest2_LY_Talk04_735d01b4:
+msgid "[_ly_] Mh... "
+msgstr ""
+
+# game/Cell01_LY.rpy:686 #-#-# translate crowdin Quest2_LY_Talk04_a07eba63:
+msgid "[_ly_] Too bad it will remain a fantasy."
+msgstr ""
+
+# game/Cell01_LY.rpy:688 #-#-# translate crowdin Quest2_LY_Talk04_71e2a7cf:
+msgid "[_ly_] I think that if I ever set foot in the palace again, I'll be blamed for leaving. "
+msgstr ""
+
+# game/Cell01_LY.rpy:689 #-#-# translate crowdin Quest2_LY_Talk04_081d1470:
+msgid "[_u_] Not necessarily... if I can corrupt Sherazade, you will be able to do whatever you want. "
+msgstr ""
+
+# game/Cell01_LY.rpy:691 #-#-# translate crowdin Quest2_LY_Talk04_40215bf1:
+msgid "[_ly_] Is that so?"
+msgstr ""
+
+# game/Cell01_LY.rpy:693 #-#-# translate crowdin Quest2_LY_Talk04_0d9a07ad:
+msgid "[_ly_] Now that... would be fun."
+msgstr ""
+
+# game/Cell01_LY.rpy:696 #-#-# translate crowdin Quest2_LY_Talk04_b4316af9:
+msgid "[_ly_] Anyway, did you want to talk about something else? "
+msgstr ""
+
+# game/Cell01_LY.rpy:705 #-#-# translate crowdin Quest2_LY_TalkRetake01_7b649b32:
+msgid "[_ly_] What?"
+msgstr ""
+
+# game/Cell01_LY.rpy:707 #-#-# translate crowdin Quest2_LY_TalkRetake01_ad92aa3e:
+msgid "[_ly_] You mean the garment I just finished making? "
+msgstr ""
+
+# game/Cell01_LY.rpy:709 #-#-# translate crowdin Quest2_LY_TalkRetake01_0a583522:
+msgid "[_ly_] Nah, I don't think so."
+msgstr ""
+
+# game/Cell01_LY.rpy:715 #-#-# translate crowdin Quest2_LY_TalkRetake01_fb968e66:
+msgid "[_ly_] The one I'm wearing? "
+msgstr ""
+
+# game/Cell01_LY.rpy:717 #-#-# translate crowdin Quest2_LY_TalkRetake01_698a107c:
+msgid "[_ly_] Why not? What kind of change would you see? "
+msgstr ""
+
+# game/Cell01_LY.rpy:718 #-#-# translate crowdin Quest2_LY_TalkRetake01_f439fbc6:
+msgid "[_u_] Well uh... just something a little more... "
+msgstr ""
+
+# game/Cell01_LY.rpy:720 #-#-# translate crowdin Quest2_LY_TalkRetake01_3bffcac0:
+msgid "[_ly_] Mh?..."
+msgstr ""
+
+# game/Cell01_LY.rpy:721 #-#-# translate crowdin Quest2_LY_TalkRetake01_af145e85:
+msgid "[_u_] Open?"
+msgstr ""
+
+# game/Cell01_LY.rpy:723 #-#-# translate crowdin Quest2_LY_TalkRetake01_c857967c:
+msgid "[_ly_] You mean a little more nude? "
+msgstr ""
+
+# game/Cell01_LY.rpy:724 #-#-# translate crowdin Quest2_LY_TalkRetake01_9416bffe:
+msgid "[_u_] Yeah... I guess so. "
+msgstr ""
+
+# game/Cell01_LY.rpy:726 #-#-# translate crowdin Quest2_LY_TalkRetake01_13e3f758:
+msgid "[_ly_] Mh... you naughty boy. "
+msgstr ""
+
+# game/Cell01_LY.rpy:728 #-#-# translate crowdin Quest2_LY_TalkRetake01_e29c84fa:
+msgid "[_ly_] In fact, I didn't really dare wear anything more nude, I must admit!"
+msgstr ""
+
+# game/Cell01_LY.rpy:730 #-#-# translate crowdin Quest2_LY_TalkRetake01_aa5250ce:
+msgid "[_ly_] Maybe Tinker might not have liked it, or something. "
+msgstr ""
+
+# game/Cell01_LY.rpy:731 #-#-# translate crowdin Quest2_LY_TalkRetake01_421abe0b:
+msgid "[_u_] Yeah... no, I don't think you'll have any trouble changing outfits. "
+msgstr ""
+
+# game/Cell01_LY.rpy:733 #-#-# translate crowdin Quest2_LY_TalkRetake01_bf553624:
+msgid "[_ly_] Great!"
+msgstr ""
+
+# game/Cell01_LY.rpy:734 #-#-# translate crowdin Quest2_LY_TalkRetake01_91e3705e:
+msgid "[_u_] So uh... do you need me to create your outfit with my machine or something? "
+msgstr ""
+
+# game/Cell01_LY.rpy:736 #-#-# translate crowdin Quest2_LY_TalkRetake01_7471da03:
+msgid "[_ly_] Nah... I don't think I'll be needing it. "
+msgstr ""
+
+# game/Cell01_LY.rpy:740 #-#-# translate crowdin Quest2_LY_TalkRetake01_4d37ada2:
+msgid "[_ly_] I just have to remove this part... "
+msgstr ""
+
+# game/Cell01_LY.rpy:741 #-#-# translate crowdin Quest2_LY_TalkRetake01_1c90f429:
+msgid "[_ly_] Oh, and this too!"
+msgstr ""
+
+# game/Cell01_LY.rpy:742 #-#-# translate crowdin Quest2_LY_TalkRetake01_08958187:
+msgid "[_ly_] And I could also... "
+msgstr ""
+
+# game/Cell01_LY.rpy:743 #-#-# translate crowdin Quest2_LY_TalkRetake01_40c65b64:
+msgid "[_ly_] No no... that would be a bit too much... "
+msgstr ""
+
+# game/Cell01_LY.rpy:744 #-#-# translate crowdin Quest2_LY_TalkRetake01_4b03a838:
+msgid "[_ly_] There, now that's perfect!"
+msgstr ""
+
+# game/Cell01_LY.rpy:749 #-#-# translate crowdin Quest2_LY_TalkRetake01_47ece7db:
+msgid "[_ly_] I don't know about you... but I think it's better. "
+msgstr ""
+
+# game/Cell01_LY.rpy:750 #-#-# translate crowdin Quest2_LY_TalkRetake01_989df355:
+msgid "[_u_] Absolutely."
+msgstr ""
+
+# game/Cell01_LY.rpy:752 #-#-# translate crowdin Quest2_LY_TalkRetake01_bb9c1f9c:
+msgid "[_ly_] Are you sure it's not too much? "
+msgstr ""
+
+# game/Cell01_LY.rpy:753 #-#-# translate crowdin Quest2_LY_TalkRetake01_7ebeac43:
+msgid "[_u_] Absolutely sure. I remind you that we spend our time corrupting androids here."
+msgstr ""
+
+# game/Cell01_LY.rpy:755 #-#-# translate crowdin Quest2_LY_TalkRetake01_2f52da50:
+msgid "[_u_] No one will ever be embarrassed by the sight of a little nudity. "
+msgstr ""
+
+# game/Cell01_LY.rpy:757 #-#-# translate crowdin Quest2_LY_TalkRetake01_7ac613b1:
+msgid "[_ly_] Oh, yeah, that makes sense..."
+msgstr ""
+
+# game/Cell01_LY.rpy:759 #-#-# translate crowdin Quest2_LY_TalkRetake01_aa409898:
+msgid "[_ly_] Speaking of nudity!"
+msgstr ""
+
+# game/Cell01_LY.rpy:761 #-#-# translate crowdin Quest2_LY_TalkRetake01_8c45b911:
+msgid "[_ly_] When I first used the machine to make my outfit... it created something... "
+msgstr ""
+
+# game/Cell01_LY.rpy:763 #-#-# translate crowdin Quest2_LY_TalkRetake01_8ee7d6e6:
+msgid "[_ly_] Well, let me show you this!"
+msgstr ""
+
+# game/Cell01_LY.rpy:765 #-#-# translate crowdin Quest2_LY_TalkRetake01_81d5920c:
+msgid "[_ly_] You... uh... "
+msgstr ""
+
+# game/Cell01_LY.rpy:767 #-#-# translate crowdin Quest2_LY_TalkRetake01_b62f461a:
+msgid "[_ly_] Do you mind if I change here?"
+msgstr ""
+
+# game/Cell01_LY.rpy:769 #-#-# translate crowdin Quest2_LY_TalkRetake01_6558ffcc:
+msgid "[_ly_] You've already seen me naked anyway, so... "
+msgstr ""
+
+# game/Cell01_LY.rpy:770 #-#-# translate crowdin Quest2_LY_TalkRetake01_532a548f:
+msgid "[_u_] Really? When did I see you naked? "
+msgstr ""
+
+# game/Cell01_LY.rpy:772 #-#-# translate crowdin Quest2_LY_TalkRetake01_4b1468d4:
+msgid "[_ly_] Well... into the palace! When I was taking my bath!"
+msgstr ""
+
+# game/Cell01_LY.rpy:774 #-#-# translate crowdin Quest2_LY_TalkRetake01_124f62e4:
+msgid "[_ly_] I know you've been watching me, you little voyeur!"
+msgstr ""
+
+# game/Cell01_LY.rpy:775 #-#-# translate crowdin Quest2_LY_TalkRetake01_13ba3d48:
+msgid "[_u_] I saw a back, and hair... so... not really. "
+msgstr ""
+
+# game/Cell01_LY.rpy:777 #-#-# translate crowdin Quest2_LY_TalkRetake01_c9d85359:
+msgid "[_ly_] Oh... I could have sworn that..."
+msgstr ""
+
+# game/Cell01_LY.rpy:779 #-#-# translate crowdin Quest2_LY_TalkRetake01_f3567cee:
+msgid "[_ly_] Anyway, there's also the time I showed you my tits when you were in prison. "
+msgstr ""
+
+# game/Cell01_LY.rpy:780 #-#-# translate crowdin Quest2_LY_TalkRetake01_00a6792d:
+msgid "[_u_] It never happened. I asked you once... "
+msgstr ""
+
+# game/Cell01_LY.rpy:782 #-#-# translate crowdin Quest2_LY_TalkRetake01_17073739:
+msgid "[_u_] By the way, sorry about that, I thought you were an android... "
+msgstr ""
+
+# game/Cell01_LY.rpy:783 #-#-# translate crowdin Quest2_LY_TalkRetake01_0692cd9b:
+msgid "[_u_] And you said no because you had too many clothes. "
+msgstr ""
+
+# game/Cell01_LY.rpy:785 #-#-# translate crowdin Quest2_LY_TalkRetake01_3eeb17d3:
+msgid "[_ly_] ..."
+msgstr ""
+
+# game/Cell01_LY.rpy:786 #-#-# translate crowdin Quest2_LY_TalkRetake01_006a8ec7:
+msgid "[_ly_] Oh."
+msgstr ""
+
+# game/Cell01_LY.rpy:788 #-#-# translate crowdin Quest2_LY_TalkRetake01_fc1fe72b:
+msgid "[_ly_] Damn... I could have sworn you'd seen me naked before... it's crazy. "
+msgstr ""
+
+# game/Cell01_LY.rpy:790 #-#-# translate crowdin Quest2_LY_TalkRetake01_ec9cb3e6:
+msgid "[_ly_] It makes things even more interesting ahah!"
+msgstr ""
+
+# game/Cell01_LY.rpy:791 #-#-# translate crowdin Quest2_LY_TalkRetake01_7b1c1392:
+msgid "[_u_] ..."
+msgstr "[_u_] ..."
+
+# game/Cell01_LY.rpy:793 #-#-# translate crowdin Quest2_LY_TalkRetake01_6d250af1:
+msgid "[_ly_] I'm just teasing you!"
+msgstr ""
+
+# game/Cell01_LY.rpy:795 #-#-# translate crowdin Quest2_LY_TalkRetake01_57077ac7:
+msgid "[_ly_] Anyway, I'll be back."
+msgstr ""
+
+# game/Cell01_LY.rpy:797 #-#-# translate crowdin Quest2_LY_TalkRetake01_aebb67f5:
+msgid "[_ly_] You're going to laugh when you see this... "
+msgstr ""
+
+# game/Cell01_LY.rpy:803 #-#-# translate crowdin Quest2_LY_TalkRetake01_a3e79cda:
+msgid "[_ly_] It's ridiculous, isn't it?"
+msgstr ""
+
+# game/Cell01_LY.rpy:805 #-#-# translate crowdin Quest2_LY_TalkRetake01_1e546d24:
+msgid "[_ly_] It's the tightest skirt of all time!"
+msgstr ""
+
+# game/Cell01_LY.rpy:807 #-#-# translate crowdin Quest2_LY_TalkRetake01_861b343d:
+msgid "[_ly_] I think I messed up the measurements when I did that thing. "
+msgstr ""
+
+# game/Cell01_LY.rpy:808 #-#-# translate crowdin Quest2_LY_TalkRetake01_56bee648:
+msgid "[_u_] Wow... that's sexy. "
+msgstr ""
+
+# game/Cell01_LY.rpy:810 #-#-# translate crowdin Quest2_LY_TalkRetake01_3546e647:
+msgid "[_ly_] Are you making fun of me?"
+msgstr ""
+
+# game/Cell01_LY.rpy:812 #-#-# translate crowdin Quest2_LY_TalkRetake01_e7104647:
+msgid "[_ly_] I look like a waitress in a strip club!"
+msgstr ""
+
+# game/Cell01_LY.rpy:814 #-#-# translate crowdin Quest2_LY_TalkRetake01_b00d5141:
+msgid "[_ly_] Damn... this thing's way too short!"
+msgstr ""
+
+# game/Cell01_LY.rpy:816 #-#-# translate crowdin Quest2_LY_TalkRetake01_4d5f0bc9:
+msgid "[_ly_] Plus I never wear panties, so... "
+msgstr ""
+
+# game/Cell01_LY.rpy:818 #-#-# translate crowdin Quest2_LY_TalkRetake01_b70837e3:
+msgid "[_ly_] Hum..."
+msgstr ""
+
+# game/Cell01_LY.rpy:820 #-#-# translate crowdin Quest2_LY_TalkRetake01_ce8e3019:
+msgid "[_ly_] I mean..."
+msgstr ""
+
+# game/Cell01_LY.rpy:822 #-#-# translate crowdin Quest2_LY_TalkRetake01_f39d1f08:
+msgid "[_ly_] Anyway... "
+msgstr ""
+
+# game/Cell01_LY.rpy:824 #-#-# translate crowdin Quest2_LY_TalkRetake01_e5319408:
+msgid "[_ly_] If you like... we can look at my outfits whenever you want."
+msgstr ""
+
+# game/Cell01_LY.rpy:825 #-#-# translate crowdin Quest2_LY_TalkRetake01_d01d6283:
+msgid "[_u_] It would be a pleasure, Lyco!"
+msgstr ""
+
+# game/Cell01_LY.rpy:827 #-#-# translate crowdin Quest2_LY_TalkRetake01_bf553624_1:
+msgid "[_ly_] Great!"
+msgstr ""
+
+# game/Cell01_LY.rpy:832 #-#-# translate crowdin LY_Dress_02_04_Talk_858e6de2:
+msgid "[_u_] Don't you have an even more revealing version of this garment?"
+msgstr ""
+
+# game/Cell01_LY.rpy:836 #-#-# translate crowdin LY_Dress_02_04_Talk_64d4138e:
+msgid "[_ly_] Ahah I think it might be a bit too much for a work outfit!"
+msgstr ""
+
+# game/Cell01_LY.rpy:838 #-#-# translate crowdin LY_Dress_02_04_Talk_c16ea8b3:
+msgid "[_ly_] But..."
+msgstr ""
+
+# game/Cell01_LY.rpy:840 #-#-# translate crowdin LY_Dress_02_04_Talk_e6f2570d:
+msgid "[_ly_] Don't tell anyone, but after a few tries... I came up with something pretty cool... "
+msgstr ""
+
+# game/Cell01_LY.rpy:842 #-#-# translate crowdin LY_Dress_02_04_Talk_33dac2ee:
+msgid "[_ly_] This is just between us, okay?"
+msgstr ""
+
+# game/Cell01_LY.rpy:843 #-#-# translate crowdin LY_Dress_02_04_Talk_ce99e94e:
+msgid "[_u_] It's a pinky promise."
+msgstr ""
+
+# game/Cell01_LY.rpy:845 #-#-# translate crowdin LY_Dress_02_04_Talk_05e0dee8:
+msgid "[_ly_] Mh... ok don't move. "
+msgstr ""
+
+# game/Cell01_LY.rpy:848 #-#-# translate crowdin LY_Dress_02_04_Talk_a65a60f2:
+msgid "[_ly_] I don't know yet when I can wear this thing, but... "
+msgstr ""
+
+# game/Cell01_LY.rpy:849 #-#-# translate crowdin LY_Dress_02_04_Talk_b6d59c3f:
+msgid "[_ly_] Uhm... Don't you ever get up to any fancy parties around here? "
+msgstr ""
+
+# game/Cell01_LY.rpy:850 #-#-# translate crowdin LY_Dress_02_04_Talk_726df38a:
+msgid "[_u_] Not really, no."
+msgstr ""
+
+# game/Cell01_LY.rpy:851 #-#-# translate crowdin LY_Dress_02_04_Talk_e882baf3:
+msgid "[_ly_] Well, we'll have to organize some then!"
+msgstr ""
+
+# game/Cell01_LY.rpy:856 #-#-# translate crowdin LY_Dress_02_04_Talk_e7522fca:
+msgid "[_ly_] Not bad, eh? "
+msgstr ""
+
+# game/Cell01_LY.rpy:861 #-#-# translate crowdin LY_Dress_02_04_Talk_adbcc1f2:
+msgid "[_ly_] Thank you very much, my dear sir ~"
+msgstr ""
+
+# game/Cell01_LY.rpy:865 #-#-# translate crowdin LY_Dress_02_04_Talk_e577ad36:
+msgid "[_ly_] I don't think I've worn a dress this cool in ages!"
+msgstr ""
+
+# game/Cell01_LY.rpy:866 #-#-# translate crowdin LY_Dress_02_04_Talk_fbf2c1e8:
+msgid "[_u_] When are you gonna wear this?"
+msgstr ""
+
+# game/Cell01_LY.rpy:869 #-#-# translate crowdin LY_Dress_02_04_Talk_8e8d29af:
+msgid "[_ly_] Ohhh... a man who likes legs... now that's sexy."
+msgstr ""
+
+# game/Cell01_LY.rpy:871 #-#-# translate crowdin LY_Dress_02_04_Talk_2824670d:
+msgid "[_ly_] It's part of one of my favorite parts of my anatomy ahah "
+msgstr ""
+
+# game/Cell01_LY.rpy:872 #-#-# translate crowdin LY_Dress_02_04_Talk_aa2b18d5:
+msgid "[_u_] And what are the others? "
+msgstr ""
+
+# game/Cell01_LY.rpy:876 #-#-# translate crowdin LY_Dress_02_04_Talk_fa2be452:
+msgid "[_ly_] Hmm... I like my horns too... "
+msgstr ""
+
+# game/Cell01_LY.rpy:878 #-#-# translate crowdin LY_Dress_02_04_Talk_43999af7:
+msgid "[_ly_] And then my butt, my hips, my breasts..."
+msgstr ""
+
+# game/Cell01_LY.rpy:880 #-#-# translate crowdin LY_Dress_02_04_Talk_c81437c6:
+msgid "[_ly_] I just have a problem with my belly!"
+msgstr ""
+
+# game/Cell01_LY.rpy:882 #-#-# translate crowdin LY_Dress_02_04_Talk_63221d1b:
+msgid "[_ly_] I have too many abs for my taste... "
+msgstr ""
+
+# game/Cell01_LY.rpy:883 #-#-# translate crowdin LY_Dress_02_04_Talk_9559ec56:
+msgid "[_u_] It's truly an appalling problem. "
+msgstr ""
+
+# game/Cell01_LY.rpy:885 #-#-# translate crowdin LY_Dress_02_04_Talk_0ab0360c:
+msgid "[_ly_] Stop mocking me! Ahah!"
+msgstr ""
+
+# game/Cell01_LY.rpy:887 #-#-# translate crowdin LY_Dress_02_04_Talk_e65c1dbc:
+msgid "[_u_] And when are you going to wear that?"
+msgstr ""
+
+# game/Cell01_LY.rpy:890 #-#-# translate crowdin LY_Dress_02_04_Talk_3beb18e7:
+msgid "[_ly_] Are you ever satisfied with anything? "
+msgstr ""
+
+# game/Cell01_LY.rpy:891 #-#-# translate crowdin LY_Dress_02_04_Talk_61e0956f:
+msgid "[_u_] It can happen sometimes."
+msgstr ""
+
+# game/Cell01_LY.rpy:893 #-#-# translate crowdin LY_Dress_02_04_Talk_89bbd649:
+msgid "[_ly_] Anyway, it's a bit too much, indeed."
+msgstr ""
+
+# game/Cell01_LY.rpy:895 #-#-# translate crowdin LY_Dress_02_04_Talk_51860a8b:
+msgid "[_ly_] Did you want to talk about something else? "
+msgstr ""
+
+# game/Cell01_LY.rpy:902 #-#-# translate crowdin LY_Dress_02_04_Talk_d5f22503:
+msgid "[_ly_] Well... "
+msgstr ""
+
+# game/Cell01_LY.rpy:904 #-#-# translate crowdin LY_Dress_02_04_Talk_03b1cbd8:
+msgid "[_ly_] For a future party, I suppose... "
+msgstr ""
+
+# game/Cell01_LY.rpy:906 #-#-# translate crowdin LY_Dress_02_04_Talk_15fea34a:
+msgid "[_ly_] Yeah, I guess it would be a good opportunity to put this dress on."
+msgstr ""
+
+# game/Cell01_LY.rpy:907 #-#-# translate crowdin LY_Dress_02_04_Talk_fab05c47:
+msgid "[_u_] Maybe for the park's inauguration!"
+msgstr ""
+
+# game/Cell01_LY.rpy:909 #-#-# translate crowdin LY_Dress_02_04_Talk_fedd7cf1:
+msgid "[_ly_] That would be great!"
+msgstr ""
+
+# game/Cell01_LY.rpy:910 #-#-# translate crowdin LY_Dress_02_04_Talk_cacc2c1c:
+msgid "[_u_] Or you can wear it to work. "
+msgstr ""
+
+# game/Cell01_LY.rpy:912 #-#-# translate crowdin LY_Dress_02_04_Talk_d9ba5a56:
+msgid "[_ly_] And have nothing to wear for special occasions!?"
+msgstr ""
+
+# game/Cell01_LY.rpy:914 #-#-# translate crowdin LY_Dress_02_04_Talk_4182122f:
+msgid "[_ly_] Nah, never."
+msgstr ""
+
+# game/Cell01_LY.rpy:916 #-#-# translate crowdin LY_Dress_02_04_Talk_df3e6811:
+msgid "[_ly_] Anyway, in the meantime... I'm going to put it back in my closet!"
+msgstr ""
+
+# game/Cell01_LY.rpy:918 #-#-# translate crowdin LY_Dress_02_04_Talk_3eeb17d3:
+msgid "[_ly_] ..."
+msgstr ""
+
+# game/Cell01_LY.rpy:920 #-#-# translate crowdin LY_Dress_02_04_Talk_4d867cf2:
+msgid "[_ly_] Can't wait to finally have a party... "
+msgstr ""
+
+# game/Cell01_LY.rpy:930 #-#-# translate crowdin LY_TinkerOutfit04Retake01_01_e305cff5:
+msgid "[_ly_] Are you talking about clothing redesigns?"
+msgstr ""
+
+# game/Cell01_LY.rpy:931 #-#-# translate crowdin LY_TinkerOutfit04Retake01_01_0f07ccc4:
+msgid "[_u_] ?"
+msgstr "[_u_] Зачем?"
+
+# game/Cell01_LY.rpy:933 #-#-# translate crowdin LY_TinkerOutfit04Retake01_01_5bac05b5:
+msgid "[_ly_] Tinker just told me over the intercom. "
+msgstr ""
+
+# game/Cell01_LY.rpy:934 #-#-# translate crowdin LY_TinkerOutfit04Retake01_01_1918099d:
+msgid "[_u_] What's the point of sending me to talk to you if... "
+msgstr ""
+
+# game/Cell01_LY.rpy:936 #-#-# translate crowdin LY_TinkerOutfit04Retake01_01_9da89cd1:
+msgid "[_u_] Arg... Tinker..."
+msgstr ""
+
+# game/Cell01_LY.rpy:938 #-#-# translate crowdin LY_TinkerOutfit04Retake01_01_19a5b690:
+msgid "[_ly_] Anyway, if you need me to rework an existing outfit please don't hesitate to let me know!"
+msgstr ""
+
+# game/Cell01_LY.rpy:940 #-#-# translate crowdin LY_TinkerOutfit04Retake01_01_fa418341:
+msgid "[_ly_] I'll have a new blueprint ready for you in no time! "
+msgstr ""
+
+# game/Cell01_LY.rpy:942 #-#-# translate crowdin LY_TinkerOutfit04Retake01_01_d597e49e:
+msgid "[_ly_] I'm starting to get the hang of this machine."
+msgstr ""
+
+# game/Cell01_LY.rpy:948 #-#-# translate crowdin QuestChap2_LyStart_E_05_40215bf1:
+msgid "[_ly_] Is that so?"
+msgstr ""
+
+# game/Cell01_LY.rpy:950 #-#-# translate crowdin QuestChap2_LyStart_E_05_c5461fc3:
+msgid "[_ly_] Interesting! "
+msgstr ""
+
+# game/Cell01_LY.rpy:952 #-#-# translate crowdin QuestChap2_LyStart_E_05_dcbcb6cb:
+msgid "[_ly_] Very interesting... "
+msgstr ""
+
+# game/Cell01_LY.rpy:954 #-#-# translate crowdin QuestChap2_LyStart_E_05_255e039b:
+msgid "[_ly_] Mister plans to have a nice evening... "
+msgstr ""
+
+# game/Cell01_LY.rpy:955 #-#-# translate crowdin QuestChap2_LyStart_E_05_0f07ccc4:
+msgid "[_u_] ?"
+msgstr "[_u_] Зачем?"
+
+# game/Cell01_LY.rpy:957 #-#-# translate crowdin QuestChap2_LyStart_E_05_991240ae:
+msgid "[_ly_] Don't worry, don't be embarrassed! It's a pretty funny idea... "
+msgstr ""
+
+# game/Cell01_LY.rpy:959 #-#-# translate crowdin QuestChap2_LyStart_E_05_75e2a087:
+msgid "[_ly_] I must confess, I'd even like to make one for myself one day..."
+msgstr ""
+
+# game/Cell01_LY.rpy:960 #-#-# translate crowdin QuestChap2_LyStart_E_05_7eaf99f9:
+msgid "[_u_] Hum..."
+msgstr ""
+
+# game/Cell01_LY.rpy:962 #-#-# translate crowdin QuestChap2_LyStart_E_05_404a8fb5:
+msgid "[_ly_] So tell me... "
+msgstr ""
+
+# game/Cell01_LY.rpy:964 #-#-# translate crowdin QuestChap2_LyStart_E_05_13bf3984:
+msgid "[_ly_] Should I plan something to hide your love muscle or... ? "
+msgstr ""
+
+# game/Cell01_LY.rpy:965 #-#-# translate crowdin QuestChap2_LyStart_E_05_ba897751:
+msgid "[_u_] My...?"
+msgstr ""
+
+# game/Cell01_LY.rpy:967 #-#-# translate crowdin QuestChap2_LyStart_E_05_8dd61079:
+msgid "[_ly_] Don't you have a love muscle?"
+msgstr ""
+
+# game/Cell01_LY.rpy:968 #-#-# translate crowdin QuestChap2_LyStart_E_05_376fb0cd:
+msgid "[_u_] I think we misunderstood... it's not for me. "
+msgstr ""
+
+# game/Cell01_LY.rpy:969 #-#-# translate crowdin QuestChap2_LyStart_E_05_95203b26:
+msgid "[_u_] It's for Emee. "
+msgstr ""
+
+# game/Cell01_LY.rpy:971 #-#-# translate crowdin QuestChap2_LyStart_E_05_cbd0b249:
+msgid "[_ly_] Oh... that's..."
+msgstr ""
+
+# game/Cell01_LY.rpy:973 #-#-# translate crowdin QuestChap2_LyStart_E_05_c90e0d54:
+msgid "[_ly_] That's a shame. "
+msgstr ""
+
+# game/Cell01_LY.rpy:975 #-#-# translate crowdin QuestChap2_LyStart_E_05_212c7402:
+msgid "[_ly_] You sure you don't want a nice silk fuck outfit? "
+msgstr ""
+
+# game/Cell01_LY.rpy:976 #-#-# translate crowdin QuestChap2_LyStart_E_05_8d72281a:
+msgid "[_u_] That's very kind of you, but I'll pass."
+msgstr ""
+
+# game/Cell01_LY.rpy:978 #-#-# translate crowdin QuestChap2_LyStart_E_05_2a867688:
+msgid "[_ly_] That's too bad."
+msgstr ""
+
+# game/Cell01_LY.rpy:980 #-#-# translate crowdin QuestChap2_LyStart_E_05_ea95b09d:
+msgid "[_ly_] Er... Emee is the blue lady, right? "
+msgstr ""
+
+# game/Cell01_LY.rpy:981 #-#-# translate crowdin QuestChap2_LyStart_E_05_cdf953ad:
+msgid "[_u_] Correct."
+msgstr ""
+
+# game/Cell01_LY.rpy:983 #-#-# translate crowdin QuestChap2_LyStart_E_05_e1bc7904:
+msgid "[_ly_] So... let's think about it..."
+msgstr ""
+
+# game/Cell01_LY.rpy:985 #-#-# translate crowdin QuestChap2_LyStart_E_05_46cc4d52:
+msgid "[_ly_] We need silk! That's for sure! "
+msgstr ""
+
+# game/Cell01_LY.rpy:987 #-#-# translate crowdin QuestChap2_LyStart_E_05_1806ad0f:
+msgid "[_ly_] And jewelry!"
+msgstr ""
+
+# game/Cell01_LY.rpy:989 #-#-# translate crowdin QuestChap2_LyStart_E_05_e7b7b2b5:
+msgid "[_ly_] And some blue... Or maybe orange!"
+msgstr ""
+
+# game/Cell01_LY.rpy:991 #-#-# translate crowdin QuestChap2_LyStart_E_05_8e2075e0:
+msgid "[_ly_] What do you think? "
+msgstr ""
+
+# game/Cell01_LY.rpy:993 #-#-# translate crowdin QuestChap2_LyStart_E_05_9ca19447:
+msgid "[_ly_] Blue or Orange? "
+msgstr ""
+
+# game/Cell01_LY.rpy:1000 #-#-# translate crowdin QuestChap2_LyStart_E_05_546e545d:
+msgid "[_ly_] Orange you say?"
+msgstr ""
+
+# game/Cell01_LY.rpy:1002 #-#-# translate crowdin QuestChap2_LyStart_E_05_9149ac28:
+msgid "[_ly_] Mh... no. "
+msgstr ""
+
+# game/Cell01_LY.rpy:1004 #-#-# translate crowdin QuestChap2_LyStart_E_05_76fba711:
+msgid "[_ly_] I need a nice blue... a sensual blue... "
+msgstr ""
+
+# game/Cell01_LY.rpy:1007 #-#-# translate crowdin QuestChap2_LyStart_E_05_a0524f48:
+msgid "[_ly_] Nah... what a crazy idea that would be!"
+msgstr ""
+
+# game/Cell01_LY.rpy:1009 #-#-# translate crowdin QuestChap2_LyStart_E_05_311c0a2d:
+msgid "[_ly_] What a rebel you are!"
+msgstr ""
+
+# game/Cell01_LY.rpy:1011 #-#-# translate crowdin QuestChap2_LyStart_E_05_45e77b50:
+msgid "[_ly_] Well... blue it is!"
+msgstr ""
+
+# game/Cell01_LY.rpy:1014 #-#-# translate crowdin QuestChap2_LyStart_E_05_ae8d8862:
+msgid "[_ly_] And I would have loved to see a love muscle in that outfit. "
+msgstr ""
+
+# game/Cell01_LY.rpy:1016 #-#-# translate crowdin QuestChap2_LyStart_E_05_ecacb577:
+msgid "[_ly_] I think we'll both be disappointed. "
+msgstr ""
+
+# game/Cell01_LY.rpy:1018 #-#-# translate crowdin QuestChap2_LyStart_E_05_7f49ed68:
+msgid "[_ly_] I mean... no, there's going to be boobs... "
+msgstr ""
+
+# game/Cell01_LY.rpy:1020 #-#-# translate crowdin QuestChap2_LyStart_E_05_7edbfe42:
+msgid "[_ly_] Well then, I'll be the only one disappointed. You've won!"
+msgstr ""
+
+# game/Cell01_LY.rpy:1022 #-#-# translate crowdin QuestChap2_LyStart_E_05_99ad5c22:
+msgid "[_ly_] Ooooh! Blue! "
+msgstr ""
+
+# game/Cell01_LY.rpy:1024 #-#-# translate crowdin QuestChap2_LyStart_E_05_8b9343c1:
+msgid "[_ly_] Let's make it blue!"
+msgstr ""
+
+# game/Cell01_LY.rpy:1027 #-#-# translate crowdin QuestChap2_LyStart_E_05_bc918ca7:
+msgid "[_ly_] Mh... No, no, no... "
+msgstr ""
+
+# game/Cell01_LY.rpy:1029 #-#-# translate crowdin QuestChap2_LyStart_E_05_c4149ecf:
+msgid "[_ly_] She's already blue... that'd be too much... "
+msgstr ""
+
+# game/Cell01_LY.rpy:1031 #-#-# translate crowdin QuestChap2_LyStart_E_05_47a03b29:
+msgid "[_ly_] Or... would it make her even more naked? "
+msgstr ""
+
+# game/Cell01_LY.rpy:1033 #-#-# translate crowdin QuestChap2_LyStart_E_05_b0ab1592:
+msgid "[_ly_] Hm... "
+msgstr ""
+
+# game/Cell01_LY.rpy:1035 #-#-# translate crowdin QuestChap2_LyStart_E_05_2999eaba:
+msgid "[_ly_] That's quite an idea you've got!!"
+msgstr ""
+
+# game/Cell01_LY.rpy:1036 #-#-# translate crowdin QuestChap2_LyStart_E_05_31626d5e:
+msgid "[_u_] Um... you're welcome."
+msgstr ""
+
+# game/Cell01_LY.rpy:1038 #-#-# translate crowdin QuestChap2_LyStart_E_05_676c5949:
+msgid "[_ly_] You're such an artist!"
+msgstr ""
+
+# game/Cell01_LY.rpy:1040 #-#-# translate crowdin QuestChap2_LyStart_E_05_5b389264:
+msgid "[_ly_] I'll create the blueprint for this outfit in no time! "
+msgstr ""
+
+# game/Cell01_LY.rpy:1042 #-#-# translate crowdin QuestChap2_LyStart_E_05_93c3fe1b:
+msgid "[_ly_] And uh... "
+msgstr ""
+
+# game/Cell01_LY.rpy:1044 #-#-# translate crowdin QuestChap2_LyStart_E_05_f7930ca8:
+msgid "[_ly_] Do you think it would be too much if I made one for myself too? "
+msgstr ""
+
+# game/Cell01_LY.rpy:1045 #-#-# translate crowdin QuestChap2_LyStart_E_05_7b1c1392:
+msgid "[_u_] ..."
+msgstr "[_u_] ..."
+
+# game/Cell01_LY.rpy:1055 #-#-# translate crowdin QuestChap2_LyStart_E_05_menu1_P1_6e3895e0:
+msgid "[_u_] What do you want to do with it? "
+msgstr ""
+
+# game/Cell01_LY.rpy:1057 #-#-# translate crowdin QuestChap2_LyStart_E_05_menu1_P1_a7c11f2a:
+msgid "[_ly_] Well... I could go and see what the harem looks like!"
+msgstr ""
+
+# game/Cell01_LY.rpy:1059 #-#-# translate crowdin QuestChap2_LyStart_E_05_menu1_P1_89764220:
+msgid "[_ly_] I'd blend in perfectly!"
+msgstr ""
+
+# game/Cell01_LY.rpy:1061 #-#-# translate crowdin QuestChap2_LyStart_E_05_menu1_P1_00e205f4:
+msgid "[_ly_] And then I'll have it in my wardrobe... "
+msgstr ""
+
+# game/Cell01_LY.rpy:1063 #-#-# translate crowdin QuestChap2_LyStart_E_05_menu1_P1_bef41b45:
+msgid "[_ly_] It could be useful!"
+msgstr ""
+
+# game/Cell01_LY.rpy:1064 #-#-# translate crowdin QuestChap2_LyStart_E_05_menu1_P1_7b1c1392:
+msgid "[_u_] ..."
+msgstr "[_u_] ..."
+
+# game/Cell01_LY.rpy:1066 #-#-# translate crowdin QuestChap2_LyStart_E_05_menu1_P1_2e4b0d18:
+msgid "[_ly_] Very useful. "
+msgstr ""
+
+# game/Cell01_LY.rpy:1067 #-#-# translate crowdin QuestChap2_LyStart_E_05_menu1_P1_8a0b4298:
+msgid "[_u_] I get the picture."
+msgstr ""
+
+# game/Cell01_LY.rpy:1069 #-#-# translate crowdin QuestChap2_LyStart_E_05_menu1_P1_cf6eea95:
+msgid "[_ly_] I mean sex."
+msgstr ""
+
+# game/Cell01_LY.rpy:1070 #-#-# translate crowdin QuestChap2_LyStart_E_05_menu1_P1_2c873a2f:
+msgid "[_u_] I got it."
+msgstr ""
+
+# game/Cell01_LY.rpy:1072 #-#-# translate crowdin QuestChap2_LyStart_E_05_menu1_P1_6d44eaa3:
+msgid "[_ly_] Ehehe."
+msgstr ""
+
+# game/Cell01_LY.rpy:1083 #-#-# translate crowdin QuestChap2_LyStart_E_05_menu1_P1_9e88a740:
+msgid "[_ly_] Great! Thanks [name]!"
+msgstr ""
+
+# game/Cell01_LY.rpy:1085 #-#-# translate crowdin QuestChap2_LyStart_E_05_menu1_P1_c9e809cd:
+msgid "[_ly_] Ooooh I'm so excited!"
+msgstr ""
+
+# game/Cell01_LY.rpy:1087 #-#-# translate crowdin QuestChap2_LyStart_E_05_menu1_P1_6996bcb5:
+msgid "[_ly_] Get both outfits done quickly! I can't wait!!"
+msgstr ""
+
+# game/Cell01_LY.rpy:1089 #-#-# translate crowdin QuestChap2_LyStart_E_05_menu1_P1_d3597fe6:
+msgid "[_ly_] Anyway, thanks again!"
+msgstr ""
+
+# game/Cell01_LY.rpy:1092 #-#-# translate crowdin QuestChap2_LyStart_E_05_menu1_P1_3d84959c:
+msgid "[_ly_] Ok no worries ahah I totally understand. "
+msgstr ""
+
+# game/Cell01_LY.rpy:1094 #-#-# translate crowdin QuestChap2_LyStart_E_05_menu1_P1_79747ba8:
+msgid "[_ly_] We're all business, aren't we?"
+msgstr ""
+
+# game/Cell01_LY.rpy:1096 #-#-# translate crowdin QuestChap2_LyStart_E_05_menu1_P1_19f686f2:
+msgid "[_ly_] I'll make it quick! See you later [name]!"
+msgstr ""
+
+# game/Cell01_LY.rpy:1124 #-#-# translate crowdin QuestChap2_Jasmine01_03_menu01_P1_f550e318:
+msgid "[_ly_] The what? "
+msgstr ""
+
+# game/Cell01_LY.rpy:1125 #-#-# translate crowdin QuestChap2_Jasmine01_03_menu01_P1_6da3d481:
+msgid "[_u_] The outfit of the princess I'm trying to corrupt."
+msgstr ""
+
+# game/Cell01_LY.rpy:1127 #-#-# translate crowdin QuestChap2_Jasmine01_03_menu01_P1_f9e214f1:
+msgid "[_ly_] Uhm..."
+msgstr ""
+
+# game/Cell01_LY.rpy:1128 #-#-# translate crowdin QuestChap2_Jasmine01_03_menu01_P1_3eeb17d3:
+msgid "[_ly_] ..."
+msgstr ""
+
+# game/Cell01_LY.rpy:1131 #-#-# translate crowdin QuestChap2_Jasmine01_03_menu01_P1_ed0fe14b:
+msgid "[_ly_] It's the outfit that's a kind of sexy version of Scheherazade's outfit, isn't it?"
+msgstr ""
+
+# game/Cell01_LY.rpy:1133 #-#-# translate crowdin QuestChap2_Jasmine01_03_menu01_P1_4828264a:
+msgid "[_ly_] It's the outfit that's a kind of which is like... super sexual, isn't it?"
+msgstr ""
+
+# game/Cell01_LY.rpy:1134 #-#-# translate crowdin QuestChap2_Jasmine01_03_menu01_P1_f8a9ef77:
+msgid "[_u_] Yeah, I guess so."
+msgstr ""
+
+# game/Cell01_LY.rpy:1136 #-#-# translate crowdin QuestChap2_Jasmine01_03_menu01_P1_0d0636a4:
+msgid "[_ly_] Didn't I finish this one a long time ago? "
+msgstr ""
+
+# game/Cell01_LY.rpy:1138 #-#-# translate crowdin QuestChap2_Jasmine01_03_menu01_P1_55afe6f7:
+msgid "[_ly_] I probably forgot to tell you ahah"
+msgstr ""
+
+# game/Cell01_LY.rpy:1140 #-#-# translate crowdin QuestChap2_Jasmine01_03_menu01_P1_538d092a:
+msgid "[_ly_] Yeah, her outfit's done. "
+msgstr ""
+
+# game/Cell01_LY.rpy:1141 #-#-# translate crowdin QuestChap2_Jasmine01_03_menu01_P1_a35682ae:
+msgid "[_u_] Oh... "
+msgstr ""
+
+# game/Cell01_LY.rpy:1143 #-#-# translate crowdin QuestChap2_Jasmine01_03_menu01_P1_fd0a0913:
+msgid "[_ly_] Yeah sorry, I'm still having trouble getting organized with all the things I have to do ahah "
+msgstr ""
+
+# game/Cell01_LY.rpy:1145 #-#-# translate crowdin QuestChap2_Jasmine01_03_menu01_P1_c1ba7e0c:
+msgid "[_ly_] How's Jasmine's corruption going?"
+msgstr ""
+
+# game/Cell01_LY.rpy:1147 #-#-# translate crowdin QuestChap2_Jasmine01_03_menu01_P1_6ea3f19e:
+msgid "[_ly_] Isn't she... super stubborn and insufferable? "
+msgstr ""
+
+# game/Cell01_LY.rpy:1148 #-#-# translate crowdin QuestChap2_Jasmine01_03_menu01_P1_9efb78d7:
+msgid "[_u_] Yeah, that's for sure... she's not easy."
+msgstr ""
+
+# game/Cell01_LY.rpy:1150 #-#-# translate crowdin QuestChap2_Jasmine01_03_menu01_P1_668195b1:
+msgid "[_u_] But I think I can do it. "
+msgstr ""
+
+# game/Cell01_LY.rpy:1152 #-#-# translate crowdin QuestChap2_Jasmine01_03_menu01_P1_1e29e55d:
+msgid "[_ly_] So cool."
+msgstr ""
+
+# game/Cell01_LY.rpy:1154 #-#-# translate crowdin QuestChap2_Jasmine01_03_menu01_P1_afdd2f3b:
+msgid "[_ly_] I'd love to see how you manage to corrupt her. "
+msgstr ""
+
+# game/Cell01_LY.rpy:1156 #-#-# translate crowdin QuestChap2_Jasmine01_03_menu01_P1_797e2985:
+msgid "[_ly_] Well... I mean... "
+msgstr ""
+
+# game/Cell01_LY.rpy:1158 #-#-# translate crowdin QuestChap2_Jasmine01_03_menu01_P1_ed3a9261:
+msgid "[_ly_] I mean... must be a cool thing to do! "
+msgstr ""
+
+# game/Cell01_LY.rpy:1160 #-#-# translate crowdin QuestChap2_Jasmine01_03_menu01_P1_1f9abbcb:
+msgid "[_ly_] Yup... a pretty cool thing to do..."
+msgstr ""
+
+# game/Cell01_LY.rpy:1162 #-#-# translate crowdin QuestChap2_Jasmine01_03_menu01_P1_2f694181:
+msgid "[_ly_] If only I had the chance to try it... "
+msgstr ""
+
+# game/Cell01_LY.rpy:1163 #-#-# translate crowdin QuestChap2_Jasmine01_03_menu01_P1_3eeb17d3_1:
+msgid "[_ly_] ..."
+msgstr ""
+
+# game/Cell01_LY.rpy:1164 #-#-# translate crowdin QuestChap2_Jasmine01_03_menu01_P1_7b1c1392:
+msgid "[_u_] ..."
+msgstr "[_u_] ..."
+
+# game/Cell01_LY.rpy:1165 #-#-# translate crowdin QuestChap2_Jasmine01_03_menu01_P1_ec9c149e:
+msgid "[_u_] Do you want to..."
+msgstr ""
+
+# game/Cell01_LY.rpy:1167 #-#-# translate crowdin QuestChap2_Jasmine01_03_menu01_P1_3861f4e5:
+msgid "[_ly_] Oh yeah!!! That would be so cool!!!"
+msgstr ""
+
+# game/Cell01_LY.rpy:1169 #-#-# translate crowdin QuestChap2_Jasmine01_03_menu01_P1_de00a735:
+msgid "[_ly_] Well uh... if you need help of course... I wouldn't want to interfere. "
+msgstr ""
+
+# game/Cell01_LY.rpy:1171 #-#-# translate crowdin QuestChap2_Jasmine01_03_menu01_P1_3eeb17d3_2:
+msgid "[_ly_] ..."
+msgstr ""
+
+# game/Cell01_LY.rpy:1173 #-#-# translate crowdin QuestChap2_Jasmine01_03_menu01_P1_e0d1ad13:
+msgid "[_ly_] Don't I sound too much like a pervert? "
+msgstr ""
+
+# game/Cell01_LY.rpy:1174 #-#-# translate crowdin QuestChap2_Jasmine01_03_menu01_P1_98992fe9:
+msgid "[_u_] Just a little, but that's cool."
+msgstr ""
+
+# game/Cell01_LY.rpy:1176 #-#-# translate crowdin QuestChap2_Jasmine01_03_menu01_P1_d3244478:
+msgid "[_ly_] Great."
+msgstr ""
+
+# game/Cell01_LY.rpy:1189 #-#-# translate crowdin QuestChap2_Jasmine01_17_menu01_P1_0c970241:
+msgid "[_ly_] Oh yes, it's happened to me a few times. "
+msgstr ""
+
+# game/Cell01_LY.rpy:1191 #-#-# translate crowdin QuestChap2_Jasmine01_17_menu01_P1_6d8c0b4f:
+msgid "[_ly_] She has a very pretty nose from what I remember..."
+msgstr ""
+
+# game/Cell01_LY.rpy:1193 #-#-# translate crowdin QuestChap2_Jasmine01_17_menu01_P1_dc365008:
+msgid "[_ly_] A little too immature for my taste, if you ask me. "
+msgstr ""
+
+# game/Cell01_LY.rpy:1195 #-#-# translate crowdin QuestChap2_Jasmine01_17_menu01_P1_c9bda2d9:
+msgid "[_ly_] But if just for sex, she's kinda hot ahah "
+msgstr ""
+
+# game/Cell01_LY.rpy:1197 #-#-# translate crowdin QuestChap2_Jasmine01_17_menu01_P1_8fd56ab1:
+msgid "[_ly_] Strangely... I've never seen her naked... "
+msgstr ""
+
+# game/Cell01_LY.rpy:1198 #-#-# translate crowdin QuestChap2_Jasmine01_17_menu01_P1_d243cb36:
+msgid "[_u_] I've seen her naked."
+msgstr ""
+
+# game/Cell01_LY.rpy:1200 #-#-# translate crowdin QuestChap2_Jasmine01_17_menu01_P1_a23ed82d:
+msgid "[_ly_] Nah, really?"
+msgstr ""
+
+# game/Cell01_LY.rpy:1202 #-#-# translate crowdin QuestChap2_Jasmine01_17_menu01_P1_86470c83:
+msgid "[_ly_] Like... did you catch her naked? Did she know you were seeing her? "
+msgstr ""
+
+# game/Cell01_LY.rpy:1203 #-#-# translate crowdin QuestChap2_Jasmine01_17_menu01_P1_c0df76d6:
+msgid "[_u_] She undressed while dancing for me."
+msgstr ""
+
+# game/Cell01_LY.rpy:1205 #-#-# translate crowdin QuestChap2_Jasmine01_17_menu01_P1_7aad9cdc:
+msgid "[_ly_] Wow... I didn't think you'd corrupted her that much!"
+msgstr ""
+
+# game/Cell01_LY.rpy:1207 #-#-# translate crowdin QuestChap2_Jasmine01_17_menu01_P1_b54e6e94:
+msgid "[_ly_] Impressive. "
+msgstr ""
+
+# game/Cell01_LY.rpy:1209 #-#-# translate crowdin QuestChap2_Jasmine01_17_menu01_P1_68782bfb:
+msgid "[_ly_] And I'm almost jealous."
+msgstr ""
+
+# game/Cell01_LY.rpy:1219 #-#-# translate crowdin QuestChap2_Jasmine01_17_menu01_P2_cead6f22:
+msgid "[_ly_] YES!"
+msgstr ""
+
+# game/Cell01_LY.rpy:1221 #-#-# translate crowdin QuestChap2_Jasmine01_17_menu01_P2_1266cb3d:
+msgid "[_ly_] Uh... I mean... yeah. "
+msgstr ""
+
+# game/Cell01_LY.rpy:1222 #-#-# translate crowdin QuestChap2_Jasmine01_17_menu01_P2_5cb84b6e:
+msgid "[_u_] You know it's kind of... sexual? "
+msgstr ""
+
+# game/Cell01_LY.rpy:1224 #-#-# translate crowdin QuestChap2_Jasmine01_17_menu01_P2_657843d1:
+msgid "[_ly_] I'm counting on it, it's not funny otherwise. "
+msgstr ""
+
+# game/Cell01_LY.rpy:1235 #-#-# translate crowdin QuestChap2_Jasmine01_17_menu01_P2_946943bb:
+msgid "[_ly_] Awesome!"
+msgstr ""
+
+# game/Cell01_LY.rpy:1237 #-#-# translate crowdin QuestChap2_Jasmine01_17_menu01_P2_c05f492b:
+msgid "[_ly_] Oh and uh... Jasmine's new outfit should be available for creation immediately."
+msgstr ""
+
+# game/Cell01_LY.rpy:1239 #-#-# translate crowdin QuestChap2_Jasmine01_17_menu01_P2_98cfd8cc:
+msgid "[_ly_] And... let me know if you need me ahah. "
+msgstr ""
+
+# game/Cell01_LY.rpy:1241 #-#-# translate crowdin QuestChap2_Jasmine01_17_menu01_P2_bee5bde0:
+msgid "[_ly_] See you later [name]!"
+msgstr ""
+
+# game/Cell01_LY.rpy:1251 #-#-# translate crowdin Quest_JM_Favor_Ask2_Lyco_ec9a9efa:
+msgid "[_ly_] My sexual fantasy? "
+msgstr ""
+
+# game/Cell01_LY.rpy:1253 #-#-# translate crowdin Quest_JM_Favor_Ask2_Lyco_bc647081:
+msgid "[_ly_] Oh yes! Amandine told me you were going to ask me that question!"
+msgstr ""
+
+# game/Cell01_LY.rpy:1255 #-#-# translate crowdin Quest_JM_Favor_Ask2_Lyco_efb80569:
+msgid "[_ly_] So uh... let's see... "
+msgstr ""
+
+# game/Cell01_LY.rpy:1257 #-#-# translate crowdin Quest_JM_Favor_Ask2_Lyco_d96d9cff:
+msgid "[_ly_] I think I'd love to do it on Sherazade's bed. "
+msgstr ""
+
+# game/Cell01_LY.rpy:1258 #-#-# translate crowdin Quest_JM_Favor_Ask2_Lyco_c5446f18:
+msgid "[_u_] Really?"
+msgstr "[_u_] Правда?"
+
+# game/Cell01_LY.rpy:1260 #-#-# translate crowdin Quest_JM_Favor_Ask2_Lyco_763bd1c9:
+msgid "[_ly_] Oh yes... a magnificent royal bed with plants... overlooking the city... "
+msgstr ""
+
+# game/Cell01_LY.rpy:1262 #-#-# translate crowdin Quest_JM_Favor_Ask2_Lyco_87c3ef36:
+msgid "[_ly_] Now that's the dream."
+msgstr ""
+
+# game/Cell01_LY.rpy:1264 #-#-# translate crowdin Quest_JM_Favor_Ask2_Lyco_d7b97ffc:
+msgid "[_ly_] Oh, or in a brothel in the middle of a big orgy. "
+msgstr ""
+
+# game/Cell01_LY.rpy:1266 #-#-# translate crowdin Quest_JM_Favor_Ask2_Lyco_6096bed9:
+msgid "[_ly_] That's cool too. "
+msgstr ""
+
+# game/Cell01_LY.rpy:1267 #-#-# translate crowdin Quest_JM_Favor_Ask2_Lyco_f19e86fc:
+msgid "[_u_] Damn..."
+msgstr ""
+
+# game/Cell01_LY.rpy:1268 #-#-# translate crowdin Quest_JM_Favor_Ask2_Lyco_0bcf38cd:
+msgid "[_u_] I didn't think you were that cool. "
+msgstr ""
+
+# game/Cell01_LY.rpy:1270 #-#-# translate crowdin Quest_JM_Favor_Ask2_Lyco_17d811c6:
+msgid "[_ly_] Eheh"
+msgstr ""
+
+# game/Cell01_LY.rpy:1271 #-#-# translate crowdin Quest_JM_Favor_Ask2_Lyco_99a77ce4:
+msgid "[_u_] All right, well noted!"
+msgstr ""
+
+# game/Cell01_LY.rpy:1276 #-#-# translate crowdin Quest_JM_Favor_Ask2_Lyco_86b59053:
+msgid "[_u_] Ok great, only [Quest_JM_Favor_Ask2_Number] more employees to question."
+msgstr "[_u_] Отлично, осталось спросить только [Quest_JM_Favor_Ask2_Number] сотрудников."
+
+# game/Cell01_LY.rpy:1282 #-#-# translate crowdin Quest_JM_Favor_Ask2_Lyco_68531393:
+msgid "[_ly_] Do you need anything else?"
+msgstr "[_ly_] Тебе нужно что-нибудь еще?"
+
+# game/Cell01_LY.rpy:1292 #-#-# translate crowdin QuestChap2_LySZ_ClothesQuest01_02_f16c536d:
+msgid "[_u_] Lyco?"
+msgstr ""
+
+# game/Cell01_LY.rpy:1293 #-#-# translate crowdin QuestChap2_LySZ_ClothesQuest01_02_7b1c1392:
+msgid "[_u_] ..."
+msgstr "[_u_] ..."
+
+# game/Cell01_LY.rpy:1299 #-#-# translate crowdin QuestChap2_LySZ_ClothesQuest01_02_5ae7d05c:
+msgid "[_a_] Hi! If you're looking for Lycoris, I think she's gone for a shower. "
+msgstr ""
+
+# game/Cell01_LY.rpy:1300 #-#-# translate crowdin QuestChap2_LySZ_ClothesQuest01_02_a50d924f:
+msgid "[_u_] Oh... I had to see her about Scheherazade's clothes... "
+msgstr ""
+
+# game/Cell01_LY.rpy:1301 #-#-# translate crowdin QuestChap2_LySZ_ClothesQuest01_02_730011b6:
+msgid "[_u_] Do you know when she'll be back? "
+msgstr ""
+
+# game/Cell01_LY.rpy:1303 #-#-# translate crowdin QuestChap2_LySZ_ClothesQuest01_02_9b9b06b6:
+msgid "[_a_] Wow, I have no idea! "
+msgstr ""
+
+# game/Cell01_LY.rpy:1305 #-#-# translate crowdin QuestChap2_LySZ_ClothesQuest01_02_c41cc56f:
+msgid "[_a_] I've been waiting for an hour for her to come back so I can take a shower too. "
+msgstr ""
+
+# game/Cell01_LY.rpy:1307 #-#-# translate crowdin QuestChap2_LySZ_ClothesQuest01_02_b72aa488:
+msgid "[_a_] That chick could stay under hot water for a whole day!"
+msgstr ""
+
+# game/Cell01_LY.rpy:1309 #-#-# translate crowdin QuestChap2_LySZ_ClothesQuest01_02_af7c7d72:
+msgid "[_a_] It's a good thing the hot water here is ilimited. "
+msgstr ""
+
+# game/Cell01_LY.rpy:1310 #-#-# translate crowdin QuestChap2_LySZ_ClothesQuest01_02_5aff2ebe:
+msgid "[_u_] I see..."
+msgstr ""
+
+# game/Cell01_LY.rpy:1312 #-#-# translate crowdin QuestChap2_LySZ_ClothesQuest01_02_972c6db6:
+msgid "[_a_] By the way, things are going well with Sherazade!"
+msgstr ""
+
+# game/Cell01_LY.rpy:1314 #-#-# translate crowdin QuestChap2_LySZ_ClothesQuest01_02_b16c1028:
+msgid "[_a_] She's finally taken her top off!"
+msgstr ""
+
+# game/Cell01_LY.rpy:1316 #-#-# translate crowdin QuestChap2_LySZ_ClothesQuest01_02_2c2a41a8:
+msgid "[_u_] I'll claim victory when I finally see her breasts."
+msgstr ""
+
+# game/Cell01_LY.rpy:1332 #-#-# translate crowdin QuestChap2_LySZ_ClothesQuest01_02_P1_85ee6c17:
+msgid "[_a_] I'm working on Sherazade's future scenario."
+msgstr ""
+
+# game/Cell01_LY.rpy:1334 #-#-# translate crowdin QuestChap2_LySZ_ClothesQuest01_02_P1_cb9c3ade:
+msgid "[_a_] And I must confess that I draw a lot of inspiration from your corruption work! "
+msgstr ""
+
+# game/Cell01_LY.rpy:1336 #-#-# translate crowdin QuestChap2_LySZ_ClothesQuest01_02_P1_f6d821b6:
+msgid "[_u_] So I've become a kind of muse?"
+msgstr ""
+
+# game/Cell01_LY.rpy:1338 #-#-# translate crowdin QuestChap2_LySZ_ClothesQuest01_02_P1_2fc17846:
+msgid "[_a_] If it makes you happy."
+msgstr ""
+
+# game/Cell01_LY.rpy:1340 #-#-# translate crowdin QuestChap2_LySZ_ClothesQuest01_02_P1_45236733:
+msgid "[_a_] Anyway, future park visitors won't be disappointed I think! Ahah!"
+msgstr ""
+
+# game/Cell01_LY.rpy:1342 #-#-# translate crowdin QuestChap2_LySZ_ClothesQuest01_02_P1_a454c89f:
+msgid "[_u_] I'm almost jealous of them. "
+msgstr ""
+
+# game/Cell01_LY.rpy:1344 #-#-# translate crowdin QuestChap2_LySZ_ClothesQuest01_02_P1_f626c495:
+msgid "[_a_] Same."
+msgstr ""
+
+# game/Cell01_LY.rpy:1352 #-#-# translate crowdin QuestChap2_LySZ_ClothesQuest01_02_P2_65fd65d7:
+msgid "[_a_] Well, yes!"
+msgstr ""
+
+# game/Cell01_LY.rpy:1354 #-#-# translate crowdin QuestChap2_LySZ_ClothesQuest01_02_P2_8a86e2a8:
+msgid "[_a_] I need to know where her corruption stands!"
+msgstr ""
+
+# game/Cell01_LY.rpy:1356 #-#-# translate crowdin QuestChap2_LySZ_ClothesQuest01_02_P2_30f06208:
+msgid "[_a_] It's going to be hard to help you otherwise. "
+msgstr ""
+
+# game/Cell01_LY.rpy:1358 #-#-# translate crowdin QuestChap2_LySZ_ClothesQuest01_02_P2_7724dfda:
+msgid "[_a_] But... I have to admit that when things get more... sexual... "
+msgstr ""
+
+# game/Cell01_LY.rpy:1360 #-#-# translate crowdin QuestChap2_LySZ_ClothesQuest01_02_P2_a5cfb354:
+msgid "[_a_] I'm not sure I'd watch you do dirty things with her!"
+msgstr ""
+
+# game/Cell01_LY.rpy:1362 #-#-# translate crowdin QuestChap2_LySZ_ClothesQuest01_02_P2_a7d26f1b:
+msgid "[_u_] Ah? Why's that?"
+msgstr ""
+
+# game/Cell01_LY.rpy:1364 #-#-# translate crowdin QuestChap2_LySZ_ClothesQuest01_02_P2_0186fd56:
+msgid "[_a_] Well, it's... still you fucking someone! I don't want to be a Peeping Tom. "
+msgstr ""
+
+# game/Cell01_LY.rpy:1365 #-#-# translate crowdin QuestChap2_LySZ_ClothesQuest01_02_P2_0805f950:
+msgid "[_u_] That's very kind of you. But I really don't mind. "
+msgstr ""
+
+# game/Cell01_LY.rpy:1367 #-#-# translate crowdin QuestChap2_LySZ_ClothesQuest01_02_P2_c7bc09c0:
+msgid "[_a_] Really? "
+msgstr ""
+
+# game/Cell01_LY.rpy:1369 #-#-# translate crowdin QuestChap2_LySZ_ClothesQuest01_02_P2_58705e71:
+msgid "[_a_] Well... I don't know how you do that."
+msgstr ""
+
+# game/Cell01_LY.rpy:1371 #-#-# translate crowdin QuestChap2_LySZ_ClothesQuest01_02_P2_694017dd:
+msgid "[_a_] I'm not sure if I could let someone watch me have sex so easily!"
+msgstr ""
+
+# game/Cell01_LY.rpy:1372 #-#-# translate crowdin QuestChap2_LySZ_ClothesQuest01_02_P2_f843ed42:
+msgid "[_u_] It takes time to get rid of modesty. I mean... if you want to get rid of it."
+msgstr ""
+
+# game/Cell01_LY.rpy:1374 #-#-# translate crowdin QuestChap2_LySZ_ClothesQuest01_02_P2_edb5f315:
+msgid "[_u_] There's nothing wrong with being modest. "
+msgstr ""
+
+# game/Cell01_LY.rpy:1376 #-#-# translate crowdin QuestChap2_LySZ_ClothesQuest01_02_P2_0b0aad28:
+msgid "[_a_] I wouldn't mind being a little less... uptight on certain subjects. "
+msgstr ""
+
+# game/Cell01_LY.rpy:1385 #-#-# translate crowdin QuestChap2_LySZ_ClothesQuest01_02_P3_08699262:
+msgid "[_a_] Like... It's hard for me to get into the shower at the same time as someone else. "
+msgstr ""
+
+# game/Cell01_LY.rpy:1387 #-#-# translate crowdin QuestChap2_LySZ_ClothesQuest01_02_P3_42f9dcb3:
+msgid "[_a_] I mean, just so we're clear, in private I have no problem being naked!"
+msgstr ""
+
+# game/Cell01_LY.rpy:1389 #-#-# translate crowdin QuestChap2_LySZ_ClothesQuest01_02_P3_95a76385:
+msgid "[_a_] I'm not a nun!"
+msgstr ""
+
+# game/Cell01_LY.rpy:1391 #-#-# translate crowdin QuestChap2_LySZ_ClothesQuest01_02_P3_9bb48516:
+msgid "[_a_] But being naked in public... I don't know how you do that."
+msgstr ""
+
+# game/Cell01_LY.rpy:1392 #-#-# translate crowdin QuestChap2_LySZ_ClothesQuest01_02_P3_97d40469:
+msgid "[_u_] Have you ever just kind of... shown people your boobs for fun? "
+msgstr ""
+
+# game/Cell01_LY.rpy:1394 #-#-# translate crowdin QuestChap2_LySZ_ClothesQuest01_02_P3_3f246fd3:
+msgid "[_a_] If I'd done that, my breasts would have been on the front page of celebrity magazines for two weeks."
+msgstr ""
+
+# game/Cell01_LY.rpy:1395 #-#-# translate crowdin QuestChap2_LySZ_ClothesQuest01_02_P3_4fb05bda:
+msgid "[_u_] Really? Two weeks? "
+msgstr ""
+
+# game/Cell01_LY.rpy:1397 #-#-# translate crowdin QuestChap2_LySZ_ClothesQuest01_02_P3_c7caa925:
+msgid "[_a_] A photo of me in a bikini at the beach was once on the front cover for a week. "
+msgstr ""
+
+# game/Cell01_LY.rpy:1399 #-#-# translate crowdin QuestChap2_LySZ_ClothesQuest01_02_P3_3c8780fe:
+msgid "[_a_] So yes, a boob shot, that's at least two weeks."
+msgstr ""
+
+# game/Cell01_LY.rpy:1400 #-#-# translate crowdin QuestChap2_LySZ_ClothesQuest01_02_P3_f8565a86:
+msgid "[_u_] What if a sex tape leaks? "
+msgstr ""
+
+# game/Cell01_LY.rpy:1402 #-#-# translate crowdin QuestChap2_LySZ_ClothesQuest01_02_P3_59f35719:
+msgid "[_a_] I don't think the galaxy would never recover from that! Ahah!"
+msgstr ""
+
+# game/Cell01_LY.rpy:1411 #-#-# translate crowdin QuestChap2_LySZ_ClothesQuest01_02_P4_aa2567bb:
+msgid "[_a_] Of course, on my private beach, surrounded by walls and barbed wire."
+msgstr ""
+
+# game/Cell01_LY.rpy:1413 #-#-# translate crowdin QuestChap2_LySZ_ClothesQuest01_02_P4_1e351cb8:
+msgid "[_a_] And all my household staff had to be blindfolded. "
+msgstr ""
+
+# game/Cell01_LY.rpy:1415 #-#-# translate crowdin QuestChap2_LySZ_ClothesQuest01_02_P4_6f253257:
+msgid "[_a_] On the other hand, it was much harder for them to serve me mojitos."
+msgstr ""
+
+# game/Cell01_LY.rpy:1416 #-#-# translate crowdin QuestChap2_LySZ_ClothesQuest01_02_P4_3983eb8d:
+msgid "[_u_] You're making fun of me, right?"
+msgstr ""
+
+# game/Cell01_LY.rpy:1418 #-#-# translate crowdin QuestChap2_LySZ_ClothesQuest01_02_P4_b42bf1bb:
+msgid "[_a_] Completely."
+msgstr ""
+
+# game/Cell01_LY.rpy:1420 #-#-# translate crowdin QuestChap2_LySZ_ClothesQuest01_02_P4_b00aadca:
+msgid "[_a_] So... no, I've never been naked at the beach. "
+msgstr ""
+
+# game/Cell01_LY.rpy:1430 #-#-# translate crowdin QuestChap2_LySZ_ClothesQuest01_02_P4_454b9d3f:
+msgid "[_a_] Frankly, if you don't want to wait, go and see if she's still in the showers. "
+msgstr ""
+
+# game/Cell01_LY.rpy:1432 #-#-# translate crowdin QuestChap2_LySZ_ClothesQuest01_02_P4_dd22c4b9:
+msgid "[_a_] At worst you'll see a red butt!"
+msgstr ""
+
+# game/Cell01_LY.rpy:1433 #-#-# translate crowdin QuestChap2_LySZ_ClothesQuest01_02_P4_45c3bea1:
+msgid "[_u_] Are you encouraging me to go see her so she can get out of the shower faster? "
+msgstr ""
+
+# game/Cell01_LY.rpy:1435 #-#-# translate crowdin QuestChap2_LySZ_ClothesQuest01_02_P4_210c06eb:
+msgid "[_a_] Yes."
+msgstr "[_a_] Да."
+
+# game/Cell01_LY.rpy:1436 #-#-# translate crowdin QuestChap2_LySZ_ClothesQuest01_02_P4_bb76b34a:
+msgid "[_u_] Well... okay. See you later, Amandine. "
+msgstr ""
+
+# game/Cell01_LY.rpy:1438 #-#-# translate crowdin QuestChap2_LySZ_ClothesQuest01_02_P4_93517252:
+msgid "[_a_] See ya!"
+msgstr ""
+
+# game/Cell01_LY.rpy:1450 #-#-# translate crowdin QuestChap2_LySZ_ClothesQuest01_02_P4_3ff629bb:
+msgid "[_u_] Lyco? Are you there? "
+msgstr ""
+
+# game/Cell01_LY.rpy:1455 #-#-# translate crowdin QuestChap2_LySZ_ClothesQuest01_02_P4_6fbb2e47:
+msgid "[_ly_] Hey! Hello there!"
+msgstr ""
+
+# game/Cell01_LY.rpy:1457 #-#-# translate crowdin QuestChap2_LySZ_ClothesQuest01_02_P4_e291745f:
+msgid "[_ly_] What are you doing here?"
+msgstr ""
+
+# game/Cell01_LY.rpy:1458 #-#-# translate crowdin QuestChap2_LySZ_ClothesQuest01_02_P4_93864add:
+msgid "[_u_] Looking for you. Amandine told me you'd be here."
+msgstr ""
+
+# game/Cell01_LY.rpy:1460 #-#-# translate crowdin QuestChap2_LySZ_ClothesQuest01_02_P4_04a1214f:
+msgid "[_ly_] Well you're in luck, I just finished drying my hair!"
+msgstr ""
+
+# game/Cell01_LY.rpy:1462 #-#-# translate crowdin QuestChap2_LySZ_ClothesQuest01_02_P4_a1f0944c:
+msgid "[_ly_] Wouldn't it have been silly if you'd run into me naked? Eheh "
+msgstr ""
+
+# game/Cell01_LY.rpy:1464 #-#-# translate crowdin QuestChap2_LySZ_ClothesQuest01_02_P4_946293d3:
+msgid "[_ly_] By the way... you don't come here often... am I right? "
+msgstr ""
+
+# game/Cell01_LY.rpy:1465 #-#-# translate crowdin QuestChap2_LySZ_ClothesQuest01_02_P4_35cc851b:
+msgid "[_u_] It's the first time I've even been here during the day."
+msgstr ""
+
+# game/Cell01_LY.rpy:1467 #-#-# translate crowdin QuestChap2_LySZ_ClothesQuest01_02_P4_528bb2f9:
+msgid "[_u_] It's usually dark when I come back from a mission. "
+msgstr ""
+
+# game/Cell01_LY.rpy:1469 #-#-# translate crowdin QuestChap2_LySZ_ClothesQuest01_02_P4_06af4650:
+msgid "[_ly_] At least you won't bump into anyone!"
+msgstr ""
+
+# game/Cell01_LY.rpy:1471 #-#-# translate crowdin QuestChap2_LySZ_ClothesQuest01_02_P4_1287b3b9:
+msgid "[_ly_] Last time... Amelia made me brush her hair for 1 hour... "
+msgstr ""
+
+# game/Cell01_LY.rpy:1473 #-#-# translate crowdin QuestChap2_LySZ_ClothesQuest01_02_P4_bc54e471:
+msgid "[_ly_] My arm's still aching..."
+msgstr ""
+
+# game/Cell01_LY.rpy:1475 #-#-# translate crowdin QuestChap2_LySZ_ClothesQuest01_02_P4_f50947df:
+msgid "[_ly_] Anyway, you were looking for me?"
+msgstr ""
+
+# game/Cell01_LY.rpy:1489 #-#-# translate crowdin QuestChap2_LySZ_ClothesQuest01_02_menu2_P1_e0b2ca43:
+msgid "[_ly_] Yeaaaahh... Amandine lent it to me. "
+msgstr ""
+
+# game/Cell01_LY.rpy:1491 #-#-# translate crowdin QuestChap2_LySZ_ClothesQuest01_02_menu2_P1_d9443de5:
+msgid "[_ly_] It's amazing how sweet it is..."
+msgstr ""
+
+# game/Cell01_LY.rpy:1493 #-#-# translate crowdin QuestChap2_LySZ_ClothesQuest01_02_menu2_P1_d31b99d8:
+msgid "[_ly_] I still feel naked wearing it!"
+msgstr ""
+
+# game/Cell01_LY.rpy:1494 #-#-# translate crowdin QuestChap2_LySZ_ClothesQuest01_02_menu2_P1_841d4f51:
+msgid "[_u_] Doesn't she... have a third one for me?"
+msgstr ""
+
+# game/Cell01_LY.rpy:1496 #-#-# translate crowdin QuestChap2_LySZ_ClothesQuest01_02_menu2_P1_2b8b8a6c:
+msgid "[_ly_] Sorry, she lent me the only other one she has. "
+msgstr ""
+
+# game/Cell01_LY.rpy:1497 #-#-# translate crowdin QuestChap2_LySZ_ClothesQuest01_02_menu2_P1_f31c5072:
+msgid "[_u_] Damn."
+msgstr ""
+
+# game/Cell01_LY.rpy:1506 #-#-# translate crowdin QuestChap2_LySZ_ClothesQuest01_02_menu2_P2_07ae4f3a:
+msgid "[_ly_] Nah, I don't mind. "
+msgstr ""
+
+# game/Cell01_LY.rpy:1508 #-#-# translate crowdin QuestChap2_LySZ_ClothesQuest01_02_menu2_P2_700558bd:
+msgid "[_ly_] In fact, I think it's great! "
+msgstr ""
+
+# game/Cell01_LY.rpy:1510 #-#-# translate crowdin QuestChap2_LySZ_ClothesQuest01_02_menu2_P2_75df8f03:
+msgid "[_ly_] It's a great way to socialize with my co-workers!"
+msgstr ""
+
+# game/Cell01_LY.rpy:1512 #-#-# translate crowdin QuestChap2_LySZ_ClothesQuest01_02_menu2_P2_19028e5c:
+msgid "[_u_] Yeah, what better way to get to know your colleagues than naked in the shower! "
+msgstr ""
+
+# game/Cell01_LY.rpy:1514 #-#-# translate crowdin QuestChap2_LySZ_ClothesQuest01_02_menu2_P2_ee0c193e:
+msgid "[_ly_] Exactly!"
+msgstr ""
+
+# game/Cell01_LY.rpy:1516 #-#-# translate crowdin QuestChap2_LySZ_ClothesQuest01_02_menu2_P2_154a183b:
+msgid "[_ly_] It's crazy... now that I think about it... I think I've seen Amelia more naked than dressed..."
+msgstr ""
+
+# game/Cell01_LY.rpy:1518 #-#-# translate crowdin QuestChap2_LySZ_ClothesQuest01_02_menu2_P2_846e4c08:
+msgid "[_ly_] I should visit her in her office more often. "
+msgstr ""
+
+# game/Cell01_LY.rpy:1528 #-#-# translate crowdin QuestChap2_LySZ_ClothesQuest01_02_menu2_P3_a1fddf10:
+msgid "[_ly_] Uh... well... Melissandre comes by in the morning sometimes... "
+msgstr ""
+
+# game/Cell01_LY.rpy:1530 #-#-# translate crowdin QuestChap2_LySZ_ClothesQuest01_02_menu2_P3_ad0efebb:
+msgid "[_ly_] She seems nice. "
+msgstr ""
+
+# game/Cell01_LY.rpy:1532 #-#-# translate crowdin QuestChap2_LySZ_ClothesQuest01_02_menu2_P3_1c658c2a:
+msgid "[_ly_] I learned she was an android when I saw her change hair color with a cough!"
+msgstr ""
+
+# game/Cell01_LY.rpy:1534 #-#-# translate crowdin QuestChap2_LySZ_ClothesQuest01_02_menu2_P3_3b280263:
+msgid "[_ly_] I think I let out a little scream of fear at that moment!"
+msgstr ""
+
+# game/Cell01_LY.rpy:1536 #-#-# translate crowdin QuestChap2_LySZ_ClothesQuest01_02_menu2_P3_9cf888ab:
+msgid "[_ly_] Anyway, and other than that... I once ran into Emee in a towel. "
+msgstr ""
+
+# game/Cell01_LY.rpy:1538 #-#-# translate crowdin QuestChap2_LySZ_ClothesQuest01_02_menu2_P3_84b8d777:
+msgid "[_ly_] And that's all."
+msgstr ""
+
+# game/Cell01_LY.rpy:1540 #-#-# translate crowdin QuestChap2_LySZ_ClothesQuest01_02_menu2_P3_6e0be7c8:
+msgid "[_ly_] We're really not many in this headquarters! Ahah..."
+msgstr ""
+
+# game/Cell01_LY.rpy:1552 #-#-# translate crowdin QuestChap2_LySZ_ClothesQuest01_02_menu2_P1_2d0b1a6c:
+msgid "[_ly_] I've never actually seen her here!"
+msgstr ""
+
+# game/Cell01_LY.rpy:1554 #-#-# translate crowdin QuestChap2_LySZ_ClothesQuest01_02_menu2_P1_26214044:
+msgid "[_ly_] And I would have remembered!"
+msgstr ""
+
+# game/Cell01_LY.rpy:1556 #-#-# translate crowdin QuestChap2_LySZ_ClothesQuest01_02_menu2_P1_1669d235:
+msgid "[_ly_] You don't often see an Amandine de Beauregard buck-naked Ahah!"
+msgstr ""
+
+# game/Cell01_LY.rpy:1558 #-#-# translate crowdin QuestChap2_LySZ_ClothesQuest01_02_menu2_P1_daaa6139:
+msgid "[_ly_] It's a rare animal."
+msgstr ""
+
+# game/Cell01_LY.rpy:1568 #-#-# translate crowdin QuestChap2_LySZ_ClothesQuest01_02_menu2_P1_65385e47:
+msgid "[_ly_] Oh yes! Sure!"
+msgstr ""
+
+# game/Cell01_LY.rpy:1570 #-#-# translate crowdin QuestChap2_LySZ_ClothesQuest01_02_menu2_P1_7f4fca6a:
+msgid "[_ly_] Do you mind if we talk about it here?"
+msgstr ""
+
+# game/Cell01_LY.rpy:1572 #-#-# translate crowdin QuestChap2_LySZ_ClothesQuest01_02_menu2_P1_6e421483:
+msgid "[_ly_] I wouldn't want you to be embarrassed by seeing me so naked."
+msgstr ""
+
+# game/Cell01_LY.rpy:1573 #-#-# translate crowdin QuestChap2_LySZ_ClothesQuest01_02_menu2_P1_1d82813a:
+msgid "[_u_] It's going to take more than that to embarrass me, Lyco. "
+msgstr ""
+
+# game/Cell01_LY.rpy:1575 #-#-# translate crowdin QuestChap2_LySZ_ClothesQuest01_02_menu2_P1_eebbb3a2:
+msgid "[_ly_] Eheh... "
+msgstr ""
+
+# game/Cell01_LY.rpy:1577 #-#-# translate crowdin QuestChap2_LySZ_ClothesQuest01_02_menu2_P1_f3402022:
+msgid "[_ly_] Anyway, I've been thinking about it, and I think it would be cool to... make Sherazade's outfit sexier. "
+msgstr ""
+
+# game/Cell01_LY.rpy:1579 #-#-# translate crowdin QuestChap2_LySZ_ClothesQuest01_02_menu2_P1_611836f2:
+msgid "[_ly_] We just need to ask Melisandre if one of her drones can steal Sherazade's outfit."
+msgstr ""
+
+# game/Cell01_LY.rpy:1580 #-#-# translate crowdin QuestChap2_LySZ_ClothesQuest01_02_menu2_P1_a69578e5:
+msgid "[_u_] Okay, I'll ask her that."
+msgstr ""
+
+# game/Cell01_LY.rpy:1582 #-#-# translate crowdin QuestChap2_LySZ_ClothesQuest01_02_menu2_P1_ad2e20b8:
+msgid "[_ly_] Oh, and... "
+msgstr ""
+
+# game/Cell01_LY.rpy:1584 #-#-# translate crowdin QuestChap2_LySZ_ClothesQuest01_02_menu2_P1_5a93012b:
+msgid "[_ly_] I've recently received a few more requests for clothes rework... "
+msgstr ""
+
+# game/Cell01_LY.rpy:1586 #-#-# translate crowdin QuestChap2_LySZ_ClothesQuest01_02_menu2_P1_9887ed90:
+msgid "[_ly_] Want to take a look now? "
+msgstr ""
+
+# game/Cell01_LY.rpy:1591 #-#-# translate crowdin QuestChap2_LySZ_ClothesQuest01_02_menu2_P1_1ad8a515:
+msgid "[_ly_] Don't worry, see you later!"
+msgstr ""
+
+# game/Cell01_LY.rpy:1599 #-#-# translate crowdin QuestChap2_LySZ_ClothesQuest01_02_menu2_P1_ce86f680:
+msgid "[_ly_] Great! "
+msgstr ""
+
+# game/Cell01_LY.rpy:1601 #-#-# translate crowdin QuestChap2_LySZ_ClothesQuest01_02_menu2_P1_9ade8a57:
+msgid "[_ly_] Go wait for me in the workroom!"
+msgstr ""
+
+# game/Cell01_LY.rpy:1603 #-#-# translate crowdin QuestChap2_LySZ_ClothesQuest01_02_menu2_P1_9a29a7e0:
+msgid "[_ly_] I'm not going to strip in front of you like that!"
+msgstr ""
+
+# game/Cell01_LY.rpy:1604 #-#-# translate crowdin QuestChap2_LySZ_ClothesQuest01_02_menu2_P1_d337807a:
+msgid "[_u_] Mh..."
+msgstr "[_u_] Ммм..."
+
+# game/Cell01_LY.rpy:1606 #-#-# translate crowdin QuestChap2_LySZ_ClothesQuest01_02_menu2_P1_31bdad41:
+msgid "[_ly_] Shoo!"
+msgstr ""
+
+# game/Cell01_LY.rpy:1619 #-#-# translate crowdin QuestChap2_LySZ_ClothesQuest01_02_menu2_P1_0c3b1348:
+msgid "[_ly_] So, let's see..."
+msgstr ""
+
+# game/Cell01_LY.rpy:1621 #-#-# translate crowdin QuestChap2_LySZ_ClothesQuest01_02_menu2_P1_90835f97:
+msgid "[_ly_] I think we've... Melissandre... Emee... and Amandine!"
+msgstr ""
+
+# game/Cell01_LY.rpy:1623 #-#-# translate crowdin QuestChap2_LySZ_ClothesQuest01_02_menu2_P1_cd0f51cf:
+msgid "[_ly_] Lots of things to do..."
+msgstr ""
+
+# game/Cell01_LY.rpy:1632 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_03_f16c536d:
+msgid "[_u_] Lyco?"
+msgstr ""
+
+# game/Cell01_LY.rpy:1641 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_03_8156ab3c:
+msgid "[_tb_] Hi there!"
+msgstr ""
+
+# game/Cell01_LY.rpy:1642 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_03_d05ff2e9:
+msgid "[_u_] You're not Lyco."
+msgstr ""
+
+# game/Cell01_LY.rpy:1644 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_03_cfa09e8f:
+msgid "[_tb_] What a sleuth you are. "
+msgstr ""
+
+# game/Cell01_LY.rpy:1645 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_03_24daf0ad:
+msgid "[_u_] Is this a miniature version of Sherazade's brothel outfit? "
+msgstr ""
+
+# game/Cell01_LY.rpy:1647 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_03_052b9aa5:
+msgid "[_tb_] That's a matter of perspective... Maybe you're the giants and I'm the normal one. "
+msgstr ""
+
+# game/Cell01_LY.rpy:1649 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_03_75fe16da:
+msgid "[_tb_] Yes, okay, it's a miniature version. "
+msgstr ""
+
+# game/Cell01_LY.rpy:1651 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_03_f22c919a:
+msgid "[_tb_] Lycoris is having some... difficulty adjusting sizes on her clothing machine. "
+msgstr ""
+
+# game/Cell01_LY.rpy:1653 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_03_f58010ba:
+msgid "[_tb_] And when I saw that she'd made one almost my size, well... "
+msgstr ""
+
+# game/Cell01_LY.rpy:1655 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_03_a6208f63:
+msgid "[_tb_] We just put it in my color and voila!"
+msgstr ""
+
+# game/Cell01_LY.rpy:1656 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_03_614a9636:
+msgid "[_u_] Green suits you. "
+msgstr ""
+
+# game/Cell01_LY.rpy:1658 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_03_ff89ab65:
+msgid "[_tb_] Yeah, as long as it's not a little fairy outfit... green is pretty. "
+msgstr ""
+
+# game/Cell01_LY.rpy:1659 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_03_477ba300:
+msgid "[_u_] And uh... tell me... where is Lycoris? "
+msgstr ""
+
+# game/Cell01_LY.rpy:1661 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_03_033f746e:
+msgid "[_tb_] She's gone for a shower. "
+msgstr ""
+
+# game/Cell01_LY.rpy:1663 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_03_1dfc3c71:
+msgid "[_tb_] The poor thing has been working all night on this problem... "
+msgstr ""
+
+# game/Cell01_LY.rpy:1665 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_03_f56cb5fe:
+msgid "[_tb_] This woman is tenacious. I like that. "
+msgstr ""
+
+# game/Cell01_LY.rpy:1678 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_03_menu1_P1_4da28481:
+msgid "[_tb_] We're in the process of restoring the magic forest. "
+msgstr ""
+
+# game/Cell01_LY.rpy:1680 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_03_menu1_P1_c5c3108a:
+msgid "[_tb_] I want our first visitors to come and test this area of the park within a few months. "
+msgstr ""
+
+# game/Cell01_LY.rpy:1682 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_03_menu1_P1_a8c77396:
+msgid "[_tb_] And everything must be perfect!"
+msgstr ""
+
+# game/Cell01_LY.rpy:1683 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_03_menu1_P1_2db4aaf1:
+msgid "[_u_] Wow... so we're almost there?"
+msgstr ""
+
+# game/Cell01_LY.rpy:1684 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_03_menu1_P1_b824622b:
+msgid "[_u_] Our first real visitors?"
+msgstr ""
+
+# game/Cell01_LY.rpy:1686 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_03_menu1_P1_84bf0d9c:
+msgid "[_tb_] Yes, finally. "
+msgstr ""
+
+# game/Cell01_LY.rpy:1688 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_03_menu1_P1_8e9ab413:
+msgid "[_tb_] Anyway... well... we've still got a big chunk of headquarters to restore. "
+msgstr ""
+
+# game/Cell01_LY.rpy:1690 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_03_menu1_P1_8764c8a9:
+msgid "[_tb_] We can't just call people in and tell them to sleep on the floor. "
+msgstr ""
+
+# game/Cell01_LY.rpy:1692 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_03_menu1_P1_79bde3cf:
+msgid "[_tb_] So we're going to have to set up again... the hotel... the restaurants... the souvenir stores... "
+msgstr ""
+
+# game/Cell01_LY.rpy:1694 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_03_menu1_P1_4cc5e847:
+msgid "[_tb_] And then there's the intersolar teleporter..."
+msgstr ""
+
+# game/Cell01_LY.rpy:1695 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_03_menu1_P1_0529a669:
+msgid "[_u_] Wow..."
+msgstr "[_u_] Вау..."
+
+# game/Cell01_LY.rpy:1696 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_03_menu1_P1_ef2ecf5a:
+msgid "[_u_] And you really want to finish this in a few months? "
+msgstr ""
+
+# game/Cell01_LY.rpy:1698 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_03_menu1_P1_192c2b37:
+msgid "[_tb_] Yep."
+msgstr ""
+
+# game/Cell01_LY.rpy:1707 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_03_menu1_P2_7bc03c40:
+msgid "[_tb_] Oooooh... a lot of things."
+msgstr ""
+
+# game/Cell01_LY.rpy:1709 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_03_menu1_P2_b24d8269:
+msgid "[_tb_] Don't worry about it, I've got plenty of ideas."
+msgstr ""
+
+# game/Cell01_LY.rpy:1717 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_03_menu1_P3_811ed108:
+msgid "[_tb_] Mh... "
+msgstr ""
+
+# game/Cell01_LY.rpy:1719 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_03_menu1_P3_15775ece:
+msgid "[_tb_] We'll see. "
+msgstr ""
+
+# game/Cell01_LY.rpy:1728 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_03_menu1_P3_1587370b:
+msgid "[_tb_] Very, well. "
+msgstr ""
+
+# game/Cell01_LY.rpy:1730 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_03_menu1_P3_0da06c5c:
+msgid "[_tb_] As soon as you've advanced Sherazade's corruption, come and see me... "
+msgstr ""
+
+# game/Cell01_LY.rpy:1732 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_03_menu1_P3_1d1c7153:
+msgid "[_tb_] ...I'll need your talents for some very special assignments. "
+msgstr ""
+
+# game/Cell01_LY.rpy:1733 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_03_menu1_P3_861a6d0b:
+msgid "[_u_] Who am I going to fuck? "
+msgstr ""
+
+# game/Cell01_LY.rpy:1735 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_03_menu1_P3_bd475a65:
+msgid "[_tb_] Later [name]!"
+msgstr ""
+
+# game/Cell01_LY.rpy:1757 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_03_menu1_P3_8686e81c:
+msgid "[_u_] Hey."
+msgstr ""
+
+# game/Cell01_LY.rpy:1759 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_03_menu1_P3_8cb06f46:
+msgid "[_ly_] ?"
+msgstr ""
+
+# game/Cell01_LY.rpy:1761 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_03_menu1_P3_9316c07a:
+msgid "[_ly_] Hey, there!"
+msgstr ""
+
+# game/Cell01_LY.rpy:1763 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_03_menu1_P3_bd5b8743:
+msgid "[_ly_] Are you coming for a shower too? "
+msgstr ""
+
+# game/Cell01_LY.rpy:1766 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_03_menu1_P3_a667c49b:
+msgid "[_ly_] I wouldn't say no to a little company for once!"
+msgstr ""
+
+# game/Cell01_LY.rpy:1769 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_03_menu1_P3_7209290a:
+msgid "[_ly_] Plus, I need to take my mind off things..."
+msgstr ""
+
+# game/Cell01_LY.rpy:1787 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_03_menu2_P1_06c3e4af:
+msgid "[_ly_] I... "
+msgstr ""
+
+# game/Cell01_LY.rpy:1789 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_03_menu2_P1_1d387f0e:
+msgid "[_ly_] Nah, I won't bother you with my worries... "
+msgstr ""
+
+# game/Cell01_LY.rpy:1794 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_03_menu2_P1_ea7ce36b:
+msgid "[_ly_] No problem!"
+msgstr ""
+
+# game/Cell01_LY.rpy:1796 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_03_menu2_P1_bee5bde0:
+msgid "[_ly_] See you later [name]!"
+msgstr ""
+
+# game/Cell01_LY.rpy:1804 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_03_menu2_P1_a8be7af7:
+msgid "[_ly_] No, it's this goddamn machine that's going to have a problem if it keeps scratching my clothes."
+msgstr ""
+
+# game/Cell01_LY.rpy:1806 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_03_menu2_P1_28259e49:
+msgid "[_ly_] I ask for a size 36 and I get a 56..."
+msgstr ""
+
+# game/Cell01_LY.rpy:1808 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_03_menu2_P1_0aa4cfbf:
+msgid "[_ly_] And when I ask for a size 38, I get a miniature outfit... "
+msgstr ""
+
+# game/Cell01_LY.rpy:1811 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_03_menu2_P1_93656c41:
+msgid "[_ly_] Anyway, I need to calm down or I'm going to take it apart."
+msgstr ""
+
+# game/Cell01_LY.rpy:1831 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_03_menu3_P1_a19152be:
+msgid "[_ly_] Yes, I'm happy to have pleased my boss! Ahah!"
+msgstr ""
+
+# game/Cell01_LY.rpy:1833 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_03_menu3_P1_bd958a1e:
+msgid "[_ly_] Isn't it strange to have a boss who walks around so naked? "
+msgstr ""
+
+# game/Cell01_LY.rpy:1835 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_03_menu3_P1_0b70b297:
+msgid "[_ly_] I mean... maybe it's a fairy thing, right?"
+msgstr ""
+
+# game/Cell01_LY.rpy:1836 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_03_menu3_P1_8928517e:
+msgid "[_u_] No, I think Tinker likes to show off her butt whenever possible. "
+msgstr ""
+
+# game/Cell01_LY.rpy:1839 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_03_menu3_P1_e0ac9668:
+msgid "[_ly_] I actually prefer this environment to the one I had at my last job..."
+msgstr ""
+
+# game/Cell01_LY.rpy:1842 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_03_menu3_P1_1455f41a:
+msgid "[_ly_] We were forced to wear these horrible red uniforms... "
+msgstr ""
+
+# game/Cell01_LY.rpy:1845 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_03_menu3_P1_421fbe27:
+msgid "[_ly_] Arg... it was attrocious. "
+msgstr ""
+
+# game/Cell01_LY.rpy:1847 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_03_menu3_P1_52b65087:
+msgid "[_ly_] At least here I'm free to wear what I want!"
+msgstr ""
+
+# game/Cell01_LY.rpy:1849 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_03_menu3_P1_152e2533:
+msgid "[_ly_] I have a feeling that if I put on a bikini... Tinker would just ask me if she could have one too! ahah "
+msgstr ""
+
+# game/Cell01_LY.rpy:1850 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_03_menu3_P1_7f9d4009:
+msgid "[_u_] I think that's exactly what would happen, yeah... "
+msgstr ""
+
+# game/Cell01_LY.rpy:1862 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_03_menu3_P2_2d10dca1:
+msgid "[_ly_] That's very kind of you, but I've already done it. "
+msgstr ""
+
+# game/Cell01_LY.rpy:1865 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_03_menu3_P2_40c8c152:
+msgid "[_ly_] But I appreciate the initiative."
+msgstr ""
+
+# game/Cell01_LY.rpy:1877 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_03_menu3_P3_ef873fa1:
+msgid "[_ly_] It's funnier this way, isn't it?"
+msgstr ""
+
+# game/Cell01_LY.rpy:1879 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_03_menu3_P3_ab0c9903:
+msgid "[_ly_] I mean... there's no reason to be prudish if it doesn't bother the person in front of me. "
+msgstr ""
+
+# game/Cell01_LY.rpy:1881 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_03_menu3_P3_344db691:
+msgid "[_ly_] Why? Does it bother you? "
+msgstr ""
+
+# game/Cell01_LY.rpy:1882 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_03_menu3_P3_c000f897:
+msgid "[_u_] Me? Being bothered by nudity?"
+msgstr ""
+
+# game/Cell01_LY.rpy:1884 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_03_menu3_P3_7e25b3db:
+msgid "[_ly_] Well, I had to ask! Ahah... "
+msgstr ""
+
+# game/Cell01_LY.rpy:1887 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_03_menu3_P3_0bd8a6e6:
+msgid "[_ly_] I don't want to offend your sensibilities."
+msgstr ""
+
+# game/Cell01_LY.rpy:1888 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_03_menu3_P3_2e6053c5:
+msgid "[_u_] That's sweet of you, but no. I don't have a problem with nudity."
+msgstr ""
+
+# game/Cell01_LY.rpy:1901 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_03_menu3_P4_16d7764c:
+msgid "[_ly_] Sure... like it was my hair you were looking at. "
+msgstr ""
+
+# game/Cell01_LY.rpy:1902 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_03_menu3_P4_3eeb17d3:
+msgid "[_ly_] ..."
+msgstr ""
+
+# game/Cell01_LY.rpy:1905 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_03_menu3_P4_8d068845:
+msgid "[_ly_] Okay... let's pretend it's really my hair you're interested in..."
+msgstr ""
+
+# game/Cell01_LY.rpy:1908 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_03_menu3_P4_e6df67fc:
+msgid "[_ly_] Thank you so much, I love my hair too! "
+msgstr ""
+
+# game/Cell01_LY.rpy:1909 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_03_menu3_P4_e79db626:
+msgid "[_u_] Is it typical of your people to have long hair? "
+msgstr ""
+
+# game/Cell01_LY.rpy:1912 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_03_menu3_P4_432fc6b5:
+msgid "[_ly_] No, absolutely not. I mean... some have long hair... some short... some colored... "
+msgstr ""
+
+# game/Cell01_LY.rpy:1914 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_03_menu3_P4_0f7bbb84:
+msgid "[_ly_] Well, like humans, I guess. "
+msgstr ""
+
+# game/Cell01_LY.rpy:1916 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_03_menu3_P4_785c93da:
+msgid "[_ly_] On the other hand, some have 3 boobs. "
+msgstr ""
+
+# game/Cell01_LY.rpy:1917 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_03_menu3_P4_7b1c1392:
+msgid "[_u_] ..."
+msgstr "[_u_] ..."
+
+# game/Cell01_LY.rpy:1918 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_03_menu3_P4_b610b55c:
+msgid "[_u_] Are you kidding?"
+msgstr ""
+
+# game/Cell01_LY.rpy:1921 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_03_menu3_P4_65d948a1:
+msgid "[_ly_] Yes, I'm kidding. "
+msgstr ""
+
+# game/Cell01_LY.rpy:1932 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_03_menu3_P5_b0eb8d78:
+msgid "[_ly_] Are you trying to make me blush?"
+msgstr ""
+
+# game/Cell01_LY.rpy:1933 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_03_menu3_P5_3eeb17d3:
+msgid "[_ly_] ..."
+msgstr ""
+
+# game/Cell01_LY.rpy:1935 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_03_menu3_P5_e9b066d9:
+msgid "[_ly_] Anyway, glad to know you like what you see."
+msgstr ""
+
+# game/Cell01_LY.rpy:1937 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_03_menu3_P5_82050a55:
+msgid "[_ly_] But you should have come 10 minutes earlier, Amelia was naked too ahah!"
+msgstr ""
+
+# game/Cell01_LY.rpy:1940 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_03_menu3_P5_11890f86:
+msgid "[_ly_] And this girl got some crazy boobs..."
+msgstr ""
+
+# game/Cell01_LY.rpy:1941 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_03_menu3_P5_29e9b64b:
+msgid "[_u_] It's true that she seemed to have some nice ones..."
+msgstr ""
+
+# game/Cell01_LY.rpy:1943 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_03_menu3_P5_71792f6b:
+msgid "[_ly_] One day I'm going to ask her to put my head between her two breasts. "
+msgstr ""
+
+# game/Cell01_LY.rpy:1945 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_03_menu3_P5_855bb906:
+msgid "[_ly_] No kidding, I'm gonna do it."
+msgstr ""
+
+# game/Cell01_LY.rpy:1946 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_03_menu3_P5_9d747689:
+msgid "[_u_] The day it happens call me, I want to take a picture. "
+msgstr ""
+
+# game/Cell01_LY.rpy:1948 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_03_menu3_P5_0382626d:
+msgid "[_ly_] Will you make me a copy?"
+msgstr ""
+
+# game/Cell01_LY.rpy:1950 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_03_menu3_P5_de188c34:
+msgid "[_ly_] I'll add it to my naughty photo album. "
+msgstr ""
+
+# game/Cell01_LY.rpy:1962 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_03_menu3_P6_b2e0ac2d:
+msgid "[_ly_] You say that because you haven't seen hers!"
+msgstr ""
+
+# game/Cell01_LY.rpy:1964 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_03_menu3_P6_765ad626:
+msgid "[_ly_] Big redhead boobs... "
+msgstr ""
+
+# game/Cell01_LY.rpy:1966 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_03_menu3_P6_e21f9ffa:
+msgid "[_ly_] And her pink nipples are so cute. "
+msgstr ""
+
+# game/Cell01_LY.rpy:1967 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_03_menu3_P6_c25d9cc1:
+msgid "[_u_] Red nipples are charming too. "
+msgstr ""
+
+# game/Cell01_LY.rpy:1969 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_03_menu3_P6_40215bf1:
+msgid "[_ly_] Is that so?"
+msgstr ""
+
+# game/Cell01_LY.rpy:1970 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_03_menu3_P6_005d7483:
+msgid "[_u_] Well, it's not all about nipples... The shape of the breasts is important too. "
+msgstr ""
+
+# game/Cell01_LY.rpy:1972 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_03_menu3_P6_974c5c27:
+msgid "[_ly_] I couldn't agree more."
+msgstr ""
+
+# game/Cell01_LY.rpy:1974 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_03_menu3_P6_8a9102fa:
+msgid "[_ly_] I think you really need to see hers to make a choice! ahah "
+msgstr ""
+
+# game/Cell01_LY.rpy:1980 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_03_menu3_P6_c226ff63:
+msgid "[_ly_] Mh?"
+msgstr ""
+
+# game/Cell01_LY.rpy:1981 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_03_menu3_P6_dbf262b9:
+msgid "[_u_] To make a choice, I have to see both."
+msgstr ""
+
+# game/Cell01_LY.rpy:1983 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_03_menu3_P6_fcf63710:
+msgid "[_ly_] Really? And now you can't see enough to form an opinion? "
+msgstr ""
+
+# game/Cell01_LY.rpy:1984 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_03_menu3_P6_d5e88f96:
+msgid "[_u_] Well, with your hair..."
+msgstr ""
+
+# game/Cell01_LY.rpy:1986 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_03_menu3_P6_1a980d60:
+msgid "[_ly_] I thought you liked my hair. "
+msgstr ""
+
+# game/Cell01_LY.rpy:1987 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_03_menu3_P6_55cbc307:
+msgid "[_u_] Uh yes... "
+msgstr ""
+
+# game/Cell01_LY.rpy:1988 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_03_menu3_P6_c288a412:
+msgid "[_u_] They're pretty but... "
+msgstr ""
+
+# game/Cell01_LY.rpy:1990 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_03_menu3_P6_397a410b:
+msgid "[_ly_] Oh, I'm just teasing you!"
+msgstr ""
+
+# game/Cell01_LY.rpy:1993 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_03_menu3_P6_59d08082:
+msgid "[_ly_] If you want to see my boobs, just ask."
+msgstr ""
+
+# game/Cell01_LY.rpy:1998 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_03_menu3_P6_bf553624:
+msgid "[_ly_] Great!"
+msgstr ""
+
+# game/Cell01_LY.rpy:2011 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_03_menu3_P7_3859baa0:
+msgid "[_ly_]  Mh..."
+msgstr ""
+
+# game/Cell01_LY.rpy:2014 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_03_menu3_P7_f631f3fc:
+msgid "[_ly_] Nah."
+msgstr ""
+
+# game/Cell01_LY.rpy:2017 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_03_menu3_P7_e82a814f:
+msgid "[_ly_] You've already seen enough, buddy!"
+msgstr ""
+
+# game/Cell01_LY.rpy:2019 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_03_menu3_P7_9c93e0fa:
+msgid "[_ly_] Mhhh..."
+msgstr ""
+
+# game/Cell01_LY.rpy:2027 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_03_menu3_P7_2dedd206:
+msgid "[_ly_] Is that better? "
+msgstr ""
+
+# game/Cell01_LY.rpy:2028 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_03_menu3_P7_0148f816:
+msgid "[_u_] A million times better. "
+msgstr ""
+
+# game/Cell01_LY.rpy:2030 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_03_menu3_P7_bf553624:
+msgid "[_ly_] Great!"
+msgstr ""
+
+# game/Cell01_LY.rpy:2032 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_03_menu3_P7_a664ef9b:
+msgid "[_ly_] You should come and shower in the daytime more often... "
+msgstr ""
+
+# game/Cell01_LY.rpy:2035 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_03_menu3_P7_24d88224:
+msgid "[_ly_] Sounds like fun to be under hot water with you!"
+msgstr ""
+
+# game/Cell01_LY.rpy:2037 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_03_menu3_P7_0238cfe9:
+msgid "[_ly_] Well, I don't mind it, anyway. "
+msgstr ""
+
+# game/Cell01_LY.rpy:2050 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_03_menu3_P8_bd6b80f6:
+msgid "[_ly_] God... I'm talking too much..."
+msgstr ""
+
+# game/Cell01_LY.rpy:2052 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_03_menu3_P8_10c79cd9:
+msgid "[_ly_] It's just a few photos... "
+msgstr ""
+
+# game/Cell01_LY.rpy:2054 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_03_menu3_P8_66c16379:
+msgid "[_ly_] Nothing particularly special. "
+msgstr ""
+
+# game/Cell01_LY.rpy:2055 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_03_menu3_P8_1f3178ce:
+msgid "[_u_] And... it's just you in these photos? "
+msgstr ""
+
+# game/Cell01_LY.rpy:2057 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_03_menu3_P8_cd0c4528:
+msgid "[_ly_] There's a bit of everything. "
+msgstr ""
+
+# game/Cell01_LY.rpy:2059 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_03_menu3_P8_78682a9c:
+msgid "[_ly_] But anyway... I won't say any more. "
+msgstr ""
+
+# game/Cell01_LY.rpy:2060 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_03_menu3_P8_7b1c1392:
+msgid "[_u_] ..."
+msgstr "[_u_] ..."
+
+# game/Cell01_LY.rpy:2063 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_03_menu3_P8_41c17e8b:
+msgid "[_ly_] Let's just say that... it's not the kind of thing you can show in public either. "
+msgstr ""
+
+# game/Cell01_LY.rpy:2065 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_03_menu3_P8_dafd010d:
+msgid "[_ly_] And you've got to love boobs to appreciate it, that's for sure!"
+msgstr ""
+
+# game/Cell01_LY.rpy:2067 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_03_menu3_P8_e9f073a7:
+msgid "[_ly_] God Lyco... stop talking so much..."
+msgstr ""
+
+# game/Cell01_LY.rpy:2079 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_03_menu3_P8_151b268f:
+msgid "[_ly_] I gotta get back to work, buddy."
+msgstr ""
+
+# game/Cell01_LY.rpy:2081 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_03_menu3_P8_d736ed71:
+msgid "[_ly_] I've been here too long already ahah "
+msgstr ""
+
+# game/Cell01_LY.rpy:2090 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_03_menu3END_96cf07db:
+msgid "[_ly_] Thank you so much for coming to see me, I really needed to settle down and talk a bit!"
+msgstr ""
+
+# game/Cell01_LY.rpy:2092 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_03_menu3END_84df30b3:
+msgid "[_ly_] Shower talk is always the best, don't you think? "
+msgstr ""
+
+# game/Cell01_LY.rpy:2093 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_03_menu3END_8e24c371:
+msgid "[_u_] With a chick as cool as you, that's for sure."
+msgstr ""
+
+# game/Cell01_LY.rpy:2095 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_03_menu3END_d0b49ae2:
+msgid "[_ly_] Ehehe..."
+msgstr ""
+
+# game/Cell01_LY.rpy:2097 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_03_menu3END_05f8cfe5:
+msgid "[_ly_] All right, see you later [name]!"
+msgstr ""
+
+# game/Cell01_LY.rpy:2124 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_06_285ae831:
+msgid "[_ly_] The dress is ready!!!"
+msgstr ""
+
+# game/Cell01_LY.rpy:2126 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_06_95da0336:
+msgid "[_ly_] Finally!!!"
+msgstr ""
+
+# game/Cell01_LY.rpy:2128 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_06_8bcc57ce:
+msgid "[_ly_] I nearly smashed that machine to pieces with my horns... "
+msgstr ""
+
+# game/Cell01_LY.rpy:2130 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_06_5e5e199d:
+msgid "[_ly_] But I succeeded! And the machine is still in one piece!"
+msgstr ""
+
+# game/Cell01_LY.rpy:2132 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_06_a31ed99b:
+msgid "[_ly_] Well... I found a bolt... and I don't know where this thing is supposed to go... "
+msgstr ""
+
+# game/Cell01_LY.rpy:2134 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_06_84b9ff50:
+msgid "[_ly_] But that's another story. "
+msgstr ""
+
+# game/Cell01_LY.rpy:2136 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_06_1f99e512:
+msgid "[_ly_] The dress is finished. That's the most important thing. "
+msgstr ""
+
+# game/Cell01_LY.rpy:2137 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_06_fdafbf60:
+msgid "[_u_] I don't understand, is the dress ready? "
+msgstr ""
+
+# game/Cell01_LY.rpy:2139 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_06_63f95264:
+msgid "[_ly_] Stop making fun of me and go give it to Scherazade!"
+msgstr ""
+
+# game/Cell01_LY.rpy:2152 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_06_ba159078:
+msgid "[_ly_] And uh... as soon as you have time, think about my idea to replace her dress... "
+msgstr ""
+
+# game/Cell01_LY.rpy:2154 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_06_22e24e7e:
+msgid "[_ly_] That might be a good idea. "
+msgstr ""
+
+# game/Cell01_LY.rpy:2157 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_06_62b0fb84:
+msgid "[_ly_] Oh and uh... thanks for helping me with all these clothes... "
+msgstr ""
+
+# game/Cell01_LY.rpy:2159 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_06_3119bad4:
+msgid "[_u_] You're welcome! It's normal to help new recruits. "
+msgstr ""
+
+# game/Cell01_LY.rpy:2161 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_06_3eebf285:
+msgid "[_ly_] That's lovely. "
+msgstr ""
+
+# game/Cell01_LY.rpy:2164 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_06_da19b4b0:
+msgid "[_ly_] Anyway, go give her this dress!"
+msgstr ""
+
+# game/Cell01_LY.rpy:2166 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_06_1fba036b:
+msgid "[_ly_] See you later!"
+msgstr ""
+
+# game/Cell01_LY.rpy:2183 #-#-# translate crowdin Quest_A_SW_01_04_8a6c82f7:
+msgid "[_ly_] Hey hello there!"
+msgstr ""
+
+# game/Cell01_LY.rpy:2184 #-#-# translate crowdin Quest_A_SW_01_04_21bf8690:
+msgid "[_u_] Cute tank top."
+msgstr ""
+
+# game/Cell01_LY.rpy:2186 #-#-# translate crowdin Quest_A_SW_01_04_d018932f:
+msgid "[_ly_] Yeah... Sorry about my outfit."
+msgstr ""
+
+# game/Cell01_LY.rpy:2188 #-#-# translate crowdin Quest_A_SW_01_04_5243a0e8:
+msgid "[_ly_] I try not to get my pretty clothes dirty when I'm working on this damn machine. "
+msgstr ""
+
+# game/Cell01_LY.rpy:2193 #-#-# translate crowdin Quest_A_SW_01_04_8bb5d42d:
+msgid "[_ly_] Aww... You're so sweet."
+msgstr ""
+
+# game/Cell01_LY.rpy:2195 #-#-# translate crowdin Quest_A_SW_01_04_6cfd6887:
+msgid "[_ly_] But I still prefer to wear classy outfits. "
+msgstr ""
+
+# game/Cell01_LY.rpy:2198 #-#-# translate crowdin Quest_A_SW_01_04_cce43f84:
+msgid "[_ly_] Yup. I'll try not to destroy it this time. "
+msgstr ""
+
+# game/Cell01_LY.rpy:2200 #-#-# translate crowdin Quest_A_SW_01_04_f08f70bd:
+msgid "[_ly_] So, what's new? How's it going with Amandine? "
+msgstr ""
+
+# game/Cell01_LY.rpy:2201 #-#-# translate crowdin Quest_A_SW_01_04_43b22b45:
+msgid "[_u_] We're... experiencing some difficulties."
+msgstr ""
+
+# game/Cell01_LY.rpy:2203 #-#-# translate crowdin Quest_A_SW_01_04_c4a3deca:
+msgid "[_ly_] Yeah... She told me that Snow White had got superpowers or something. "
+msgstr ""
+
+# game/Cell01_LY.rpy:2205 #-#-# translate crowdin Quest_A_SW_01_04_1388a4d2:
+msgid "[_ly_] I didn't understand it all, I must admit. "
+msgstr ""
+
+# game/Cell01_LY.rpy:2206 #-#-# translate crowdin Quest_A_SW_01_04_51f1448d:
+msgid "[_u_] That's kind of the idea. Anyway, I'll need you to make a hat."
+msgstr ""
+
+# game/Cell01_LY.rpy:2208 #-#-# translate crowdin Quest_A_SW_01_04_23a432d9:
+msgid "[_ly_] Now, that's my area of expertise!"
+msgstr ""
+
+# game/Cell01_LY.rpy:2210 #-#-# translate crowdin Quest_A_SW_01_04_595c1833:
+msgid "[_u_] To be more precise, I'll need a minstrel hat for Amandine."
+msgstr ""
+
+# game/Cell01_LY.rpy:2212 #-#-# translate crowdin Quest_A_SW_01_04_01555cc3:
+msgid "[_ly_] Oooh with a feather and all? So funny. "
+msgstr ""
+
+# game/Cell01_LY.rpy:2214 #-#-# translate crowdin Quest_A_SW_01_04_dddd1e99:
+msgid "[_ly_] But uh... what does this have to do with Snow White's superpowers? "
+msgstr ""
+
+# game/Cell01_LY.rpy:2216 #-#-# translate crowdin Quest_A_SW_01_04_640a7949:
+msgid "[_ly_] Like... minstrel hats are her weakness? "
+msgstr ""
+
+# game/Cell01_LY.rpy:2217 #-#-# translate crowdin Quest_A_SW_01_04_686ed000:
+msgid "[_u_] Uh, no."
+msgstr ""
+
+# game/Cell01_LY.rpy:2219 #-#-# translate crowdin Quest_A_SW_01_04_41f6e87e:
+msgid "[_ly_] Oh, and... why not just make her the whole outfit? "
+msgstr ""
+
+# game/Cell01_LY.rpy:2221 #-#-# translate crowdin Quest_A_SW_01_04_2df0f17d:
+msgid "[_ly_] This could be cool!"
+msgstr ""
+
+# game/Cell01_LY.rpy:2222 #-#-# translate crowdin Quest_A_SW_01_04_97f98f4f:
+msgid "[_u_] Do you really think she'd like it?"
+msgstr ""
+
+# game/Cell01_LY.rpy:2224 #-#-# translate crowdin Quest_A_SW_01_04_7ef8e7e7:
+msgid "[_ly_] Everyone loves to receive gifts, don't they?"
+msgstr ""
+
+# game/Cell01_LY.rpy:2226 #-#-# translate crowdin Quest_A_SW_01_04_11d00a9c:
+msgid "[_ly_] Yeah, I'm going to do that."
+msgstr ""
+
+# game/Cell01_LY.rpy:2227 #-#-# translate crowdin Quest_A_SW_01_04_7b1c1392:
+msgid "[_u_] ..."
+msgstr "[_u_] ..."
+
+# game/Cell01_LY.rpy:2229 #-#-# translate crowdin Quest_A_SW_01_04_66965dc4:
+msgid "[_ly_] It should be ready to be created in your machine soon!"
+msgstr ""
+
+# game/Cell01_LY.rpy:2231 #-#-# translate crowdin Quest_A_SW_01_04_8aad9248:
+msgid "[_ly_] By the way... I've been doing some experimenting and... and I don't really know why... but... "
+msgstr ""
+
+# game/Cell01_LY.rpy:2233 #-#-# translate crowdin Quest_A_SW_01_04_74992b2e:
+msgid "[_ly_] I created this. "
+msgstr ""
+
+# game/Cell01_LY.rpy:2236 #-#-# translate crowdin Quest_A_SW_01_04_999b45c2:
+msgid "[_ly_] I wanted to make a Unicorn horn, but the size isn't right. "
+msgstr ""
+
+# game/Cell01_LY.rpy:2246 #-#-# translate crowdin Quest_A_SW_01_04_a0aedb39:
+msgid "[_ly_] Yes, just like Scheherazade's!"
+msgstr ""
+
+# game/Cell01_LY.rpy:2247 #-#-# translate crowdin Quest_A_SW_01_04_7b1c1392_1:
+msgid "[_u_] ..."
+msgstr "[_u_] ..."
+
+# game/Cell01_LY.rpy:2248 #-#-# translate crowdin Quest_A_SW_01_04_82e5d63c:
+msgid "[_u_] And was it for any particular purpose? "
+msgstr ""
+
+# game/Cell01_LY.rpy:2250 #-#-# translate crowdin Quest_A_SW_01_04_3eeb17d3:
+msgid "[_ly_] ..."
+msgstr ""
+
+# game/Cell01_LY.rpy:2252 #-#-# translate crowdin Quest_A_SW_01_04_14d1bd7c:
+msgid "[_ly_] No..."
+msgstr ""
+
+# game/Cell01_LY.rpy:2256 #-#-# translate crowdin Quest_A_SW_01_04_205a9939:
+msgid "[_ly_] Yes."
+msgstr ""
+
+# game/Cell01_LY.rpy:2258 #-#-# translate crowdin Quest_A_SW_01_04_49dba369:
+msgid "[_ly_] But... it's got a really funny shape!"
+msgstr ""
+
+# game/Cell01_LY.rpy:2260 #-#-# translate crowdin Quest_A_SW_01_04_fc9e2638:
+msgid "[_ly_] And then... with all its bumps... and that large shape... "
+msgstr ""
+
+# game/Cell01_LY.rpy:2261 #-#-# translate crowdin Quest_A_SW_01_04_3eeb17d3_1:
+msgid "[_ly_] ..."
+msgstr ""
+
+# game/Cell01_LY.rpy:2263 #-#-# translate crowdin Quest_A_SW_01_04_daa0bef4:
+msgid "[_ly_] Don't judge me. "
+msgstr ""
+
+# game/Cell01_LY.rpy:2264 #-#-# translate crowdin Quest_A_SW_01_04_f33a1ca8:
+msgid "[_u_] I'm not judging you, but I want to see it. "
+msgstr ""
+
+# game/Cell01_LY.rpy:2266 #-#-# translate crowdin Quest_A_SW_01_04_bbf18394:
+msgid "[_ly_] Naughty boy."
+msgstr ""
+
+# game/Cell01_LY.rpy:2267 #-#-# translate crowdin Quest_A_SW_01_04_3eeb17d3_2:
+msgid "[_ly_] ..."
+msgstr ""
+
+# game/Cell01_LY.rpy:2269 #-#-# translate crowdin Quest_A_SW_01_04_1394ab8d:
+msgid "[_ly_] Anyway, I couldn't reproduce it, so... it won't happen."
+msgstr ""
+
+# game/Cell01_LY.rpy:2271 #-#-# translate crowdin Quest_A_SW_01_04_3e18927f:
+msgid "[_ly_] And I don't think this one will give me much pleasure. "
+msgstr ""
+
+# game/Cell01_LY.rpy:2272 #-#-# translate crowdin Quest_A_SW_01_04_b761e94b:
+msgid "[_u_] What are you going to do with it? "
+msgstr ""
+
+# game/Cell01_LY.rpy:2275 #-#-# translate crowdin Quest_A_SW_01_04_b6e01782:
+msgid "[_ly_] Eheheh..."
+msgstr ""
+
+# game/Cell01_LY.rpy:2276 #-#-# translate crowdin Quest_A_SW_01_04_b761e94b_1:
+msgid "[_u_] What are you going to do with it? "
+msgstr ""
+
+# game/Cell01_LY.rpy:2283 #-#-# translate crowdin Quest_A_SW_01_04_0421bc68:
+msgid "[_ly_] Well... I'm not sure..."
+msgstr ""
+
+# game/Cell01_LY.rpy:2285 #-#-# translate crowdin Quest_A_SW_01_04_27fc0e9c:
+msgid "[_ly_] I thought maybe Tinker would like it. "
+msgstr ""
+
+# game/Cell01_LY.rpy:2286 #-#-# translate crowdin Quest_A_SW_01_04_0f07ccc4:
+msgid "[_u_] ?"
+msgstr "[_u_] Зачем?"
+
+# game/Cell01_LY.rpy:2287 #-#-# translate crowdin Quest_A_SW_01_04_d6d0ff01:
+msgid "[_u_] You want to give... a dildo... to Tinker? "
+msgstr ""
+
+# game/Cell01_LY.rpy:2289 #-#-# translate crowdin Quest_A_SW_01_04_181324cc:
+msgid "[_ly_] What? It's too weird, you think? "
+msgstr ""
+
+# game/Cell01_LY.rpy:2290 #-#-# translate crowdin Quest_A_SW_01_04_a9d45d4a:
+msgid "[_u_] Hm... Do you often offer sex objects to your bosses?"
+msgstr ""
+
+# game/Cell01_LY.rpy:2292 #-#-# translate crowdin Quest_A_SW_01_04_db2991b1:
+msgid "[_ly_] No. "
+msgstr ""
+
+# game/Cell01_LY.rpy:2294 #-#-# translate crowdin Quest_A_SW_01_04_495ce3aa:
+msgid "[_ly_] Well, I did... once."
+msgstr ""
+
+# game/Cell01_LY.rpy:2296 #-#-# translate crowdin Quest_A_SW_01_04_7a25c738:
+msgid "[_ly_] I mean... Does it count if we say the sex object was my mouth?"
+msgstr ""
+
+# game/Cell01_LY.rpy:2297 #-#-# translate crowdin Quest_A_SW_01_04_7b1c1392_2:
+msgid "[_u_] ..."
+msgstr "[_u_] ..."
+
+# game/Cell01_LY.rpy:2307 #-#-# translate crowdin Quest_A_SW_01_04_menu1_7e06f5fa:
+msgid "[_ly_] Then no."
+msgstr ""
+
+# game/Cell01_LY.rpy:2309 #-#-# translate crowdin Quest_A_SW_01_04_menu1_bdf37af9:
+msgid "[_ly_] Never."
+msgstr ""
+
+# game/Cell01_LY.rpy:2312 #-#-# translate crowdin Quest_A_SW_01_04_menu1_24cd8f38:
+msgid "[_ly_] Oh..."
+msgstr ""
+
+# game/Cell01_LY.rpy:2314 #-#-# translate crowdin Quest_A_SW_01_04_menu1_5e3a6e4f:
+msgid "[_ly_] Indeed... I may well have already done that!"
+msgstr ""
+
+# game/Cell01_LY.rpy:2319 #-#-# translate crowdin Quest_A_SW_01_04_menu1_182e399c:
+msgid "[_ly_] Ahah sorry but I don't share this with everyone!"
+msgstr ""
+
+# game/Cell01_LY.rpy:2322 #-#-# translate crowdin Quest_A_SW_01_04_menu1_276b3144:
+msgid "[_ly_] Okay, I was working in a place on the western edge of the galaxy... "
+msgstr ""
+
+# game/Cell01_LY.rpy:2324 #-#-# translate crowdin Quest_A_SW_01_04_menu1_b01df80e:
+msgid "[_ly_] It was called... ''West Burger''"
+msgstr ""
+
+# game/Cell01_LY.rpy:2326 #-#-# translate crowdin Quest_A_SW_01_04_menu1_55ac6fc2:
+msgid "[_ly_] And... oh and we had those horrible red uniforms... ugh... "
+msgstr ""
+
+# game/Cell01_LY.rpy:2328 #-#-# translate crowdin Quest_A_SW_01_04_menu1_42c0751c:
+msgid "[_ly_] Gosh, I love red... But these ones... "
+msgstr ""
+
+# game/Cell01_LY.rpy:2329 #-#-# translate crowdin Quest_A_SW_01_04_menu1_900c27cb:
+msgid "[_u_] Can we skip the uniform descriptions?"
+msgstr ""
+
+# game/Cell01_LY.rpy:2331 #-#-# translate crowdin Quest_A_SW_01_04_menu1_9fc10f38:
+msgid "[_ly_] Yes, sorry! Anyway, and my boss was a super mean lady!"
+msgstr ""
+
+# game/Cell01_LY.rpy:2333 #-#-# translate crowdin Quest_A_SW_01_04_menu1_60dfa693:
+msgid "[_ly_] The kind that yells at everyone for being 10 seconds late."
+msgstr ""
+
+# game/Cell01_LY.rpy:2335 #-#-# translate crowdin Quest_A_SW_01_04_menu1_4c00d5bc:
+msgid "[_ly_] And well... I felt a little sorry for her I must say... "
+msgstr ""
+
+# game/Cell01_LY.rpy:2337 #-#-# translate crowdin Quest_A_SW_01_04_menu1_2d9db887:
+msgid "[_ly_] You really have to feel bad about yourself to act like that... don't you think? "
+msgstr ""
+
+# game/Cell01_LY.rpy:2338 #-#-# translate crowdin Quest_A_SW_01_04_menu1_5e076f81:
+msgid "[_u_] I guess so."
+msgstr ""
+
+# game/Cell01_LY.rpy:2340 #-#-# translate crowdin Quest_A_SW_01_04_menu1_3c957a32:
+msgid "[_ly_] So... after work... we all showered in the locker room... "
+msgstr ""
+
+# game/Cell01_LY.rpy:2342 #-#-# translate crowdin Quest_A_SW_01_04_menu1_b15a133b:
+msgid "[_ly_] And then I thought I'd relax her a bit!"
+msgstr ""
+
+# game/Cell01_LY.rpy:2344 #-#-# translate crowdin Quest_A_SW_01_04_menu1_3928fba0:
+msgid "[_ly_] So I got into her shower... "
+msgstr ""
+
+# game/Cell01_LY.rpy:2346 #-#-# translate crowdin Quest_A_SW_01_04_menu1_934d2016:
+msgid "[_ly_] Then she said, ''What are you doing in my shower?!'' "
+msgstr ""
+
+# game/Cell01_LY.rpy:2348 #-#-# translate crowdin Quest_A_SW_01_04_menu1_3a91ae57:
+msgid "[_ly_] and so I stuck my tongue between her legs and suddenly she didn't say anything!"
+msgstr ""
+
+# game/Cell01_LY.rpy:2350 #-#-# translate crowdin Quest_A_SW_01_04_menu1_f833c62d:
+msgid "[_ly_] This calmed her down for a few weeks. Work was much more pleasant."
+msgstr ""
+
+# game/Cell01_LY.rpy:2351 #-#-# translate crowdin Quest_A_SW_01_04_menu1_7b1c1392:
+msgid "[_u_] ..."
+msgstr "[_u_] ..."
+
+# game/Cell01_LY.rpy:2353 #-#-# translate crowdin Quest_A_SW_01_04_menu1_b1c8b36b:
+msgid "[_ly_] And then... I must admit she was pretty sexy."
+msgstr ""
+
+# game/Cell01_LY.rpy:2354 #-#-# translate crowdin Quest_A_SW_01_04_menu1_ce08ab33:
+msgid "[_u_] I have a sudden urge to be very unpleasant with you. "
+msgstr ""
+
+# game/Cell01_LY.rpy:2356 #-#-# translate crowdin Quest_A_SW_01_04_menu1_2644b25f:
+msgid "[_ly_] I'd be more inclined to give you a spanking than a blowjob in your case."
+msgstr ""
+
+# game/Cell01_LY.rpy:2357 #-#-# translate crowdin Quest_A_SW_01_04_menu1_30fd2716:
+msgid "[_u_] That's naughty."
+msgstr ""
+
+# game/Cell01_LY.rpy:2359 #-#-# translate crowdin Quest_A_SW_01_04_menu1_6f2daf6d:
+msgid "[_ly_] I'm saving the fellatio for rewards now. "
+msgstr ""
+
+# game/Cell01_LY.rpy:2360 #-#-# translate crowdin Quest_A_SW_01_04_menu1_3841c152:
+msgid "[_u_] A sign of maturity, I suppose. "
+msgstr ""
+
+# game/Cell01_LY.rpy:2362 #-#-# translate crowdin Quest_A_SW_01_04_menu1_77bf9289:
+msgid "[_ly_] Absolutely!"
+msgstr ""
+
+# game/Cell01_LY.rpy:2367 #-#-# translate crowdin Quest_A_SW_01_04_menu1_6da36dea:
+msgid "[_ly_] Oh! You can give it to Tinker if you want!"
+msgstr ""
+
+# game/Cell01_LY.rpy:2369 #-#-# translate crowdin Quest_A_SW_01_04_menu1_cf699327:
+msgid "[_ly_] You two are pretty close, aren't you? "
+msgstr ""
+
+# game/Cell01_LY.rpy:2373 #-#-# translate crowdin Quest_A_SW_01_04_menu1_2c88305a:
+msgid "[_ly_] Great! That's one less thing lying around!"
+msgstr ""
+
+# game/Cell01_LY.rpy:2386 #-#-# translate crowdin Quest_A_SW_01_04_menu1_5790c933:
+msgid "[_ly_] As you wish! "
+msgstr ""
+
+# game/Cell01_LY.rpy:2389 #-#-# translate crowdin Quest_A_SW_01_04_menu1_db58e9ba:
+msgid "[_ly_] Anyway, I'll create Amandine's clothes for you in no time!"
+msgstr ""
+
+# game/Cell01_LY.rpy:2391 #-#-# translate crowdin Quest_A_SW_01_04_menu1_bee5bde0:
+msgid "[_ly_] See you later [name]!"
+msgstr ""
+
+# game/Cell01_LY.rpy:2416 #-#-# translate crowdin LY_LastQuest_01_01_60913f80:
+msgid "[_ly_] Hi."
+msgstr ""
+
+# game/Cell01_LY.rpy:2417 #-#-# translate crowdin LY_LastQuest_01_01_c19220f2:
+msgid "[_u_] Wow... Hey there."
+msgstr ""
+
+# game/Cell01_LY.rpy:2418 #-#-# translate crowdin LY_LastQuest_01_01_480ca126:
+msgid "[_u_] I feel like I've been seeing you more naked than clothed lately."
+msgstr ""
+
+# game/Cell01_LY.rpy:2420 #-#-# translate crowdin LY_LastQuest_01_01_1fe0eefe:
+msgid "[_ly_] Like you care, [name]. "
+msgstr ""
+
+# game/Cell01_LY.rpy:2421 #-#-# translate crowdin LY_LastQuest_01_01_b73c69e9:
+msgid "[_u_] And so... that's a new dress ?"
+msgstr ""
+
+# game/Cell01_LY.rpy:2423 #-#-# translate crowdin LY_LastQuest_01_01_c8f9c0b9:
+msgid "[_ly_] More like a messed-up version of a new dress. "
+msgstr ""
+
+# game/Cell01_LY.rpy:2426 #-#-# translate crowdin LY_LastQuest_01_01_63503210:
+msgid "[_ly_] I've got to tell you!..."
+msgstr ""
+
+# game/Cell01_LY.rpy:2428 #-#-# translate crowdin LY_LastQuest_01_01_33404e37:
+msgid "[_ly_] As you may know, it's not exactly a ''love story'' between me and this machine. "
+msgstr ""
+
+# game/Cell01_LY.rpy:2430 #-#-# translate crowdin LY_LastQuest_01_01_d540c898:
+msgid "[_ly_] And while I no longer have a problem with size adjustment, she has now decided not to obey me when it comes to color!"
+msgstr ""
+
+# game/Cell01_LY.rpy:2432 #-#-# translate crowdin LY_LastQuest_01_01_bddc2861:
+msgid "[_ly_] This thing is driving me crazy. "
+msgstr ""
+
+# game/Cell01_LY.rpy:2434 #-#-# translate crowdin LY_LastQuest_01_01_08b49299:
+msgid "[_ly_] So... uh... there you go... I dyed a dress red... "
+msgstr ""
+
+# game/Cell01_LY.rpy:2436 #-#-# translate crowdin LY_LastQuest_01_01_1c91eb01:
+msgid "[_ly_] ...but my boobs are showing. "
+msgstr ""
+
+# game/Cell01_LY.rpy:2437 #-#-# translate crowdin LY_LastQuest_01_01_71574252:
+msgid "[_u_] I think it suits you. "
+msgstr ""
+
+# game/Cell01_LY.rpy:2439 #-#-# translate crowdin LY_LastQuest_01_01_d66616f2:
+msgid "[_ly_] Yeah... a little too revealing for my taste, I think."
+msgstr ""
+
+# game/Cell01_LY.rpy:2441 #-#-# translate crowdin LY_LastQuest_01_01_cee0f914:
+msgid "[_ly_] You could say it lacks a little subtlety. "
+msgstr ""
+
+# game/Cell01_LY.rpy:2443 #-#-# translate crowdin LY_LastQuest_01_01_ec220ce4:
+msgid "[_ly_] But at least I'm sure I'll never go unnoticed wearing it!"
+msgstr ""
+
+# game/Cell01_LY.rpy:2445 #-#-# translate crowdin LY_LastQuest_01_01_9828de4b:
+msgid "[_ly_] Anyway... could you help me with this? "
+msgstr ""
+
+# game/Cell01_LY.rpy:2453 #-#-# translate crowdin LY_LastQuest_01_01_menu1_cce27540:
+msgid "[_ly_] Oh... well uh..."
+msgstr ""
+
+# game/Cell01_LY.rpy:2455 #-#-# translate crowdin LY_LastQuest_01_01_menu1_5b9cee71:
+msgid "[_ly_] No worries... I guess..."
+msgstr ""
+
+# game/Cell01_LY.rpy:2457 #-#-# translate crowdin LY_LastQuest_01_01_menu1_09810a3f:
+msgid "[_ly_] See you later. "
+msgstr ""
+
+# game/Cell01_LY.rpy:2462 #-#-# translate crowdin LY_LastQuest_01_01_menu1_e98b3acd:
+msgid "[_ly_] Frankly, I'd rather walk around naked than like this. "
+msgstr ""
+
+# game/Cell01_LY.rpy:2464 #-#-# translate crowdin LY_LastQuest_01_01_menu1_7d000725:
+msgid "[_ly_] At least it would make more sense!"
+msgstr ""
+
+# game/Cell01_LY.rpy:2465 #-#-# translate crowdin LY_LastQuest_01_01_menu1_aacc2775:
+msgid "[_u_] If that's what pleases you..."
+msgstr ""
+
+# game/Cell01_LY.rpy:2467 #-#-# translate crowdin LY_LastQuest_01_01_menu1_0df9e2d2:
+msgid "[_ly_] You naughty boy."
+msgstr ""
+
+# game/Cell01_LY.rpy:2469 #-#-# translate crowdin LY_LastQuest_01_01_menu1_1abb5f9a:
+msgid "[_ly_] You've already seen me naked enough!"
+msgstr ""
+
+# game/Cell01_LY.rpy:2474 #-#-# translate crowdin LY_LastQuest_01_01_menu1_d1bc68e9:
+msgid "[_ly_] I need you to recreate this dress with your machine. "
+msgstr ""
+
+# game/Cell01_LY.rpy:2476 #-#-# translate crowdin LY_LastQuest_01_01_menu1_be7ace8e:
+msgid "[_ly_] I've sent you the blueprint, all you have to do is create it!"
+msgstr ""
+
+# game/Cell01_LY.rpy:2478 #-#-# translate crowdin LY_LastQuest_01_01_menu1_352fee9d:
+msgid "[_ly_] Normally, it should work more easily on your side... the only problem is... "
+msgstr ""
+
+# game/Cell01_LY.rpy:2480 #-#-# translate crowdin LY_LastQuest_01_01_menu1_59110ed7:
+msgid "[_ly_] This time you'll need 2 character datas in addition to other resources. "
+msgstr ""
+
+# game/Cell01_LY.rpy:2481 #-#-# translate crowdin LY_LastQuest_01_01_menu1_cb4cf629:
+msgid "[_u_] Arg... Gosh..."
+msgstr ""
+
+# game/Cell01_LY.rpy:2483 #-#-# translate crowdin LY_LastQuest_01_01_menu1_aab4ceac:
+msgid "[_ly_] I know, I know!"
+msgstr ""
+
+# game/Cell01_LY.rpy:2485 #-#-# translate crowdin LY_LastQuest_01_01_menu1_db3d7c99:
+msgid "[_ly_] But if you want uh... I... "
+msgstr ""
+
+# game/Cell01_LY.rpy:2487 #-#-# translate crowdin LY_LastQuest_01_01_menu1_71ea92df:
+msgid "[_ly_] I... I might be able to offer you something in return!"
+msgstr ""
+
+# game/Cell01_LY.rpy:2488 #-#-# translate crowdin LY_LastQuest_01_01_menu1_7b1c1392:
+msgid "[_u_] ..."
+msgstr "[_u_] ..."
+
+# game/Cell01_LY.rpy:2490 #-#-# translate crowdin LY_LastQuest_01_01_menu1_3bf80780:
+msgid "[_ly_] Like uh... I can show you my boobs anytime you want!"
+msgstr ""
+
+# game/Cell01_LY.rpy:2491 #-#-# translate crowdin LY_LastQuest_01_01_menu1_3db4302c:
+msgid "[_u_] Mh... Honestly... Your breasts already present themselves to me these days."
+msgstr ""
+
+# game/Cell01_LY.rpy:2493 #-#-# translate crowdin LY_LastQuest_01_01_menu1_16367435:
+msgid "[_ly_] Uh well uh..."
+msgstr ""
+
+# game/Cell01_LY.rpy:2495 #-#-# translate crowdin LY_LastQuest_01_01_menu1_35fcb7f9:
+msgid "[_ly_] I could convince someone to show you her breasts!"
+msgstr ""
+
+# game/Cell01_LY.rpy:2496 #-#-# translate crowdin LY_LastQuest_01_01_menu1_7b1c1392_1:
+msgid "[_u_] ..."
+msgstr "[_u_] ..."
+
+# game/Cell01_LY.rpy:2497 #-#-# translate crowdin LY_LastQuest_01_01_menu1_43578ecd:
+msgid "[_u_] uhm..."
+msgstr ""
+
+# game/Cell01_LY.rpy:2500 #-#-# translate crowdin LY_LastQuest_01_01_menu1_3bbcea5c:
+msgid "[_u_] I think I've seen everyone's breasts except Amandines'."
+msgstr ""
+
+# game/Cell01_LY.rpy:2502 #-#-# translate crowdin LY_LastQuest_01_01_menu1_41fdfac2:
+msgid "[_ly_] Arg... yeah no... I'm not going to ask her to do that... "
+msgstr ""
+
+# game/Cell01_LY.rpy:2504 #-#-# translate crowdin LY_LastQuest_01_01_menu1_95548dcf:
+msgid "[_u_] I think I've seen everyone's boobs around here. "
+msgstr ""
+
+# game/Cell01_LY.rpy:2506 #-#-# translate crowdin LY_LastQuest_01_01_menu1_5f364606:
+msgid "[_ly_] Really? Are you serious? "
+msgstr ""
+
+# game/Cell01_LY.rpy:2508 #-#-# translate crowdin LY_LastQuest_01_01_menu1_fe32e157:
+msgid "[_ly_] Well, uh... listen. "
+msgstr ""
+
+# game/Cell01_LY.rpy:2510 #-#-# translate crowdin LY_LastQuest_01_01_menu1_25193632:
+msgid "[_ly_] Let's just say I'd owe you one. "
+msgstr ""
+
+# game/Cell01_LY.rpy:2512 #-#-# translate crowdin LY_LastQuest_01_01_menu1_924fbc4b:
+msgid "[_ly_] Is that okay?"
+msgstr ""
+
+# game/Cell01_LY.rpy:2513 #-#-# translate crowdin LY_LastQuest_01_01_menu1_41ca5d3f:
+msgid "[_u_] Well, uh... I was originally going to help you out of the kindness of my heart... "
+msgstr ""
+
+# game/Cell01_LY.rpy:2514 #-#-# translate crowdin LY_LastQuest_01_01_menu1_f18ca11d:
+msgid "[_u_] But I'm okay with that too."
+msgstr ""
+
+# game/Cell01_LY.rpy:2516 #-#-# translate crowdin LY_LastQuest_01_01_menu1_d5178153:
+msgid "[_ly_] Oh really?! That's so sweet! "
+msgstr ""
+
+# game/Cell01_LY.rpy:2518 #-#-# translate crowdin LY_LastQuest_01_01_menu1_1d93a9e1:
+msgid "[_ly_] Well, uh... that's okay. What's said is said!"
+msgstr ""
+
+# game/Cell01_LY.rpy:2520 #-#-# translate crowdin LY_LastQuest_01_01_menu1_dde5d477:
+msgid "[_ly_] I'm going back to work, I've got a machine to hit really hard!"
+msgstr ""
+
+# game/Cell01_LY.rpy:2522 #-#-# translate crowdin LY_LastQuest_01_01_menu1_69624dca:
+msgid "[_ly_] Thanks again! See you later [name]!"
+msgstr ""
+
+# game/Cell01_LY.rpy:2536 #-#-# translate crowdin LY_LastQuest_01_02_9514506a:
+msgid "[_u_] What the hell is this mess?"
+msgstr ""
+
+# game/Cell01_LY.rpy:2537 #-#-# translate crowdin LY_LastQuest_01_02_f16c536d:
+msgid "[_u_] Lyco?"
+msgstr ""
+
+# game/Cell01_LY.rpy:2538 #-#-# translate crowdin LY_LastQuest_01_02_f3075b87:
+msgid "[_ly_] I'm here..."
+msgstr ""
+
+# game/Cell01_LY.rpy:2549 #-#-# translate crowdin LY_LastQuest_01_02_4e29be95:
+msgid "[_ly_] I've lost control of the machine."
+msgstr ""
+
+# game/Cell01_LY.rpy:2551 #-#-# translate crowdin LY_LastQuest_01_02_c7512827:
+msgid "[_ly_] The moment I entered the word ''RED''..."
+msgstr ""
+
+# game/Cell01_LY.rpy:2553 #-#-# translate crowdin LY_LastQuest_01_02_9edad863:
+msgid "[_ly_] The dress you created kind of... conflicted with her program... and... "
+msgstr ""
+
+# game/Cell01_LY.rpy:2555 #-#-# translate crowdin LY_LastQuest_01_02_cb2fe964:
+msgid "[_ly_] And it produced 1km of red fabric."
+msgstr ""
+
+# game/Cell01_LY.rpy:2557 #-#-# translate crowdin LY_LastQuest_01_02_280978a5:
+msgid "[_ly_] Almost instantly. "
+msgstr ""
+
+# game/Cell01_LY.rpy:2558 #-#-# translate crowdin LY_LastQuest_01_02_ffd3fd1b:
+msgid "[_u_] Wow."
+msgstr "[_u_] Вау."
+
+# game/Cell01_LY.rpy:2559 #-#-# translate crowdin LY_LastQuest_01_02_3eeb17d3:
+msgid "[_ly_] ..."
+msgstr ""
+
+# game/Cell01_LY.rpy:2561 #-#-# translate crowdin LY_LastQuest_01_02_abac1d1f:
+msgid "[_ly_] Worst day of my life. "
+msgstr ""
+
+# game/Cell01_LY.rpy:2562 #-#-# translate crowdin LY_LastQuest_01_02_18301a88:
+msgid "[_u_] So I guess you didn't get your dress? "
+msgstr ""
+
+# game/Cell01_LY.rpy:2564 #-#-# translate crowdin LY_LastQuest_01_02_29408ff9:
+msgid "[_ly_] I don't think so. "
+msgstr ""
+
+# game/Cell01_LY.rpy:2566 #-#-# translate crowdin LY_LastQuest_01_02_afd43453:
+msgid "[_ly_] Normally I collect the finished garments once the machine has finished producing them... but... "
+msgstr ""
+
+# game/Cell01_LY.rpy:2568 #-#-# translate crowdin LY_LastQuest_01_02_c351db49:
+msgid "[_ly_] It may be finished, but there's no way I can get it out from under this mess... "
+msgstr ""
+
+# game/Cell01_LY.rpy:2569 #-#-# translate crowdin LY_LastQuest_01_02_3eeb17d3_1:
+msgid "[_ly_] ..."
+msgstr ""
+
+# game/Cell01_LY.rpy:2571 #-#-# translate crowdin LY_LastQuest_01_02_f1eb51cf:
+msgid "[_ly_] You wouldn't happen to need 1km of red fabric, would you? "
+msgstr ""
+
+# game/Cell01_LY.rpy:2572 #-#-# translate crowdin LY_LastQuest_01_02_87461b4b:
+msgid "[_u_] Right off the bat, I'd say no. "
+msgstr ""
+
+# game/Cell01_LY.rpy:2574 #-#-# translate crowdin LY_LastQuest_01_02_7d30db9a:
+msgid "[_ly_] Anyway... Melissandre is sending drones in a few hours to clean it up. "
+msgstr ""
+
+# game/Cell01_LY.rpy:2575 #-#-# translate crowdin LY_LastQuest_01_02_02d18851:
+msgid "[_u_] Too bad... this thing looks super comfy... "
+msgstr ""
+
+# game/Cell01_LY.rpy:2577 #-#-# translate crowdin LY_LastQuest_01_02_a808bf78:
+msgid "[_ly_] That's... true...."
+msgstr ""
+
+# game/Cell01_LY.rpy:2579 #-#-# translate crowdin LY_LastQuest_01_02_6c8a5f08:
+msgid "[_ly_] Now that I think about it... this thing is probably the most comfortable bed on the entire planet... "
+msgstr ""
+
+# game/Cell01_LY.rpy:2581 #-#-# translate crowdin LY_LastQuest_01_02_735d01b4:
+msgid "[_ly_] Mh... "
+msgstr ""
+
+# game/Cell01_LY.rpy:2584 #-#-# translate crowdin LY_LastQuest_01_02_72dcf253:
+msgid "[_ly_] Are you thinking what I'm thinking? "
+msgstr ""
+
+# game/Cell01_LY.rpy:2588 #-#-# translate crowdin LY_LastQuest_01_02_348dd78c:
+msgid "[_ly_] No."
+msgstr ""
+
+# game/Cell01_LY.rpy:2590 #-#-# translate crowdin LY_LastQuest_01_02_f406a5ce:
+msgid "[_ly_] I mean... yes. "
+msgstr ""
+
+# game/Cell01_LY.rpy:2592 #-#-# translate crowdin LY_LastQuest_01_02_ae7f6b34:
+msgid "[_ly_] But I wasn't thinking about that!"
+msgstr ""
+
+# game/Cell01_LY.rpy:2594 #-#-# translate crowdin LY_LastQuest_01_02_e5a6365e:
+msgid "[_ly_] I thought maybe... "
+msgstr ""
+
+# game/Cell01_LY.rpy:2597 #-#-# translate crowdin LY_LastQuest_01_02_7f20fb6e:
+msgid "[_ly_] That's a possibility..."
+msgstr ""
+
+# game/Cell01_LY.rpy:2599 #-#-# translate crowdin LY_LastQuest_01_02_735d01b4_1:
+msgid "[_ly_] Mh... "
+msgstr ""
+
+# game/Cell01_LY.rpy:2609 #-#-# translate crowdin LY_LastQuest_01_02_c6d76817:
+msgid "[_ly_] Maybe you'd like to try out this ephemeral bed? "
+msgstr ""
+
+# game/Cell01_LY.rpy:2610 #-#-# translate crowdin LY_LastQuest_01_02_233a3010:
+msgid "[_u_] Mmmhh... "
+msgstr ""
+
+# game/Cell01_LY.rpy:2616 #-#-# translate crowdin LY_LastQuest_01_02_db07d8e1:
+msgid "[_ly_] Get your ass over here!"
+msgstr ""
+
+# game/Cell01_LY.rpy:2621 #-#-# translate crowdin LY_LastQuest_01_02_eee35a09:
+msgid "[_ly_] Okay, no problem."
+msgstr ""
+
+# game/Cell01_LY.rpy:2623 #-#-# translate crowdin LY_LastQuest_01_02_bcd99aaa:
+msgid "[_ly_] See you later."
+msgstr ""
+
+# game/Cell01_LY.rpy:2640 #-#-# translate crowdin Lycoris03_5607827b:
+msgid "[_ly_] Are you going to keep staring at me forever, or are you going to do something about it? "
+msgstr ""
+
+# game/Cell01_LY.rpy:2643 #-#-# translate crowdin Lycoris03_6e4d14af:
+msgid "[_ly_] Because I haven't been fucked in a while, and uh... "
+msgstr ""
+
+# game/Cell01_LY.rpy:2646 #-#-# translate crowdin Lycoris03_38aa2618:
+msgid "[_u_] The lady wants some cock... that's fine with me. "
+msgstr ""
+
+# game/Cell01_LY.rpy:2647 #-#-# translate crowdin Lycoris03_c2b882b3:
+msgid "[_u_] But... Wow... all that red... It suits you perfectly."
+msgstr ""
+
+# game/Cell01_LY.rpy:2649 #-#-# translate crowdin Lycoris03_14259a9c:
+msgid "[_ly_] I love your way of thinking, but... Gosh... you really want me to beg, don't you? "
+msgstr ""
+
+# game/Cell01_LY.rpy:2650 #-#-# translate crowdin Lycoris03_76e0a999:
+msgid "[_u_] No need for that. "
+msgstr ""
+
+# game/Cell01_LY.rpy:2653 #-#-# translate crowdin Lycoris03_c06929eb:
+msgid "[_ly_] Mmhhr... I've been waiting for this for so long... "
+msgstr ""
+
+# game/Cell01_LY.rpy:2655 #-#-# translate crowdin Lycoris03_4f6d9c38:
+msgid "[_ly_] Oh fuck..."
+msgstr ""
+
+# game/Cell01_LY.rpy:2657 #-#-# translate crowdin Lycoris03_08d5010b:
+msgid "[_u_] Wait a second..."
+msgstr ""
+
+# game/Cell01_LY.rpy:2660 #-#-# translate crowdin Lycoris03_478943ef:
+msgid "[_ly_] Why ? What are you-..."
+msgstr ""
+
+# game/Cell01_LY.rpy:2662 #-#-# translate crowdin Lycoris03_e44b6579:
+msgid "[_u_] I've wanted to try that for a moment."
+msgstr ""
+
+# game/Cell01_LY.rpy:2665 #-#-# translate crowdin Lycoris03_c1d85e15:
+msgid "[_ly_] Aaah... Freaky boy..."
+msgstr ""
+
+# game/Cell01_LY.rpy:2670 #-#-# translate crowdin Lycoris03_d0214fd9:
+msgid "[_ly_] Ooooh..."
+msgstr ""
+
+# game/Cell01_LY.rpy:2672 #-#-# translate crowdin Lycoris03_131acfa2:
+msgid "[_ly_] It's so fucking good... I can feel all your strength in my horns.... "
+msgstr ""
+
+# game/Cell01_LY.rpy:2675 #-#-# translate crowdin Lycoris03_976f9a88:
+msgid "[_ly_] Hmmmfr..."
+msgstr ""
+
+# game/Cell01_LY.rpy:2677 #-#-# translate crowdin Lycoris03_c45d2109:
+msgid "[_ly_] We should have done this much sooner..."
+msgstr ""
+
+# game/Cell01_LY.rpy:2679 #-#-# translate crowdin Lycoris03_92355c55:
+msgid "[_u_] Better late than never."
+msgstr ""
+
+# game/Cell01_LY.rpy:2682 #-#-# translate crowdin Lycoris03_90409c83:
+msgid "[_ly_] Hmmmnn... Yes..."
+msgstr ""
+
+# game/Cell01_LY.rpy:2685 #-#-# translate crowdin Lycoris03_b7df6420:
+msgid "[_ly_] Oooooh !"
+msgstr ""
+
+# game/Cell01_LY.rpy:2687 #-#-# translate crowdin Lycoris03_e8861ceb:
+msgid "[_u_] Hmmm..."
+msgstr ""
+
+# game/Cell01_LY.rpy:2689 #-#-# translate crowdin Lycoris03_e9c40f23:
+msgid "[_u_] Fuck..."
+msgstr ""
+
+# game/Cell01_LY.rpy:2693 #-#-# translate crowdin Lycoris03_9ea11b27:
+msgid "[_ly_] You're so deep..."
+msgstr ""
+
+# game/Cell01_LY.rpy:2695 #-#-# translate crowdin Lycoris03_6d3feed5:
+msgid "[_ly_] That so good... Finally!!!"
+msgstr ""
+
+# game/Cell01_LY.rpy:2698 #-#-# translate crowdin Lycoris03_f7cc7a2f:
+msgid "[_ly_] Don't be shy! Go harder!"
+msgstr ""
+
+# game/Cell01_LY.rpy:2700 #-#-# translate crowdin Lycoris03_43b32d89:
+msgid "[_u_] No need to ask me twice."
+msgstr ""
+
+# game/Cell01_LY.rpy:2703 #-#-# translate crowdin Lycoris03_7e3f1d2f:
+msgid "[_ly_] Oooh yeees !"
+msgstr ""
+
+# game/Cell01_LY.rpy:2705 #-#-# translate crowdin Lycoris03_3b4c000d:
+msgid "[_ly_] Just like that !"
+msgstr ""
+
+# game/Cell01_LY.rpy:2707 #-#-# translate crowdin Lycoris03_cdbcc107:
+msgid "[_ly_] Gosh... You know what you are doing..."
+msgstr ""
+
+# game/Cell01_LY.rpy:2709 #-#-# translate crowdin Lycoris03_aa29bce2:
+msgid "[_ly_] Hmmm..."
+msgstr ""
+
+# game/Cell01_LY.rpy:2711 #-#-# translate crowdin Lycoris03_bb4b1973:
+msgid "[_ly_] Fuck... I feel like you're fucking me from horn to toe... "
+msgstr ""
+
+# game/Cell01_LY.rpy:2713 #-#-# translate crowdin Lycoris03_16d831fc:
+msgid "[_ly_] I wonder how can it feels if you go harder on me."
+msgstr ""
+
+# game/Cell01_LY.rpy:2715 #-#-# translate crowdin Lycoris03_f8caf8f4:
+msgid "[_u_] Understood. "
+msgstr ""
+
+# game/Cell01_LY.rpy:2718 #-#-# translate crowdin Lycoris03_ca1ac062:
+msgid "[_ly_] Faster ! Harder !"
+msgstr ""
+
+# game/Cell01_LY.rpy:2721 #-#-# translate crowdin Lycoris03_bcfc3f2e:
+msgid "[_ly_] !!!"
+msgstr ""
+
+# game/Cell01_LY.rpy:2724 #-#-# translate crowdin Lycoris03_bd269a60:
+msgid "[_u_] Can't talk anymore, uh ?"
+msgstr ""
+
+# game/Cell01_LY.rpy:2726 #-#-# translate crowdin Lycoris03_61e8ed65:
+msgid "[_ly_] HmmmMMM..!"
+msgstr ""
+
+# game/Cell01_LY.rpy:2728 #-#-# translate crowdin Lycoris03_5d5ee2a9:
+msgid "[_u_] Ahah. Moaning doesn't count."
+msgstr ""
+
+# game/Cell01_LY.rpy:2730 #-#-# translate crowdin Lycoris03_86856fb2:
+msgid "[_ly_] Aaaanh.."
+msgstr ""
+
+# game/Cell01_LY.rpy:2733 #-#-# translate crowdin Lycoris03_b4814fbb:
+msgid "[_ly_] I'm burning..!"
+msgstr ""
+
+# game/Cell01_LY.rpy:2735 #-#-# translate crowdin Lycoris03_abac2869:
+msgid "[_ly_] Please, pound my pussy more..!"
+msgstr ""
+
+# game/Cell01_LY.rpy:2737 #-#-# translate crowdin Lycoris03_edb3dbb2:
+msgid "[_ly_] Please, please, please please..!"
+msgstr ""
+
+# game/Cell01_LY.rpy:2739 #-#-# translate crowdin Lycoris03_4577aead:
+msgid "[_u_] I wouldn't have guessed that grabbing you like that, could turn you on this much."
+msgstr ""
+
+# game/Cell01_LY.rpy:2741 #-#-# translate crowdin Lycoris03_ae3d88b9:
+msgid "[_u_] Girl you're so wet."
+msgstr ""
+
+# game/Cell01_LY.rpy:2744 #-#-# translate crowdin Lycoris03_2ca7a79c:
+msgid "[_ly_] AaaaaaaAaaAaH !!"
+msgstr ""
+
+# game/Cell01_LY.rpy:2747 #-#-# translate crowdin Lycoris03_cddc8d32:
+msgid "[_ly_] Oh my..!"
+msgstr ""
+
+# game/Cell01_LY.rpy:2750 #-#-# translate crowdin Lycoris03_77a8d41c:
+msgid "[_ly_] I'm heating up so much aaaannh !"
+msgstr ""
+
+# game/Cell01_LY.rpy:2752 #-#-# translate crowdin Lycoris03_d9e14e3d:
+msgid "[_ly_] I want to feel your sperm inside me... "
+msgstr ""
+
+# game/Cell01_LY.rpy:2754 #-#-# translate crowdin Lycoris03_4b36031b:
+msgid "[_ly_] Plleaaaase...."
+msgstr ""
+
+# game/Cell01_LY.rpy:2763 #-#-# translate crowdin Lycoris03_menu1_16c9ca16:
+msgid "[_u_] No, I want to play with you a bit more."
+msgstr ""
+
+# game/Cell01_LY.rpy:2765 #-#-# translate crowdin Lycoris03_menu1_9a13ccac:
+msgid "[_ly_] Oh, you are really-..."
+msgstr ""
+
+# game/Cell01_LY.rpy:2767 #-#-# translate crowdin Lycoris03_menu1_389dcfc9:
+msgid "[_ly_] Annnnh...."
+msgstr ""
+
+# game/Cell01_LY.rpy:2769 #-#-# translate crowdin Lycoris03_menu1_b5ff99eb:
+msgid "[_u_] You like this too. Don't complain..."
+msgstr ""
+
+# game/Cell01_LY.rpy:2771 #-#-# translate crowdin Lycoris03_menu1_928b29c5:
+msgid "[_ly_] Yes..."
+msgstr ""
+
+# game/Cell01_LY.rpy:2773 #-#-# translate crowdin Lycoris03_menu1_aa29bce2:
+msgid "[_ly_] Hmmm..."
+msgstr ""
+
+# game/Cell01_LY.rpy:2775 #-#-# translate crowdin Lycoris03_menu1_85506498:
+msgid "[_ly_] Quit playing with me..!"
+msgstr ""
+
+# game/Cell01_LY.rpy:2777 #-#-# translate crowdin Lycoris03_menu1_e3903ab2:
+msgid "[_u_] Don't tell me that, I can feel that you are getting tighter girl."
+msgstr ""
+
+# game/Cell01_LY.rpy:2780 #-#-# translate crowdin Lycoris03_menu1_af77ef66:
+msgid "[_ly_] Ahah, shuush !"
+msgstr ""
+
+# game/Cell01_LY.rpy:2783 #-#-# translate crowdin Lycoris03_menu1_bcfc3f2e:
+msgid "[_ly_] !!!"
+msgstr ""
+
+# game/Cell01_LY.rpy:2785 #-#-# translate crowdin Lycoris03_menu1_e0c16acb:
+msgid "[_u_] Don't shush me."
+msgstr ""
+
+# game/Cell01_LY.rpy:2807 #-#-# translate crowdin Lycoris03_menu1_deac916c:
+msgid "[_ly_] Damn..."
+msgstr ""
+
+# game/Cell01_LY.rpy:2835 #-#-# translate crowdin LY_LastQuest_02_70d76e1d:
+msgid "[_ly_] Hey!"
+msgstr ""
+
+# game/Cell01_LY.rpy:2839 #-#-# translate crowdin LY_LastQuest_02_c61d0792:
+msgid "[_ly_] Hi there!"
+msgstr ""
+
+# game/Cell01_LY.rpy:2840 #-#-# translate crowdin LY_LastQuest_02_dbad2c9d:
+msgid "[_u_] Hi Lyco! You look like you're in a good mood."
+msgstr ""
+
+# game/Cell01_LY.rpy:2842 #-#-# translate crowdin LY_LastQuest_02_d0b63523:
+msgid "[_ly_] You bet I am!"
+msgstr ""
+
+# game/Cell01_LY.rpy:2844 #-#-# translate crowdin LY_LastQuest_02_6a4bf426:
+msgid "[_ly_] A good fuck keeps me happy for days!"
+msgstr ""
+
+# game/Cell01_LY.rpy:2846 #-#-# translate crowdin LY_LastQuest_02_0a1b04dc:
+msgid "[_ly_] And my god... fucking in such soft fabric... "
+msgstr ""
+
+# game/Cell01_LY.rpy:2848 #-#-# translate crowdin LY_LastQuest_02_0a10765a:
+msgid "[_ly_] Anyway... yeah, it was great. "
+msgstr ""
+
+# game/Cell01_LY.rpy:2850 #-#-# translate crowdin LY_LastQuest_02_d73142f1:
+msgid "[_u_] Glad you liked it, girl. "
+msgstr ""
+
+# game/Cell01_LY.rpy:2852 #-#-# translate crowdin LY_LastQuest_02_87ad899d:
+msgid "[_ly_] Yeah..."
+msgstr ""
+
+# game/Cell01_LY.rpy:2854 #-#-# translate crowdin LY_LastQuest_02_341e0811:
+msgid "[_ly_] And hm..."
+msgstr ""
+
+# game/Cell01_LY.rpy:2856 #-#-# translate crowdin LY_LastQuest_02_7f22bed2:
+msgid "[_ly_] How can I put this... "
+msgstr ""
+
+# game/Cell01_LY.rpy:2858 #-#-# translate crowdin LY_LastQuest_02_7bd4e14e:
+msgid "[_ly_] Maybe... like by the merest chance... "
+msgstr ""
+
+# game/Cell01_LY.rpy:2860 #-#-# translate crowdin LY_LastQuest_02_54af1c05:
+msgid "[_ly_] If you're up for it..."
+msgstr ""
+
+# game/Cell01_LY.rpy:2862 #-#-# translate crowdin LY_LastQuest_02_f9e214f1:
+msgid "[_ly_] Uhm..."
+msgstr ""
+
+# game/Cell01_LY.rpy:2863 #-#-# translate crowdin LY_LastQuest_02_3eeb17d3:
+msgid "[_ly_] ..."
+msgstr ""
+
+# game/Cell01_LY.rpy:2864 #-#-# translate crowdin LY_LastQuest_02_a4997a6c:
+msgid "[_u_] Get to the point, Lyco. "
+msgstr ""
+
+# game/Cell01_LY.rpy:2866 #-#-# translate crowdin LY_LastQuest_02_5035f67f:
+msgid "[_ly_] Wouldn't you like us to suggest that the others have some fun together? "
+msgstr ""
+
+# game/Cell01_LY.rpy:2867 #-#-# translate crowdin LY_LastQuest_02_a3436adc:
+msgid "[_u_] You mean... have an orgy?"
+msgstr ""
+
+# game/Cell01_LY.rpy:2869 #-#-# translate crowdin LY_LastQuest_02_735bfd7d:
+msgid "[_ly_] Yeaaaah.... a good old-fashioned orgy."
+msgstr ""
+
+# game/Cell01_LY.rpy:2870 #-#-# translate crowdin LY_LastQuest_02_8c76380a:
+msgid "[_u_] Emee has already proposed the idea. "
+msgstr ""
+
+# game/Cell01_LY.rpy:2872 #-#-# translate crowdin LY_LastQuest_02_14c15723:
+msgid "[_ly_] Really?! "
+msgstr ""
+
+# game/Cell01_LY.rpy:2874 #-#-# translate crowdin LY_LastQuest_02_e0e38191:
+msgid "[_ly_] And uh... Is everyone in?"
+msgstr ""
+
+# game/Cell01_LY.rpy:2875 #-#-# translate crowdin LY_LastQuest_02_a6de6518:
+msgid "[_u_] I'm not sure yet. But don't worry, we'll let you know when the time comes. "
+msgstr ""
+
+# game/Cell01_LY.rpy:2877 #-#-# translate crowdin LY_LastQuest_02_36360566:
+msgid "[_ly_] Oh my god... I'm so excited!!!"
+msgstr ""
+
+# game/Cell01_LY.rpy:2879 #-#-# translate crowdin LY_LastQuest_02_ecb7a9de:
+msgid "[_ly_] I..."
+msgstr ""
+
+# game/Cell01_LY.rpy:2881 #-#-# translate crowdin LY_LastQuest_02_b70837e3:
+msgid "[_ly_] Hum..."
+msgstr ""
+
+# game/Cell01_LY.rpy:2883 #-#-# translate crowdin LY_LastQuest_02_d6a5ea82:
+msgid "[_ly_] Ok. You really know how to have fun here. "
+msgstr ""
+
+# game/Cell01_LY.rpy:2885 #-#-# translate crowdin LY_LastQuest_02_4ff301fe:
+msgid "[_ly_] I'll wait for your signal, buddy!"
+msgstr ""
+
+# game/Cell01_LY.rpy:2887 #-#-# translate crowdin LY_LastQuest_02_65e7735b:
+msgid "[_ly_] Do you need anything else? "
+msgstr ""
+
+# §translate crowdin strings: #|#|# # game/Cell01_LY.rpy:95
+msgid "{color=#3ad8ff}Are Jasmine's outfit ready?{/color} {image=heart07.png}"
+msgstr ""
+
+# game/Cell01_LY.rpy:95
+msgid "{color=#3ad8ff}I need a Harem outfit{/color}"
+msgstr ""
+
+# game/Cell01_LY.rpy:95
+msgid "{color=#3ad8ff}Tinker would like you to work on something{/color}"
+msgstr ""
+
+# game/Cell01_LY.rpy:95
+msgid "$ Talk "
+msgstr ""
+
+# game/Cell01_LY.rpy:95
+msgid "$I need you to rework a clothing item"
+msgstr ""
+
+# game/Cell01_LY.rpy:95
+msgid "${color=#797979}Would you like to change your clothes?{/color} {image=shirt02.png}"
+msgstr ""
+
+# game/Cell01_LY.rpy:142
+msgid "Why not rework your own garment? {image=heart06.png}"
+msgstr ""
+
+# game/Cell01_LY.rpy:142
+msgid "Why not rework your own garment? {image=heart04.png}"
+msgstr ""
+
+# game/Cell01_LY.rpy:142
+msgid "{color=#3ad8ff}Melissandre // ''Basic Clothes'' // Variation{/color}"
+msgstr ""
+
+# game/Cell01_LY.rpy:142
+msgid "{color=#3ad8ff}Emee // ''Aenari Clothes'' // Variation{/color}"
+msgstr ""
+
+# game/Cell01_LY.rpy:142
+msgid "{color=#797979}Amandine // ''French Chemise'' // Variation{/color} {image=heart03.png}"
+msgstr ""
+
+# game/Cell01_LY.rpy:142
+msgid "{color=#3ad8ff}Amandine // ''French Chemise'' // Variation{/color} {image=heart04.png}"
+msgstr ""
+
+# game/Cell01_LY.rpy:142
+msgid "{color=#3ad8ff}Tinker // ''Vintage Workwear'' // Variation{/color}"
+msgstr ""
+
+# game/Cell01_LY.rpy:142
+msgid "{color=#3ad8ff}Tinker // ''Basic Tinker Dress'' // Variation{/color}"
+msgstr ""
+
+# game/Cell01_LY.rpy:142
+msgid "{color=#797979}Why not rework your own garment?{/color}"
+msgstr ""
+
+# game/Cell01_LY.rpy:257
+msgid "// Basic Lycoris"
+msgstr ""
+
+# game/Cell01_LY.rpy:257
+msgid "// Basic Lycoris V2"
+msgstr ""
+
+# game/Cell01_LY.rpy:257
+msgid "{color=#3ad8ff}Basic Lycoris ???{/color}"
+msgstr ""
+
+# game/Cell01_LY.rpy:257
+msgid "// Basic Lycoris ''Sherazade Style'' "
+msgstr ""
+
+# game/Cell01_LY.rpy:257
+msgid "// Basic Lycoris ''Sherazade Style'' V2 "
+msgstr ""
+
+# game/Cell01_LY.rpy:324
+msgid "// Basic Lycoris Hairstyle"
+msgstr ""
+
+# game/Cell01_LY.rpy:324
+msgid "// Basic Lycoris Hairstyle v2"
+msgstr ""
+
+# game/Cell01_LY.rpy:324
+msgid "// Basic Lycoris Hairstyle v3"
+msgstr ""
+
+# game/Cell01_LY.rpy:394
+msgid "$How are your first days here going? {image=heart04.png}"
+msgstr ""
+
+# game/Cell01_LY.rpy:394
+msgid "$What are you working on? {image=heart04.png}"
+msgstr ""
+
+# game/Cell01_LY.rpy:394
+msgid "$What race are you, actually? {image=heart04.png}"
+msgstr ""
+
+# game/Cell01_LY.rpy:394
+msgid "$It must be a while since you've... {image=heart04.png}"
+msgstr ""
+
+# game/Cell01_LY.rpy:394
+msgid "$It must be a while since you've... {image=heart06.png}"
+msgstr ""
+
+# game/Cell01_LY.rpy:394
+msgid "${color=#636363}How are your first days here going?{/color}"
+msgstr ""
+
+# game/Cell01_LY.rpy:394
+msgid "${color=#636363}What are you working on? {/color}"
+msgstr ""
+
+# game/Cell01_LY.rpy:394
+msgid "${color=#636363}What race are you, actually? {/color}"
+msgstr ""
+
+# game/Cell01_LY.rpy:394
+msgid "${color=#636363}It must be a while since you've... {/color}"
+msgstr ""
+
+# game/Cell01_LY.rpy:465
+msgid "Don't worry, you're talented"
+msgstr ""
+
+# game/Cell01_LY.rpy:465
+msgid "We're all a little intimidated by her"
+msgstr ""
+
+# game/Cell01_LY.rpy:465
+msgid "Oh, and if you meet her gaze, you turn to stone"
+msgstr ""
+
+# game/Cell01_LY.rpy:571
+msgid "Beauty is subjective"
+msgstr ""
+
+# game/Cell01_LY.rpy:571
+msgid "Yes Lyco, you're very pretty"
+msgstr ""
+
+# game/Cell01_LY.rpy:571
+msgid "You've got a great personality"
+msgstr ""
+
+# game/Cell01_LY.rpy:571
+msgid "Don't know about the others, but I think you're pretty"
+msgstr ""
+
+# game/Cell01_LY.rpy:663
+msgid "Nah, I mean, you masturbating"
+msgstr ""
+
+# game/Cell01_LY.rpy:663
+msgid "Yep"
+msgstr ""
+
+# game/Cell01_LY.rpy:858
+msgid "You look incredibly elegant!"
+msgstr ""
+
+# game/Cell01_LY.rpy:858
+msgid "Lovely legs..."
+msgstr ""
+
+# game/Cell01_LY.rpy:858
+msgid "Not naked enough yet"
+msgstr ""
+
+# game/Cell01_LY.rpy:995
+msgid "Blue, I'd say"
+msgstr ""
+
+# game/Cell01_LY.rpy:995
+msgid "Maybe orange"
+msgstr ""
+
+# game/Cell01_LY.rpy:995
+msgid "No other color? "
+msgstr ""
+
+# game/Cell01_LY.rpy:995
+msgid "I'm fine with anything as long as we see boobs"
+msgstr ""
+
+# game/Cell01_LY.rpy:1051
+msgid "Do you really want a harem outfit? "
+msgstr ""
+
+# game/Cell01_LY.rpy:1051
+msgid "{color=#797979}Do you really want a harem outfit?{/color}"
+msgstr ""
+
+# game/Cell01_LY.rpy:1051
+msgid "{color=#f45fed}Ok, make yourself an outfit too{/color}"
+msgstr ""
+
+# game/Cell01_LY.rpy:1051
+msgid "{color=#3ad8ff}Nah, just one for Emee{/color}"
+msgstr ""
+
+# game/Cell01_LY.rpy:1184
+msgid "Have you ever met Jasmine? "
+msgstr ""
+
+# game/Cell01_LY.rpy:1184
+msgid "{color=#797979}Have you ever met Jasmine?{/color} "
+msgstr ""
+
+# game/Cell01_LY.rpy:1184
+msgid "Do you really want to participate in a corruption? "
+msgstr ""
+
+# game/Cell01_LY.rpy:1184
+msgid "{color=#797979}Do you really want to participate in a corruption?{/color} "
+msgstr ""
+
+# game/Cell01_LY.rpy:1184
+msgid "{color=#3ad8ff}Yeah, I'll probably need a hand at some point{/color}"
+msgstr ""
+
+# game/Cell01_LY.rpy:1327
+msgid "What are you working on at the moment? "
+msgstr ""
+
+# game/Cell01_LY.rpy:1327
+msgid "{color=#797979}What are you working on at the moment?{/color} "
+msgstr ""
+
+# game/Cell01_LY.rpy:1327
+msgid "Do you always look when I'm with Sherazade?"
+msgstr ""
+
+# game/Cell01_LY.rpy:1327
+msgid "{color=#797979}Do you always look when I'm with Sherazade?{/color} "
+msgstr ""
+
+# game/Cell01_LY.rpy:1327
+msgid "{color=#f45fed}What do you mean by ''uptight''?{/color} "
+msgstr ""
+
+# game/Cell01_LY.rpy:1327
+msgid "{color=#797979}What do you mean by ''uptight''?{/color} "
+msgstr ""
+
+# game/Cell01_LY.rpy:1327
+msgid "{color=#f45fed}So... you've never sunbathed topless on the beach?{/color}"
+msgstr ""
+
+# game/Cell01_LY.rpy:1327
+msgid "{color=#797979}So... you've never sunbathed topless on the beach?{/color} "
+msgstr ""
+
+# game/Cell01_LY.rpy:1327
+msgid "{color=#3ad8ff}I'll come back later{/color}"
+msgstr ""
+
+# game/Cell01_LY.rpy:1484
+msgid "Is that a... silk towel?"
+msgstr ""
+
+# game/Cell01_LY.rpy:1484
+msgid "{color=#797979}Is that a... silk towel?{/color}"
+msgstr ""
+
+# game/Cell01_LY.rpy:1484
+msgid "Isn't it strange to share showers with colleagues?"
+msgstr ""
+
+# game/Cell01_LY.rpy:1484
+msgid "{color=#797979}Isn't it strange to share showers with colleagues?{/color}"
+msgstr ""
+
+# game/Cell01_LY.rpy:1484
+msgid "Who do you run into here most often?"
+msgstr ""
+
+# game/Cell01_LY.rpy:1484
+msgid "{color=#797979}Who do you run into here most often?{/color}"
+msgstr ""
+
+# game/Cell01_LY.rpy:1484
+msgid "{color=#797979}You don't see amandine here very often, do you?{/color} {image=heart03.png}"
+msgstr ""
+
+# game/Cell01_LY.rpy:1484
+msgid "You don't see amandine here very often, do you? {image=heart04.png}"
+msgstr ""
+
+# game/Cell01_LY.rpy:1484
+msgid "{color=#797979}You don't see amandine here very often, do you?{/color}"
+msgstr ""
+
+# game/Cell01_LY.rpy:1484
+msgid "{color=#3ad8ff}We need to talk about the clothing rework of Sherazade{/color}"
+msgstr ""
+
+# game/Cell01_LY.rpy:1588
+msgid "Nah, I've got other things to do."
+msgstr ""
+
+# game/Cell01_LY.rpy:1588
+msgid "Yes, I'd love to!"
+msgstr ""
+
+# game/Cell01_LY.rpy:1673
+msgid "What are you working on these days?"
+msgstr ""
+
+# game/Cell01_LY.rpy:1673
+msgid "{color=#797979}What are you working on these days?{/color}"
+msgstr ""
+
+# game/Cell01_LY.rpy:1673
+msgid "What are you going to do with that outfit?"
+msgstr ""
+
+# game/Cell01_LY.rpy:1673
+msgid "{color=#797979}What are you going to do with that outfit?{/color}"
+msgstr ""
+
+# game/Cell01_LY.rpy:1673
+msgid "{color=#f45fed}Ideas I could see?{/color}"
+msgstr ""
+
+# game/Cell01_LY.rpy:1673
+msgid "{color=#797979}Ideas I could see?{/color}"
+msgstr ""
+
+# game/Cell01_LY.rpy:1673
+msgid "{color=#3ad8ff}I'll go see if she's okay{/color}"
+msgstr ""
+
+# game/Cell01_LY.rpy:1777
+msgid "Ah? You got problems? {image=heart06.png}"
+msgstr ""
+
+# game/Cell01_LY.rpy:1777
+msgid "Ah? You got problems? {image=heart04.png}"
+msgstr ""
+
+# game/Cell01_LY.rpy:1777
+msgid "We'll talk later"
+msgstr ""
+
+# game/Cell01_LY.rpy:1825
+msgid "At least you gave Tinker a nice gift"
+msgstr ""
+
+# game/Cell01_LY.rpy:1825
+msgid "{color=#797979}At least you gave Tinker a nice gift{/color}"
+msgstr ""
+
+# game/Cell01_LY.rpy:1825
+msgid "If you need me to rub your back... "
+msgstr ""
+
+# game/Cell01_LY.rpy:1825
+msgid "{color=#797979}If you need me to rub your back...{/color}"
+msgstr ""
+
+# game/Cell01_LY.rpy:1825
+msgid "You're not really a modest girl, are you? "
+msgstr ""
+
+# game/Cell01_LY.rpy:1825
+msgid "{color=#797979}You're not really a modest girl, are you?{/color}"
+msgstr ""
+
+# game/Cell01_LY.rpy:1825
+msgid "{color=#f45fed}Wet hair suits you{/color}"
+msgstr ""
+
+# game/Cell01_LY.rpy:1825
+msgid "{color=#797979}Wet hair suits you{/color}"
+msgstr ""
+
+# game/Cell01_LY.rpy:1825
+msgid "{color=#f45fed}You've got a nice body{/color}"
+msgstr ""
+
+# game/Cell01_LY.rpy:1825
+msgid "{color=#797979}You've got a nice body{/color}"
+msgstr ""
+
+# game/Cell01_LY.rpy:1825
+msgid "{color=#f45fed}I'm sure your boobs are better than hers{/color}"
+msgstr ""
+
+# game/Cell01_LY.rpy:1825
+msgid "{color=#797979}I'm sure your boobs are better than hers{/color}"
+msgstr ""
+
+# game/Cell01_LY.rpy:1825
+msgid "{color=#f45fed}Can I see your boobs?{/color}"
+msgstr ""
+
+# game/Cell01_LY.rpy:1825
+msgid "{color=#797979}Can I see your boobs?{/color}"
+msgstr ""
+
+# game/Cell01_LY.rpy:1825
+msgid "{color=#797979}Can I see your boobs?{/color} {image=heart03.png}"
+msgstr ""
+
+# game/Cell01_LY.rpy:1825
+msgid "{color=#f45fed}So... what's in your naughty album?{/color} "
+msgstr ""
+
+# game/Cell01_LY.rpy:1825
+msgid "{color=#797979}So... what's in your naughty album?{/color}"
+msgstr ""
+
+# game/Cell01_LY.rpy:1825
+msgid "{color=#3ad8ff}I'll let you finish your shower in peace. {/color}"
+msgstr ""
+
+# game/Cell01_LY.rpy:1825
+msgid "{color=#f45fed}Do you want to... {/color}"
+msgstr ""
+
+# game/Cell01_LY.rpy:1976
+msgid "And I need to see yours too"
+msgstr ""
+
+# game/Cell01_LY.rpy:1976
+msgid "I will!"
+msgstr ""
+
+# game/Cell01_LY.rpy:2190
+msgid "You look sexy in casual wear too"
+msgstr ""
+
+# game/Cell01_LY.rpy:2190
+msgid "You borrowed a tank top from Emee again? "
+msgstr ""
+
+# game/Cell01_LY.rpy:2243
+msgid "You... wanted to make a Unicorn horn? "
+msgstr ""
+
+# game/Cell01_LY.rpy:2243
+msgid "Do you keep it for a specific reason? "
+msgstr ""
+
+# game/Cell01_LY.rpy:2253
+msgid "Was it to masturbate with? "
+msgstr ""
+
+# game/Cell01_LY.rpy:2253
+msgid "All right, keep your secrets."
+msgstr ""
+
+# game/Cell01_LY.rpy:2304
+msgid "Yes."
+msgstr ""
+
+# game/Cell01_LY.rpy:2304
+msgid "{color=#f45fed}I want to know this story {image=heart04.png}{/color}"
+msgstr ""
+
+# game/Cell01_LY.rpy:2304
+msgid "{color=#797979}I want to know this story {image=heart06.png}{/color}"
+msgstr ""
+
+# game/Cell01_LY.rpy:2370
+msgid "All right. I'll take it"
+msgstr ""
+
+# game/Cell01_LY.rpy:2370
+msgid "You can keep it"
+msgstr ""
+
+# game/Cell01_LY.rpy:2447
+msgid "{color=#f45fed}Yes sure, what do you need?{/color} "
+msgstr ""
+
+# game/Cell01_LY.rpy:2447
+msgid "{color=#3ad8ff}No thanks, I've already got too much work to do.{/color}"
+msgstr ""
+
+# game/Cell01_LY.rpy:2447
+msgid "Are you sure you don't want to walk around like that? "
+msgstr ""
+
+# game/Cell01_LY.rpy:2585
+msgid "That you're particularly bad with machines?"
+msgstr ""
+
+# game/Cell01_LY.rpy:2585
+msgid "You're thinking about sex, right?"
+msgstr ""
+
+# game/Cell01_LY.rpy:2612
+msgid "{color=#f45fed}We'd be delighted to{/color}"
+msgstr ""
+
+# game/Cell01_LY.rpy:2612
+msgid "No, thank you"
+msgstr ""
+
+# game/Cell01_LY.rpy:2759
+msgid "Fuck her a little more."
+msgstr ""
+
+# game/Cell01_LY.rpy:2759
+msgid "Cum"
+msgstr ""
+

@@ -1,0 +1,54 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=4; plural=((n%10==1 && n%100!=11) ? 0 : ((n%10 >= 2 && n%10 <=4 && (n%100 < 12 || n%100 > 14)) ? 1 : ((n%10 == 0 || (n%10 >= 5 && n%10 <=9)) || (n%100 >= 11 && n%100 <= 14)) ? 2 : 3));\n"
+"X-Crowdin-Project: once-a-porn-a-time\n"
+"X-Crowdin-Project-ID: 651436\n"
+"X-Crowdin-Language: ru\n"
+"X-Crowdin-File: /main/game/tl/crowdin/Room_01.po\n"
+"X-Crowdin-File-ID: 12922\n"
+"Project-Id-Version: once-a-porn-a-time\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Russian\n"
+"Language: ru_RU\n"
+"PO-Revision-Date: 2024-03-17 10:42\n"
+
+# TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Room_01.rpy:15 #-#-# translate crowdin ROOM_01_DAY_71a954ad:
+msgid "[_u_] I should clean up this mess until Tinker gets back."
+msgstr "[_u_] Я должен прибраться здесь, пока не вернется Тинкер."
+
+# game/Room_01.rpy:106 #-#-# translate crowdin room01_mail01_92caf0b8:
+msgid "You don't have any mail!"
+msgstr "У вас нет сообщений!"
+
+# game/Room_01.rpy:112 #-#-# translate crowdin room01_bed01_fe5414c1:
+msgid "[_u_] I've never seen this before... "
+msgstr "[_u_] Я никогда не видел этого раньше..."
+
+# game/Room_01.rpy:113 #-#-# translate crowdin room01_bed01_16a12ae9:
+msgid "[_u_] Is it... some kind of small keyboard? "
+msgstr "[_u_] Это... какая-то маленькая клавиатура? "
+
+# game/Room_01.rpy:400 #-#-# translate crowdin IMAGE_ROOM01_s4_de38bc90:
+msgid "[_u_] Damn, this box mountain is huge."
+msgstr "[_u_] Черт, эта гора из коробок просто огромна."
+
+# game/Room_01.rpy:401 #-#-# translate crowdin IMAGE_ROOM01_s4_ba1b2d53:
+msgid "[_u_] Let's try to remove all that. "
+msgstr "[_u_] Давай попробуем убрать все это. "
+
+# §translate crowdin strings: #|#|# # game/Room_01.rpy:128
+msgid "$Go to your quarters"
+msgstr "Идти в свою комнату"
+
+# game/Room_01.rpy:128
+msgid "$Sleep until the evening"
+msgstr "Спать до вечера"
+
+# game/Room_01.rpy:128
+msgid "$Go to sleep"
+msgstr "Идти спать"
+
+# game/Room_01.rpy:128
+msgid "$Continue the day"
+msgstr "Продолжить день"
+

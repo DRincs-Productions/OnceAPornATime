@@ -1,0 +1,70 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=4; plural=((n%10==1 && n%100!=11) ? 0 : ((n%10 >= 2 && n%10 <=4 && (n%100 < 12 || n%100 > 14)) ? 1 : ((n%10 == 0 || (n%10 >= 5 && n%10 <=9)) || (n%100 >= 11 && n%100 <= 14)) ? 2 : 3));\n"
+"X-Crowdin-Project: once-a-porn-a-time\n"
+"X-Crowdin-Project-ID: 651436\n"
+"X-Crowdin-Language: ru\n"
+"X-Crowdin-File: /main/game/tl/crowdin/expedition_automatique.po\n"
+"X-Crowdin-File-ID: 12954\n"
+"Project-Id-Version: once-a-porn-a-time\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Russian\n"
+"Language: ru_RU\n"
+"PO-Revision-Date: 2024-03-07 14:17\n"
+
+# TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/expedition_automatique.rpy:107 #-#-# translate crowdin Drone01_Panel_9ea2f78c:
+msgid " "
+msgstr ""
+
+# game/expedition_automatique.rpy:229 #-#-# translate crowdin Drone01_ChoicePanel_b1e9a2b8:
+msgid " ==ERROR== You don't have enough money. "
+msgstr ""
+
+# game/expedition_automatique.rpy:240 #-#-# translate crowdin Drone01_ChoicePanel_b1e9a2b8_1:
+msgid " ==ERROR== You don't have enough money. "
+msgstr ""
+
+# game/expedition_automatique.rpy:304 #-#-# translate crowdin Drone01_Recall_9ea2f78c:
+msgid " "
+msgstr ""
+
+# game/expedition_automatique.rpy:307 #-#-# translate crowdin Drone01_Recall_9ea2f78c_1:
+msgid " "
+msgstr ""
+
+# §translate crowdin strings: #|#|# # game/expedition_automatique.rpy:225
+msgid "Fix the Drone {color=#a0fc86}(35c){/color}"
+msgstr ""
+
+# game/expedition_automatique.rpy:225
+msgid "RESURECTION {color=#a0fc86}(55c){/color}"
+msgstr ""
+
+# game/expedition_automatique.rpy:225
+msgid "Send Drone"
+msgstr ""
+
+# game/expedition_automatique.rpy:225
+msgid "Recall"
+msgstr ""
+
+# game/expedition_automatique.rpy:225
+msgid " =Back to the office= "
+msgstr ""
+
+# game/expedition_automatique.rpy:447
+msgid "Drone01 // Default Drone"
+msgstr ""
+
+# game/expedition_automatique.rpy:447
+msgid "Drone02 // Petal"
+msgstr ""
+
+# game/expedition_automatique.rpy:447
+msgid "Drone03 // GunPowder"
+msgstr ""
+
+# game/expedition_automatique.rpy:447
+msgid "Drone04 // Cupidity "
+msgstr ""
+

@@ -1,0 +1,510 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Crowdin-Project: once-a-porn-a-time\n"
+"X-Crowdin-Project-ID: 651436\n"
+"X-Crowdin-Language: fr\n"
+"X-Crowdin-File: /main/game/tl/crowdin/screens.po\n"
+"X-Crowdin-File-ID: 12962\n"
+"Project-Id-Version: once-a-porn-a-time\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: French\n"
+"Language: fr_FR\n"
+"PO-Revision-Date: 2024-03-19 17:20\n"
+
+# TODO: Translation updated at 2024-02-22 14:14 #|#|# # §translate crowdin strings: #|#|# # game/screens.rpy:256
+msgid "Back"
+msgstr "Précédent"
+
+# game/screens.rpy:257
+msgid "History"
+msgstr "Historique"
+
+# game/screens.rpy:258
+msgid "Skip"
+msgstr "Sauter"
+
+# game/screens.rpy:259
+msgid "Auto"
+msgstr "Auto"
+
+# game/screens.rpy:260
+msgid "Save"
+msgstr "Sauvegarder"
+
+# game/screens.rpy:261
+msgid "Q.Save"
+msgstr "Q.Sauvegarder"
+
+# game/screens.rpy:262
+msgid "Q.Load"
+msgstr "Q.Charger"
+
+# game/screens.rpy:263
+msgid "Prefs"
+msgstr "Préfs"
+
+# game/screens.rpy:304
+msgid "Version [config.version!t]\n"
+msgstr "Version [ config.version! t ]\n"
+
+# game/screens.rpy:311
+msgid "Conçu avec {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n"
+"[renpy.license!t]"
+msgstr "Conçu avec { a=https: //www.renpy.org/ } Ren'Py { /a } [ renpy.version_only ].\n\n"
+"[ renpy.license! t ]"
+
+# game/screens.rpy:315
+msgid "ICI CE TROUVE L'INVENTAIRE"
+msgstr "ICI CE TROUVE L'INVENTAIRE"
+
+# game/screens.rpy:316
+msgid "Retour"
+msgstr "Retour"
+
+# game/screens.rpy:363
+msgid "ChangeLog"
+msgstr "Journal des modifications"
+
+# game/screens.rpy:375
+msgid "Start"
+msgstr "Démarrer"
+
+# game/screens.rpy:386
+msgid "Load"
+msgstr "Charger"
+
+# game/screens.rpy:388
+msgid "Preferences"
+msgstr "Préférences"
+
+# game/screens.rpy:392
+msgid "End Replay"
+msgstr "Fin de la relecture"
+
+# game/screens.rpy:396
+msgid "Main Menu"
+msgstr "Menu principal"
+
+# game/screens.rpy:398
+msgid "About"
+msgstr "A propos"
+
+# game/screens.rpy:403
+msgid "Help"
+msgstr "Aide"
+
+# game/screens.rpy:406
+msgid "Quit"
+msgstr "Quitter"
+
+# game/screens.rpy:408
+msgid "PATREON"
+msgstr "PATREON"
+
+# game/screens.rpy:412
+msgid "{color=#5b6568}{size=-10}^Check for Updates!^{/size}{/color}"
+msgstr "{ color=#5b6568} { size=-10 } ^ Recherche des mises à jour ! ^ { /size } { /color }"
+
+# game/screens.rpy:580
+msgid "Return"
+msgstr "Retour"
+
+# game/screens.rpy:670
+msgid "Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n"
+"[renpy.license!t]"
+msgstr "Fait avec { a=https: //www.renpy.org/ } Ren'Py { /a } [ renpy.version_only ].\n\n"
+"[ renpy.license! t ]"
+
+# game/screens.rpy:675
+msgid "Thanks to all beta testers <3 "
+msgstr "Merci à tous les testeurs bêta < 3 "
+
+# game/screens.rpy:677
+msgid "Special Thanks to Kevin MacLeod for some of the musics : https://incompetech.filmmusic.io/ "
+msgstr "Spécial Merci à Kevin MacLeod pour certaines musiques: https://incompetech.filmmusic.io/ "
+
+# game/screens.rpy:679
+msgid "A big kiss to Pachi for the help with the english translation! "
+msgstr "Un gros baiser pour Pachi pour l'aide avec la traduction anglaise ! "
+
+# game/screens.rpy:722
+msgid "Page {}"
+msgstr "Page { }"
+
+# game/screens.rpy:722
+msgid "Automatic saves"
+msgstr "Sauvegarde automatique"
+
+# game/screens.rpy:722
+msgid "Quick saves"
+msgstr "Les sauvegardes rapides"
+
+# game/screens.rpy:764
+msgid "{#file_time}%A, %B %d %Y, %H:%M"
+msgstr "{#file_time}%A, %B %d %Y, %H:%M"
+
+# game/screens.rpy:764
+msgid "empty slot"
+msgstr "Emplacement vide"
+
+# game/screens.rpy:781
+msgid "<"
+msgstr "<"
+
+# game/screens.rpy:784
+msgid "{#auto_page}A"
+msgstr "{#auto_page}A"
+
+# game/screens.rpy:787
+msgid "{#quick_page}Q"
+msgstr "{#quick_page}Q"
+
+# game/screens.rpy:793
+msgid ">"
+msgstr ">"
+
+# game/screens.rpy:850
+msgid "Display"
+msgstr "Afficher"
+
+# game/screens.rpy:851
+msgid "Window"
+msgstr "Fenêtre"
+
+# game/screens.rpy:852
+msgid "Fullscreen"
+msgstr "Ecran plein"
+
+# game/screens.rpy:860
+msgid "Rollback Side"
+msgstr "Rannulation de la face"
+
+# game/screens.rpy:861
+msgid "Disable"
+msgstr "Désactiver"
+
+# game/screens.rpy:862
+msgid "Left"
+msgstr "Gauche"
+
+# game/screens.rpy:863
+msgid "Right"
+msgstr "A droite"
+
+# game/screens.rpy:868
+msgid "Unseen Text"
+msgstr "Texte non vu"
+
+# game/screens.rpy:869
+msgid "After Choices"
+msgstr "Après les choix"
+
+# game/screens.rpy:870
+msgid "Transitions"
+msgstr "Transitions"
+
+# game/screens.rpy:894
+msgid "Text Speed"
+msgstr "Vitesse du texte"
+
+# game/screens.rpy:898
+msgid "Auto-Forward Time"
+msgstr "Heure de transfert automatique"
+
+# game/screens.rpy:905
+msgid "Music Volume"
+msgstr "Volume de musique"
+
+# game/screens.rpy:912
+msgid "Sound Volume"
+msgstr "Volume sonore"
+
+# game/screens.rpy:918
+msgid "Test"
+msgstr "Test"
+
+# game/screens.rpy:922
+msgid "Voice Volume"
+msgstr "Volume vocal"
+
+# game/screens.rpy:933
+msgid "Mute All"
+msgstr "Tous les muets"
+
+# game/screens.rpy:1052
+msgid "The dialogue history is empty."
+msgstr "L'historique du dialogue est vide."
+
+# game/screens.rpy:1122
+msgid "Keyboard"
+msgstr "Clavier"
+
+# game/screens.rpy:1123
+msgid "Mouse"
+msgstr "Souris"
+
+# game/screens.rpy:1126
+msgid "Gamepad"
+msgstr "Gamepad"
+
+# game/screens.rpy:1139
+msgid "Enter"
+msgstr "Entrer"
+
+# game/screens.rpy:1140
+msgid "Advances dialogue and activates the interface."
+msgstr "Avance le dialogue et active l'interface."
+
+# game/screens.rpy:1143
+msgid "Space"
+msgstr "Espace"
+
+# game/screens.rpy:1144
+msgid "Advances dialogue without selecting choices."
+msgstr "Avance le dialogue sans sélectionner de choix."
+
+# game/screens.rpy:1147
+msgid "Arrow Keys"
+msgstr "Touches de déplacement"
+
+# game/screens.rpy:1148
+msgid "Navigate the interface."
+msgstr "Naviguez dans l'interface."
+
+# game/screens.rpy:1151
+msgid "Escape"
+msgstr "Echap"
+
+# game/screens.rpy:1152
+msgid "Accesses the game menu."
+msgstr "Accède au menu du jeu."
+
+# game/screens.rpy:1155
+msgid "Ctrl"
+msgstr "Ctrl"
+
+# game/screens.rpy:1156
+msgid "Skips dialogue while held down."
+msgstr "Ignorte le dialogue en cours d'arrêt."
+
+# game/screens.rpy:1159
+msgid "Tab"
+msgstr "Onglet"
+
+# game/screens.rpy:1160
+msgid "Toggles dialogue skipping."
+msgstr "Active ou désactive le dialogue."
+
+# game/screens.rpy:1163
+msgid "Page Up"
+msgstr "Page précédente"
+
+# game/screens.rpy:1164
+msgid "Rolls back to earlier dialogue."
+msgstr "Retour à un dialogue antérieur."
+
+# game/screens.rpy:1167
+msgid "Page Down"
+msgstr "Page suivante"
+
+# game/screens.rpy:1168
+msgid "Rolls forward to later dialogue."
+msgstr "Rouleaux à un dialogue ultérieur."
+
+# game/screens.rpy:1172
+msgid "Hides the user interface."
+msgstr "Masque l'interface utilisateur."
+
+# game/screens.rpy:1176
+msgid "Takes a screenshot."
+msgstr "Prend une capture d'écran."
+
+# game/screens.rpy:1180
+msgid "Toggles assistive {a=https://www.renpy.org/l/voicing}self-voicing{/a}."
+msgstr "Active ou désactive l'assistance { a=https: //www.renpy.org/l/voicing}self-voicing { /a }."
+
+# game/screens.rpy:1186
+msgid "Left Click"
+msgstr "Cliquez sur la gauche"
+
+# game/screens.rpy:1190
+msgid "Middle Click"
+msgstr "Cliquez sur le bouton"
+
+# game/screens.rpy:1194
+msgid "Right Click"
+msgstr "Cliquez à droite"
+
+# game/screens.rpy:1198
+msgid "Mouse Wheel Up\n"
+"Click Rollback Side"
+msgstr "Roue de la souris vers le haut\n"
+"Cliquez sur le côté d'annulation"
+
+# game/screens.rpy:1202
+msgid "Mouse Wheel Down"
+msgstr "Roue de la souris vers le bas"
+
+# game/screens.rpy:1209
+msgid "Right Trigger\n"
+"A/Bottom Button"
+msgstr "Déclencheur droit\n"
+"Bouton d'A/bas"
+
+# game/screens.rpy:1213
+msgid "Left Trigger\n"
+"Left Shoulder"
+msgstr "Déclencheur de gauche\n"
+"Shoulder de gauche"
+
+# game/screens.rpy:1217
+msgid "Right Shoulder"
+msgstr "Right Shoulder"
+
+# game/screens.rpy:1222
+msgid "D-Pad, Sticks"
+msgstr "D-Pad, Sticks"
+
+# game/screens.rpy:1226
+msgid "Start, Guide"
+msgstr "Démarrer, Guide"
+
+# game/screens.rpy:1230
+msgid "Y/Top Button"
+msgstr "O/Haut Bouton"
+
+# game/screens.rpy:1233
+msgid "Calibrate"
+msgstr "Calibrer"
+
+# game/screens.rpy:1298
+msgid "Yes"
+msgstr "Oui"
+
+# game/screens.rpy:1299
+msgid "No"
+msgstr "Non"
+
+# game/screens.rpy:1345
+msgid "Skipping"
+msgstr "Sauter"
+
+# game/screens.rpy:1568
+msgid "Menu"
+msgstr "Menu"
+
+# game/screens.rpy:1662
+msgid "Developer Menu"
+msgstr "Menu Développeur"
+
+# game/screens.rpy:1667
+msgid "Interactive Director (D)"
+msgstr "Directeur interactif (D)"
+
+# game/screens.rpy:1669
+msgid "Reload Game (Shift+R)"
+msgstr "Reload Game (Shift + R)"
+
+# game/screens.rpy:1671
+msgid "Console (Shift+O)"
+msgstr "Console (Maj + O)"
+
+# game/screens.rpy:1673
+msgid "Variable Viewer"
+msgstr "Afficheur de variables"
+
+# game/screens.rpy:1675
+msgid "Image Location Picker"
+msgstr "Sélecteur d'emplacement d'image"
+
+# game/screens.rpy:1677
+msgid "Filename List"
+msgstr "Liste des noms de fichier"
+
+# game/screens.rpy:1681
+msgid "Show Image Load Log (F4)"
+msgstr "Afficher le journal de chargement d'image (F4)"
+
+# game/screens.rpy:1684
+msgid "Hide Image Load Log (F4)"
+msgstr "Masquer le journal de chargement d'image (F4)"
+
+# game/screens.rpy:1687
+msgid "Image Attributes"
+msgstr "Attributs d'image"
+
+# game/screens.rpy:1714
+msgid "[name] [attributes] (hidden)"
+msgstr "[ nom ] [ attributs ] (masqué)"
+
+# game/screens.rpy:1718
+msgid "[name] [attributes]"
+msgstr "[ nom ] [ attributs ]"
+
+# game/screens.rpy:1767
+msgid "Nothing to inspect."
+msgstr "Rien à inspecter."
+
+# game/screens.rpy:1778
+msgid "Hide deleted"
+msgstr "Masquer supprimé"
+
+# game/screens.rpy:1778
+msgid "Show deleted"
+msgstr "Afficher supprimé"
+
+# game/screens.rpy:1902
+msgid "Return to the developer menu"
+msgstr "Retour au menu du développeur"
+
+# game/screens.rpy:2067
+msgid "Rectangle: %r"
+msgstr "Rectangle: %r"
+
+# game/screens.rpy:2072
+msgid "Mouse position: %r"
+msgstr "Position de la souris: %r"
+
+# game/screens.rpy:2077
+msgid "Right-click or escape to quit."
+msgstr "Cliquez avec le bouton droit ou quitte-vous pour quitter."
+
+# game/screens.rpy:2109
+msgid "Rectangle copied to clipboard."
+msgstr "Rectangle copié dans le presse-papiers."
+
+# game/screens.rpy:2112
+msgid "Position copied to clipboard."
+msgstr "Position copiée dans le presse-papiers."
+
+# game/screens.rpy:2130
+msgid "Type to filter: "
+msgstr "Type à filtrer: "
+
+# game/screens.rpy:2255
+msgid "Textures: [tex_count] ([tex_size_mb:.1f] MB)"
+msgstr "Textures: [ texte_count ] ([ texte_size_mb: .1f ] Mo)"
+
+# game/screens.rpy:2259
+msgid "Image cache: [cache_pct:.1f]% ([cache_size_mb:.1f] MB)"
+msgstr "Cache d'image: [ cache_pct: .1f ]% ([ cache_size_mb: .1f ] Mo)"
+
+# game/screens.rpy:2269
+msgid "✔ "
+msgstr "✔ "
+
+# game/screens.rpy:2272
+msgid "✘ "
+msgstr "✘ "
+
+# game/screens.rpy:2277
+msgid "\n"
+"{color=#cfc}✔ predicted image (good){/color}\n"
+"{color=#fcc}✘ unpredicted image (bad){/color}\n"
+"{color=#fff}Drag to move.{/color}"
+msgstr "\n"
+"{color=#cfc}✔ image prédite (bon){/color}\n"
+"{color=#fcc}✘ image imprévue (mauvais){/color}\n"
+"{color=#fff}Faire glisser pour déplacer.{/color}"
+

@@ -1,0 +1,246 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: once-a-porn-a-time\n"
+"X-Crowdin-Project-ID: 651436\n"
+"X-Crowdin-Language: de\n"
+"X-Crowdin-File: /main/game/tl/crowdin/script.po\n"
+"X-Crowdin-File-ID: 12964\n"
+"Project-Id-Version: once-a-porn-a-time\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: German\n"
+"Language: de_DE\n"
+"PO-Revision-Date: 2024-03-23 21:28\n"
+
+# TODO: Translation updated at 2024-02-22 14:14 #|#|# # §translate crowdin strings: #|#|# # game/script.rpy:935
+msgid "Changelog"
+msgstr "Änderungsverlauf"
+
+# game/script.rpy:940
+msgid "Changelog [config.version!t]\n"
+msgstr "Änderungsverlauf [config.version!t]\n"
+
+# game/script.rpy:946
+msgid "{size=20}{color=#797979}02/2023{/color}{/size}"
+msgstr "{size=20}{color=#797979}02/2023{/color}{/size}"
+
+# game/script.rpy:947
+msgid "-Main Quest"
+msgstr "-Hauptquest"
+
+# game/script.rpy:948
+msgid "-Characters Quests"
+msgstr "-Charakter Quests"
+
+# game/script.rpy:949
+msgid "-Bugfix"
+msgstr "-Bugfix"
+
+# game/script.rpy:951
+msgid "{size=20}{color=#797979}12/2023{/color}{/size}"
+msgstr "{size=20}{color=#797979}12/2023{/color}{/size}"
+
+# game/script.rpy:952
+msgid "-Small update"
+msgstr "-Kleines Update"
+
+# game/script.rpy:956
+msgid "{size=20}{color=#797979}11/2023{/color}{/size}"
+msgstr "{size=20}{color=#797979}11/2023{/color}{/size}"
+
+# game/script.rpy:957
+msgid "-BugFix"
+msgstr "-Fehlerbehebung"
+
+# game/script.rpy:960
+msgid "-New Main Quest"
+msgstr "-Neue Hauptquest"
+
+# game/script.rpy:962
+msgid "-New Characters"
+msgstr "-Neue Charaktere"
+
+# game/script.rpy:963
+msgid "-Lots of New Clothes"
+msgstr "-Viele neue Kleider"
+
+# game/script.rpy:965
+msgid "{size=20}{color=#797979}10/2023{/color}{/size}"
+msgstr "{size=20}{color=#797979}10/2023{/color}{/size}"
+
+# game/script.rpy:966
+msgid "-New Patreon Quest"
+msgstr "-Neue Patreon Quest"
+
+# game/script.rpy:967
+msgid "-New Clothes"
+msgstr "-neue Kleidung"
+
+# game/script.rpy:969
+msgid "{size=20}{color=#797979}08/2023{/color}{/size}"
+msgstr ""
+
+# game/script.rpy:970
+msgid "-Office Customs"
+msgstr "-Büro Umgestaltungen"
+
+# game/script.rpy:973
+msgid "{size=20}{color=#797979}07/2023{/color}{/size}"
+msgstr ""
+
+# game/script.rpy:978
+msgid "{size=20}{color=#797979}04/2023{/color}{/size}"
+msgstr ""
+
+# game/script.rpy:979
+msgid "-Jasmine Patreon Quest Corruption"
+msgstr "-Jasmine Patreon Quest Korruption"
+
+# game/script.rpy:983
+msgid "02/2023"
+msgstr ""
+
+# game/script.rpy:987
+msgid "{size=20}{color=#797979}01/2023{/color}{/size}"
+msgstr ""
+
+# game/script.rpy:988
+msgid "-First Patreon Quest"
+msgstr "-Erste Patreon Quest"
+
+# game/script.rpy:990
+msgid "- New Clothes"
+msgstr "Neue Kleidung"
+
+# game/script.rpy:992
+msgid "{size=20}{color=#797979}11/2022{/color}{/size}"
+msgstr ""
+
+# game/script.rpy:993
+msgid "- Sultana quest"
+msgstr "- Sultana Quest"
+
+# game/script.rpy:994
+msgid "- Sherazade Corruption"
+msgstr "-Sherazade Korruption"
+
+# game/script.rpy:995
+msgid "- Character Romance progression"
+msgstr ""
+
+# game/script.rpy:998
+msgid "{size=20}{color=#797979}09/2022{/color}{/size}"
+msgstr ""
+
+# game/script.rpy:999
+msgid "-First Update, Introduction."
+msgstr ""
+
+# game/script.rpy:1003
+msgid "Creator : Salty01 "
+msgstr "Ersteller: Salty01 "
+
+# game/script.rpy:1004
+msgid "PATREON PAGE : https://www.patreon.com/Salty01_NSFW "
+msgstr "PATREON SEITE : https://www.patreon.com/Salty01_NSFW "
+
+# game/script.rpy:1133
+msgid "Data Chelou"
+msgstr ""
+
+# game/script.rpy:1134
+msgid "Chest Melissandre"
+msgstr ""
+
+# game/script.rpy:1135
+msgid "Boule Magique"
+msgstr ""
+
+# game/script.rpy:1137
+msgid "Old Book"
+msgstr ""
+
+# game/script.rpy:1139
+msgid "Spoon"
+msgstr ""
+
+# game/script.rpy:1140
+msgid "Orders for Djin"
+msgstr "Aufträge für Djin"
+
+# game/script.rpy:1141
+msgid "Magic Lamp"
+msgstr "Wunderlampe"
+
+# game/script.rpy:1142
+msgid "Silver Box"
+msgstr ""
+
+# game/script.rpy:1143
+msgid "Secretary Password"
+msgstr "Sekretär Passwort"
+
+# game/script.rpy:1144
+msgid "Recruitment Checklist"
+msgstr "Rekrutierungs-Checkliste"
+
+# game/script.rpy:1145
+msgid "Tool List"
+msgstr ""
+
+# game/script.rpy:1146
+msgid "Incomplete Tool Box"
+msgstr ""
+
+# game/script.rpy:1147
+msgid "Complete Tool Box"
+msgstr ""
+
+# game/script.rpy:1148
+msgid "Electronic Key"
+msgstr ""
+
+# game/script.rpy:1149
+msgid "Lyco Request List"
+msgstr ""
+
+# game/script.rpy:1150
+msgid "Dance Book Vol.I"
+msgstr ""
+
+# game/script.rpy:1151
+msgid "Dance Book Vol.II"
+msgstr ""
+
+# game/script.rpy:1152
+msgid "Dance Book Vol.III"
+msgstr ""
+
+# game/script.rpy:1153
+msgid "Sherazade Orders"
+msgstr ""
+
+# game/script.rpy:1154
+msgid "Oasis Heart Drawn"
+msgstr ""
+
+# game/script.rpy:1155
+msgid "Undefined Luggage"
+msgstr "Undefiniertes Gepäck"
+
+# game/script.rpy:1156
+msgid "List of Sex Fantasies"
+msgstr "Liste der Sex-Fantasien"
+
+# game/script.rpy:1157
+msgid "White Peacock feather"
+msgstr "Weiße Pfauenfeder"
+
+# game/script.rpy:1158
+msgid "Sherazade Garment"
+msgstr "Sherazade Kleid"
+
+# game/script.rpy:1159
+msgid "Little Horn"
+msgstr "Kleines Horn"
+

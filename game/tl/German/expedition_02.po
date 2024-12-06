@@ -1,0 +1,46 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: once-a-porn-a-time\n"
+"X-Crowdin-Project-ID: 651436\n"
+"X-Crowdin-Language: de\n"
+"X-Crowdin-File: /main/game/tl/crowdin/expedition_02.po\n"
+"X-Crowdin-File-ID: 12950\n"
+"Project-Id-Version: once-a-porn-a-time\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: German\n"
+"Language: de_DE\n"
+"PO-Revision-Date: 2024-02-26 09:12\n"
+
+# TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/expedition_02.rpy:17 #-#-# translate crowdin expedition_02_5f2bfafc:
+msgid "[_u_] I don't need this drone at the moment. "
+msgstr ""
+
+# game/expedition_02.rpy:609 #-#-# translate crowdin expedition_02_lvl1fouille_88b7fe5b:
+msgid "---------"
+msgstr ""
+
+# §translate crowdin strings: #|#|# # game/expedition_02.rpy:71
+msgid "$Drone Energy Boost 3AP ([ITEM_DRONE_2APBOOST] left) "
+msgstr ""
+
+# game/expedition_02.rpy:71
+msgid "$Drone Energy Boost 5AP ([ITEM_DRONE_5APBOOST] left) "
+msgstr ""
+
+# game/expedition_02.rpy:71
+msgid "$No thanks !"
+msgstr ""
+
+# game/expedition_02.rpy:422
+msgid "$Search the area {color=#3797d1}=2AP={/color} "
+msgstr ""
+
+# game/expedition_02.rpy:422
+msgid "$Keep moving forward {color=#3797d1}=1AP={/color} (1-3 slots)"
+msgstr ""
+
+# game/expedition_02.rpy:422
+msgid "$Bring back the Drone {color=#3797d1}=1AP={/color}"
+msgstr ""
+

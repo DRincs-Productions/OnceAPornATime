@@ -1,0 +1,22 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: once-a-porn-a-time\n"
+"X-Crowdin-Project-ID: 651436\n"
+"X-Crowdin-Language: de\n"
+"X-Crowdin-File: /main/game/tl/crowdin/room01_donnee02.po\n"
+"X-Crowdin-File-ID: 12960\n"
+"Project-Id-Version: once-a-porn-a-time\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: German\n"
+"Language: de_DE\n"
+"PO-Revision-Date: 2024-02-26 09:13\n"
+
+# TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/room01_donnee02.rpy:42 #-#-# translate crowdin room01_donneechara01_panel01_5fad2aac:
+msgid " = This is the corpution panel = "
+msgstr ""
+
+# game/room01_donnee02.rpy:43 #-#-# translate crowdin room01_donneechara01_panel01_9ed64106:
+msgid " = All corruptible characters in this version of the game are available here. = "
+msgstr ""
+
