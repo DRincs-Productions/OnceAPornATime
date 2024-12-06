@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-12-05 23:10\n"
+"PO-Revision-Date: 2024-12-06 00:09\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_SZ.rpy:87 #-#-# translate crowdin CHARA_SZ_Menu01_af6c6a0a:
 msgid "[_sz_]  ... "
@@ -3486,7 +3486,7 @@ msgstr ""
 
 # game/Cell01_SZ.rpy:2339 #-#-# translate crowdin Quest_SZ_SultanaEnd01_d337807a:
 msgid "[_u_] Mh..."
-msgstr ""
+msgstr "[_u_] Mh..."
 
 # game/Cell01_SZ.rpy:2341 #-#-# translate crowdin Quest_SZ_SultanaEnd01_1f233327:
 msgid "[_u_] What would you think... "
@@ -4226,7 +4226,7 @@ msgstr ""
 
 # game/Cell01_SZ.rpy:2902 #-#-# translate crowdin QuestChap2_Jasmine01_02_d337807a:
 msgid "[_u_] Mh..."
-msgstr ""
+msgstr "[_u_] Mh..."
 
 # game/Cell01_SZ.rpy:2904 #-#-# translate crowdin QuestChap2_Jasmine01_02_7b1c1392:
 msgid "[_u_] ..."
@@ -6254,7 +6254,7 @@ msgstr ""
 
 # game/Cell01_SZ.rpy:4278 #-#-# translate crowdin Quest_SZ_AskReputation_02_d337807a:
 msgid "[_u_] Mh..."
-msgstr ""
+msgstr "[_u_] Mh..."
 
 # game/Cell01_SZ.rpy:4280 #-#-# translate crowdin Quest_SZ_AskReputation_02_3965abd7:
 msgid "[_u_] I have a few ideas."
@@ -6454,7 +6454,7 @@ msgstr ""
 
 # game/Cell01_SZ.rpy:4385 #-#-# translate crowdin ML_SherazadeClothes01_05_d337807a:
 msgid "[_u_] Mh..."
-msgstr ""
+msgstr "[_u_] Mh..."
 
 # game/Cell01_SZ.rpy:4387 #-#-# translate crowdin ML_SherazadeClothes01_05_2bb216d7:
 msgid "[_ly_] Oh well, in exchange, you've seen my tits, it's not so bad isn't it? "
@@ -6746,7 +6746,7 @@ msgstr ""
 
 # game/Cell01_SZ.rpy:4560 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_07_f03364d0:
 msgid "[_u_] Wow... "
-msgstr ""
+msgstr "[_u_] Guau... "
 
 # game/Cell01_SZ.rpy:4562 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_07_f33fd715:
 msgid "[_sz_] What?"
@@ -6982,7 +6982,7 @@ msgstr ""
 
 # game/Cell01_SZ.rpy:4734 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_07_menu1_P4_d337807a:
 msgid "[_u_] Mh..."
-msgstr ""
+msgstr "[_u_] Mh..."
 
 # game/Cell01_SZ.rpy:4736 #-#-# translate crowdin Quest_SZ_Sherazade_Dress04_Reaction_07_menu1_P4_a3841101:
 msgid "[_sz_] What's taking you so long? "
@@ -7206,7 +7206,7 @@ msgstr ""
 
 # game/Cell01_SZ.rpy:4860 #-#-# translate crowdin Sherazade04_d337807a:
 msgid "[_u_] Mh..."
-msgstr ""
+msgstr "[_u_] Mh..."
 
 # game/Cell01_SZ.rpy:4861 #-#-# translate crowdin Sherazade04_1a68e7d1:
 msgid "[_u_] I think you'll be surprised. "
