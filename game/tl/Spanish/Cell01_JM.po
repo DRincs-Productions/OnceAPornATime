@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-12-05 23:10\n"
+"PO-Revision-Date: 2024-12-06 00:09\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_JM.rpy:131 #-#-# translate crowdin CHARA_JM_Menu01_0eca5cd6:
 msgid "[_jm_] Hello to you... my [Quest_JM_NameMC]."
@@ -1114,7 +1114,7 @@ msgstr "[_u_] ..."
 
 # game/Cell01_JM.rpy:1003 #-#-# translate crowdin Quest_JM_Favor_HideNude2_0529a669:
 msgid "[_u_] Wow..."
-msgstr ""
+msgstr "[_u_] Guau..."
 
 # game/Cell01_JM.rpy:1004 #-#-# translate crowdin Quest_JM_Favor_HideNude2_4b86ac33:
 msgid "[_jm_] What? What is it? "
@@ -1130,7 +1130,7 @@ msgstr ""
 
 # game/Cell01_JM.rpy:1012 #-#-# translate crowdin Quest_JM_Favor_HideNude2_d337807a:
 msgid "[_u_] Mh..."
-msgstr ""
+msgstr "[_u_] Mh..."
 
 # game/Cell01_JM.rpy:1013 #-#-# translate crowdin Quest_JM_Favor_HideNude2_ab4efd14:
 msgid "[_u_] Let me see that again for a second... "
@@ -1230,7 +1230,7 @@ msgstr "[_u_] ..."
 
 # game/Cell01_JM.rpy:1085 #-#-# translate crowdin Quest_JM_Favor_HideNude2_0529a669_1:
 msgid "[_u_] Wow..."
-msgstr ""
+msgstr "[_u_] Guau..."
 
 # game/Cell01_JM.rpy:1086 #-#-# translate crowdin Quest_JM_Favor_HideNude2_4b86ac33_1:
 msgid "[_jm_] What? What is it? "
@@ -1246,7 +1246,7 @@ msgstr ""
 
 # game/Cell01_JM.rpy:1093 #-#-# translate crowdin Quest_JM_Favor_HideNude2_d337807a_1:
 msgid "[_u_] Mh..."
-msgstr ""
+msgstr "[_u_] Mh..."
 
 # game/Cell01_JM.rpy:1094 #-#-# translate crowdin Quest_JM_Favor_HideNude2_ab4efd14_1:
 msgid "[_u_] Let me see that again for a second... "
@@ -2190,7 +2190,7 @@ msgstr ""
 
 # game/Cell01_JM.rpy:1659 #-#-# translate crowdin Quest_JM_Favor_Boobs02_d337807a:
 msgid "[_u_] Mh..."
-msgstr ""
+msgstr "[_u_] Mh..."
 
 # game/Cell01_JM.rpy:1661 #-#-# translate crowdin Quest_JM_Favor_Boobs02_8020b112_1:
 msgid "[_jm_] ..."
@@ -2882,7 +2882,7 @@ msgstr ""
 
 # game/Cell01_JM.rpy:2178 #-#-# translate crowdin Quest_JM_Favor_Ask2_02_d337807a:
 msgid "[_u_] Mh..."
-msgstr ""
+msgstr "[_u_] Mh..."
 
 # game/Cell01_JM.rpy:2180 #-#-# translate crowdin Quest_JM_Favor_Ask2_02_f045608c:
 msgid "[_jm_] Can you imagine... a centaur... or faun... or worse!"
@@ -6766,7 +6766,7 @@ msgstr ""
 
 # game/Cell01_JM.rpy:5124 #-#-# translate crowdin QuestChap2_Jasmine01_10_MENU1_P2_d337807a:
 msgid "[_u_] Mh..."
-msgstr ""
+msgstr "[_u_] Mh..."
 
 # game/Cell01_JM.rpy:5130 #-#-# translate crowdin QuestChap2_Jasmine01_10_MENU1_P2_6668c8f1:
 msgid "[_jm_] But I... "
@@ -7106,7 +7106,7 @@ msgstr ""
 
 # game/Cell01_JM.rpy:5330 #-#-# translate crowdin QuestChap2_Jasmine01_11_d337807a:
 msgid "[_u_] Mh..."
-msgstr ""
+msgstr "[_u_] Mh..."
 
 # game/Cell01_JM.rpy:5332 #-#-# translate crowdin QuestChap2_Jasmine01_11_c168b717:
 msgid "[_u_] I think you meant to say:"
@@ -7314,7 +7314,7 @@ msgstr ""
 
 # game/Cell01_JM.rpy:5588 #-#-# translate crowdin GalleryImageQuest_Jasmine01_d337807a:
 msgid "[_u_] Mh..."
-msgstr ""
+msgstr "[_u_] Mh..."
 
 # game/Cell01_JM.rpy:5589 #-#-# translate crowdin GalleryImageQuest_Jasmine01_9495a9b9:
 msgid "[_u_] A little too much clothing for my taste."
