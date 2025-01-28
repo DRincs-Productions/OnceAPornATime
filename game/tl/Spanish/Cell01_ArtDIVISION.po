@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-12-06 00:09\n"
+"PO-Revision-Date: 2025-01-28 22:53\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Cell01_ArtDIVISION.rpy:151 #-#-# translate crowdin Cell01_ArtDIVISION_Menu01_ed0ef4ce:
 msgid "[_a_] Bonjour [name]!"
@@ -404,11 +404,11 @@ msgstr "[_u_] Amandine no debe estar lejos."
 
 # game/Cell01_ArtDIVISION.rpy:656 #-#-# translate crowdin QuestChap2_Amandine02_02_ROOM_mags_57258cce:
 msgid "[_u_] What's that?"
-msgstr ""
+msgstr "[_u_] ¿Qué es eso?"
 
 # game/Cell01_ArtDIVISION.rpy:660 #-#-# translate crowdin QuestChap2_Amandine02_02_ROOM_mags_d3197066:
 msgid "[_u_] So weird."
-msgstr ""
+msgstr "[_u_] Tan raro."
 
 # game/Cell01_ArtDIVISION.rpy:661 #-#-# translate crowdin QuestChap2_Amandine02_02_ROOM_mags_f876a884:
 msgid "[_u_] It must not be easy every day to be so popular. "
