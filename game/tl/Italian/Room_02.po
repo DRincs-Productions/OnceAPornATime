@@ -1,0 +1,102 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: once-a-porn-a-time\n"
+"X-Crowdin-Project-ID: 651436\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /main/game/tl/crowdin/Room_02.po\n"
+"X-Crowdin-File-ID: 12934\n"
+"Project-Id-Version: once-a-porn-a-time\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Italian\n"
+"Language: it_IT\n"
+"PO-Revision-Date: 2024-05-24 23:50\n"
+
+# TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Room_02.rpy:32 #-#-# translate crowdin room02_cuve01_5548a552:
+msgid " = THE CHARACTER IN CREATION WILL BE AVAILABLE IN {color=#40cbf9}[CHARA_CREA_PROCEED_DAYLEFT]{/color} DAYS ="
+msgstr " = IL CARATTERE IN CREAZIONE ESSERE DISPONIBILE IN {color=#40cbf9}[CHARA_CREA_PROCEED_DAYLEFT]{/color} GIORNI ="
+
+# game/Room_02.rpy:35 #-#-# translate crowdin room02_cuve01_77556add:
+msgid " = THE CLOTHES IN CREATION WILL BE AVAILABLE IN {color=#40cbf9}[CLOTHE_CREA_PROCEED_DAYLEFT]{/color} DAYS ="
+msgstr " = I CLOTHES IN CREATION WILL BE DISPONIBILE IN {color=#40cbf9}[CLOTHE_CREA_PROCEED_DAYLEFT]{/color} GIORNI ="
+
+# game/Room_02.rpy:38 #-#-# translate crowdin room02_cuve01_ad56e3cc:
+msgid " = THE HAIR IN CREATION WILL BE AVAILABLE IN {color=#40cbf9}[HAIR_CREA_PROCEED_DAYLEFT]{/color} DAYS ="
+msgstr " = IL CAPELLO IN CREAZIONE ESSERE DISPONIBILE IN {color=#40cbf9}[HAIR_CREA_PROCEED_DAYLEFT]{/color} GIORNI ="
+
+# game/Room_02.rpy:50 #-#-# translate crowdin room02_expedition01_menu01_c7ef097f:
+msgid "== DRONE UNAVAILABLE DURING THE NIGHT =="
+msgstr "== DRONE DISPONIBILE DURANTE IL NIGHT =="
+
+# game/Room_02.rpy:71 #-#-# translate crowdin room02_expedition01_menu01_c7ef097f_1:
+msgid "== DRONE UNAVAILABLE DURING THE NIGHT =="
+msgstr "== DRONE DISPONIBILE DURANTE IL NIGHT =="
+
+# game/Room_02.rpy:79 #-#-# translate crowdin room02_charadonne_6d4c8099:
+msgid "== UNAVAILABLE DURING THE NIGHT =="
+msgstr "== DISPONIBILE DURANTE IL NOTTE =="
+
+# game/Room_02.rpy:94 #-#-# translate crowdin room02_diretcell_5f1aa7f1:
+msgid "Melissandre is currently in the showers."
+msgstr "Melissandre è attualmente nelle docce."
+
+# game/Room_02.rpy:104 #-#-# translate crowdin room02_diretcell_356ef1d3:
+msgid "You have already visited this place today "
+msgstr "Hai già visitato questo posto oggi "
+
+# game/Room_02.rpy:107 #-#-# translate crowdin room02_diretcell_a116b8ba:
+msgid "You have already visited this place tonight "
+msgstr "Hai già visitato questo posto stasera "
+
+# game/Room_02.rpy:130 #-#-# translate crowdin room02_diretcell_356ef1d3_1:
+msgid "You have already visited this place today "
+msgstr "Hai già visitato questo posto oggi "
+
+# game/Room_02.rpy:141 #-#-# translate crowdin room02_diretcell_18711c31:
+msgid "You have already visited this character today "
+msgstr "Hai già visitato questo personaggio oggi "
+
+# game/Room_02.rpy:144 #-#-# translate crowdin room02_diretcell_9990099a:
+msgid "You have already visited this character tonight "
+msgstr "Hai già visitato questo personaggio stasera "
+
+# game/Room_02.rpy:153 #-#-# translate crowdin room02_diretcell_9a2f3415:
+msgid "[_u_] It's late, there must be no one there."
+msgstr "[_u_] È tardi, non ci deve essere nessuno lì."
+
+# game/Room_02.rpy:166 #-#-# translate crowdin room02_diretcell_cd938b39:
+msgid "It's useless to go out for the moment. "
+msgstr "È inutile uscire per il momento. "
+
+# §translate crowdin strings: #|#|# # game/Room_02.rpy:47
+msgid "=Drone expedition="
+msgstr "=Spedizione drone="
+
+# game/Room_02.rpy:47
+msgid "=Manage automatic drones="
+msgstr "=Gestisci droni automatici="
+
+# game/Room_02.rpy:91
+msgid "$Laboratory"
+msgstr "$Laboratory"
+
+# game/Room_02.rpy:91
+msgid "$Artistic Division"
+msgstr "Divisione $Artistic"
+
+# game/Room_02.rpy:91
+msgid "$Amelia's Office"
+msgstr "Ufficio Di $Amelia"
+
+# game/Room_02.rpy:91
+msgid "$Showers"
+msgstr "$Showers"
+
+# game/Room_02.rpy:91
+msgid "$Outside"
+msgstr "$Outside"
+
+# game/Room_02.rpy:91
+msgid "$Return"
+msgstr "$Return"
+

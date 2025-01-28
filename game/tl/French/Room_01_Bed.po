@@ -1,0 +1,46 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Crowdin-Project: once-a-porn-a-time\n"
+"X-Crowdin-Project-ID: 651436\n"
+"X-Crowdin-Language: fr\n"
+"X-Crowdin-File: /main/game/tl/crowdin/Room_01_Bed.po\n"
+"X-Crowdin-File-ID: 12924\n"
+"Project-Id-Version: once-a-porn-a-time\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: French\n"
+"Language: fr_FR\n"
+"PO-Revision-Date: 2024-03-19 16:10\n"
+
+# TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Room_01_Bed.rpy:56 #-#-# translate crowdin ROOM_BED01_BED_e83acd4d:
+msgid "[_u_] No need to sleep for now."
+msgstr "[Pas besoin de dormir pour l'instant."
+
+# game/Room_01_Bed.rpy:61 #-#-# translate crowdin ROOM_BED01_BED_d95e1804:
+msgid "Good Night!"
+msgstr "Bonne nuit !"
+
+# game/Room_01_Bed.rpy:92 #-#-# translate crowdin ROOM_BED01_SPYSCREENS_2e615aef:
+msgid "[_u_] What are these things? Is it the creator who installed this? "
+msgstr "[Qu'est-ce que c'est que ces choses ? Est-ce le créateur qui a installé cela ? "
+
+# game/Room_01_Bed.rpy:93 #-#-# translate crowdin ROOM_BED01_SPYSCREENS_8e4360db:
+msgid "[_u_] I wonder what it's for...."
+msgstr "[Je me demande à quoi ça sert ...."
+
+# game/Room_01_Bed.rpy:94 #-#-# translate crowdin ROOM_BED01_SPYSCREENS_9752bead:
+msgid "[_u_] It lights up but nothing else... I don't feel like it's in working order. "
+msgstr "[Il s'allume mais rien d'autre... Je n'ai pas l'impression qu'il soit en état de marche. "
+
+# game/Room_01_Bed.rpy:95 #-#-# translate crowdin ROOM_BED01_SPYSCREENS_376dd06a:
+msgid "[_u_] I should ask Meli what it is next time I see her. "
+msgstr "[_u_] Je devrais demander à Meli ce que c'est la prochaine fois que je la vois. "
+
+# game/Room_01_Bed.rpy:103 #-#-# translate crowdin ROOM_BED01_SPYSCREENS_10a8dc8e:
+msgid "[_e_] BLOUBLOU"
+msgstr "[_e_] BLOUBLOU"
+
+# §translate crowdin strings: #|#|# # game/Room_01_Bed.rpy:80
+msgid "$Contine the day"
+msgstr "$Contine le jour"
+

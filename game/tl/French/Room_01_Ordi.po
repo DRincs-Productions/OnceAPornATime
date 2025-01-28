@@ -1,0 +1,656 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Crowdin-Project: once-a-porn-a-time\n"
+"X-Crowdin-Project-ID: 651436\n"
+"X-Crowdin-Language: fr\n"
+"X-Crowdin-File: /main/game/tl/crowdin/Room_01_Ordi.po\n"
+"X-Crowdin-File-ID: 12930\n"
+"Project-Id-Version: once-a-porn-a-time\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: French\n"
+"Language: fr_FR\n"
+"PO-Revision-Date: 2024-03-19 17:20\n"
+
+# TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Room_01_Ordi.rpy:7 #-#-# translate crowdin room01_ordi01_In_f3a4608f:
+msgid "[_u_] Let's try to open that door first."
+msgstr "[ _u_ ] Essayons d'ouvrir cette porte en premier."
+
+# game/Room_01_Ordi.rpy:110 #-#-# translate crowdin room01_ordi01_In_ComputerMainMenu_ca788b67:
+msgid "Empty your mailbox before buying new items"
+msgstr "Videz votre boîte aux lettres avant d'acheter de nouveaux articles"
+
+# game/Room_01_Ordi.rpy:295 #-#-# translate crowdin room01_ordi01_achat_objets_b1e9a2b8:
+msgid " ==ERROR== You don't have enough money. "
+msgstr " ==ERREUR== Vous n'avez pas assez d'argent. "
+
+# game/Room_01_Ordi.rpy:301 #-#-# translate crowdin room01_ordi01_achat_objets_c3ee7682:
+msgid "== THANK YOU FOR YOUR PURCHASE! =="
+msgstr "== MERCI POUR VOTRE ACHAT ! =="
+
+# game/Room_01_Ordi.rpy:302 #-#-# translate crowdin room01_ordi01_achat_objets_7a8e26be:
+msgid "== DATA DOWNLOAD ! =="
+msgstr "== TÉLÉCHARGEMENT DE DONNÉES ! =="
+
+# game/Room_01_Ordi.rpy:307 #-#-# translate crowdin room01_ordi01_achat_objets_b1e9a2b8_1:
+msgid " ==ERROR== You don't have enough money. "
+msgstr " ==ERREUR== Vous n'avez pas assez d'argent. "
+
+# game/Room_01_Ordi.rpy:313 #-#-# translate crowdin room01_ordi01_achat_objets_c3ee7682_1:
+msgid "== THANK YOU FOR YOUR PURCHASE! =="
+msgstr "== MERCI POUR VOTRE ACHAT ! =="
+
+# game/Room_01_Ordi.rpy:314 #-#-# translate crowdin room01_ordi01_achat_objets_7a8e26be_1:
+msgid "== DATA DOWNLOAD ! =="
+msgstr "== TÉLÉCHARGEMENT DE DONNÉES ! =="
+
+# game/Room_01_Ordi.rpy:319 #-#-# translate crowdin room01_ordi01_achat_objets_b1e9a2b8_2:
+msgid " ==ERROR== You don't have enough money. "
+msgstr " ==ERREUR== Vous n'avez pas assez d'argent. "
+
+# game/Room_01_Ordi.rpy:326 #-#-# translate crowdin room01_ordi01_achat_objets_c3ee7682_2:
+msgid "== THANK YOU FOR YOUR PURCHASE! =="
+msgstr "== MERCI POUR VOTRE ACHAT ! =="
+
+# game/Room_01_Ordi.rpy:327 #-#-# translate crowdin room01_ordi01_achat_objets_e474bd70:
+msgid "== You will receive your order soon! =="
+msgstr "== Vous recevrez votre commande bientôt ! =="
+
+# game/Room_01_Ordi.rpy:333 #-#-# translate crowdin room01_ordi01_achat_objets_b1e9a2b8_3:
+msgid " ==ERROR== You don't have enough money. "
+msgstr " ==ERREUR== Vous n'avez pas assez d'argent. "
+
+# game/Room_01_Ordi.rpy:340 #-#-# translate crowdin room01_ordi01_achat_objets_c3ee7682_3:
+msgid "== THANK YOU FOR YOUR PURCHASE! =="
+msgstr "== MERCI POUR VOTRE ACHAT ! =="
+
+# game/Room_01_Ordi.rpy:341 #-#-# translate crowdin room01_ordi01_achat_objets_e474bd70_1:
+msgid "== You will receive your order soon! =="
+msgstr "== Vous recevrez votre commande bientôt ! =="
+
+# game/Room_01_Ordi.rpy:347 #-#-# translate crowdin room01_ordi01_achat_objets_b1e9a2b8_4:
+msgid " ==ERROR== You don't have enough money. "
+msgstr " ==ERREUR== Vous n'avez pas assez d'argent. "
+
+# game/Room_01_Ordi.rpy:354 #-#-# translate crowdin room01_ordi01_achat_objets_c3ee7682_4:
+msgid "== THANK YOU FOR YOUR PURCHASE! =="
+msgstr "== MERCI POUR VOTRE ACHAT ! =="
+
+# game/Room_01_Ordi.rpy:355 #-#-# translate crowdin room01_ordi01_achat_objets_e474bd70_2:
+msgid "== You will receive your order soon! =="
+msgstr "== Vous recevrez votre commande bientôt ! =="
+
+# game/Room_01_Ordi.rpy:376 #-#-# translate crowdin room01_ordi01_achat_objetsGifts_b1e9a2b8:
+msgid " ==ERROR== You don't have enough money. "
+msgstr " ==ERREUR== Vous n'avez pas assez d'argent. "
+
+# game/Room_01_Ordi.rpy:383 #-#-# translate crowdin room01_ordi01_achat_objetsGifts_c3ee7682:
+msgid "== THANK YOU FOR YOUR PURCHASE! =="
+msgstr "== MERCI POUR VOTRE ACHAT ! =="
+
+# game/Room_01_Ordi.rpy:384 #-#-# translate crowdin room01_ordi01_achat_objetsGifts_e474bd70:
+msgid "== You will receive your order soon! =="
+msgstr "== Vous recevrez votre commande bientôt ! =="
+
+# game/Room_01_Ordi.rpy:389 #-#-# translate crowdin room01_ordi01_achat_objetsGifts_b1e9a2b8_1:
+msgid " ==ERROR== You don't have enough money. "
+msgstr " ==ERREUR== Vous n'avez pas assez d'argent. "
+
+# game/Room_01_Ordi.rpy:396 #-#-# translate crowdin room01_ordi01_achat_objetsGifts_c3ee7682_1:
+msgid "== THANK YOU FOR YOUR PURCHASE! =="
+msgstr "== MERCI POUR VOTRE ACHAT ! =="
+
+# game/Room_01_Ordi.rpy:397 #-#-# translate crowdin room01_ordi01_achat_objetsGifts_e474bd70_1:
+msgid "== You will receive your order soon! =="
+msgstr "== Vous recevrez votre commande bientôt ! =="
+
+# game/Room_01_Ordi.rpy:402 #-#-# translate crowdin room01_ordi01_achat_objetsGifts_b1e9a2b8_2:
+msgid " ==ERROR== You don't have enough money. "
+msgstr " ==ERREUR== Vous n'avez pas assez d'argent. "
+
+# game/Room_01_Ordi.rpy:409 #-#-# translate crowdin room01_ordi01_achat_objetsGifts_c3ee7682_2:
+msgid "== THANK YOU FOR YOUR PURCHASE! =="
+msgstr "== MERCI POUR VOTRE ACHAT ! =="
+
+# game/Room_01_Ordi.rpy:410 #-#-# translate crowdin room01_ordi01_achat_objetsGifts_e474bd70_2:
+msgid "== You will receive your order soon! =="
+msgstr "== Vous recevrez votre commande bientôt ! =="
+
+# game/Room_01_Ordi.rpy:415 #-#-# translate crowdin room01_ordi01_achat_objetsGifts_b1e9a2b8_3:
+msgid " ==ERROR== You don't have enough money. "
+msgstr " ==ERREUR== Vous n'avez pas assez d'argent. "
+
+# game/Room_01_Ordi.rpy:422 #-#-# translate crowdin room01_ordi01_achat_objetsGifts_c3ee7682_3:
+msgid "== THANK YOU FOR YOUR PURCHASE! =="
+msgstr "== MERCI POUR VOTRE ACHAT ! =="
+
+# game/Room_01_Ordi.rpy:423 #-#-# translate crowdin room01_ordi01_achat_objetsGifts_e474bd70_3:
+msgid "== You will receive your order soon! =="
+msgstr "== Vous recevrez votre commande bientôt ! =="
+
+# game/Room_01_Ordi.rpy:436 #-#-# translate crowdin room01_ordi01_achat_DroneStore_b1e9a2b8:
+msgid " ==ERROR== You don't have enough money. "
+msgstr " ==ERREUR== Vous n'avez pas assez d'argent. "
+
+# game/Room_01_Ordi.rpy:443 #-#-# translate crowdin room01_ordi01_achat_DroneStore_c3ee7682:
+msgid "== THANK YOU FOR YOUR PURCHASE! =="
+msgstr "== MERCI POUR VOTRE ACHAT ! =="
+
+# game/Room_01_Ordi.rpy:444 #-#-# translate crowdin room01_ordi01_achat_DroneStore_e474bd70:
+msgid "== You will receive your order soon! =="
+msgstr "== Vous recevrez votre commande bientôt ! =="
+
+# game/Room_01_Ordi.rpy:449 #-#-# translate crowdin room01_ordi01_achat_DroneStore_b1e9a2b8_1:
+msgid " ==ERROR== You don't have enough money. "
+msgstr " ==ERREUR== Vous n'avez pas assez d'argent. "
+
+# game/Room_01_Ordi.rpy:456 #-#-# translate crowdin room01_ordi01_achat_DroneStore_c3ee7682_1:
+msgid "== THANK YOU FOR YOUR PURCHASE! =="
+msgstr "== MERCI POUR VOTRE ACHAT ! =="
+
+# game/Room_01_Ordi.rpy:457 #-#-# translate crowdin room01_ordi01_achat_DroneStore_e474bd70_1:
+msgid "== You will receive your order soon! =="
+msgstr "== Vous recevrez votre commande bientôt ! =="
+
+# game/Room_01_Ordi.rpy:462 #-#-# translate crowdin room01_ordi01_achat_DroneStore_b1e9a2b8_2:
+msgid " ==ERROR== You don't have enough money. "
+msgstr " ==ERREUR== Vous n'avez pas assez d'argent. "
+
+# game/Room_01_Ordi.rpy:469 #-#-# translate crowdin room01_ordi01_achat_DroneStore_c3ee7682_2:
+msgid "== THANK YOU FOR YOUR PURCHASE! =="
+msgstr "== MERCI POUR VOTRE ACHAT ! =="
+
+# game/Room_01_Ordi.rpy:470 #-#-# translate crowdin room01_ordi01_achat_DroneStore_e474bd70_2:
+msgid "== You will receive your order soon! =="
+msgstr "== Vous recevrez votre commande bientôt ! =="
+
+# game/Room_01_Ordi.rpy:483 #-#-# translate crowdin room01_ordi01_achat_FurnitureStore_b1e9a2b8:
+msgid " ==ERROR== You don't have enough money. "
+msgstr " ==ERREUR== Vous n'avez pas assez d'argent. "
+
+# game/Room_01_Ordi.rpy:490 #-#-# translate crowdin room01_ordi01_achat_FurnitureStore_c3ee7682:
+msgid "== THANK YOU FOR YOUR PURCHASE! =="
+msgstr "== MERCI POUR VOTRE ACHAT ! =="
+
+# game/Room_01_Ordi.rpy:495 #-#-# translate crowdin room01_ordi01_achat_FurnitureStore_b1e9a2b8_1:
+msgid " ==ERROR== You don't have enough money. "
+msgstr " ==ERREUR== Vous n'avez pas assez d'argent. "
+
+# game/Room_01_Ordi.rpy:502 #-#-# translate crowdin room01_ordi01_achat_FurnitureStore_c3ee7682_1:
+msgid "== THANK YOU FOR YOUR PURCHASE! =="
+msgstr "== MERCI POUR VOTRE ACHAT ! =="
+
+# game/Room_01_Ordi.rpy:507 #-#-# translate crowdin room01_ordi01_achat_FurnitureStore_b1e9a2b8_2:
+msgid " ==ERROR== You don't have enough money. "
+msgstr " ==ERREUR== Vous n'avez pas assez d'argent. "
+
+# game/Room_01_Ordi.rpy:514 #-#-# translate crowdin room01_ordi01_achat_FurnitureStore_c3ee7682_2:
+msgid "== THANK YOU FOR YOUR PURCHASE! =="
+msgstr "== MERCI POUR VOTRE ACHAT ! =="
+
+# game/Room_01_Ordi.rpy:519 #-#-# translate crowdin room01_ordi01_achat_FurnitureStore_b1e9a2b8_3:
+msgid " ==ERROR== You don't have enough money. "
+msgstr " ==ERREUR== Vous n'avez pas assez d'argent. "
+
+# game/Room_01_Ordi.rpy:526 #-#-# translate crowdin room01_ordi01_achat_FurnitureStore_c3ee7682_3:
+msgid "== THANK YOU FOR YOUR PURCHASE! =="
+msgstr "== MERCI POUR VOTRE ACHAT ! =="
+
+# game/Room_01_Ordi.rpy:531 #-#-# translate crowdin room01_ordi01_achat_FurnitureStore_b1e9a2b8_4:
+msgid " ==ERROR== You don't have enough money. "
+msgstr " ==ERREUR== Vous n'avez pas assez d'argent. "
+
+# game/Room_01_Ordi.rpy:538 #-#-# translate crowdin room01_ordi01_achat_FurnitureStore_c3ee7682_4:
+msgid "== THANK YOU FOR YOUR PURCHASE! =="
+msgstr "== MERCI POUR VOTRE ACHAT ! =="
+
+# game/Room_01_Ordi.rpy:581 #-#-# translate crowdin room01_ordi01_galleryQuests_7b8a9f25:
+msgid " = NO DATAS = Continue Main Story quests, Character Quests and Patreon Quests to unlocks this gallery image. "
+msgstr " = NO DATAS = Continuer les quêtes de l'histoire principale, les quêtes de caractères et les nids de Patreon pour déverrouiller cette image de la galerie. "
+
+# game/Room_01_Ordi.rpy:590 #-#-# translate crowdin room01_ordi01_galleryQuests_7b8a9f25_1:
+msgid " = NO DATAS = Continue Main Story quests, Character Quests and Patreon Quests to unlocks this gallery image. "
+msgstr " = NO DATAS = Continuer les quêtes de l'histoire principale, les quêtes de caractères et les nids de Patreon pour déverrouiller cette image de la galerie. "
+
+# game/Room_01_Ordi.rpy:599 #-#-# translate crowdin room01_ordi01_galleryQuests_7b8a9f25_2:
+msgid " = NO DATAS = Continue Main Story quests, Character Quests and Patreon Quests to unlocks this gallery image. "
+msgstr " = NO DATAS = Continuer les quêtes de l'histoire principale, les quêtes de caractères et les nids de Patreon pour déverrouiller cette image de la galerie. "
+
+# game/Room_01_Ordi.rpy:608 #-#-# translate crowdin room01_ordi01_galleryQuests_7b8a9f25_3:
+msgid " = NO DATAS = Continue Main Story quests, Character Quests and Patreon Quests to unlocks this gallery image. "
+msgstr " = NO DATAS = Continuer les quêtes de l'histoire principale, les quêtes de caractères et les nids de Patreon pour déverrouiller cette image de la galerie. "
+
+# game/Room_01_Ordi.rpy:616 #-#-# translate crowdin room01_ordi01_galleryQuests_7b8a9f25_4:
+msgid " = NO DATAS = Continue Main Story quests, Character Quests and Patreon Quests to unlocks this gallery image. "
+msgstr " = NO DATAS = Continuer les quêtes de l'histoire principale, les quêtes de caractères et les nids de Patreon pour déverrouiller cette image de la galerie. "
+
+# game/Room_01_Ordi.rpy:624 #-#-# translate crowdin room01_ordi01_galleryQuests_7b8a9f25_5:
+msgid " = NO DATAS = Continue Main Story quests, Character Quests and Patreon Quests to unlocks this gallery image. "
+msgstr " = NO DATAS = Continuer les quêtes de l'histoire principale, les quêtes de caractères et les nids de Patreon pour déverrouiller cette image de la galerie. "
+
+# game/Room_01_Ordi.rpy:632 #-#-# translate crowdin room01_ordi01_galleryQuests_7b8a9f25_6:
+msgid " = NO DATAS = Continue Main Story quests, Character Quests and Patreon Quests to unlocks this gallery image. "
+msgstr " = NO DATAS = Continuer les quêtes de l'histoire principale, les quêtes de caractères et les nids de Patreon pour déverrouiller cette image de la galerie. "
+
+# game/Room_01_Ordi.rpy:640 #-#-# translate crowdin room01_ordi01_galleryQuests_7b8a9f25_7:
+msgid " = NO DATAS = Continue Main Story quests, Character Quests and Patreon Quests to unlocks this gallery image. "
+msgstr " = NO DATAS = Continuer les quêtes de l'histoire principale, les quêtes de caractères et les nids de Patreon pour déverrouiller cette image de la galerie. "
+
+# game/Room_01_Ordi.rpy:648 #-#-# translate crowdin room01_ordi01_galleryQuests_7b8a9f25_8:
+msgid " = NO DATAS = Continue Main Story quests, Character Quests and Patreon Quests to unlocks this gallery image. "
+msgstr " = NO DATAS = Continuer les quêtes de l'histoire principale, les quêtes de caractères et les nids de Patreon pour déverrouiller cette image de la galerie. "
+
+# game/Room_01_Ordi.rpy:656 #-#-# translate crowdin room01_ordi01_galleryQuests_7b8a9f25_9:
+msgid " = NO DATAS = Continue Main Story quests, Character Quests and Patreon Quests to unlocks this gallery image. "
+msgstr " = NO DATAS = Continuer les quêtes de l'histoire principale, les quêtes de caractères et les nids de Patreon pour déverrouiller cette image de la galerie. "
+
+# game/Room_01_Ordi.rpy:677 #-#-# translate crowdin room01_ordi01_gallerychara_7b8a9f25:
+msgid " = NO DATAS = Continue Main Story quests, Character Quests and Patreon Quests to unlocks this gallery image. "
+msgstr " = NO DATAS = Continuer les quêtes de l'histoire principale, les quêtes de caractères et les nids de Patreon pour déverrouiller cette image de la galerie. "
+
+# game/Room_01_Ordi.rpy:685 #-#-# translate crowdin room01_ordi01_gallerychara_7b8a9f25_1:
+msgid " = NO DATAS = Continue Main Story quests, Character Quests and Patreon Quests to unlocks this gallery image. "
+msgstr " = NO DATAS = Continuer les quêtes de l'histoire principale, les quêtes de caractères et les nids de Patreon pour déverrouiller cette image de la galerie. "
+
+# game/Room_01_Ordi.rpy:693 #-#-# translate crowdin room01_ordi01_gallerychara_7b8a9f25_2:
+msgid " = NO DATAS = Continue Main Story quests, Character Quests and Patreon Quests to unlocks this gallery image. "
+msgstr " = NO DATAS = Continuer les quêtes de l'histoire principale, les quêtes de caractères et les nids de Patreon pour déverrouiller cette image de la galerie. "
+
+# game/Room_01_Ordi.rpy:701 #-#-# translate crowdin room01_ordi01_gallerychara_7b8a9f25_3:
+msgid " = NO DATAS = Continue Main Story quests, Character Quests and Patreon Quests to unlocks this gallery image. "
+msgstr " = NO DATAS = Continuer les quêtes de l'histoire principale, les quêtes de caractères et les nids de Patreon pour déverrouiller cette image de la galerie. "
+
+# game/Room_01_Ordi.rpy:709 #-#-# translate crowdin room01_ordi01_gallerychara_7b8a9f25_4:
+msgid " = NO DATAS = Continue Main Story quests, Character Quests and Patreon Quests to unlocks this gallery image. "
+msgstr " = NO DATAS = Continuer les quêtes de l'histoire principale, les quêtes de caractères et les nids de Patreon pour déverrouiller cette image de la galerie. "
+
+# game/Room_01_Ordi.rpy:717 #-#-# translate crowdin room01_ordi01_gallerychara_7b8a9f25_5:
+msgid " = NO DATAS = Continue Main Story quests, Character Quests and Patreon Quests to unlocks this gallery image. "
+msgstr " = NO DATAS = Continuer les quêtes de l'histoire principale, les quêtes de caractères et les nids de Patreon pour déverrouiller cette image de la galerie. "
+
+# game/Room_01_Ordi.rpy:725 #-#-# translate crowdin room01_ordi01_gallerychara_7b8a9f25_6:
+msgid " = NO DATAS = Continue Main Story quests, Character Quests and Patreon Quests to unlocks this gallery image. "
+msgstr " = NO DATAS = Continuer les quêtes de l'histoire principale, les quêtes de caractères et les nids de Patreon pour déverrouiller cette image de la galerie. "
+
+# game/Room_01_Ordi.rpy:733 #-#-# translate crowdin room01_ordi01_gallerychara_7b8a9f25_7:
+msgid " = NO DATAS = Continue Main Story quests, Character Quests and Patreon Quests to unlocks this gallery image. "
+msgstr " = NO DATAS = Continuer les quêtes de l'histoire principale, les quêtes de caractères et les nids de Patreon pour déverrouiller cette image de la galerie. "
+
+# game/Room_01_Ordi.rpy:741 #-#-# translate crowdin room01_ordi01_gallerychara_7b8a9f25_8:
+msgid " = NO DATAS = Continue Main Story quests, Character Quests and Patreon Quests to unlocks this gallery image. "
+msgstr " = NO DATAS = Continuer les quêtes de l'histoire principale, les quêtes de caractères et les nids de Patreon pour déverrouiller cette image de la galerie. "
+
+# game/Room_01_Ordi.rpy:749 #-#-# translate crowdin room01_ordi01_gallerychara_7b8a9f25_9:
+msgid " = NO DATAS = Continue Main Story quests, Character Quests and Patreon Quests to unlocks this gallery image. "
+msgstr " = NO DATAS = Continuer les quêtes de l'histoire principale, les quêtes de caractères et les nids de Patreon pour déverrouiller cette image de la galerie. "
+
+# game/Room_01_Ordi.rpy:795 #-#-# translate crowdin room01_ordi01_Cheats_72d2952c:
+msgid "Cheat codes are not activated. "
+msgstr "Les codes Cheat ne sont pas activés. "
+
+# game/Room_01_Ordi.rpy:800 #-#-# translate crowdin room01_ordi01_Cheats_72d2952c_1:
+msgid "Cheat codes are not activated. "
+msgstr "Les codes Cheat ne sont pas activés. "
+
+# game/Room_01_Ordi.rpy:805 #-#-# translate crowdin room01_ordi01_Cheats_72d2952c_2:
+msgid "Cheat codes are not activated. "
+msgstr "Les codes Cheat ne sont pas activés. "
+
+# game/Room_01_Ordi.rpy:810 #-#-# translate crowdin room01_ordi01_Cheats_72d2952c_3:
+msgid "Cheat codes are not activated. "
+msgstr "Les codes Cheat ne sont pas activés. "
+
+# game/Room_01_Ordi.rpy:815 #-#-# translate crowdin room01_ordi01_Cheats_72d2952c_4:
+msgid "Cheat codes are not activated. "
+msgstr "Les codes Cheat ne sont pas activés. "
+
+# game/Room_01_Ordi.rpy:822 #-#-# translate crowdin room01_ordi01_Cheats_e23c02e7:
+msgid "Cheat codes are available after entering a Patreon code. (Check out the {a=https://www.patreon.com/Salty01_NSFW}{color=#fc9c63}Patreon page{/color}{/a} to find it.) =="
+msgstr "Les codes de Cheat sont disponibles après avoir entré un code Patreon. (Consultez la page { a=https: //www.patreon.com/Salty01_NSFW } { color=#fc9c63} Patreon { /color } { /a } pour la trouver.) =="
+
+# game/Room_01_Ordi.rpy:827 #-#-# translate crowdin room01_ordi01_Cheats_a0257b10:
+msgid "== Cheat Codes: {color=#f2923c}ACTIVE{/color} =="
+msgstr "== Codes d'émission: { color=#f2923c} ACTIVE { /color } =="
+
+# game/Room_01_Ordi.rpy:854 #-#-# translate crowdin room01_ordi01_Cheats_67412914:
+msgid "You don't have any Cheat Points left. "
+msgstr "Vous n'avez plus aucun Cheat Points. "
+
+# game/Room_01_Ordi.rpy:860 #-#-# translate crowdin room01_ordi01_Cheats_eb9861b4:
+msgid "{color=#f2923c}== +800 Credits added! =={/color}"
+msgstr "{ color=#f2923c} == +800 Crédits ajoutés ! == { /color }"
+
+# game/Room_01_Ordi.rpy:867 #-#-# translate crowdin room01_ordi01_Cheats_67412914_1:
+msgid "You don't have any Cheat Points left. "
+msgstr "Vous n'avez plus aucun Cheat Points. "
+
+# game/Room_01_Ordi.rpy:873 #-#-# translate crowdin room01_ordi01_Cheats_c575b770:
+msgid "{color=#f2923c}== +25 Clothes Scraps added! =={/color}"
+msgstr "{ color=#f2923c} == +25 Vêtements Scraps ajoutés ! == { /color }"
+
+# game/Room_01_Ordi.rpy:880 #-#-# translate crowdin room01_ordi01_Cheats_67412914_2:
+msgid "You don't have any Cheat Points left. "
+msgstr "Vous n'avez plus aucun Cheat Points. "
+
+# game/Room_01_Ordi.rpy:886 #-#-# translate crowdin room01_ordi01_Cheats_2688da9b:
+msgid "{color=#f2923c}== +10 Clothes Data added! =={/color}"
+msgstr "{ color=#f2923c} == +10 Vêtements ajoutés ! == { /couleur }"
+
+# game/Room_01_Ordi.rpy:893 #-#-# translate crowdin room01_ordi01_Cheats_67412914_3:
+msgid "You don't have any Cheat Points left. "
+msgstr "Vous n'avez plus aucun Cheat Points. "
+
+# game/Room_01_Ordi.rpy:899 #-#-# translate crowdin room01_ordi01_Cheats_1291862e:
+msgid "{color=#f2923c}== +2 Character Data added! =={/color}"
+msgstr "{ color=#f2923c} == + 2 caractères de caractères ajoutés ! == { /color }"
+
+# game/Room_01_Ordi.rpy:911 #-#-# translate crowdin room01_ordi01_Cheats_75f93969:
+msgid "Your character's name is now {color=#a0fc86}[name]{/color}."
+msgstr "Le nom de votre caractère est maintenant { color=#a0fc86} [ nom ] { /color }."
+
+# game/Room_01_Ordi.rpy:917 #-#-# translate crowdin room01_ordi01_Cheats_67412914_4:
+msgid "You don't have any Cheat Points left. "
+msgstr "Vous n'avez plus aucun Cheat Points. "
+
+# game/Room_01_Ordi.rpy:926 #-#-# translate crowdin room01_ordi01_Cheats_75f93969_1:
+msgid "Your character's name is now {color=#a0fc86}[name]{/color}."
+msgstr "Le nom de votre caractère est maintenant { color=#a0fc86} [ nom ] { /color }."
+
+# §translate crowdin strings: #|#|# # game/Room_01_Ordi.rpy:28
+msgid "{color=#3ad8ff}= Go on the Computer ={/color}"
+msgstr "{ color=#3ad8ff} = Allez sur l'ordinateur = { /color }"
+
+# game/Room_01_Ordi.rpy:28
+msgid "= Call Tinker Bell ="
+msgstr "= Appelez Tinker Bell ="
+
+# game/Room_01_Ordi.rpy:28
+msgid "=Back to the office="
+msgstr "= Retour à l'office="
+
+# game/Room_01_Ordi.rpy:92
+msgid "== You have:{color=#a0fc86} [MONEY] Credits {/color}/{color=#3c96f2} [CLOTHEDATA] Clothes Data {/color}/{color=#f2923c} [CHARADATA] Character Datas {/color} /{color=#a0fc86} [ITEM_CLOTHESSCRAPS01] Clothes Scraps {/color} =="
+msgstr "== Vous avez: { color=#a0fc86} [ MONEY ] Crédits { /color } / { color=#3c96f2} [ CLOTHEDATA ] Clothes Data { /color } / { color=#f2923c} [ CHARADATA ] Datas { /color } / { color=#a0fc86} [ ITEM_CLOTHESSCRAPS01 ] Clothes Scraps { /color } =="
+
+# game/Room_01_Ordi.rpy:92
+msgid "{color=#3ad8ff}=STORE={/color}"
+msgstr "{ color=#3ad8ff} = STORE = { /color }"
+
+# game/Room_01_Ordi.rpy:92
+msgid "{color=#b4f08f}=Gallery={/color}"
+msgstr "{ color=#b4f08f} = Galerie = { /color }"
+
+# game/Room_01_Ordi.rpy:92
+msgid "{color=#ff9865}=Patreon Code={/color}"
+msgstr "{ color=#ff9865} = Code Patreon = { /color }"
+
+# game/Room_01_Ordi.rpy:92
+msgid "{color=#3ad8ff}=Room Customization={/color}"
+msgstr "{ color=#3ad8ff} = Personnalisation de la salle = { /color }"
+
+# game/Room_01_Ordi.rpy:92
+msgid "{color=#797979}=Cheats :OFF={/color}"
+msgstr "{ color=#797979} = Cheats :OFF = { /color }"
+
+# game/Room_01_Ordi.rpy:92
+msgid "{color=#797979}=Cheats :{color=#a0fc86}ON{/color}={/color}"
+msgstr "{ color=#797979} = Cheats: { color=#a0fc86} ON { /color } = { /color }"
+
+# game/Room_01_Ordi.rpy:92
+msgid "{color=#d743c7}LASTS CUSTOM{/color} "
+msgstr "{ color=#d743c7} LASTS CUSTOM { /color } "
+
+# game/Room_01_Ordi.rpy:92
+msgid "{color=#d743c7}ALL CUSTOM{/color} "
+msgstr "{ color=#d743c7} ALL CUSTOM { /color } "
+
+# game/Room_01_Ordi.rpy:92
+msgid "default office_01_customs_p06_04UNLOCK = False"
+msgstr "Default office_01_customs_p06_04UNLOCK = False"
+
+# game/Room_01_Ordi.rpy:289
+msgid "== You have:{color=#a0fc86} [MONEY] Credits {/color}/{color=#a0fc86} [IMAGEDATA] Image Datas {/color}/{color=#3c96f2} [CLOTHEDATA] Clothes Data {/color}/{color=#f2923c} [CHARADATA] Character Datas {/color} /{color=#a0fc86} [ITEM_CLOTHESSCRAPS01] Clothes Scraps {/color} =="
+msgstr "== Vous avez: { color=#a0fc86} [ MONEY ] Credits { /color } / { color=#a0fc86} [ IMAGEDATA ] Image Datas { /color } / { color=#3c96f2} [ CLOTHEDATA ] Clothes Data { /color } / { color=#f2923c} [ CHARADATA ] Character Datas { /color } / { color=#a0fc86} [ ITEM_CLOTHESSCRAPS01 ] Clothes Scraps { /color } =="
+
+# game/Room_01_Ordi.rpy:289
+msgid "$=1= Clothes Data {color=#a0fc86}(75c){/color}"
+msgstr "$= 1 = Données de vêtements { color=#a0fc86} (75c) { /color }"
+
+# game/Room_01_Ordi.rpy:289
+msgid "$=1= Character Data {color=#a0fc86}(505c){/color}"
+msgstr "$= 1 = Données de caractère { color=#a0fc86} (505c) { /color }"
+
+# game/Room_01_Ordi.rpy:289
+msgid "$=1= Drone Energy Boost 3AP (One-time use) {color=#a0fc86}(30c){/color}"
+msgstr "$= 1 = Drone Energy Boost 3AP (utilisation unique) { color=#a0fc86} (30c) { /color }"
+
+# game/Room_01_Ordi.rpy:289
+msgid "$=1= Drone Energy Boost 5AP (One-time use) {color=#a0fc86}(55c){/color}"
+msgstr "$= 1 = Drone Energy Boost 5AP (utilisation unique) { color=#a0fc86} (55c) { /color }"
+
+# game/Room_01_Ordi.rpy:289
+msgid "$=1= Clothes Scraps {color=#a0fc86}(20c){/color}"
+msgstr "$= 1 = Clothes Scraps { color=#a0fc86} (20c) { /color }"
+
+# game/Room_01_Ordi.rpy:371
+msgid "== You have:{color=#a0fc86} [MONEY] Credits {/color} =="
+msgstr "== Vous avez: { color=#a0fc86} [ MONEY ] Crédits { /color } =="
+
+# game/Room_01_Ordi.rpy:371
+msgid "$=1= Apple candy {color=#a0fc86}(30c){/color}"
+msgstr "$= 1 = Apple candy { color=#a0fc86} (30c) { /color }"
+
+# game/Room_01_Ordi.rpy:371
+msgid "$=1= Apple cider {color=#a0fc86}(50c){/color}"
+msgstr "$= 1 = cidre Apple { color=#a0fc86} (50c) { /color }"
+
+# game/Room_01_Ordi.rpy:371
+msgid "$=1= Apple basket {color=#a0fc86}(22c){/color}"
+msgstr "$= 1 = panier Apple { color=#a0fc86} (22c) { /color }"
+
+# game/Room_01_Ordi.rpy:371
+msgid "$=1= Cupid apples basket {color=#a0fc86}(36c){/color}"
+msgstr "$= 1 = Panier de pommes Cupid { color=#a0fc86} (36c) { /color }"
+
+# game/Room_01_Ordi.rpy:431
+msgid "$=1= Drone Energy Boost 5AP (One-time use) {color=#a0fc86}(51c){/color}"
+msgstr "$= 1 = Drone Energy Boost 5AP (utilisation unique) { color=#a0fc86} (51c) { /color }"
+
+# game/Room_01_Ordi.rpy:431
+msgid "$=1= Emergency Energy Cell (One-time use) {color=#a0fc86}(40c){/color}"
+msgstr "$= 1 = Cellule d'énergie d'urgence (utilisation unique) { color=#a0fc86} (40c) { /color }"
+
+# game/Room_01_Ordi.rpy:478
+msgid "$Office Coffee Machine {color=#a0fc86}(51c){/color}"
+msgstr "$Office Coffee Machine { color=#a0fc86} (51c) { /color }"
+
+# game/Room_01_Ordi.rpy:478
+msgid "$Office Orchid {color=#a0fc86}(42c){/color}"
+msgstr "$Office Orchid { color=#a0fc86} (42c) { /color }"
+
+# game/Room_01_Ordi.rpy:478
+msgid "$Office Lamp {color=#a0fc86}(35c){/color}"
+msgstr "$Office Lampe { color=#a0fc86} (35c) { /color }"
+
+# game/Room_01_Ordi.rpy:478
+msgid "$Office Folders {color=#a0fc86}(20c){/color}"
+msgstr "$Office Dossiers { color=#a0fc86} (20c) { /color }"
+
+# game/Room_01_Ordi.rpy:478
+msgid "$Office Carpet {color=#a0fc86}(30c){/color}"
+msgstr "$Office Carpet { color=#a0fc86} (30c) { /color }"
+
+# game/Room_01_Ordi.rpy:554
+msgid "{color=#b4f08f}={/color} {color=#ffc9a2}Quest images{/color} {color=#b4f08f}={/color}"
+msgstr "{ color=#b4f08f} = { /color } { color=#ffc9a2} images Quest { /color} { color=#b4f08f} = { /color }"
+
+# game/Room_01_Ordi.rpy:554
+msgid "{color=#b4f08f}={/color} {color=#da96ff}Character Affinity images{/color} {color=#b4f08f}={/color}"
+msgstr "{ color=#b4f08f} = { /color } { color=#da96ff} images d'affinité de caractères { /color } { color=#b4f08f} = { /color }"
+
+# game/Room_01_Ordi.rpy:567
+msgid " {color=#ffc9a2}(SPY_ORIENTAL_BATH){/color} "
+msgstr " {color=#ffc9a2}(SPY_ORIENTAL_BATH){/color} "
+
+# game/Room_01_Ordi.rpy:567
+msgid " {color=#ffc9a2}(SPY_ORIENTAL_BATH_02){/color} "
+msgstr " {color=#ffc9a2}(SPY_ORIENTAL_BATH_02){/color} "
+
+# game/Room_01_Ordi.rpy:567
+msgid " {color=#636363}(_LOCK_){/color} "
+msgstr " {color=#636363}(_LOCK_){/color} "
+
+# game/Room_01_Ordi.rpy:567
+msgid " {color=#ffc9a2}(ORIENTAL_KISS){/color} "
+msgstr " {color=#ffc9a2}(ORIENTAL_KISS){/color} "
+
+# game/Room_01_Ordi.rpy:567
+msgid " {color=#ffc9a2}(THE_SULTANA){/color} "
+msgstr " {color=#ffc9a2}(THE_SULTANA){/color} "
+
+# game/Room_01_Ordi.rpy:567
+msgid " {color=#ffc9a2}(QIU){/color} "
+msgstr " {color=#ffc9a2}(QIU){/color} "
+
+# game/Room_01_Ordi.rpy:567
+msgid " {color=#ffc9a2}(DE-PRINCESSING){/color} "
+msgstr " {color=#ffc9a2}(DE-PRINCESSING){/color} "
+
+# game/Room_01_Ordi.rpy:567
+msgid " {color=#ffc9a2}(PRINCESS_EMEE){/color} "
+msgstr " {color=#ffc9a2}(PRINCESS_EMEE){/color} "
+
+# game/Room_01_Ordi.rpy:567
+msgid " {color=#ffc9a2}(SUCCK){/color} "
+msgstr " {color=#ffc9a2}(SUCCK){/color} "
+
+# game/Room_01_Ordi.rpy:567
+msgid " {color=#ffc9a2}(THE FEATHER'S AGONY){/color} "
+msgstr " {color=#ffc9a2}(THE FEATHER'S AGONY){/color} "
+
+# game/Room_01_Ordi.rpy:567
+msgid " {color=#ffc9a2}(NOBLE BATH){/color} "
+msgstr " {color=#ffc9a2}(NOBLE BATH){/color} "
+
+# game/Room_01_Ordi.rpy:567
+msgid " {color=#ffc9a2}(THE GREAT UNICORN HORN){/color} "
+msgstr " {color=#ffc9a2}(THE GREAT UNICORN HORN){/color} "
+
+# game/Room_01_Ordi.rpy:664
+msgid " {color=#da96ff}(MELISSANDRE_01){/color} "
+msgstr " {color=#da96ff}(MELISSANDRE_01){/color} "
+
+# game/Room_01_Ordi.rpy:664
+msgid " {color=#da96ff}(EMEE_02){/color} "
+msgstr " {color=#da96ff}(EMEE_02){/color} "
+
+# game/Room_01_Ordi.rpy:664
+msgid " {color=#da96ff}(AMELIA_01){/color} "
+msgstr " {color=#da96ff}(AMELIA_01){/color} "
+
+# game/Room_01_Ordi.rpy:664
+msgid " {color=#da96ff}(TINKER_01){/color} "
+msgstr " {color=#da96ff}(TINKER_01){/color} "
+
+# game/Room_01_Ordi.rpy:664
+msgid " {color=#da96ff}(TINKER_02){/color} "
+msgstr " {color=#da96ff}(TINKER_02){/color} "
+
+# game/Room_01_Ordi.rpy:664
+msgid " {color=#da96ff}(TINKER_03){/color} "
+msgstr " {color=#da96ff}(TINKER_03){/color} "
+
+# game/Room_01_Ordi.rpy:664
+msgid " {color=#da96ff}(LYCORIS_01){/color} "
+msgstr " {color=#da96ff}(LYCORIS_01){/color} "
+
+# game/Room_01_Ordi.rpy:664
+msgid " {color=#da96ff}(LYCORIS_02){/color} "
+msgstr " {color=#da96ff}(LYCORIS_02){/color} "
+
+# game/Room_01_Ordi.rpy:664
+msgid " {color=#da96ff}(LYCORIS_03){/color} "
+msgstr " {color=#da96ff}(LYCORIS_03){/color} "
+
+# game/Room_01_Ordi.rpy:664
+msgid " {color=#da96ff}(SNOW_WHITE_01){/color} "
+msgstr " {color=#da96ff}(SNOW_WHITE_01){/color} "
+
+# game/Room_01_Ordi.rpy:664
+msgid " {color=#da96ff}(DJIN_01){/color} "
+msgstr " {color=#da96ff}(DJIN_01){/color} "
+
+# game/Room_01_Ordi.rpy:789
+msgid "== {color=#797979}Cheat codes are currently deactivated{/color} ==\n"
+"{size=20}== Cheat codes are available after entering a Patreon code. ({a=https://www.patreon.com/Salty01_NSFW}{color=#fc9c63}Patreon page here{/color}{/a}) =={/size} \n"
+"{size=20}== "
+msgstr "== { color=#797979} Les codes Cheat sont actuellement désactivés { /color } ==\n"
+"{ size=20 } == Les codes de Cheat sont disponibles après avoir entré un code Patreon. ({a=https: //www.patreon.com/Salty01_NSFW } { color=#fc9c63} page Patreon ici { /color } { /a }) == { /size } \n"
+"{ size=20 } == "
+
+# game/Room_01_Ordi.rpy:789
+msgid "== +800 Credits =="
+msgstr "== +800 Crédits =="
+
+# game/Room_01_Ordi.rpy:789
+msgid "{color=#797979}== +25 Clothes Scraps =={/color}"
+msgstr "{ color=#797979} == +25 Clothes Scraps == { /color }"
+
+# game/Room_01_Ordi.rpy:789
+msgid "{color=#797979}== +10 Clothes Data =={/color}"
+msgstr "{ color=#797979} == +10 Vêtements == { /couleur }"
+
+# game/Room_01_Ordi.rpy:789
+msgid "{color=#797979}== +2 Character Data =={/color}"
+msgstr "{ color=#797979} == + 2 Données caractères == { /color }"
+
+# game/Room_01_Ordi.rpy:789
+msgid "{color=#797979}== Change your name =={/color}"
+msgstr "{ color=#797979} == Modifier votre nom == { /color }"
+
+# game/Room_01_Ordi.rpy:789
+msgid "{color=#ff9865}Activate the cheat codes{/color} {image=heart07.png}"
+msgstr "{ color=#ff9865} Activez les codes de triche { /color } { image=heart07.png }"
+
+# game/Room_01_Ordi.rpy:789
+msgid "Disable cheat codes option (Recommended)"
+msgstr "Option Désactiver les codes d'aide (recommandé)"
+
+# game/Room_01_Ordi.rpy:831
+msgid "(This action is definitive)"
+msgstr "(Cette action est définitive)"
+
+# game/Room_01_Ordi.rpy:847
+msgid "{size=20}== {color=#797979}Cheat codes are currently{/color} {color=#f2923c}ACTIVE{/color} =={/size}\n"
+"== You have : {color=#a0fc86}[CHEATPOINTS]{/color} Cheat Points (CP) ==\n"
+"{size=20}== You have:{color=#a0fc86} [MONEY] Credits {/color}/{color=#a0fc86} [IMAGEDATA] Image Datas {/color}/{color=#3c96f2} [CLOTHEDATA] Clothes Data {/color}/{color=#f2923c} [CHARADATA] Character Datas {/color} =={/size}\n"
+"=="
+msgstr "{ size=20 } == { color=#797979} Les codes Cheat sont actuellement { /color } { color=#f2923c} ACTIVE { /color } == { /size }\n"
+"== Vous avez: { color=#a0fc86} [ CHEATPOINTS ] { /color } Cheat Points (CP) ==\n"
+"{ size=20 } == Vous avez: { color=#a0fc86} [ MONEY ] Crédits { /color } / { color=#a0fc86} [ IMAGEDATA ] Image Datas { /color } / { color=#3c96f2} [ CLOTHEDATA ] Clothes Data { /color } / { color=#f2923c} [ CHARADATA ] Character Datas { /color } == { /size }\n"
+"=="
+
+# game/Room_01_Ordi.rpy:847
+msgid "== +800 {color=#a0fc86}Credits{/color} == {color=#a0fc86}1CP{/color}"
+msgstr "== +800 { color=#a0fc86} Crédits { /color } == { color=#a0fc86} 1CP { /color }"
+
+# game/Room_01_Ordi.rpy:847
+msgid "== +25 Clothes Scraps == {color=#a0fc86}1CP{/color}"
+msgstr "== +25 Scraps de Clothes == { color=#a0fc86} 1CP { /couleur }"
+
+# game/Room_01_Ordi.rpy:847
+msgid "== +10 {color=#3c96f2}Clothes Data{/color} == {color=#a0fc86}1CP{/color}"
+msgstr "== +10 { color=#3c96f2} Vêtements { /color } == { color=#a0fc86} 1CP { /color }"
+
+# game/Room_01_Ordi.rpy:847
+msgid "== +2 {color=#f2923c}Character Data{/color} == {color=#a0fc86}1CP{/color}"
+msgstr "== + 2 { color=#f2923c} Données de caractères { /color } == { color=#a0fc86} 1CP { /color }"
+
+# game/Room_01_Ordi.rpy:847
+msgid "== Change your name == {color=#a0fc86}Free (One Time){/color}"
+msgstr "== Changer votre nom == { color=#a0fc86} Libre (One Time) { /color }"
+
+# game/Room_01_Ordi.rpy:847
+msgid "== Change your name == {color=#a0fc86}1CP{/color}"
+msgstr "== Changer votre nom == { color=#a0fc86} 1CP { /color }"
+

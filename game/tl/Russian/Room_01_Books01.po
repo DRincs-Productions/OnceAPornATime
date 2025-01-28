@@ -1,0 +1,130 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=4; plural=((n%10==1 && n%100!=11) ? 0 : ((n%10 >= 2 && n%10 <=4 && (n%100 < 12 || n%100 > 14)) ? 1 : ((n%10 == 0 || (n%10 >= 5 && n%10 <=9)) || (n%100 >= 11 && n%100 <= 14)) ? 2 : 3));\n"
+"X-Crowdin-Project: once-a-porn-a-time\n"
+"X-Crowdin-Project-ID: 651436\n"
+"X-Crowdin-Language: ru\n"
+"X-Crowdin-File: /main/game/tl/crowdin/Room_01_Books01.po\n"
+"X-Crowdin-File-ID: 12926\n"
+"Project-Id-Version: once-a-porn-a-time\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Russian\n"
+"Language: ru_RU\n"
+"PO-Revision-Date: 2024-03-17 16:13\n"
+
+# TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Room_01_Books01.rpy:27 #-#-# translate crowdin room01_books01_In_46239f59:
+msgid "You've already chosen a book for tonight."
+msgstr "Ты уже выбрал книгу на сегодня."
+
+# game/Room_01_Books01.rpy:31 #-#-# translate crowdin room01_books01_In_5d197fa6:
+msgid "You have other things to do during the day."
+msgstr "У тебя есть другие дела в течение дня."
+
+# game/Room_01_Books01.rpy:32 #-#-# translate crowdin room01_books01_In_96a71eeb:
+msgid "Wait until tonight to pick up a book."
+msgstr "Подождите до вечера, чтобы взять книгу."
+
+# game/Room_01_Books01.rpy:54 #-#-# translate crowdin room01_books01_In_0e790dc4:
+msgid "You've finished this book! "
+msgstr "Ты закончил эту книгу! "
+
+# game/Room_01_Books01.rpy:68 #-#-# translate crowdin room01_books01_In_0e790dc4_1:
+msgid "You've finished this book! "
+msgstr "Ты закончил эту книгу! "
+
+# game/Room_01_Books01.rpy:82 #-#-# translate crowdin room01_books01_In_0e790dc4_2:
+msgid "You've finished this book! "
+msgstr "Ты закончил эту книгу! "
+
+# game/Room_01_Books01.rpy:96 #-#-# translate crowdin room01_books01_In_0e790dc4_3:
+msgid "You've finished this book! "
+msgstr "Ты закончил эту книгу! "
+
+# game/Room_01_Books01.rpy:110 #-#-# translate crowdin room01_books01_In_0e790dc4_4:
+msgid "You've finished this book! "
+msgstr "Ты закончил эту книгу! "
+
+# game/Room_01_Books01.rpy:120 #-#-# translate crowdin room01_books01_ReadingSforI_41df3522:
+msgid "[_u_] I'll take this one!"
+msgstr "[_u_] Я возьму эту!"
+
+# §translate crowdin strings: #|#|# # game/Room_01_Books01.rpy:43
+msgid "Choose a book to read tonight."
+msgstr "Выберите книгу для чтения сегодня вечером."
+
+# game/Room_01_Books01.rpy:43
+msgid "Sewing For Idiots (I) {image=book02.png}{image=book01.png}{image=book01.png} "
+msgstr "Шитье для идиотов (I) {image=book02.png}{image=book01.png}{image=book01.png} "
+
+# game/Room_01_Books01.rpy:43
+msgid "Sewing For Idiots (I) {image=book02.png}{image=book02.png}{image=book01.png} "
+msgstr "Шитье для идиотов (I) {image=book02.png}{image=book02.png}{image=book01.png} "
+
+# game/Room_01_Books01.rpy:43
+msgid "Sewing For Idiots (I) {image=book02.png}{image=book02.png}{image=book02.png} "
+msgstr "Шитье для идиотов (I) {image=book02.png} {image=book02.png} {image=book02.png} "
+
+# game/Room_01_Books01.rpy:43
+msgid "Sewing For Idiots (II) {image=book01.png}{image=book01.png}{image=book01.png} "
+msgstr "Шитье для идиотов (II) {image=book01.png}{image=book01.png}{image=book01.png} "
+
+# game/Room_01_Books01.rpy:43
+msgid "Sewing For Idiots (II) {image=book02.png}{image=book01.png}{image=book01.png} "
+msgstr "Шитье для идиотов (II) {image=book02.png}{image=book01.png}{image=book01.png} "
+
+# game/Room_01_Books01.rpy:43
+msgid "Sewing For Idiots (II) {image=book02.png}{image=book02.png}{image=book01.png} "
+msgstr "Шитье для идиотов (II) {image=book02.png}{image=book02.png}{image=book01.png} "
+
+# game/Room_01_Books01.rpy:43
+msgid "Sewing For Idiots (II) {image=book02.png}{image=book02.png}{image=book02.png} "
+msgstr "Шитье для идиотов (II) {image=book02.png}{image=book02.png}{image=book02.png} "
+
+# game/Room_01_Books01.rpy:43
+msgid "20,000 Leagues Under the Sea {image=book01.png}{image=book01.png}{image=book01.png} "
+msgstr "20 000 лье под водой {image=book01.png}{image=book01.png}{image=book01.png} "
+
+# game/Room_01_Books01.rpy:43
+msgid "20,000 Leagues Under the Sea {image=book02.png}{image=book01.png}{image=book01.png} "
+msgstr "20 000 лье под водой {image=book02.png}{image=book01.png}{image=book01.png} "
+
+# game/Room_01_Books01.rpy:43
+msgid "20,000 Leagues Under the Sea {image=book02.png}{image=book02.png}{image=book01.png} "
+msgstr "20 000 лье под водой {image=book02.png}{image=book02.png}{image=book01.png} "
+
+# game/Room_01_Books01.rpy:43
+msgid "20,000 Leagues Under the Sea {image=book02.png}{image=book02.png}{image=book02.png} "
+msgstr "20 000 лье под водой {image=book02.png}{image=book02.png}{image=book02.png} "
+
+# game/Room_01_Books01.rpy:43
+msgid "Journey to the Center of the Earth {image=book01.png}{image=book01.png}{image=book01.png} "
+msgstr "Путешествие к центру Земли {image=book01.png}{image=book01.png}{image=book01.png} "
+
+# game/Room_01_Books01.rpy:43
+msgid "Journey to the Center of the Earth {image=book02.png}{image=book01.png}{image=book01.png} "
+msgstr "Путешествие к центру Земли {image=book02.png}{image=book01.png}{image=book01.png} "
+
+# game/Room_01_Books01.rpy:43
+msgid "Journey to the Center of the Earth {image=book02.png}{image=book02.png}{image=book01.png} "
+msgstr "Путешествие к центру Земли {image=book02.png}{image=book02.png}{image=book01.png} "
+
+# game/Room_01_Books01.rpy:43
+msgid "Journey to the Center of the Earth {image=book02.png}{image=book02.png}{image=book02.png} "
+msgstr "Путешествие к центру Земли {image=book02.png}{image=book02.png}{image=book02.png} "
+
+# game/Room_01_Books01.rpy:43
+msgid "ART BOOK (I) Happy little Trees {image=book01.png}{image=book01.png}{image=book01.png} "
+msgstr "КНИГА АРТОВ (I) Счастливые Маленькие Деревья {image=book01.png}{image=book01.png}{image=book01.png} "
+
+# game/Room_01_Books01.rpy:43
+msgid "ART BOOK (I) Happy little Trees {image=book02.png}{image=book01.png}{image=book01.png} "
+msgstr "КНИГА АРТОВ (I) Счастливые Маленькие Деревья {image=book02.png}{image=book01.png}{image=book01.png} "
+
+# game/Room_01_Books01.rpy:43
+msgid "ART BOOK (I) Happy little Trees {image=book02.png}{image=book02.png}{image=book01.png} "
+msgstr "КНИГА АРТОВ (I) Счастливые Маленькие Деревья {image=book02.png}{image=book02.png}{image=book01.png} "
+
+# game/Room_01_Books01.rpy:43
+msgid "ART BOOK (I) Happy little Trees {image=book02.png}{image=book02.png}{image=book02.png} "
+msgstr "КНИГА АРТОВ (I) Счастливые Маленькие Деревья {image=book02.png}{image=book02.png}{image=book02.png} "
+

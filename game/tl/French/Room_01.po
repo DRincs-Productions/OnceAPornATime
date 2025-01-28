@@ -1,0 +1,54 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Crowdin-Project: once-a-porn-a-time\n"
+"X-Crowdin-Project-ID: 651436\n"
+"X-Crowdin-Language: fr\n"
+"X-Crowdin-File: /main/game/tl/crowdin/Room_01.po\n"
+"X-Crowdin-File-ID: 12922\n"
+"Project-Id-Version: once-a-porn-a-time\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: French\n"
+"Language: fr_FR\n"
+"PO-Revision-Date: 2024-03-19 16:10\n"
+
+# TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Room_01.rpy:15 #-#-# translate crowdin ROOM_01_DAY_71a954ad:
+msgid "[_u_] I should clean up this mess until Tinker gets back."
+msgstr "[Je devrais nettoyer ce désordre jusqu'à ce que Tinker revienne."
+
+# game/Room_01.rpy:106 #-#-# translate crowdin room01_mail01_92caf0b8:
+msgid "You don't have any mail!"
+msgstr "Vous n'avez pas de courrier !"
+
+# game/Room_01.rpy:112 #-#-# translate crowdin room01_bed01_fe5414c1:
+msgid "[_u_] I've never seen this before... "
+msgstr "[Je n'ai jamais vu cela auparavant... "
+
+# game/Room_01.rpy:113 #-#-# translate crowdin room01_bed01_16a12ae9:
+msgid "[_u_] Is it... some kind of small keyboard? "
+msgstr "[Est-ce que c'est... une sorte de petit clavier ? "
+
+# game/Room_01.rpy:400 #-#-# translate crowdin IMAGE_ROOM01_s4_de38bc90:
+msgid "[_u_] Damn, this box mountain is huge."
+msgstr "[_u_] Bon sang, cette montagne de boîtes est énorme."
+
+# game/Room_01.rpy:401 #-#-# translate crowdin IMAGE_ROOM01_s4_ba1b2d53:
+msgid "[_u_] Let's try to remove all that. "
+msgstr "[Essayons de supprimer tout cela. "
+
+# §translate crowdin strings: #|#|# # game/Room_01.rpy:128
+msgid "$Go to your quarters"
+msgstr "$Go à vos quartiers"
+
+# game/Room_01.rpy:128
+msgid "$Sleep until the evening"
+msgstr "$Sleep jusqu'au soir"
+
+# game/Room_01.rpy:128
+msgid "$Go to sleep"
+msgstr "$Go dormir"
+
+# game/Room_01.rpy:128
+msgid "$Continue the day"
+msgstr "$Continue le jour"
+

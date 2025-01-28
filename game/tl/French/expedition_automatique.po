@@ -1,0 +1,70 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Crowdin-Project: once-a-porn-a-time\n"
+"X-Crowdin-Project-ID: 651436\n"
+"X-Crowdin-Language: fr\n"
+"X-Crowdin-File: /main/game/tl/crowdin/expedition_automatique.po\n"
+"X-Crowdin-File-ID: 12954\n"
+"Project-Id-Version: once-a-porn-a-time\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: French\n"
+"Language: fr_FR\n"
+"PO-Revision-Date: 2024-03-19 17:20\n"
+
+# TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/expedition_automatique.rpy:107 #-#-# translate crowdin Drone01_Panel_9ea2f78c:
+msgid " "
+msgstr ""
+
+# game/expedition_automatique.rpy:229 #-#-# translate crowdin Drone01_ChoicePanel_b1e9a2b8:
+msgid " ==ERROR== You don't have enough money. "
+msgstr " ==ERREUR== Vous n'avez pas assez d'argent. "
+
+# game/expedition_automatique.rpy:240 #-#-# translate crowdin Drone01_ChoicePanel_b1e9a2b8_1:
+msgid " ==ERROR== You don't have enough money. "
+msgstr " ==ERREUR== Vous n'avez pas assez d'argent. "
+
+# game/expedition_automatique.rpy:304 #-#-# translate crowdin Drone01_Recall_9ea2f78c:
+msgid " "
+msgstr ""
+
+# game/expedition_automatique.rpy:307 #-#-# translate crowdin Drone01_Recall_9ea2f78c_1:
+msgid " "
+msgstr ""
+
+# §translate crowdin strings: #|#|# # game/expedition_automatique.rpy:225
+msgid "Fix the Drone {color=#a0fc86}(35c){/color}"
+msgstr "Corrigez le Drone { color=#a0fc86} (35c) { /color }"
+
+# game/expedition_automatique.rpy:225
+msgid "RESURECTION {color=#a0fc86}(55c){/color}"
+msgstr "RESURECTION { color=#a0fc86} (55c) { /color }"
+
+# game/expedition_automatique.rpy:225
+msgid "Send Drone"
+msgstr "Envoi de la première"
+
+# game/expedition_automatique.rpy:225
+msgid "Recall"
+msgstr "Rappel"
+
+# game/expedition_automatique.rpy:225
+msgid " =Back to the office= "
+msgstr " = Retour à l'office= "
+
+# game/expedition_automatique.rpy:447
+msgid "Drone01 // Default Drone"
+msgstr "Drone01 // Drone par défaut"
+
+# game/expedition_automatique.rpy:447
+msgid "Drone02 // Petal"
+msgstr "Drone02 // Petal"
+
+# game/expedition_automatique.rpy:447
+msgid "Drone03 // GunPowder"
+msgstr "Drone03 // GunPowder"
+
+# game/expedition_automatique.rpy:447
+msgid "Drone04 // Cupidity "
+msgstr "Drone04 // Cupidité "
+

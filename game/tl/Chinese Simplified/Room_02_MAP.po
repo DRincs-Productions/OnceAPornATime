@@ -1,0 +1,130 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: once-a-porn-a-time\n"
+"X-Crowdin-Project-ID: 651436\n"
+"X-Crowdin-Language: zh-CN\n"
+"X-Crowdin-File: /main/game/tl/crowdin/Room_02_MAP.po\n"
+"X-Crowdin-File-ID: 12938\n"
+"Project-Id-Version: once-a-porn-a-time\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Chinese Simplified\n"
+"Language: zh_CN\n"
+"PO-Revision-Date: 2024-03-26 16:04\n"
+
+# TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Room_02_MAP.rpy:13 #-#-# translate crowdin Room_02_MAP_e8b9ebe7:
+msgid "[_u_] I need to find out where the others are first."
+msgstr "[_u_] 我需要先找出其他人在哪。"
+
+# game/Room_02_MAP.rpy:17 #-#-# translate crowdin Room_02_MAP_28740bba:
+msgid "[_u_] Useless for the moment."
+msgstr "[_u_] 暂时没用。"
+
+# game/Room_02_MAP.rpy:65 #-#-# translate crowdin MAP_01_OrientalCapital_b70ca43c:
+msgid " You have already visited this character today "
+msgstr " 你今天已经拜访过这个角色了 "
+
+# game/Room_02_MAP.rpy:71 #-#-# translate crowdin MAP_01_OrientalCapital_00220254:
+msgid "You must create the character first"
+msgstr "你必须先创造角色"
+
+# game/Room_02_MAP.rpy:74 #-#-# translate crowdin MAP_01_OrientalCapital_4b365400:
+msgid "The character is currently unavailable. "
+msgstr "这个角色目前不可用。 "
+
+# game/Room_02_MAP.rpy:79 #-#-# translate crowdin MAP_01_OrientalCapital_b70ca43c_1:
+msgid " You have already visited this character today "
+msgstr " 你今天已经拜访过这个角色了 "
+
+# game/Room_02_MAP.rpy:90 #-#-# translate crowdin MAP_01_OrientalCapital_b70ca43c_2:
+msgid " You have already visited this character today "
+msgstr " 你今天已经拜访过这个角色了 "
+
+# game/Room_02_MAP.rpy:100 #-#-# translate crowdin MAP_01_MagicForest_f81ea75f:
+msgid "Not available now"
+msgstr "现在不可用"
+
+# game/Room_02_MAP.rpy:133 #-#-# translate crowdin MAP_01_SnowPoint_a932a597:
+msgid "You need to find Em-AI before visiting other characters."
+msgstr "在拜访其他角色之前，你需要先找到埃-AI。"
+
+# game/Room_02_MAP.rpy:136 #-#-# translate crowdin MAP_01_SnowPoint_7583d9a6:
+msgid "You need to see Emee first."
+msgstr "你需要先去见下埃梅。"
+
+# game/Room_02_MAP.rpy:139 #-#-# translate crowdin MAP_01_SnowPoint_283b3476:
+msgid "Go see Em-AI."
+msgstr "去见下埃-AI。"
+
+# game/Room_02_MAP.rpy:142 #-#-# translate crowdin MAP_01_SnowPoint_d0d1b6d1:
+msgid "[_u_] I need to find a blank character data with my drone first."
+msgstr "[_u_] 我需要先用我的无人机找到空白的角色数据。"
+
+# game/Room_02_MAP.rpy:150 #-#-# translate crowdin MAP_01_SnowPoint_b70ca43c:
+msgid " You have already visited this character today "
+msgstr " 你今天已经拜访过这个角色了 "
+
+# game/Room_02_MAP.rpy:154 #-#-# translate crowdin MAP_01_SnowPoint_ee5619f2:
+msgid "You need to create Elsa first."
+msgstr "你需要先创建艾莎。"
+
+# game/Room_02_MAP.rpy:160 #-#-# translate crowdin MAP_01_SnowPoint_b70ca43c_1:
+msgid " You have already visited this character today "
+msgstr " 你今天已经拜访过这个角色了 "
+
+# game/Room_02_MAP.rpy:170 #-#-# translate crowdin MAP_01_SnowPoint_f81ea75f:
+msgid "Not available now"
+msgstr "现在不可用"
+
+# game/Room_02_MAP.rpy:173 #-#-# translate crowdin MAP_01_SnowPoint_f81ea75f_1:
+msgid "Not available now"
+msgstr "现在不可用"
+
+# game/Room_02_MAP.rpy:178 #-#-# translate crowdin MAP_01_MOON_f81ea75f:
+msgid "Not available now"
+msgstr "现在不可用"
+
+# §translate crowdin strings: #|#|# # game/Room_02_MAP.rpy:59
+msgid "$Ali-baba's cave"
+msgstr "$阿里巴巴的洞穴"
+
+# game/Room_02_MAP.rpy:59
+msgid "$Jasmine's room"
+msgstr "$茉莉的房间"
+
+# game/Room_02_MAP.rpy:59
+msgid "$Djin"
+msgstr "$神灵"
+
+# game/Room_02_MAP.rpy:59
+msgid "$Sherazade's Place"
+msgstr "$山鲁佐德的家"
+
+# game/Room_02_MAP.rpy:104
+msgid "$Snow White"
+msgstr "$白雪公主"
+
+# game/Room_02_MAP.rpy:104
+msgid "$Near the High Tower of Rosette"
+msgstr "$玫瑰高塔附近"
+
+# game/Room_02_MAP.rpy:104
+msgid "$Outpost 23"
+msgstr "$23号哨站"
+
+# game/Room_02_MAP.rpy:120
+msgid "$Cancel the travel"
+msgstr "$取消旅行"
+
+# game/Room_02_MAP.rpy:130
+msgid "$Anna"
+msgstr "$安娜"
+
+# game/Room_02_MAP.rpy:130
+msgid "$Queen Elsa"
+msgstr "$艾莎女王"
+
+# game/Room_02_MAP.rpy:130
+msgid "${color=#3ad8ff}Outpost 16{/color}"
+msgstr "${color=#3ad8ff}16号哨站{/color}"
+

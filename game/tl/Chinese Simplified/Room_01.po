@@ -1,0 +1,54 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: once-a-porn-a-time\n"
+"X-Crowdin-Project-ID: 651436\n"
+"X-Crowdin-Language: zh-CN\n"
+"X-Crowdin-File: /main/game/tl/crowdin/Room_01.po\n"
+"X-Crowdin-File-ID: 12922\n"
+"Project-Id-Version: once-a-porn-a-time\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Chinese Simplified\n"
+"Language: zh_CN\n"
+"PO-Revision-Date: 2024-03-18 04:18\n"
+
+# TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Room_01.rpy:15 #-#-# translate crowdin ROOM_01_DAY_71a954ad:
+msgid "[_u_] I should clean up this mess until Tinker gets back."
+msgstr "[_u_] 我应该在小叮当回来之前，把这里的烂摊子给收拾干净。"
+
+# game/Room_01.rpy:106 #-#-# translate crowdin room01_mail01_92caf0b8:
+msgid "You don't have any mail!"
+msgstr "你没有收到任何邮件！"
+
+# game/Room_01.rpy:112 #-#-# translate crowdin room01_bed01_fe5414c1:
+msgid "[_u_] I've never seen this before... "
+msgstr "[_u_] 我以前从没见过这个... "
+
+# game/Room_01.rpy:113 #-#-# translate crowdin room01_bed01_16a12ae9:
+msgid "[_u_] Is it... some kind of small keyboard? "
+msgstr "[_u_] 这是... 某种小键盘吗？ "
+
+# game/Room_01.rpy:400 #-#-# translate crowdin IMAGE_ROOM01_s4_de38bc90:
+msgid "[_u_] Damn, this box mountain is huge."
+msgstr "[_u_] 我靠，这座盒子山可真大啊。"
+
+# game/Room_01.rpy:401 #-#-# translate crowdin IMAGE_ROOM01_s4_ba1b2d53:
+msgid "[_u_] Let's try to remove all that. "
+msgstr "[_u_] 让我试试能不能把它们移开吧。 "
+
+# §translate crowdin strings: #|#|# # game/Room_01.rpy:128
+msgid "$Go to your quarters"
+msgstr "$回到你的宿舍"
+
+# game/Room_01.rpy:128
+msgid "$Sleep until the evening"
+msgstr "$一觉睡到晚上"
+
+# game/Room_01.rpy:128
+msgid "$Go to sleep"
+msgstr "$去睡觉"
+
+# game/Room_01.rpy:128
+msgid "$Continue the day"
+msgstr "$继续过这一天"
+

@@ -1,0 +1,510 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: once-a-porn-a-time\n"
+"X-Crowdin-Project-ID: 651436\n"
+"X-Crowdin-Language: zh-CN\n"
+"X-Crowdin-File: /main/game/tl/crowdin/screens.po\n"
+"X-Crowdin-File-ID: 12962\n"
+"Project-Id-Version: once-a-porn-a-time\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Chinese Simplified\n"
+"Language: zh_CN\n"
+"PO-Revision-Date: 2024-03-03 09:36\n"
+
+# TODO: Translation updated at 2024-02-22 14:14 #|#|# # §translate crowdin strings: #|#|# # game/screens.rpy:256
+msgid "Back"
+msgstr "返回"
+
+# game/screens.rpy:257
+msgid "History"
+msgstr "历史"
+
+# game/screens.rpy:258
+msgid "Skip"
+msgstr "跳过"
+
+# game/screens.rpy:259
+msgid "Auto"
+msgstr "自动"
+
+# game/screens.rpy:260
+msgid "Save"
+msgstr "保存"
+
+# game/screens.rpy:261
+msgid "Q.Save"
+msgstr "快速保存"
+
+# game/screens.rpy:262
+msgid "Q.Load"
+msgstr "快速读取"
+
+# game/screens.rpy:263
+msgid "Prefs"
+msgstr "偏好"
+
+# game/screens.rpy:304
+msgid "Version [config.version!t]\n"
+msgstr "版本 [config.version!t]\n"
+
+# game/screens.rpy:311
+msgid "Conçu avec {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n"
+"[renpy.license!t]"
+msgstr "由 {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only]制作。\n\n"
+"[renpy.license!t]"
+
+# game/screens.rpy:315
+msgid "ICI CE TROUVE L'INVENTAIRE"
+msgstr "在此可以找到库"
+
+# game/screens.rpy:316
+msgid "Retour"
+msgstr "返回"
+
+# game/screens.rpy:363
+msgid "ChangeLog"
+msgstr "更新日志"
+
+# game/screens.rpy:375
+msgid "Start"
+msgstr "开始"
+
+# game/screens.rpy:386
+msgid "Load"
+msgstr "读取"
+
+# game/screens.rpy:388
+msgid "Preferences"
+msgstr "偏好"
+
+# game/screens.rpy:392
+msgid "End Replay"
+msgstr "结束回放"
+
+# game/screens.rpy:396
+msgid "Main Menu"
+msgstr "主菜单"
+
+# game/screens.rpy:398
+msgid "About"
+msgstr "关于"
+
+# game/screens.rpy:403
+msgid "Help"
+msgstr "帮助"
+
+# game/screens.rpy:406
+msgid "Quit"
+msgstr "离开"
+
+# game/screens.rpy:408
+msgid "PATREON"
+msgstr "PATREON"
+
+# game/screens.rpy:412
+msgid "{color=#5b6568}{size=-10}^Check for Updates!^{/size}{/color}"
+msgstr "{color=#5b6568}{size=-10}^检查更新！^{/size}{/color}"
+
+# game/screens.rpy:580
+msgid "Return"
+msgstr "返回"
+
+# game/screens.rpy:670
+msgid "Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n"
+"[renpy.license!t]"
+msgstr "由 {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only]制作。\n\n"
+"[renpy.license!t]"
+
+# game/screens.rpy:675
+msgid "Thanks to all beta testers <3 "
+msgstr "感谢所有测试人员 <3 "
+
+# game/screens.rpy:677
+msgid "Special Thanks to Kevin MacLeod for some of the musics : https://incompetech.filmmusic.io/ "
+msgstr "特别感谢Kevin MacLeod做的一些无版权音乐 : https://incompetech.filmmusic.io/ "
+
+# game/screens.rpy:679
+msgid "A big kiss to Pachi for the help with the english translation! "
+msgstr "要给Pachi一个大大的吻，感谢他帮忙把游戏翻译成英语！ "
+
+# game/screens.rpy:722
+msgid "Page {}"
+msgstr "页面 {}"
+
+# game/screens.rpy:722
+msgid "Automatic saves"
+msgstr "自动存档"
+
+# game/screens.rpy:722
+msgid "Quick saves"
+msgstr "快速存档"
+
+# game/screens.rpy:764
+msgid "{#file_time}%A, %B %d %Y, %H:%M"
+msgstr "{#file_time}%A, %B %d %Y, %H:%M"
+
+# game/screens.rpy:764
+msgid "empty slot"
+msgstr "空存档"
+
+# game/screens.rpy:781
+msgid "<"
+msgstr "<"
+
+# game/screens.rpy:784
+msgid "{#auto_page}A"
+msgstr "{#auto_page}自动"
+
+# game/screens.rpy:787
+msgid "{#quick_page}Q"
+msgstr "{#quick_page}快速"
+
+# game/screens.rpy:793
+msgid ">"
+msgstr ">"
+
+# game/screens.rpy:850
+msgid "Display"
+msgstr "显示"
+
+# game/screens.rpy:851
+msgid "Window"
+msgstr "窗口"
+
+# game/screens.rpy:852
+msgid "Fullscreen"
+msgstr "全屏"
+
+# game/screens.rpy:860
+msgid "Rollback Side"
+msgstr "回滚一侧"
+
+# game/screens.rpy:861
+msgid "Disable"
+msgstr "禁用"
+
+# game/screens.rpy:862
+msgid "Left"
+msgstr "左侧"
+
+# game/screens.rpy:863
+msgid "Right"
+msgstr "右侧"
+
+# game/screens.rpy:868
+msgid "Unseen Text"
+msgstr "未读文本"
+
+# game/screens.rpy:869
+msgid "After Choices"
+msgstr "之后的选项"
+
+# game/screens.rpy:870
+msgid "Transitions"
+msgstr "转场"
+
+# game/screens.rpy:894
+msgid "Text Speed"
+msgstr "文本速度"
+
+# game/screens.rpy:898
+msgid "Auto-Forward Time"
+msgstr "自动推进时间"
+
+# game/screens.rpy:905
+msgid "Music Volume"
+msgstr "音乐音量"
+
+# game/screens.rpy:912
+msgid "Sound Volume"
+msgstr "音效音量"
+
+# game/screens.rpy:918
+msgid "Test"
+msgstr "测试"
+
+# game/screens.rpy:922
+msgid "Voice Volume"
+msgstr "语音音量"
+
+# game/screens.rpy:933
+msgid "Mute All"
+msgstr "全部静音"
+
+# game/screens.rpy:1052
+msgid "The dialogue history is empty."
+msgstr "对话历史记录为空。"
+
+# game/screens.rpy:1122
+msgid "Keyboard"
+msgstr "键盘"
+
+# game/screens.rpy:1123
+msgid "Mouse"
+msgstr "鼠标"
+
+# game/screens.rpy:1126
+msgid "Gamepad"
+msgstr "手柄"
+
+# game/screens.rpy:1139
+msgid "Enter"
+msgstr "回车"
+
+# game/screens.rpy:1140
+msgid "Advances dialogue and activates the interface."
+msgstr "推进对话和打开界面。"
+
+# game/screens.rpy:1143
+msgid "Space"
+msgstr "空格"
+
+# game/screens.rpy:1144
+msgid "Advances dialogue without selecting choices."
+msgstr "在不选择选项的情况下推进对话。"
+
+# game/screens.rpy:1147
+msgid "Arrow Keys"
+msgstr "方向键"
+
+# game/screens.rpy:1148
+msgid "Navigate the interface."
+msgstr "导航界面。"
+
+# game/screens.rpy:1151
+msgid "Escape"
+msgstr "Esc键"
+
+# game/screens.rpy:1152
+msgid "Accesses the game menu."
+msgstr "打开游戏菜单。"
+
+# game/screens.rpy:1155
+msgid "Ctrl"
+msgstr "Ctrl"
+
+# game/screens.rpy:1156
+msgid "Skips dialogue while held down."
+msgstr "摁住此键时跳过对话。"
+
+# game/screens.rpy:1159
+msgid "Tab"
+msgstr "Tab"
+
+# game/screens.rpy:1160
+msgid "Toggles dialogue skipping."
+msgstr "按住Tab切换键可跳过对话。"
+
+# game/screens.rpy:1163
+msgid "Page Up"
+msgstr "向上翻页"
+
+# game/screens.rpy:1164
+msgid "Rolls back to earlier dialogue."
+msgstr "回滚到之前的对话。"
+
+# game/screens.rpy:1167
+msgid "Page Down"
+msgstr "向下翻页"
+
+# game/screens.rpy:1168
+msgid "Rolls forward to later dialogue."
+msgstr "回滚到之后的对话。"
+
+# game/screens.rpy:1172
+msgid "Hides the user interface."
+msgstr "隐藏用户界面。"
+
+# game/screens.rpy:1176
+msgid "Takes a screenshot."
+msgstr "截屏。"
+
+# game/screens.rpy:1180
+msgid "Toggles assistive {a=https://www.renpy.org/l/voicing}self-voicing{/a}."
+msgstr "切换无障碍{a=https://www.renpy.org/l/voicing}自动语音{/a}。"
+
+# game/screens.rpy:1186
+msgid "Left Click"
+msgstr "鼠标左键"
+
+# game/screens.rpy:1190
+msgid "Middle Click"
+msgstr "鼠标中键"
+
+# game/screens.rpy:1194
+msgid "Right Click"
+msgstr "鼠标右键"
+
+# game/screens.rpy:1198
+msgid "Mouse Wheel Up\n"
+"Click Rollback Side"
+msgstr "鼠标滚轮向上滚动\n"
+"在回滚那侧点击"
+
+# game/screens.rpy:1202
+msgid "Mouse Wheel Down"
+msgstr "鼠标滚轮向下滚动"
+
+# game/screens.rpy:1209
+msgid "Right Trigger\n"
+"A/Bottom Button"
+msgstr "右扳机键\n"
+"A/底部按键"
+
+# game/screens.rpy:1213
+msgid "Left Trigger\n"
+"Left Shoulder"
+msgstr "左扳机键\n"
+"左肩键"
+
+# game/screens.rpy:1217
+msgid "Right Shoulder"
+msgstr "右肩键"
+
+# game/screens.rpy:1222
+msgid "D-Pad, Sticks"
+msgstr "十字方向键，摇杆"
+
+# game/screens.rpy:1226
+msgid "Start, Guide"
+msgstr "开始，导航键"
+
+# game/screens.rpy:1230
+msgid "Y/Top Button"
+msgstr "Y/顶部按键"
+
+# game/screens.rpy:1233
+msgid "Calibrate"
+msgstr "校准"
+
+# game/screens.rpy:1298
+msgid "Yes"
+msgstr "是的"
+
+# game/screens.rpy:1299
+msgid "No"
+msgstr "不是"
+
+# game/screens.rpy:1345
+msgid "Skipping"
+msgstr "跳过中"
+
+# game/screens.rpy:1568
+msgid "Menu"
+msgstr "菜单"
+
+# game/screens.rpy:1662
+msgid "Developer Menu"
+msgstr "开发者菜单"
+
+# game/screens.rpy:1667
+msgid "Interactive Director (D)"
+msgstr "互动式编导器 (D)"
+
+# game/screens.rpy:1669
+msgid "Reload Game (Shift+R)"
+msgstr "重新载入游戏 (Shift+R)"
+
+# game/screens.rpy:1671
+msgid "Console (Shift+O)"
+msgstr "控制台 (Shift+O)"
+
+# game/screens.rpy:1673
+msgid "Variable Viewer"
+msgstr "变量查看器"
+
+# game/screens.rpy:1675
+msgid "Image Location Picker"
+msgstr "图像位置选择器"
+
+# game/screens.rpy:1677
+msgid "Filename List"
+msgstr "文件名列表"
+
+# game/screens.rpy:1681
+msgid "Show Image Load Log (F4)"
+msgstr "显示图像加载日志(F4)"
+
+# game/screens.rpy:1684
+msgid "Hide Image Load Log (F4)"
+msgstr "隐藏图像加载日志(F4)"
+
+# game/screens.rpy:1687
+msgid "Image Attributes"
+msgstr "图像属性"
+
+# game/screens.rpy:1714
+msgid "[name] [attributes] (hidden)"
+msgstr "[name] [attributes] (隐藏)"
+
+# game/screens.rpy:1718
+msgid "[name] [attributes]"
+msgstr "[name] [attributes]"
+
+# game/screens.rpy:1767
+msgid "Nothing to inspect."
+msgstr "无需检查。"
+
+# game/screens.rpy:1778
+msgid "Hide deleted"
+msgstr "隐藏的已删除"
+
+# game/screens.rpy:1778
+msgid "Show deleted"
+msgstr "显示的已删除"
+
+# game/screens.rpy:1902
+msgid "Return to the developer menu"
+msgstr "返回到开发者菜单"
+
+# game/screens.rpy:2067
+msgid "Rectangle: %r"
+msgstr "Rectangle: %r"
+
+# game/screens.rpy:2072
+msgid "Mouse position: %r"
+msgstr "鼠标位置: %r"
+
+# game/screens.rpy:2077
+msgid "Right-click or escape to quit."
+msgstr "单击右键或按Esc键退出。"
+
+# game/screens.rpy:2109
+msgid "Rectangle copied to clipboard."
+msgstr "Rectangle已复制到剪贴板。"
+
+# game/screens.rpy:2112
+msgid "Position copied to clipboard."
+msgstr "位置已复制到剪贴板。"
+
+# game/screens.rpy:2130
+msgid "Type to filter: "
+msgstr "输入筛选条件: "
+
+# game/screens.rpy:2255
+msgid "Textures: [tex_count] ([tex_size_mb:.1f] MB)"
+msgstr "纹理: [tex_count] ([tex_size_mb:.1f] MB)"
+
+# game/screens.rpy:2259
+msgid "Image cache: [cache_pct:.1f]% ([cache_size_mb:.1f] MB)"
+msgstr "图像缓存: [cache_pct:.1f]% ([cache_size_mb:.1f] MB)"
+
+# game/screens.rpy:2269
+msgid "✔ "
+msgstr "✔ "
+
+# game/screens.rpy:2272
+msgid "✘ "
+msgstr "✘ "
+
+# game/screens.rpy:2277
+msgid "\n"
+"{color=#cfc}✔ predicted image (good){/color}\n"
+"{color=#fcc}✘ unpredicted image (bad){/color}\n"
+"{color=#fff}Drag to move.{/color}"
+msgstr "\n"
+"{color=#cfc}✔ 预测图像 (好){/color}\n"
+"{color=#fcc}✘ 未预测图像 (坏){/color}\n"
+"{color=#fff}拖拽移动。{/color}"
+
