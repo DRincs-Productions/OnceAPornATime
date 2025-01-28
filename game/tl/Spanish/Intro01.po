@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-12-06 00:09\n"
+"PO-Revision-Date: 2025-01-28 22:53\n"
 
 # TODO: Translation updated at 2024-02-22 14:14 #|#|# # game/Intro01.rpy:64 #-#-# translate crowdin Intro01_93eeba4f:
 msgid "[_tb_] Greetings!"
@@ -234,7 +234,7 @@ msgstr "[Lo pensaré. "
 
 # game/Intro01.rpy:235 #-#-# translate crowdin Intro01_9cba9302:
 msgid "[_tb_] Mh."
-msgstr ""
+msgstr "[_tb_] Mh."
 
 # game/Intro01.rpy:242 #-#-# translate crowdin Intro01_ab7ab62c:
 msgid "[_tb_] Anyway, One month ago..."
